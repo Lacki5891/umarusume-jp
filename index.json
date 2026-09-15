@@ -24,16 +24,6 @@
       "size": 151171
     },
     {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/го.PNG",
-      "hash": "2d418ba1a42a1af03b31a4404d78fe41aeefa34a15e5dd57dbda5a85453ba6e1",
-      "size": 151488
-    },
-    {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/зж.PNG",
-      "hash": "4f893098c0a5a4cffca1b8c16c4b29886637c147a33560c32578d52e807dea4b",
-      "size": 151359
-    },
-    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_icon_new00/tx_uTex_fl_gacha_icon_new00_0.png",
       "hash": "783adcc0ba528b2ce7aaa8bb619b529b3671444a33c6099fa3ecff64119d18bc",
       "size": 147395
@@ -49,7 +39,7 @@
       "size": 629921
     },
     {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_race_result_rank00/tx_uTex_fl_race_result_rankа00_0.png",
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_race_result_rank00/tx_uTex_fl_race_result_ran00_0.png",
       "hash": "4175649425eaf27da04555a532b7540b14b3a75dc5280ff9aa4c77dd7a28066b",
       "size": 511689
     },
@@ -122,11 +112,6 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_icon_motivation00/tx_uTex_fl_singlemode_icon_motivation00_0.png",
       "hash": "0274ec59467c1072ded0991945ad87b38a81125e4b89cb8bf551bc8ac1e411ed",
       "size": 85506
-    },
-    {
-      "path": "assets/atlas/common/co1mmon — копия.png",
-      "hash": "61216254495ecc08ef775ffeeb850fa228a43b5830c101d1bebf61b7d1403dd3",
-      "size": 2711140
     },
     {
       "path": "assets/atlas/common/co1mmon.png",
@@ -39900,8 +39885,8 @@
     },
     {
       "path": "config.json",
-      "hash": "23bf8e340b3faaa986ff031f8df8a9f1250cab886947df67f7d92e1e3e1135f5",
-      "size": 1663
+      "hash": "eea8c7700d590cd1a4348ff6b2aafc977f0f5a2fdf3a48d50fbc9a73d9f8399b",
+      "size": 1662
     },
     {
       "path": "gen_index.py",
