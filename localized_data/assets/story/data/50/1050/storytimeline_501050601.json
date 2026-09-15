@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I may have lost last time... But this one\nI'll win for\nsure!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "That's the spirit."
+            ]
+        },
+        {
+            "text": "Of course. I'm not giving anyone the\nchance to\nlook down on me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'll put on an amazing display, take first\nplace...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And show them all I can do it!",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

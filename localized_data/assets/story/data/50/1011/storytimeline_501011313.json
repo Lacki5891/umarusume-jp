@@ -1,0 +1,250 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Incredible! Грасс Вандер finishes in the\nlead!\nOvertaking everything, she stands\natop this\nbattle of the century!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! I...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Congratulations on getting first place, Grass!"
+            ]
+        },
+        {
+            "text": "...Thank you!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh... Hehe. What should I say? I should\nhave\nstudied more Japanese for this\nmoment.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Though even if I had, I doubt I could\nfind the\nwords to express what I'm\nfeeling right now.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "This exhilaration is indescribable!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...I lost.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Suzuka...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I want to thank you for this invaluable\n\nopportunity you've granted me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm grateful to you too.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But... it's not enough.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Huh?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "One opportunity isn't enough. I want to\nrun\nagainst you again.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And next time... I won't give up the lead.\nNot for\na second.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll take those words to heart.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "UUURAAAGH! I hate this, I hate this, I\nHATE\nTHIIIIIS!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I gave every last bit! My mind, body,\n\nEVERYTHING! And still I came up\nshort...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You got ahead of meeeeuURAAAGH!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "El, you're hurting my ears.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And you're hurtin' my heart! So just deal\nwith it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Those are two distinct issues...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "ANYWAY! This isn't over, got it?! Not\neven close.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm gonna leave Japan, travel the world,\nand grow\nstronger! And stronger! And\n<i>stronger!</i>",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Then, I'm gonna come back like a burnin'\nphoenix!\nAnd that's the moment you'll\nfinally taste defeat!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Easy now... Hehe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's good that I experienced this before\nheadin'\noff.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "When I go out there to captivate the\nworld... I'll\nneed to remember how your\nrunnin' always\ncaptivated me.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wh-whoa... Wh-what have we just seen?!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Грасс Вандер...",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Грасс Вандер carves her name into\nUmamusume\nhistory, ushering in a new\nage!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Грасс Вандер! I have to write about this!\nIt'll be\nthe best article anyone's ever\nread!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Yeah!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "My, my, look how pumped that reporter\nis. Hehe,\nhow adorbs.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Spe!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Y-yes?! Sorry, were you talking to me?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ahaha... No, at least not yet. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You seem mad hung up on something.\nAm I on\nthe mark?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Um... Well...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yeah.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Suzuka, El, and Grass... It's almost\nscary...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "They're all... so far ahead of me.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Hehe, she bounced quick.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're being self-indulgent,\nМарузенски.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "First Грасс Вандер, now Спешл Уик.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oh, bite me. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm just trying to be supportive so they\ncan all\nbecome big and strong. Is that\nnot normal?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And besides... you're calling <i>me</i>\n\"self-indulgent\"?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "How many Umamusume do you know\nthat aren't?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Trainer, concerning our next race goal...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Do you have one in mind?"
+            ]
+        },
+        {
+            "text": "I do.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "There won't be a repeat of last year's\n\nhalf-heartedness. This year, I must show\nhow\nmuch I've improved.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So please, allow me to run in the Arima\nKinen!",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Then we'd better prepare like never before!"
+            ]
+        },
+        {
+            "text": "Yes!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The path yet continues, but I refuse to\nstop!",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

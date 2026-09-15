@@ -1,0 +1,137 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Following our big win, Бива Хаяхидэ and\nI meet to devise a plan of\nattack for our\nnext race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With these values, we can make a\nprediction for the upcoming race.\nNow I'd\nlike to review our data on the other\nrunners.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The key to the previous problem was racer\nnumber four, yes? We will\nrefer to the\ndata of her past three races, and...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "As usual, her theories are so advanced that\nI can barely keep up. I\nfuriously scratch\ninto my notebook to make sure I don't get\nleft\nbehind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, check it out. Hayahide's talking\nabout some super-complicated\nstuff.",
+            "name": "Classmate A"
+        },
+        {
+            "text": "Wow, for real. As expected from one of\nour school's top brains. She's\nreally\nextraordinary... Out of our league, for sure.",
+            "name": "Classmate B"
+        },
+        {
+            "text": "How'd she get so smart though? Maybe if I\nstudy harder, I can be like\nthat too.",
+            "name": "Classmate A"
+        },
+        {
+            "text": "No way—she's one of those people who\nwere just born that way! We\ncould never\nbe like her.",
+            "name": "Classmate B"
+        },
+        {
+            "text": "\"Extraordinary,\" huh?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What's up, Hayahide?"
+            ]
+        },
+        {
+            "text": "Oh... It's nothing. Let's continue with the\nmeeting.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "However, for the rest of the discussion,\nHayahide occasionally looks\nlike she's got\nsomething else on her mind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Even after leaving the cafeteria, she seems\nlost in thought.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thinking about what those students said\nearlier?"
+            ]
+        },
+        {
+            "text": "Ah... Actually, no. My apologies. It's\nnothing.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Come on, give me a try."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It... it just feels strange being described as\n\"extraordinary.\" That word\ninfers that I'm\n<i>special.</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I always endeavor to follow logic, so from\nthe outside, I may appear\nto be doing\ndifficult things...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But I'm actually an average person—one\nwho had no other tools but\nreason to get\ninto the academy.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "So I'm not worthy of such praise as\n\"extraordinary.\" It is much better\nsuited for\nsomeone with natural talent.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm sure by <i>natural talent,</i> she must be\nreferring to the Beast, Narita\nBrian.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She may have complicated feelings about\nher exceptional sibling that\nothers\nwouldn't understand. But even so...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Your theories <i>are</i> extraordinary!"
+            ]
+        },
+        {
+            "text": "She works tirelessly on developing her\nunique strength. So I tell her\nstraight-out\nwhat an amazing person she is.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You're right. I'll sharpen my ability even\nfurther, and together we'll\nmake it through\nthis battle. My determination remains firm.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But you know, Trainer. As her big sister...\nwhat I really wanted was to\noutperform\nher.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm embarrassed at myself for foolishly\nchasing something as\nunattainable as\nnatural talent.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "As she looks off into the distance, I can\nsense a lack of\nself-confidence in her eyes.\nI see that within her cool-headed self\nalso\nlies fragility.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, I'm sorry for droning on about such a\ndull subject... Anyway, it's\nnot on our\nschedule, but I'd like to incorporate what\nwe drew from the\nmeeting into training.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Making corrections later will only slow us\ndown, so let's verify the\nformula first.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ's driven to keep moving\nforward, and I feel compelled\nmyself to\nfind a way to give her confidence.",
+            "name": "Монолог"
+        }
+    ]
+}

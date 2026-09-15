@@ -1,0 +1,271 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Happy New Year. Let's work hard this\nyear.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Or, rather, let's work harder this year?\nSince I'm\ncompeting in harder races.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "We've got the Classic Triple Crown ahead."
+            ]
+        },
+        {
+            "text": "Yup. This is the path I chose for myself...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The Classic Triple Crown is the pinnacle\nof the\nTwinkle Series.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If I can do well there, I'll be able to show\npeople\nwho I really am.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I have to make up for the\ndisappointment I\ncaused...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What?! City isn't gonna be running in the\nTiara\ntour?",
+            "name": "Townspeople"
+        },
+        {
+            "text": "Man, I was really hoping to see her win\nthe Triple\nTiara...",
+            "name": "Townspeople"
+        },
+        {
+            "text": "At the end of last year, Голд Сити\nannounced that\nshe would compete in\nthe Classic Triple Crown\ntour—but some\nfans were disappointed by this\nturn of\nevents."
+        },
+        {
+            "text": "Some of them even complained to my\nmodeling\nagency. I got an angry call\nabout it from my\nmanager.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "She gave me an earful about how the\nTiara makes\nmore sense for a model,\nsaying she'd already set\nup work for me\nbased on it. Hell of a way to start\nthe\nyear.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So of course I pushed back—I was like,\n\"Shut up\nand watch me!\" Then I hung up.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "We'll win Big M over with your running!"
+            ]
+        },
+        {
+            "text": "...Uh, sure, but what did you just call my\n\nmanager?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Uhh, nothing."
+            ]
+        },
+        {
+            "text": "Uh-huh. Anyway...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Knock, knock...</i>"
+        },
+        {
+            "text": "City! Happy New Year!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "We find ourselves joined by Yukino\nBijin—a\nfellow student who seems to\nlook up to Gold\nCity. City's told me\nabout her a few times in the\npast."
+        },
+        {
+            "text": "Yukino? Why are you here?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I heard you were on campus, so I had\nt'come see\nyou... Ehehe.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Oh, you... Weren't you planning to go\nhome for\nthe holiday?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yup! And I'm back already, with\nsouvenirs too!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Really? I hope you brought those yummy\ncookies\nagain like last time.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I notice Голд Сити's expression ease after\nYukino\nBijin arrives. She has a soft spot\nfor those who\nadore her."
+        },
+        {
+            "text": "I always worry about how uptight Gold\nCity can\nbe, so this might be a good\nopportunity for her to\nunwind for once.",
+            "choice_data_list": [
+                "Why don't you two hang out for a bit?",
+                "You two go and enjoy the snacks together.",
+                "Is there anything you want to do, Юкино Бидзин?"
+            ]
+        },
+        {
+            "text": "What? But... haven't we got traini—",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh gosh, really?!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I wanna go check out the lucky bags\nwith City! I\ncan't ev'r figure out which\none t'choose myself.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Oh—but I'd probably be gett'n in the\nway mak'n\nCity hang out with me,\nwouldn't I?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "If you're busy, I'll just go mind my\nbusiness\nelsewhere!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Go ahead."
+            ]
+        },
+        {
+            "text": "Trainer says it's fine, so let's go.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Holy smokes! Thanks a jillion, Trainer!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Ah, but my hair's all a mess. I can't go\nout with\nCity look'n like this!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Gimme a sec to go get ready!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "...Gosh.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You and your suggestions.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, yippee! I'll bring the souvenirs over\nhere,\nthen!",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "Here?"
+            ]
+        },
+        {
+            "text": "Yeah! I bought lots and lots, y'know!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I want both of you to try these Morioka\n\nspecialties! ♪",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "What are you looking at me for? If\nYukino says\nit's fine, then it's fine.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh? City, you <i>did</i> ask for two boxes\nworth,\nright?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I thought the idea was to eat 'em with\nTrainer\nfrom the start.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Ah, did I? I guess I was planning it as a\nway to say\nthanks or something.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well then, I'll go make some tea.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh?! N-no, I can't make ya go through\nthe\ntrouble alone! Wait for me, City!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Ah, right now?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Well, my mom gave me some bath\nminerals, so I\n<i>was</i> think'n of try'n those\nout...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Bath minerals? What are those?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "They're these crystals you find in hot\nsprings.\nWhen you dissolve 'em, it\nreleases all the good\nstuff inside—it's\nlike hav'n a hot spring at home!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Oh! I think I've seen them before. Cool,\ncool. Are\nthey a specialty of Morioka\ntoo?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Not ev'n a bit, hehe. My mom bought\ntoo many\nonline, so she gave some to\nme.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Whaddaya say, City? You'll have to\ncome to the\nMiho dorm if you wanna try\n'em though!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "They don't damage the tub, so the dorm\nleader\ngave me permission to use 'em so\nlong's I clean up\nafter.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I see. That sounds nice...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I dunno. I do have training today...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Today is just a strategy meeting. Go ahead."
+            ]
+        },
+        {
+            "text": "Oh, guess I'm taking a bath then.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yay! ♪ Hot springs with City!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Whoa, these are bath minerals? Looks\nkind of\nsuspicious...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's fine! We just put 'em in a pack like\nthis...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "So the three of us enjoy a relaxing time\ntogether,\neating the souvenirs Yukino\nbrought while\nlistening to her stories\nfrom back home."
+        },
+        {
+            "text": "Later, Голд Сити returns to my office\nlooking\ntotally relaxed."
+        },
+        {
+            "text": "Юкино Бидзин tells me later that Голд Сити\nlet her\ndo whatever she wanted and was\n\"so kind and\ncool\" the entire time."
+        }
+    ]
+}

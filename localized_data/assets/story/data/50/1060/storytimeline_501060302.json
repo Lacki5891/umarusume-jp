@@ -1,0 +1,430 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One evening, as we stroll through the\nshopping\ndistrict...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, here we go again. Give me a sec.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Oh, Natie, you're here! Are you gonna\ntry your\nluck again this year?!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Of course! You can cry all you want, but\nI won't\ncomfort you after I snatch away\nthe grand-prize!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hehe, you seem extra fired up. Let's\nhave a clean,\nfair fight! I won't pull any\npunches!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "That's how I like... wait, as opposed to\nwhat? Are\nyou usually rigging this thing?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Anyways, I'm not the same Nature I was\nbefore! I\nwent to the shrine a hundred\ntimes this year! I'm\ndefinitely going to\nwin!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Y-You're really into it..."
+            ]
+        },
+        {
+            "text": "Well, I <i>have</i> to get myself fired up. This\nis it—the\nyear I...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Finally rid myself of the dishonorable\ntitle of\n\"Third-Prize Collector!\"",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "\"Third-Prize Collector\"?"
+            ]
+        },
+        {
+            "text": "Natie has done this raffle every year\nsince we first\ngot to know each other...",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "But no matter how many times she tries,\nshe\nalways gets the third-place prize. It\nbecame the\ntalk of the town for a time\nsince it was so\nimpressive! All that talk\nhas mostly died down\nnow, though.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Three, three, three! The number three\nfollows me\naround everywhere I go!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But that ends today. With this beautiful\nraffle\nticket that I purified at the shrine a\nhundred times\nover...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'll summon all the luck in the world and\nwin the\ngrand priiiiiize! Hot spring\nvacation, here I come!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "(She's gone nuts...)"
+            ]
+        },
+        {
+            "text": "Do it with me, Trainer! We're going to\nbreak the\ncurse!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I grip the lever with Найс Нэйчер, who\nlooks full of\nall manner of frustrations\nand even enmity, and\nturn the raffle\ntumbler's lever.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What...what did you just...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Natie... You've won. The grand-prize,\nthe coupon\nfor the hot spring vacation...\nIt's all yours!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Tra... T-Trainer... I-I-I won the\ngrand-prize!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And it's for a <i>hot spring!</i> My favorite\nplace! Can\nyou believe it?!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "Oh! I mean... ahem. Excuse me, I'm too\nold to get\ncarried away like that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But wow. The gods must've finally\ndecided to\nshow me some sympathy.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Anyways, tell everyone about this,\nokay? Tell\nthem that Nature snatched\nthe grand-prize.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Of course! I'll put it on the front page of\nthe\ncommunity newspaper too!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "I've got the perfect headline. \"Natie\nRedeems\nHerself and Sets Off for Hot\nSpring Vacation\nParadise with Trainer!\"",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Yeah—wait!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wh-whaaaat?! Me and T-Тренер?! On a\nhot\nspring vaca—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, is that not what you're doing?",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Th-that's r-ridiculous! Why would I go to\na hot\nspring with my Тренер?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Gah!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Well, it's your prize..."
+            ]
+        },
+        {
+            "text": "N-no, Trainer, that's not what I meant!\nWhat I was\ntrying to say was...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ahhh! You know what?! You take it!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "I mean, it's not like I wanted to go to the\nhot\nspring, anyway. I just wanted to get\nrid of that\nstupid title!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Now that I have, I can give the coupon\nto you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You go enjoy yourself whenever you\nwant to.\nReally... I'm okay.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well! I guess I'll get the finest sirloin\nsteak to\ncelebrate my victory before\nheading home!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yes! We won the first-prize, Trainer!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You did it!"
+            ]
+        },
+        {
+            "text": "I'm so glad. I seriously could not stand\nbeing the\n\"Third-Prize Collector.\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What do you think of that, Gramps?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, you win. That was great, Natie!\nWith this\nkinda luck, it's gonna be\ntrophy after trophy!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Um, hold on there...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's not exactly how it works... Being\nlucky\ndoesn't mean I can win...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Right, Тренер?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That's right."
+            ]
+        },
+        {
+            "text": "...Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wait, why am I disappointed—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature's going to win because she has what it\ntakes."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Haha, that's right! My apologies!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "I'm happy you have such an amazing\ntrainer,\nNatie!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "That's enough of that kind of talk! Let's\ngo,\nTrainer!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Now that we've got a delicious\nhamburger steak,\nlet's get back and fire\nup the grill!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I'll cook it for you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hnnng, so close! But I guess it's not that\nbad.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "At least I avoided the third-prize. Yeah,\nI'm\ncalling it a win!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "At any rate... I never realized how big a\nbushel\nwas. Aren't you being a bit too\ngenerous?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, the raffle is the main attraction of\nthis\nshopping district! We gotta go all\nout with things\nlike this if we want to\ngo...",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "\"Viral,\" was it? Natie, you should take a\nphoto of\nthis and post it on your social\nmixer too.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "You mean \"social media.\" It's touching\nseeing you\nworking so hard to keep up\nwith the times,\nGramps.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Trainer, I have a favor to ask.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "Can you take a photo for me?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I want to capture this mind-boggling\namount of\ncarrots, along with me and\nthe old man.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...It's not like I have any influence or\nanything,\nbut I can at least tell my\nfriends about it.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Gotcha!"
+            ]
+        },
+        {
+            "text": "Natie... you're such a good kid. I still\nremember\nwhen you were just a tot...",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "You didn't know me when I was a kid,\nsilly. Come\non, smile for the camera!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You've extended your record,\nunfortunately. I'm\nsorry, but it is what it\nis.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "...Welp, I did it again. I've gotta accept\ndefeat.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm starting to suspect that this is some\nsort of\nsuperpower at this point. Should I\ndonate myself\nto a lab?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Juuust kidding. It's just a game, right?\nThanks for\nthe carrot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Crunch into sweetness galore! They say\nfresh\ncarrots are the best carrots!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yup, that's the stuff, I'm feeling\nrejuvenated\nalready! Ha ha ha!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...She's frustrated.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Tissues? I don't even know what to say.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I guess this one is the most practical,\nwhich isn't\nso bad, but...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You even said you went to the shrine a\nhundred\ntimes. I'm kinda sad that I\ncouldn't see a miracle\neither.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "C-can you not? I kinda feel guilty. But\nmore than\nanything...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's super embarrassing! Why did I say all\nthose\nthings in the heat of the moment?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You summoned all the luck in the\nworld...",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Ah! Stop! Forget what I said!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I decide to hold on to the coupon for\nnow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, despite her wishes, Найс Нэйчер\nonce\nagain defends her title of\n\"Third-Prize Collector.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later, we enjoy a delicious hamburger\nsteak\nprepared just the way Найс Нэйчер\nlikes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The people of the shopping district\ntease Nice\nNature, wearing her out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, I snap a picture Найс Нэйчер\nwith a big\nsmile, holding a mound of\ncarrots.",
+            "name": "Монолог"
+        }
+    ]
+}

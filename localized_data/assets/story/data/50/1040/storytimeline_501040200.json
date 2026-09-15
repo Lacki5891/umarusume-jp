@@ -1,0 +1,104 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of Голд Сити's debut finally\narrives. As we\nhead to the track..."
+        },
+        {
+            "text": "City! Look this way!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Do you have anything to say about your\n\nupcoming debut?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Cityyyy! Good luuuuck!",
+            "name": "Fans"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The airport is abuzz with reporters and\nfans\ngathered to see her.",
+            "choice_data_list": [
+                "Sorry, but I'm going to have to ask you to give\nher some space."
+            ]
+        },
+        {
+            "text": "Oh, come on! The world is <i>dying</i> to know\nwhat\nthis supermodel is up to!",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "All her fans have been looking forward\nto this! At\nleast give us a word or two to\nshare with—",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Then promise me you'll write exactly\nwhat I'm\ngoing to say.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Watch me as a runner.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll show everyone I'm more than just\nlooks.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...!",
+            "name": "Fans"
+        },
+        {
+            "text": "Waaahhh! So cooool!",
+            "name": "Fans"
+        },
+        {
+            "text": "The... definition of cool. Okay—just one\npicture\nto match your message for the\nfront page!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Ah, her determination only accentuates\nher\nbeauty! I have to get a good shot of\nher face\nwhile she's running!",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "They're still not looking past my\nappearance. But,\nwell, that's the only\ncard I've played so far, so\nwhat else can\nyou expect?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Still, they won't be talking like that\nforever. I\nhave to prove myself, and\nquickly!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Just try not to get <i>too</i> tensed up."
+            ]
+        },
+        {
+            "text": "Why should I relax when I'm supposed to\ngive it\nmy all?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll surprise them by running so fast they\nwon't\nhave the chance to see my face!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Go and run like yourself."
+            ]
+        },
+        {
+            "text": "Huh? What's that supposed to mean?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Isn't that, like, a given? I'm running to\nbe who I\nam.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm a runner, through and through. I'll\nshow them\nthat today!",
+            "name": "Голд Сити"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the day of the Osaka Hai.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Уиннинг Тикит and Нарита Таисин are\nboth\nracing? This is gonna be great!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Yeah, I saw BNW at the Kikuka Sho, and\nit's\nalways amazing when they face off!",
+            "name": "Fan B"
+        },
+        {
+            "text": "In the stands for today's race, fans are\n\nanticipating an exciting showdown\nbetween\nУиннинг Тикит and Narita\nTaishin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So many fans called out to me on the\nway here, it\nwas crazy.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That means they have high hopes, right?\nI'll do\nmy best and give them a race to\nremember!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sigh...</i> I hope I can meet their\nexpectations. I'm so\nnervous, it's making\nme feel all itchy!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You've just got to go out there and achieve\nsomething great!"
+            ]
+        },
+        {
+            "text": "Yeah! Okay, gotta do my best!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I did what I could в тренировке. All\nthat's left is\nto get in the spirit...\nWOOHOO!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right, here I go! See you, Trainer!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

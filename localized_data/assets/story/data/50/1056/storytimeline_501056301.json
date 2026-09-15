@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Our senior-year summer has come to an\nend—one\nI spent running around with\nMatikanefukukitaru.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, we really gave 110 percent out\nthere, huh,\nTrainer!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "With my time at summer camp and the\nregional\nraces, I've had lots of\nopportunities to take in the\nwonders of\nnature!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What I really want to say is, gods exist in\nall kinds\nof different places.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Hm, I don't know how best to put it, but\ngods\nexist in every mountain, every\nocean, and every\ntown...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "By connecting with them, I feel more\nand more\nenergized.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh, but that doesn't just apply to gods. I\nthink it\nhelps me to connect with other\npeople too.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "People exist in all corners of this world,\nmost of\nthem strangers. By trusting in\nthem and having\nthem do the same in\nreturn, we can all lift our\nspirits\ntogether.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That's what faith is all about—the power\nof\nbelieving.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Fukukitaru..."
+            ]
+        },
+        {
+            "text": "Whoa, that sounded pretty deep! I can't\nbelieve I\njust said that!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I don't know if I'm making any sense, but\nnever\nmind that. Let's head back home!\nThe Arima\nKinen is waiting for us!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

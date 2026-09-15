@@ -1,0 +1,165 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With after-school training complete, I\nhead over to the water\nfountain. There, I\nspot Мэдзиро Райан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhh! Now <i>that</i> feels good!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You're soaking wet! What happened?"
+            ]
+        },
+        {
+            "text": "Ahaha! I just put my head under the\nfaucet! Nothing beats a cold\nshower after\ntraining!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Wanna give it a shot?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "No, I'm good..."
+            ]
+        },
+        {
+            "text": "Aw, man... But it feels so good on the\nshoulder muscles.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "As she smiles back at me, I notice her eyes\nlook a little red...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Were you crying?"
+            ]
+        },
+        {
+            "text": "Huh? Wh-what?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "O-of course not! Why would I be... crying...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Tears well up in her eyes as she struggles\nto remain calm. I decide to\ngive her some\nspace until she settles down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... You've got sharp eyes, you know\nthat?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You see... I keep losing to McQueen in\nscrimmages.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "No matter how hard I try, I just can't catch\nup to her. It's just so... so...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Frustrating... Guess winning isn't as easy as\nit seems.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Looking closer, I notice that Мэдзиро Райан\nappears more gaunt than\nusual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "On top of our training, she also works out\non her own. If she's not\nproperly fueling\nher body...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you eating enough?"
+            ]
+        },
+        {
+            "text": "Huh? Uh... I think so? At least, I'm pretty\nsure I ate breakfast today.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Well... That makes it abundantly clear. As\nher trainer, there's only one\nthing for me\nto do.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The cafeteria is mostly deserted this late in\nthe day. I notice Mejiro\nRyan idly looking\nabout the room, perhaps out of boredom.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Before long, the XXL pork cutlet curry I\nordered is placed before her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! T-Trainer, what's going on?!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Eat up!"
+            ]
+        },
+        {
+            "text": "B-but eating this late in the day isn't good\nfor—",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Forget about that and dig in! Just for today!"
+            ]
+        },
+        {
+            "text": "But...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...Okay, if you insist. I mean, it <i>does</i> look\ngood.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Thanks for the food!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан devours the massive curry dish\nin the blink of an eye!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mmm... mmmmm!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My tongue's screaming in delight... I can\nfeel my muscles thanking me\nfor all the\nextra protein!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "I missed that smile."
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Now that I think about it... I <i>have</i> been a\nbit too preoccupied with\nracing lately. I\ndon't know how long it's been since I last\nsat down to a\nfull meal.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I guess when I'm frustrated, I tend to\nforget important stuff like that.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It's not uncommon for runners to put too\nmuch focus on their failures,\ncausing them\nto neglect their health.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Once she opens her eyes and realizes what\nshe's doing, I'm sure Ryan\nwill see what a\ndisservice she's doing to herself and her\npotential.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's unlock even more of your talent."
+            ]
+        },
+        {
+            "text": "My talent...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан stares out the window at the\ngirls passing by, deep in\nthought.",
+            "name": "Монолог"
+        }
+    ]
+}

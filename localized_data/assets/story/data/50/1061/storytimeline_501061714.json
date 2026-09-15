@@ -1,0 +1,85 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...It appears I have to take it easy for a\nwhile.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What should I do?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Let's focus on healing up.",
+                "Injuries are inevitable! You'll get used to it!"
+            ]
+        },
+        {
+            "text": "...Yes, of course. I know that's what I\nshould do,\nbut...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I simply have so much... free time. You\n<i>can't</i>\nexpect me to just stay in bed.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I hate not having anything to do...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...I don't want to get used to it, dummy.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Still, I know in my head that I have no\nchoice but\nto accept my blunder.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I simply need to focus on sorting through\nthese\nunfamiliar feelings and heal up...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Grrrgh! But why do I still feel so\nfrustrated?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Fussing about things that can't be\nchanged is a\nwaste of time! Pull yourself\ntogether, King!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But still, this could also be a good\nopportunity.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's simply one of the hurdles that\nfirst-rate\nUmamusume must overcome.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "This experience serves to make me\nstronger. The\nunknown may be\nfrightening, but once I know it,\nit will\nbecome common place.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Come on, Trainer. We'll overcome every\nobstacle\nin our way!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Every one brings me that much closer to\nvictory.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "No matter what difficulties cause her to\nstumble,\nКинг Хало will always strive to\nstand back up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although Кинг Хало says she needs to\naccept her\nmistakes, it appears to be\neasier said than done.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This injury will only serve to make her\neven\nstronger.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In order to resume training as soon as\npossible, I\nfirmly put Кинг Хало on\ntemporary bed rest.",
+            "name": "Монолог"
+        }
+    ]
+}

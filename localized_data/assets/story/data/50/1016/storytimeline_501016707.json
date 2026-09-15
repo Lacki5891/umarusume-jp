@@ -1,0 +1,106 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Брайан and I are visiting a shrine."
+        },
+        {
+            "text": "Hey, do we really need to ask the gods\nfor help at\nthis point?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I've been worried about Нарита Брайан's\ncondition\nrecently, so I tell her that I'd\nlike to pray for her\nhealth."
+        },
+        {
+            "text": "...You know, it's my responsibility to\ntake care of\nmyself. Not the gods' or\nBuddha's.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I just want to do whatever I can."
+            ]
+        },
+        {
+            "text": "<i>...Sigh.</i> Fine, if you're going to insist.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I pray for Нарита Брайан's speedy recovery."
+        },
+        {
+            "text": "...Okay, let's go.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What did you pray for?"
+            ]
+        },
+        {
+            "text": "I didn't pray for anything.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I just went along with it to make you feel\nbetter.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Sorry to make you do that..."
+            ]
+        },
+        {
+            "text": "No matter. It's just a difference in\ncustoms. But, I\nwill say this...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're the only one in charge of your\nown body.\nVictory is something you've\ngot to take for\nyourself.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's not the gods that are going to\nanswer your\nprayers...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's me.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Hmph. If you got it, then let's go.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Although... I have to admit, there is a\nnice breeze\nhere.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm feeling pretty good. How about a\nquick run\nbefore going back?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Huh... The wind smells damp...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I don't like it...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Rumble, rumble... Drip drop...</i>"
+        },
+        {
+            "text": "Agh! It's raining!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tch! Let's hurry back!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Perhaps we displeased the gods?"
+        },
+        {
+            "text": "Perhaps it's just the nice change of pace,\nbut\nНарита Брайан seems to have a spring\nin her stЭпизод"
+        },
+        {
+            "text": "Drenched by the rain, Нарита Брайан\ndoesn't say\nanother word the whole way\nback."
+        }
+    ]
+}

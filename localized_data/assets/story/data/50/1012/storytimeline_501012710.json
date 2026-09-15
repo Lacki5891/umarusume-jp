@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Gaaah! Dang it, I lost! I didn't stand a\nchance!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That was some real competition... Guess\nthis\nmeans my opponents were a lot\nstronger than me!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You'll win next time!",
+                "Let's get some more training in!"
+            ]
+        },
+        {
+            "text": "Yeah, I know! Stopping now just doesn't\nfeel\nright!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We've gotta use today as fuel for our\nnext\nvictory!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "If my foes are this strong, I've gotta get\neven\nstronger! I'll come back swingin'\nevery time until\nsweet victory is mine!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It goes without saying! I'm not gonna let\n'em push\nme around forever!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "My legs know no limits! I'm gonna train\ntill I drop!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I don't plan on lettin' up—everyone on\nthat track\nis in for a beatdown!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna treat the crowd to a race so\nhot, their\nblood will start pumpin' too!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I've got this! I'll use this setback as a\nspringboard\nto get even faster!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm ready to go, Teach! I'm gonna jump\nsquat the\nwhole way back!",
+            "name": "Хиши Амадзон"
+        }
+    ]
+}

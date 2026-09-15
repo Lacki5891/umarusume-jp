@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Уиннинг Тикит is trying hard at weight\nloss\ntraining, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff...</i> Phew...  I'm so beat...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "To think, running gets this tough from\ngaining just\na little weight.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I can't do it like before... I've lost my full\npoweeer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Then let's go full power at getting you back on\ntrack!"
+            ]
+        },
+        {
+            "text": "What?! Of course... I've just gotta go...\nall out!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Dash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Raaaah! This weight means nothing to\nme!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I need to get my full power back! I won't\nlet\nanything hold me down!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Work hard, me! Don't lose, me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит devotes herself to\nrunning, and\nsoon finds herself back in\nexcellent shape!",
+            "name": "Монолог"
+        }
+    ]
+}

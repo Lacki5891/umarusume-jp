@@ -1,0 +1,189 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After arriving at the cafeteria for lunch, I\nnotice\nЮкино Бидзин staring\nabsentmindedly at the menu.",
+            "choice_data_list": [
+                "You're really burning a hole into that menu\nthere."
+            ]
+        },
+        {
+            "text": "Huh?! That's not what I'm try'n to do!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "There's an extra large soba on the menu\nfor a\nlimited time only, and it r'minded\nme of the\nwanko soba back home...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Did you say... wanko soba?!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "If I remember correctly, you're from\nMorioka,\nright? The birthplace of wanko\nsoba... <i>Gulp...</i>",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "(She looks like she's about to explode...)"
+            ]
+        },
+        {
+            "text": "Cool it, Oguri! You're scarin' 'em!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Sorry, I just can't stop thinking about\nwanko\nsoba... Could you tell me more\nabout the real\ndeal?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Gee whillikers, sure... But I'm no\nafici'nado, mind\nyou. I've only ever been\non refill duty.",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "Refill duty? You mean dishing out more noodles\neach time the customer's bowl is empty?"
+            ]
+        },
+        {
+            "text": "Righty-roo! It's quite fun. You pour in a\nbite-sized\nserving of soba and say\n\"heeere ya go\" or \"heeere\nit comes.\"",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I wasn't great at the start, so the lady at\nthe\nrestaurant had to keep helping me\nout.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "That's all fascinating... So, Yukino, if I\nask you for\nsome wanko soba, will you\nserve some up?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "As if, ya doink head! She just said she\nwas only a\nrefiller!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Ahaha, I can't make it m'self, but the\nwanko soba\nfrom Morioka's really tasty!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "We've got lotsa other foods 'n fun things\ntoo, so\nyou should definitely visit!",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "What kind of things?",
+                "Now I want some wanko soba too."
+            ]
+        },
+        {
+            "text": "We've got lotsa other foods 'n fun things\ntoo, so\nyou should definitely visit!",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "What kind of things?",
+                "Now I want some wanko soba too."
+            ]
+        },
+        {
+            "text": "Well, let's see... There's a famous festival\ncalled\nthe Morioka Sansa Odori.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "It's got taiko drums, flutes, and people\ndanc'n\ndown the street in a p'rade!",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "That must take a heck of a lot of prep work."
+            ]
+        },
+        {
+            "text": "Yeah, but all that prep made for a darn\ngood\nworkout, so I actually  enjoyed it!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Everyone in town treated me super\nkindly, like I\nwas their granddaughter. It\nwas a lotta fun help'n\nout with the\npreparations!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Sounds like a real nice place. Is that\nwhat your\nhometown's like too, Oguri?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Yeah. I remember when Tome and the\nothers\ntaught me the Kasamatsu Ondo\ndance... I hope\neveryone's doing okay.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I miss my hometown too... Maybe I'll\nwrite\never'one sometime.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I want to send a letter filled with good\nnews, so\nI'll hafta train hard!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Same. But to train hard, first I have to\nsufficiently\nfill my belly.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Their love for their hometowns helps\nmotivate\nthem to train harder."
+        },
+        {
+            "text": "What a coincidence! Me too!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, there's a wanko soba rest'rant round\nhere.\nD'ya want me to take ya there?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "It's owned by the lady who showed me\nthe ropes\nas a refiller back home, so I\ncan vouch for the\nqual'ty and flavors!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Mmm! Jinkies, her soba always hits the\nspot!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Yeah... I could go on eating this\nforever...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Ahhh... So this is what authentic wanko\nsoba\ntastes like.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, looks like you're runn'n short on\nrefills.\nWouldja like me to lend a hand\nwith the serving?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Wouldja, Yukino? I know you're here as\na\ncustomer 'n all, but...",
+            "name": "Older Shopkeeper Lady"
+        },
+        {
+            "text": "Sure! Leave the refill'n to me!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Heeere ya go! Heeere it comes!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I swear, Oguri, you've got a black hole in\nplace of\nyour stomach. I know it's\nall-you-can-eat here,\nbut go easy on\n'em, will ya?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "S'no problem at all! Seeing my customers\neat'n\nplenty and leav'n satisfied is what\nmakes me\nhappy.",
+            "name": "Older Shopkeeper Lady"
+        },
+        {
+            "text": "Thanks, Yukino! Why, you're a bona fide\nrefill'r\nnow!",
+            "name": "Older Shopkeeper Lady"
+        },
+        {
+            "text": "You use to be just a tiny kid carry'n\naround the\nserv'n tray. Everyone'd be so\nworried watch'n ya.",
+            "name": "Older Shopkeeper Lady"
+        },
+        {
+            "text": "Awww, c'mon now! Shucks.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I'm made doubly aware of this once\nwhen I hear\nOguri Cap's stomach\ngrumbling."
+        },
+        {
+            "text": "Юкино Бидзин continues refilling Oguri\nCap's bowl\nuntil she's full... I guess this\nended up being a\ngood training session\nfor everyone."
+        }
+    ]
+}

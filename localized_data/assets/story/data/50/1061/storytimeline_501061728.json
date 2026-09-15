@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hehe. Not bad. In fact, I feel inspired to\ntry\nharder in my studies from here on!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I give you the right to store my prize in\nyour\noffice. What better way to decorate\nit than in\nhonor of me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Take good care of this new Halo Army\nrecruit!\nOhohoho!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'm the one who won it..."
+            ]
+        },
+        {
+            "text": "Hey, don't be so petty! That's not very\nfirst-rate\nof you.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That went pretty well!",
+            "name": "Монолог"
+        }
+    ]
+}

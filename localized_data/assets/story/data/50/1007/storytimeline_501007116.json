@@ -1,0 +1,290 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This whole Book of Secrets thing and the\nclues\nthat supposedly lead to Eden are a\ncomplete\nmystery.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They could just be someone's way of\ngetting Gold\nShip motivated for races.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whatever the case, they're doing a great\njob of\ngetting her revved up.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I should play into it and really maximize the\ngains here!)"
+            ]
+        },
+        {
+            "text": "It's time to train for the next race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...But Голд Шипп isn't at the track. Looks\nlike I\nhave to go on another wild goose\nchase for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I walk all over the academy, eventually\nending up\non the roof of the school\nbuilding.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's strange. We've had plenty of heated\nclashes\nbefore...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But I'm more irked today than ever,\nNakayama...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "A little voice in my head is telling me I\n<i>have</i> to\nbeat you no matter what.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That I'll never find Eden if I don't surpass\nyou first!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Heh. I don't know what this \"Eden\" crap\nis about,\nbut you've got my attention.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "You want a challenge? Bring it on. The\nfiercer,\nthe better.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Good, then let's strike while the iron's\nhot and get\nstarted right away!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Perfect timing, Trainer! You can be our\nwitness!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "The race is on! Try to keep up with my\n\nafterimages, slowpoke!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The two challengers take off, leaving me\nto race\nafter them as fast as my legs will\ncarry me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's start things out spicy! A classic\nbattle of who\ncan take the heat. Bring\nout the goods, El!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Order up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Two special sandwiches dripping with\nhabanero\nchili sauce! They're extra\npicante, just as\nrequested!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hold up, this \"sandwich\" is completely\nred... It\nlooks like murder on toast!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Well, it wouldn't be much of a challenge\n\notherwise, would it? Now come on! Let's\ndo this!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ngh! This is no joke! My mouth is on fire!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "<i>Cough!</i> But I finished the whole thing, so\nthere!\n<i>Cough!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Bueno! You both finished without a\ncrumb left on\nyour plates! I call this a\ndraw!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I feel like my face is melting off... But\nwe're not\ndone yet! Ryan! You're up!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Sure thing. Let's get some gains in! Your\n\nchallenge is to do a hundred sit-ups in\none\nminute! Let's gooo!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "A hundred sit-ups in a minute? Haha!\nYou're on!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> What kind of unhinged\nchallenges\neven are these?!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> You keep complaining, but\nwe both\npulled it off... <i>Wheeeze!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Nicely done! That was exactly a hundred\nsit-ups!\nIt's a tie!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...It's packed here. You've really upped\nthe scale\nof whatever this contest is.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Of course! Our statue skills are gonna\nput the pro\nmall mannequins to shame!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Our <i>what?</i>",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "All right, Bamboo! Live up to your title\nas head of\nthe discipline committee and\nkeep an eye on us\nall disciplinary-like!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You can count on me! My eyes are\npeeled for any\nstray movements! Ready?\nBegin!",
+            "name": "Бамбу Мемори"
+        },
+        {
+            "text": "Hey, are we seriously doing this?",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Mommy? What are those two doing?",
+            "name": "Child"
+        },
+        {
+            "text": "Shh! It's rude to stare!",
+            "name": "Mother"
+        },
+        {
+            "text": "...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Hey, aren't they from the academy?",
+            "name": "Umamusume Passerby A"
+        },
+        {
+            "text": "Huh, they are. What're they doing? So\nweird...",
+            "name": "Umamusume Passerby B"
+        },
+        {
+            "text": "...Augh!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "...Dammit, this is ridiculous! Why do I\ngotta put\nup with this humiliation\nanyway?!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Uh-oh, you moved. Sorry, Nakayama,\nbut you're\nout!",
+            "name": "Бамбу Мемори"
+        },
+        {
+            "text": "Aww, yeah! I win, I win! Victory is mine!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You got me, Golshi! You dragged me\nright into\nyour court.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "But ridiculous as your challenges were, a\nwin's a\nwin! I'm not so petty as to argue\nthat.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "I'll tell you one thing, though—next time\nwe clash,\nit's gonna be on my turf, and\nI'm gonna crush you!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "You can try! Tell you what, I'll keep my\nfists\nwarmed up till then!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп vs. Накаяма Феста: victory!\n(To be\ncontinued...)",
+            "name": "Монолог"
+        },
+        {
+            "text": "And with that, the day-long Golshi\nGauntlet\nfinally draws to a close.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew, I'm burned clean outta energy.\nI'm so\nburnt out, I'm practically charred\ncarbon, like pot\nstickers left on a hot\nstove overnight.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That said, I beat <i>the</i> Nakayama. Surely\nthat's\ngood enough. Maybe I can even\nreach Eden\nnow...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now that I think about it, she's brought\nup Eden\nquite a few times today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For someone who clean forgot about it\nbefore,\nit's curious she's so gung ho all\nof a sudden.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's with the staring, huh? You that\nshocked\nby how focused I can be when I\ngot my eye on the\nprize?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "You could say that."
+            ]
+        },
+        {
+            "text": "Guess I should let the cat outta the\nbag... But this\ninformation's for your ears\nonly, okay?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I've been having some weird dreams\nrecently.\nDreams where a mysterious\nvoice tells me to go\nto Eden and stuff.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What's really throwing me for a loop is\nhow\nnostalgic the voice makes me feel...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It feels familiar like McQueen, but not as\nproper.\nIt's more casual, like Nakayama...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I know that voice like I know—well,\n<i>almost</i> like I\nknow the smell of my\ngramps's tatami flooring.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I expected to get another outlandish tall\ntale\nfrom her, but what she tells me is\nshockingly\nbelievable!",
+            "name": "Монолог"
+        },
+        {
+            "text": "All the same, the Book of Secrets is the\nthing that\nstarted this whole quest for\nEden.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is it possible whoever wrote it can also\nmake\nthemselves appear in her dreams?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Anyhoo, I'm gonna head back. I'm gonna\ngo at a\nlight all-out sprint, so try to\nkeep up.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I chase after Голд Шип, an odd feeling\nsettling\nheavily in my chest.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Матиканэфукукитару drags me off by the\nhand one\nday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, today we're going mountain\nclimbing. I\ncan't move mountains, but I\ncan sure move these\nlegs!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Why are we going mountain climbing all of a\nsudden?"
+            ]
+        },
+        {
+            "text": "Well you see, I heard something through\nthe\ngrapevine.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "If you dial a certain phone number from\na\nmystical spot, you can earn yourself\nsome good\nluck... allegedly!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "So, my plan is to scale this famous\nspiritual\nmountain and call that number!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's get to it! Neither rocks nor roots\nare going\nto stop me!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "We head up the mountain, though it\nturns out it's\nnot rocks or roots that we\nhave to worry about.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mwahaha! So you dare to show your\nface! You will\nnot leave this place alive!",
+            "name": "Ghost"
+        },
+        {
+            "text": "Save meee... Please, save meee...",
+            "name": "Lingering Spirit"
+        },
+        {
+            "text": "Ignoring the horrifying wailing, we trek\nonward.\nThis certainly is a spiritual\nmountain... in the sense\nthat it seems to\nbe full of spirits.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're looking pretty pale, Trainer.\nRunning low\non oxygen?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You don't hear that?"
+            ]
+        },
+        {
+            "text": "Don't hear what? Oh, the birds? They\nsound\nkinda cute, huh? Chirp chirp!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You're not picking up on any spirits?"
+            ]
+        },
+        {
+            "text": "Spirits? Maybe... Maybe not. I can't\nreally tell...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "No use sweating the details though! Just\ngo with\nthe flow!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "As crazy for all things spiritual as she is,\nit doesn't\nlook like she has even a hint of\na sixth sense.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew. All right, I guess this spot will do.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's not waste any time. Now, where's\nthat lucky\nnumber?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "M-my goodness! Just as I was getting\nready to\ndial, my phone started ringing!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Trainer! What if this call is coming from\nthe lucky\nnumber?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hm, maybe it's best to pick up? We are\non a\nlucky mountain, after all. We can't\nget any\nunlucky calls here.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'm not as optimistic, seeing what's been\nlurking\nup here. Time to make a\ndecision.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Go ahead and pick it up.",
+                "I don't think you should answer..."
+            ]
+        },
+        {
+            "text": "Okay! Hehe, I guess the owner of this\nlucky\nnumber just couldn't resist giving\nme a ring.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hi, is this Luck E. Pearson speaking?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "No, this is Тайки Шаттл.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Oh, it's you, Taiki... My phone shows this\nas an\nunknown number. Are you using a\npay phone or\nsomething?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You see, I was just about to call this\nnumber that\nbrings you happiness.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "A number that brings you happiness?\nThe heck is\nthat? Wait...",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "You sure you ain't got your boots on\nbackwards?\n'Cause I've only heard of\nnumbers that'll curse ya\nif ya call 'em.\nHehe...",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Cursed numbers... Really? Wait... Could\nit be that\nI heard wrong?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "T-Taiki, I-I'm gonna hang up now!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Trainer... This can't be...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I think you got it wrong."
+            ]
+        },
+        {
+            "text": "Eeeyikes! I don't want to be cursed! Save\nmeee!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару hurtles down the\nmountain at\na pace that would leave a\nmarathon runner pale\nand wheezy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Howdy, you two. Where were you guys?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "What do you mean? I told you before\nwhen we\nwere talking on the phone.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Anyway, thanks for the heads-up!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "If you hadn't told me about that cursed\nnumber\nthing, I would've been in a real\npickle.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What heads-up? What're you talking\nabout? We\ndidn't talk on the phone!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "You know what I'm talking about, silly!\nYou called\nme earlier... on a pay...\nphone...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But why would you do that when you've\ngot your\nown phone right... there? Oh...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But, why? I don't see any reason not to\nanswer...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wait! That sound...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Hey, my screen's cracked!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That can't be a good sign... I'm sensing\nthat\nsomething bad is about to happen...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wh-wh-wh-what if this is...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Let's head back."
+            ]
+        },
+        {
+            "text": "I tell her about all the sinister things I\nsaw on the\nmountain.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugwah! I-I had no idea! Eek, somebody\nheeelp!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару books it down the\nmountain\nas fast as she can.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, listen to this. I actually talked it\nover with\nTaiki afterwards...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Apparently, that phone number wasn't\nlucky at\nall. It was cursed.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Did your phone take the hit for you?"
+            ]
+        },
+        {
+            "text": "Looks like it.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ohhh, thank you, my sweet phone. May\nyou rest\nin perfect peace. And also...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "May your repairs go quickly. It's really\n\ninconvenient without you.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I guess she's going to pretend her phone\nisn't\ncursed and keep using it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just who was it that called? Whoever it\nwas, all\nthat running around on the\nmountain seems to\nhave done Fukukitaru\nsome good.",
+            "name": "Монолог"
+        }
+    ]
+}

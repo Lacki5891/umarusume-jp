@@ -1,0 +1,49 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I inform Нарита Брайан of some sudden\nchanges to\nher training regimen."
+        },
+        {
+            "text": "...I see.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What? Is there something else?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I was just thinking you took that pretty well."
+            ]
+        },
+        {
+            "text": "Who do you take me for?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If there's good reason for making a\nchange, I'll\naccept it. That's only natural.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I haven't even explained the reason yet..."
+            ]
+        },
+        {
+            "text": "...You haven't said anything that doesn't\nmake\nsense to me before.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Your actions always lead to the desired\noutcome.\nI assumed that would be the\ncase this time as well.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Don't make me start regretting it now,\nall right?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан seems to be satisfied with\nthe results\nof her training."
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Someone's sleepy."
+            ]
+        },
+        {
+            "text": "Oh, excuse me! I didn't see you there...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Didn't get much sleep?"
+            ]
+        },
+        {
+            "text": "...Only a little.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My favorite roma—er, totally normal\nmanga artist\njust created a social media\naccount.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "They upload art and comics daily, but\nit's always\nlate at night.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I know I should check it out in the\nmorning, but I\njust can't wait\nsometimes...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, but don't worry! I was productive\nwhile I\nwaited last night and did a bunch\nof push-ups!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан is sleepy for the rest of the\nday.",
+            "name": "Монолог"
+        }
+    ]
+}

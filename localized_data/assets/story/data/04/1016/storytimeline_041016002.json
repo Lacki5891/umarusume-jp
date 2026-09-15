@@ -1,0 +1,197 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Over the next several days following her\nrace, I try approaching\nНарита Брайан several\ntimes. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's nothing to talk about.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Scram.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "She won't even give me the time of day!"
+            ]
+        },
+        {
+            "text": "Hey, it's that trainer. Pretty gutsy to come\nagain.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "That's the most persistent one we've seen\nyet, huh? I'm sure Brian will\nsay no, just\nlike at the tryouts.",
+            "name": "Умамусумэ Б",
+            "choice_data_list": [
+                "(The tryouts...)"
+            ]
+        },
+        {
+            "text": "I've heard about Brian's tryout race. The\ntryouts are supposed to be\nwhere racers\nattempt to get scouted, but she refused\nevery offer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And when talk turns to making her debut,\nshe abruptly leaves without\nanother word.\nMaybe <i>that's</i> what she has a problem\nwith...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Another few days later, I hear that Narita\nBrian's going to race again,\nso I hurry over\nto see it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hraaagh!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hishiama's really fired up today! Like,\nwe're talking a whole 'nother\nlevel!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Well, she's the one who suggested they\nrace, so she can't afford to\nlo— Whoa!\nHishiama's making her move!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "I'm gonna... crush you! Wraaaaagh!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Hup!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Wha?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Gah... Damn it! Aaaaagh!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> Ugh!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hold it!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Just where do ya think you're goin'? Our\nbattle isn't over. I challenged\nyou to a\none-on-one, best outta three.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And I ain't losin' again! So get ready for\nthe next—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The outcome's already decided. You know\nfull well that if we race\nagain, the results'll\nbe the same.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I don't want to see anyone's fire go out\nanymore, much less extinguish\nit myself.\nI'm... sick of it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Damn it... I know, okay? I know I can't\nbeat you right now!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But... that doesn't mean I'm a quitter who\ngives up after one measly\ndefeat. Don't\nyou dare go 'round assumin' you know\nwhat everyone's\nlike!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "She's just going to challenge you again."
+            ]
+        },
+        {
+            "text": "...You again.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Didn't I tell you to scram? Don't let me see\nyou again.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Wait!"
+            ]
+        },
+        {
+            "text": "Fine, I'll say it. Racers like that might put\non a tough front, but once\ntheir spirit's\nburned out, it ain't coming back.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I've seen it a hundred times. There's no\npoint in me racing them.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It wouldn't satisfy anyone.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(It's always been like this. Ever since back\nthen.)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(When... I first felt this hunger.)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hurry up, Brian!",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "Coming!",
+            "name": "Young Brian"
+        },
+        {
+            "text": "(She was always ahead of me. I felt like a\nwild animal on the chase,\nbut she never let\nme pass her. It was the most fun I've ever\nhad.)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(I'd run and run... I'd keep running and\nchasing after her... But no\nmatter how\nsatisfying it felt, I only wanted more.)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(And then it happened.)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Crash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sis? Sis, wake up. Sis... Sis!",
+            "name": "Young Brian"
+        },
+        {
+            "text": "Ugh... Sorry, Brian.",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "<i>Wee woo, wee woo!</i>",
+            "name": "Монолог"
+        }
+    ]
+}

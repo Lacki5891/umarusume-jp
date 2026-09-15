@@ -1,0 +1,174 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I lost AGAIN?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hearing a scream, I race to the arcade\nand find\nУиннинг Тикит yelling about\nsomething.",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "I just can't seem to win at this motion\ncontrol\ngame! And I'm supposed to be\ngood at physical\nstuff!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sigh...</i> Those monsters are way too hard.\nEven the\nthree of us combined are no\nmatch for them.",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Well, we got to play plenty today!\nShould we\nhead back?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "No! I can't quit now! I won't stop till I\nbeat it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Uh, can't we save it for another day?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "No way! We ate an amazing parfait,\nbought a ton\nof stuff, and even rode a\nboat in the park! We\nhad a <i>blast</i> today!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So I wanted to end the day on a happy\nnote! This\nwhole day should be one\nhuge, wonderful\nmemory!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Tickezo! You really inspired me just now!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe... Then let's get back to it!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "The trio lines up in front of the huge\ngame\nmonitor, and an intense battle\nerupts the moment\na colossal dragon\nappears."
+        },
+        {
+            "text": "<i>ROOOAAARRR!</i>",
+            "name": "Fierce Dragon"
+        },
+        {
+            "text": "My magic isn't working! ...Scarlet, it went\nthat\nway!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Grr! I'll act as bait! Regroup while I hold\nits\nattention!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Don't you DARE touch Scarleeeet!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Take this! FULL POWER IMPAAAACT!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "GRAAAHHH!",
+            "name": "Fierce Dragon"
+        },
+        {
+            "text": "Why'd you save me? You could have\nbeaten it if\nyou left me!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "I'm not just gonna throw your life away!\nWithout\nall three of us, it'd never be a\nperfect memory!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I want <i>all</i> of us to smile when we\nremember today.\nThat's what making\nmemories is all about!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Tickezo...",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "You're right! Let's take that monster\ndown\ntogether!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "I wanna make a perfect memory too!\nLet's fight to\nthe very end!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "With their hearts united as one, the\nthree of them\nperfectly synchronize their\nactions and beat the\ngame!"
+        },
+        {
+            "text": "We did it! We won! Nothing can stop us\nwhen\nwe're together!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yes! Our teamwork is second to none!\nI'm so glad\nwe toughed it out!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "YEAH! We ruuule!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Great job!"
+            ]
+        },
+        {
+            "text": "Thank yoouuu! I'll never forget this for\nas long as I\nlive! This is the best day\n<i>ever!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh! Before we forget, how about we\ntake some\nphoto stickers?",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Waaaaah! Having a pic to remember\nwould rock!\n<i>Sob!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hehe. You really want to remember how\nhard\nyou're crying right now?",
+            "name": "Дайва Скарлет",
+            "choice_data_list": [
+                "Smile!",
+                "Why not take a second to compose yourself?"
+            ]
+        },
+        {
+            "text": "I want to, but the tears just keep\ncomiiing!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You can cry all you want! I think happy\ntears\nmake unforgettable memories too!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "WAAAAAH! Spe, you're so, so, soooo\nSWEEEET!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ooh, shall we go get a bite to eat? I'm\nstarving!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Um, I'll have two hamburger sets and an\nextra\nlarge nugget combo. Oh and...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Wow, Spe! I won't let you out-eat me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I wouldn't even try to compete if I were\nyou. Her\nstomach's like a black hole.",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "We take some pictures with Winning\nTicket's eyes\nstill red. Everyone's\nemotions come out clear as\nday, making\nthese some great photos!"
+        },
+        {
+            "text": "Уиннинг Тикит eats herself into a food\ncoma, and\nwe end up having to skip the\nphoto stickers."
+        }
+    ]
+}

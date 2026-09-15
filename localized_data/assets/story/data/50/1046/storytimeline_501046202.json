@@ -1,0 +1,122 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the Japan Dirt Derby is here,\nand we\nrush to Oi Racecourse straight\nfrom summer\ncamp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow... It's happening!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Feeling nervous?"
+            ]
+        },
+        {
+            "text": "Hehe, a little! My heart is pounding, but\nnot in a\nbad way.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's more like adrenaline... Like I'm ready\nto show\neveryone what I'm made of!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Today, I'm back on track to becoming\nthe top\nUmadol on dirt!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "All right! Let's get going and—",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Wait, huh? That racer over there looks a\nlittle...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "What if I'm no good on dirt either...",
+            "name": "Brunette Umamusume"
+        },
+        {
+            "text": "No, I'll be fine... I can win this. I'm done\nwith\nlosing—I'll never lose like that\nagain. I'm a winner!\nI can win!",
+            "name": "Brunette Umamusume"
+        },
+        {
+            "text": "I will win!",
+            "name": "Brunette Umamusume"
+        },
+        {
+            "text": "...!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Trainer. Isn't that...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "If my memory serves correctly, that racer\n\nchallenged herself to a turf G1, just like\nSmart\nFalcon. Expectations were high,\nconsidering she\nwas third favorite to win,\nbut...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "She finished last in her last race."
+            ]
+        },
+        {
+            "text": "Oh... I see...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The two of us are both starting over. But\nshe\nseems super on edge...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I really am back in the world of dirt\nracing, huh.\n'Cause look—it's not just\nher...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "All right... I'm gonna make this one\ncount!",
+            "name": "Racing Умамусумэ А"
+        },
+        {
+            "text": "I'm gonna sweep everyone! No one's\nbetter than\nme on sand!",
+            "name": "Racing Умамусумэ Б"
+        },
+        {
+            "text": "Everyone's got this gleam in their eyes.\nSomething\nslightly different than the\ndreamy glow everyone\nhad at the\nSatsuki Sho.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's not that they take racing more\nseriously, but\nthere's an edge to it... like\nthey're right on the\nedge of a cliff.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "That's a pretty intense way to put it..."
+            ]
+        },
+        {
+            "text": "Nooo, I don't mean it in a bad way!\nThey've just\ngot this aura around them!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm not putting down dirt races! But... I\nmean...\njumping off a cliff takes real\nguts!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Strange metaphor aside, I can see what\nshe's\ngetting at. In a country where turf\ngets all the\nattention, many runners turn\nto dirt only as a last\nresort.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And if they fail to perform on dirt...\nWell, it's\nunderstandable that some\nmight feel like they've\nreached the end\nof the road.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But I can't afford to lose either! I'm not\ngoing to\nlet those feelings get the best\nof me!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hnnng... There!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Now my aura's extra super sparkly! And\nI'm gonna\nswallow everyone up in it! ☆",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

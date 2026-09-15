@@ -1,0 +1,286 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the start of a new, full-fledged\ntraining\nregimen to get Найс Нэйчер\nready to make her\ndebut.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But first, I want to see how fast she is\ncurrently, so\nI ask some other\nUmamusume to run a scrimmage\nwith\nНайс Нэйчер. But then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah. Heya, Trainer... can we talk for a\nsecond?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Nothing is <i>wrong</i> exactly, but here's the\ndeal...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm happy that you put together this\nscrimmage\nfor me, and I reeeeally\nappreciate it. So much\nappreciation.\nBut...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yeeeees! I'm gonna run so fast today!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's the spirit! But if you think I'm\ngonna let you\npass me, you've got\nanother thing comin'!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What the heck is this lineup?! They're all\ntop-level\nrunners!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She's right—I only asked the best of the\nbest. And\nit seems quite a few came,\neither out of curiosity\nor a sense of\ncamaraderie.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "This lineup should be the perfect way to\nmeasure your strength!"
+            ]
+        },
+        {
+            "text": "M-more like the perfect way to\nembarrass myself!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер starts off without\nconfidence, but\nthen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant... Pant...</i> Come ooooon!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Look at Nature! She's keeping up with\nall those\namazing runners!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Her results have always been solid.\nSeriously,\nNature is a great runner!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "The spectators are right, Найс Нэйчер is\nin perfect\nform today!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant... Pant...</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I knew it—third place again.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That was awesome!"
+            ]
+        },
+        {
+            "text": "Well... Yeah, I guess so. With those\nrunners, I'm\nproud of myself for even\nfinishing in third place.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But I was in the best position. I had the\nadvantage\nin terms of distance, and I\n<i>still</i> got third...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер doesn't seem satisfied...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nature! What a marvelous day for a\nrace! ☆",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "I wanna see your absolute best, Nature!\nLet's\ncompete fair and square, like\ngrown women\nshould! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "A few days later, I put together another\n\nscrimmage. All the racers I invited seem\nto be\nacquainted with Найс Нэйчер...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hold on here. Trainer, you just up and\nbrought all\nyour favorite racers, didn't\nyou?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "If that's the case, I have to say... I like\nyour taste.\nIf I were you, I'd choose them\ntoo.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "They're all good runners."
+            ]
+        },
+        {
+            "text": "I'm just joking. I know that they're all\nmore than\njust cute faces. They're really\nfast on top of that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Natuuurrre! Come on, hurry up and run\nwith\nmeee! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Um... Is that an angel? Maybe she can\ncleanse my\nsoul while we're running.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер jokes around, but once the\nrace\nstarts...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hup!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Nature is going so fast! She's keeping up\nwith the\nother two!",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "Woohoo, another third place finish...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Those two are sooo young. I can't even\nbegin to\ncompete with that kind of\nenergy.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You aren't that much older than them."
+            ]
+        },
+        {
+            "text": "Yes, I am. Even a one year gap can make\na huge\ndifference.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, now you know, right?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Know what?"
+            ]
+        },
+        {
+            "text": "C'mon, what did I run those scrimmages\nfor? You\nwere sizing up my skills, right?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "\"Close, but not quite.\" That's me in a\nnutshell.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I run <i>okay,</i> but \"okay\" isn't gonna win me\nthe\ngold.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...The way I see it, the fact that she\nfinishes third\nno matter what shows that\nshe's got potential.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But that's not how she sees it. I try to\nthink of the\nbest way to explain it to\nher, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey! Whatcha doing? Something fun?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Eh?! Teio?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Were you guys running a scrimmage?\nWhat a\nwaste of time...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You guys didn't even invite the best\nracer\naround—me!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Токай Тэйо. As she says herself, she is\nthe star\nrunner in the current generation.\nMany were\nsinging her praise even\nbefore her debut.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Which means Токай Тэйо will be an\nunavoidable\nwall between Найс Нэйчер\nand glory.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She can say all that and not feel even a\ntinge of\nembarrassment. She's certainly\nsomething, I'll tell\nyou that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Did you say something? Whatever.\nCome on, get\nready!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...What?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Don't just stand there! We're going\n\nhead-to-head, Uma to Uma! ♪",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I'll give you the honor of a race!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...S-seriously?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And so, a battle between Найс Нэйчер\nand Tokai\nTeio abruptly begins.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... The sunset sure is beautiful\ntoday.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Another day, another loss! What can I\nsay? That\nТокай Тейо sure is strong.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The head-to-head with Токай Тэйо\nended in a\nclean defeat, with Nice\nNature failing to catch up\nto Teio's pace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Welp, I don't blame myself for losing to\nher! In\nfact, I did well, considering it was\nafter I ran with\nMayano and Marvelous!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Yup, it always ends with \"I did well.\"\nThe idea of\na third-rate runner like me\nshining in a race...\nmight as well be a\npipe dream.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Do you get it now, or do you still want\nto aim for\nvictory with me?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Aim for victory, of course!"
+            ]
+        },
+        {
+            "text": "I want to help make her dreams of\nshining like a\nstar come true. As long as\nwe're together, my\nfeelings will never\nchange.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've been thinking about this for a while\nnow,\nbut... where do you get all that\nconfidence?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Your eyes are shining brighter than mine.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Not sure if I can meet your expectations,\nbut...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Maybe... it'd be okay for me to dream a\nlittle bit.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And so, Найс Нэйчер's journey to make\nher dreams\ncome true begins!",
+            "name": "Монолог"
+        }
+    ]
+}

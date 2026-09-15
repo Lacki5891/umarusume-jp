@@ -1,0 +1,219 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm on my way back from an outing with\nMeisho\nDoto when a poster catches my\neye.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... The shopping district is hosting a\nkaraoke\ncompetition. I didn't know they\nheld events like\nthis.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Why not give it a shot?"
+            ]
+        },
+        {
+            "text": "Huh?! B-but, look—it says they're not\ntaking\nentries anymore!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "P-plus, I don't think my singing is\nanywhere near\ncompetition level...\nOogh...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I know you'll make it with that voice of yours!"
+            ]
+        },
+        {
+            "text": "Wha-whaaaa?! Y-you're embarrassing\nme!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Although... this could be my chance to\nsee if my\npracticing has paid off.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I g-guess I'll give it a go...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And with that, we decide to give the\ncompetition\na try.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm, a last-minute entry is going to be\ntough. We\ncan't provide you with a\nbacking track at this\npoint.",
+            "name": "Competition Coordinator"
+        },
+        {
+            "text": "...U-um, well, I'm a... very flawed person.\nI'm not\nconfident... and I'm indecisive.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...But, many people say good things\nabout my\nsinging. <i>My</i> s-singing!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "That's wh-why, I would like for many\nmore people\nto hear my song... so I'm...\nfacing my fears and...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh no! What am I talking about?! I'm\ns-sorry for\nrunning my mouth!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Please consider her as a candidate!"
+            ]
+        },
+        {
+            "text": "Ah! T-Trainer...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hm... I hear you two loud and clear! If\nyou're okay\ngoing a cappella, then we'll\nbe glad to have you\non.",
+            "name": "Competition Coordinator"
+        },
+        {
+            "text": "R-r-really?! Woooow... Thank you so\nmuch!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "This is great news!"
+            ]
+        },
+        {
+            "text": "It r-really is... I could have never\napproached the\nstage on my own.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It's all because of Urara, Shakur, and\nyou,\nTrainer. You three have made this a\nreality.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm a little s-scared, but... I promise to\ngive this\nmy all!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "With that, Мэйсё Дото takes to the\nstage as the\nnext singing candidate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, um... I'm Мэйсё Дото, and I'll be\nsing—",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Sputter!</i>",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Chatter, chatter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Urk... s-sorry about that. I'm Meisho\nDoto, and...\nand I'll be s-sing... singing\ntoday!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hey... will she be all right?",
+            "name": "Spectators"
+        },
+        {
+            "text": "Breathe in... and... out!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The sky above the bay... a shadow on\nthe pier.\nBearing resemblance to you,\ntears strike my\neyes. ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Love and passion forsake me, I am\nalooone!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Wow... you can really feel the lyrics!",
+            "name": "Spectators"
+        },
+        {
+            "text": "I only now realize how quiet the\naudience has\nbeen—they're all\ncompletely fixated on Meisho\nDoto's\nvoice. Her song must be really\nresonating\nwith them!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Where toooo? You say you will never...\n\nretuuurn! ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Why, miss, that was an incredible\nperformance!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Oh, oh, ohhh! Wh... what an applause!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh, um... Th-thank you for listening!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Encore!",
+                "That was some exquisite singing!",
+                "You've got this in the bag."
+            ]
+        },
+        {
+            "text": "Oh, um... Th-thank you for listening!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Encore!",
+                "That was some exquisite singing!",
+                "You've got this in the bag."
+            ]
+        },
+        {
+            "text": "Encore! Encore!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Huh?! Not you too, Trainer, and...\neveryone else?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Well, if you don't mind it, then... I'll\nd-do my best\nto sing again!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Huh?! I'm n-nothing special... really!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh no, your voice is incredible! We'd be\nhonored\nto have you for our next\ncompetition!",
+            "name": "Competition Coordinator"
+        },
+        {
+            "text": "Eep! Is th-that really okay?! Um... it\nwould be my\npleasure!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You think I've... won?! There's n-no way\nwhen\nthere are... so many better singers\nhere!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Well, you've got our vote, missy!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Huh?! You all are b-b-being too n-nice\nto\nsomeone like—Wha-whaah?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото's singing has earned her a\nspot in\nthe next competition!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэйсё Дото performs for a second time,\ngaining\na little pep in her step!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The winning contestants are selected\nfrom the\nofficial entries. However,\nthanks to the audience's\nsupport,\nМэйсё Дото leaves with the special\n\naward!",
+            "name": "Монолог"
+        }
+    ]
+}

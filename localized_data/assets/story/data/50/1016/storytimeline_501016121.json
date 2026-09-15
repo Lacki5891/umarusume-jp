@@ -1,0 +1,111 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! Congratulations!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Нарита Брайан has been selected to be\nUmamusume\nof the Year!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "...Umamusume of the Year?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ah, Brian! Perfect timing! Allow me to\nexplain.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "That title is bestowed upon the racer\nwith the\nhighest accolades.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "There is also an award ceremony, so\nplease\nglance through these documents\nregarding\nattendance.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Hehe, I'm sure the ceremony will be a\nhuge\nmilestone for you.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Hey, do we really have to go?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Well, technically, we could skip, but..."
+            ]
+        },
+        {
+            "text": "Yeah, I'm not a fan of things like this,\nand I'd like\nto avoid any unnecessary\nannoyances.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The only thing I want to focus on right\nnow is\nrunning.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I've heard that strong runners who've\nwon in the\npast will also be in\nattendance.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sure that being able to see them up\nclose and\nhear how they think will have\na positive impact on\nher running. Not to\nmention...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Going will motivate you to get stronger."
+            ]
+        },
+        {
+            "text": "Mmm...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's a hard opportunity to pass up.\nFine then...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's your duty to make me stronger. I'll\nleave it to\nyou to guide me.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's the deal I signed up for, so you\nwon't hear\nany complaints from me. Pick\nwhatever path you\nthink I need.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This is an important decision that will\naffect her\nfuture. Should we look to rub\nshoulders with\nseasoned racers... or not?\nThe best choice is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You want to face off with the best, so let's\nattend!",
+                "Maybe it's a little too soon."
+            ]
+        },
+        {
+            "text": "...Heh, all right.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Then I'm with you. Let's move to the\narena where\nthe strongest fight.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...All right.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm still nothing more than a competitor.\nIt's too\nearly for me to move to the next\nlevel.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm not even sure I understand what\nstrength is\nyet anyway.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And so, we give notice that Нарита Брайан\nwill be\nattending.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, we give notice that Нарита Брайан\nwon't be\nattending.",
+            "name": "Монолог"
+        }
+    ]
+}

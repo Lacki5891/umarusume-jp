@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I greet Эйр Грув as she returns from\nher\nawe-inspiring performance in the\nOka Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As expected from the Oka Sho, the\ncompetition\nwas spectacularly fierce.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Races like this truly do set my heart\nalight.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The race has just finished, but Air\nGroove is\nablaze with fighting spirit!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You'll need to give even more at the Japanese\nOaks."
+            ]
+        },
+        {
+            "text": "Indeed.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Let's get back. I want to go over today's\nrace and\nstart strategizing for the\nJapanese Oaks.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You got it!"
+            ]
+        },
+        {
+            "text": "The Japanese Oaks is coming up fast.\nWe can't\nafford to rest on our laurels!",
+            "name": "Монолог"
+        }
+    ]
+}

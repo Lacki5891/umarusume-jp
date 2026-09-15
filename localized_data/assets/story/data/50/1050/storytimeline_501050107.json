@@ -1,0 +1,214 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Since it's Valentine's Day tomorrow, I\ndecide to\ngive Нарита Таисин a present.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "But what should I get her since she doesn't like\ncandy?"
+            ]
+        },
+        {
+            "text": "I end up picking out some cookies\ncoated in\nbitter chocolate and head\nback.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? What's that?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Happy Valentine's Day, Taishin!"
+            ]
+        },
+        {
+            "text": "What? Oh... That's today?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Did you forget?"
+            ]
+        },
+        {
+            "text": "No... Well, maybe. Kind of.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't really exchange chocolate with\nfriends or\nanything.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hang on, is that seriously for me?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "...Huh. Okay.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Uh... Thanks, I guess.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That night, while I'm relaxing in my\nroom, there's\na knock at the door.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey... You in there?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin?!"
+            ]
+        },
+        {
+            "text": "Have you had dinner yet? If not, I\nbrought you\nsome food.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Oh, thanks... Wait, what?!"
+            ]
+        },
+        {
+            "text": "I stare at Taishin in confusion and notice\nthat\nshe's holding a container filled with\na dry curry\ndish.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I haven't eaten yet, so I'm starving, and I\nhappily\naccept the food. Still...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Why'd she suddenly bring me food?!)"
+            ]
+        },
+        {
+            "text": "And not only that...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "This is really tasty!"
+            ]
+        },
+        {
+            "text": "Why are you acting like it's some kind of\nhuge\nshock?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Because I didn't know you were such a good\ncook!"
+            ]
+        },
+        {
+            "text": "Not really. I just learned how to cook\nsince my\nfamily runs a business. My\nparents were too busy\nto look after me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You don't have to make such a big deal\nabout it.\nIt's just a dry curry...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But it's really good!"
+            ]
+        },
+        {
+            "text": "I'm not lying or exaggerating. The curry\nhas a\nmellow sweetness and depth to it\nthat makes me\nwonder if it has some\nsecret ingredient.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Hm?)"
+            ]
+        },
+        {
+            "text": "Well, I guess that's better than being\ntold it\ntastes disgusting.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Anyway, I've got a curfew to keЭпизод Later.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин runs off as if desperate to\nleave.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm so hungry and the curry is so amazing\nthat I\nclean my plate before realizing it.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thanks! That was great!"
+            ]
+        },
+        {
+            "text": "Yeah, yeah, no problem.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "A brief silence hangs in the air.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Say...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You know that thing you said about me\nbelieving\nin myself?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Huh? Oh, yeah!"
+            ]
+        },
+        {
+            "text": "I once told her that I'd believe in her as\nlong as\nnecessary until she believed in\nherself too.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And I would believe in her even if it took\na\nlifetime.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well... Hypothetically speaking...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What if I said that I believe in myself\nnow?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What would you do?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Hmm?"
+            ]
+        },
+        {
+            "text": "Would you call it quits because you've\ndone your\njob, and that's it? You're\ngone?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Well..."
+            ]
+        },
+        {
+            "text": "I wouldn't say it in so many words, but I\nguess if\nshe's gained confidence in\nherself, then that's\nenough.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I open my mouth to speak, but she\ninterrupts me\nbefore I can get the words\nout.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No, don't say anything.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Not yet. I don't want to hear it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Sorry. I'm going back.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин runs off as if desperate to\nleave.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The taste of the curry leaves a lingering\nhint of\nsweetness in my mouth.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The taste of the curry leaves a hint of\nbitterness\nin my mouth.",
+            "name": "Монолог"
+        }
+    ]
+}

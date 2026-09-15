@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон has yet to show up for\ntraining, so I\ngo looking for her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, Hishiama... I think that's enough for\nnow...",
+            "name": "Miho Student"
+        },
+        {
+            "text": "Come on, you can't expect me to back\ndown from\na fight. One more round... I'm\nnot losin' this time!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What are you doing?"
+            ]
+        },
+        {
+            "text": "Can't ya tell? I'm playing a game of Old\nMaid!\nMan... why can't I win?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What about training?"
+            ]
+        },
+        {
+            "text": "Huh? What about it? Why are you\nbringin' up\ntraining all of a—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wait, holy crap!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm so sorry, Teach! I got so carried\naway, I\ncompletely forgot we had\ntraining today!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон looks apologetic enough,\nso I let\nher off with a firm reminder to be\nmore careful\nnext time.",
+            "name": "Монолог"
+        }
+    ]
+}

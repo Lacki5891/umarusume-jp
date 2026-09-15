@@ -1,0 +1,88 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I rush Кинг Хало to the infirmary after\nshe gets\ninjured.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Even monkeys fall from trees, and even\nHomer\nsometimes nods. Which means\nthat my mistakes...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Are just stepping stones to success! Let\nme try\nagain, Trainer!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Let's treat that injury first.",
+                "Sure."
+            ]
+        },
+        {
+            "text": "Meanie...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You worry too much. An injury like this\nwill heal in\nno time.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Just you watch how fast I heal up...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Really?! Fantastic! Then, without further\nado...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ouch!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...I would like to amend my earlier\nstatement at\nthis time.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Instead of \"my mistakes are stepping\nstones to\nsuccess,'' what I should have\nsaid is \"my mistakes\nare not mistakes at\nall.''",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "If you don't acknowledge a mistake, it\ndoesn't\nexist... Understood?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Okay, let's take some deep breaths.\n<i>Inhale...\nexhale...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "We just need to relax. Being too\nconscious of\nprevious mistakes only\nleads to more.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Good point."
+            ]
+        },
+        {
+            "text": "Hehe, I won't make the same mistake\nagain. Like I\nsaid, my mistakes are\nstepping stones to success!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало lets out another frustrated\nsigh.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало's resolve to always move\nforward no\nmatter her mistakes has never\nbeen more\napparent.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало's expression remains\nunpleasant for\nsome time after that.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day at the dorm, there's a travel\nprogram on\nTV.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wowie! That sure is pretty!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hidden hot springs, huh? Sure sounds\nlike a trip\nworth making.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "(Hehe. Spe's in such a good mood\ntoday.)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(Hm... Speaking of hot springs...)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Тренер?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Do you remember how I won that hot\nspring\nvacation coupon in the raffle at\nthe shopping\ndistrict?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Come to think of it, I do remember...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Who should I invite? Vacations are such\nspecial\noccasions, after all...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Do you think you could hold on to this\ncoupon\nfor me, please?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thinking back on it, I've been keeping\nthat\ncoupon safe since then.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I couldn't decide what I wanted to do\nwith it back\nthen, but...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I think I know now. Would you like to go\nwith me?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You're inviting me?"
+            ]
+        },
+        {
+            "text": "Yes. I'd love for you to come.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "That was wonderful. It was so quiet, and\nthe water\nwas nice and hot.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The hot spring was as soothing as she\nsays. I\nnearly lost track of time while\nrelaxing in there.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I might've soaked a little too long. I feel a little\nlightheaded."
+            ]
+        },
+        {
+            "text": "Oh no...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe... I know what we can do to help\ncool you\ndown.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You do?"
+            ]
+        },
+        {
+            "text": "Yes, I was just thinking about how I'd\nlike to go\nfor a walk outside.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Would you like to join me?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I walk with Сайленс Судзука down a rural\nroad that\nseems to stretch for miles.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Doesn't the breeze feel so good?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She looks so happy, I can't help but\nwonder if the\nreason she wanted to go\non this vacation was to\nenjoy the lush\nnature around the inn.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's so open around here."
+            ]
+        },
+        {
+            "text": "Right? It seems like this road might go\non forever.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I bet if I started running, I'd be able to\nsee all\nsorts of new scenery...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You're not about to sprint off on me, are you?"
+            ]
+        },
+        {
+            "text": "Oh... No. I was just imagining it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I do feel like going for a run...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But right now, this is exactly where I\nwant to be.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I want to stay by your side, walking\ntogether at\nthe same pace.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm taken aback for a moment by her\nunexpected\nannouncement.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do you remember when we first met?\nThe scenery\nback then was just like this.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Since then, I've run so much, and seen so\nmany\ndifferent sights.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Sometimes I ran so quickly I couldn't\neven see\nwhat was around me.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "...Yeah."
+            ]
+        },
+        {
+            "text": "The road we've traveled to make it this\nfar is just\nlike this one we're walking\nalong right\nnow—bumpy, rough, and\nanything but easy to\ntraverse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And for three years, we've done nothing\nbut run\ndown it in earnest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe that's why I feel this way.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Like it's all right to take things slow\nevery once in\na while, and simply move\nforward one step at a\ntime...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "All while taking in new scenery with you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Her eyes sparkle like shooting stars in\nthe night\nsky.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're right."
+            ]
+        },
+        {
+            "text": "I hope I get to see more new scenery in\nthe future.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And I hope you'll still be by my side\nwhen I do.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We spend the rest of the walk down that\nendless,\nbumpy country road exchanging\nonly a few words\nfrom time to time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I sense that Сайленс Судзука and I have\nformed an\nirreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

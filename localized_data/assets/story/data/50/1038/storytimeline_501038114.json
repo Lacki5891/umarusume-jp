@@ -1,0 +1,273 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my day off, I spot Каррен Тян at a\ncafe.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I ordered the new flavor! Hopefully I'll\ndo a good\njob reviewing it!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She's looking at her phone on the table\nand\ntalking to herself...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, that's it for part A. The next thing\nI need to\nfilm is...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Hey, Curren!"
+            ]
+        },
+        {
+            "text": "Big Bro? Fancy seeing you here!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What were you doing?"
+            ]
+        },
+        {
+            "text": "Big Sis? Fancy seeing you here!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What were you doing?"
+            ]
+        },
+        {
+            "text": "Oh, the video just now? I'm uploading it\nto\nUmaTube!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "UmaTube is a video-sharing service\nthat's popular\nwith people of all ages. I\nhad no idea Curren\nChan was on\nUmaTube as well.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Did you quit Umastagram?"
+            ]
+        },
+        {
+            "text": "Ha! Do you hear yourself? I'm doing\nboth, of\ncourse!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I actually made my UmaTube channel a\nlong time\nago. I just hadn't really been\ngiving it much\nattention.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But now I'm gonna be posting a bunch!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Any particular reason?"
+            ]
+        },
+        {
+            "text": "If I wanna be the most beloved runner, I\nhave to\nget more people to know who I\nam.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Since there are so many people watching\n\nUmaTube, I figure posting there is pretty\n\nimportant. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "text": "Sooo... don't forget to subscribe to\nCurren\nChannel ♪!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Sooo... don't forget to subscribe to\nCurren\nChannel ♪!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll walk you through it. First, you have\nto make an\naccount...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Thanks for subscribing. ♪ Now that my\n\nUmaTube's all set...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Make sure to follow me on UmaTok and\nUmatter\ntoo!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "There's more?!"
+            ]
+        },
+        {
+            "text": "Of course! I'm gonna be posting on\nthose next! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh! I really recommend this cafe's\nspecial latte! I'll\nshow you how to order\nit. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Even though I came to this cafe to get a\ndrink, I\nend up helping with Curren\nChan's posting on\nsocial media.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time for a funny-face contest! Ready,\ngo! ♪",
+            "name": "Монолог"
+        },
+        {
+            "text": "Teehee! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wow!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Grrr...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ehe! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Okay. Show me the vid.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Okay. Show me the vid.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "<i>Gulp...</i>"
+            ]
+        },
+        {
+            "text": "All right! ♪ I think this one's okay for\nUmaTok!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Th-thank goodness..."
+            ]
+        },
+        {
+            "text": "Oh. Your arms are shaking... I guess you\n<i>were</i>\nholding my phone for a long time.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh. Your arms are shaking... I guess you\n<i>were</i>\nholding my phone for a long time.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Sorry for doing like 107 retakes. But\nthanks to\nyou, I got a good one!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Now that we've filmed the dance too, it's\ntime to\npost on Umatter!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I usually just use Umatter as a way to get\npeople\nto check out my UmaTube and\nUmastagram.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But since the audiences are different,\nthere are\nsome pics I only upload\nthere. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Like what?"
+            ]
+        },
+        {
+            "text": "Hm... Oh, this lighting's perfect!\nQuick—get a pic!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hm... Oh, this lighting's perfect!\nQuick—get a pic!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Flash! Flash! Flash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks. Now to add a caption... Aaand\npost!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I check out her post right away. It's a\npicture of\nher smiling indifferently in\nfront of the setting sun\nwith the caption,\n\"Let's go on another date soon.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's just a regular picture of Каррен Тян,\nbut the\nspeed at which it gets attention\nis amazing.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "The number of likes... It's over 10,000!"
+            ]
+        },
+        {
+            "text": "Wow! That might be a new record!\nHaving\nsomeone else take the shot\nreally does\nwonders. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It seems like maybe Umatter users like\nhaving a\nstory attached to the upload!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "If you just post a pic with a short\nsentence, you\nget more attention than if\nyou try too hard for it.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I don't really get it myself, but it looks\nlike she\nuses each platform differently.\nBut...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Don't you think you're uploading a little too\nmuch?"
+            ]
+        },
+        {
+            "text": "After spending just one day with her,\nI've realized\nthat posting on social media\nis much more\ndifficult than I'd imagined.\nI'd prefer if she\nconcentrated that\nenergy solely on her races.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...You think?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm completely fine, though.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm completely fine, though.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Posting on social media is my calling,\nand getting\nto interact with everyone\nreally refreshes me.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "So don't worry about me. Just look\nforward to the\nAoi Stakes, 'kay?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "So don't worry about me. Just look\nforward to the\nAoi Stakes, 'kay?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I can feel an intense pressure behind her\nbright\nsmile... I don't think she'll let me\nsay anything\nelse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! I've gotta post to Umastagram soon.\nStay\nwith me till I'm done, 'kay?\nThanks! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh! I've gotta post to Umastagram soon.\nStay\nwith me till I'm done, 'kay?\nThanks! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It ends up being a day spent taking tons\nof\npictures... My worries, unfortunately,\nare never\naddressed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"#CuteCurrenChan #AoiStakes\n#RightBefore\n#JapaneseDerby\n#CheerForMe ♪\"",
+            "name": "Каррен Тян"
+        }
+    ]
+}

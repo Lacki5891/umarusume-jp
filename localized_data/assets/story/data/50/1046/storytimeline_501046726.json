@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while Смарт Фалкон and I are\nout\ntogether...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh hey, look at that! ☆ What adorable\n\nplushies! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "She's looking at a claw machine filled\nwith little\nUmamusume plushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I bet surrounding myself with these\nadorable\nthings will up my Umadol\npower! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You think so too, right?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Well, it's possible..."
+            ]
+        },
+        {
+            "text": "In that case, I've got a request for\nyou. ☆ I'd just\nlove it if you could get\nme some plushies! ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "Don't worry, I'll be cheering you on with\nall my\nspirit!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I believe in you, Trainer! You got this! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It seems like I'm getting roped into this.\nAll the\nsame...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

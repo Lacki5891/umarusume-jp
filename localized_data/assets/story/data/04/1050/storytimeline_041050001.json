@@ -1,0 +1,248 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What, so just 'cause I'm small, I don't even\nget a <i>chance?!</i>",
+            "name": "???"
+        },
+        {
+            "text": "An outburst of anger cuts through the\ncafeteria's idle lunchtime\nchatter.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The room is stunned silent... until a whisper\nof voices begins to buzz,\nand students\nnervously turn their eyes to the offending\ntable.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The student who shouted stands up,\nhardly taller than when she was\nseated.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wh-whoa! Waaait, wait, wait! I didn't mean\nit like that, Taishin! I\nswear it's not about\nyour height!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket does make a valid point, Taishin.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Sufficient nutrition is certainly essential to\nphysical growth, but what\nyou have there\nis far more food than you require.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Heaps of food lie on the table next to\nНарита Таисин. There's no way\nshe'll finish\nit all.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Who asked you...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Just listen, will you? I don't want a repeat\nof how you ate yourself sick\nthe other day.\nYou're a naturally light eater—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I said, SHUT IT!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "T-Taishin! Come on, can't we just—",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Get away from me!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And quit nagging me. Just leave me alone!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The scene leaves a bad aftertaste that\nlingers in the back of my mind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "On my way home from a long day's work, I\nhear footsteps from the\ndarkened training\ncourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(Someone's doing laps? At this time of night?)"
+            ]
+        },
+        {
+            "text": "<i>Pant...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Furiously running around the course is the\npetit racer from lunch\ntoday, Narita\nTaishin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i> Grrr... Raaagh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Through gritted teeth, she lets out an\nagonized shout that echoes\nthroughout\nthe track.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The frustration—the <i>desperation</i>—in her\nsteps... It almost hurts to\nwatch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Several days later... runners line the track\nfor tryouts, eager to show\ntrainers their\nhard-won skills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For many of the determined athletes, it\nrepresents the chance of a\nlifetime and the\nfirst step toward the big leagues.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa!",
+            "name": "Racer"
+        },
+        {
+            "text": "Sorry, I didn't see you!",
+            "name": "Racer"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин, barely visible, struggles to\nstand out among the many\ndebut hopefuls.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yikes, look at that tiny one over there.\nHm... To be honest, I'm not\nseeing anyone\npromising.",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "Agreed. Usually we get at least one from a\ngood family, or even just\nsomeone with a\nnice, athletic build.",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Hey now. We won't really know anything\nuntil we see them run. Look,\nthey're about\nto start!",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Hmph... I'm gonna do this. They'll finally\nsee!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Here we go! The racers are lined up at the\nstarting gate... And they're\noff!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Haaah!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh? That tiny kid's trying to get out of\nthe pack! She's not gonna try\nand push her\nway through to the front, is she?",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "Mhm. But with that small frame of hers...",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Ugh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I knew it. The middle's too much for her.\nShe's at a total disadvantage\nstature-wise.",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Damn it!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Geez, the others are just brushing her off...\nThere's no way she has\nenough stamina to\nkeep up.",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The leaders have rounded the fourth\ncorner! But what's this? A\nchallenger is fast\napproaching!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Aaaaagh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's Нарита Таисин! Нарита Таисин rushes\nahead with tremendous\nspeed! She's going\nfor the lead!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> Ugh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She wasted all her energy at the start.\nWhat reckless running... It hurts\nto watch.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "There's no doubt her break for the front\nwas a sight to behold. But in\nthe end,\nНарита Таисин slipped down in position...\nand finished in\ntenth.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After the intense race...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> That sucked... My head is\npounding.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey, Taishin, do you have a moment\nto—oh dear, are you okay? Still\ncan't catch\nyour breath?",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Hm?! No, I'm fine. You need something?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No... That race told me everything. I hate\nto say this, but... You just\naren't built for\nracing. You should do yourself a favor and\ngive up.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "What?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You're too small. If you pulled a stunt like\nthat in the Twinkle Series,\nyou could get\nyourself seriously hurt.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "For your safety... Start looking into other\ncareer paths. There are\nplenty of choices\nfor Umamusume besides racing.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "...Buzz off.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Listen to me, Taishin! Please, I'm saying\nthis for your sake. Would you\nat least—",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Just shut up already! You're saying it for\n<i>my</i> sake? Hah! What a load\nof crap!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'll show you all! I'm going to win if it's the\nlast thing I do!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин spits the words out and runs\noff in a huff. The crushed\nlook in her eyes\nas she passes me—it's heartbreaking.",
+            "name": "Монолог"
+        }
+    ]
+}

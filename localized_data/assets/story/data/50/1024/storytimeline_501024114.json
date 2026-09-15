@@ -1,0 +1,216 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few months have passed since\nMayano's debut.\nWhile training like\nusual...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Yukino? Are you all right? Why don't\nyou take\nfive?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm right as rain! I can keep goin', ya\nknow!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Anyway, I wanna catch ya! Ev'ry sec'nd\ncounts!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I see. Hehe.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "In that case, let's do another lap.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Ah.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Whoa! Тренер?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's nothing! Absolutely nothing...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She says it's nothing, but that heavy sigh\n\nindicates otherwise.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Want to do something else?"
+            ]
+        },
+        {
+            "text": "Something else? You mean, like... go on\na date?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "text": "Really?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yay! Give me one minute to get ready! A\ndate\nwith Trainer! Yaaay! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe, I wonder what it's like to go on a\n\ngrown-up date. ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "With that, we head out. Speaking of a\nplace that\nwill cheer her up...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The last stop on our date has to be the\nplace\nwhere I twinkle the most!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "There's only one place it could be.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "The place where you twinkle the most."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Do you still think so? Even now?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What if I said I'm beginning to doubt\nthat? Would\nyou get angry?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Why the sudden change of tune?"
+            ]
+        },
+        {
+            "text": "Well...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I used to think that being able to run in\na real\nrace would be so exciting.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I mean, all the racers are so twinkly, you\nknow?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's why I always looked forward to\nrunning—in\nmy debut race and all my\nother races too.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But when I finally ran those races, it\nwas...\ndifferent from what I thought.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I felt like, \"Oh, so this is what racing is.\nIt's kind of\nboring.\"",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Honestly, I know I shouldn't say things\nlike that.\nI'm aware of it, but...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "No matter what I do, it's so boring.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I see."
+            ]
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I've heard that's a good thing!"
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "So far, she's only run in the debut-level\nraces of\nthe Twinkle Series.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And she just isn't satisfied with racing at\nthis\nlevel. All that means is that she has\nto set her\nsights on the next level.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her chance to face stronger opponents\nwill come.\nThere are races she hasn't\nexperienced yet.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So if she's just worried about feeling\nbored right\nnow...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We should try to have more fun from now on!"
+            ]
+        },
+        {
+            "text": "...More fun?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Can we do that? I told you, I'm—",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'm going to do my best to help you twinkle."
+            ]
+        },
+        {
+            "text": "...Thank you.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I know that she'll shine in a way that\nonly she can.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Since I was able to become the trainer of\na racer\nas naturally gifted as Mayano\nTop Gun...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's my duty to put her in races where she\ncan use\nthat talent and improve her\nunique abilities.",
+            "name": "Монолог"
+        }
+    ]
+}

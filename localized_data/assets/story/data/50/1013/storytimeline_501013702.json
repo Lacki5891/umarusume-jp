@@ -1,0 +1,206 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What? My hobbies?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "As Мэдзиро МакКуин and I are returning\nto the\nacademy after a day out, I\nhappen to bring up the\nsubject of\nhobbies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Isn't that a bit rude? Asking a lady to\nreveal her\nsecrets?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Since you've chosen to cross this line, I\nsuppose it\nonly proves your genuine\ninterest in the matter.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Very well, then. I will share with you, if\njust a\nlittle. Now, come with me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "She brings me along to...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here we are. This isn't publicly known,\nbut...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I... enjoy cinema.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин likes movies? Seems a\nlittle\nordinary considering the family she\ncomes from.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But seeing as we've come all this way to\nthe\nmovie theater, it would be a shame\nto simply\nreturn to the academy now.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you want to see a movie now?"
+            ]
+        },
+        {
+            "text": "You mean together?! Uh, well, I\nwouldn't mind,\nbut...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "How does one appreciate a film with\nsomeone\nelse?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "I... just don't know what to do. For some\nreason, I\nfeel nervous...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "S-since I can't seem to remain calm, I'll\nlet you\ntake the lead. I trust you'll do\nwell.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Now... which film should we watch?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "What should I choose? I think the movie\nthat will\nmake Мэдзиро МакКуин happy\nis...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "<i>Five-Hour Inferno</i>",
+                "<i>The Great Prison Escape</i>"
+            ]
+        },
+        {
+            "text": "<i>Five-Hour Inferno!</i> Now that is a film of\nepic\nproportions. Originally, it was only\nthree and a\nhalf hours long, but...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The director's cut is said to have\nlengthened the\nruntime to a total of five\nhours. Truly a\nnightmarish film...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Very well then. With two of us watching\nit\ntogether, the nightmare won't be so\nscary. Let's\ngo!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Phew. I felt like we were in there all day!\nBut, I\nfeel more resilient now for having\nwatched it.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Was it hard to get through?"
+            ]
+        },
+        {
+            "text": "No. After all, you were there with me to\nexchange\nglances and laughter!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hehe, I suppose it <i>is</i> reassuring to have\nsomeone\nwith me to share the\nexperience.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>The Great Prison Escape!</i> It's a suspense\nfilm\nabout a man who uses ingenuity to\nbreak out of\nan inescapable prison.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Very well. We shall watch in anticipation\nhow the\nprisoner manages to pull off this\ngreat feat.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My goodness! I never imagined the main\n\ncharacter would escape by becoming a\n\nfifth-dimensional being!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "To be frank, the film's logic was utterly\n\nincoherent to me, but I found it\ninsightful all the\nsame.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It was a surprisingly intellectual movie.\nMejiro\nMcQueen seems to have learned\na lot as a result.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After overcoming the five hours of hell,\nMejiro\nMcQueen seems to have boosted\nher willpower!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I wonder how she came to like movies?\nFeeling\ncurious, I decide to ask her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It was a... reactionary development.\nFrom an early\nage, I had been dedicated\nto hobbies befitting a\nMejiro, such as\nflower arrangement and tea\nceremony.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "But later, I found myself wanting to\nenjoy\nsomething that would let me relax\nand destress.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Um... This is a secret between you and\nme, all\nright?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I understand. I won't tell a soul."
+            ]
+        },
+        {
+            "text": "Thank you. Remember, a promise is a\npromise.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Heh. Somehow, I feel as though I've\nconveyed too\nmuch.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Um... I wanted to tell you. The time we\nspent\ntogether today was, um...\nenjoyable.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You are a little different from those in\nthe Mejiro\nhousehold.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "...How so?"
+            ]
+        },
+        {
+            "text": "With the exception of my relatives,\neveryone in\nthe Mejiro household tends\nto have a line drawn\nbetween themselves\nand me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "From my chauffeur to my private tutor,\nthey're all\npolite, yet somewhat\nreserved.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "But you aren't like them. You cross over\nthat line\nwithout hesitation, and... I like\nthat.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Normally, I don't watch movies with the\nhelpers or\nanyone I only have a work\nrelationship with. But,\nI...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Wait, are you trying to say..."
+            ]
+        },
+        {
+            "text": "N-never mind! What I said just now was a\nbit\nodd... It must be an aftereffect from\nthe theater.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Just... It was not a terrible experience.\nMaybe,\nnext time...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "No, I will leave this conversation to\ncontinue at\nanother opportunity. Have a\ngood night, Trainer.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин leaves with a light\nswish of her\ntail. It feels like she has\nopened up a little.",
+            "name": "Монолог"
+        }
+    ]
+}

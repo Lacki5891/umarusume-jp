@@ -1,0 +1,120 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You did well out there!"
+            ]
+        },
+        {
+            "text": "But it doesn't change the result. I was\nnaive.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I didn't realize the race would be so...\ntough.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "...But did you have fun?"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I'm not sure. But I want to run again\nsoon.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I won't settle for such a lackluster result\nnext time\nin the Derby... I want first\nplace!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан heads to the waiting room,\ntail\nswishing vivaciously behind her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I should follow her.)"
+            ]
+        },
+        {
+            "text": "...Hey, did you get a good picture of\nNarita\nBrian?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "You bet I did! I got her right as she sped\nup!",
+            "name": "Photographer"
+        },
+        {
+            "text": "I feel a little sorry for the other racers in\nher year.\nWho would have thought that\nsomeone like her\nwould show up?",
+            "name": "Репортёр",
+            "choice_data_list": [
+                "(Are they talking about Нарита Брайан?)"
+            ]
+        },
+        {
+            "text": "I recall that conversation I overheard\namong the\nreporters the next day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, did you see the news about the last\nSatsuki\nSho?",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "Yeah, I saw it. The winner's a beast. We\nwere\naiming for the Derby too, but not\nanymore.",
+            "name": "New Trainer"
+        },
+        {
+            "text": "Нарита Брайан's performance really was a\nshock to\nus all.",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "<i>Sigh...</i> Did you see that article?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Do you mean the one called, \"Inches\nFrom Derby\nChampion—the Astonishing\nSpeed of Brian the\nBeast\"?",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Hey, did you see that one racer? She\nwas a total\nbeast on that final stretch.",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "You mean Brian, right? I wonder if she'll\nbe at the\nDerby too. I just messaged my\ntrainer so we can\ntalk about it.",
+            "name": "Umamusume D"
+        },
+        {
+            "text": "<i>Sigh...</i> Нарита Брайан...",
+            "name": "Both"
+        },
+        {
+            "text": "<i>Chatter, chatter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, what's with all the commotion?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I look over where Нарита Брайан is pointing\nto find\na long line of people waiting to\nsee her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "This must be because of the news article..."
+            ]
+        },
+        {
+            "text": "Tch! Busybodies. ...How annoying.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I don't have time for this right now. The\nnext\nClassic Triple Crown race is coming\nup. I'm going\nto win the Japanese Derby!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Everyone's expectations for Нарита Брайан\nare\nrising, but she is squarely focused on\nher next\ngoal—the Japanese Derby.",
+            "name": "Монолог"
+        }
+    ]
+}

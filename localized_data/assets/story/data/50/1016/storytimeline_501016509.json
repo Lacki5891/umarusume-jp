@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Tch. Pathetic. That was such a sluggish\nrun...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "text": "I'm fine! You just worry about your own\njob!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Damn, I'm so weak! Weak! I shouldn't be\nworn out\nalready.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Run harder... harder. I've got to run\nharder!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Unable to get results due to fatigue,\nНарита Брайан\nhas become more impatient\nand irritated than\nusual... This isn't good.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We shouldn't push it any harder. I should\n\nprobably rethink her race schedule...",
+            "name": "Монолог"
+        }
+    ]
+}

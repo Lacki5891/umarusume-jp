@@ -1,0 +1,92 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as I'm walking by the training\ntrack, a\nconversation between two\nUmamusume in the\ndistance catches my\nattention.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's enough. Training any more would\nbe\npointless.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No, it wouldn't! Why would you say\nthat?! If I\ndon't train more, I'll—",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "You would continue pushing yourself,\neven if it\nmeans injuring your leg?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Cast aside the panic you're feeling\ntoward your\nupcoming debut and have\nyour leg properly\nexamined.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You can think about training after that.\nIf you\nneed advice then, I would be glad\nto provide\nsome.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув... Thank you so much.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Her fury quelled, the younger\nUmamusume bows\nto Эйр Грув before\nleaving.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Were you giving her advice?"
+            ]
+        },
+        {
+            "text": "Hmph. It is my given duty as the Empress\nto lead\nthe others. I'm not here to put on\na show.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Are you always so tough on them?",
+                "You're always watching them very closely,\naren't you?"
+            ]
+        },
+        {
+            "text": "Hmph. It is my given duty as the Empress\nto lead\nthe others. I'm not here to put on\na show.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Are you always so tough on them?",
+                "You're always watching them very closely,\naren't you?"
+            ]
+        },
+        {
+            "text": "...I shall answer this only once so that it\nmay\nbenefit the racer you've partnered\nwith. The\nanswer is, \"No.\"",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Each Umamusume has dreams she will\nnever give\nup on... and aspects of herself\nshe won't\ncompromise on.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Observing these two points carefully is\nthe first\nstep to guiding them.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "One must be flexible and adapt. I\nwouldn't be the\nEmpress otherwise.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You fool. Do you know who you're\ntalking to?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As the Empress, how do you think I\nwould be able\nto guide others if I didn't\ndevote my earnest\nattention to each\nindividual?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We're done here. You'd best return to\nyour own\ntasks.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I won't stand for such insolence next\ntime. Watch\nyourself and consider the\nperson you're speaking\nto before you\nopen your mouth.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

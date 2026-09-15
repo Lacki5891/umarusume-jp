@@ -1,0 +1,203 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While on my way back home with Biwa\nHayahide,\nwe're stopped by someone\ncalling out to us."
+        },
+        {
+            "text": "Hey! Hayahide!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Good timing! We were just looking for\nmore\nplayers. Come play hide-and-seek\nwith us!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Yeah, yeah! Play with us!",
+            "name": "Children"
+        },
+        {
+            "text": "I must decline. I didn't come here to\nplay. We just\nhappened to pass by on\nour way home.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Aw, come on! This is our last round, I\npromise!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "It'll be fun! Pleeease!",
+            "name": "Children"
+        },
+        {
+            "text": "The last kid who joined us hasn't had a\nchance to play at\nall yet. Just think of\nthis as your good deed for the day!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "It's almost curfew... Oh, all right.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Trainer, is it all right if we—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I'll be \"it.\"",
+                "You're \"it\"!"
+            ]
+        },
+        {
+            "text": "Trainer, is it all right if we—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I'll be \"it.\"",
+                "You're \"it\"!"
+            ]
+        },
+        {
+            "text": "Thank you, and sorry for dragging you\ninto this.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "By the way, Teio, which child hasn't had\na chance\nto play yet?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh, that's—",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Me! I didn't play yet. Thank you for\njoining us!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "Well, aren't you polite? Now then, I\nhave a\nrequest for you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Would you like to hide with me? I have\nan idea I\nwant to try.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "An idea?",
+            "name": "Девочка А"
+        },
+        {
+            "text": "And so, the game of hide-and-seek\nbegins."
+        },
+        {
+            "text": "Phew... Hayahide and the other girl are\nthe only\nones left.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I can't believe they outlasted me.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I know, right? That girl usually stinks at\n\nhide-and-seek.",
+            "name": "Boy A"
+        },
+        {
+            "text": "And she always asks to play with us\nwhen it's too\nlate. We'll have to invite\nher right away for our\ngames if she's\nactually <i>this</i> good!",
+            "name": "Girl B"
+        },
+        {
+            "text": "Hmm...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Five minutes pass..."
+        },
+        {
+            "text": "Found them!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hehehe! You got us!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "Heheh! We wouldn't have been able to\nstay\nhidden so long without you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "No! It's because of what you taught—oh!\nI gotta\nkeep that a secret!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "Hehe, you don't have to. It'll be more\nfun if you\ntell everyone so they can try\nit.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Just be sure to join everyone before it\ngets dark,\nokay?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Okay!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "I'm glad she grasped the trick so quickly.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Now then, everyone!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Believe it or not, my sister and I were\nconsidered\nthe best hide-and-seekers\naround back in the\nday.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And I'll be happy to show you why!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Haha! Let's do this! Let's hide, everyone!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "And so, the game of hide-and-seek\nbegins."
+        },
+        {
+            "text": "First place to check—under the slide!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Gah! You got me!",
+            "name": "Boy A"
+        },
+        {
+            "text": "Next, the trees next to the bench!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What? How'd you find me so quick?!",
+            "name": "Girl B"
+        },
+        {
+            "text": "And now to find Teio...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There you are, up in the tree behind my\ntrainer!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Aw, c'mon! There's no way you could've\nknown I\nwas here!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I merely factored in the size and number\nof kids\nand playground equipment to\nnarrow down my\nchoices. Well, did\neverybody have fun?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah!",
+            "name": "Children"
+        },
+        {
+            "text": "With a look of great satisfaction on her\nface,\nBiwa Hayahide heads back to the\ndorms with\nТокай Тейо."
+        },
+        {
+            "text": "Everyone goes home with big smiles on\ntheir\nfaces."
+        }
+    ]
+}

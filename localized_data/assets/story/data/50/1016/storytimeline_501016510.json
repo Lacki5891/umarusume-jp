@@ -1,0 +1,177 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm discussing today's training with\nНарита Брайан,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Got it. Guess I'm running laps today,\nthen.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(Hmm...)",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(It feels like we're being watched...)"
+            ]
+        },
+        {
+            "text": "...What are you doing? Let's go.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm ready to run, so I'm going ahead.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...There's a nice breeze. It's got my\nblood\npumping—I feel like I could run to\nthe end of the\nearth.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I see. Wind... Blood... Run...",
+            "name": "???",
+            "choice_data_list": [
+                "Who's there?"
+            ]
+        },
+        {
+            "text": "Uh, uh-oh!",
+            "name": "???"
+        },
+        {
+            "text": "...Tch. No way I can ignore that.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Come out, you lil' rat. I know you're in\nthe bushes.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "A-all right!",
+            "name": "???"
+        },
+        {
+            "text": "What's up, Brian?!",
+            "name": "Водка",
+            "choice_data_list": [
+                "Oh, it's Водка."
+            ]
+        },
+        {
+            "text": "...What do you think you're doing,\nfollowing me\naround from the crack of\ndawn?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well... Hm... Hmph... Guess I'm busted.",
+            "name": "Водка"
+        },
+        {
+            "text": "...Oh? That's quite the attitude.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Oh? Look who's talking.",
+            "name": "Водка",
+            "choice_data_list": [
+                "Are you... mimicking her?"
+            ]
+        },
+        {
+            "text": "No way! It's... an homage. I totally\nrespect Brian!",
+            "name": "Водка"
+        },
+        {
+            "text": "...I don't get what you're saying.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I wanna be just like you! I wanna be\npowerful and\ncool!",
+            "name": "Водка"
+        },
+        {
+            "text": "That's why I started followin' you this\nmorning.\nI've been studyin' the way you\nmove and how you\ntalk!",
+            "name": "Водка"
+        },
+        {
+            "text": "You want to be... like me?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You think you can compare to me with a\nshallow\nimpersonation? ...Don't kid\nyourself.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...!",
+            "name": "Водка"
+        },
+        {
+            "text": "If you wanna run on the same track as\nme, come\nprepared to tear it to shreds.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "O-of course!",
+            "name": "Водка"
+        },
+        {
+            "text": "...I look up to you and your unshakable,\n\nstraightforward confidence.",
+            "name": "Водка"
+        },
+        {
+            "text": "I'm gonna run just as fast as—no, I'm\ngonna\nsurpass you! You'll see!",
+            "name": "Водка",
+            "choice_data_list": [
+                "That determination is a strength in itself.",
+                "Want to do some partner running to test your\nstrength?"
+            ]
+        },
+        {
+            "text": "I'm gonna run just as fast as—no, I'm\ngonna\nsurpass you! You'll see!",
+            "name": "Водка",
+            "choice_data_list": [
+                "That determination is a strength in itself.",
+                "Want to do some partner running to test your\nstrength?"
+            ]
+        },
+        {
+            "text": "Really?! So does that mean I'm gettin'\ncloser to\nbeing the real deal?!",
+            "name": "Водка"
+        },
+        {
+            "text": "Then I don't have time to stand around\nand chat! I\ngotta train too!",
+            "name": "Водка"
+        },
+        {
+            "text": "Hmph... Not just match me, but you\nthink you can\nsurpass me?! That's quite a\nloud bark you got.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But it's <i>me</i> who'll be biting.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Huh?! C-can I really?!",
+            "name": "Водка"
+        },
+        {
+            "text": "I had no intention of allowing this... but I\nguess\nyou're free to follow me of your\nown accord.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Augh! I lost! One more, please!",
+            "name": "Водка"
+        },
+        {
+            "text": "Hmph... It doesn't matter how many\ntimes we go,\nI'll still defeat you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It could be because she was provoked,\nbut she's\neven more vigorous than usual\nin training\nafterward.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They continue until Водка has had\nenough, and it\nturns out to be a very\nproductive training session.",
+            "name": "Монолог"
+        }
+    ]
+}

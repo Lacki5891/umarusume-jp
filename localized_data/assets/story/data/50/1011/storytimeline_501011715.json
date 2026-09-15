@@ -1,0 +1,75 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер and I have come to the\ntrack to\nwatch some races.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There she goes! Laser focused! Blazing\nahead and\nacross the finish liiine!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me, Trainer.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "text": "I know we planned to watch races\ntoday... But do\nyou mind if we do\nsomething different?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Listening to all those cheers. I can't just\nstand\naround twiddling my thumbs.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Let's head back and do some laps.",
+                "Observation is a part of your training."
+            ]
+        },
+        {
+            "text": "Listening to all those cheers. I can't just\nstand\naround twiddling my thumbs.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Let's head back and do some laps.",
+                "Observation is a part of your training."
+            ]
+        },
+        {
+            "text": "Great! Thank you so much.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Let's hurry, then. We must begin before\nthis fire\nwithin me dims.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I understand that, but...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "We'll do extra training tomorrow, okay?"
+            ]
+        },
+        {
+            "text": "...Heh. Fair enough. I look forward to\nwhat you\nplan on adding.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Right now... I'll pay full attention to\nthese races\nand preserve this urge to\nfuel me for tomorrow.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We head back to the academy together,\nand\nGrass Wonder runs late into the\nnight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For the rest of our time at the venue,\nGrass\nWonder observes every race with\nhawk-like\nattention.",
+            "name": "Монолог"
+        }
+    ]
+}

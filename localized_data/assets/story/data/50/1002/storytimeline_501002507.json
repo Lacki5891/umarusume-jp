@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Сайленс Судзука has received a letter\nfrom a fan.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A letter? Oh, it's from a young\nUmamusume.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "That's great!"
+            ]
+        },
+        {
+            "text": "Yes... It's thanks to my fans' support that\nI'm able\nto enter certain races.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Still, it does feel a little strange.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm often complimented on my racing...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But I don't understand how people can\njust watch\non without feeling tempted to\nrun themselves.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It's because watching you run is satisfying\nenough."
+            ]
+        },
+        {
+            "text": "Interesting... So, that's how they feel.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Then... I suppose I'll have to make sure I\nkeep\nrunning the way I do.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems Сайленс Судзука has come to\nbetter\nunderstand the feelings of her\nsupporters.",
+            "name": "Монолог"
+        }
+    ]
+}

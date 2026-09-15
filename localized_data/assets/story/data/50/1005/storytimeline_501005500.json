@@ -1,0 +1,74 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while Фудзи Кисэки is walking\ndown the\nhallway...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ow... Why do my muscles hurt? But if\nthe muscles\nin this area are hurting, it\nmust mean...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I have a bad feeling about this. I'd better\ntell\nTrainer right awa—",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "No, that'll just cause unnecessary worry.\nI should\ngo to the infirmary and get\nchecked out first...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Trainer, do you have a minute? You see,\nI felt\nsome pain running down my leg\ntoday.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I went to the infirmary to see what was\nwrong,\nand...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "And?"
+            ]
+        },
+        {
+            "text": "It's just regular soreness. ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Haha! Judging from your expression, my\nlittle\nprank worked.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Your <i>prank</i> wasn't good for my heart..."
+            ]
+        },
+        {
+            "text": "Sorry, sorry. I don't blame you for being\nworried. I\nwas scared at first too.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm usually never sore because I used to\ndance so\nmuch, and I've never felt pain\nin this particular\narea.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But if they're sore now, it must mean\nthat I'm\ntraining and strengthening\nmuscles I wasn't able\nto before in dance.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And it's all thanks to a certain someone's\nvery\neffective training regime. ♪",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "That's good, then."
+            ]
+        },
+        {
+            "text": "YЭпизод This has been a learning\nexperience for me\ntoo.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "New doors have opened, and I can fly\neven more\nmagnificently down the turf\nthan before... I'm\ncounting on you to\nkeep up the good work,\nTrainer!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It seems that Фудзи Кисэки's learned she\nstill has a\nlong ways to go in terms of\ntraining.",
+            "name": "Монолог"
+        }
+    ]
+}

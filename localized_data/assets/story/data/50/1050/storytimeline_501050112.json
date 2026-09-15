@@ -1,0 +1,247 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after having won many races,\nNarita\nTaishin drops by.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So, about that hot spring ticket...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Both Ticket and Hayahide are busy, and\nI've got\nno one else to go with me, so...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Uh... If you've got nothing better to do...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'd love to go!"
+            ]
+        },
+        {
+            "text": "It's finally here—it's time to use the\nvacation\nticket we won at the raffle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But first... I have to get through the\nmountains of\npaperwork that's piled up\nover the course of the\nTwinkle Series!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I roll up my sleeves and bury myself in\nwork for\nthe next few days.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And that's everything! Thank you very\nmuch.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Um, you appear to be rather exhausted.\nMake\nsure to rest up.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "I manage to finish up all of my work, and\nthe next\nday quickly rolls around.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay. The schedule's fine with me, but...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Are you sure you're okay to go on\nvacation\nlooking like that? I feel like a\nlight breeze could\nknock you over.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I can wash my exhaustion away in the hot\nspring!"
+            ]
+        },
+        {
+            "text": "Meh. It's your funeral.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And so we set off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Who chooses such a decked out place\nfor the\nprize of some shopping raffle?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I bet the hot spring will be amazing!"
+            ]
+        },
+        {
+            "text": "Yeah, I guess.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I feel much better after my bath. It\nseems the long\nsoak really did take away\nmy exhaustion.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My head feels a little light, but I'm sure\nthe\ndizziness will fade soon enough.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, did you just finish up too?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "The water felt amazing!"
+            ]
+        },
+        {
+            "text": "Sure, it wasn't half bad.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Wait, your face is really red. Were you in\nthe hot\nwater for too long?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I don't... think... so..."
+            ]
+        },
+        {
+            "text": "Huh? Whoa!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey, are you okay?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Snap out of it! Trainer!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Finally, you're awake. Do you remember\ngetting\nlightheaded and passing out?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "Do you even know what you're\napologizing for?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "If it's for ruining our trip or for collapsing\nand\nbeing a pain...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Then I'll kick you right back into the hot\nspring.\nBoil for all I care.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin..."
+            ]
+        },
+        {
+            "text": "I talked with Tazuna earlier, and she said\nyou\nwere working like mad so you could\ngo on this\ntrip.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What am I supposed to do with you if\nyou pass\nout from exhaustion?\nBonehead.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I thought this would be a good reward for all\nyour wins..."
+            ]
+        },
+        {
+            "text": "Seriously, I think you might hold the\nrecord for\nbeing the biggest dummy in\nthe world.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин abruptly stretches her\nhand\ntowards me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Poke! Jab!</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Ow, ow, ow! What are you doing?!"
+            ]
+        },
+        {
+            "text": "The staff taught me a pressure point to\nget rid of\ndizziness from heat exhaustion.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Now stay there, and don't move!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Ow, ow, ow! OW!"
+            ]
+        },
+        {
+            "text": "Her jabs are too much, and I shuffle\naway from\nthe painful prodding. I\nmanage to escape her for\na moment,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Stop trying to get away.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Those teary eyes won't stop me. I'm not\nhere to\nbe nice.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "H-have mercy!"
+            ]
+        },
+        {
+            "text": "Save. Your. Breath!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "OUCH!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I hope you learned your lesson now.\nDon't push\nyourself for my sake.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You're the only person who's crazy\nenough to put\nup with me and be my\ntrainer, so...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't know what I'd do without you.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'm sure there are plenty of people lining up to\nbe your trainer now."
+            ]
+        },
+        {
+            "text": "Ugh! That's not what I meant!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Yeeeowch!"
+            ]
+        },
+        {
+            "text": "Get it through your thick head—you're\nthe only\ntrainer for me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You'd better get what I'm saying now.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I sense that Нарита Таисин and I have\nformed an\nirreplaceable bond during our\ntrip.",
+            "name": "Монолог"
+        }
+    ]
+}

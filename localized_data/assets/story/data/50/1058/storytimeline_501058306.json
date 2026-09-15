@@ -1,0 +1,163 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэйсё Дото, yet to become race-ready,\nhas\nbeen working hard day after day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But will this benefit her in the long run? I\nneed to\nmake a decision, and soon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Quietly... without making a sound...\nOkay, the\ncoast is clear. All right, time\nto say my\ngoodbyes...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I already know... how things are to turn\nout. I've\nbeen nothing but trouble since\nmy debut.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Trainer, you've done so much for me.\nYou treated\nme kindly, and that made\nme happy. But now, I\nmust find a way on\nmy own.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm not forgetting anything, am I? I\nalready put\nthe leftover snacks and\nphoto frame in my bag...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Eek, who's there?! Trainer and...\nFukukitaru?!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Where do you plan on taking all of that?"
+            ]
+        },
+        {
+            "text": "No, well... I'm not needed anymore,\nright? So, I\nthought I should...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Let's keep working hard!"
+            ]
+        },
+        {
+            "text": "\"Keep\"? You don't mean...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Whaaaaat?! You mean I can stay?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Of <i>course</i> you can stay, Doto! You've\nbeen\nsteadily accumulating good karma.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The gods have their eyes on you! That\ngoes for\nyour trainer, too.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You've really stuck it through."
+            ]
+        },
+        {
+            "text": "Yeah... Ummm... Thank you so much.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I've messed up countless times, and yet\nyou've\nnever given up on me. So, I'll give\nyou double the\neffort from here on.\nNgh...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The next day, we get back to training.\nGradually,\nI begin noticing a change.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haaaaah!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Thump, thump, thump, thump!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> How was that?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ooh, your form was almost\nunrecognizable!\nTh-this is a harbinger of\ngood comings, no doubt!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Has the time finally dawned upon us?!\nWhat was\nit called? The...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The pray-ready state!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "The race-ready state."
+            ]
+        },
+        {
+            "text": "Race-ready... Does this mean my body is\nfinally\ngetting stronger?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Now that you mention it, I have felt\nlighter on my\nfeet recently. Maybe I can\nstart pushing myself\nmore.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "So... what should be our next goal?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Shall we try entering the Derby?"
+            ]
+        },
+        {
+            "text": "Huuuh?! The <i>Derby?!</i>",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Th-th-the graded races are scary\nenough, but G1\nraces are the scariest of\nthem all!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "W-w-well if you insist, I'll happily do it.\nEspecially\nbecause I'm r-r-race-ready...\nnow!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Now... Nownownow—Na?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Nyaaaagh!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Doto, hang in there!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "She crumbles under the potent mix of\nenthusiasm\nand anxiety. It might be best\nto save the G1 for\nlater.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Eghh... Sorry about that...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Let's focus on building up a bit more\nexperience."
+            ]
+        },
+        {
+            "text": "Ye-yeah... I still have a long way to go if\njust the\nname alone makes me panic.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hmm... I think you're making good\nprogress,\nthough. Perhaps, if possessed\nby the god of\ncourage...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Physically, she's been showing signs of\ngrowth,\nbut emotionally, she isn't\nkeeping up. It's still best\nto hunker down\nand make gradual progress.",
+            "name": "Монолог"
+        }
+    ]
+}

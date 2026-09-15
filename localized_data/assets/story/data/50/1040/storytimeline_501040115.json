@@ -1,0 +1,265 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Сити has been training hard every\nday for\nour next goal race, the Satsuki\nSho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Good work. Let's take a break!"
+            ]
+        },
+        {
+            "text": "...Already?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I can keep going. Why are you being so\neasy on\nme?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Push me harder. I have to be so much\nbetter than\nI am now!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You need to have patience."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I <i>am</i> patient.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Where are you going?!"
+            ]
+        },
+        {
+            "text": "I'm going to cool down! I'll be back\nsoon!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Sigh...</i> What am I, a little kid throwing a\ntantrum?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "What're ya doin' wanderin' onto the\ntrack?\nDon'tcha know that's a hazard?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Sorry! I must've spaced out.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Dang it, well be careful!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Guess I should go back.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Raaaaahhhh!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Pant... pant...</i> Tch, I'm not gettin' faster\nat all.\nAgain!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "What insane energy...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Um... Tamamo! Can I...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's been a while since City ran off. I\ndecide to\ncheck on her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haaaaahh!\nRaaaahhh!",
+            "name": "City and Tamamo"
+        },
+        {
+            "text": "Голд Сити is having an intense pair\nrunning\nsession with Тамамо Кросс!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Woo! Dat's what I'm talkin' about!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Damn it, I was so close!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ey, but ya did good. Nothin' like having\na rival to\nget ya fired up!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Sounds like you can go for more. How\nabout\nanother lap?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "City!"
+            ]
+        },
+        {
+            "text": "...Trainer.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh... So you ran away durin' your break\nand\nwandered over here.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "No wonder your trainer looks like a sad\npuppy.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "It's not that I don't respect what my\ntrainer says...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I can't afford to take a break. I have\nto push\nmy limits and get faster!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, can't say I don't know how ya feel.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "But that's no reason to skip out on\nbreaks. For\nsuch a pretty face, you're\nreally bullheaded.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "What does being pretty have to do with\n\nanything?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Um... I...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "My bad.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Uh...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "We all got things we don't wanna be\ntold, even if\nthey're compliments.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "People used to make funna me, callin'\nme short all\nthe time.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "But that doesn't matter here. I'm sorry if\nI made\nya feel bad.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I'm... sorry for overreacting.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I know <i>you</i> actually care more about how\nI run.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Okay... Sorry for bothering you. But if\nit's all right\nwith you, maybe we could—",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey, City. Can I ask ya one thing?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Why do ya run?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Isn't it obvious?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "To make people accept who I am... to\n<i>show</i> them\nwho I am!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Flames burn in City's icy blue eyes.\nТамамо Кросс\nresponds...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haha! Go get 'em! I knew there was\nsomethin'\nspecial about you!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "See, the reason <i>I</i> run is to win. I gotta\nwin to help\nout my family, and nobody\ncan stand in my way!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "But no one's recognized me yet. I gotta\nlet\neveryone know I'm here, just like you!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...",
+            "name": "City and Tamamo"
+        },
+        {
+            "text": "The two look at each other silently with\nmeasured\nsmiles.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well then, I'mma head on back. You\ntake a little\nbreather though, yeah?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Tamamo! Are you going to compete in\nthe\nClassics?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I want to race against you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I debuted pretty late, ya know? I'm\nstill... adjustin'\nto things.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Tell ya this, though, if we do meet on\nthe track,\nI'm gonna beat ya for real. Be\nprepared!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Huh? That's my line.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I get the feeling Голд Сити's interaction\nwith\nТамамо Кросс today will contribute\nto her\ngrowth.",
+            "name": "Монолог"
+        }
+    ]
+}

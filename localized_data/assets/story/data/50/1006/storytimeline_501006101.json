@@ -1,0 +1,158 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Happy New Year! Here's to another great year \ntogether!",
+            "choice_data_list": [
+                "Same to you!",
+                "Same to you!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Heh, as energetic as always. It sure is reassuring \nhaving you by my side.",
+            "choice_data_list": [
+                "Do you have any New Year's resolutions?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Of course... To win the Arima Kinen!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I wanna keep making strides toward that goal. \nSo... what's our first race gonna be?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I resist the urge to comment on her impatience, \nsince I myself spent the New Year break \ncontemplating our future plans."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen is a race that a only a select few \nhave the honor to join. In order to participate, an \nUmamusume must be chosen by her fans."
+        },
+        {
+            "name": "Monologue",
+            "text": "As such, it's vital that Oguri Cap attract more \nfans and steadily build up her track record in G1 \nraces.",
+            "color_text_info_list": [
+                "G1"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "So I reply...",
+            "choice_data_list": [
+                "Why don't we start with your strongest \ndistance?",
+                "Why don't we start with your strongest \ndistance?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "My strongest distance, huh? Well, if I had to \nchoose, I guess it'd be sprints. I ran those pretty \noften back home."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Either that, or miles. Actually, yeah. I'm probably \nbetter at running miles."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm sure I'll be able to impress everyone in a mile \nrace!",
+            "choice_data_list": [
+                "Let's show everyone just how great you are."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide that Oguri Cap should start by running \nthe distances she's best at, then build from there."
+        },
+        {
+            "name": "Monologue",
+            "text": "So our next goal is... the NHK Mile Cup!",
+            "color_text_info_list": [
+                "NHK Mile Cup"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Anyway, what should we do for our first training \nsession of the year?",
+            "choice_data_list": [
+                "Let's hit the gym!",
+                "Let's eat a big meal to start the year on a \nhealthy note!",
+                "Let's learn some new skills!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hrm... Going to the gym right after New Year's \nbreak?",
+            "choice_data_list": [
+                "Let's get this year off to a strong start!",
+                "Let's get this year off to a strong start!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmph... I'm detecting a hint of wishful thinking \nthere. But fine, let's go train."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I have one condition though—that I get to eat \nonce we're done. Food's a necessity when it \ncomes to building strength."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap and I head to the gym for an intensive \nworkout, then go out to eat. Her post-workout \nmeal more than makes up for the energy burned."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "What?! Are you being serious?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Is it really okay for me to eat?",
+            "choice_data_list": [
+                "Y-yeah...",
+                "Y-yeah..."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks so much! To be honest, I was kinda \nworried about what you were gonna say."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There are so many delicious things to eat for New \nYear's... It'd be horrible if I didn't get to have any \nof it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I feel much better now. Come on. Let's make \nthe most of all the yummy stuff New Year's has to \noffer and eat our fill!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Some things are better left unsaid, and the \namount Oguri Cap eats is one of them—but at \nleast it will help her start the year on a healthy \nnote."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Some new skills?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I'm always so clumsy. Do you really think I can \nlearn something new?",
+            "choice_data_list": [
+                "You've got plenty of time to practice."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...You're right. The year's only just started after \nall."
+        },
+        {
+            "name": "Monologue",
+            "text": "Clumsy though she may be, Oguri Cap makes it \nclear that she's still determined to take on new \nchallenges. I'm certain that she'll be able to polish \nher techniques."
+        }
+    ],
+    "title": "New Year's Resolutions"
+}

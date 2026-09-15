@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...Phew.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And with that, race preparations are\ncompleted.\nEverything has gone as\nintended.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I should be able to achieve good results\nat this\nrate.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The only thing I did not account for is\nthe rate of\nmy pulse.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "No matter my efforts to slow it, my heart\nalways\nstarts pounding when a race\ndraws near... It's\nenough to make me\nphysically shake...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Channel those nerves into your race!"
+            ]
+        },
+        {
+            "text": "Oh! Yes, perhaps that truly is the only\nway to\ncalm this feeling.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now—to seize victory.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

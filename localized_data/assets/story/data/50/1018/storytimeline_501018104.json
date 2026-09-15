@@ -1,0 +1,283 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day at summer camp, during our\n\npost-training free time...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I see Эйр Грув looking concerned over\nin the\nbreak area. On the table in front\nof her are some\npens and a notepad.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "text": "Oh, hello.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Good timing. I want your opinion on\nsomething.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Look at this.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I pick up the notebook that Эйр Грув\nhad been\nstaring at. It looks like she's\nbeen working on a\ntraining regimen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's quite intense in volume and\ndifficulty, but a\nlot of it seems\nsurprisingly basic by Эйр Грув's\n\nstandards.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Did you make this for yourself?"
+            ]
+        },
+        {
+            "text": "No, this is for the Umamusume joining\nsummer\ncamp for the first time next year.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I designed it for students who don't have\na trainer\nof their own, or who wish to\nsupplement their\nassigned training.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I thought it might be useful to have such\na\ntemplate available, so that the\nyounger\nUmamusume know how best to\nutilize their time.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "text": "To think that Эйр Грув has been\nconsidering\nthe needs of future camp\nparticipants, even when\nshe has her own\ntraining for the Shuka Sho to\nattend to...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Touched by the depth of her concern for\nothers, I\ndecide to help her out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, it's already this late...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Before we realize it, it's already time for\nlights\nout.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Over the past few hours, we've turned\nthe one\nregimen into many, each\ntargeting a certain area\nto work on.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh, not too shabby. Not that I would\nexpect any\nless from my trainer, mind\nyou.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Nice work, Эйр Грув."
+            ]
+        },
+        {
+            "text": "Thank you. You should get to bed\npromptly\ntonight. We have an early start\ntomorrow.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The following day, after the end of the\ngroup\ntraining session...",
+            "name": "Монолог"
+        },
+        {
+            "text": "There you are.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm going to test out the training\nregimens we\nwrote up yesterday. Let's\ngo.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Wait, now?!"
+            ]
+        },
+        {
+            "text": "What are you so surprised about? Do\nyou really\nexpect me to recommend a\ntraining regimen I\nhaven't trialed myself?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We have a responsibility as the creators\nto make\nsure these regimens are perfect.\nI am shocked\nthat this even needs\nexplanation.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Aren't you tired?"
+            ]
+        },
+        {
+            "text": "Don't be ridiculous. What exactly is it\nthat you\ntake me for? This benefits you\nas well, you know.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This is the perfect opportunity to do\nsome\nfocused training in preparation for\nthe Shuka Sho.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув flashes a disarming smile that\nleaves\nno room for argument.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Right. I'll have you pick. Which of the\nregimens\nfrom yesterday would you like\nto practice?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "The \"Muscles of Steel\" regimen.",
+                "The \"Forged in the Fires of Hell\" regimen."
+            ]
+        },
+        {
+            "text": "Ah, the regimen that focuses on\nessential strength\ntraining, reinforcing\nmuscles throughout the\nbody.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yes, we'll need to test this one carefully\nto ensure\nit's properly balanced. Very\nwell, let's do it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hehe, I'm itching to begin!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "With the setting sun on our backs, Air\nGroove\nand I test run the new training\nregimen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant, pant...</i>",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Phew! Yes, this regimen is great!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's clearly a tough workout, but Air\nGroove\nmanages it without so much as a\ncomplaint. I\nwouldn't expect any less of\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "She's always giving it her all.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "That's why she's capable of aiming for\nthe Triple\nTiara.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "...I think I know what I need to do!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Not bad—but I'm not done yet!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As Эйр Грув continues her diligent\ntraining, a\nsmall crowd of younger\nUmamusume gather to\nwatch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's evident that each and every one of\nthem are\nin awe of her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A full-out shuttle run on the beach that\nfeels like\na sprint to hell and back... Yes,\nthe simplicity of\nthis one is precisely\nwhat makes it the biggest\ntrial of\nwillpower.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm a little surprised you chose this one.\nStill, it'll\nmake for good training.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All right. I expect you to help make this\neven\ntougher for me.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "And that means?"
+            ]
+        },
+        {
+            "text": "If my pace drops—even by a\nlittle—before I reach\nthe target number\nof laps, you need to get me\nback on\ntrack.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Keep an eye on my energy and push me\nright to\nmy limits. Got it?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "text": "Just so we're clear, I intend to go faster\nthan\nwhatever you're imagining. Treat\nthis like a\nlife-or-death contest.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We begin the \"Forged in the Fires of\nHell\"\nregimen, and Эйр Грув's pace\neventually begins\nto drop as she racks\nup repetitions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff, huff!</i>",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "That was a tenth of a second slower!"
+            ]
+        },
+        {
+            "text": "Hmph... Not if I can help it!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув gives a smirk and ups her\npace. I'm\nleft in awe at her guts and\nunwillingness to quit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "She's always seeking to reach greater\nheights.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "That's why she's capable of aiming for\nthe Triple\nTiara so confidently.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "...I think I know what I need to do!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Ngh...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Come on! Is that the best you've got?!"
+            ]
+        },
+        {
+            "text": "Of course not!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As Эйр Грув pushes herself to her\nlimits, a small\ncrowd of younger\nUmamusume gather to watch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's evident that each and every one of\nthem are\nin awe of her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As the enraptured crowd looks on, Air\nGroove\nspectacularly achieves her rep\ntarget.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув eventually finishes up the\ntraining\nregimen without a single\nmisstЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

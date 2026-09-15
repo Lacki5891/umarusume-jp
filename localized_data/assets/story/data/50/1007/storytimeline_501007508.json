@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Шипп seems less chipper than usual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh... Mayday, mayday. This is Gold\nShip.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I am out of fuel. I repeat, I am out of\nfuel.\nSwitching to low power mode.\nOver.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Zzz...</i>",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "(She fell asleep standing up?!)"
+            ]
+        },
+        {
+            "text": "I should probably adjust her racing\nschedule...",
+            "name": "Монолог"
+        }
+    ]
+}

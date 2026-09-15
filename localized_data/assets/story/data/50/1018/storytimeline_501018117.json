@@ -1,0 +1,372 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day in my office, shortly before the\nautumn\nTenno Sho...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, sorry.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's phone receives some kind\nof\nnotification. She takes a look, and...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What in the—?!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "My mother is coming to watch the Tenno\nSho!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Isn't that good?"
+            ]
+        },
+        {
+            "text": "She also said she wants to meet you\nwhile she's\nhere...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Tomorrow!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Tomorrow?!"
+            ]
+        },
+        {
+            "text": "We can't just sit around! Everything must\nbe\nperfect!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Preparations start <i>now!</i> You're helping,\nand that's\nan order!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "G-got it!"
+            ]
+        },
+        {
+            "text": "From what Эйр Грув has told me about\nher\nmother, I always got the impression\nthat she's\ncheerful and friendly, but\nmaybe she's one of\nthose people who\nget scary when they're angry.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Under Эйр Грув's firm instruction, I\ndash about\nmaking preparations and\nensuring that my office\nis spotless.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next day comes, and the time of Air\nGroove's\nmother's visit draws near.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You look well put together today. Try\nyour best\nto maintain that look.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "text": "D-don't be foolish! Wh-why would I be\nnervous\nabout seeing my own mother?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If it were just me, I wouldn't be... Argh!\nJust don't\nsay anything unnecessary, are\nwe clear?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "There you are! It's been so long, Air\nGroove!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Mother!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "An Umamusume is waving her hand at us.\nIt's\nevident that she's Эйр Грув's\nmother.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's far more lively than I\nimagined—quite\ndifferent from Air\nGroove.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sorry for barging in practically\nunannounced, but\nI just had to see you.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Thank you for making the time to come.\nWe\nshouldn't just stand here all day,\nthough. Follow\nme—I've prepared a\nplace we can sit down and\ntalk.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Prepared as ever! It's hard to believe\nyou're <i>my</i>\ndaughter! Oh...",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "You must be Эйр Грув's trainer. What\na\npleasure it is to meet you! Thank you\nfor looking\nafter her!",
+            "name": "Эйр Грув's Mother",
+            "choice_data_list": [
+                "It's nice to meet you too."
+            ]
+        },
+        {
+            "text": "I hope she hasn't been any trouble. She\ncan be\nquite prickly sometimes!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "P-please, Mother! Let's not talk about\nthat!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But why? It's the truth, isn't it? You've\nalways\nbeen a shy one.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "P-please!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It seems that Эйр Грув is no match for\nher\nmother...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув's face flushes red with\nembarrassment.\nIt's such a rare sight that\nI can't help but smile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I show Эйр Грув's mother to my office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So this is where you two plan your races\nand such!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Hm hmm! I see, I see. Ooh! Are these\nNew Year's\ndecorations stored here?",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Yes. We decorate the office every year.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I make sure to observe each holiday and\n\nappreciate every aspect of the year, just\nas you\ntaught me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hehe, is that right?!",
+            "name": "Эйр Грув's Mother",
+            "choice_data_list": [
+                "(Holidays, huh...)"
+            ]
+        },
+        {
+            "text": "Look at your office. Not a single New\nYear's\ndecoration in sight.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Seasonal events provide color and\nvariety to our\ndaily lives. If you wish to\nhave a fulfilling year,\nyou should pay\nthem more attention.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I see... So this is where Эйр Грув gets\nher\npassion for seasonal events from.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Please, have a seat and make yourself\n\ncomfortable. I'll go brew some tea.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You don't have to ask me twice! Ahhh,\nit's so nice\nto be off my feet!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Now then, Trainer. Have you two been\nenjoying\nany festivals and such?",
+            "name": "Эйр Грув's Mother",
+            "choice_data_list": [
+                "Uh... festivals?"
+            ]
+        },
+        {
+            "text": "I'm sure you're well aware, but she's so\nbad at\nrelaxing. I don't know where she\ngot it from, but\nshe always works so\nhard!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "She'd never take a break unless\nsomeone\npractically forced her, so I used\nto drag her off to\nfestivals whenever I\nhad the chance!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Well, maybe I was a little selfish. Just a\nmother\nwho loves festivals and wanted\nto spend time with\nher daughter.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Thankfully, she always enjoyed it.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "But while I was just grateful she was\nrelaxing,\nfestivals became a super\nserious thing for her!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Anyways, I just thought you might\nunderstand\nhow I feel. I just worry about\nher sometimes.",
+            "name": "Эйр Грув's Mother",
+            "choice_data_list": [
+                "We have our share of fun together."
+            ]
+        },
+        {
+            "text": "Well, that's a relief! I hope you'll keep\nenjoying\nher \"festivals\" with her,\nwhatever form they might\ntake.",
+            "name": "Эйр Грув's Mother",
+            "choice_data_list": [
+                "With pleasure!"
+            ]
+        },
+        {
+            "text": "After that, Эйр Грув comes back with\nsome tea\nand the three of us have a\npleasant conversation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Judging from the smile on her face, it\nseems like\nЭйр Грув is delighted to\nchat with her mom in\nperson after so\nlong.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh dear, look at the time! I lost track\nwith all the\nfun we were having! I need\nto check in to my\nhotel.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "I'm so glad I could talk with the both of\nyou. I feel\nso relieved.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "It was my pleasure.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I had a nice time too."
+            ]
+        },
+        {
+            "text": "Oh, did you now?! Well, I have <i>so</i> much\nmore I\ncould talk about! Like how Air\nGroove was so\nscared of lightning when\nshe was little, and—",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Mother! Didn't you say you need to\ncheck in to\nyour hotel?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh yes, of course! Right, I'll get out of\nyour hair\nnow.",
+            "name": "Эйр Грув's Mother",
+            "choice_data_list": [
+                "I'll see you out."
+            ]
+        },
+        {
+            "text": "Hey, Эйр Грув.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "I meant what I said earlier, you know.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "About what?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I really am relieved. I was so worried\nabout you.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "I know you're ever so capable and\ntalented, but\nyou can be so\nuncompromising!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "You're too tough on yourself! Sometimes\nyou\npush yourself so hard it leaves me a\nlittle shaken.\nThere's such a thing as\nmoderation, you know.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Sh-shaken?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But from what I saw today, I can tell\nthere's a lot\nmore to your attitude than\njust strictness these\ndays.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "You seem so much more proud and\nconfident\nwhen you're with your trainer.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I hope you continue to support Air\nGroove.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "I truly believe she's changed for the\nbetter—all\nthanks to you!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "And you, Эйр Грув. Take care of your\ntrainer.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "...I will.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Just to be clear, I also believe in my\ntrainer.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, Эйр Грув! Relax those shoulders!\nYou're\nstill so rigid! Be more honest with\nyourself, okay?",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "I'll... see what I can do...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I hope I'm getting through to you. Silly\ngirl...",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Okay, I'm off. Good luck in the Tenno\nSho!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Thank you!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's mother was full of energy\nthe entire\nvisit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for talking with my mother.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She... seemed really happy.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You've got a great mom."
+            ]
+        },
+        {
+            "text": "Yes. I'm proud to be her daughter.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Just before her biggest race yet, I catch\na glimpse\nof a completely new side of\nЭйр Грув.",
+            "name": "Монолог"
+        }
+    ]
+}

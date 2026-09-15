@@ -1,0 +1,148 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Just as we get back to the academy, Air\nGroove\nand I bump into Сайленс Судзука.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello, Suzuka. Are you heading out to\ntrain?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No, I'm just going on a quick jog to clear\nmy\nhead.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You always seem to be running. But I\nsuppose\nthat's simply who you are.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hmm...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Would you mind if I joined you? I'm also\nin the\nmood for a light sprint.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Our outing was that boring, huh?"
+            ]
+        },
+        {
+            "text": "Don't be ridiculous. On the contrary, I\nfeel quite\nrefreshed. That's why I wish to\nrun.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Would you mind, Suzuka?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Um... As long as I get to run, I don't\nmind.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Despite setting off together at a\nreasonable\npace...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff...</i> Ngh!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "<i>Huff, puff...</i> Grrr!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The two of them speed across the finish\nline at\nthe exact same time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As always, there's a bite to your running.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You're the one who got really serious\nhalfway\nthough.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Only because you got serious first.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yeah, because I didn't want to lose.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Heh... Very well. Shall we have a\nrematch?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Of course. I'll be going all out from the\nstart this\ntime.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "As will I. No holds barred!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Don't overdo it, you two...",
+                "I'm cheering for you, Эйр Грув!"
+            ]
+        },
+        {
+            "text": "As will I. No holds barred!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Don't overdo it, you two...",
+                "I'm cheering for you, Эйр Грув!"
+            ]
+        },
+        {
+            "text": "Of course. I wouldn't dream of it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And neither would I. Ready, Эйр Грув?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm ready when you are.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ready... set...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Go!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wh-why are you getting all worked up?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This is just training. That's hardly\nnecessary.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hehe, don't be so harsh. I'm a little\njealous.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ngh...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Enough! Are we running or not?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Although the two end up racing multiple\ntimes to\ndetermine a winner, neither is\nable to secure a\nclear victory.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although the two end up racing multiple\ntimes,\nneither is able to secure a clear\nvictory.",
+            "name": "Монолог"
+        }
+    ]
+}

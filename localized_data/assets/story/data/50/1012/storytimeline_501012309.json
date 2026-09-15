@@ -1,0 +1,182 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон has conquered the Arima\nKinen!\nShe's done it!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Хиши Амадзон pulled it off!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Yeah, but to be honest, my eyes were on\nNarita\nBrian the whole time...",
+            "name": "Fan B"
+        },
+        {
+            "text": "No, I get what you mean! Sure, Hishi\nAmazon was\na bit faster this time, but\nstill...",
+            "name": "Fan A"
+        },
+        {
+            "text": "Нарита Брайан runs like a real beast, no\nmatter what\nplace she gets.",
+            "name": "Fan B"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "(I got first place! I won! But...)",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "(Nobody cares how fierce the battle\nwas...\nThey've only got eyes for Brian!)",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Argh! This sucks!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "As the Arima Kinen comes to a close,\neveryone at\nthe Nakayama Racecourse\nfinds themselves\ncompletely enraptured\nby Нарита Брайан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She tells me she's going to pack her stuff\nand\nhead back early, and then she's\ngone.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This was the battle of her dreams—and\nshe won!\nBut... she didn't look happy.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Will she be okay?)"
+            ]
+        },
+        {
+            "text": "My worries get the better of me, and I\nrush back\nto the academy to go find her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Grrraaaah!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm greeted by the sound of a familiar\nvoice the\nmoment I reach campus.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "(It's Хиши Амадзон!)"
+            ]
+        },
+        {
+            "text": "I won the race but I lost the one-on-one!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But so what?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'll channel all these frustrations into my\nrunning! I\nrefuse to be overshadowed by\nНарита Брайан\nforever!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You never know how a race'll turn out\ntill you run\nit!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She charges up the incline, shouting\nwords of\nencouragement to herself.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(These words ring a bell...)"
+            ]
+        },
+        {
+            "text": "Nothing out there is impossible right\nfrom the\nget-go!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You never know the outcome of a match\ntill you\ngive it a try!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Wheeze... Pant...</i> Phew!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She said those very same things to me\nbefore I\nscouted her. It was her\nstraightforward honesty\nthat won me\nover.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(She hasn't changed a bit.)"
+            ]
+        },
+        {
+            "text": "Despite the harsh reality in front of her,\nshe\nremains stalwart and isn't afraid to\nkeep going.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's only one thing I can say to\nsomeone as\nstrong as her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, one more time!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Хиши Амадзон!"
+            ]
+        },
+        {
+            "text": "Wha?! Teach, when did you get here?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Let's give the Arima Kinen another go next year!"
+            ]
+        },
+        {
+            "text": "Нарита Брайан is sure to show up at the\nArima Kinen\nnext year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell Хиши Амадзон that it'll be\ndifferent—we'll\nmake it a one-on-one\nthat no one'll forget!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Teach, you...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hehe... Yeah! Thanks!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Afterwards, we discuss our next steps.\n\nConsidering the aptitude she showed for\nmiles\nand medium-distance races during\nthe Tiara\ntour...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We decide to make our next goal the\nOsaka Hai,\nfollowed by the Yasuda\nKinen!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Teach? This could be my ego\ntalking, but...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna get first place in both of 'em. I\nwon't\nsettle for less!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "I've gotta step up to the challenge.\nOtherwise, I\nwon't have a chance against\nНарита Брайан. She's\none heck of a beast.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Together, we vow to win first place in\nboth races!",
+            "name": "Монолог"
+        }
+    ]
+}

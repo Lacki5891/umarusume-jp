@@ -1,0 +1,243 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One fine afternoon, I stop by an outdoor\ncafe to take a breather.",
+            "name": "Монолог"
+        },
+        {
+            "text": "T-Traineeer?! No way, no way! What're the\nimpossible odds of\nrunning into you here?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "This! Is! <i>GREAT!</i> You know what it means?\nIt's going to be an\nawesome day!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But we should make it even more\nawesome! Stand in line with me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Not sure what's happening, I'm led to a\nhuge line of people standing\nin front of a\ntrendy crepe shop.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoooa! Look at this! The line's huge! It's\nalways so long! It makes\nme... so...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Happyyyyy! Good for you, crepe duuude!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You know the owner?"
+            ]
+        },
+        {
+            "text": "Yep! This crepe shop's been my top fav\nsince I entered Tracen\nAcademy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, but it used to be just a little cart that\ncame to the park.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Even then though, it was sooooo good!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Your top fav, huh?"
+            ]
+        },
+        {
+            "text": "Yeah! It's the climax on my Super Charged\nWeekend Fun List!\nAaalways has been!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Then the shop started appearing in\nmagazines and on TV a lot, and\nbefore I\nknew it, it became this super spectacular\nplace!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Just look... at this huge line...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaaah! Crepe dude! Great for yooou!\nCongraaats!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Though she's crying tears of joy, I try to\nsooth Ticket as we make our\nway down the\nimpressively long line and to the counter.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're sorry, but the next pair of customers\nwill be the last of the day.\nNow... may I\ntake your orders?",
+            "name": "Part-timer"
+        },
+        {
+            "text": "YES!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Extra double cream drizzle with crunchy\nmini bits! And make that two!\nThanks so\nmuuuch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Sure thing...",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "Huh?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит's waited so long to see the\nowner, but he keeps his\nhead down in\napathetic silence, failing to notice her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wondering why he's behaving like that, we\ntake our crepes away.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mhm. It was good, huh, Trainer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Yeah, it was good. But..."
+            ]
+        },
+        {
+            "text": "But? What's wrong? It tasted fine—",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Huh? That's not right.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah... It's weird! Something's weird! How\ncould the crepes here ever\nbe just \"fine\"?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "CREPE DUUUDE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hey, hey, crepe dude! What exactly could\npossibly be wrong!?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoa... Huh? Oh, it's you, Ticket.",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "Sorry, I'm busy. Can we talk later—",
+            "name": "Crepe Maker",
+            "choice_data_list": [
+                "Please, hear her out!"
+            ]
+        },
+        {
+            "text": "Uh? Wh-what's the problem?",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "Crepe dude! The flavor's off! Did you\nchange something about your\ncrepes?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wha! Something's off? That's crazy. The\nrecipe, the\ningredients—they're all the\nsame as before.",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "But it's different! Something's different!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I still remember the first time I ate one\nfrom your cart in that little\npark!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It was like wow, wow, wow! <i>SO</i> tasty! I\ncouldn't stand how good it was!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Nom, nom, nom! I gobbled it up and asked\nfor more! Five times!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...!",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "I was about to burst, so I ran a lap. But\nwhen I got back, you were\nalready closing\nup shop...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "My stomach grrrowled really loud, and I\nasked for one last crepe! And\nyou made\nme the <i>MOST</i> delicious one ever!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll never forget that taste! How could I?\nHow, crepe duuude?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's... right. I feel the same way, Ticket...\nI'll never forget that day.",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "...Wait right there, would ya?",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "A few minutes pass, and the owner comes\nback with a freshly made\ncrepe.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All that's left is to see how it tastes...",
+            "name": "Монолог"
+        },
+        {
+            "text": "So...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "<i>So...</i>"
+            ]
+        },
+        {
+            "text": "SOOO GOOOOOD! The best! It's the\ngreatest!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm really glad. I went full power, just like\nthat day.",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "Full power?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You know, I did notice I wasn't looking\ncustomers in the eye anymore.\nTold myself\nit's 'cause I'm just too busy. But really? It's\n'cause my heart\nwasn't in it.",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "But I remember the way it felt that day\nthanks to you... Making a\ncrepe with my\nentire being so it could be enjoyed\nentirely by\nsomeone. That was true\nhappiness.",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "There's plenty to try before throwin' in the\ntowel. I could get more\nhelp, take more\ndays off... It's time to roll up my sleeves\nand start\nfresh!",
+            "name": "Crepe Maker"
+        },
+        {
+            "text": "Uuug! Oh, crepe duuude!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You inspired him with everything you have,\nhuh?"
+            ]
+        },
+        {
+            "text": "Yep! I'm so glad it worked... Really glad!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hey, Trainer... Let's eat here again\nsometime!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

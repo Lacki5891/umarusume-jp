@@ -1,0 +1,90 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ugh, I lost again...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I really wanted to show everyone my\nyouthful\ndetermination.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Results like this are totally lame... I have\nto work\nharder!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Let's take it slow.",
+                "Actually, let's, uh... pump it up and get max\nhyped!"
+            ]
+        },
+        {
+            "text": "Results like this are totally lame... I have\nto work\nharder!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Let's take it slow.",
+                "Actually, let's, uh... pump it up and get max\nhyped!"
+            ]
+        },
+        {
+            "text": "Thank you, Trainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thank you, Trainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're right. If we rush things, then we'll\nnever get\ngood results!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That makes today a recovery day! I'm\ngoing to\nget changed and then catch a\nbite at a real\nhappening bistro.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Care to join me?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "With pleasure!"
+            ]
+        },
+        {
+            "text": "Care to join me?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "With pleasure!"
+            ]
+        },
+        {
+            "text": "...What?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You know, let's beat the odds and surprise\neveryone!"
+            ]
+        },
+        {
+            "text": "Yeah! That's a good idea!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's like that character said in my\nmother's favorite\nmovie, <i>Red-Hot\nTrainer!</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "\"The higher the wall, the more you grow\nwhen you\nsurmount it. Give it all you've\ngot!\"",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay! We'll start training as soon as we\nget back!\nLet's chase after that sunset!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The change of scenery helps us reset\nourselves,\nand we turn our focus to the\nnext race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We work hard, promising to celebrate\nwith some\norange smoothies when we\nwin.",
+            "name": "Монолог"
+        }
+    ]
+}

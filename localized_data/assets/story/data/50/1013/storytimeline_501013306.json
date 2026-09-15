@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Well, that was certainly a favorable\noutcome.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Next up is the Kikuka Sho!"
+            ]
+        },
+        {
+            "text": "Indeed. My mind has been set on this\nrace all\nyear, so I mustn't lose.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I must secure this win and add it to my\nlist of\nachievements.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(And further...)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(With the Kikuka Sho being the final\nClassics\nrace, Ryan will certainly be\ncompeting.)",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "text": "...Hm? No, I'm fine!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I was just picturing the path to victory\nonce again.\nI will certainly win the next\nrace as well!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

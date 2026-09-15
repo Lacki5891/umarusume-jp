@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I blew right through the Kokura Kinen!\nYou can\njust call me Matikane-kokura\nfrom now on!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Actually, scratch that. That one's a\nlittle much,\neven for me. But anyway...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I believe we promised to go somewhere\ntogether!\nOnwards, to the other most\nsacred spot in\nFukuoka.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "But where is it?"
+            ]
+        },
+        {
+            "text": "The street food district of Hakata,\nobviously!\nBowing your head before a\ndivine bowl of ramen\nwill earn you a\nheavenly reward.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's so good and packed with nutrients!\nNothing\nbeats the rich juiciness of\ntonkotsu ramen!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Come on! Let us partake of the nectar of\nthe gods\nand have ourselves a divine\nfeast!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'm not sure what this has to do with the\ngods, but\nwe both enjoy a bowl of ramen\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, I have an idea for our next race.\nI'd like\nto run in the Arima Kinen.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It was only the compassion from my\ndevoted fans\nthat got me a spot in the\nTakarazuka Kinen...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But this time, I want to actually earn all\nthose\nvotes!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's take all these wishes we've\ngathered and\nbring them to Nakayama\nat the end of the year.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Okay, Arima it is then."
+            ]
+        },
+        {
+            "text": "Do you mean it? Thank you so much!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "My senior year is finally coming to a\nclose. Let's\nfinish it off just like we did\nthose bowls of ramen!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

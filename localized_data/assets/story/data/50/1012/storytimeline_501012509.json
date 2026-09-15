@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "text": "I get quite a jolt at the sound of an\nextremely\nloud thump. I run to the\nsource, only to see Hishi\nAmazon in the\ncentral plaza, headbutting a tree.",
+            "choice_data_list": [
+                "What are you doing?!"
+            ]
+        },
+        {
+            "text": "...Hey, Teach. Just pumpin' myself up.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Someone stopped me this morning and\nasked me\nif I was feeling all right, you\nsee...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But man, I can't have the younger\nstudents gettin'\nworried over me. It's\npathetic!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Her fatigue is quite evident, though... I\nshould\nprobably adjust her race\nschedule."
+        }
+    ]
+}

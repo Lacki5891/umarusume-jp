@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for summer camp, where racers\ncome to\nimprove their skills over the\nsummer months.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Yes, yes, got it. I'll try not to get hurt.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay, sorted things out with my\nmanager. And\nthat'll be my last work call\nfor the rest of camp.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Click!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "This way I can focus completely on\ntraining.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Do you plan to keep it off the whole time?"
+            ]
+        },
+        {
+            "text": "Obviously.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I need to get good enough to wow the\ncrowd in\nthe Kikuka Sho.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "That means no slacking off.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Plus, my manager cleared my schedule\nfor this.\nShowing results is the only way\nto repay her.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So, once again, I'll be counting on you.\nDon't go\neasy on me!",
+            "name": "Голд Сити"
+        }
+    ]
+}

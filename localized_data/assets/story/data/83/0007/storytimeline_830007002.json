@@ -1,0 +1,141 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as I'm walking by the dance\nstudio...",
+            "name": "Монолог"
+        },
+        {
+            "text": "H-hiya guys! ♪ Your one and only El is\nback in\naction! ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...No, it's missing something! I need a\nlittle more\n<i>oomph!</i> Like I'm bringing the\nworld right to your\ndoorstep!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Huh. So you're hopping on that whole\n\"world\"\nshtick too, eh?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ack! Who's there?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh, it's just you, Golshi. What are you\ndoing\nhere?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Isn't it obvious? I'm here because you're\nthrowing\nthe word \"world\" around like\nit's a sack of\npotatoes!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "H-how am I throwing it around?! I'm\nserious about\naiming to be the world's\nstrongest! I mean it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The world's strongest, huh? Not sure\nabout that\none.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You talk the talk, but I don't see a lot of\nwalking.\nI sense hesitation. You're lost.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "W-well...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "What's got you rackin' your brains, hm?\nLay it on\nme! You afraid of the world?!\nHUH?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "No! If I'm running, I'm not losing! Doesn't\nmatter\nwhere in the world or with who!\nBut...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My performances are nothing like\nPearl's... So I\nstarted thinking just\nmaybe, they're not\nworld-class yet...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Whoa, cut that out. You're acting like a\npiece of\ngrilled fish at the\nsupermarket—letting someone\nelse do\nall the cooking.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You're nothing like Pearl? Or the\nothers? Gimme\nthat spatula so I can flip\nyou out!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Nobody else matters! You've gotta bring\nout your\nown flavors! Spice yourself up!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "M-my own flavors?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's right! What you're lacking is your\nown\nunique flavor! Give me some umami!\nSprinkle on\nthose bonito flakes!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, you there! Yeah, the trainer\nsecretly\nwatching us from the shadows!\nYou agree with\nme, right?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I didn't expect to be thrown into the\nspotlight\nsuddenly. What should I say\nhere...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Yeah, you need some original flavor!",
+                "No, it's all down to the recipe!"
+            ]
+        },
+        {
+            "text": "I didn't expect to be thrown into the\nspotlight\nsuddenly. What should I say\nhere...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Yeah, you need some original flavor!",
+                "No, it's all down to the recipe!"
+            ]
+        },
+        {
+            "text": "Original flavor...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You might have a point... In wanting to\nbe like\nsomeone else, I lost sight of\nmyself.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If anything, I should be showering\neveryone in <i>my</i>\ncolors! Yeah!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm gonna reflect on myself and find my\nown way\nof doing things!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yeah... I should know what my own\nflavors are.\nWhat makes me unique...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...is how I pack the heat! I've got passion,\nspunk,\nand vitality!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If the recipe I'm using doesn't show off\nthose\nflavors, what's the point?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, I need to come up with a\nperformance\nthat's really all about me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Heh, I like that spark in your eyes... You\nbetter\ncome back as the king of the\ndeep seas one of\nthese days.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Heh, now you get it. What do you think\n\ncrustaceans use their pincers for? To\ncrab their\ndreams.",
+            "name": "Голд Шип"
+        }
+    ]
+}

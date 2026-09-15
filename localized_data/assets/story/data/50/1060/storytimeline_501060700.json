@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yaaawn...</i>",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You look sleepy."
+            ]
+        },
+        {
+            "text": "It's because of the show I was watching...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Aha, ha, hahaha! I can't! Every time I\nthink about\nit, I just start laughing!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That episode was way more hilarious\nthan usual\ntoo! It's keeping me up at\nnight because I can't\nstop laughing\nabout it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Phew... The masters of comedy... are a\ndangerous\nbunch.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "While it's good she enjoyed her day off,\nher lack\nof sleep proves to be a\nproblem...",
+            "name": "Монолог"
+        }
+    ]
+}

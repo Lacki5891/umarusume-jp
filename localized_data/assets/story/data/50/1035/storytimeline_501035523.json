@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "в тренировке with Уиннинг Тикит...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff...</i> Phew! O-okay. One more lap!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm training with Hayahide today, so I\ncan't hold\nanything back!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket? I know I said I'd run with you,\nbut there's\na limit to my endurance...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I believe it's time to take a break. If we\ncontinue,\nwe're sure to overwork\nourselves.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "B-but I can still go on! Look, I suddenly\nfeel\ngreat...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...Uh-oh.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Flop...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? What a bright light...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "W-wooow! I'm floating! I'm floating in\nspace!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And I can run on the air too! It's so soft\nand\nspringy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! I'll zoom through the sky like a\nrocket,\nand dash straight to the shiny\nsun!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You okay?!"
+            ]
+        },
+        {
+            "text": "Ticket? Hey, Ticket! Get a grip! Wake\nup!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hngh... Тренер? Hayahide? Why's\neverybody so\nworked up?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You suddenly collapsed—of course we'd\nbe\nworked up. I'm glad it doesn't seem\nto be serious,\nbut...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh, listen up! I had such an exciting\ndream!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It was all soft and springy—totally the\nbest! I feel\nlike I can run super fast now!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Somehow, Уиннинг Тикит's running\nimproves\nafter the incident.",
+            "name": "Монолог"
+        }
+    ]
+}

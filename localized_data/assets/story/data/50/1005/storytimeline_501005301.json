@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "That's it for this year's summer camp...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We have the autumn Tenno Sho and\nthen the\nArima Kinen coming up.\nHonestly, I have no idea\nhow they'll turn\nout.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But... I can't worry. I have to believe in\nmyself.\n\"Even one's greatest weaknesses\ncan become\none's strengths.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Trainer, won't you stay with me for this\nfinal leg\nof my journey?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Thank you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The bus will be arriving soon! I'd better\ngather\neveryone up!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Thus ends my sweltering summer camp\nwith Fuji\nKiseki."
+        }
+    ]
+}

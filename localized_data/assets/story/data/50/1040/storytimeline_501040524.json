@@ -1,0 +1,81 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "There is no training today since Gold\nCity has\nwork. I decide to go relax at the\npark when..."
+        },
+        {
+            "text": "Hey, isn't that Голд Сити?",
+            "name": "School Девочка А"
+        },
+        {
+            "text": "No way, is that her?! Her face is so\npretty! She's\nliterally a divine creation.\nWhat does she even\neat every\nday—mist?",
+            "name": "School Girl B"
+        },
+        {
+            "text": "Голд Сити stands before the excited\ngirls,\nsurrounded by her staff for a photo\nshoot."
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ahh, she looked this way! She's so\npretty!",
+            "name": "School Girl B"
+        },
+        {
+            "text": "We've got quite the audience, City.\nThink you\ncan keep going?",
+            "name": "Photographer"
+        },
+        {
+            "text": "It's okay, I'm used to it. On the other\nhand...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Did Голд Сити just try to catch my eye?\nNo...\nsurely I'm imagining things.",
+            "choice_data_list": [
+                "Walk away like nothing happened.",
+                "Enthusiastically cheer her on."
+            ]
+        },
+        {
+            "text": "I saw you, dummy.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What was that, City?",
+            "name": "Photographer"
+        },
+        {
+            "text": "Oh, nothing. I thought I saw someone I\nknow over\nthere, that's all. They just left\nthough.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hold on. What is my trainer doing?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Go! City! Gooo!"
+            ]
+        },
+        {
+            "text": "Oh. It seems you have a very enthusiastic\nfan!\nImpressive commitment.",
+            "name": "Photographer"
+        },
+        {
+            "text": "No, it's just some idiot.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Next time, I'll make sure you stay and\nwatch.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Some goody-two-shoes who'd support\nanyone\nyou put in front of them.",
+            "name": "Голд Сити"
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow, the Beast's Successor killed it\nagain!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Her build and skills are pretty different\nfrom\nМарузенски's, but... I don't know\nwhat it is, but\nshe has a spark of\n<i>something</i> I can't take my eyes\noff of!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "With Марузенски gone, she might be the\nonly one\nto bring some fire to the\nTwinkle Series.",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Grass Wondeeeer! You were awesome in\nthe\nTakarazuka Kinen!",
+            "name": "Child in the Stands"
+        },
+        {
+            "text": "The way you powered straight to the\ngoal was so,\nso, SO cool!",
+            "name": "Child in the Stands"
+        },
+        {
+            "text": "Dad! Hey, Dad! I wanna come back and\nsee the\nnext race!",
+            "name": "Child in the Stands"
+        },
+        {
+            "text": "Hm? Oh... I see. You're a full-blown fan\nof hers\nnow, are you?",
+            "name": "Seasoned Fan"
+        },
+        {
+            "text": "Yeah! I love Грасс Вандер! I can't wait\nto see how\nshe's gonna run next time!",
+            "name": "Child in the Stands"
+        },
+        {
+            "text": "...",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Грасс Вандер, huh...",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "I'm back, Trainer.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You did great, Grass!"
+            ]
+        },
+        {
+            "text": "Hehe. Thank you.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "There is still plenty of room for\nimprovement,\nconsidering how I let Spe\noutmatch me...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "However, I have no regrets. I\ndemonstrated who I\nam at this moment\nin time.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "All I can do is press on and show who I\nwill\nbecome.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's exactly it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh, hello there, El... I thought you might\npay me\na visit.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Well, obviously! Of course I'd come to\nsee your\nrace!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And now I'm positively certain without a\ndoubt!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I can't take on the world if I don't beat\nyou first,\nGrass Wonder!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's why I'm givin' you an official\nchallenge!\nFace me, Grass!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "At the Mainichi Okan!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The Mainichi Okan... Isn't that a G2\nrace? I would\nhave thought you'd pick\nsomething more\ngrandiose.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "No, this year's Mainichi Okan is special!\nThe\nOtherworldly Front-Runner will be\nthere!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You know who that is, right? Silence\nSuzuka!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Сайленс Судзука?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "(...!)"
+            ]
+        },
+        {
+            "text": "Сайленс Судзука is an Umamusume who's a\nlittle\nolder than Грасс Вандер.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's got a distinctive runaway style,\nwhere she\ntakes a huge lead upfront and\ndoesn't let anyone\ncatch up. She's the\ntalk of the racing scene.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Interesting. This could turn out to be a\nvery\nimportant race.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Right?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The Marvelous Front Runner, Silence\nSuzuka! The\nBrazen Blue Ogre, Grass\nWonder! And the\nWorld's Strongest\nRacer, me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The time: this fall! The place: Fuchu! The\n\noccasion: the Mainichi Okan! You can't\nsay no,\nGrass!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My eyes remain fixed on the\ntop—without\nreservation, without\ndigression. I am making my\nway forward,\nstep by stЭпизод",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Should something block my path, I will\novercome\nit, no matter what or who it is.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That includes you, El.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Excelente!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Welp, no reason to stand here dawdlin'\nany\nlonger. It's time to train, train, train!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Adiós!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ah. Wait a moment, El.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Qué?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I was taken aback during the moment...\nbut who\ndo you think you're calling an\nogre, hm?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Eeegh! My tail! Ow, ow, OWWW!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Grass, El... you both really are something\nelse.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Even today, I just...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You raced well, Spe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Suzuka?! Whoa! You came today?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yes. I happened to be close by and\nremembered\nyou were racing.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Heheh. Thank you! I think having Grass\nin the\nrace helped me relax while I ran.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh! That reminds me! Is it true you're\ngoing to run\nin the Mainichi Okan?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yes, it's on my agenda... Why do you\nask?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I heard Grass and El talking about you.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "They're both aiming for the Mainichi\nOkan, too!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...! Is that so?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I see... Hehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...? Um, Suzuka?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh... Pardon me.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "After seeing how Grass raced today, I\ngot a little\nexcited.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I wonder what new sights I'll see when I\nleave\nthose two in my wake...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ah... I'm sorry to keep you. You must be\ntired.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll get going, then. See you at the dorm,\nSpe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "S-sure... See you then.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Excited about... what she'll see?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Would she feel the same way if I was\nracing\ninstead?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Today, I might have won, but I don't feel\nlike I\ndid my best against Grass.",
+            "name": "Спешл Уик"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The season for summer camp has finally\ncome\nback around. And this year, once\nagain...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>VROOOOOM! Screeeeech!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heehee! We beat everyone on the bus\nto camp\nthis year too!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Having rivals is so much fun!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'm not sure anyone else is competing with us..."
+            ]
+        },
+        {
+            "text": "If they aren't, then I'll just have to keep\nbeating\nthem every year until they do! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Come on, let's enjoy camp to the max!\nFirst on\nthe agenda is suntan lotion!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thus begins another summer camp with\n\nМарузенски.",
+            "name": "Монолог"
+        }
+    ]
+}

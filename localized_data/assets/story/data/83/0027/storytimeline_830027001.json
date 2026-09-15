@@ -1,0 +1,155 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm walking around the\nacademy...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Festivities worthy of the Mejiro name.\nAnd I\nmust also put on a genuine display\nof true\nhospitality...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>SLAM!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, my apologies.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Yes, I was just a little caught up in my\nthoughts...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh! Heya, McQueen! Whoa, why so\nserious?",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "I've been tasked with greeting an\ninternational\nvisitor as the Umamusume\nrepresentative of the\nMejiro estate.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I've spent such a long time trying to\ncompose a\nspeech that will do justice to\nthe Mejiro name,\nand yet...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oooh, I getcha. I heard there's gonna be\na party\ntoo.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "M'kay, come with me! Oh, and you might\nas well\ntag along too, Trainer!",
+            "name": "Mejiro Palmer",
+            "choice_data_list": [
+                "Me?!"
+            ]
+        },
+        {
+            "text": "Yeah! The more the merrier! Please? I\nthink you'd\nbe a big help!",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "So actually, I got some tickets for a\nbaseball\ngame, but I've been strugglin'\nto decide who to\ngo with.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Baseball, at a time like this? No, I must\nfulfill my\nduties as a Mejiro before—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hey, I'm a prim and proper daughter of\nthe\nMejiro family too. Although\nadmittedly I don't\nspend much time at\nhome.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "But I think those experiences away from\nhome are\nwhat helped me rediscover\nwhat makes me <i>me.</i>",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "You might learn something by throwing\ncaution\nto the wind and sneaking out\ntoo.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Well, you're a bit of a special case,\nwouldn't you\nsay? I doubt I would be\ngranted leniency if I were\nto run away\nfrom my duties.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You sure about that? 'Cause I'm pretty\nsure\nGrandma wants all of us Mejiros to\nbe happy.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You know about that uncaught third\nstrike rule in\nbaseball, right? Where the\nbatter gets to run to\nfirst base when\nthey'd usually get struck out.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Maybe you could look at it like that.\nYou know,\nturn a crisis into an\nopportunity by running away.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "You might be in a real sticky situation\nright now,\nbut if you put your head\ndown and run, you might\njust run into\nsomething new.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "I suppose running away in such a fashion\nmay be\nacceptable. However...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's more than acceptable—it's\nexceptional! Come\non, run far, far away\nand clear that head of yours!",
+            "name": "Mejiro Palmer",
+            "choice_data_list": [
+                "Just escape all your worries and relax, at least\nfor today.",
+                "Maybe taking things at your own pace really is\nimportant."
+            ]
+        },
+        {
+            "text": "Yeah! Besides, I know you've got things\nunder\ncontrol, so you <i>can</i> run away!",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Very well. If you insist, then I shall also\nallow\nmyself to have some fun today.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>BRING 'EM HOME, YU-TA-KA!</i>",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Nice! Round the base! Keep going! Keep\ngoing!",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Yeah! It's always super important to go\nyour own\nway!",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Besides, everyone knows you're super\nserious.\nHeck, that's what makes you so\ncool.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Well... I suppose I could not fulfill my\nduties if I\nwere to overwhelm myself.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>THAT'S THE WAY, YU-TA-KA!</i>",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh yeah, now you're gettin' pumped!\n<i>That's</i> the\nMcQueen I know!",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Мэдзиро МакКуин benefits from the\nchange of\npace and embodies the best\nversion of herself\nwhen she gives her\nspeech.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After enjoying a breather at the baseball\ngame,\nМэдзиро МакКуин fulfills her\nimportant duties.",
+            "name": "Монолог"
+        }
+    ]
+}

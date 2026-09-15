@@ -1,0 +1,72 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I find Хиши Амадзон back in the waiting\nroom\nafter the race. She's completely\nsilent...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...Is everything okay?"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> What're you talkin' to me like I'm\nfragile\nglass for? How do I look to you\nright now?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Depressed 'cause I lost? Like I'll never\nbounce\nback from this?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You look like you're ready for the future.",
+                "You look like you're not ready to give up."
+            ]
+        },
+        {
+            "text": "Depressed 'cause I lost? Like I'll never\nbounce\nback from this?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You look like you're ready for the future.",
+                "You look like you're not ready to give up."
+            ]
+        },
+        {
+            "text": "Hm, you know your stuff. And it's not\njust that. I\nalso feel happy...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I had no idea there were so many\nformidable\nracers just waitin' for me to\ntrounce 'em!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I wanna take 'em on and beat 'em all!\nThis is\nenough to motivate me to train\ntill the cows come\nhome, and then some!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's clear what I have to do, and that's\ngetting\neven faster!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna get stronger! And once I do,\nI'm takin'\neveryone down!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Stop making that sad face! Gettin' all\ndown in the\ndumps isn't gonna help\nthings!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I've got plenty of energy to pull through!\nI'll never\ngive up, no matter what!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You'd better not tell me to cool my\nheels or\nanything, 'cause I'm bringing\nthis heat to the next\nrace!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm not about to let things end here! I'm\nHishi\nAmazon, Queen of the Amazons,\nand I'm not\ngoin' anywhere!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I can do this, Teach! I'm gonna train lots\nand grab\nthat win for sure!",
+            "name": "Хиши Амадзон"
+        }
+    ]
+}

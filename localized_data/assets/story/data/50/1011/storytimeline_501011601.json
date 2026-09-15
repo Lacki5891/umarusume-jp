@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The last race left me with much to\nreflect on.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Thanks to that insight, I was able to take\nfull\nadvantage of what little time I had.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But I refuse to go through that\nexperience again.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Let's win this one!"
+            ]
+        },
+        {
+            "text": "Hehe. I'll make sure there's no reason for\nregret\nthis time. ♪",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

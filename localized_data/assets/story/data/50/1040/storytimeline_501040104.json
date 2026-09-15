@@ -1,0 +1,322 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, toward the end of summer\ncamp..."
+        },
+        {
+            "text": "Okay, let's get started.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "First, we'll start with a warm-up!"
+            ]
+        },
+        {
+            "text": "Got it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Gyah!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Darn it!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "What in the world was that sound?! Are\nyou\nokay?!",
+            "name": "Inari One"
+        },
+        {
+            "text": "I'm fine! I can keep goin'!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I know you're in a rush to improve. But\nlemme tell\nyou, it hurts to look at you in\nthis state!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Then don't! I've... I've got dis!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I hafta win!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "What?! This is totally unlike you,\nTamamo!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Tamamo...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Let's get started, Trainer. I need to work\nharder\ntoo!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Okay, let's take a ten minute break!"
+            ]
+        },
+        {
+            "text": "<i>Huff... puff... huff...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "At Голд Сити's request, I've been putting\nher\nthrough a course of extra-heavy\ntraining.\nHowever, her body is beginning\nto reach its limits.",
+            "choice_data_list": [
+                "(I'd really like her to take a proper break\nsoon...)"
+            ]
+        },
+        {
+            "text": "Knowing Голд Сити, she'll just reject any\n\nsuggestion that threatens to reduce her\ntraining\ntime. There has to be a way to\nconvince her..."
+        },
+        {
+            "text": "Ah! Found you, City! ☆",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Wahey! ☆ What's popping?!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Whoa, that looks rough! No surprise\ncoming from\nlittle Miss Stoic.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Helios, Jordan... What's up?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You free tonight?! Let's launch some\nfireworks! ☆",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Helios brought some sparklers and stuff.\nIsn't that\nhilarious?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "You two do realize what summer camp is\nfor,\nright?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "To light up the sky!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "You're coming, right, City? We're gonna\nget it\npopping like literally! ☆",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Light up the sky?! How're you going to\ndo that\nwith \"sparklers and stuff\"?!\nYou're up to\nsomething dangerous for\nsure!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh boy. I can't let them go off on their\nown.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You should go too, then."
+            ]
+        },
+        {
+            "text": "Голд Сити is clearly opposed to the idea,\nbut she\nneeds the time to unwind. This\nmight be my\nchance to convince her."
+        },
+        {
+            "text": "That's what I'm talking about! Then your\ntrainer\ncan be our adult supervision. ☆",
+            "name": "Дайтаку Гелиос",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "I'm saying we got us our responsible\nadult, so now\nwe just need a spot. And\njust when I was about to\nhit up Teach!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "I can't wait to see how you handle these\ntwo.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Bet! ☆ So, about where to do it!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "My friend who owns a private beach says\nbeaches\nare better, but my mountain\nhippie friend says\nthe mountains!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "So what do you think?! We're a teensy\nways from\nthe beach, and the mountains\nsounds like a\nteensy uphill trek.",
+            "name": "Дайтаку Гелиос",
+            "choice_data_list": [
+                "A teensy uphill trek.",
+                "A teensy ways to the beach."
+            ]
+        },
+        {
+            "text": "And so..."
+        },
+        {
+            "text": "Eyyy, City! Stop being such a drag, get\nturnt up!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Can't we just chill for a minute? Then we\ncan get\nout the sparklers or whatever.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "No can do! Hype up and re-hype!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Stop playing games and get serious! This\nis a\nparty!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Oh! Where's the mega firework?! This\none's going\nto the moon!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Ugh, Helios! Come on!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "This is hilarious. I have to take a video.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Time passes as they have their fun."
+        },
+        {
+            "text": "Is that all the fireworks we have?\nLaaame.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Wasn't there a convenience store along\nthe way?\nI can go check.",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Nah, I'll go. Even though it's kind of a\nhassle.\nTrainer, you're on bag carrying\nduty.",
+            "name": "Тосэн Джордан",
+            "choice_data_list": [
+                "Okay!"
+            ]
+        },
+        {
+            "text": "And so...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! Where's your energy?!",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Here, grab more fireworks! Let's gooo!",
+            "name": "Дайтаку Гелиос",
+            "choice_data_list": [
+                "That isn't safe!"
+            ]
+        },
+        {
+            "text": "It's fiiine! Let me show you how it's done!",
+            "name": "Дайтаку Гелиос",
+            "choice_data_list": [
+                "No, I'm serious!"
+            ]
+        },
+        {
+            "text": "Pfft. Good luck stopping Helios. Oh, I\ncan't.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Right? Girl is built different. I gotta\nrecord this.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Our lively party continues for some time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is that all the fireworks we have?\nLaaame.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Wasn't there a convenience store along\nthe way?\nI can go check.",
+            "name": "Дайтаку Гелиос"
+        },
+        {
+            "text": "Nah, I'll go. Even though it's kind of a\nhassle.\nTrainer, you're on bag carrying\nduty.",
+            "name": "Тосэн Джордан",
+            "choice_data_list": [
+                "Okay!"
+            ]
+        },
+        {
+            "text": "...?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey, listen. You better be taking good\ncare of\nCity, 'kay?",
+            "name": "Тосэн Джордан",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "text": "I know she acts all nonchalant about\neverything,\nbut on the inside, she's a\ndelicate soul.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "At first, I liked her because I thought she\nwas\ncool, but now I really care about\nher. Seriously.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "When I'm with her, it's like... like it\nmakes me care\na little more about myself\ntoo.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "But I'm too slow to figure out why City's\nbeen\nhaving a hard time. So, I can't\nreally help her.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "She might be too sweet to stand up for\nherself,\nbut I'll do it—whatever that <i>it</i>\nis...",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Ugh, it's hard to put into words, but the\npoint is I\nwon't forgive you if you treat\nher wrong!",
+            "name": "Тосэн Джордан",
+            "choice_data_list": [
+                "I understand."
+            ]
+        },
+        {
+            "text": "We'll see about that.",
+            "name": "Тосэн Джордан",
+            "choice_data_list": [
+                "City is lucky to have such a kind friend."
+            ]
+        },
+        {
+            "text": "Ew! You're so corny!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Whatever the case, Голд Сити seems to\nhave had\na nice break.",
+            "name": "Монолог"
+        }
+    ]
+}

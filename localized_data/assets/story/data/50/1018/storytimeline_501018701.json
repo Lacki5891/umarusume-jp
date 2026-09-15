@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Early one morning, Эйр Грув is waiting\noutside\nthe academy gate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Morning, Эйр Грув! You're quite the\nearly bird\ntoday!",
+            "name": "Бамбу Мемори"
+        },
+        {
+            "text": "Yes. I woke up feeling quite refreshed,\nso I\nthought it would be nice to say\ngood morning to\neveryone.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ooh, I'll join you! I'm on the disciplinary\n\ncommittee, after all.",
+            "name": "Бамбу Мемори"
+        },
+        {
+            "text": "Heh, it'd be a pleasure to have you here.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув and Бамбу Мемори's lively\n\ngreetings echo across the academy.",
+            "name": "Монолог"
+        }
+    ]
+}

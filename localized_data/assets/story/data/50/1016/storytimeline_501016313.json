@@ -1,0 +1,98 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What incredible strength! Нарита Брайан\nwins the\nKikuka Sho!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And the crowd goes wild! The Kyoto\nRacecourse\nerupts in celebration!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "...Trainer.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Congrats, Brian!"
+            ]
+        },
+        {
+            "text": "Thanks. I was able to win the Kikuka Sho\nwith no\nproblems.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You've really come a long way."
+            ]
+        },
+        {
+            "text": "...Yeah, I think so too. This past\nyear—no, ever\nsince my debut...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You've—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Now, hooold on just a minute!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "This is no time to be wrappin' things up!\nWhat are\nyou two thinkin'?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, it's you, Amazon.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's right, it's me! Now, come over\nhere a sec,\nwould ya.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Go on."
+            ]
+        },
+        {
+            "text": "...Okay.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "So, the time has come for us to fulfill\nthat\npromise. Eh, Brian?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You didn't come all this way just so we\ncould pat\neach other on the back and\ncall it quits, didja?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Of course not. This level of success is\nhardly\nenough to satisfy me.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Sooo...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So I'll see you in the Arima Kinen.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан comes back to the waiting\nroom with\nsome pep in her step, looking\nquite pleased.",
+            "name": "Монолог"
+        }
+    ]
+}

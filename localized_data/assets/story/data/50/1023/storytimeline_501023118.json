@@ -1,0 +1,244 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Less than one month remains until the\nArima\nKinen. There's just one problem...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ's running is stiff.\nEverything about\nher just seems rigid.\nNow that the showdown is\nalmost here,\nit seems she's feeling the pressure.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's take a couple deep breaths to relax."
+            ]
+        },
+        {
+            "text": "Okay.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Breathe in. Breathe out.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "(Her breathing is still shallow...)"
+            ]
+        },
+        {
+            "text": "We're almost out of track time, and the\nother\nUmamusume are starting to wrap\nthings up. I need\nto figure something out\nfast...",
+            "name": "Монолог"
+        },
+        {
+            "text": "BREATHE IIIN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And BREATHE OOOUT!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Come on, Hayahide! Do it with me! IIIN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Sigh...</i> There's a fine line between being\nhelpful\nand obnoxious, dummy.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Lift your head up, Hayahide. Slouching\nlike that\nmakes it look bigger than usual.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What?! My head's perfectly—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There, your back just straightened out.\nThat\nshould make it easier for you to\nbreathe.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Thanks!"
+            ]
+        },
+        {
+            "text": "Whatever. I didn't come here for thanks.\nI only\nsaid it because she's hogging the\ntrack, and\neveryone's waiting.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Your time slot's almost over, and you\ntwo are just\nstanding around like you\nown the place.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, come on, Taishin! You're the one\nwho was all,\n\"Oh no, let's go see what's\nwrong with Hayahide!\"",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Shut up. I never said that...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You're lucky to have such good friends."
+            ]
+        },
+        {
+            "text": "I really am. They're almost too good for\nme.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hey, why don't we all go for one more\nlap and\nend today's training with a\nbang?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Seriously?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Come on you guys! Let's gooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Deeerbyyy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I wonder if she noticed the Derby's over\nalready...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It wouldn't be Ticket if she didn't shout\nrandom\nthings all the time. Besides, her\nenergy always\ncheers me up.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm so grateful to have met you two.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah, okay, that's very sweet and\neverything.\nAnyway...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You gonna run or what?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hehe, count me in!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Forgetting all about their agreement to\nrun just\none lap, the three friends keep\ngoing until time\nruns out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "HA-YA-HI-DE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, please... We're using names as a\nrunning\nchant now?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Heh.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "TIII-CKET! TAAAI-SHIN!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Seriously?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hehe! Hey, it's not bad! Besides, the act\nof\nvocalizing has a demonstrable effect\non gross\nmotor movements.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But more than that, shouting your names\nreally\nmotivates me.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Don't tell me you're losing your mind\ntoo...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "So? Are we gonna catch up to the wild\nchild or\nwhat?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Let's do it!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ, Уиннинг Тикит, and\nNarita\nTaishin keep racing around the\ntrack without a\ncare in the world.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Raaaaah!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Wha?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Did I do that right? I could've sworn that\nwas the\nright time to yell...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Pfft! Hahaha! Nah, that was perfect.\nCome on,\nlet's run.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "See ya!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey! No fair, Taishiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Mind if I go too, Тренер?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Go for it! Get that W!"
+            ]
+        },
+        {
+            "text": "Roger!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ chases after Winning\nTicket and\nНарита Таисин.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She ends up crossing the finish line first\ndespite\ntheir head start.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All the tension seems to melt from Biwa\n\nHayahide's shoulders, and her form\nlooks great\nonce more.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems her friends' shouts of\nencouragement\nhave a positive effect on\nHayahide, who can't\nstop grinning.",
+            "name": "Монолог"
+        }
+    ]
+}

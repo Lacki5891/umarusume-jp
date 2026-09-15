@@ -1,0 +1,225 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Фудзи Кисэки and I are working toward the\nArima\nKinen, but we need breaks too.\nOn one particular\nrest day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer, let's celebrate early! It's\nclose\nenough to the 25th, right?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Might I interest you in a production of\n<i>Romeo\nand Juliet?</i>",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And that's how we end up going to\nwatch a play\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What a great rendition! Even though I\nknew how\nthe play would end, I still\ncried.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "\"Thou desperate pilot, now at once run\non the\ndashing rocks thy seasick weary\nbark! Here’s to\nmy love.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "\"O true apothecary, thy drugs are quick.\nThus\nwith a kiss I die.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Now I remember how difficult those lines\nare! I\nwanted to get them just right, so I\npracticed a lot.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "When was this?"
+            ]
+        },
+        {
+            "text": "Oh, right, you don't know. I played\nRomeo in my\nyouth troupe.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I remember being really nervous because\nit was\nthe first main role that I earned\nthe chance to\nplay.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I muttered lines under my breath all day\nlong at\nhome until my mom got angry at\nme!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hehe. This sure brings me back. I never\nwould\nhave thought back then that I'd\nchange my path\nto racing.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Listening to Фудзи Кисэки tell me about her\n\nchildhood, our trip back to campus\nseems to take\nno time at all.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks for coming out with me today!\nEven\nthough it's a bit early, I truly felt a\nfestive cheer.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, before I forget, I have a gift for you!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Consider it a token of my gratitude.\nThank you\nfor everything you do!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "text": "I look at the neatly wrapped box. It\nlooks like\nthere might be a piece of\njewelry inside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The stone has a special meaning.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It means, \"May our bond remain eternal.\"\nI\nimbued it with this wish.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I open the box to find a necklace inside\nwith a\nsmall diamond that sparkles like\nsunlight glinting\noff the ocean.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is it all right if I put it on now?"
+            ]
+        },
+        {
+            "text": "Of course!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I try to put it on, but the clasp is small\nand my\nfingers are clumsy. As I'm\nstruggling...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let me see it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She takes the necklace from me and has\nit\nclasped around my neck in no time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looks great on you. I'm glad I chose a\nsmaller\nstone.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I didn't want it to be too flashy, since I\nwas\nhoping you'd wear it every day...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Don't take that too seriously! Anyway,\ngood\nnight!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It looks just as nice on you as I thought it\nwould.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I'll treasure it."
+            ]
+        },
+        {
+            "text": "That means a lot to me. Also, um...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh! That vending machine sells really\ntasty hot\ncocoa. Do you want to try it?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "text": "Sorry. That was a bit random, wasn't it?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What I mean to say is... the day feels like\nit went\nby really fast.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I was hoping we could spend some more\ntime\ntogether... if that's all right with\nyou?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Here you go. It's hot, so be careful.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The cocoa Фудзи Кисэки hands me is\nsweeter and\nmore delicious than I\nexpected it to be.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks for spending time with me\ndespite how\nbusy you are. I really\nappreciate it.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I'm glad you invited me out."
+            ]
+        },
+        {
+            "text": "Hehe. You're too nice for your own\ngood.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You know...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "When I was young, I couldn't understand\nthe\nending of <i>Romeo and Juliet</i> at all.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I didn't get why the two of them pined\nso\ndesperately for each other.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And I wondered what it would feel like\nto have\nsomeone so precious to me that\nI would rather die\nthan be without them.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But now, I finally understand what it\nmeans to\nhave a truly irreplaceable\nperson in my life.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Could it be because I've grown older\nand wiser...\nor because I've met you?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I wonder... Which do you think it is?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Er..."
+            ]
+        },
+        {
+            "text": "Haha! I'm just messing with you. Did your\nheart\nskip a beat?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки looks at me with an impish\nexpression\nfilled with smiles and\nmischief.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oho? What's wrong? Your face is all red.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "This day with Фудзи Кисэки becomes one of\nmy\nwarmest and loveliest memories.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This day with Фудзи Кисэки becomes one of\nmy\nwarmest and loveliest memories.",
+            "name": "Монолог"
+        }
+    ]
+}

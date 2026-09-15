@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Heheh, it's cute. It feels so nice, it must\nbe made\nof pretty good fabric.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The clothes are well-sewn. It shows their\nrespect\nfor the original model.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "It's such a well made plushie."
+            ]
+        },
+        {
+            "text": "So true. Getting to actually hold it in my\nhands, I\nget a sense of, like, what the\nmakers were feeling,\nor... what they\nwanted to show.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah. That makes me want to work\nharder.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "That went pretty well!",
+            "name": "Монолог"
+        }
+    ]
+}

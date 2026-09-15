@@ -1,0 +1,273 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйр Грув has a number of victories\nunder her\nbelt, but when I think of the\nfuture, there is still\nquite a bit of work to\nbe done.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As I work my way through some of the\ntasks in\nfront of me, I find my eyes\nbeginning to grow\nheavy...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello. I'd like to confirm something\nabout our\nupcoming...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Did you fall asleep while working? Good\ngrief...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, I suppose you have hardly had\ntime to catch\nyour breath up until now. I\nshouldn't be too\nsurprised.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now that I think about it, the only time\nwe've\never celebrated our successes was\naround this\ntime of year. Perhaps we\nshould make the time to\nrelax some\nmore...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(Wait... I know!)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(We still have that ticket... Maybe now's\nthe time\nto use it?)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The next day, Эйр Грув drops by my\noffice with\na more serious expression\nthan usual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Come on in."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "text": "The hot spring vacation ticket.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "The what now?"
+            ]
+        },
+        {
+            "text": "The hot spring vacation ticket I gave you\nfor\nsafekeeping. Do you still have it?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You can hold onto it for the time being.\nI'll tell\nyou when I determine how we\nshould use it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The memory comes back to me. I think I\nshould\nhave the ticket in my desk\ndrawer...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looks like you've just remembered.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, the time has come to use it. I'm\ngoing, and I\nwant you... to come with\nme.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Really? Are you sure?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We're leaving the day after tomorrow.\nMake sure\nto finish up your work and\npack your bags. That's\nall.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув leaves my office before I\nhave a\nchance to say anything else.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Still unable to comprehend what exactly\nhas\nhappened, I arrive at the hot spring\nwith Air\nGroove.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The water was pretty decent.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Apparently this hot spring is good for\ntired\nmuscles and stiff shoulders.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What did you think?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "It was great."
+            ]
+        },
+        {
+            "text": "...I see.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув has had a serious expression\nfor the\nwhole trip.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She was the one who suggested that we\ngo... I\nwonder what's the matter with her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is everything okay?"
+            ]
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You just seem nervous."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As soon as I say this, Эйр Грув's mood\ndoes a\n180.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What?! I have no idea what you're\ntalking about!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I could say the same to you! You're\nusually much\nlouder! What's with you\ntoday?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wait... No...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That... must be my fault. You're not\ntalking\nbecause I'm not talking...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ngh... This isn't what I intended at all...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What did you intend exactly?"
+            ]
+        },
+        {
+            "text": "...I thought the vacation ticket was a\nperfect\nopportunity.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We've spent the past three years\nworking hard\nwithout taking a moment\nto stop and enjoy\nourselves.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I guess it became our routine. Even now,\nyou're\ndrowning yourself in work.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "So I wanted this trip to be a way for you\nto relax.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I see."
+            ]
+        },
+        {
+            "text": "It makes sense... She was looking out for\nme.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But there's still one thing that I don't\nquite get...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Then why is it that you've been so on edge?"
+            ]
+        },
+        {
+            "text": "Well, I...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I wasn't sure how to behave.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Well, this isn't really all that important,\nbut...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "<i>Sigh...</i> No, I should stop with the\nexcuses. It's\nunseemly...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As you know, I am the Empress. I need\nto guide\nthe students at the academy.\nBecause of that, I\nmust always be aware\nof how others see me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But this place is an exception. Here,\nnone of that\napplies.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As soon as I realized that, I also realized\nI don't\nknow exactly how I <i>should</i>\nbehave in this\nsituation... How I should\nact around you...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ngh... I hate that I need to show this\nshameful\nside of myself!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It looks like Эйр Грув was so focused\non being\nthe Empress, she forgot how to\nbe herself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Fortunately, the answer is simple.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's okay. Just relax."
+            ]
+        },
+        {
+            "text": "What?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's what <i>I'm</i> trying to say to <i>you!</i>\nYou're the\none who's supposed to be\ngetting pampered here!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Your job is to absorb the minerals from\nthe water,\nrest your muscles, and get\nsome sleep! That's it!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув lectures me through our\nmeal, but I do\nmanage to relax.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I sense that Эйр Грув and I have\nformed an\nirreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

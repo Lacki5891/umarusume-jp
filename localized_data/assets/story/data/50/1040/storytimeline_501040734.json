@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I won...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "...Something's off, though. Like, it just\ndoesn't\n<i>feel</i> right.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Even so, this win is yours.",
+                "Maybe it doesn't have to."
+            ]
+        },
+        {
+            "text": "...Something's off, though. Like, it just\ndoesn't\n<i>feel</i> right.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Even so, this win is yours.",
+                "Maybe it doesn't have to."
+            ]
+        },
+        {
+            "text": "...You're right.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I won with my own skill.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I hate this awkward feeling.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I guess I'll just say I'm \"happy\" and call it\na day.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Before, I would've been all like \"Hah! In\nyour\nface!\" but I don't feel that anymore.\nI <i>am</i> glad I\nwas able to run well though...",
+            "name": "Голд Сити"
+        }
+    ]
+}

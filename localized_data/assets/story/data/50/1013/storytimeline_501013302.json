@@ -1,0 +1,314 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On our way back from an outing, Mejiro\n\nMcQueen and I swing by the shopping\ndistrict.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh? A large crowd has gathered over\nthere.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "A raffle... That seems enjoyable. Do you\nthink\nthere's a surefire way to win?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "The only thing you can count on is your luck."
+            ]
+        },
+        {
+            "text": "Only my luck?! Then there's no reason to\nhesitate.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Neither rank nor acquired skill are\nrelevant if it's\nonly a matter of luck.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "In situations such as this, there can be no\n\nfavoritism. Oh, what a thrill!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I shall get my raffle ticket as soon as\npossible. I\ncan buy some ribbons or\nsomething.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...And so we receive one raffle ticket.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, we only have one chance. Let's\nfocus all our\nenergy on this, Trainer.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "As the two of us pray for good luck, we\ngrasp the\nlever together and turn the\nraffle tumbler.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "What? Is this really true?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "We did it, Trainer! We got the jackpot\nprize!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "A travel voucher for two. I can imagine it\nnow!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Gazing at the autumn leaves, eating\ndelicious\nfood, enjoying a hot bath,\nand...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "W-w-wait a moment!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(I've just won a coupon for a hot springs\ntrip! This\nis an event most unimaginable!)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(I mustn't get ahead of myself; it's\nunbecoming. I\nknow! I should entrust\nthese to my trainer!)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ahem! Now that I think about it, I'm not\nrestricted\nin the way I choose to use\nthese vouchers.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Here, Trainer. Use them however you\nlike.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(This is the best option. I maintain\nproper\ncourtesy, and Trainer will\nhopefully—)",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "No, you should have them. You get to choose."
+            ]
+        },
+        {
+            "text": "Huh?! Th-this puts me in an awkward\nposition!\nDon't... Wait, whaaat?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(You dummy! Why are you trying to put\nit back\non me?! Now it seems like I'm the\nonly one\ndesiring this trip.)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(Since it's come to this...)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...I shall reserve them for later.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Reserve?"
+            ]
+        },
+        {
+            "text": "Yes. In the interest of fairness, I am\nentrusting\nthem to you.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I shall decide how to use them only after\nheavy\ndeliberation. It's an immense\nprivilege, after all.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "My, a carrot hamburger steak! It looks\npositively\nscrumptious.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "B-but...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "You should have it. If I ate it, I'd gain\nwei—I\nmean, I'd feel terribly guilty.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You want to eat it, don't you? There's no\nneed to\ndeny yourself the pleasure.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Uh, no, not really..."
+            ]
+        },
+        {
+            "text": "Please, admit you want to eat it! If you\ndon't, I'll\nend up taking it, you know?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Go ahead."
+            ]
+        },
+        {
+            "text": "Don't \"go ahead\" me! Why you...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Fine, then we will eat it together. If we\neach take\nhalf, it will be half the calories\nbut all the\ndeliciousness.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "No, it might be double the deliciousness.\nOr\nmaybe... double the happiness?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "N-never mind me. I'm just a little worked\nup from\nwinning something so nice.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Second-prize... It's a so-so outcome, yet\n\nstrangely, I feel a sense of\naccomplishment.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Who could have imagined that a single\npiece of\npaper could be exchanged for\nso much food? It's\nan achievement in its\nown way, don't you think?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That, I can accept. Now, let's go.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "...Wait, what about the carrots?!"
+            ]
+        },
+        {
+            "text": "Huh? Oh, that's right. I ought not to\nforget the\nactual prize.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Although, that's not why I wanted to\nplay the\nraffle.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I simply wanted to have a chance to\ndemonstrate\nmy brilliance. That's all...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Accepting the prize would put me in an\nawkward\nposition. Just look at how many\nthere are.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just one carrot... That's rather\ndepressing.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "So this is the limit of my potential... A\nsingle\ncarrot...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "By the way, Trainer. Do you know what\nseason\nfollows winter?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Spring. But why do you ask?"
+            ]
+        },
+        {
+            "text": "Oh, look at that, a boutique just a few\nshops\ndown. If I buy some spring\nclothing there, I may\nhappen to get\nanother raffle ticket.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Then, I would have no choice but to play\nthe\nraffle again... Please excuse me.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Wait a sec!"
+            ]
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tissues... Hehe... It's exactly what I\nwanted.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "What for?"
+            ]
+        },
+        {
+            "text": "To wipe away my tears of regret. Ohhh, I\nthought\nI had waited until just the right\ntime, too.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Here, use my handkerchief."
+            ]
+        },
+        {
+            "text": "No thank you! I... I prefer a tissue!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "In the end, we decide to have the heap\nof carrots\ndelivered to the Mejiro family\nestate. Days later, I\nreceive a written\ninvitation to a \"carrot banquet.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "I prevent her from wasting any more of\nher\nmoney. She seems very frustrated by\nthe raffle\nresult.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро МакКуин seems so disheartened\nthat I\nquestion whether the small\npackage has enough\ntissues for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's making a bigger deal of this than\nnecessary.\nStill, I end up holding on to\nthe coupon in her\nstead.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In the end, we amiably split the\nhamburger steak\nand eat it together.",
+            "name": "Монолог"
+        }
+    ]
+}

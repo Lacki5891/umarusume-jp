@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One, two...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "One, two!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "text": "Oh, sorry! Just working on some squats.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I slept great last night, so today I'm\nloaded with\nenergy!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I can't sit still! Gotta pour all this\nenergy...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Into these hammies!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Agh, I just can't stop! If you'll excuse\nme, I gotta\nkeep goin'!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "One, two...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "One!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан is brimming with power!",
+            "name": "Монолог"
+        }
+    ]
+}

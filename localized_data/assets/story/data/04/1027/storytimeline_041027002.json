@@ -1,0 +1,232 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the tryouts arrives. All the\nparticipating Umamusume busy\nthemselves\nwarming up, hoping to show their true\nprowess to\nprospective trainers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The stands are filled to the brim with their\nfans and friends alike,\nready to cheer them\non. Among them are the sharp-eyed\ntrainers,\neager to scout the next star.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ryaaan! You've got this in the bag!",
+            "name": "Мэдзиро Райан Fangirl"
+        },
+        {
+            "text": "Show 'em what those legs can do! Make\nthem eat your dust!",
+            "name": "Мэдзиро Райан Fanboy"
+        },
+        {
+            "text": "Whoa, thanks, guys! Don't worry, I won't\nlet you down!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Wow, someone's as popular as ever.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Ahaha... I just go for runs around the\nschool a lot, so I naturally bump\ninto a lot\nof people. Never hurts to say hello to\nsomeone you see\nevery day!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Yeah, and doing that is what got all these\npeople to come out for\nyour big day. ♪",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "It's a bit embarrassing when you put it that\nway... But I can't say I\ndon't appreciate it!\nBetter make it worth their while!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Yeah, that goes for me too! I won't lose to\nyou! ...Even if I'm not\ntaking part in the\ntryouts this time.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Ahaha, we'll have to save our\nhead-to-head battle for some other\ntime!\nAnyway, I better head down to the track.\nSee you soon, Ines!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Yeah! Knock 'em dead, Ryan!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "From the stands, I see Мэдзиро Райан walk\nonto the track and start\nprepping for the\nrace among the other Umamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is it! How far will my legs take me\ntoday? Hehe, I can't wait!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "What are you laughing about? This is an\nimportant race here, which\n<i>some</i> of us are\nactually taking seriously.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Huh? Ah... S-sorry!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Hey... Sorry about her. She's from a pretty\nfamous family, so she's\nworried about\nmaking them proud.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Making her... family proud...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And with that, every Umamusume is at the\nstarting gate!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "(Making them proud...)",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "<i>Bam!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?! Ah, crud!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "What's this?! Мэдзиро Райан leaves the gate\nlate!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Huff, huff, huff!</i> Nngh!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Come on, Ryaaan!",
+            "name": "Мэдзиро Райан Fanboy"
+        },
+        {
+            "text": "That's it! You can still catch up!",
+            "name": "Мэдзиро Райан Fangirl"
+        },
+        {
+            "text": "And we've reached the final stretch! Mejiro\nRyan has managed to\nrecover from her\ndelayed start and made it all the way to\nsecond\nplace! Will she make it to first?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Ah, the racer in first is... the one from\nbefore...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "They're approaching the finish line! Ryan's\ngaining speed and\ncatching up fast! Will\nshe make it?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "And... It's no use! The front runner crosses\nthe finish line, with Mejiro\nRyan coming in\na close second!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Huh? Hmmm...",
+            "name": "Ines Fujin",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "It's just... something's off about Ryan...",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Indeed. Her running form was different\nfrom usual. It was missing her\nusual energy.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ah, McQueen! I didn't know you were\nhere!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "I'll be running in the next tryouts, so it is\nonly natural that I be here to\nprepare\nmyself. But never mind that...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I think I need to have a talk with Ryan.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Huh?! W-wait for me! I wanna talk to her\ntoo!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "As Мэдзиро МакКуин makes her way to\nRyan, Ines Fujin and I trail\nbehind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Ines, McQueen, and... the trainer\nfrom before? What's going\non?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That's what we'd like to know! What's\nwrong, Ryan? That race wasn't\nlike you at\nall.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "I-I just...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I guess the tryouts weren't as easy as I\nthought. The rest of the\nrunners were\nsuper serious. I bet they were trying hard\nto make a\ngood impression.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Their passion won out in the end. I mean...\nrunning's just another way\nfor me to do\nwhat I love—exercise.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I don't have any big dreams or reasons to\nrun. I'm just... practicing my\nhobby.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Wh-why would you say that! You train\nharder than anybody I know!\nNo way\nyou're doing all that for a simple hobby.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Ah, what I mean is... I-I was so busy\npreparing my body, I forgot to\nprepare my\nspirit too. Guess I'll have to work even\nharder!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Yes, McQueen?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Why did you come to Академия Тайсен in\nthe first place?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Wh-why? That's...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...I'm sorry. Perhaps that was an insensitive\nquestion. I shall be on my\nway.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "What?! McQueen, wait!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Why... did I come here?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That really stings coming from you,\nMcQueen.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "With that, a dejected Мэдзиро Райан takes\nher leave before I can talk to\nher.",
+            "name": "Монолог"
+        }
+    ]
+}

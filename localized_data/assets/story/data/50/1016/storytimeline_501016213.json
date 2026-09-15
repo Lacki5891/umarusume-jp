@@ -1,0 +1,79 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the day of the Japan Cup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "People are packed tightly into the\nvenue, all\nhoping to witness the birth of\na new legend.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I want Brian to win! It's more exciting\nthat way!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "I'm Team Rudolf! There's absolutely no\nway the\nEmperor will be defeated!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Hehe, coming in for landing! Mind if I\ncut ahead?",
+            "name": "???"
+        },
+        {
+            "text": "Oh, well aren't you quite the little thing!\nHaha,\nyeah, go ahead to the front!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Yay! Thank yooou! ☆",
+            "name": "???"
+        },
+        {
+            "text": "Hehe, you're such a cutie. Hey, who are\nyou\ncheering for?",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Huh? Well, um...",
+            "name": "???"
+        },
+        {
+            "text": "I'm Team Маяно Топ Ган, of course!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You got this?"
+            ]
+        },
+        {
+            "text": "Honestly, no matter how hard I think\nabout it, I\ncan't see myself beating\nRudolf.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But every time I try to picture it, I hear\nblood\npounding in my ears.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "My heart's telling me to win against\n<i>myself.</i>",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I know you can do it!"
+            ]
+        },
+        {
+            "text": "Yeah...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I think this is what I've been waiting for\nall this\ntime.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Today is the day I finally surpass\nСимболи Рудольф!",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

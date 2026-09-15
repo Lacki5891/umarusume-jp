@@ -1,0 +1,75 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The autumn Tenno Sho is finally here!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Countless spectators eager to see\nSilence\nSuzuka's overwhelming speed\nflood the\nracecourse for today's event.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I wonder what we're gonna see from\nSuzuka\ntoday!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "I bet she's even better than she was at\nthe\nMainichi Okan!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Definitely! I don't even care if she wins\nor loses, I\njust wanna see her run again!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Excitement runs through the crowd as\nthey wait\nfor the race to begin. In the\nprep room, however,\nthe tension is\npalpable.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, there's something we need to\ntalk about.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She explains calmly, yet firmly that\nthere's a pain\nin her leg, but she won't\nlet it take her out of the\nrace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...But I still want to run today.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "(What do I do in this situation?)"
+            ]
+        },
+        {
+            "text": "I'm not sure what the future holds.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yet, we <i>can</i> overcome our limits. There's\nnothing\nto do but believe in that and\njust run.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Will you trust me just one more time?\nJust like\nyou did when we first started\nworking together?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "No matter what happens, I'll come back\nto you. I\npromise.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I can see the strength in her eyes.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...Okay."
+            ]
+        },
+        {
+            "text": "I tell her I'll be waiting for her at the\nfinish line,\nand she responds with a\nbright smile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell her I'll be waiting for her at the\nfinish line,\nand she responds with a\nbright smile.",
+            "name": "Монолог"
+        }
+    ]
+}

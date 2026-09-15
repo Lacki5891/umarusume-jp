@@ -1,0 +1,77 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I... I can't believe it... I won the Derby...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Am I dreaming?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Could you pinch my cheeks just to make\n\nabsolutely certain?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Don't make me embarrass myself!"
+            ]
+        },
+        {
+            "text": "Oh, right. All of our fans are watching\nright now.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But seriously, how did you make it\nhappen? I\nwasn't in any condition to win.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I just worked as hard as I could."
+            ]
+        },
+        {
+            "text": "You just worked hard? That was enough\nto help\nme win?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You know, you might be even more\nincredible\nthan I thought.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You've gone well beyond being a mere\n\"good\ntrainer\" today.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "So I'm not a \"good trainer\" anymore?"
+            ]
+        },
+        {
+            "text": "No, that's not at all fitting right now.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Can I praise you with the best\ncompliment I can\nmuster up?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Please do."
+            ]
+        },
+        {
+            "text": "Okay! Here I go! All the fans out there\nwatching,\nsay it with me! Ready? One,\ntwo, three...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Who's a good little prodigy?! You are,\nTrainer!\nYes, you are! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Prodigy! Prodigy!",
+            "name": "Spectators"
+        },
+        {
+            "text": "The chorus of praise echoes throughout\nthe\nstands, symbolizing the gravity of\nour\nachievement.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Congratulations on your miraculous\nDerby win,\nSuper Creek!",
+            "name": "Монолог"
+        }
+    ]
+}

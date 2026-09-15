@@ -1,0 +1,30 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm walking Хиши Амадзон through the\ntraining\nregimen, but something is really\nbugging me...",
+            "choice_data_list": [
+                "What happened to your tail?"
+            ]
+        },
+        {
+            "text": "Hm? Oh, just bedhead—or bedtail, I\nguess.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It wasn't completely dry before I went to\nsleep\nlast night. The younger students in\nthe dorm had\nthe same reaction as you.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But yeah... stuff like this happens to the\nbest of\nus. More importantly...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Yawn...</i> Huh, what was I talkin' about\nagain?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон looks like she's about to\nfall asleep\nany second. She must be\nexhausted. It might be\nbest to adjust her\nrace schedule."
+        }
+    ]
+}

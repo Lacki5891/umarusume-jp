@@ -1,0 +1,242 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One weekend, Голд Шипп shows up out\nof\nnowhere and drags me to the movie\ntheater.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We happen to run into Мэдзиро МакКуин\nwhile\nwe're there.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hiii-de-ho! To which movie shall we go?\nI'll give\nyou 10,800 seconds to decide,\nso think fast!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I should hope deciding won't take us\nthree\nhours... And would you please\nkeep your voice\ndown?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Excuse me, Trainer, but might you\npurchase some\npopcorn? The largest size\nthey have, if you\nplease.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That ought to keep Голд Шип\npreoccupied until\nthe film is over.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You've done this before, huh?"
+            ]
+        },
+        {
+            "text": "You know it! We watch movies together\nall the\ntime. Mac loves me so much, she\njust can't stay\naway! ♪",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>I</i> can't stay away? You're the one who\nkeeps\nsneaking up on me unannounced!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Why, just last time you appeared out of\nnowhere\nin the empty seat beside me! I\nnearly shrieked!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh, McQueen, you can't do that! Every\nmovie\nlover has to follow the golden\nrule:",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "No noise until the credits roll!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Argh, you are impossible!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Anyways, we'd better pick a flick!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We've got the heartwarming sports\nmovie, <i>Shape\nUp, Ebisu High</i>! Or the\npulse-pounding action\nromp, <i>JAM: The\nLast Cartridge</i>! What'll it be?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "An athlete's coming-of-age story or an\n\nadrenaline-laced thrill ride? H-how can\nwe ever\ndecide?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Wanna see both, do you? But you can't\nhave your\ncake and eat it too! Well, not\nunless you've\nmastered the shadow\nclone jutsu, like me.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Okay, your call, Trainer. What'll it be?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "<i>Shape Up, Ebisu High</i>.",
+                "<i>JAM: The Last Cartridge</i>."
+            ]
+        },
+        {
+            "text": "The three of us have a blast watching\n<i>Shape Up,\nEbisu High</i>.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The story of a ragtag sumo club's climb\nfrom the\nbottom of the barrel to the top\nof the league gets\nus all inspired.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why, that was marvelous!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Especially when the main character beat\nthat\ninstructor... He started out a lazy\nglutton, but he\ngrew so much... <i>Sniff...</i>",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oho? Are those tears I spy, McQueen?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "O-of course not! I'm not crying!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm a proud Umamusume of the Mejiro\nfamily! I\nwould never be so improper as\nt—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Bah! Mejiro schmejiro. If you wanna let it\nout, let\nit out!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You felt it too, right? Didn't it pluck at\nyour\nheartstrings every time the hero got\nback up?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Those moments that bring a tear to the\neye...\nThat's what it's all about! A life\nwithout that\nwould be a snoozefest!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шип...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...You're right.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I admit it! That movie touched me to the\ncore! I...\nI was deeply moved! <i>...Sniffle.</i>",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That's perfect! Very nice! Now, look\nright into the\ncamera!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "How dare you! Turn that off right this\ninstant!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Bwahahaha! Gotta run! ☆",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What nerve!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The three of us have a blast watching\n<i>JAM: The\nLast Cartridge.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The nonstop thrills have our palms\nsweating, and\nthe over-the-top action\nkeeps us on the edge of\nour seats from\nstart to finish.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Gasp!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I... can't... take it!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "You okay, Golshi?"
+            ]
+        },
+        {
+            "text": "Erm... Голд Шип? Pardon me, but you\nseem to be\nbreathing rather heavily.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That leap from the forty-eighth story!\nThat midair\nthrowing knife kick! That\nsick skateboard grind\ndown the roller\ncoaster!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "GAAAH! I'm so fired up! Action movies\nrock!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Shhh! Please! Keep your voice down!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "LET'S GOOOOO!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "G-Голд Шип?! Hey! Come back here!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Uh-oh!"
+            ]
+        },
+        {
+            "text": "There's no telling what an\nadrenaline-fueled Gold\nShip might do!\nМэдзиро МакКуин and I race after\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шип! Oh, where in the world has\nshe run off\nto?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Eeek! Thief! That man stole my purse!\nSomebody\nstop him!",
+            "name": "Passerby A"
+        },
+        {
+            "text": "Huh?! A thief?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Hey, you! Outta my way!",
+            "name": "Thief"
+        },
+        {
+            "text": "Never fear! Action hero Golshi is here,\nfresh off a\ntraining course that spanned\ntwenty star systems!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "YOU SHALL NOT PASS! HI-YAH!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Wha-Pow!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't believe it... You knocked him flat\non his\nback. There really is no stopping\nyou sometimes...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Phew! Now that blew the cobwebs away!\nAction\nmovies are awesome!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп grins from ear to ear as the\nonlookers\napplaud her skills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I swear, I don't know why I put up with\nher...",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

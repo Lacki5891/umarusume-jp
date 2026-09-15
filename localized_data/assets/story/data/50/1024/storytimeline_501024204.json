@@ -1,0 +1,136 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the spring Tenno Sho is here.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yoo-hoo! ♪ Mayano!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Oh, Teio! Did you come to cheer me on?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yeah. Hishiama and I finished up all our\ntasks, so\nwe dashed over here!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Ehehe! Everyone's so excited to see you\nrace!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Just take a look!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "\"The spring Tenno Sho—the Ultimate\nFace-off?!\"\n\"Who Will Win? Brian or\nMayano?\"",
+            "name": "News Site"
+        },
+        {
+            "text": "\"Hanshin Daishoten's Fierce Battle Rages\ntoward\nThe Shield!\" \"Who Will Shine\nBrightest? Superstar\nBrian or Rising Star\nMayano?\"",
+            "name": "News Site"
+        },
+        {
+            "text": "...!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Are you excited? Nervous?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "There's no way something like that\nwould scare\nme! Of course I'm excited!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Whoa! Now that's Maya for you! I totally\n\nunderestimated you!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hahaha! I'll accept some pudding as an\n\napology! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heehee. Now then, Trainer... I'm off!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "No losing today."
+            ]
+        },
+        {
+            "text": "I won't!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm gonna get a perfect victory over\nBrian this\ntime!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You'd better look forward to it!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "After I send Маяно Топ Ган off...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Knock, knock.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Hishiama? Mayano's already left.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...Did you guys see the news?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You mean the headlines about Brian? I\nshowed\nthem to Mayano...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "No, I mean the video that was released\njust a\nmoment ago.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Anyway... Take a look at this, Trainer.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She passes me her smart phone open on\na video\nfrom a news site.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is it true, Brian? After this year's spring\nTenno\nSho, you're—",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Yes. I'll be training for the Arima Kinen.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "B-but... the Arima is in winter. Isn't it too\nearly to\nmake such a decisi—",
+            "name": "Репортёр"
+        },
+        {
+            "text": "No.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I have some things I need to make sure\nof, and I\nneed the time.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I must know how far I, Нарита Брайан, can\nrun!",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

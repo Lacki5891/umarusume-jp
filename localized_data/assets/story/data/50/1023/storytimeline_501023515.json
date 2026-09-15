@@ -1,0 +1,189 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ and I have just finished\nour\ntraining session for the day."
+        },
+        {
+            "text": "Hm? Where's my bottle? Did I leave it\non the\ntrack?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Sorry, Trainer. I need to get my bottle.\nI'll head\nstraight home afterward.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "It's dark already, so I'll go with you."
+            ]
+        },
+        {
+            "text": "Really? Thank you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm pretty sure it was around there...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Did you not hear us the first time? We\nhave a\nrace coming up soon so get out\nof our way and\nscram.",
+            "name": "Assertive Umamusume"
+        },
+        {
+            "text": "Excuse you? <i>I'm</i> in your way? That's\nstrange\nbecause I'm pretty sure I was\nhere first.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What does that matter to us? Seriously,\nget lost\nalready!",
+            "name": "Sharp-eyed Umamusume"
+        },
+        {
+            "text": "Oh, now you're asking for it!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Isn't that Нарита Таисин?"
+            ]
+        },
+        {
+            "text": "Looks like it... I'm going to see what's\nwrong.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Excuse me.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I was under the impression that there\nwere no\nrestrictions on the use of this\ntrack today.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Great, another nosy meddler. What do\nyou want?",
+            "name": "Assertive Umamusume"
+        },
+        {
+            "text": "Hayahide?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm trying to understand if special\npermission is\nrequired to use this track\ntoday for some reason.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If so, please let me know who I need to\nspeak to\nin order to get permission. I can\ngo to them on\nTaishin's behalf.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, uh... It's not exactly...",
+            "name": "Assertive Umamusume"
+        },
+        {
+            "text": "Apologies, I couldn't quite hear you. It's\nnot\nexactly what? Are you saying that\nspecial\npermission is <i>not</i> required to use\nthis track?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "In that case, would you care to explain\nwhy you\ntold Taishin to leave? Did she\ncommit some sort\nof infraction, perhaps?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If she interfered with your training in any\nway,\nplease let me know.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Uh... Um...",
+            "name": "Assertive Umamusume"
+        },
+        {
+            "text": "What's the matter? Can it be that you\nhad no\nlegitimate reason to harass\nTaishin and simply\nwanted to throw your\nweight around?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If that's the case, then I believe it's <i>you</i>\nwho is in\nthe wrong.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ngh! Okay, we get it already!",
+            "name": "Assertive Umamusume"
+        },
+        {
+            "text": "This is so stupid! Let's just get out of\nhere!",
+            "name": "Sharp-eyed Umamusume"
+        },
+        {
+            "text": "The two are no match for Biwa\nHayahide's cold,\nhard logic and run off\nwithout another word."
+        },
+        {
+            "text": "Honestly, the audacity! Acting like\nthey're the\nonly ones allowed on the\ntrack...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Sorry. You didn't need to do that for\nme.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, it's fine. I don't mind.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Try not to stay out too late, okay? And\nmake sure\nto eat something once you\nget back to the dorm.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah, yeah, I know.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hehe, good!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Sorry to keep you waiting, Trainer.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "That was so awesome of you!",
+                "Your logical thinking and reasoning got them\ngood!",
+                "Your logical argument and reasoning got them\ngood!"
+            ]
+        },
+        {
+            "text": "Sorry to keep you waiting, Trainer.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "That was so awesome of you!",
+                "Your logical thinking and reasoning got them\ngood!",
+                "Your logical argument and reasoning got them\ngood!"
+            ]
+        },
+        {
+            "text": "R-really? I was just being my usual self,\nhonestly...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I will say one thing, though.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The best way to handle overly emotional\n\narguments is to strike them down with\nsound\nlogic.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Doing so usually trips up the other\nperson so\nmuch, they give up on their\nown.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I didn't expect it to have come in handy\nin such a\nsituation.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I know sometimes I can come off as cold\nand\ninflexible because of my overly\nlogical thinking,\nbut...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If I can use it to help my friends out,\nthen I think\nit's safe to call it a strength.\nHehe.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "After successfully defending a friend,\nBiwa\nHayahide seems to feel even more\nconfident in\nher reasoning abilities."
+        },
+        {
+            "text": "Бива Хаяхидэ is a little prouder of her\nlogical\napproach to things than usual\ntoday."
+        }
+    ]
+}

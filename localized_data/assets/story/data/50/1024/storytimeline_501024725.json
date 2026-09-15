@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I guess that's the way the wind blows...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "We'll win the next one!"
+            ]
+        },
+        {
+            "text": "...?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh... Yeah! Sorry I didn't win.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But it's okay. I'll get first next time, just\nlike you\nsaid!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I mean, I've got it all figured out.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Make sure you have more fun next time too.",
+                "There still may be some things you haven't\nfigured out."
+            ]
+        },
+        {
+            "text": "Ehehe... Thanks, Trainer.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Are there? Really?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Well, I guess that means I have to try\neven harder!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe. 'Cause there's no fun in losing all\nthe time!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You're right. I wanna have fun racing.",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

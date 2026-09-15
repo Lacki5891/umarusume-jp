@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm out and about with\nGold\nShip...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa?! The heck is that?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Look at that clear box over there! There\nare tons\nof Umamusume trapped in it!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп points toward a claw machine\nfilled\nwith Umamusume plushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Who would do such a thing?! Hang on,\neveryone!\nHelp is on the way!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп reassures the plushies behind\nthe glass.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, you're not the type that would\nabandon all\nthese poor Umamusume, are\nyou?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "I-I guess not?"
+            ]
+        },
+        {
+            "text": "Good! Go in there and show us your\nstuff! I'm\nready to witness the greatest\nrescue operation of\nthe century!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

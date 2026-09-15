@@ -1,0 +1,160 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The autumn Tenno Sho, the Japan Cup,\nand the\nArima Kinen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро МакКуин has managed to win all\nthree.\nWhat comes after is a shower of\ngifts.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew! That makes the last of them.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm sorry for taking up so much space in\nyour\noffice.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "That's a lot of stuff."
+            ]
+        },
+        {
+            "text": "Indeed. I'm very thankful for everyone's\n\ngenerosity.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Congrats again on winning the Senior Autumn\nTriple Crown!"
+            ]
+        },
+        {
+            "text": "Thank you.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It was only with your help that I found\nsuccess in\nthe Twin Tenno Sho, a first for\nthe Mejiro family,\nas well as the Senior\nAutumn Triple Crown.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "For all of this, I am extremely grateful.\nThank you\nvery—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Knock, knock</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Come in."
+            ]
+        },
+        {
+            "text": "Excuse me.",
+            "name": "???"
+        },
+        {
+            "text": "Oh... I'm sorry. Were you in the middle\nof\nsomething?",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Satono. No, you aren't interrupting\nanything.\nWhat can we do for you?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I came to congratulate the two of you.\n\nCongratulations on your Senior Autumn\nTriple\nCrown!",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Ah... That's very thoughtful of you.\nThank you for\ngoing out of your way.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "But we've already received your\ncelebratory gift,\nSatono.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It was the largest package to come—a\ngolden\nclaw machine filled with plushies\nof myself.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "(It was the <i>heaviest</i> gift too!)"
+            ]
+        },
+        {
+            "text": "No, that alone isn't enough! That's why I\ncame to\nspeak with you directly.",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "You're truly amazing, McQueen. I was\nreminded\nof this when I saw you race the\nother day.",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "You've become an even more dazzling\nrole model\nfor the rest of us. I've never\nbeen happier.",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "I will put all my efforts into pursuing the\nkind of\nradiance you have.",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Hehe... Hehehe!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Um, McQueen?",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "My apologies. That just didn't sound like\nmuch of\na congratulatory thing to say.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You seemed to be declaring your\nintentions to\nsurpass me one day.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...!",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Oh, it's all right though, don't worry. I\naccept\nyour competitive spirit as the\ngreatest\ncongratulations I could receive.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I look forward to competing with you.\nThe\nchallenge you bring will push me to\neven greater\nheights.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Okay. I know I'll get there someday!",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Мэдзиро МакКуин has accomplished a lot,\nbut she\nwon't stop there. Her heart races\nin anticipation\nof gaining a new rival.",
+            "name": "Монолог"
+        },
+        {
+            "text": "By the way, are you enjoying the claw\ngame?",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Huh?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hmm? Since you knew what was inside\nthe box, I\nassumed you'd played it\nalready.",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I-I certainly intend to capture all of the\nplushies\none of these days!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "(She goofed.)"
+            ]
+        },
+        {
+            "text": "Мэдзиро МакКуин has become Senior\nAutumn\nTriple Crown champion. What\nshe will accomplish\nnext is anyone's\nguess!",
+            "name": "Монолог"
+        }
+    ]
+}

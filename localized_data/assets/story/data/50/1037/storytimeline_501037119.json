@@ -1,0 +1,252 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "You want me to run with Flash again?\nHmm...",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "I ask Мистер Си Би for a rematch immediately\nafter\ngetting back from our trip, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It might've been fun right after the\nDerby, but I\ndunno...",
+            "name": "Мистер Си Би",
+            "choice_data_list": [
+                "There's a lot more to her now."
+            ]
+        },
+        {
+            "text": "Oh? You seem really sure about that.",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "All right, then let me see what she's\ngot—right\nnow!",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "Very well. Let's run a 2,400-meter\nleft-handed\nrace again, like we did\nbefore.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Sounds good. I'm ready when you are.",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "Trainer, I would like your advice.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...I haven't been able to visualize myself\nwinning\never since this rematch was\ndecided.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You might lose, sure."
+            ]
+        },
+        {
+            "text": "Um... Тренер?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "But you've turned setbacks into successes\nplenty of times before."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Losing to Мистер Си Би last time was what\nawakened\nher desire to win.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That loss propelled her into chasing her\ngoal in\nfull earnestness and getting\nresults from it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In a way, the Kikuka Sho was a setback\ntoo. That\nexperience helped her learn\nhow to keep looking\nforward and\nallowed her to take on strong\nopponents\nat the Japan Cup and Arima Kinen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's grown and learned a lot through\nher failures\nwhile pursuing her idea of\nperfection.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'm so proud of who you've come to be."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You've put in more work than anyone. Have\nfaith in yourself."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That's why I think you should just go for\nit and do\nwhat you want! ♪ I know you\ncan accomplish\nanything you set your\nmind to!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I still feel as though I will lose... that the\ntables\nwill turn on me in the final\nhundred meters...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However... I believe that, as I am now... I\ncan turn\nthe tables back in the last ten\nmeters.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Are you ready? Should we get started?",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "Yes!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh? Seems like I've got your attention\ntoday.",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "Okay, let's do this!",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "<i>Huff!</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(Focus on the race in front of me... and\njust run...\nlike always!)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I believe... in me!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(Huh? My legs feel light, and I can see\nМистер Си Би's\nmovements perfectly...)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(I can do this!)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Whew... Haaaaah!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That was too close... I thought you were\ngoing to\nget away!",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "You still managed to catch up to me,\nbut...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You used your final spurt at the exact\nright\ntiming. You did great!",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Whew, I haven't had this kind of rush in\nforever.\nThat was fun!",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "Watching the younger generation grow\nand\nimprove sure does warm the heart...",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "Let's do this again! But in a real race!",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "After saying goodbye to Мистер Си Би..",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Looks like sticking to the schedule was the right\nmove."
+            ]
+        },
+        {
+            "text": "I... I had lost sight of myself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I was scared, and I didn't trust the hard\nwork and\nprogress I'd built up till now...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I tried to make myself sound noble by\nsaying I\nwas being flexible, but in the\nend, all I was doing\nwas running away\nfrom my fear.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My legs felt light as a feather today,\neven though\nthey felt heavy as mud\nbefore.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Your words gave me the power to step\nforward.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I've... I've grown and gotten stronger.\nThe\naccumulation of my hard work has\npaid off.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "And there's no weapon more powerful than hard\nwork!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Тренер? If... If I hadn't made any\nchanges to my\nschedule at all...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Do you think I still would have been\nable to make\nmy parents proud?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Absolutely."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...You have presented me solid,\nconvincing\nevidence rather than vague,\nphilosophical\narguments.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Therefore, I have no choice but to\nbelieve in\nyou... and myself for coming\nthis far.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Go make your parents proud."
+            ]
+        },
+        {
+            "text": "...I will!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I shall rise to the challenge, no matter\nmy\nopponent or how formidable they\nare!",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

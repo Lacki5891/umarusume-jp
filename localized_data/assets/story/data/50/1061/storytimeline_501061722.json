@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as I was passing behind the\nschool\nbuilding...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ow ow ow...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Yes, you guys―",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, it's you, Trainer. Don't surprise me\nlike that.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm fine. I had the same pain this\nmorning, but it\nsubsided quickly. In\nfact—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "There you are, King! We were looking\nfor you!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Oh, I'm sorry for disappearing all of a\nsudden. I\ngot sidetracked.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll heading to the plaza soon, so could\nyou guys\ngo on ahead?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Okay!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Let's not tell them anything. I don't like\npeople worrying\nabout me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll definitely let everyone know when I'm\nreally not\nfeeling well. There's no need\nto worry.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало seems to be suffering from a\n\nheadache...",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Awww...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Sorry, Trainer. I lost...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I wanted to win cutely and take center\nstage at\nthe winning concert...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Let's try again next race!",
+                "Maybe you were too focused on the concert?"
+            ]
+        },
+        {
+            "text": "I wanted to win cutely and take center\nstage at\nthe winning concert...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Let's try again next race!",
+                "Maybe you were too focused on the concert?"
+            ]
+        },
+        {
+            "text": "Next race... Yeah, you're right!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I've only just set out on the path to\nbecoming a\ntop Umadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As long as I don't stop, I'll keep on that\npath\nforever and ever!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Yep! Expect great things from me,\nTrainer!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oh! Th-that might be it...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I was so focused on winning just to take\ncenter\nstage...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It ended up affecting my running, and I\nlost...\nCome on, Falco! You gotta get a\ngrip!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Maybe we should work on your mental\nfortitude."
+            ]
+        },
+        {
+            "text": "Okay! Let's do it as soon as we get back!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm gonna work harder than ever to\nbecome a top\nUmadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'll definitely come in first next time...\nand take\ncenter stage cute as can be! ☆",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

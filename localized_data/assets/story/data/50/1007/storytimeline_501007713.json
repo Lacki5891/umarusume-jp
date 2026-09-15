@@ -1,0 +1,100 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Шипп is injured, so I bring her to the\n\ninfirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Beep-beep-beЭпизод..</i> Damage detected.\nGolshiroid,\ncommencing scan.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Wh-what is it?!"
+            ]
+        },
+        {
+            "text": "Damage minimal. Mission can be\nresumed at will.\nAwaiting commander's\norders. <i>Beep, beЭпизод</i>",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Repairs take priority.",
+                "Let's upgrade your operating system!"
+            ]
+        },
+        {
+            "text": "Commencing secondary scan... <i>BeЭпизод</i>\nMission can\nbe resumed at will.\nRequesting new orders.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Overruled. Repairs must take priority."
+            ]
+        },
+        {
+            "text": "Oh, c'mon! I'm fine, I tell you!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "The commander's orders are final!"
+            ]
+        },
+        {
+            "text": "Now they're official orders? Drat. Can't\noverride\nthose even if I wanted to...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Sigh.</i> Order acknowledged. Prioritizing\nrepairs...\n<i>Beep, beep, beЭпизод..</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Suggestion approved. Golshiroid,\ninitiating\nupgrade sequence!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Engaging instantaneous upgrade.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ouch!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What gives?! Everything was fine just a\nsecond\nago...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Great, now I'm just a pile of scrap. <i>Sigh...</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>B-b-beЭпизод</i> Suggestion confirmed.\nInitiating\nupgrade sequence!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Stronger! Stronger!"
+            ]
+        },
+        {
+            "text": "Hmm... Confirmation pending.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Approved. The current operating\nprogram can\nonly be upgraded under\none condition.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What condition?"
+            ]
+        },
+        {
+            "text": "<i>Beep-beЭпизод</i> Ice cream from the school\nstore is\nrequired to upgrade Golshiroid.\nOtherwise,\nupdate will be postponed\nindefinitely.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Her self-diagnostics clearly didn't\nproduce good\nresults, because she\nsuddenly gets eerily quiet.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's no getting around it. I accept her\n\ncondition, and then two of us rework her\ntraining\nschedule.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп isn't happy about being put\non bed rest\nfor a few days and goes wild\nonce she makes a\nfull recovery.",
+            "name": "Монолог"
+        }
+    ]
+}

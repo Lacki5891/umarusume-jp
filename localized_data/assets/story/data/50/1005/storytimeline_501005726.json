@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm on an outing with Фудзи Кисэки one\nday, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Trainer! Trainer! Won't you dance a fun\nlittle\ndance with me?\"",
+            "name": "???",
+            "choice_data_list": [
+                "What was that?!"
+            ]
+        },
+        {
+            "text": "It feels like the voice came from inside a\nnearby\nclaw machine filled with plush\ntoys...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hahaha! I really got you there! It was just\nme. Did\nyou like my little trick?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Just look at all the adorable ponies\nthey've got\nhere!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I wish I could let them out and bring\nthem to the\nstage, but...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It would take a lot of work to win them...\nGosh,\njust what should I do?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She gives me an imploring smile, and I\ntake her\nnot-so-subtle hint.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'll get as many of them as possible!"
+            ]
+        },
+        {
+            "text": "Really?! Yay! Oh, but...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "There may be consequences if you don't\nget any,\nso do your best!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

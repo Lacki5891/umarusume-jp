@@ -1,0 +1,101 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Т.М. Опера О's debut, her first\nopportunity to\nput her running on\ndisplay, has arrived.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's finally debut time... I hope\neverything will be\nokay...",
+            "name": "???"
+        },
+        {
+            "text": "It should so long as it goes well at the\nstart...\nBut... But, still... Ohhh...",
+            "name": "???",
+            "choice_data_list": [
+                "Opera O? Trying on a new look?"
+            ]
+        },
+        {
+            "text": "Hyeeek! I'm so sorry... But I'm not Opera\nO.",
+            "name": "???"
+        },
+        {
+            "text": "My name's Мэйсё Дото... I'm... one of\nher\nfriends...",
+            "name": "???"
+        },
+        {
+            "text": "She might not see me as a friend, but I\nstill\ncame... to, well, to cheer her on...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Do you know where she is?"
+            ]
+        },
+        {
+            "text": "Umm, well... I don't think she's here yet.\nThat's\nwhy I'm worried.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It seems she's late on her first day...\nReally late.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Greetings, Trainer. Waiting for me? I am\npositive\nyou were.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I have purposefully made you wait, you\nsee.\nHaaah ha ha!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "text": "How could there be? I planned this late\narrival.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "As the star, how rude would it be to rob\nthe\nsupporting cast of their due\nattention by taking\nthe stage first?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "She knows she's done something wrong...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahh, my debut race! The day has finally\ncome to\nreveal my beauty and stride to\nthe masses!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "But a debut is not all that I shall be\nmaking!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "A legend... A following... And love!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Let's not go crazy now."
+            ]
+        },
+        {
+            "text": "Love... You're amazing, Opera O...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Some people are swayed by confidence\nalone.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let us depart, Trainer! The era is waiting\nfor its\nnew shining star.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Do not fret about the outcome. Begin\n\npreparations for the post-race press\nconference\nstraight away.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "There must be enough seating to\naccommodate\nall the flocking media\nreporters! Haaah ha ha ha!",
+            "name": "Т.М. Опера О"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the start of summer camp,\nwhere racers\ntrain to improve their skills.\nAs for Эйсин Флэш...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Would you like to begin our training\nsession?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Oh, you've already changed."
+            ]
+        },
+        {
+            "text": "Yes. I wish to begin our session thirty\nminutes\nfrom now, so I changed in\nadvance.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hey, there's a beach house over there!\nLet's go\nhave a look! ♪",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Oh, come on. Did you come here to play\nor to\ntrain? Then again... I think I'll come\nalong! ♪",
+            "name": "Умамусумэ Б",
+            "choice_data_list": [
+                "Do you want to relax a bit too?"
+            ]
+        },
+        {
+            "text": "I was able to procure sufficient rest on\nthe bus.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Not to mention, the Japan Cup will be\nfilled with\nsenior year racers.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This will be an opportunity to face\nformidable\ncompetition I wouldn't\nnormally be able to at this\ntime of year...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thus, I must push myself to polish up my\nform\nbeyond perfection.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It's almost time to go. Let summer camp\nbegin.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

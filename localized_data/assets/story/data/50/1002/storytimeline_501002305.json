@@ -1,0 +1,115 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What an incredible performance from\nSilence\nSuzuka!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(The air feels... amazing!)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Arrgh! I was <i>this</i> close to passing her!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Nice job, Suzuka."
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm sorry. I'm having a little trouble\nconcentrating.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm here if you need to talk."
+            ]
+        },
+        {
+            "text": "Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...No, it's nothing. I'm okay.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I appreciate the concern. I'll be okay on\nmy own,\nthough.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Okay. I understand."
+            ]
+        },
+        {
+            "text": "Also... About the Satsuki Sho...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "If I run in it now, I feel like I might not\nbe able to\ngive it my all.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's difficult to explain.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So... Can I take some time to consider\nwhether I\nwant to enter or not?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Take all the time you need."
+            ]
+        },
+        {
+            "text": "I'm sorry...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "However, it's no good not to have a\ngoal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As far as Classic races go, she may still\nbe able to\nrun in the Kikuka Sho in the\nautumn if we set our\nsights on\nSeptember's Kobe Shimbun Hai in\n\npreparation.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about running in the Kobe Shimbun Hai?"
+            ]
+        },
+        {
+            "text": "I don't know if I'll be able to perform so\nwell...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It's better than not racing at all."
+            ]
+        },
+        {
+            "text": "Yes, you're right...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Okay, then.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I spend the next few days wondering\nwhat I can\ndo for her.",
+            "name": "Монолог"
+        }
+    ]
+}

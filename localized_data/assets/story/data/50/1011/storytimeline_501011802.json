@@ -1,0 +1,197 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I'm walking around the\nacademy after\nclass has let out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh my... Yet another victory. You're\ngood at this,\nSei.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ugh! I can't believe this! I wanted to be\nthe one to\nbreak your winning streak...",
+            "name": "Defeated Umamusume"
+        },
+        {
+            "text": "Hahaha. Who's next?",
+            "name": "Сэйун Скай",
+            "choice_data_list": [
+                "What winning streak?"
+            ]
+        },
+        {
+            "text": "Oh, hello, Trainer. It's a card game we're\nplaying.\nSei is unbeatable.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I've been mesmerized watching her\nblend mind\ngames with her sound\ntactics.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Oh, that sounds like fun."
+            ]
+        },
+        {
+            "text": "Want to try for yourself? There's time to\nkill\nbefore dinner anyway.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I get destroyed...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "D-dang it..."
+            ]
+        },
+        {
+            "text": "Hehehe! Rematch? I'm always up for\nmore.",
+            "name": "Сэйун Скай",
+            "choice_data_list": [
+                "...You're on!"
+            ]
+        },
+        {
+            "text": "In that case, let me offer my support.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "While observing Sei's winning streak, I've\nlearned\na thing or two about her\ntendencies.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And from my experience in other games,\nI find\nthat the presence of a supporter\ncan often be the\nkey to achieving\nvictory.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Two on one? Sounds fun to me. Maybe\nthat way\nyou'll actually give me a\nchallenge.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Then let's have a fair contest.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Try applying pressure with this card,\nTrainer.\nDepending on her reaction, we\ncan infer—",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Sure, sure. I already saw that coming. ♪",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "?!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Unlike my first try, we put up a decent\nfight but\ncome up just short in the end.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You got us good!"
+            ]
+        },
+        {
+            "text": "Whew... You had me sweating for a\nsecond there.\nNot bad, guys, not bad.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Anyway, time's been killed, so I'm\nheaded for\ndin—",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "One more round, please.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Huh?",
+            "name": "Сэйун Скай",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "There's enough time for one more before\ndinner,\nyes?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Come, let's start the next match at once.\nYou'll\nneed to focus if you don't want to\nlose.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "What luck, a good hand. Let's take full\nadvantage\nof it and strike fear into her\nheart.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "S-sure."
+            ]
+        },
+        {
+            "text": "You're playing <i>that</i> card now? Seriously?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Yes. After all, you can't attack right\nnow, can\nyou?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ahhh?!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "She's defenseless. Trigger a trap with\nthat tactics\ncard to keep her in place.\nThen, we launch an\nall-out assault.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "All right, Trainer. Keep the cards\ncoming. No\nhesitations.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You're the best supporter I could ask for.",
+                "A-are you sure you're a supporter? Not a\nfront-line warrior?"
+            ]
+        },
+        {
+            "text": "All right, Trainer. Keep the cards\ncoming. No\nhesitations.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You're the best supporter I could ask for.",
+                "A-are you sure you're a supporter? Not a\nfront-line warrior?"
+            ]
+        },
+        {
+            "text": "I'm honored to hear you say so. I'll\ncontinue with\nmy support, then.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Our storybook ending is nigh. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ahaha... I should've let sleeping dogs\nlie...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Of course I'm a supporter, silly. Think of\nme as\nyour tactician.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Now, the enemy is out of options. If we\nplay our\ncards right, we can stay on the\noffensive all the\nway to victory.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Guh!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Keep up the pressure. Pedal to the\nmetal, go\ngo! ♪",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Y-you got it!"
+            ]
+        },
+        {
+            "text": "We put our heads together and, after a\n\nhard-fought battle, come away with a\nwin!",
+            "name": "Монолог"
+        },
+        {
+            "text": "We ramp up the attack to eleven,\nsecuring a\nhard-fought victory!",
+            "name": "Монолог"
+        }
+    ]
+}

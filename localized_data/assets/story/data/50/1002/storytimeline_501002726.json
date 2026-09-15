@@ -1,0 +1,54 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with\nSilence\nSuzuka...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! Are those...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Something caught your eye?"
+            ]
+        },
+        {
+            "text": "Those plushies... Spe was talking about\nthem the\nother day.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She points toward a claw machine filled\nwith\nUmamusume plushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She said they've been really popular\nrecently.\nSome of her friends have them\ntoo.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I bet she'd like one...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I could try to get one if you'd like."
+            ]
+        },
+        {
+            "text": "You don't have to! I was just thinking out\nloud...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Don't worry. I've got this."
+            ]
+        },
+        {
+            "text": "Well, if you insist...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Good luck.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I can't afford to fail!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Didn't get enough sleep?"
+            ]
+        },
+        {
+            "text": "No... It's just been hard falling asleep\nlately.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Are you okay?! Don't overwork yourself!"
+            ]
+        },
+        {
+            "text": "Geez, no need to freak out! And quit\nbabying me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It happens a lot, anyway. Either I'm not\nfeeling so\nhot or I'm pissed off about\nsomething and can't\nsleЭпизод",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...Ugh, why are we even talking about\nthis? Talk\nabout kicking me while I'm\nalready down.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин seems deprived of sleЭпизод..\nI should\ngo easy on her.",
+            "name": "Монолог"
+        }
+    ]
+}

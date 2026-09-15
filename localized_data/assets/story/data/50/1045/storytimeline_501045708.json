@@ -1,0 +1,57 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We did it, Trainer!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "All your hard work made this great result\n\npossible.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe. Thank you so much for always\ngiving your\nbest effort.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm really glad that everyone knows just\nhow\namazing you are now. ♪",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "This is the result of <i>your</i> hard work, Creek.",
+                "But that doesn't mean we can just take it easy\nnow!"
+            ]
+        },
+        {
+            "text": "I'm really glad that everyone knows just\nhow\namazing you are now. ♪",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "This is the result of <i>your</i> hard work, Creek.",
+                "But that doesn't mean we can just take it easy\nnow!"
+            ]
+        },
+        {
+            "text": "The fact that you're able to be\nconsiderate of\nothers like that...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It just goes to show what an incredibly\namazing\nperson you are.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Gosh... I'm already thinking about next\ntime,\naren't I?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "That's my trainer—always setting a great\nexample!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm going to do my best! I'll do whatever\nit takes\nto see your smiling face again\nnext time! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And of course, you can count on me to\nsupport\nyou with all I've got!",
+            "name": "Супер Крик"
+        }
+    ]
+}

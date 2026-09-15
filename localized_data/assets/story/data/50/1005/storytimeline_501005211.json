@@ -1,0 +1,98 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the Arima Kinen has arrived,\nand all\nthe participants gathered here\nare first-rate\nracers. The Nakayama\nRacecourse is buzzing with\nexcitement.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here we are at the final of the four races\nFuji\nKiseki set out to challenge, and the\nstands are\nbursting at the seams with\neagerness!",
+            "name": "Interviewer"
+        },
+        {
+            "text": "I believe in Фудзи Кисэки! I know she can do\nthis!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Me too! I came here to see her perform\nanother\nmiracle!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Do you have a message for the racer\nyou're\ncheering for today?",
+            "name": "Interviewer"
+        },
+        {
+            "text": "Yes! Come on, everyone! Let's channel\nsome of\nour energy to Fuji! Ready, and...",
+            "name": "Fuji Fan Club Member A"
+        },
+        {
+            "text": "Good luck, Fujiii! You can do iiit!",
+            "name": "Fuji Fan Club Members"
+        },
+        {
+            "text": "And, while everyone is waiting on the\nedges of\ntheir seats for the race to\nbegin...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe. That was such a loud cheer. Thank\nyou. I\nheard it perfectly.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Then she looks directly at me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We've finally made it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Here we are at the finale. The\n2,500-meter stage\nof the Arima Kinen is\nall set.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "This is my final scene. All that remains is\nto see\nwhether it'll conclude with tears\nof joy or sorrow...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Trainer.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "text": "Do I look radiant to you?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "And how do you see me?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "As the brightest and most beautiful star."
+            ]
+        },
+        {
+            "text": "...Right.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Thank you. I'm so glad to have you here.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Well, then... I'm off.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "As I watch her stride off toward the final\nrace, the\nwords \"Give it your all\" echo in\nmy heart.",
+            "name": "Монолог"
+        },
+        {
+            "text": "At long last, the curtains rise on the\nArima Kinen!",
+            "name": "Монолог"
+        }
+    ]
+}

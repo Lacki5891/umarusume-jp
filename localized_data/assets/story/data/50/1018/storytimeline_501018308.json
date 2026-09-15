@@ -1,0 +1,80 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйр Грув just misses out on winning\nthe race,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "You were great, Эйр Грув! Better luck\nnext\ntime!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "You're still the new queen in our hearts,\nAir\nGroove! You'll do better in the next\none!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(It's a frustrating result, but my fans\naccept my\nperformance anyway...)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(And...)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув is still so dignified!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I wonder if I could stand so proud after a\n\ndisappointment?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "(As ever, people are always watching.\nPerhaps\neven more so after such a\ndisappointing loss. I\nhave to remember\nthat.)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(Which means I can't afford to be upset!)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Allow me to say something.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I apologize for failing to deliver a\nsatisfactory\nresult.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This isn't the fault of your training. This\nis due to\nmy own inadequacy. For that\nreason—",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Let's do even better in the Shuka Sho!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yes. That was always my intent.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You really are ever the optimist. I should\ntake a\npage out of your book.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Let's go. The final race of the Triple\nTiara awaits.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "With her eyes on the final challenge, Air\nGroove\nignites a new fire of motivation\nin her heart!",
+            "name": "Монолог"
+        }
+    ]
+}

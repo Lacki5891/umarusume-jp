@@ -1,0 +1,91 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "First place...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I... got first place!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Trainer! I did it! I got first place!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ahem. Excuse me. I lost my composure.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But maaan, talk about miracles. The\nracing gods\nreally smiled upon me this\ntime.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You won because you're a strong runner.",
+                "Next time, I'd like you to say you won by your\nown merits."
+            ]
+        },
+        {
+            "text": "But maaan, talk about miracles. The\nracing gods\nreally smiled upon me this\ntime.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You won because you're a strong runner.",
+                "Next time, I'd like you to say you won by your\nown merits."
+            ]
+        },
+        {
+            "text": "Hm...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Nah, I don't think so! I really just got\nlucky this\ntime.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yeah... I can't tell if I'm strong just from\nthis one\nrace. That being said...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Maybe I’ll go along with your\ncelebration this\ntime.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ummm... But that's like telling everyone\nI think\nI'm fast.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It would be embarrassing if I lost after\nthat.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Then you just have to win."
+            ]
+        },
+        {
+            "text": "Wooow, someone's asking a lot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry, I can't be that confident right off\nthe bat.\nBut if I can keep this up...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Maybe then I could hold my head high\nand\nproclaim to the whole world that...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I won! Hehe! ♪",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "NOPE! Never mind! Forget I ever said\nanything!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

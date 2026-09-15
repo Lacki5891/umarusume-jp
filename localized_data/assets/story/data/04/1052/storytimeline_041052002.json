@@ -1,0 +1,186 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Several days after the Tracen Meet, I stop\nby the training course, only\nto notice the\nstudents crowded around a certain area.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... huff...</i> I finished!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "It seems the students are competing with\neach other in mock races. As\nI look past\nthe winning racer, I see a familiar face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Cough... wheeze...</i> I... finished... too!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> L-looks like I lost...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "That was a lot of fun though! Thanks,\nUrara!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "I'm the one who should be thanking you!\nBut watch out! I won't lose\nnext time!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "All righty... Who should I race nex—Hm?\nAh, it's you again!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Doing scrimmage races?"
+            ]
+        },
+        {
+            "text": "No way, this is totally different! I'm dojo\nstorming!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I read aaall about it in a comic book! You\ngo up to strong people,\nchallenge them,\nand win!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "The comic said that was the secret to\ngetting stronger, so I thought\nI'd try it out!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "But it looks like you lost..."
+            ]
+        },
+        {
+            "text": "Yeah, but I just <i>know</i> I'll win the next one!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "The dojo storming continues! My next\nopponent will be...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Ah! Spe! Hey, Спешл Уик!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Oh, hello, Urara! Are you training too?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yup, and I came up with a new way to do\nit too! Spe... I challenge\nyou!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Huh? Challenge?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yeah! Now you've gotta race me! Come\non, Spe! Let's go!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "What? Right now?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "With that, Хару Урара has found her next\ndojo to storm. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> Across the line!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "A while after Спешл Уик finishes, an\nexhausted Хару Урара\napproaches the\nfinish line.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Wheeze...</i> Finished...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "N-no more...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Oh no, Urara!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It's clear that Хару Урара's tenacity\noutmatches her stamina. While she\nmay\nhave crossed the finish line, she collapses\nalmost immediately\nafter.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew, I thought I was gonna pass out!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "You <i>did</i> pass out...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Well, no worries either way! I'm all rested\nand ready for anything!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Still, you really are amazing, Spe! A worthy\nrival, for sure!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Th-thank you?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Don't get too cocky though! I won't lose\nnext time!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "After seeing you run like the wind, I just\n<i>know</i> I can do the same!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "All right then, let's race again sometime!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ehehe, I'm gonna hold you to that!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Okay... Back to dojo storming! My next\nchallenge awaits! Bring it on!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Ah... There she goes...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That energy of hers really is something\nelse. She's always so cheerful.",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "She exudes endless optimism."
+            ]
+        },
+        {
+            "text": "I know, right?! I always feel so bad after\nlosing, but Urara is ready to\naccept the\nnext challenge no matter what...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Her fearless attitude gives me motivation\nto try harder.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "And talking about motivation, I better get\nback to work too!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Whether it's the Tracen Meet or dojo\nstorming, Хару Урара continues\non with a\nsmile, even in defeat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And it's become clear to me that her\noptimism is contagious.",
+            "name": "Монолог"
+        }
+    ]
+}

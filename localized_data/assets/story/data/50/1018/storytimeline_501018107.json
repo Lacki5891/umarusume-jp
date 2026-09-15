@@ -1,0 +1,185 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "February is here. With the Osaka Hai\nfast\napproaching, Эйр Грув is bursting\nwith the\ndesire to surpass Silence\nSuzuka.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In an attempt to stay apace with Air\nGroove's\nenthusiasm, I end up working\ndeep into the night.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day, after training with Эйр Грув,\nI'm\nsitting in my office when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's rather late. Burning the midnight oil,\nare you?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Well, the Osaka Hai is coming up."
+            ]
+        },
+        {
+            "text": "Indeed...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Just don't push yourself too hard. Our\nhealth is\nour greatest asset. I can't have\nyou collapsing\nwhen I need you most.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'll keep that in mind."
+            ]
+        },
+        {
+            "text": "Please do.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "How about some tea?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'll go make a pot."
+            ]
+        },
+        {
+            "text": "No. You stay right where you are.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's tone doesn't leave any\nroom for\nargument, so I remain seated\nand continue\nworking, until...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Plunk...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...a mug is placed on my desk. A sweet\naroma\nwafts up from the beverage.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It appears that Эйр Грув has made me\nsome hot\nchocolate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Drink up. The temperature is due to\ndrop again\ntoday. This should help keep\nyou alert.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I do as she says. Warmth floods\nthroughout my\nbody as I consume the\nsweet drink.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "This is delicious!"
+            ]
+        },
+        {
+            "text": "Consider it a small thank-you for your\nhelp every\nday.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Besides, you know how much I like my\nholidays.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hearing that, it suddenly occurs to me\nthat today\nis Valentine's Day.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "text": "I have to be up early tomorrow, so I'll be\ntaking\nmy leave now.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Be sure to savor each sip.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...a cup of coffee is placed on my desk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Also... take this too.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Sugar helps a tired brain. Open it up and\nhave\nsome.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "This is... sugar?"
+            ]
+        },
+        {
+            "text": "I open the wrapped package she hands\nme to find\na beautiful box of chocolates.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Seeing her sudden gift, I realize that\ntoday is\nValentine's Day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Judging by your expression, it appears\nyou had\nforgotten what day it is.\nConsider this a token of\nthanks for your\nhelp every day.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Enough with the staring. Hurry up and\neat.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I eat one of the chocolates. It's sweet\nwith bitter\nundertones—a rich and\nsophisticated flavor.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's delicious!"
+            ]
+        },
+        {
+            "text": "I'm glad to hear it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A word of advice. While it may be true\nthat\nbeautiful flowers grow in troubled\nsoil...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Nothing good comes from toil for the\nsake of it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Even the toughest of flowers eventually\nneed\nnourishment. It's when the drought\nends and rain\nfinally falls that they\nbloom most brightly.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "By which you mean..."
+            ]
+        },
+        {
+            "text": "Don't push yourself too hard. Take some\ntime off\nto eat something sweet once in\na while.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And... I want to tell you that you're\ndoing a good\njob. That's all.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I have to be up early tomorrow, so I'll be\ntaking\nmy leave now.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Judging by her manner of speech, I\nwonder if Air\nGroove was a little\nembarrassed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All the same, I can sense her kindness in\nthe\nchocolates she gave me. I eat\nanother and enjoy\nthe warmth that fills\nme.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув's kindness warms me—heart,\nbody,\nand soul.",
+            "name": "Монолог"
+        }
+    ]
+}

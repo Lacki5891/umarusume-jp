@@ -1,0 +1,30 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During our training meeting, Biwa\nHayahide gives\nout a sudden\nexclamation."
+        },
+        {
+            "text": "What?! Objection! The defendant's\nexplanation\nis—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Ahem. Excuse me. Please continue as\nyou were.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What kind of dream were you having?"
+            ]
+        },
+        {
+            "text": "Um... You know that courtroom TV\ndrama\neveryone's been talking about? It\nwas about\nthat...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Please, don't ask me any more. I'm\nalready\nembarrassed about that little\noutburst...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "However, another \"Objection!\" rings out\nten\nminutes later. It seems like Biwa\nHayahide's not\ngetting enough sleЭпизод"
+        }
+    ]
+}

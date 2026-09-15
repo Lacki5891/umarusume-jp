@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Good morning, Trainer. Thank you for\ngiving me\ntime to rest.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Do you feel any better?"
+            ]
+        },
+        {
+            "text": "I do. I was worried about falling behind,\nso I did\nsome light exercise to maintain\nmy condition.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As it's said, in times of peace, prepare\nfor strife.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's important to make good use of your\ntime\noff. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It sounds like Грасс Вандер has\nremained vigilant\neven on her day off.",
+            "name": "Монолог"
+        }
+    ]
+}

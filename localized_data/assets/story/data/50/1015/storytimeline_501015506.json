@@ -1,0 +1,178 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way to my office, I hear a shrill\nvoice—one\nthat I recognize.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ngh! Impressive, Fuji.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Heh, you as well, Opera O! Your\nperformance\nmoved me to my core.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Uh, is there a show going on?"
+            ]
+        },
+        {
+            "text": "Yes, dance practice—no! Dare I say, a\ndance\nbattle!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I have added my own personal flair to\nthe\nassigned piece, to create my one\nand only\nOperatic Dance of Brilliance!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And I, on the other hand, have\nmaintained the\noriginal choreography in\nmy Dance of Mighty\nExpression!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Whose dance would sway the most\nhearts? We\nengaged in a duel to answer\nthat very question.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Since I'm an entertainer of sorts, the\nchallenge\nstruck a chord with me. ♪",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "So, what are the results?"
+            ]
+        },
+        {
+            "text": "Fuji won, hands down! No, Opera O's\ndance was\nbetter!",
+            "name": "Student Spectators"
+        },
+        {
+            "text": "Could this be... a draw? What are we to\ndo? A\nduet would be called for at times\nlike this in a\nplay.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh! I've got it... Trainer! To the stage!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Why me?!"
+            ]
+        },
+        {
+            "text": "A good dance does not only allure, it\nentices all\nwho see it to dance along.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "How right you are! In other words, your\ntrainer\nwill choose which of us compels\nothers to dance\nthe most.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Precisely! Now, choose! The Operatic\nDance of\nBrilliance or the Dance of\nMighty Expression!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "The Operatic Dance of Brilliance, of course.",
+                "The Dance of Mighty Expression, I guess!"
+            ]
+        },
+        {
+            "text": "Consider me one of the many who's been\n\nmesmerized by Т.М. Опера О's unique\n\nperspective!",
+            "name": "Монолог"
+        },
+        {
+            "text": "My dear trainer! I knew you understood\nmy allure!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Now let us dance! Allow my radiant\npresence to\nignite your body and soul!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Three, two, stЭпизод.. Now do a shining\npose! Ready,\nand—sha-bliiing!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Uh, sh-sha-bling?!"
+            ]
+        },
+        {
+            "text": "Hmm, so <i>that</i> is your pose of brilliance!\nThen... I\nshall pose like this!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ahh! I must admit defeat! You two are\ncompletely\nin sync—on many levels. ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Whew... Superb, Trainer.  It was a fruitful\nbattle,\nto be sure.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "R-really? How so?"
+            ]
+        },
+        {
+            "text": "The possibilities of dance truly blossom\nas a duet.\nYour pose of brilliance led me\nto realize this.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "In winning concerts, we dance the dance\nof\nrunners. And of course, as the\nOverlord, with me\nat the center.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I must shimmer with soul fire so as to\nilluminate\nthose who accompany me\nonstage—for the\nOverlord brings out the\nbrilliance of others!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "What?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Yes, originality is important, but you\nhave to\nmaster the fundamentals first.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm honored that you would choose me.\nPlease,\nbe gentle!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Yes, wonderful footwork! And...\nconsiderably\ncunning of you as well!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Cunning?"
+            ]
+        },
+        {
+            "text": "Heheh. Don't tell me you don't feel that\npiercing\ngaze. You've lit a flame inside\nher.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh? The song has ended. That was a\njoyful little\nmoment we had. For now, so\nlong!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hmph... Impressive. I felt the potential of\nyour\nexpressiveness.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And yet... you're so timid.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Surely, you felt too bashful to pair with\nmy\nastounding beauty.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Of course, I <i>am</i> the pinnacle of\nperfection, so you\nare quite forgiven.\nBut you must steel yourself for\nnext\ntime.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "For when you take this hand, the beauty\nof my\ndance will have you forget all\nthose fears!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Not choosing Т.М. Опера О as my\npartner has\nincreased her motivation to\ndance.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It appears she's learned the importance\nof\nperforming with her fellow dancers\nwhile\nexpressing herself onstage.",
+            "name": "Монолог"
+        }
+    ]
+}

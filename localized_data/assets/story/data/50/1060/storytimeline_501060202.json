@@ -1,0 +1,115 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...I have to win this race.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "There's no Teio, and the distance is\nperfect for\nme.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The conditions are just right. It'd be\nseriously sad\nif I lose this one...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Relax."
+            ]
+        },
+        {
+            "text": "Haha, what do you mean? I am relaxed.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm just trying to be realistic.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What's the point of coming all the way\nhere if I\ndon't have anything to show for\nit?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature..."
+            ]
+        },
+        {
+            "text": "...All right! Time to show what I'm\ncapable of!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm off.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Phew...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(Trainer is the only one who knows you\nhere\ntoday.)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(Don't be nervous, Nature. You got\nthis...)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You got this, Natiiiie!",
+            "name": "???"
+        },
+        {
+            "text": "What?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wh-what the?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Kokura Kinen is our turf, and <i>we</i> want to\nsee you\nwin!",
+            "name": "Kokura Fish Shop Owner"
+        },
+        {
+            "text": "That's right! Good luck!",
+            "name": "People of Kokura"
+        },
+        {
+            "text": "You're all... from the shopping district in\nKokura...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "W-wait, but what about your shops?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Don't worry about it! Everyone is here\nanyway!",
+            "name": "Kokura Fish Shop Owner"
+        },
+        {
+            "text": "That's right! You must feel anxious being\nin an\nunfamiliar place, right?",
+            "name": "Lady from Kokura"
+        },
+        {
+            "text": "We're all rooting for you! Good luck!",
+            "name": "Lady from Kokura"
+        },
+        {
+            "text": "Haha... That's ridiculous. You people are\ntoo nice.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Thank you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But this place isn't so unfamiliar\nanymore—not\nwith you guys here!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(Yeah... it's gonna be okay. I can do\nthis.)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(Everyone is watching me. Just take it\none step at\na time!)",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

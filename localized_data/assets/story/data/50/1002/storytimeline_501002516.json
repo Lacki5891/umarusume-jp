@@ -1,0 +1,78 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After lunch, I find Сайленс Судзука staring\nat her\nempty plate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My next race is coming up. What to do...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What's got you worried?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer... I'm trying to decide\nwhether I\nshould eat dessert or not.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This time of the year, they have all kinds\nof\nwinter-themed sweets. They call it the\nSnow Fair.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I don't think I've ever seen so many\ngorgeous\nfrosty treats in one place!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "The presentation makes them look extra tasty!"
+            ]
+        },
+        {
+            "text": "I agree!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm especially interested in this one, the\nIgloo\nJumbo Parfait.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But with the next race coming up, I have\nto really\nbe careful about my intake...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What if we split it?",
+                "Don't worry about it. Time to indulge!"
+            ]
+        },
+        {
+            "text": "Are you sure? Thank you so much!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. It's so cute. It's almost a shame to\neat it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Well if you say so, it must be okay.\nRight?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You can run off whatever you eat later."
+            ]
+        },
+        {
+            "text": "Right...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hm... I can eat as much as I want... and\nthen run as\nmuch as I want.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's a win-win situation, isn't it? Hehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She was right to be concerned. This\nparfait must\nbe packed with calories.\nThe snow is more likely\nto give her\nheartburn than frostbite.",
+            "name": "Монолог"
+        }
+    ]
+}

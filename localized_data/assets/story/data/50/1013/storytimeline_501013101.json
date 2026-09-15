@@ -1,0 +1,92 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Happy New Year, Trainer!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "After thinking about my goals for this\nyear, I\nmade a card for you.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Here, please accept it.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин hands me a New Year's\ncard.\nInside are her best wishes for the\nyear, as well as\na printed goal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Conquer the Kikuka Sho.\"",
+            "name": "Монолог",
+            "choice_data_list": [
+                "That's a solid goal."
+            ]
+        },
+        {
+            "text": "Yes, I am in my classic year now.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "As an Umamusume, I long to win the\nTriple Crown\nraces...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "And as a stayer, the Kikuka Sho is the\none race\nabove all others that I don't\nwant to lose.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Besides, if I win the Kikuka Sho, victory\nin the\nspring Tenno Sho will be within\nreach!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "We'll win the Kikuka Sho for sure!"
+            ]
+        },
+        {
+            "text": "Yes, we shall attain this goal together!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Now since that has been decided, I\nwould like to\nbegin training posthaste,\nhowever...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Where should we begin?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Let's build a solid foundation for your\nendurance.",
+                "Let's go have lunch first.",
+                "Let's do some track research."
+            ]
+        },
+        {
+            "text": "In other words, we should maintain the\npace\nwe've set and proceed forward with\ndiligence.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You're suggesting nutritional\nsupplementation,\nthen? I understand.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "This time of year, the cafeteria will be\nfull of New\nYear's dishes.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ah, so you're suggesting we deepen our\n\nknowledge concerning the sites where\nthe\nClassics take place?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "In that case, you can count on me. I will\nfollow\nthrough properly, as I always do.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's essential to have a strategy for each\ntrack in\norder to win. I shall study them\ncarefully.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hehe, I may have trouble choosing what\nto eat.",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I'm on my way to training as\nusual,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Pfft, hehehe!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I catch Мэйсё Дото laughing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, th-this isn't what it looks like! This\nis, um...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "According to her story, a laundry mishap\nhas\ncoated the reverse side of her\nclothes with lint\nballs.",
+            "name": "Монолог"
+        },
+        {
+            "text": "S-so, it feels a little prickly to wear and\nk-kinda...\ntickles!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I p-plan to buy some new clothes\ntomorrow, so\nthis will have to do for\ntoday!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "However, if she can't concentrate, it\nmight make\ntraining more difficult.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'll call off training so you can use the rest of\ntoday to go shopping."
+            ]
+        },
+        {
+            "text": "Huh?! B-but, this won't affect my\nrunning. I'll be\nf—",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hehe! Hehehe!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Attempt to power through today's training.",
+                "Err on the safe side and take the day off."
+            ]
+        },
+        {
+            "text": "Y-yay! Thank you so much!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll work really hard since you listened to\nmy\nselfish request!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...Pfft, hehehe!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "S-stop it! Laughing means I'm losing my\n\nconcentration... I have to give this my\nvery all!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...Hehehe!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "What do we have here? You're in quite\nthe high\nspirits, Doto! But you can't out\nspirit me!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Haaah ha ha ha!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i> I think I need a little\nbreak...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Eek! I feel all itch-itchy!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Is there something bothering her?",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Despite the setbacks, Мэйсё Дото\nmanages to\npower through training!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... I'm glad this is working out. I'm\nfinally\nused to the feel!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "It looked like you were having a rough time."
+            ]
+        },
+        {
+            "text": "Oh, no, no... this is all my fault to begin\nwith, so I\ncan't complain.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Considering that, I feel like I got in a lot\nmore\nexercise than usual.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I guess everything was all right in the\nend... hehe.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Hehehe!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Is everything all right?"
+            ]
+        },
+        {
+            "text": "I'm a-all right. I'm sure the ticklish\nfeeling will go\naway with the right\namount of concentration!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hyah?!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Doto!"
+            ]
+        },
+        {
+            "text": "Oof, owie ow...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "She's lost a lot of her ability to\nconcentrate. If we\ngo on like this, she\ncould get injured.",
+            "name": "Монолог"
+        },
+        {
+            "text": "B-but...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "In exchange, let's give tomorrow double the\neffort."
+            ]
+        },
+        {
+            "text": "Oh! O-okay. Let's do that!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Understood. So, I'll go buy new clothes\ntoday.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ummmm...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "She goes off to shop for new clothes,\nand the\nnext day, we return to our\nregular training\nschedule.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's definitely best to give it a rest for\ntoday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today's session seems to have\ncontributed to\nМэйсё Дото's growth\nafter all!",
+            "name": "Монолог"
+        }
+    ]
+}

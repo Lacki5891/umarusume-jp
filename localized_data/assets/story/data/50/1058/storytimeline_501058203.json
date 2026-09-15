@@ -1,0 +1,79 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Nikkei Shinshun Hai, Мэйсё Дото's\nfirst race\ngoal of her very own, is today.\nIt's also the first\nrace of her senior year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh no, no, no... Wh-wh-wh-wh-what\nsh-should I\ndooo?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I've never felt this much pressure...\nmaking your\nown goals really changes\nthings.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I don't know if I can do this... But I'm the\nreason\nI'm here.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "No, no, nooo. Try to calm down, Doto...\nOh\nnooo... Oh nooo...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "<i>You</i> calm down!"
+            ]
+        },
+        {
+            "text": "Ack, you're right! I shouldn't just fan the\nflames of\nanxiety.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Trainer, I...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Think back to those two."
+            ]
+        },
+        {
+            "text": "Those... two?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Opera O and Ayabe.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You're right. I have to do this. I have to.\nOpera O\nis expecting me in her spring\nG1.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото comes back to her senses.\nHer\nmental fortitude has really\nimproved.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, wow, wow... You two can certainly\nhold\nyour ground. And the way you\nencouraged Doto\njust now, Trainer...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I couldn't be any more pathetic... I'm\nsupposed to\nhave more experience, but I\nhaven't offered a\nsingle thing.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The least I can do is make my cheering\ntoday\nextra supportive! Do your best,\nDoto! May all\nyour wishes come true!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Yes, thank you!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Carrying many high expectations,\nМэйсё Дото\nenters the stage of today's\ngraded race.",
+            "name": "Монолог"
+        }
+    ]
+}

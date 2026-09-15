@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>...Groan.</i> Trainer, can we take a break?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Are you still tired from our last session?"
+            ]
+        },
+        {
+            "text": "Well, I maybe didn't get enough sleЭпизод I\nwas up\nlate writing messages on all my\nflyers.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But aren't I just the cutest when I'm\nworking so\nhard? <i>Yaaawn...</i> Anyway,\ngood night...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I appreciate her passion, but it seems\nlike Smart\nFalcon isn't resting properly.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, on the way back after a day\nout with\nSmart Falcon...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhh! I completely forgot!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I have a test coming up! If I don't do\nsomething,\nI'm totally gonna fail!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I need to hurry home and get someone\nto tutor\nme!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Good luck!"
+            ]
+        },
+        {
+            "text": "Aw, and after we had so much fun...\nSorry,\nTrainer!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Afterwards, when I get back to the\nacademy, I\nfind Смарт Фалкон talking to\nEishin Flash in the\ncentral plaza.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Really? You're going to a race?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yes, I was just leaving. I'm sorry I can't\nhelp you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "No, I'm sorry for keeping you. Don't\nworry about\nit, and good luck with the\nrace!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Thank you. Good luck studying for your\ntest.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ugh... If I had just studied when Flash\ntold me to,\nI wouldn't be in this\nsituation...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Can't find anyone to teach you?"
+            ]
+        },
+        {
+            "text": "Oh—Trainer! Yeah, pretty much...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Nobody has time to help me study\ntoday. I'm\ndoooomed!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I could teach you if you'd like."
+            ]
+        },
+        {
+            "text": "Wait, really?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Thank you sooo much! ♪ You're the\nmost\ndependable person on the planet,\nTrainer! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It should be fine if we just go over what\nthe test is\ngoing to cover. Or at least\nthat's what I thought...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Groan...</i> This is all basically gibberish to\nme...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "What part don't you get?"
+            ]
+        },
+        {
+            "text": "\"What part\"? Try <i>every</i> part! Urghhhh...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Just looking at the textbook makes my\nhead\nspin...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Aaaargh! There's no tiiiime!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Try to take some deep breaths and work on the\nfundamentals.",
+                "Trust your instincts!"
+            ]
+        },
+        {
+            "text": "Hm... If that's your advice, then I'll trust\nyou!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's not easy, but we take our time\ncarefully\nreviewing past material,\nfocusing on the\nfundamentals.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I did it, Trainer! ☆ I got a much better\ngrade than\nusual! ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "That's great!"
+            ]
+        },
+        {
+            "text": "Your teaching style was so thorough and\neasy to\nunderstand! Thanks! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oh, I know! ☆ I'll put on a special\nperformance\njust for you to show how\ngrateful I am! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Check out this brand new song:\n\"Patient ☆\nPerfect ♪ Professor\"!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oh, my trainer's such a whiz! ♪ Even as a\nteacher,\nbest in the biz! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Maybe it's from too much studying, but\nSmart\nFalcon has a strange energy about\nher...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I think that's enough—just get some rest!"
+            ]
+        },
+        {
+            "text": "Whaaat?! But I was just about to steal\nyour heart\naway with the curtain call!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ah! That way, there's less to study!\nRight?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "All right! I'm gonna guess my way\nthrough all the\nmultiple choice\nquestions! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Trainer! It was close, but I passed\nthe test! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And I owe it all to you! ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Th-that's great!"
+            ]
+        },
+        {
+            "text": "Yeah! ☆ Thanks a lot! Really! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ooh! I just thought of a new song. I'm\ncalling it\n\"Tests and Guesswork,\" and I'm\ndedicating it to\nyou! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I can picture the dance already! For the\n\"test\"\npart, I'll hold my head in both\nhands in\nfrustration...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Then for the \"guesswork\" part, I'll just\ngive a big\nol' shrug, like, \"Here goes\nnothing!\" ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Or you could study, like everybody else."
+            ]
+        },
+        {
+            "text": "Ngh... I knowww. But studying's haaard...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "<i>Sigh...</i> Trainer, you're starting to sound\nlike Flash.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I spend a lot of time convincing Smart\nFalcon to\ntake it easy for the rest of the\nday.",
+            "name": "Монолог"
+        }
+    ]
+}

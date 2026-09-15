@@ -1,0 +1,68 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After training...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Good job today."
+            ]
+        },
+        {
+            "text": "Thank you! You too, Trainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hm? Wait a sec... I went all out today,\nbut...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I don't really feel tired at all!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I guess I'm in peak condition right now!\nThat\nmeans I can do more training!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm gonna do some solo practice, okay?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Good idea! I'll join you!",
+                "You should save that energy for later."
+            ]
+        },
+        {
+            "text": "I'm gonna do some solo practice, okay?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Good idea! I'll join you!",
+                "You should save that energy for later."
+            ]
+        },
+        {
+            "text": "Woooo! Here we gooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "To the training track at full speed!\nReady, set,\nBLAST OFF!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Huh?! Oh... I didn't even think of that!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "If I save my energy, I can be at even\nfuller power\nlater! Thanks, Trainer! I'd\nnever have noticed!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "To better prepare for future training\nsessions,\nУиннинг Тикит agrees to rest\nfor today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I follow Уиннинг Тикит for some\nsupplementary\ntraining.",
+            "name": "Монолог"
+        }
+    ]
+}

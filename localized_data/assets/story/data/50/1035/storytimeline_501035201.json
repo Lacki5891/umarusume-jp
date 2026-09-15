@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Hopeful Stakes, at last! Holy moly,\nthere are\nsooo many people here!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "text": "Reeeaally nervous!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I practiced so much, I can do it for\nsure!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "If I can handle the distance of today's\nrace, I'll be\none step closer to the\nDerby!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Alrighty! I'm gonna go full speed!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "FOR THE DERBY!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

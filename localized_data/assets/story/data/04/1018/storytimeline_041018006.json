@@ -1,0 +1,251 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Though today is usually my day off, I have\nbeen summoned by the\nempress. I make\nmy way over to our meeting spot.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You've got quite the nerve to keep me\nwaiting, Trainer.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'm sorry... Oh, did we always have a vegetable\nfield?"
+            ]
+        },
+        {
+            "text": "You didn't know about it? It's official\nacademy property, and we even\nutilize it\nfor some classes.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Anyway, I called you out here to help me\nmove these.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Following her gaze, I see a number of\nwooden carts filled with\nflowers. Red,\nwhite, yellow... it certainly makes for a\ncolorful sight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We have more blooms than anticipated.\nThis was not originally my\nintention, but I\ncould use a hand.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Well, you're in luck! I've got two, complete with\ngreen thumbs!"
+            ]
+        },
+        {
+            "text": "If you've got time for jokes then you've\ngot time for work. Let's go.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wow, they're all so lovely! Thank you for\ndoing this every year, Air\nGroove!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "We park the carts in front of the\ndormitories, where we're met with a\nlong\nline of students.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One flower per person. Stay in line, and\ntell us which color you desire\nwhen it's\nyour turn.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Make sure to deliver them in person if you\ncan, preferably with a\nletter or gift. That's\nthe best way to show your appreciation.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Mom's definitely going to love this!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "I suddenly remember what day it is.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "So these are Mother's Day carnations?"
+            ]
+        },
+        {
+            "text": "That's right. I always plant them so that\nthey'll bloom around this\ntime.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Many of us are living far away from our\nparents currently. At times like\nthese, it's\nmore important than ever to show our\ngratitude.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Incidentally, do you know what a yellow\ncarnation signifies?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Different colors mean different things?"
+            ]
+        },
+        {
+            "text": "Do I have to explain everything?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "First, take the red carnation. It signifies\nlove for one's mother. It\nmakes for a very\npopular gift on this day.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "On the other hand, a yellow carnation\nsignifies jealousy, and is often\navoided as a\ngift.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You may be surprised to hear that there\nare a number of students who\nchoose the\nyellow carnations.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Many of them are second-generation\nrunners, and it is no stretch to\nsay that\nthey see their own mothers as their biggest\nrivals.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In other words, giving your mother a\nyellow carnation is akin to saying\nthat you\nwill surpass her legacy.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All right, that was the last student. Thank\nyou for your help.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It looks like we only have a single yellow\ncarnation remaining.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув smiles gently as her eyes fall\nonto the remaining blossom.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I suppose I'll give this one to my own\nmother.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "It's very beautiful."
+            ]
+        },
+        {
+            "text": "Just as Эйр Грув is about to take the\nflower into her own hands, we\nhear a pair\nof footsteps hesitantly approaching.",
+            "name": "Монолог"
+        },
+        {
+            "text": "U-umm...",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "Oh, you're from Ritto Dorm. Is something\nthe matter?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I was doing some extra training today, and\nbefore I knew it the sun\nstarted setting.\nUm... Are the flowers all gone?",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No—in fact, you're quite lucky. There's\nexactly one left.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Go on, it's yours.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, thank you so much!",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "The young girl bows her head in thanks to\nЭйр Грув and promptly\ndeparts.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh... Just enough, then.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Her visage is stoic with a hint of\nsatisfaction... but it's difficult to tell\nwhat\nshe is really feeling.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I do know that she was planning on taking\nthat last flower, though. I\ncan't help but be\nreminded of when she was injured at the\ndance\nlesson.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you neglecting yourself for others again?"
+            ]
+        },
+        {
+            "text": "Heh. You're such a worrywart.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm not too proud about what happened at\nthat dance lesson, but I've\nthought long\nand hard about my attitude since then.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If I mean to earn the respect of others, I\nneed to respect myself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's no good pursuing my ideals if I neglect\nmy own needs in the\nprocess. On that\npoint, I admit... I was a little foolish.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What just happened now is different,\nthough.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You're not sacrificing your own well-being?"
+            ]
+        },
+        {
+            "text": "That's right. I don't mind going without a\nflower at all.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Even without a tangible symbol to\nrepresent it, the resolve in my\nheart is firm.\nI will tell my mother of my ambition\ndirectly.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "That does seem more your style."
+            ]
+        },
+        {
+            "text": "Exactly. So there is nothing you need to\nworry about.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I can't have any trainer of mine being too\nflustered for my sake.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Although... I suppose if you hadn't spoken\nup in the infirmary, I...\nwouldn't have...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Hm? What was that?"
+            ]
+        },
+        {
+            "text": "I'm taking better care of myself now, that's\nall!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "My mother doesn't often reminisce about\nher racing career, but I once\noverheard her\nsay that she couldn't have become a\nqueen by\nherself...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That the watchful eyes of someone she\ntrusted became a mirror—one\nwhich more\nhonestly reflected her ideal self.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What I'm trying to say is... well, you know.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You have my eyes whenever you need them."
+            ]
+        },
+        {
+            "text": "Why do I get the sense that you're teasing\nme? ...Fool.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "There's a hint of kindness in her\nhalfhearted scolding. We pause\nawhile to\nwatch the sun set.",
+            "name": "Монолог"
+        }
+    ]
+}

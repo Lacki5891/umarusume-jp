@@ -1,0 +1,216 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I've been awfully busy lately. I know\nthat's to be\nexpected, since I'm training\nan Umamusume\nparticipating in the\nTwinkle Series, but even so...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I haven't even managed to tidy up...)"
+            ]
+        },
+        {
+            "text": "There's dust piling up in all four corners\nof my\nroom. I don't have the energy to\nclean it up right\nnow, though, so I head\nout to the academy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You there! I apologize for the abrupt\nquestion,\nbut may I have a moment of\nyour time?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Are you talking to me?"
+            ]
+        },
+        {
+            "text": "You are Эйр Грув's trainer, are you\nnot? I have\nsomething rather important\nto discuss, and I need\nsomeone I can\ntrust.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'll get straight to the point. Would\ncleaning your\nresidence be a worthwhile\ntask?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Uhhh..."
+            ]
+        },
+        {
+            "text": "I understand your confusion, but this is a\nmatter\nof extreme urgency. Please,\nanswer me.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'll ask you once more... Would cleaning\nyour\nresidence be a worthwhile task?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I guess so..."
+            ]
+        },
+        {
+            "text": "Splendid! A good size—not too large,\nyet not too\nsmall. Enough space to be\nsatisfactory, but not so\nmuch that it\ntakes an unreasonable amount of\ntime.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And most importantly, it belongs to\nsomeone\ntrustworthy! I couldn't possibly\nhope for a better\nsolution!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Will you give me five minutes? Just five\nminutes,\nand I'll have Эйр Грув ready\nat your place.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm sure you've already gathered, but\nshe'll be\ncleaning your room! Wait for us\nthere, please!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Unsure of what's going on, I head back\nhome and\nwait as per Симболи Рудольф's\nrequest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The president gave me permission to\nclean your\nroom. I'd like to get started\nright away, if you\ndon't mind.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "S-sure. Um, thank you?"
+            ]
+        },
+        {
+            "text": "You can relax. This isn't charity. It's\nmerely a\npersonal matter, first and\nforemost.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll get started then.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув pulls out a cloth and quietly\nbegins\nwiping down the surfaces in my\nroom.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm... The place is far dustier than it\nlooks. But\nnot a speck shall escape me...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "(What's she muttering about?)"
+            ]
+        },
+        {
+            "text": "This should go without saying, but I am\ncounting\non you to keep today's events\nto yourself.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Can you at least tell me what this is all about?"
+            ]
+        },
+        {
+            "text": "Ah, yes, my apologies. Allow me to\nexplain.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The student council has had to address a\nnumber\nof difficult affairs\nrecently—affairs that have been\ncausing\nus considerable mental strain.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "In other words, Эйр Грув has been\n<i>extremely</i>\nstressed as of late.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I approached you because I thought you\ncould\nprovide a useful outlet for that\nstress.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Cleaning... relieves stress?"
+            ]
+        },
+        {
+            "text": "Oh? Is that black mold I see on the\nwindow\nframe? A simple cloth won't be\nenough to defeat\nyou... Hehehe...\nAhahaha!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh no, there's no place for compassion\non the\nbattlefield! Meet my secret\nweapon... baking\nsoda!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув seems to be enjoying herself.\n...Maybe\neven a little <i>too</i> much.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I was also surprised when I first saw her\nlike this. It\ntakes a lot for it to get this\nbad.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I stumbled upon her cleaning the floors\nof the\nstudent council office one day.\nEvery last speck\nof dust—eradicated. It\nwas quite the sight.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Cleaning is an act that has palpable\nresults, so I\nsuppose it's easy to feel a\nsense of\naccomplishment from it.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I questioned her about it afterward, but\nit\nappears that she retains little memory\nof the\nactual process.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Once again, I implore you not to tell\nanyone of\nthis. My esteemed right\nhand's good name is at\nstake.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That's all very well, but it feels weird to\njust stand\naround and watch. Maybe I\nshould...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Prepare some snacks.",
+                "Help Эйр Грув clean."
+            ]
+        },
+        {
+            "text": "Oh! A fine idea. Cleaning is a tiring\nbusiness, after\nall. Allow me to join you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The two of us head out to buy some\nsnacks.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I feel much better now. Thank you,\nPresident.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And thank you as well for allowing me\nthis\nopportunity, Trainer. By the way...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I didn't say anything... strange... while\ncleaning,\ndid I?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Y-you wish to talk to her while she's in\nthis state?!\nWh-what a novel idea!\nH-however, I...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oh? You wish to enlist?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "(Enlist?!)"
+            ]
+        },
+        {
+            "text": "I like the cut of your jib! Very well,\nsoldier. Take\nthe sodium bicarbonate\nsolution!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And you, President! Take that\ntoothbrush!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "H-huh? I'm helping too?!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф shoots me a meaningful\nglance, so\nI shake my head fervently.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Under the intense leadership of Air\nGroove, we\nall have an enjoyable\nclean-up session... or so I'd\nlike to\nbelieve.",
+            "name": "Монолог"
+        }
+    ]
+}

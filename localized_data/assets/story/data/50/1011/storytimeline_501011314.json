@@ -1,0 +1,127 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Arima Kinen is over. Everyone gave\nit their all\nin what turned out to be a\nturbulent race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But only one could rise above the rest.\nOne\nincomparable racer who no longer\nstood in the\nshadow of any other...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I did it. I've returned as the first place\nfinisher.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Yes, you have!"
+            ]
+        },
+        {
+            "text": "Oh my... Hehe. Are those tears I see?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Please, Trainer. You're far too easy to\nimpress.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We still haven't reached the top, after\nall.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "There's much more climbing yet to do!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...Grass!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Spe...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I-I... really, really—I wanted to win... you\nknow?\n<i>Sniffle...</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I know.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "<i>Sniffle...</i> Nghhh... Waaaahh!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Thank you for not holding back against\nme, Spe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Because I faced you today, I can keep\npressing\nforward.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So... when our paths cross again, let's\ncompete\none more time.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...Y-yes. Let's!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You know, I <i>was</i> going to go and\nchallenge them\nto the Dream Trophy...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But it's no use... I don't think I can wait\nthat long\nto race these two!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Maybe I'll run in the Arima next year.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Cause seriously, this is what I've been\nwaiting for\nso, sooo long.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ugh, they're just too cute!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "My path... our path continues with no\nend in\nsight.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm still too clumsy and weak to say I've\nreached\nthe top.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But for today... just today...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I think I'll give myself a pat on the back.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I've got tons of praise to give you!"
+            ]
+        },
+        {
+            "text": "Oh... This is embarrassing to say, but...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...I'd like that.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Just for today, let me bask in the\ncompliments. ♪",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

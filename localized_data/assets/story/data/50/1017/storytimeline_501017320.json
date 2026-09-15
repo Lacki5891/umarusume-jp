@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With all of Симболи Рудольф's races over,\nnow is as\ngood a time as any to reflect\non her\nachievements.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Congratulations on the seven crowns!"
+            ]
+        },
+        {
+            "text": "Seven crowns...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The weight atop my head has grown\nrather\ncrushing since the days of my\ndebut.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But if that is the price of the Emperor's\nglory,\nthen so be it!",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Nobody will doubt you now."
+            ]
+        },
+        {
+            "text": "Indeed. That is precisely why I sought\nthem.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I'm proud to be your trainer."
+            ]
+        },
+        {
+            "text": "Hah. You're unusually forthright today.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Come on, let me celebrate."
+            ]
+        },
+        {
+            "text": "Perhaps I shall join you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I daresay we have earned ourselves one\nday of\nmerriment.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Let's make the most of it, Trainer.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back home from a trip out\nwith\nСайленс Судзука...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uh-oh... Rain?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Without so much as a warning, rain\nbegins to\npour.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aaah!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We dash inside the academy to escape\nthe\nsudden deluge.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> It came out of nowhere.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What should I do now? I was planning to\ngo for a\nrun.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I could go back to my dorm, but it's so\nboring.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Is there nothing you can do indoors?"
+            ]
+        },
+        {
+            "text": "Indoors... Hmm...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I can't think of anything in particular. Do\nyou\nhave any ideas?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What about studying?",
+                "How about cooking something?"
+            ]
+        },
+        {
+            "text": "You're right. Now that you mention it,\nwe did get\na lot of homework today.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You could focus on that today, then."
+            ]
+        },
+        {
+            "text": "Yes, but...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I was so excited to run in the nice\nweather, I\nwasn't paying much attention\nin class...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So... would you mind helping me out?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "Yes. I'm not very good at studying on my\nown...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And so, I agree to lend Сайленс Судзука a\nhand\nwith her studies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ummm... Let me make sure I understand.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "To find the length, I have to apply this\nformula,\nright?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Exactly! You've got this!"
+            ]
+        },
+        {
+            "text": "Thank you. Um... Now, let's see...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um, maybe I'll have a bit of a mental\nreset after\nthis question—",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It's still raining outside."
+            ]
+        },
+        {
+            "text": "...So it is.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...Oh. I think... I've solved it...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Trainer!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Nice job!"
+            ]
+        },
+        {
+            "text": "Thank you. I think I can solve the rest of\nthe\nproblems in the same way.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But, um... Would you mind helping me\nwith\nanother subject?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'd like to finish everything today so that\nI can\nmake up for today's run tomorrow.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "If you're here helping me, getting it all\nout of the\nway should be a piece of\ncake.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Sure, I've got all day!"
+            ]
+        },
+        {
+            "text": "Thank you. Though I should warn you,\nthere is a\nlot left.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "A <i>lot.</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Cooking?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I usually only make rice balls to eat\nwhile I run.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I don't think I can make anything more\n\ncomplicated than that.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Balancing your diet is an important part of your\ntraining!"
+            ]
+        },
+        {
+            "text": "You're right... If it will help me run\nfaster, I should\ndo it.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Why don't you try making something new?"
+            ]
+        },
+        {
+            "text": "Gladly, if you would teach me.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I see. So running too much can cause\nanemia...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And that means I should ensure I'm\nconsuming\nlots of iron.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Okay. I'll go home and try it\nimmediately.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The next morning...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I tried what you told me and found this\nrecipe for\nstir-fried liver and spinach. It\nwas easy to make,\nand it's full of iron.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You should have some. It's good for you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I try out the food right away.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Munch, munch...</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It tastes very... natural!"
+            ]
+        },
+        {
+            "text": "Natural? You mean...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh! I-I'm so sorry!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I should have seasoned it for you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "After a run, I tend to just focus on\ngetting the\nnutrition I need. I guess that\nmindset became the\nnorm for my\ncooking.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "That's very <i>you.</i>"
+            ]
+        },
+        {
+            "text": "Y-you think so?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll try making it again. I'll have Spe\ntaste-test it\ntoo.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So, I hope you'll agree to give it another\ntry.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "A few days later, I have Сайленс Судзука's\nstir-fried\nliver and spinach for lunch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We manage to finish all of her\nhomework, despite\nit taking us until well\npast sundown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's turned out quite tasty this time. I can\n\ndefinitely say she's made an\nimprovement.",
+            "name": "Монолог"
+        }
+    ]
+}

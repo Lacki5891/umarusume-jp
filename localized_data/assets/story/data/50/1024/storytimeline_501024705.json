@@ -1,0 +1,206 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After a day out, I walk Маяно Топ Ган\nback to\nher dorm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ehehe! I had sooo much fun on our date\ntoday,\nTrainer! ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Glad to hear it!"
+            ]
+        },
+        {
+            "text": "I know! You should come up and see my\nroom!\nWe can watch TV and drink tea—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh, dear. As dorm leader, how am I\nsupposed to\nlook past that?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Darn it! Caught by Dad...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Dad?"
+            ]
+        },
+        {
+            "text": "Y'know, like in the dramas—when a\ncouple runs\ninto the girl's dad at her\nhouse!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Haha. So I'm the dad, huh? Well, it's\ntrue I do\nfunction somewhat like a\nparent as dorm leader.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Right! Let me introduce you! Dad, this is\nmy\nspecial someone. ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh? My daughter's special someone,\nhuh? Is that\nso?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Ummm...",
+                "Actually, there's someone else..."
+            ]
+        },
+        {
+            "text": "Awww! ☆ You're blushing, Trainer! How\ncute!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hehe... That's enough messing around\nfor now. I\ncan see the two of you have a\ngood relationship.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That must be why you've been so\nenergetic\nrecently.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ehehe! Well, the two of us are promised\nto each\nother! ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Or rather, I scouted her."
+            ]
+        },
+        {
+            "text": "C'mon, you're supposed to agree with\nme,\nTrainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahaha, I see. You're just as Mayano\ndescribed.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I hope you continue watching over her.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...Hm, I do sound quite a bit like a\nfather, don't I?\nHaha.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll be taking my leave now. It's almost\ntime for\ndinner, Mayano. Come and join\nme.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Okay! But first...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You got the dorm dad's approval,\nTrainer! This is\nthe perfect practice for\nthe real thing! ☆",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "text": "Anyway, I'll be off! See ya tomorrow! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Whaaaaat?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What did you just say?! You're lying!\nWhat does\nth—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I see, I see. So you're something of a\nplayer?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "N-no way... Was I just some side fling?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Just kidding."
+            ]
+        },
+        {
+            "text": "Huh? Kidding?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahahaha! That's right. Anyway, enough\nteasing\nfor now.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Huh?! You were teasing me?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Seriously?! You're both terrible! I\nseriously\nthought I was gonna cry!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Sorry."
+            ]
+        },
+        {
+            "text": "Hmph! I won't forgive you, no matter\nwhat you\nsay!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "My my, what a pure, true love. I cannot\nbring\nmyself to cause any more discord\nhere...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, I just remembered! Mayano, did you\nknow\nthey're holding a cake fair at the\ncafeteria right\nnow?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Yeah, I know. I wanted to go, but I\ncouldn't get\nany tickets...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Well, I have exactly two extra tickets in\nmy room.\nHow about the two of you\nmake up over a cup of\ntea?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Yaaay! Please, please! I wanna go with\nTrainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Perfect. They're on the desk right by the\ndoor to\nmy room. Why don't you go get\nthem?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Got it! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Phew. Seems like everything worked out.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Thanks..."
+            ]
+        },
+        {
+            "text": "It's my pleasure. The truth is, I've been\nmeaning\nto thank you for a while now.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Mayano is very curious... I couldn't help\nbut feel a\nbit concerned for her.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Trainer! Hurry, before the cafeteria\ncloses!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heh. Have fun.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Afterward, the two of us make up and\nenjoy\nourselves over some tea and cake.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...At any rate, it seems Маяно Топ Ган\nand I are\nboth motivated to keep up the\nhard work.",
+            "name": "Монолог"
+        }
+    ]
+}

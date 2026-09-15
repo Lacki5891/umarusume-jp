@@ -1,0 +1,112 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I've come to a shrine with Кинг Хало.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh.</i> I haven't been feeling myself\nlately...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Maybe I should say a little prayer—just\nenough\nfor some peace of mind.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "We've come all the way here, after all."
+            ]
+        },
+        {
+            "text": "Yes, I believe I shall give the gods the\n\nopportunity to make my wishes come\ntrue!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why don't you say a prayer too? Just\nwaiting\naround would be a waste of time.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, I pray with Кинг Хало.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Grant me a tremendous victory in the\nnext race...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And may my road to glory continue to\nshine with\ndazzling light!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, and also, I want good health, no\ntraffic\naccidents, and lots of joy for the\nyounger\nstudents!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Standing beside her, I can hear King\nHero voicing\nher prayers with unusual\nseriousness.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... I think that's everything. May all\nmy\nwishes be granted!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Suddenly, a gentle breeze caresses my\ncheek.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, what a pleasant breeze. Hehe.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I feel a little better somehow. This god is\na good\nlistener!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Whew... To have even the gods on my\nside feels\nlike my charm has bewitched\nthe heavens.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That's a first-rate Umamusume for\nyou! ♪\nOhohoho! Ohohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Suddenly, a strong gust of wind blows\nthrough,\nrustling the surrounding trees.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Caw! Caw!</i>",
+            "name": "Crow"
+        },
+        {
+            "text": "Gyaaah!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wh-wh-what was that?! I felt an ominous\n\npresence!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wh-what could have drawn these\nill-fated omens\nto me?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh wait, I get it... You're trying to get\nme to buy\na lucky charm, aren't you?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What greedy little gods you are... Fine,\nI'll play\nalong just this once.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I should buy one soon before they sell\nout!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "After that, Кинг Хало clutches her new\ncharm with\na worried expression on her\nface.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Following that, Кинг Хало's performance\nin\ntraining improves.",
+            "name": "Монолог"
+        }
+    ]
+}

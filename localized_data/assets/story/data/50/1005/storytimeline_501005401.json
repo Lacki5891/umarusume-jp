@@ -1,0 +1,41 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Фудзи Кисэки encounters a younger student\nwho is\nupset about her own distance\naptitude. Fuji\nKiseki decides to\nencourage her with a miracle."
+        },
+        {
+            "text": "I understand how she feels and can now\ndecide\nbetween continuing the Classic\nTriple Crown tour\nor starting the mile\ntour. The best path for her is...",
+            "choice_data_list": [
+                "The Triple Crown tour.",
+                "The mile tour."
+            ]
+        },
+        {
+            "text": "This makes our next race the Japanese\nDerby.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Фудзи Кисэки decides to tackle her\ninaptitude for\nlonger races head-on and\nforges ahead with the\nClassic Triple\nCrown tour."
+        },
+        {
+            "text": "When she announces her lack of affinity\nfor long\nraces, the public is shocked, but\nher fans'\nexpectations don't wane in the\nslightest."
+        },
+        {
+            "text": "This makes our next race the NHK Mile\nCup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Фудзи Кисэки sets her sights for the top and\nforges\nahead with the mile tour."
+        },
+        {
+            "text": "The public is shocked when she\nannounces her\nsudden agenda change,\nbut her fans'\nexpectations don't wane in\nthe slightest."
+        },
+        {
+            "text": "In order to show her younger schoolmate\na\nmiracle, Фудзи Кисэки aims for the\nJapanese Derby.\nThis is the beginning of\na very difficult challenge!"
+        },
+        {
+            "text": "In order to show her younger schoolmate\na\nmiracle, Фудзи Кисэки aims for the NHK\nMile Cup.\nThis is the beginning of a new\nchallenge!"
+        }
+    ]
+}

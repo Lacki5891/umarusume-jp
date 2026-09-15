@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Aw, too bad...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "No need to apologize. It's totally okay!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Sometimes that's the way the cookie\ncrumbles!\nBrush those crumbs off,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Sometimes that's the way the cookie\ncrumbles!\nBrush those crumbs off,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

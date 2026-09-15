@@ -1,0 +1,41 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Siiiiigh...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It was like I was trapped in a box.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Everything around me was dark, and I\ncouldn't\nsee a thing. That's not how I\nwant to run.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Next time, we're going to break out of that box.",
+                "Do you feel like you want to quit?"
+            ]
+        },
+        {
+            "text": "Yes. Next time, I'll run my way.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "No. Not at all.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Quite the opposite, actually. I won't\nallow myself\nto brood endlessly.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I want to step back onto the track as\nsoon as\npossible... Next time, I'm getting\nto the front.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll never give up the lead again.",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

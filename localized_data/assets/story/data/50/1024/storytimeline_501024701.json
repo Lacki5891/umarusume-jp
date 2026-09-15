@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Morning, Trainer! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey! Don't you think I look super\ngrown-up?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Since we had the day off yesterday, I\nwas gonna\nstay up all night! ♪ But when\nI talked to Nature...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She said if I wanna be more mature, I\nshould\nactually go to bed <i>early!</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I listened to her advice, and now my hair\nis as soft\nas silk. I feel like I could fly to\nthe moon! But first,\nI'm gonna steal your\nheart!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It looks like Маяно Топ Ган rested\nwell, both\nmentally and physically.",
+            "name": "Монолог"
+        }
+    ]
+}

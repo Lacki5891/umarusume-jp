@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I want to teach Твин Турбо a way to victory. \nIn order to do that I need to somehow become her trainer.",
+            "choice_data_list": [
+                "Training, are you willing to try it?",
+                "Are you willing to take the training?"
+            ]
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Training? Don't wanna! \nTurbo don't like being told what to do!"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Aah, what a shame, with Turbo's talent with just \na little training you might be able to win against Teio."
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Against Teio!? Really!? \nThen I'll do it!",
+            "choice_data_list": [
+                "(Найс Нэйчер…!)"
+            ]
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Ehehe, good job?"
+        },
+        {
+            "text": "With a witty remark, we somehow managed to get \nstarted as a duo."
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "So, what are we going to do for training?",
+            "choice_data_list": [
+                "First of all, let's check the \"running style\""
+            ]
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "running style…?"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "In other words, \"Runner\", \"Leader\", \"Betweener\", \nand \"Chaser\". Which way of running is most \nsuitable for Turbo."
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "First of all, let's try \"Leader\" and \"Betweener\"… \nmiddle position first. Come on, Turbo!"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Turbo, take a position a little in front of me or \na little behind me! For now, either way is fine!"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "A little in front… or a little behind… \nHmmm…"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "(Nature, scary… I'm afraid I'll bump into you if \nI'm by the side… Uh-huu…)"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Uaaaaaaaaaa!"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Eh, wait!?"
+        },
+        {
+            "text": "I tried to make her hold back, but Твин Турбо couldn't \ncontain herself at all."
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Ummm, hello Turbo-san? \nWhy……?"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Because Turbo can't just stop suddenly! Ehhen!"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "No, don't look so proud!"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Trainer-san…",
+            "choice_data_list": [
+                "It's like you get scared of other Horse girl……",
+                "You seem to get scared of other Horse girl……"
+            ]
+        },
+        {
+            "text": "Bravery is the flip side of cowardice. Even during the previous \nmock race, there were signs that she disliked other horse \ngirls. It seems that it would be difficult for her to be \n\"Leader\" or \"Betweener\"."
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "I'm not scared… I just don't like it. \nWell then, Turbo will do another run.",
+            "choice_data_list": [
+                "Thanks for the \"follow-up.\"",
+                "Thank you for the \"follow-up.\""
+            ]
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Trainer, do you mean you don't expect it?",
+            "choice_data_list": [
+                "Yeah, because the absolute value of speed is not enough.",
+                "That's right, because the absolute value of speed is not enough"
+            ]
+        },
+        {
+            "text": "This is also evident from the previous mock race. \nIn terms of lap time, the three furlongs \nwere by far the fastest."
+        },
+        {
+            "text": "It is impossible to be \"Leader\", \"Betweener\", or \n\"Chaser\". Then, the way forward is…"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Ugyaaaaaaaa～～～! \nUgya gya gya gya gyaaaaa!"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Push shu shu shu shu shu shushu～……"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Out of gas!? Again!?"
+        },
+        {
+            "text": "There is no choice but \"Runner\", but no matter how many times \nshe do it, she will go out of control. She's not the type to \ncontinuously run, and right now she's overwhelmingly lacking \nin stamina."
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Hmph mmmmm… Hmph mmmm…"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Trainer, how many more times \nare we going to do this～!",
+            "choice_data_list": [
+                "We are going to do this all day!"
+            ]
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "mum mum mum…"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Umm, you stop training, what are you doing?"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Taiyaki eating game! Do you want to play, Neicha?",
+            "choice_data_list": [
+                "No, squat…"
+            ]
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "No no no no no!! Because if you don't eat it, \nthe taiyaki will get cold and you'll lose."
+        },
+        {
+            "text": "The only way to strengthen stamina is to keep \ndoing steady basic training, but… Твин Турбо got \nbored and quickly threw it away."
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Haha, well, don't be so down, trainer. \nYou knew she is this way, didn't you?"
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "You see, it's like trying to get a child to eat a vegetable \nthey don't like. You have to chop them up into little \npieces and get them to eat them somehow.",
+            "choice_data_list": [
+                "Wait… where is Turbo?"
+            ]
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Eh, if it's a Turbo… look, on the course. \nShe hate training, but she is not the type to sit still."
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Ha～a… ha～a, wheeze…… I can't do it anymore…"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "It's painful～, I'm suffocating! \nHaa, ha～a……wheeze……"
+        },
+        {
+            "text": "Seeing the Твин Турбоs practicing on their own, \nI feel something different from before. Even though \nshe says it's painful, there's no sign of stopping. Rather…"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Ugh…… huuuh… haaa…"
+        },
+        {
+            "text": "It even look like she is pushing her limit more and more."
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Aah, she doesn't listen to what other people say, \nbut if she feel like it she will do something \nuntil she burn out, she is just that type."
+        },
+        {
+            "name": "Найс Нэйчер",
+            "text": "Remember, you saw it right? When she edit video, \nit's the same as that time."
+        },
+        {
+            "text": "I felt like I saw a faint light in that figure. \nAs long as she doesn't dislike running…"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "Trainer, what are you talking about? \nIf it's training I'm not going to do it!",
+            "choice_data_list": [
+                "Let's go on a trip, the three of us"
+            ]
+        },
+        {
+            "name": "Turbo & Nature",
+            "text": "Ehhhhhhh!?"
+        },
+        {
+            "name": "Твин Турбо",
+            "text": "A trip! Let's go! Let's go! \nTurbo love to go out and play!"
+        },
+        {
+            "text": "Let's try a \"training camp\" disguised as a trip. \nWe'll see if we can get them to eat their vegetables."
+        }
+    ]
+}

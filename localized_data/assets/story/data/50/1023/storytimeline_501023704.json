@@ -1,0 +1,219 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ turns to me on the way\nhome one\nday."
+        },
+        {
+            "text": "Trainer, do you mind if we stop by that\ncafe\nagain?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Of course not. We have the time, anyway."
+            ]
+        },
+        {
+            "text": "Thanks. There's something I want to tell\nthe\nowner.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hello. I hope I'm not bothering you, but\nI'd like to\ntalk to you about something.\nNot as a customer,\nbut just in general.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's you again. Sure... What is it?",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "The last time I was here, I wasn't able to\n\ncommunicate my point very well.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "My failure to do so has been bothering\nme ever\nsince, so I wanted to try\nconvincing you one more\ntime.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This time, I've prepared a presentation!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "First, let me introduce some current data\nto you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Your clientele tends to skew slightly\nolder, and\ncustomers usually come alone\nor in pairs.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Their main purpose of visiting is to read,\nstudy, or\nwork. In general, they're lone\nadults who are\nlooking to use their time\nefficiently.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You should take advantage of this and\ncreate a\nspace for your core clientele to\nrelax in!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There are a few things you can do to\ntransform\nthis space into a hidden gem\nof sorts and attract\nan older crowd.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "For example, you can dim the lights and\ndecorate\nthe space with wood paneling\nand antique\nfurniture!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And that concludes my presentation!\nWhat do\nyou think?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "At the end of her talk, Бива Хаяхидэ is\nas\nbreathless with excitement as she is\nafter finishing\na close race."
+        },
+        {
+            "text": "I... I don't know what to say. I'm flattered\nthat\nthere's someone out there who\ncares so much\nabout my shop.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "But why <i>do</i> you care so much?",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "The first reason is simply because I like\nthis cafe\nand come here often.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The second is, well...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Because I firmly believe that applied\nlogic can win\nover raw talent.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ's eyes sparkle with firm\nconviction.\nHer words ring true to her\nsincere approach to\nlife.",
+            "choice_data_list": [
+                "(This is her true strength!)"
+            ]
+        },
+        {
+            "text": "When you first told me about your\nsituation, I saw\nmyself in your story.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I also know what it's like to feel\noverwhelmed by\nseemingly unbeatable\ncompetition.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But no matter how strong an opponent\nmight be,\nthere's always a way to\ntriumph over the odds.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I sincerely believe that, and I want you\nto believe\nit too.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Wow. I...",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "Thank you. I think I'll give some more\nthought to\nthe fate of this place.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "Phew... I'm glad I was able to present my\nidea\nbefore the cafe closed for good.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You were very persuasive.",
+                "That really resonated with him.",
+                "Even I feel motivated now!"
+            ]
+        },
+        {
+            "text": "Phew... I'm glad I was able to present my\nidea\nbefore the cafe closed for good.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You were very persuasive.",
+                "That really resonated with him.",
+                "Even I feel motivated now!"
+            ]
+        },
+        {
+            "text": "Hm... I suppose all the reasoning and\ntheorizing I\ndo on a daily basis came in\nhandy.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I hope I didn't come off as too high and\nmighty,\nthough. After all, everything I've\nlearned was\nthrough trial and error.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But I understand how discouraging it can\nbe to\nface such tough odds, and I don't\nwant the owner\nto give up so easily.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Haha... You don't think I was being too\npushy, do\nyou?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's hard for me to temper my feelings\nwhen it\ncomes to things I'm passionate\nabout.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I didn't even plan on making a\npresentation,\noriginally. It just sort of...\nhappened.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "That was pretty good for something you didn't\neven plan!"
+            ]
+        },
+        {
+            "text": "Hehe! Thank you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hm... You really think so?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm glad to hear my logic was able to\nmotivate\nothers.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm fairly confident in my analytical\nabilities, so\nlet me know if you are ever\nin need of them.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I really hope I was able to communicate\nthat.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I can examine any issue of yours from\ndifferent\nangles and analyze it for you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm glad I made it. I think it helped me\nget my\npoint across more clearly.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Several days pass since Бива Хаяхидэ\nand I last\nwent out together.",
+            "choice_data_list": [
+                "I wonder what happened to that cafe?"
+            ]
+        },
+        {
+            "text": "It's still open and operational, of course.\nLook.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I peer into the window and see that it's\nbeen\nremodeled to feel more intimate.\nThere are\nseveral customers inside\nrelaxing."
+        },
+        {
+            "text": "All of them are leisurely sipping coffee\nor reading\nbooks. It looks very cozy even\nfrom the outside.",
+            "choice_data_list": [
+                "The owner really took your advice to heart!"
+            ]
+        },
+        {
+            "text": "Indeed. I'm so glad.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She looks so genuinely happy that I\ncan't help but\nfeel the same way."
+        }
+    ]
+}

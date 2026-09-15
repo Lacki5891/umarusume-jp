@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I call Нарита Брайан over so I can give her\nsome fan\nmail.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, a fan letter.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If that's everything, I'll be on my way.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Aren't you going to read it?"
+            ]
+        },
+        {
+            "text": "Well...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's my letter. What I do with it is my\nbusiness,\nright?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Promise that you won't just throw it away, at\nleast!"
+            ]
+        },
+        {
+            "text": "Huh?! Of course I won't!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm just not going to read it here. That's\nall I\nmeant.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'd never throw away a letter from a fan...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "So, we good? I'm going.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан carefully puts the fan letter\nin her\npocket, then leaves brusquely.",
+            "name": "Монолог"
+        }
+    ]
+}

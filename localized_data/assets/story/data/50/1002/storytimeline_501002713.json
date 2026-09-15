@@ -1,0 +1,80 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm sorry, Trainer. I'll be able to run\nagain before\nyou know it.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It's fine. You should rest for today."
+            ]
+        },
+        {
+            "text": "Rest...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um, after I've rested a little, do you\nthink I can\nrun again for a bit?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You'll only make your condition worse if you\npush it.",
+                "As soon as you feel better, you can run as much\nas you want!"
+            ]
+        },
+        {
+            "text": "Um, after I've rested a little, do you\nthink I can\nrun again for a bit?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You'll only make your condition worse if you\npush it.",
+                "As soon as you feel better, you can run as much\nas you want!"
+            ]
+        },
+        {
+            "text": "I know that... but...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um... Do you think you could keep an\neye on me\nso I don't go off running?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm not sure I have... the discipline.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...Okay.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I won't be able to run today, right?\nWhat a\nshame. It's still so bright out...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "As much as I want...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Okay. I'll get better as soon as possible,\nfor the\nsake of running.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Trainer, I want you to search for lots of\nbeautiful\nplaces to go running.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems Сайленс Судзука is burning with\n\ndetermination despite her injury. I\nshould get to\nfinding new running\ncourses right away.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Unable to run due to her injury, Silence\nSuzuka\nfalls into a mental slump.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I respect Suzuka's request and stay by\nher side in\nthe infirmary until nightfall.",
+            "name": "Монолог"
+        }
+    ]
+}

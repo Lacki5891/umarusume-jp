@@ -1,0 +1,87 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Кинг Хало has managed to leave quite a\nmark on\nthe Twinkle Series.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Together, we've successfully navigated\nthe first\ncrucial three years of her career.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Earth to Trainer. I need you with me\nhere.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "We're in the middle of a meeting, you\nknow? I\nneed you to focus.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Right, sorry."
+            ]
+        },
+        {
+            "text": "I swear! You of all people should know\nthere's no\ntime to be slacking off.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Spring is right around the corner, and it's\nbringing\nthe G1 races with it. As a\nfirst-rate Umamusume, I\nhave to go big,\nright?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Besides, I have people waiting for me.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You do?"
+            ]
+        },
+        {
+            "text": "Of course I do, they're—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "King! Кинг Хало! Wooooo!",
+            "name": "Spectator"
+        },
+        {
+            "text": "...King.",
+            "name": "???"
+        },
+        {
+            "text": "...?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Show me your path.",
+            "name": "???"
+        },
+        {
+            "text": "...!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe. It's obvious, isn't it?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Everyone is looking forward to seeing\nthe path\nwe'll create.",
+            "name": "Кинг Хало"
+        }
+    ]
+}

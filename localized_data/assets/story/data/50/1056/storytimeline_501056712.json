@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Матиканэфукукитару doesn't show up for\ntraining,\nso I go and look for her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The omen to beware of lightning...\nagain?! But\nwhy? It's so sunny outside...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You're busy with divining, I see..."
+            ]
+        },
+        {
+            "text": "Тренер?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Upon closer inspection... Th-those\nclouds look\nkind of menacing, right?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Aren't you forgetting something? Starts with a <i>t,</i>\nends with a <i>raining...</i>"
+            ]
+        },
+        {
+            "text": "Ohhh!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ah... haha. Hahahaha...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'm sooooo sorry!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I give her a storm of a scolding so this\ndoesn't\nhappen again.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Big Bro! How was I?!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Big Sis! How was I?!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "If you ask me, I think I did a pretty good\njob!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Let's see..."
+            ]
+        },
+        {
+            "text": "She ran well, and the results were along\nwhat we\nexpected, but... I got the\nfeeling that she\nwouldn't have been able\nto keep it up for much\nlonger.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "If I'm being completely honest, I think the\nlonger races might be too much for you."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But... I really do want the Triple Tiara.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Seeing her determination, I have a hard\ntime\nbreaking the news to her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I wouldn't say there's no chance at all, but..."
+            ]
+        },
+        {
+            "text": "It's okay. I get it.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "All right. No Triple Tiara, then!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "I don't see any sign of resignation or\ncompromise\nin her expression. All I can\nsee is... a sparkle in her\neyes gleaming\nforward to the future.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The tiara is something only possible to\nattain in\nyour classic year. It's not\nsomething you can put\noff for\n\"someday.\"",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I trust your decision. Besides...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I trust your decision. Besides...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll just have to shine brighter than the\nTriple\nTiara, right?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Right!"
+            ]
+        },
+        {
+            "text": "It's tough to throw away a dream. I'm\ndeeply\nimpressed by her ability to move\non.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've decided! I'm gonna put all my\nenergy into\nsprints from now on!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll win all of them and travel a path even\ncuter\nthan the Triple Tiara tour! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Now that she's made her decision,\nthere's a race\nI'd like to propose to her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's do the Sprinters Stakes."
+            ]
+        },
+        {
+            "text": "The Sprinters Stakes is a G1 sprint where\nthe top\nsprinter is decided, so I want to\nset it as her next\nbig racing goal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! A G1! I like it. Perfect for my new\ndream!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Your new dream?"
+            ]
+        },
+        {
+            "text": "Yep! A dream to take the place of the\ntiara.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "A dream to win a big race and become\nthe most\nbeloved runner of all. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "B-beloved?"
+            ]
+        },
+        {
+            "text": "Yep! No matter where she runs, the most\nbeloved\nUmamusume will always be the\ncutest.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Bathing in the spotlight with everyone\ncheering\nfor me... That's, like, the\npinnacle of cute!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hehe. Now I'm getting pumped! ♪ I'm\ngonna do\nmy best to become the most\nbeloved runner!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "As usual, Каррен Тян has a unique way\nof\nthinking. But G1 races are no walk in\nthe park. Is\nthis new direction really for\nthe best?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, but... isn't it a long time until that\nrace?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I don't wanna have zero exposure until\nthen... Can\nwe decide on another race\ntoo?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I was going to suggest that myself.\nAlongside her\ntraining, a good race to\nact as a stepping stone\nto her dream\nwould be...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about the Aoi Stakes?"
+            ]
+        },
+        {
+            "text": "It may be lower in status, but it'd be a\ngood way\nto get reacquainted with a\n1,200-meter race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's do it! It'll be the first step toward\nmy dream\nof being the most beloved\nrunner.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And so, we decide to set our sights on\nthe Aoi\nStakes!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...But not just the race. It might be time\nto put \"that\"\ninto motion.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "\"That\"?"
+            ]
+        },
+        {
+            "text": "Nothing! Let's do our best. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Nothing! Let's do our best. ♪",
+            "name": "Каррен Тян"
+        }
+    ]
+}

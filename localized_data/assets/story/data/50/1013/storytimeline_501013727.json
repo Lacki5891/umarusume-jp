@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Thank you so much, Trainer! I shall take\ngood\ncare of these and use them to\ndecorate my room!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Won't they all take up a lot of space?"
+            ]
+        },
+        {
+            "text": "Oh no, these are tiny compared to the\nones I\nbrought from home.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "In fact, this size would be easier to\nsnuggle up\nwith and fall asle—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ahem! N-never mind.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Anyway, you won these plushies for me,\nso I shall\ntreasure them always!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

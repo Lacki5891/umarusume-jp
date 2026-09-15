@@ -1,0 +1,78 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, we're volunteering to play with\nsome\nchildren at a nearby kindergarten.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here I cooome!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Yaaah! Ruuuuun!",
+            "name": "Energetic Child"
+        },
+        {
+            "text": "I'm gonna get yooooou!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик deftly chases the children\naround the\nplayground, until...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Eep!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Thunk!</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "C-Creek?!"
+            ]
+        },
+        {
+            "text": "She accidently hits her head full force on\nthe\nplayground equipment and sinks to\nthe ground.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> That bump earlier really startled\nme.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "A-are you okay?"
+            ]
+        },
+        {
+            "text": "I'm fine. I was seeing stars right when I\nsmacked\nmy head...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But after that, my mind actually felt\nsurprisingly\nclear. I had a really easy\ntime running for some\nreason.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hmm... Maybe... Maybe I can use this to\nmy\nadvantage in races?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hey, can we go back to the academy\nand test it\nout?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You're going to hit your head again?!"
+            ]
+        },
+        {
+            "text": "Ehehe! No, no! I just want to try running\nagain.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If all goes well, maybe I can make you\nsmile even\nwider! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик appears to have figured\nsomething\nout by hitting her head, and\nher running\nnoticeably improves!",
+            "name": "Монолог"
+        }
+    ]
+}

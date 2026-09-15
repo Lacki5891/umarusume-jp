@@ -1,0 +1,242 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Happy New Year, Trainer!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Thank you for all the support last year.\nI'm\nlooking forward to working with you\nthis year too.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...There. Got the formal greeting out of\nthe way.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What a polite young lady."
+            ]
+        },
+        {
+            "text": "\"Young lady\"? What are you, one of my\n\ngrandparents?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I grew up surrounded by adults, so they\nwere\nalways lecturing me about my\nmanners and\ngreetings.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You've been my trainer for a while too,\nso I just\nwanted to do things right.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, and about my New Year's\nresolution...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Did you decide on one?"
+            ]
+        },
+        {
+            "text": "Well, yeah, but...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "No, actually, why don't you share yours\nfirst!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The New Year's resolution I set for us is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's take extra care when coming up with a\ntraining routine!",
+                "Let's focus on health with a better diet!",
+                "Let's learn some new tricks to stand out!"
+            ]
+        },
+        {
+            "text": "Oho... You wanna make sure every part\nof our\ntraining has a purpose, huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Really considering the effects and stuff,\nright?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It sounds like Найс Нэйчер already has a\ngrasp of\nhow training affects her\nprogress. She is a smart\ngirl, after all. In\nthat case...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I think you can go even deeper than that."
+            ]
+        },
+        {
+            "text": "That's a very peculiar way of saying\n\"think\nharder.\" But yeah, I'll do as you\nsay.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And trust me, my mind will go as deep\nas it needs\nto go. I'll figure out your\ngame in no time.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A better diet?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I already pay attention to my diet,\nthough. I'm a\nyoung athlete, after all.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Are you paying attention to your snacking in\nthe shopping district too?"
+            ]
+        },
+        {
+            "text": "Urk! H-how did you know about that?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, the shop owners are so nice and\ngive me\nfood! There's no way I can reject\nthat kindness.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So please, Trainer! Is there any way you\ncould\nignore the snacking part?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "If you make your dinner proportionally smaller,\nsure."
+            ]
+        },
+        {
+            "text": "Uuuuugh, noooo!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Aw, geez, here we go... New tricks?\nStand out?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm no good at any of that. That stuff's\nonly for\nnaturally talented people.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But don't you want a secret weapon unique to\nyou?"
+            ]
+        },
+        {
+            "text": "Hmmm... I guess, but I can't help\ncringing at those\nphrases.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A secret weapon, huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, I've got a year. I'll keep an eye out\nfor\nthings that could potentially work.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "After discussing my New Year's\nresolution, I have\nanother thing I have to\ntalk to her about.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After discussing my New Year's\nresolution, I have\nanother thing I have to\ntalk to her about.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After discussing my New Year's\nresolution, I have\nanother thing I have to\ntalk to her about.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ummm... Тренер? What did you just say?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Токай Тэйо is going to be competing in the\nWakagoma Stakes!"
+            ]
+        },
+        {
+            "text": "Токай Тэйо is the strongest of her\ngeneration.\nThough earlier than\nexpected, Найс Нэйчер will\nface off\nagainst her in an open race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Geez... I was hoping I just misheard...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm joining that race to show everyone\nwhat I can\ndo... Ugh, why did Teio have\nto join?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You still have a chance!"
+            ]
+        },
+        {
+            "text": "You're my trainer! Of course, you'd say\nthat!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I mean it."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Urghhh, I guess I really have to do this...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I can see she's still wrestling with her\nfeelings but\nhas accepted the reality of\nthe situation. As long\nas we keep\ntraining, I'm sure we can win!",
+            "name": "Монолог"
+        },
+        {
+            "text": "By the way...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's your resolution?"
+            ]
+        },
+        {
+            "text": "Huh?! You want me to tell you now?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Umm... Uh... Soooo, my resolution is...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Top.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "Urgh! To slide on up to the top!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Don't get the wrong idea! I wasn't the\none who\ncame up with this resolution!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I went to the shopping district the other\nday to\nsay hi to people, and I happened\nto mention that\nI didn't have a New\nYear's resolution yet.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Everyone teased me into making an epic\n\nresolution!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So it's like... I set that as mine just to go\nalong\nwith it.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Well, let's slide into victory next race!"
+            ]
+        },
+        {
+            "text": "Ahhh, I can't! It's impossible!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I knew I shouldn't have said anything!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

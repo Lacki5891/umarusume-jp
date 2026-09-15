@@ -1,0 +1,38 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As summer camp draws to a close, Smart\nFalcon\nand I discuss our progress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I powered up! ☆ I've gotten super\nstrong, don't\nyou think?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You sure have!"
+            ]
+        },
+        {
+            "text": "I'm gonna be super competitive at the\nG1 level\nnow, don't you think?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You sure will be!"
+            ]
+        },
+        {
+            "text": "All right! ☆ I'm feeling extra confident!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Just you wait, JBC Classic! I'll take you\non right\nnow!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "There's still two more months, though!"
+            ]
+        },
+        {
+            "text": "An exciting summer camp comes to an\nend!",
+            "name": "Монолог"
+        }
+    ]
+}

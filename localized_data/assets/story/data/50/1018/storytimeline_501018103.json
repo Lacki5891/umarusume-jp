@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today marks the start of summer\ncamp—a\ntraining camp where many\nUmamusume come\ntogether to hone\ntheir skills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's the perfect chance to train Air\nGroove for the\nupcoming Shuka Sho.\nNaturally, my motivation is\nat an all-time\nhigh, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "You there—halt! We haven't done roll\ncall yet, so\ndon't go wandering off!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Honestly... Why do none of you seem to\nrealize\nthat we are <i>not</i> here for fun and\ngames?!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Looks like she's got a lot on her plate..."
+            ]
+        },
+        {
+            "text": "Oh, you're here.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Even at summer camp, the student\ncouncil takes a\nleading role. With\nstudents getting carried away\nin the\nbeach setting, we end up even busier\nthan\nusual.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But you can rest easy. I have no\nintention of\ncutting into our valuable\ntraining time.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Yeah, gotta make the most of our time here!"
+            ]
+        },
+        {
+            "text": "It's the ideal opportunity to prepare for\nthe Shuka\nSho, so we must—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hey! You there! Who said you could go\ninto the\nbunks? What class are you in?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув seems to have her hands full\nfrom day\none, but our summer camp is\nfinally here!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The sky was overcast before the race,\nbut now it's\nbright and sunny.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Crowd"
+        },
+        {
+            "text": "What an overwhelming sight.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Congrats, McQueen!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That was amazing. You did so well!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "The crowd... And my family...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "To think I would receive this amount of\npraise and\ncongratulations...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Look at what you just did! You deserve it all!"
+            ]
+        },
+        {
+            "text": "...Yes. I feel as though I finally\nunderstand now.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "What sort of objective I had actually\nset...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "And the joy of accomplishing it.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "So, does it feel good?"
+            ]
+        },
+        {
+            "text": "Yes... more than I could possibly put into\nwords!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "At times I felt troubled and wrestled\nwith\nself-doubt. But I never gave in, and\nfor that, I am\nhappy.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Happy to be the first Mejiro to achieve\nvictory in\nthe Twin Tenno Sho!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

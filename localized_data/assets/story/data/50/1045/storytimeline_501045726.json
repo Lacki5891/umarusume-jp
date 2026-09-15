@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm out with Super\nCreek...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Oh? Hehe, that could be fun. ♪",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What could be?"
+            ]
+        },
+        {
+            "text": "Look over there! It's filled with so many\ncute\nplushies",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I look in the direction Супер Крик is\npointing and\nsee a claw machine filled\nwith stuffed\nUmamusume toys.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, they're so cute. I just want to take\ncare of\nall of them!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I've never really tried these machines\nbefore...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "A troubled look spreads across Super\nCreek's\nface.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you want me to win you one?"
+            ]
+        },
+        {
+            "text": "Really? You'd do that for me? Well, if\nyou're\noffering, then I gratefully accept!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Good luck! Oh, but don't push yourself\ntoo hard,\nokay? That's a big no-no!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "There's no way I can fail!",
+            "name": "Монолог"
+        }
+    ]
+}

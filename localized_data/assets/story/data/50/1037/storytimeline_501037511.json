@@ -1,0 +1,227 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm walking through the hall on the way\nto my\noffice when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Forty minutes and thirty seconds have\npassed.\nLet's take a break, Scarlet.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh, it's gotten so late already... Sorry,\nbut I can't\nsolve this problem.",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "It's all right. I took into consideration\nyour\nattention span and tendency to\nfixate on difficult\nproblems when\ncreating the timetable.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You needn't feel rushed. We'll be able\nto cover\nall the test material without\nissue at our current\npace.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thank you, Flash... I really appreciate\nthis.",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Hehe. Think nothing of it. I take\nenjoyment in\nteaching you since you\ngrasp new material so\nquickly.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Two minutes, thirty-four seconds have\nelapsed.\nPrepare to resume. I'm certain\nyou can figure out\nthe problem after one\nmore attempt.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I wonder about that...",
+            "name": "???"
+        },
+        {
+            "text": "Pardon me. I just happened to overhear\nyour\nconversation while doing some\nresearch.",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Tachyon! What do you mean?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm just wondering if Scarlet might be\nslipping\nback into her bad habits is all.\nJust the other\nday...",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "I apologize for the wait, Scarlet. This\ntreatment\nagent is the byproduct we'll\nbe researching\ntoda—",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "<i>Zzz... Zzz...</i>",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Dried rheum around the orbicularis oculi,\nand\nedema of the upper arm and\nzygomaticus major\nmuscle...",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "It seems what you truly require before\nyour test is\na sofa in a dim environment\nin which you can\nacquire restful sleЭпизод",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Tachyon! I asked you to keep that\nbetween us!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Are you telling me you have been\nstudying\noutside our sessions and even\ngoing so far as to\nforgo sleep?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Urk! I'm sorry... I just really want to get\nthe\nnumber one score again, so...",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "No, it is I who should apologize. It's my\nfault for\nacting as your tutor while failing\nto comprehend\nyour needs and wants.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "To remedy this, I must ask Tachyon to\nenlighten\nme about this side of you I\ndon't know.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will use the information I gain to create\na more\nefficient schedule that better fits\nyour needs!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wh-what?! Don't go digging for more\n\nembarrassing stories about me! I'm\nembarrassed\nenough already!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "H-hey! You're Flash's trainer, aren't\nyou?!",
+            "name": "Дайва Скарлет",
+            "choice_data_list": [
+                "Huh? Me?"
+            ]
+        },
+        {
+            "text": "If you stop her now, um... Flash won't\nhave to work as\nhard and can focus on\ntraining better!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Trainer... Please don't try to stop me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "A better understanding of your tutee\nleads to\nincreased efficiency. As an\ninstructor, surely you\nunderstand.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "There's a faster way to solve this, you know.",
+                "Stick at it and learn everything you can about\nher!"
+            ]
+        },
+        {
+            "text": "A better understanding of your tutee\nleads to\nincreased efficiency. As an\ninstructor, surely you\nunderstand.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "There's a faster way to solve this, you know.",
+                "Stick at it and learn everything you can about\nher!"
+            ]
+        },
+        {
+            "text": "And that would be?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Team up with Tachyon and tutor Scarlet\ntogether."
+            ]
+        },
+        {
+            "text": "Ah! That's a fine solution. Tachyon can\nmake up\nfor anything I don't know about\nScarlet, and we\ncan cover double the\namount of material at once.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh! I'd feel doubly ready with two\nteachers\nhelping me!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Very well. I shall draft a new schedule\nright away.\nOne minute and fifteen\nseconds should suffice.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "While I don't mind contributing, I have\nan\nexperiment planned after this, Flash.",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "If I had assurance that I could conduct\nan\nequivalent experiment to make up for\nthe one I\nwon't get to perform today, I'd\nbe more inclined\nto help.",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "In that case, how about I help you with\nthe task\nyou mentioned yesterday?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh? Are you offering to participate in\nmy study\non the differences between\none's biological clock\nand real time?\nVery well, then!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "I've adjusted my schedule.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "For five minutes, I will explain how to\nsolve a\npractice question pertaining to\nthe material.\nThen, Tachyon will give\nyou problems that use\nthe same rules.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "All right! Sounds good!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Tachyon, I'd greatly appreciate it if you\ncould\nshare your knowledge on Scarlet's\nbad habits\nright away.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "W-wait! Wouldn't that be a waste of\ntime?",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "It's not a problem. It won't take me\nlonger than an\nhour and ten minutes to\ngather information on\nyou and organize\nit all.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The improved efficiency will compensate\nfor the\nlost time, so we technically won't\nbe going past\nschedule.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "While I don't mind contributing, I have\nan\nexperiment planned after this, Flash.",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "If I had assurance that I could conduct\nan\nequivalent experiment to make up for\nthe one I\nwon't get to perform today, I'd\nbe more inclined\nto help.",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "In that case, how about I help you with\nthe task\nyou mentioned yesterday?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh? Are you offering to participate in\nmy study\non the differences between\none's biological clock\nand real time?\nVery well, then!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Let's begin at once. It would behoove us\nto tackle\nthese questions as quickly as\npossible!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "I was not sure how things would turn out,\nbut I'm\nrelieved to know I can count on\nyour support.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "W-well, I'm not!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "It looks like Эйсин Флэш is having a\nreally good\ntime!",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looks like Эйсин Флэш is having a\nreally good\ntime!",
+            "name": "Монолог"
+        }
+    ]
+}

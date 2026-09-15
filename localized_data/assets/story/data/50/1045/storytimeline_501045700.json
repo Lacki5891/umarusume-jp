@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yaaawn...</i>",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "That's quite the yawn."
+            ]
+        },
+        {
+            "text": "Oh, goodness. Where are my manners?\nI'm sorry,\nTrainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I was up late last night sewing... I just\ngot so\ncompletely absorbed in my\nwork...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...I feel like giving someone a big hug.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Could you come here for a second?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик is swaying about,\nhalf-asleЭпизод It\nappears as though she\ndidn't get enough rest.",
+            "name": "Монолог"
+        }
+    ]
+}

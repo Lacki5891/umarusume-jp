@@ -1,0 +1,357 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Spring Fan Fest is finally here! While\nthe\nsports events are getting everyone\nexcited,\nКаррен Тян is..."
+        },
+        {
+            "text": "Okaaay! I'm gonna record. Everyone say\nthe\nmagic words! Ready... go! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Cute Curren Chaaaaan!",
+            "name": "Curren Fans"
+        },
+        {
+            "text": "...Yep! Perfect! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Thank you sooo much! I'm gonna have it\nenlarged\nand hang it in the prettiest part\nof my house!",
+            "name": "Curren Fan A"
+        },
+        {
+            "text": "I'm so glad you like it! ♪ I hope you'll\nkeep\ncheering for me!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Of course!",
+            "name": "Curren Fans"
+        },
+        {
+            "text": "As always, Каррен Тян is taking good\ncare of her\nfans."
+        },
+        {
+            "text": "Sorry to keep you waiting, Big Bro!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You really are popular."
+            ]
+        },
+        {
+            "text": "Sorry to keep you waiting, Big Sis!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You really are popular."
+            ]
+        },
+        {
+            "text": "Haha, you're just realizing that now?!\nI've always\nbeen like this!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ohhh... Or were you just sad because I\nleft you all\nalone?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "text": "You can be so cute sometimes. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You can be so cute sometimes. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I might not be able to give you too much\n\nattention going forward, though.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I've got a lot of races coming up... And\nwith even\nmore fans, I'll probably be\nstopped a lot more\ntoo.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You seem pretty excited."
+            ]
+        },
+        {
+            "text": "Yeah! This is my chance!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "There are so many people here. We've\ngotta tell\nthem all about the Cutie ♪\nDerby!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "True to her word, Каррен Тян reaches\nout to\neveryone she can."
+        },
+        {
+            "text": "Forcing her way through the mud\nwithout any\nhesitation, Каррен Тян wins\nthe \"Push Ahead!\nDirt and Mud Race!\"",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Ewww! I'm covered in ooze!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She's cute even when she's muddy! How\ndoes she\ndo it?!",
+            "name": "Curren Fans"
+        },
+        {
+            "text": "I've been seeing a lot of her lately. She's\nreally\ngot some guts.",
+            "name": "Fan A"
+        },
+        {
+            "text": "Whew... How do I look, Big Bro? Did I\nget it all\noff?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Yeah, you're good."
+            ]
+        },
+        {
+            "text": "Whew... How do I look, Big Sis? Did I\nget it all\noff?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Yeah, you're good."
+            ]
+        },
+        {
+            "text": "Okay, good. Time for a little break...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh! Каррен Тян! I found you!",
+            "name": "International Репортёр"
+        },
+        {
+            "text": "My crew and I have come from abroad.\nCan I\nhave a little bit of your time?",
+            "name": "International Репортёр",
+            "choice_data_list": [
+                "(From abroad?!)"
+            ]
+        },
+        {
+            "text": "We'd like to cover this Cutie ♪ Derby\nwe've been\nhearing about, if you don't\nmind!",
+            "name": "International Репортёр"
+        },
+        {
+            "text": "...Yes, of course! ♪ Ask me anything you\nwant!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Then we'll see you again at the\nSprinters Stakes!\nCute Каррен Тян!",
+            "name": "International Репортёр"
+        },
+        {
+            "text": "Wonderful! Thank you so much! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...Curren?"
+            ]
+        },
+        {
+            "text": "...Yeah! I'm fine! I didn't think they'd\ncome all the\nway from overseas to cover\nmy Cutie ♪ Derby!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "So even people in other countries are\ninterested...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "All right! Time to think about my next\nrace.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Already?!"
+            ]
+        },
+        {
+            "text": "Obviously! Just take a look around you.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Obviously! Just take a look around you.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Squeal!</i> Дайва Скарлет! Водка!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Eeek! Look! Dober and the\nvice-president both\nlook so coooool!",
+            "name": "Students"
+        },
+        {
+            "text": "...Sure, there are a lot of people\nwatching me, but\nI still get\novershadowed at events like this with so\n\nmany popular runners around.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I need to run in another race where I can\nstand\nout...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян is deep in thought. She\nseems to be\neven more aware of\npeople's gazes than usual.\nAnd so, she\nchooses..."
+        },
+        {
+            "text": "And that's the end of the scavenger\nhunt! The first\none to cross the finish line\nis...",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Yay! ♪ I'm number one!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян finished the \"find the booth\nwith\nyour uniform and change\" task in an\nastounding\none minute and six seconds!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Thanks for your support, everyone!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wooooo! Cute Curren Chaaaan!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...Thanks! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Maybe I shouldn't have chosen the\nscavenger\nhunt.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Everyone seemed to like it..."
+            ]
+        },
+        {
+            "text": "Sure, everyone <i>seemed</i> pretty happy,\nbut I felt\nlike it was a bit predictable.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Since the scavenger hunt is such a\npopular race, I\nfigured I could really\ndazzle the crowd and get\nthem more\nhyped than they were.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hm... I guess I need to add an element\nof surprise\nto my next plan...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm gonna run in a long-distance\nmarathon!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "I already know what you're thinking. You\ndon't\nthink I can finish a long-distance\nrace, right?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I already know what you're thinking. You\ndon't\nthink I can finish a long-distance\nrace, right?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "That's just why no one will expect it. I'm\nsure it'll\ncatch everyone's attention.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And if I win... don't you think the\nreaction will be\nsomething else?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She's right. It'll certainly be a hot topic if\nshe wins.\nBut there will definitely be\nrunners participating\nwho excel at\nlong-distance."
+        },
+        {
+            "text": "...Don't worry. We've already come so far\n\ntogether.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Don't worry. We've already come so far\n\ntogether.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I don't just plan on running because it's\n\nunexpected. I'm gonna run to win.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And now it's time for the marathon\nfinale! The\nfirst runner to cross the finish\nline is...",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Huff... Huff... Huff...</i>",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Whew...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Great job out there."
+            ]
+        },
+        {
+            "text": "Thanks...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But I ended up losing. After I talked it\nup so much\ntoo... Pretty lame, huh?\nHaha.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I don't think so."
+            ]
+        },
+        {
+            "text": "As proof..."
+        },
+        {
+            "text": "Curren Chaaaaan! You ran great today!\nAll the\nway until the end!",
+            "name": "Spectators"
+        },
+        {
+            "text": "She's a sprinter, isn't she? I should look\nher up\nlater and see how she usually\nruns.",
+            "name": "Spectators",
+            "choice_data_list": [
+                "You ran your heart out, and now everyone's\nlooking at you."
+            ]
+        },
+        {
+            "text": "...Haha! ♪ I guess today was a huge\nsuccess then!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "A loss is a loss, and I'm so totally not\ncute right\nnow. But... I think everyone\nfelt how serious I was.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Was that all part of your plan?"
+            ]
+        },
+        {
+            "text": "...Hehe. I dunno, maybe!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But... you <i>are</i> the one who told me I look\ngood\nwhen I'm working hard!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But... you <i>are</i> the one who told me I look\ngood\nwhen I'm working hard!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян falls deep into thought...\nand then\nlooks as if she's found a hint\nfor what to do next."
+        },
+        {
+            "text": "Even though the odds were stacked\nagainst her,\nit's clear she still gave it her\nall. The applause for\nher goes on for\nquite some time."
+        }
+    ]
+}

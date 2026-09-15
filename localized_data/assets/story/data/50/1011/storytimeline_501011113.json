@@ -1,0 +1,342 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, not long before Grass\nWonder's debut\nrace...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I head to the training course to get\neverything set\nup before Грасс Вандер\narrives. But when I\narrive...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew... That'll do.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All warmed up and ready! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay... let's do this!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Dashing off with a seemingly effortless\nburst of\nblinding speed is Марузенски,\nan Umamusume\nwho has earned herself\ncountless epithets.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've seen her on TV, in magazines, and\nonline\nplenty of times before, but seeing\nher run in\nperson... Her form is\n<i>breathtaking.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe! That was fantabulous!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Since she tends to take an immediate\nlead in her\nraces, Марузенски is\ngenerally classified as a\nfront runner.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But it seems like less of a conscious\nstrategy, and\nmore that she's so\nimpossibly fast, no one else\ncan get\nahead of her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All revved up... so now I floor it!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "(She has so much power!)"
+            ]
+        },
+        {
+            "text": "A fearsome \"Beast,\" through and\nthrough. She's\nwell-deserving of the\nnickname.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Grass! I didn't know you were here."
+            ]
+        },
+        {
+            "text": "I just arrived, actually. I'm ready to begin\nat your\nearliest convenience.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We don't have time to waste on gazing\nin\nadmiration.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Let us focus squarely on our own efforts.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "For sure!"
+            ]
+        },
+        {
+            "text": "Грасс Вандер's fighting spirit burns\nbright and\nnever wavers, not even in the\npresence of the\nBeast.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I conduct her training with a\nstrengthened sense\nof purpose to help\nget her to the very top.",
+            "name": "Монолог"
+        },
+        {
+            "text": "On another day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Грасс Вандер joins a scrimmage with\nother\nUmamusume scheduled to debut\nthe same time as\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant...</i>",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "W-wow... Grass's acceleration is\nincredible!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Talk about scary.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "When she gets that \"gotcha!\" look in her\neyes,\nGrass is the last person I want to\nbe up against...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Really? That look gets me fired up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, most of us aren't masochists,\nunlike you.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Qué dices?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Only 200 left! Grass is leading!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "<i>Huff... huff... huff...</i>",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер leaves the rest of the\ncompetition\nin the dust and takes first\nplace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "1,600 meters of turf in just a minute and\n\nthirty-four seconds... It's hard to believe\nthis is\nthe work of a junior-year racer!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The reporters who came to the\nscrimmage also\ntake notice of Grass\nWonder.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hooooly moly... Fantastic! What was her\nname\nagain?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "It's Грасс Вандер.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I couldn't be happier seeing you enjoy\nthis\nscrimmage between the\nup-and-coming\nUmamusume.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oh, Симболи Рудольф! I was able to\ncapture so\nmany great pictures today!\nEspecially of that last\nrunner!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Who in this generation has the most\npotential in\nyour eyes?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Well, it goes without saying that every\n\nUmamusume has a great deal of\npotential.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "For one, there's Эль Кондор Паса. She\nproudly\nclaims to be the world's\nstrongest racer, and\nmakes an inspiring\namount of effort to keep\nimproving.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Then there's Сэйун Скай. She tends to\nstay out of\nthe spotlight, but once she's\non the track, you see\njust how many\ntricks are up her sleeve.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Another one of note is Спешл Уик.\nDespite the\nchallenges she seems to be\nfacing adjusting to her\nnew\nsurroundings, no one can deny the\nbrilliance\nof her skill.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Mhm! Right, right! Those names have all\ncome up\na lot recently!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "I'm sure they have. But let's not forget\nGrass\nWonder.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oh! The Umamusume from the race just\nnow!\nWhich reminds me...",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "One minute and thirty-four seconds over\na\ndistance of 1600 meters... That's the\nsame as a\ncertain record performance at\nthe Asahi Hai F.S.!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Surely nobody could see that time and\nnot be\nreminded of the legendary Beast,\nМарузенски!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Yes... Now that you mention it, the\nsimilarities are\nquite the remarkable\ncoincidence.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Yeah, yeah! And you know what that\nmeans?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Грасс Вандер could be the next\nМарузенски! You\ncould even go so far as\nto call her the \"Beast's\nSuccessor\"!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Graaass! Great race! Your time was\namazing!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Grass?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Huh? Oh...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Thank you, Spe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The... \"Beast's Successor,\" you say?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I sure do! Everyone in the media booth\nwas saying\nso after seeing her race\ntoday! She's got what it\ntakes to live up\nto those expectations!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Марузенски is so dominant that just\nsaying her\nname brings so many\nlegendary moments to mind.",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "And just between us, it was precisely\nthat \"Hot\nRod\" who inspired me to\nbecome a huge\nUmamusume fan!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Quite understandable.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Not only is she undefeated, but in just\neight races\nsince her debut, she\nachieved an unprecedented\nsum of 61\nlengths in their combined margins of\n\nvictory.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That commanding lead has inspired\npeople to\nrefer to her races as \"solo\njourneys,\" giving her\nsuch an intimidating\nreputation...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...it's even resulted in Umamusume\nwithdrawing\nfrom their scheduled races\njust because they\nknow Марузенски will\nbe entering.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I know, right?! I heard they almost had\nto cancel a\nrace 'cause there weren't\nenough participants!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "It's good that it didn't come to that, but\neven so...\nThe fact that she's never found\nherself in a race\nwith a double-digit\nracer count is a crazy feat in\nits own\nright!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "That's why people started calling her the\nBeast in\nthe first place... But now, Grass\nWonder has\nentered the picture!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "...Hmm.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She's already this strong, and she hasn't\neven\ndebuted yet! Heck, she hasn't even\nbeen <i>scouted\nyet!</i>",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "And what's more, she's got that\nunshakable\nserene confidence! She\nmakes her wins look so\neffortless, other\nracers can't hope to compete!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "She's right up there with Марузенски! I\nthink the\nBeast's Successor would be the\nperfect nickname\nfor her!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "You make an intriguing point.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "As you might surmise from my naming\nher as an\nexample, I also have high\nhopes for Grass\nWonder.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But I say that because...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Hey Grass, are you going back to the\ndorm after\nthis? We could go togeth—",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Sorry, Spe, but I can't.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm going to drop by the gym, so please\ngo on\nahead without me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "H... huh?! You're going to the gym at\nthis hour?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But I say that because...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Грасс Вандер herself carries unyielding\n\ndetermination to reach the top.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...The Beast's Successor.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I should feel honored to be mentioned in\nthe\nsame breath as her. But...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The title of \"Successor\" isn't suitable for\none who\nstands at the top.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I could never be content with it.",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

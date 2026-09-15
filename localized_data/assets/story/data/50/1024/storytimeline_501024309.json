@@ -1,0 +1,158 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "No... I was so close!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tch...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...So this is how it is.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Nooo! Why are you making that face?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Don't look at me like I'm not even a\nthreat to you!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Grrrrr... But...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm back!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Well done out there!"
+            ]
+        },
+        {
+            "text": "Back already?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wait, what?! How come you're here,\nHishiama?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I came to support you, of course...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I see! Perfect timing!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Please help me train! We can even start\ntoday!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Huh?! What's gotten into you?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I can't stand it! I wanna get better—and I\nknow I\ncan!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I mean, it sucks! I was all excited again!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But Brian still out-twinkled me!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I don't wanna lose like this again! I don't\nwanna\ncall it quits.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Please help her!"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> Two selfish peas in a pod...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Still, that's just the kind of passion you\nneed to\nrace.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Plus, I've gone too far to turn back now!\nI guess I\ncan help you out a little more.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We're going to train until you're begging\nto stop,\nMayano! I hope you're ready!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Got it! Thanks!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's what I want to hear! Keep up that\n\nenthusiasm!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Work at nothing less than max strength!\nIf you\ndon't take your best swing at it for\nthe sake of\nyour future, you might as\nwell raise a white flag\nright now!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Roger!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Okay then.... Why don't we have a\nstrategy\nmeeting? Listen up, Mayano.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Your next chance to race against Brian\nwill be the\nspring Tenno Sho.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The spring Tenno Sho...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The spring Tenno Sho—a\nwell-established\nlong-distance race for\ntop-class racers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm pretty certain she wants to run\nagainst the\nbest racers.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She probably saw the Hanshin Daishoten\nas the\nbest route to get there.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Got it. Тренер?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Got it. Let's go to the spring Tenno Sho."
+            ]
+        },
+        {
+            "text": "Copy that!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "With that, we set our sights on the\nspring Tenno\nSho!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Кинг Хало hasn't shown up for training.\nWorried, I\ngo looking for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...So I decided to tell the reporters this:",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Perhaps this needs quotes as well.\"I,\nКинг Хало,\nthe most intelligent and\nfirst-rate Umamusume...\"",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "\"Shall one day reign from atop the\nworld!\"",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You really are the coolest, King!",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "Can I have your autograph?!",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "Ohohoho! But of course. That's no\ntrouble at all.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll even sign ones for your family and\nfriends. I'll\nsign every piece of paper you\nhave!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Ahem..."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Ah!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Aaaahh! T-t-t-training!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's clear Кинг Хало feels bad for missing\npractice.",
+            "name": "Монолог"
+        }
+    ]
+}

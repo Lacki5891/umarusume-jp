@@ -1,0 +1,235 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As promised, Эль Кондор Паса shows up for\ntraining the following day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's fearless, she's bold, she's El Condor\nPasa! Having overcome her\ninjury, she\nmakes her triumphant return to the ring!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Good morning."
+            ]
+        },
+        {
+            "text": "Oh, hello and good morning. You're\nawfully calm, Trainer.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So I gotta know! What kind of extremo\ntraining are we doin' today?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Is it gonna be thirty laps at top speed?! Or\nmaybe hill sprints until the\nsun goes\ndown?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Running around town while givin' you a\npiggyback ride doesn't sound\nbad either!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "How about we do some light jogging on dirt\ntoday?"
+            ]
+        },
+        {
+            "text": "I see, I see, I see! Some light joggin'—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wait, whaaat?! Sorry, did I hear you right\njust now? Trainer, could you\nrepeat that?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "How about we do some light jogging on dirt\ntoday?"
+            ]
+        },
+        {
+            "text": "The exact same sentence—word-for-word!\nWhat are you, stuck on\nrepeat?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Why?! Why are you doin' this to me,\nТренер?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>I</i> am the Umamusume who will one day\nbecome the world's strongest\nracer! The\ncondor who will rule over the skies of\nchampions!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Do you really think I have even a second\nto waste on dillydallying on\nthe ground?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Fundamentals are important too, you know?"
+            ]
+        },
+        {
+            "text": "Grr... Urghhh!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...I understand. I'll run—for now. But if you\nchange your mind, tell me\nright away,\nokay?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Sigh...</i> How am I supposed to soar the skies\nwith this kind of normal\ntraining?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Despite her complaints, Эль Кондор Паса\nmakes her way to the dirt\ntrack and begins\nrunning.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... I finished that light jog you wanted\nme to do, Trainer.",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "How are your legs feeling?"
+            ]
+        },
+        {
+            "text": "Qué? Uh, they're fine... No pain at all in\neither leg.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Wait, don't tell me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Trainer, you made me do light training\nbecause you were worried\nabout my legs?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "C'mon, no need to make a fuss! If I'm\ngonna prove myself as the\nworld's\nstrongest racer, then we don't have time to\nworry about this\nkinda stuff!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You can't become the world's strongest if you're\ninjured."
+            ]
+        },
+        {
+            "text": "Agh. You're right about that, but... But!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm sad, shocked, even disappointed. I was\n<i>really</i> lookin' forward to\nyour training\nprogram, you know.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Could it... Could it be that you never\nactually believed in me from the\nstart?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Did you think that fundamentals training\nwas just right for a\nloudmouth like El\nCondor Pasa?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I bet you don't even believe that I could\nbecome the world's strongest\nracer, do\nyou?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "No, I do want to prove that you're the\nstrongest!"
+            ]
+        },
+        {
+            "text": "Urk! S-such fiery eyes! That's the passion I\nknow and love!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "B-but now I'm even <i>more</i> confused! If what\nyou said is true, then\nwhat's this training\nfor?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "It's to condition your body into becoming the\nworld's strongest racer!"
+            ]
+        },
+        {
+            "text": "Condition my body?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса is still growing. If she\npushes herself too much now,\nthere's a\nchance she might develop a chronic injury.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I explain to her that's why I want her to do\ntraining that suits her\ncurrent strengths so\nthat one day, when she's ready, she'll have\na\nbody ready to truly become the world's\nstrongest racer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I see. I see, I see—I totally understand.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Um, actually, you lost me with all the lingo\nin the middle. But at the\nvery least...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I get that you're serious about training me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So... there's something I want to ask you.\nAnd I want you to put your\nall into this\nanswer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The world's strongest racer—she flies\nacross the turf at the speed of\nlight!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And her name is?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Эль Кондор Паса!"
+            ]
+        },
+        {
+            "text": "Correct! Bueno!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You replied with zero hesitation, which\nmeans you really do believe in\nme!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса flashes me a satisfied smile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm... Why don't we do this again from the\ntop?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "From the top?"
+            ]
+        },
+        {
+            "text": "Just wait riiight there!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Here I go!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Blam! The lightning-quick Umamusume\nwho runs through storm and\nsquall! Her\nname—Эль Кондор Паса!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Also known as... your new trainee! She's\nhere and reeeady to\nruuumble!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And on that note... Trainer, I'm looking\nforward to our new\npartnership!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And so, I took my first step towards\nsoaring the skies with El Condor\nPasa!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, with that over, let's get back to\ntraining! Wanna run with me,\nТренер?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Picture it—beside the world's strongest\nUmamusume stands her\ntrainer, the world's\nstrongest muscle behemoth! I think we\ncould make\nit work, don't you?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ah! Wait up, Trainer! Don't be like that!\nCome back! Why are you\nrunning?!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

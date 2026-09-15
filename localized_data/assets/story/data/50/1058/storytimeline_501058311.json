@@ -1,0 +1,188 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I did it!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Nooo, the bountiful luck I gathered\nstood no\nchance against Doto!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I concede! You are truly... Buddha's\nchosen child!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Мэйсё Дото secures a win against\n\nMatikanefukukitaru.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Since you are the victor of this race... I\nshall\ncelebrate by imparting all my luck\nunto you!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "O shimmering light! I ask you to descend\nupon\nDoto!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Huh, what is this... light?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Doto, I call myself your best friend, and\nyet I've\nnever done a single thing for\nyou.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Which is why, please, you must take this\n\nmysterious lucky power. It is the least I\ncan do! I\ngive my protection to you.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Whatever toils and troubles come your\nway, with\nthis light by your side, you will\nbe fine!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Whatever the case, you're bound to feel\nlucky! I\ncan't do anything to prove that,\nbut...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It'll make me feel lucky? Th-thank you\nso much,\nFukuki—no, <i>Master</i> Fukukitaru!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I vow to go on with this light by my side!\nI won't\nbow down to any baseless\nnegativity on my part!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "While the effects of\nMatikanefukukitaru's\ncelebratory ritual\nremain a mystery, it appears\nshe\norchestrated this challenge to send Doto\non\nwith her good-luck wishes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haaah ha ha! What a marvelous\nceremony of\ninheritance! It appears the\ntime has finally come!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "O-Opera O!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Bravo! I congratulate you on your\nstunning\nvictory! And rejoice for our\nglorious path lying\nahead!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Doto, come hither. We must travel to\nour fated\nplace, the festival of spring,\nthe Takarazuka\nKinen!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Consider this a personal invitation. You\nmay\naccept—if you're willing to become\nmy knight,\nthat is!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Your knight...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Trainer, do you think I can do it? Can I...\nprotect\nOpera O?!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Of course you can—no doubt about it!"
+            ]
+        },
+        {
+            "text": "Thank you so much! Then...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll be there with you at the Takarazuka\nKinen,\nOpera O!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Her lively, high-pitched voice echoes far\nand\nwide. After a long period of small\nvictories,\nМэйсё Дото finally stands at\nher idol's side.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, if today is anything to go by... I\nthink I'll\nbe able to hold my own against\nother racers in a\nsenior G1.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "My body and heart have become\nstronger, and\nnow, I even have luck with\nme.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Heheheh... Hahaha!",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "That was a decent run, Doto.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Huh, Shakur?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But don't get it twisted. The reason you\nwon\ntoday has nothing to do with your\nheart or any of\nthat mushy crap.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Your numbers were enough... for today.\nIt's that\ndamn simple.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "But, Shakur... I thought you said before\nthat I\nwasn't enough...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Yeah, 'cause you were all brawn, no bite.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "You were getting physically stronger,\nsure, but\nyou were still lacking the\nmental coordination to\nuse your body\neffectively.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "But someone's been slowly building up\nyour inner\nstrength under the guise of all\nyour emotional\ncrap.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Building up... my inner strength?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But that person would need to be always\nwith me\nto do that... Um...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Wait?! Trainer's always around...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ever since hearing Air Shakur's advice\nlast time,\nI've been extra conscious of\nDoto's training data.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her record times have been steadily\nimproving\never since her debut. Maybe\nthat has something\nto do with today's\nresult.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But, the real problem is from here on\nout.\nEveryone else is just as ready as you\nare.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "It's gonna take a whole lot more to keep\nthe\nturnaround. You have a threshold to\npass...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "You're trying to overtake the generation\nahead\nof you, right? Hope you and\nOpera O are\nprepared for despair.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "You've also gotta worry about me\ncatching up,\nafter I get my Classic Triple\nCrown.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Shakur...",
+            "name": "Мэйсё Дото"
+        }
+    ]
+}

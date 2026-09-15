@@ -1,0 +1,67 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I thought Мэдзиро МакКуин would return\nto her\ndorm after training today, but\nstrangely enough,\nshe's returned here.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, I need to continue building up\nmy\nstrength. Please, will you extend\ntoday's training\nsession?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Did something happen?"
+            ]
+        },
+        {
+            "text": "...On my way back, I happened upon\nRyan, who\nsaid she was on her way to\nbegin training.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I cannot allow myself to rest knowing\nshe's out\nthere putting in more work.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My aim is to always maintain a\nmagnificent lead. I\ncannot afford to fall\nbehind.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Well, let's chase after that goal, then!",
+                "I can't allow it. An extension wouldn't prove\nefficient."
+            ]
+        },
+        {
+            "text": "Thank you so much! I'm glad you\nunderstand how\nI feel.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Keep a steady eye on me. I won't try to\ndo the\nimpossible, but I will try to do my\nbest.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "One might say I'm overworking myself,\nbut it\nwould be more of a waste to\nignore this current\nsurge of energy!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "There's no need to rush things."
+            ]
+        },
+        {
+            "text": "Rush things? That's not...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "No, perhaps I have lost a bit of my\ncomposure.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I would further lose the path forward if I\ncannot\npractice self-discipline. Dignity is\none of the core\ntenets of the Mejiro\nfamily.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Within reasonable limits, Mejiro\nMcQueen and I\ncontinue with our\ntraining for the day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро МакКуин heeds my concern and\nreturns to\nher dorm.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I... ran in the autumn Tenno Sho.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I was able to put up a decent fight and\ndeliver,\neven in a high-level race.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I didn't think about my limits... I just\nraced my\nway, and I grasped something\ngreat.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...At this rate, I'm going to reach my\ndream, aren't\nI?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "My dream of becoming a star.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I... I want to...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I want to get closer to being a shining\nstar!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Trainer, I have a favor to ask you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The Arima Kinen is going to be the last\nrace of my\nsenior year. So before that, I\nwant to run one\nmore race.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "text": "I want to gain more confidence. I want a\nvictory in\na race that I'm determined to\nwin from the start.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I want to run a race where I truly believe\nin myself\nand my abilities... only then\ncan I run in the Arima\nKinen.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The old Найс Нэйчер would probably be\nseeking\nself-confidence in further races,\nbut she doesn't\nneed that now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She has that confidence. What she wants\nnow... is\nstrength.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It'll be back-to-back. Is that okay?"
+            ]
+        },
+        {
+            "text": "I'm sure it'll be just fine!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What can I say? Down-and-dirty running\nis my\nforte.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'll never use stamina or fatigue as an\nexcuse not\nto run. So... can I?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "text": "Thank you! I'll leave the decision of\nwhich race up\nto you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm tagging you in for the heavy\nthinking!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Looking at her previous races and\nconsidering the\nremaining time until the\nArima Kinen, I decide the\nbest choice\nis...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about the Chunichi Shimbun Hai?"
+            ]
+        },
+        {
+            "text": "Although a lower-tier race, it's an event\nwhere\nНайс Нэйчер is sure to deliver\nresults. We can\nconfidently aim for first\nplace!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Chunichi Shimbun Hai. Now that's a\ngood\nchoice... I'll finish first there.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'll win and then I'll face <i>her</i> proudly!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Anyway, what should I have as a\nreward for\ntoday? Fishcakes, perhaps?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "After leaving the racecourse, as usual,\nwe stop by\nthe shopping district at Nice\nNature's request.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Dootie-do-doo! ♪ Dootie-doo! ♪",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Oh, it's Nature!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Teio!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What're you up to? Hanging out with\nyour\nТренер? Aren't you two cute! ♪",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Nah, we just finished a race, actually.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Is that right? Congrats! I went to\nkaraoke!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You have to practice for your concerts\ntoo, you\nknow!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Ouch, don't mention that...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Dootie-do-doo! ♪ Dootie-doo! ♪",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Ah! That song...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's the song for the coming Arima Kinen.\nI have\nto memorize it.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "It's the culmination of our senior year!\nThere's no\nway I'm not running!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I won't give up the center position to\nanyone\neither. No matter who I'm up\nagainst!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...I don't expect anything less. You're\nalways\nlooking ahead.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're competing there too, right?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Yeah, but... how did you know?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You've been doing pretty well lately.\nPlus, I don't\nskimp on information\ngathering!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I... had no idea you were aware of me...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Tell me something, Nature.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Are you willing to bet everything you\nhave to\nbeat me?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Let me tell you, I'm constantly\nexceeding my\nlimits. If you come at me\nhalf-heartedly, you\nwon't stand a\nchance.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "A race is only worthwhile if I compete\nagainst the\nbest and beat the pants off\nthem.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "So I'm gonna ask you one more time...\nDo you\nreally think you can beat me\nnow?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...W-well, I—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "There's no way Natie will lose!",
+            "name": "Shopkeeper A"
+        },
+        {
+            "text": "What? What are you sa—wait, what are\nyou guys\ndoing?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Without us realizing it, everyone from\nthe\nshopping district has gathered\naround us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why are you so quiet, Natie? This girl is\ntaunting\nyou!",
+            "name": "Shopkeeper B"
+        },
+        {
+            "text": "Come on, show us that same ferocity you\nshow us\nwhen you ask for a discount!",
+            "name": "Shopkeeper C"
+        },
+        {
+            "text": "Th-this is not the same as haggling!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It doesn't matter what the people\naround you\nthink. What do <i>you</i> think,\nNature?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I... That's...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's okay, Natie, you're stronger than\nbefore!\nYou're unbeatable now!",
+            "name": "Shopkeeper A"
+        },
+        {
+            "text": "You've got us, Natie! There's nothing to\nbe scared\nof!",
+            "name": "Shopkeeper B"
+        },
+        {
+            "text": "Uuugh...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Get her, Natie!",
+            "name": "Shopkeeper C"
+        },
+        {
+            "text": "Ugh! All right!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm going to win!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I going to beat you and shine like the\nstar I am!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Heh. That's what I was waiting for. I see\nit\nnow—your determination.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Looks like this is shaping up to be a lot\nmore fun\nthan I expected. Don't let me\ndown.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...Hahaha. <i>Sigh.</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...it.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature?"
+            ]
+        },
+        {
+            "text": "N...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Now I've done it!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер's mournful cry echoes across\nthe\nevening sky.",
+            "name": "Монолог"
+        }
+    ]
+}

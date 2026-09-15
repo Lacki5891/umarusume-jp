@@ -1,0 +1,185 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During lunch break, I happen across El\nCondor\nPasa and Грасс Вандер playing\na game in the\ncentral plaza.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Trainer! Perfecto! Come judge our\ncoin\nflippin' match!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The rules are a cinch. I flip the coin, and\nGrass\ncalls heads or tails!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Sorry to spring this on you so suddenly.\nEl was\njust so happy she learned how to\nflip a coin.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Would you be willing to humor her for a\nshort\nwhile?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And so I somewhat forcibly end up being\nthe\nreferee for their game.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh heh heh! Let's get started!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, Grass! Heads or tails?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hmm, what to choose? I'll go with...\ntails?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Pobrecita! It's heads! I win!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Heh heh heh! Wanna go next, Тренер?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "May I have another go first?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As Грасс Вандер's trainer, I know just\nhow much\nshe hates to lose. Is this game\nabout to turn into a\nbattleground?!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Which is it?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Perhaps... heads this time?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Nope! Tails!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Tails?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Wrong!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's ten wins in a row for me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I don't know what Lady Luck has against\nher, but\nGrass Wonder can't seem to win\nat all.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And once again, as her trainer, I can\nsense that\nbehind her calm demeanor\nlies an inferno that's\nonly growing\nstronger!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The lunch period is almost over, so let's\ndo one\nfinal round.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "One for all the marbles! Ready, vamos!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Dah! Wh-whoa!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса fumbles before catching\nthe coin,\nallowing me to see that it\nlanded on tails.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew! Nearly dropped it there! Now...\nwhich is it?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The coin is hea...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Give her a sneaky sign.",
+                "Cheer her on."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Heads. The coin landed on heads.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер's chance to win it all ends\nin\nfailure.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for your support, Trainer. I\ntruly\nappreciated the gesture.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But... there's no point in winning if I\ndon't do it on\nmy own.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe. Thank you, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Well... why don't we change things up a\nlittle?\nWhich do <i>you</i> think it is, El?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Surely you can feel the difference\nbetween heads\nand tails by now?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh? A battle of wits now, is it? You're\non!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hmm, I think... tails!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Then... I'll take your word, El. The coin is\ntails,\nno?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The battle for all the marbles comes to a\nclose\nwith Грасс Вандер's tactical\nadjustment resulting\nin victory.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe. You know, Trainer, I think I might\nactually\nhave your support to thank for\nthat victory.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Apparently Grass and El's contest\ntriggers a\nfull-on coin-flipping fad in\ntheir class, and a few\ndays later, I see\neveryone outside playing\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next day, I spot her in the library\nreading a\nbook titled <i>Probability.</i>",
+            "name": "Монолог"
+        }
+    ]
+}

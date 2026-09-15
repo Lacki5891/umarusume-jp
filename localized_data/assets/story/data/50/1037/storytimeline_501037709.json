@@ -1,0 +1,57 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's unfortunate that I failed to win first\nplace, but\nI must accept the outcome as\nit is.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There will inevitably be times where\neven perfect\npreparation will not\nguarantee victory.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But so long as I continue training\naccording to\nthis schedule, victory\nshould still be within reach.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You did your best, and that's what counts!",
+                "Let's aim even higher next time!"
+            ]
+        },
+        {
+            "text": "But so long as I continue training\naccording to\nthis schedule, victory\nshould still be within reach.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You did your best, and that's what counts!",
+                "Let's aim even higher next time!"
+            ]
+        },
+        {
+            "text": "I suppose. I certainly committed myself\n\nwholeheartedly to this endeavor.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So despite being unable to win first\nplace, it is\npossible to say that I won the\nbattle with myself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Of course! I have no intention of giving\nup now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "While these results are within the realm\nof\nexpectation, I am not satisfied with\nthem.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'll need a well thought-out plan if I\nhope to\nachieve my goals.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...Thank you for your support. I vow to\nemerge\nvictorious next time.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Let's begin preparing for the next race\nonce we\nget home.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

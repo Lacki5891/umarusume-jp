@@ -1,0 +1,99 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Your running is incredible, Hot Rod!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Thanks for giving us such a fun race!\nCome to\nFukushima again sometime!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Thanks for your support! The scenery\naround the\ntrack is gorgeous! I'll\ndefinitely be back!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски has a great race during\nsummer\ncamp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, it's already getting dark...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'd have loved to spend the night there,\nbut we\nhad to get back to camp.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I enjoyed the race so much, though!\nSummer\ntraining has really paid off!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It was a great race! No notes!"
+            ]
+        },
+        {
+            "text": "Hehe, thanks. I wonder if everyone else\nhad a\ngreat time too.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, Марузенски!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hey, Spe!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Welcome back! Wait, I mean, when did\nyou go to\nFukushima?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "When I saw you on the live broadcast, I\nthought\nyou must have a twin!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Heehee! I'm glad I caught you by\nsurprise!\nAlthough, I'm pretty sure my\nname was on the\nracer list...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ehehe, guess I missed it.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Really though, I was glued to the screen!\nWhen\nyou crossed the finish line,\neveryone was so\nexcited!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I was so motivated by watching it that I\neven did\nsome training right afterwards!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Wow, really?!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Sounds like you're still inspiring people."
+            ]
+        },
+        {
+            "text": "That makes the hard work all worth it! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Um, by the way, I arranged a celebration\nparty\nfor you with Grass and the others!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "We want to hear all about the race from\nyou and\nyour trainer!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You're the best! Of course I'd love to be\na part of\nit!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And so, the mid-camp race ends up\nbeing both a\ngreat result for us and a\npowerful motivation for\nothers.",
+            "name": "Монолог"
+        }
+    ]
+}

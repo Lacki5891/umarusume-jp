@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the morning of tryouts, Umamusume\nget ready to show off their\nskills in hopes\nof being scouted by spectating trainers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uwaaagh! It's sooo touching!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "No matter the distance, they have the guts\nto move forward, step by\ntiny step!  They\ndon't give in, even with those little bodies!\nBe brave\nand carry that huge load!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wahaaagh! It's so... It's so amaziiing!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You're amazing, little ants!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Ants?"
+            ]
+        },
+        {
+            "text": "Right! Ants are the best!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "They're trying... so hard! Waaaaa!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wait! Don't tell me! You're gearing to go\nafter watching them too, am\nI right?!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "text": "Yeah, I know just how you feel! Seeing\nthem work their hearts out\nreally boosts\nmy spirits! Fills me with courage! Sets my\nsoul on fiiire!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm exactly the same! Today's a super\nimportant race, but now I know I\ncan blast\nthrough it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The ants got me ready to win, <i>and</i> I've\nmade a new friend who's as\npumped from\nwatching them as I am...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm <i>WAAAY</i> happy! Whoo-hooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh geez, she thinks I'm into ants...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey... Would you stop screaming? It's still\nmorning, and your yelling's\nrattling my\nhead.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh! Taishin! It's Taishin! Good mooorning!\nI'm so glad to see you!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Right in my ears now... Ugh, that hurts.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Seriously... Not that I care, but do you\nreally have time to idle away\nhere?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Idle? I'm never idling. I'm always geared up\nand ready to go!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's not what I mean, dummy! Aren't you\nalso racing in today's\ntryouts?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "If you are, you'd better stop standing\naround staring at ants!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh? Oh my gooosh! No way! It's time\nalready?! Thanks, Taishin.\nYou're so kind\nfor telling me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I mean... <i>sniffle...</i> really... Your friendship...\njust means... so muuuch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Who said anything about friendship?! Ugh,\nwhatever. This girl is\ncrazy.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Wha! Wait, wait, wait! I'm coming too!\nWelp, fellow ant-fan, guess I'll\nsee ya\narooound!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's a weird way to start the day, but I\ndecide to head over to the\nracetrack as\nwell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tons of trainers are already at the track\ntalking about who's racing\ntoday, each\nlooking to meet the most talented\nUmamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Some are even discussing the energetic\nstudent from earlier, Winning\nTicket...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ticket's in the 1,200-meter turf race! I just\nlove the way she runs. She\nnever holds\nback!",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "Sure, but it's not always good to go in full\ncharge. That\nno-holds-barred spirit is\ncommendable, but you can't win a race\nwith\nheart alone.",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Finally, it comes to the last race of the\ntryouts, and Уиннинг Тикит is\nthere...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The leaders crossed the 600-meter mark!\nWhat a sudden turn of\nevents!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Whoa! Everybody's running all out! Nooo\nsweat! Time for me to go all\nout too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Uraaaaagh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And here comes Уиннинг Тикит! She's not\nfar behind and gaining\nspeed! That's some\namazing sprinting!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "She got off to an extraordinary start, but\nthen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hrgh! Uuugh! Full... poweeer...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "They're round the fourth corner and into\nthe final stretch! Winning\nTicket's falling\nbehind! She's losing it!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Despite her outstanding opening\nperformance, she's unable to sustain\nher\nlead, and finishes in fifth place.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ghaaaaah! This is the wooorst!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I won't let it stop me! I'm not gonna\nquit! One day, I'm for sure\ngonna—",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket! The results might not have been\nwhat you wanted... but you\nran a nice race!\nGood job out there!",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "Wha! W-wow... Thank you! Wait, could it\nbe? Are you scouting me?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoo-hooooo! Together, we'll definitely\nwin...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "THE JAPANESE DERBY!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Murmur...</i>",
+            "name": "Everyone"
+        },
+        {
+            "text": "A rush of hushed voices all utter in\ndisbelief at the idea of Winning\nTicket\nwinning the Japanese Derby.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Th-the Japanese Derby? Um, Ticket, are\nyou saying you want to be a\nDerby\nchampion?",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "Yeah! You've got that right! That's the\nreason I came to Tracen\nAcademy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Listen... I'm sorry. You're one heck of a\nsprinter, but I don't have what\nit takes to\nget you ready for the Japanese Derby...\nI'm really sorry.",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "What? Hey, wait a sec!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит attempts to stop the\nreluctant trainer from leaving,\nbut to no\navail.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Awww, I couldn't get scouted... I could\njust... cryyyyy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I won't back down! I won't give up!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I have to go all out until the day I win the\nDerby! Full Speeeeed!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She stubbornly keeps repeating that she'll\nwin the derby as she\ndisappears in the\ndistance. It leaves quite the impression.",
+            "name": "Монолог"
+        }
+    ]
+}

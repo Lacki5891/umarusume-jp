@@ -1,0 +1,239 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This year's juniors are called the \"Golden\n\nGeneration.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a mystery as to who coined the term.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, is it true? I hear they're all training\ntogether\ntoday.",
+            "name": "Sharp-Eared Репортёр"
+        },
+        {
+            "text": "It seems like it. Hehe... I'm looking\nforward to\nseeing them.",
+            "name": "Intelligent Репортёр"
+        },
+        {
+            "text": "Thanks for waiting, everyone!",
+            "name": "???"
+        },
+        {
+            "text": "They're here!",
+            "name": "Intelligent Репортёр"
+        },
+        {
+            "text": "Hehehe. I'm so happy we can all make\nour debut\ntogether this year!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It's Спешл Уик, an Umamusume\nalways at the\ncenter of everyone's\nattention. She's moved to\nTokyo from\nthe countryside to keep a promise\nshe\nmade to her mothers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehehe. It's always a pleasure to\ncompete with\neveryone. With that said,\nshall we begin our run?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер comes from abroad, but\nhas the air\nof a traditional Japanese\nlady. She may appear\ngentle, but deep\ndown, she has an iron will and\nhas been\ncatching attention ever since tryouts.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oye! What's going on here?! You're not\nstartin'\nwithout me, are you?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Feast your eyes! The all powerful\nPhantom Bird\nhas arrived! A race without\nEl is like a taco\nwithout salsa!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And here is Эль Кондор Паса. Her goal is\nto\nbecome the world's strongest, and\nshe has\ncaptivated people since even\nbefore her debut—a\nnatural-born\nperformer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They're each so wonderful. I'm at a loss\nas to who\nI should follow.",
+            "name": "Intelligent Репортёр"
+        },
+        {
+            "text": "Oh, everyone's here. Seems like a waste\nof time if\nyou ask me, but...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Wow, Сэйун Скай is here as well. Not\nmuch is\nknown of this coy racer, but I'm\nexcited to learn\nmore!",
+            "name": "Sharp-Eared Репортёр"
+        },
+        {
+            "text": "Excuse me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Um, I said <i>excuse me!</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Aren't you forgetting someone here? For\n\ninstance, the star of this \"Golden\nGeneration\" of\nyours?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Suddenly, an Umamusume loudly\nannounces her\nentrance, demanding\neveryone's attention.",
+            "name": "Монолог"
+        },
+        {
+            "text": "How could you forget me, Кинг Хало, a\ntrue\nfirst-rate Umamusume?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Reporters"
+        },
+        {
+            "text": "For goodness' sake! How about a round\nof\napplause? Or at least a \"bravo\"?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now is not the time to hold back your\nadmiration\nand praise! Come on, don't\nbe shy!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "There she is, Кинг Хало, an Umamusume\nwith a\nstrong personality who will be\nunder my\nmanagement from now on.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And I mean you too, Trainer! Don't hide\nyour\nadoration! Where's your applause?!\nI'm waiting!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's Кинг Хало, the daughter of a\nlegendary\nUmamusume with countless\nG1 races to her name.\nThat said...",
+            "name": "Intelligent Репортёр"
+        },
+        {
+            "text": "Eh... Her mother's a true legend. The\ndaughter's\nbound not to disappoint... I\nhope.",
+            "name": "Sharp-Eared Репортёр"
+        },
+        {
+            "text": "Hellooooo?! Trainer!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You know everyone's looking at you, right?"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh... Are they? Is that why you kept\nsilent this\nentire time?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, there's no need to be so humble.\nHowever,\nI can understand if you're\nintimidated by my\nelegance and the\nattention I command.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Uh, King? Everyone's already finished\nwarming up on\nthe track.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Let her be, Spe! It's better we start while\nMiss Royalty's\ngot everyone distracted.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Ohhh! It's finally starting! The Golden\n\nGeneration's about to begin their run!",
+            "name": "Reporters",
+            "choice_data_list": [
+                "You better hurry before they start!"
+            ]
+        },
+        {
+            "text": "What?! But... I haven't even finished <i>half</i>\nof my\nself-introduction yet!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wait, everyone! What are you doing?!\nYou'd\nreally dare try to begin without\nthis year's star?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Whoosh!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало blasts off like a rocket ship.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She bolts away from the spectators, her\nspeed\npulling their gaze after her as she\ncuts toward the\ntrack.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Fshhh...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "She really <i>is</i> her daughter!",
+            "name": "Intelligent Репортёр"
+        },
+        {
+            "text": "<i>Wheeze... Wheeze...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Whoa, I underestimated you! Didn't\nthink you'd\nmake it in time.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I probably would've given up halfway\nand gone\nfishin' or something.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hmph. \"Give up\" is not a phrase I'm\nfamiliar with.\nAnd I certainly wouldn't\nwalk away from an easy\nvictory.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "When victory is on the line, I'll never\ngive up!\nThat is my ethos!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now, come on, Sky! Let's do another run!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Huh?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I'm giving you the right to continue\nchallenging\nme until <i>I've</i> won!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What the... Isn't that backwards?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Ohohoho! Does my originality perplex\nyou?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Either way, would you expect anything\nless from a\nfirst-rate, multi-talented, and\npraiseworthy\nUmamusume such as\nmyself?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "She is extraordinarily different from\nothers—truly\nunique. Her vanity is all\njust part of the package.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our journey to take on the Twinkle\nSeries\ntogether begins here.",
+            "name": "Монолог"
+        }
+    ]
+}

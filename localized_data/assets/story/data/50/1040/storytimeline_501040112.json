@@ -1,0 +1,181 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At the start of Голд Сити's senior year,\nshe won\ntickets to a hot spring vacation\nin a raffle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Back then, she didn't feel mentally\nready for a\ntrip and refused to go. But\nnow, her feelings\nmight have changed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I think she should use this moment to\nfinally get\nsome rest, so I call her in to\ntry and persuade her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sure. Hot spring sounds nice.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "(That easily?!)"
+            ]
+        },
+        {
+            "text": "I'll check with my manager to see when\nI'm off.\nYou should submit your\nschedule, too.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "...I should?"
+            ]
+        },
+        {
+            "text": "Huh? You didn't mean for me to go by\nmyself, did\nyou?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I doubt my manager would allow that,\nand to be\nhonest, I don't know if I'd\neven want to go if it\nwas a solo thing.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If I'm going to the hot springs, you have\nto come\nwith me. What do you say?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And so...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Siiigh...</i> That was amazing. All the stress\nmelted\nright away.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Did you hear? They said these are\nsodium\nbicarbonate springs. They're\nsupposed to have\ncleansing effects on\nthe skin and stuff.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Look. Isn't my skin so shiny right now?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I don't know, it's always shiny..."
+            ]
+        },
+        {
+            "text": "You sound so stupid right now... but\nyeah, I guess\nthat's true.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I had this thought before, but... you're\npretty into\nmy looks, aren't you?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Not just your looks!"
+            ]
+        },
+        {
+            "text": "Yeah, yeah, I know. I'm not implying\nthat's all you\ncare about.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "We've never really had a chance to, like,\njust talk\nabout silly stuff like this before,\nhave we?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Want to... get some fresh air?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You're probably wondering why I\nsuddenly\nagreed to come here.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Truth is, I wanted to find out how you\nreally felt\nabout me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I've embarrassed myself in front of you\nway too\nmany times, and it would kill me\nif you've gotten\nthe wrong impression.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "'Cause like... sure, I'm not necessarily\nchill. I can\nbe harsh, and I've got a bit of\na foul mouth\nsometimes.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But that's because you've gotten too\nclose. Look\nat me from, like, an\nacquaintance's point of view\nand I'm\npretty cool... at least, I hope I am.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "My impression of you has never changed."
+            ]
+        },
+        {
+            "text": "...?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're beautiful, strong, proud... the best\nUmamusume ever."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Haha, what <i>is</i> that? Are you hitting on\nme?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Normally, I'd find that tone-deaf, but\ncoming\nfrom you, it's different somehow.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's funny. You're not my manager, and\nyou're not\nlike a coworker. What are you\nto me?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Just your trainer."
+            ]
+        },
+        {
+            "text": "Uh, that's just a title, isn't it?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But... maybe you're right. Just my\ntrainer... I kinda\nlike the sound of it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Someone who watches me run. Someone\nwho sees\nonly the real me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Not some overzealous fan who's only\nseen me\nfrom afar and doesn't know the\nmeaning of\npersonal space.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You don't interfere, judge, show pity,\ninsult me,\nnone of that.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If I hadn't run with you, I don't think I\nwould've\never come to like myself.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yikes, here I am talking my mouth off. I\nwent on\nauto-pilot. Was I annoying?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're okay."
+            ]
+        },
+        {
+            "text": "So wishy-washy. Heh.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I guess it's okay. You're just my\ntrainer, after\nall.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I sense that Голд Сити and I have formed\nan\nirreplaceable bond during this time\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

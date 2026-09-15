@@ -1,0 +1,195 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Т.М. Опера О and I are on our way back\nto the\nacademy when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh? And who might you be?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Um... Uh... I...",
+            "name": "Girl in Pajamas",
+            "choice_data_list": [
+                "(A child in pajamas? Alone out here?)"
+            ]
+        },
+        {
+            "text": "I-I really wanted to meet you, Opera O,\nbut...\nbut... <i>Sniffle... sob...</i>",
+            "name": "Girl in Pajamas"
+        },
+        {
+            "text": "Ah-ha, no need for tears. While they do\nglisten\nlike beautiful pearls, a smile suits\nyou so much\nbetter.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Are her parents around?"
+            ]
+        },
+        {
+            "text": "Hmm... She appears to be lost.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>H-hic...</i> O-Op... Um, Opera O... <i>Sniffle!</i>",
+            "name": "Girl in Pajamas"
+        },
+        {
+            "text": "We'll need to calm her down first before\nwe can\nhelp her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I am honored to meet you, Princess!\nShould you\nhave no prior engagement...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Might I, the Overlord, be of service to\nyou as\nyour escort?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "...!",
+            "name": "Girl in Pajamas"
+        },
+        {
+            "text": "Т.М. Опера О holds out her hand, and\nthe girl\nstops crying as she timidly takes\nit. We should\ntake her to the police\nstation first.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Opera O agrees, but just as we turn to\ngo...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, there you are! I'm so sorry for the\ntrouble!",
+            "name": "Nurse"
+        },
+        {
+            "text": "Oh... You are a nurse, I take it? Do you\nknow this\nlittle one?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Y-yes... She's a patient at the—wait...\nAren't you\nТ.М. Опера О?!",
+            "name": "Nurse"
+        },
+        {
+            "text": "Oh? I see you know me. Well, of course\nyou\nwould have knowledge of my name!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "That girl is a fan of yours... and it seems\nshe snuck\noff after finding out Tracen\nAcademy was nearby.",
+            "name": "Nurse"
+        },
+        {
+            "text": "You can't do that, understand? We were\nall so\nworried about you.",
+            "name": "Nurse"
+        },
+        {
+            "text": "I... I-I... um... S-sorry... <i>Hic!</i>",
+            "name": "Girl in Pajamas"
+        },
+        {
+            "text": "I ask that you please excuse her just this\nonce! My\ncaptivating beauty is to blame.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "As an apology, I offer you a collectible\n\nphotograph of myself—no! Ten copies of\nmy film,\n<i>24 Hours with You: An Opera\nAnthology</i> for you\nand every person at\nthe hospital as well!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh, um... That's very nice of you, but,\nwell...\nAnyways, thank you for looking\nafter her!",
+            "name": "Nurse"
+        },
+        {
+            "text": "<i>Sigh...</i> Sneaking out of a hospital all just\nto meet\nme.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "How corruptible it is, this beauty of\nmine!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "She was crying, too."
+            ]
+        },
+        {
+            "text": "Yes, from the joy of meeting me, and\nfrom\nreflecting on the hardship of her\nsolitary journey.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Cars and signage abound in this place.\nMany a\nthing must appear a giant\nmonstrosity to a child\nof her age.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "But she overcame her fears all for the\nsake of\nseeing me with her own eyes.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Relief, joy, and a sense of\naccomplishment surely\nenveloped her\nupon arrival... That is to say, those\ntears\nwere proof of her courage.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ahh! Such an admirable soul! I must\nopen my\nheart to such purity!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Opera O comprehends the entire well of\nemotion\nbehind the girl's tears.",
+            "name": "Монолог"
+        },
+        {
+            "text": "However! Sneaking away from a hospital\nis an act\nfar too dangerous!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I must offer a gift that will both ease her\nheart\nand curb those impulses.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "How about you inspire her with your efforts?",
+                "How about a small present?"
+            ]
+        },
+        {
+            "text": "...Indeed, that would be best.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "We must begin training right away,\nTrainer!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Absolutely!"
+            ]
+        },
+        {
+            "text": "I will create a short, two-hour piece\nwhich can be\nperformed within visitation\nhours. With me in the\nstarring role, it\nshall be an excellent opera!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "An excellent idea!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Then what are we waiting for? There are\n\npreparations to be made, Trainer!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Preparations?"
+            ]
+        },
+        {
+            "text": "For the photographs, of course! Her\nalbum of me\nwill not fill itself!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Me during twilight, me under starlight...\nAh yes,\nand me at dawn!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And so, Т.М. Опера О adamantly insists\nthat I\nhelp with taking her photos.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I manage to convince her that, instead of\nan\nopera, her brilliance on the racetrack\nwould be a\nbetter gift.",
+            "name": "Монолог"
+        }
+    ]
+}

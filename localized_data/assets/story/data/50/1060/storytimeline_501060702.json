@@ -1,0 +1,179 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back from an outing with\nNice\nNature...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait, someone's calling me.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Mom?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry Trainer, I gotta take this!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hi, Mom. You never call me like this.\nWhat's up?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yeah, yeah... I'm doing okay... I guess.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Really, I'm doing all right. Don't worry\nabout me,\nMom!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What?! You're coming here?! When?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Aghhh, you always decide to visit so\nsuddenly. All\nright... Call me later.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Sigh...</i> Sorry to keep you waiting.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "So your mom is visiting?"
+            ]
+        },
+        {
+            "text": "Yeah. It's still a bit away, though.\nApparently, her\nfriend invited her on a\ntrip.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They're planning to stay around this area\nfor\nsome time, so I'll go meet them when\nthey come.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Are you going to invite her to see you run?"
+            ]
+        },
+        {
+            "text": "Whoa, whoa, slow down there, will ya?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I-I mean, it's not like I don't want her to,\nbut...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's kind of embarrassing having my mom\nwatch\nme. It feels like I'm in elementary\nschool...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm sure she'd love to see you run!",
+                "I think it'd be nice!"
+            ]
+        },
+        {
+            "text": "Y-you think so?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "If I was your parent, I'd be over the moon!",
+                "If I was your parent I'd be over the moon!"
+            ]
+        },
+        {
+            "text": "Surely her mother has some ulterior\nmotive for\ncoming here.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell Найс Нэйчер that, if I was her\nmother, my\nbiggest motivation for going\non this trip would be\nto see my\ndaughter's progress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahaha, you're starting to sound like a\nreal parent\nnow.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm your trainer, after all."
+            ]
+        },
+        {
+            "text": "True, your jobs are pretty similar. But...\nare you\nsure?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, about what you said earlier. You\nknow...\nThat my mom would love to see\nme run.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Isn't she your number one fan?"
+            ]
+        },
+        {
+            "text": "...You're right. Even when I don't do\nwell, she's\nstill cheering for me...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I tell her that, as her trainer, I want her\nmom to\nknow how amazing of a student\nshe is.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Student? Are you my teacher or\nsomething?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, you're my trainer, so I guess you\n\ntechnically are my teacher...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But do you think I'll be able to show her\nanything\nspecial?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You've been hitting all your training goals, so\nI'd say so!"
+            ]
+        },
+        {
+            "text": "Найс Нэйчер seems relieved to hear my\npositive\nopinion of her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, if you're so confident, you must\nhave some\ntricks up your sleeve, right?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, you win! ...I'll invite my mom.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, I hope you're ready for\nshow-and-tell then,\n<i>Teach.</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Hello, Mom? About your visit...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "If you don't have any plans... do you\nwant to\ncome visit Академия Тайсен?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "No, you don't have to come if you're\nbusy! I don't\nknow how fun it'll be just\nwatching me run.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hm? Really? Okay... I'll tell my trainer.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What did your mom say?"
+            ]
+        },
+        {
+            "text": "She said she's coming. And that she's\nexcited.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Sigh...</i> Great. I can't be lame in front of\nher, so\nguess it's back to training for\nme...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She pretends to sound fed up, but I can\nhear the\nexcitement in her voice.",
+            "name": "Монолог"
+        }
+    ]
+}

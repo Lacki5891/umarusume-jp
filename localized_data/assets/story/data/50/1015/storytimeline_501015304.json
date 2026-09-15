@@ -1,0 +1,243 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Clap, clap, clap!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, the long-awaited results, Trainer!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "What's this about?"
+            ]
+        },
+        {
+            "text": "What else could it be? Increasing my\nfandom, of\ncourse.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "A lack of notoriety would diminish the\n\nsignificance of racing in the Classic\nTriple Crown,\nafter all.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Isn't that correct, Doto?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh, uh, yes... Not that I could ever race\nin the\nClassic Triple Crown myself...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But fans are really important. I know that\nfor\nsure...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Indeed. I have instructed my fans to\ngather at the\ngymnasium.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "If my efforts have succeeded, a standing\novation\nfrom a full house of my adoring\nfans awaits!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "If I've failed, the crickets will chirp! It\nwon't be\nmuch different from the party\nat the end of last\nyear, I suppose.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Come, who will show their face? A\nbenevolent\nangel or a cackling demon?\nWill the gymnasium\nbe full of adoring\nfans or completely empty?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "The moment of truth has come. Open!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>Rattle, rattle!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Clap, clap, clap...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's Opera O! Hey, Opera O!",
+            "name": "Fan A"
+        },
+        {
+            "text": "The number of fans are... decent. Same\ngoes for\nthe applause.",
+            "name": "Монолог"
+        },
+        {
+            "text": "O-oh my! The venue is alive with the\nsound of\napplause!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "It would not be an exaggeration to say I\nhave\ncharmed the people of the world,\nwould it,\nТренер?!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "You might be right!"
+            ]
+        },
+        {
+            "text": "Despite her exaggerations, it isn't a\nstretch to say\nshe'll be gaining even\nmore fans in the first race\nof the the\nClassic Triple Crown, the Satsuki Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, now that the Satsuki Sho is firmly\nin my\nsights...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Welcome my fans, one and all! Lend me\nyour ears!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Т.М. Опера О begins to give a speech.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The curtain to glory has been raised! My\nmission\nis simple, to defeat the older\ngeneration and pass\nthe torch to mine!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "However, to do so, I must make my\npresence felt\nin the Classic Triple Crown.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "It will be a long and arduous journey. A\ngreat and\npowerful foe will likely\nattempt to bar my path.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "But I shall not lose! The Overlord will\nboldly fight\nthis adversary and claim\nvictory!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Yeeeaaah!",
+            "name": "Монолог"
+        },
+        {
+            "text": "But... who's the adversary?!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Who? Who is it, Opera O?!",
+            "name": "Fan B"
+        },
+        {
+            "text": "My foe is no other than...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Well, Тренер? Go ahead, tell them!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "She has the crowd in the palm of her\nhand, but\nwith full confidence passes\ntheir attention to me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's too early to know who'll be favored\nin the\nClassics. The first name that comes\nto mind is...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "M-me?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The Classics? On, no, no... I'd never\nqualify. At\nleast... I don't think so!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Doto, now is not the time to dawdle.\nVisualize the\nfuture—ignore the reality!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Step forward and see how gloriously\nyour\nunexpected presence resounds\nthroughout this\nvenue.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "My worthy adversary is you, Doto, the\nsurprise\nvillain! Take my hand and rise\nonto the stage!\nCome, come!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Мэйсё Дото starts vigorously pacing,\neyes\ndarting every which way.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wh-wh-what to do? She's inviting me...\n<i>The</i>\nOpera O is asking me...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "She's my idol... But I'm... weak. Unghhh...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I want to try, b-but... I just know... I'll\nnever...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Sorry! I-I just... can't!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото runs away at full speed. I\nguess that\npush from Opera O is too\nmuch pressure for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What?! Is this a rejection?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "By the heavens... I must have made her\nnervous\nwith this excessive appeal of\nmine.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "But I will not stop now. Yes, what has\njust\ntranspired simply makes this a\ncliffhanger.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ladies and gentlemen! Who is this great\n\nadversary I speak of? They will be\nrevealed...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "At the Satsuki Sho! So, come, and we\nshall meet\nagain in the lush greens of\nNakayama, where I will\ncross my blade\nwith theirs!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Woooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's managed to spin a convincing tale.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, you have to find me a rival\nbefore the\nSatsuki Sho. They must be\nexceptional, mind you.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And, of course, I bear the full brunt of it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sniffle...</i> Opera O... Her hand was right\nthere, and\nI...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm sorry... I'm sorry I'm... so weak.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Things get pretty out of hand with\ntoday's event,\nbut Т.М. Опера О\nmanages to gain more fans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her path stretches forward now to the\nSatsuki\nSho.",
+            "name": "Монолог"
+        }
+    ]
+}

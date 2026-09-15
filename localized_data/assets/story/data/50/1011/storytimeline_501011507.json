@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I hand a newly-delivered fan letter to\nGrass\nWonder.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, I recognize the name on this one. So\nthey\nwere nice enough to write me\nagain!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "They're always so proper with their\nsalutations\nand sign-offs. Hehe.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "And that caught your eye?"
+            ]
+        },
+        {
+            "text": "Yes. They're quite formal for fan letters,\nbut\nthey're always so touching.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Not to mention carefully crafted. I can\nsee the\nimprovement in their handwriting\nwith each one.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "They've even started being creative,\n\nincorporating seasonal themes and\nsometimes\nwriting haikus.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Each letter they write demonstrates how\nin tune\nthey are with my interests.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It warms my heart.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I can tell how much this fan wants to\nmake Grass\nWonder happy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's not just this fan, either—I've received\na\nnumber of letters illustrating aspects\nof Japanese\nculture or explaining unique\nregional traditions...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "When I receive letters like these from\npeople\naround the country, it makes me\nfeel like... like...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Like you don't want to let them down?"
+            ]
+        },
+        {
+            "text": "Yes, that's right. It makes losing even\nless of an\noption.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "A fire quietly blazes in Грасс Вандер's\neyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Through thick and thin, I'll remain\ncommitted. I'll\nbe relying on your\ndedication as well.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It looks like the fan support has boosted\nGrass\nWonder's spirits.",
+            "name": "Монолог"
+        }
+    ]
+}

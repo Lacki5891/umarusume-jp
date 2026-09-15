@@ -1,0 +1,66 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! I've got biiiiig news!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Try to stay calm, but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I got a fan letter!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Oh, nice!"
+            ]
+        },
+        {
+            "text": "...That's it? I got a fan letter!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "This is proof I've gotten even stronger!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "When I was young, my papa always used\nto say...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A wrestler is only as strong as the\nnumber of fans\nthey have!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm not a wrestler, but now I know\nexactly what he\nmeant!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "When I read fan letters, it sets my spirit\non fire!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All the voices cheering me on fuel the\nflames in\nmy burning soul!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's the true strength my papa told me\nabout!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "From here on out, my fans and I will\ncontinue\ngettin' stronger and stronger!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It seems like the fan letter has stoked\nher passion.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with\n\nMatikanefukukitaru...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look over there, Trainer! What else\ncould that be\nbut a lucky omen!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Матиканэфукукитару points toward a claw\nmachine\nfilled with Umamusume\nplushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today's horoscope said my lucky item is\na plushie!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The great Shiraoki wanted this\nencounter to\nhappen, guiding me here\nto this very spot!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I just know super-ultra-mega-great\nfortune will\ncome my way if a certain\nlucky trainer wins one\nfor me!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You really want one, huh?"
+            ]
+        },
+        {
+            "text": "Of course! I have great faith that you'll\nreel in a\nwhole bunch!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I can see it already! You'll be hauling\nthem in by\nthe boatload! You'll be the\nenvy of all the other\ntrainers!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

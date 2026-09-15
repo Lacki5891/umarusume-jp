@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm having a meeting with Эйсин Флэш,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Ngh.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "My apologies. I woke up with a\nheadache this\nmorning...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ugh... Not again...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Yes, there is no cause for concern.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I took medication thirty minutes ago. It\nshould\ntake effect momentarily.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The pain should be gone by 5 p.m. at\nthe latest...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "P-please... continue the meeting...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She tries to put on a tough face, but the\npain\ndoesn't subside. Worse, she's\nplagued by\nheadaches for a while after\nthat.",
+            "name": "Монолог"
+        }
+    ]
+}

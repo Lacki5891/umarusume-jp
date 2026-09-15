@@ -1,0 +1,93 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm headed to the gym to pick up Mejiro\n\nMcQueen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... puff...</i> Ninety-nine... One\nhundred...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Urgh, my entire body is throbbing with\npain. This\nmust be what Ryan meant by\n\"screaming muscles.\"",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "However, there's no time to rest. Next, I\nneed to\ndo fifty—",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer. Yes, but I haven't met\ntoday's quota\nyet.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm working on the muscle training\nregimen Ryan\ngave me, you see. I must\nfinish the entire thing,\nno matter what.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "But you've clearly already hit your limit."
+            ]
+        },
+        {
+            "text": "Naturally. After all, I specifically asked\nfor a\nregimen that would push me\n<i>beyond</i> my limits.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "If I'm unable to surpass the limit looming\nright\nbefore my eyes, I cannot possibly\ncall myself a\nMejiro!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Please don't try to stop me! This is all for\nthe\npurpose of achieving victory! One...\ntwo... three...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Four... five... Hehe, the night wind is\nrefreshing...\nand the hot spring was the\nperfect temperature.\nJust marvelous...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh, it's nearly time for the baseball\ngame. This TV\nlooks old, but... this is\nanother pleasure of\ntraveling. ♪",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I also secretly brought some treats with\nme, and\nthere isn't anyone here to stop\nme. Hehe, now\nthen...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hit that ball, Yu-ta-ka! Hit that ball,\nYu-ta-kaaa!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "McQueen!"
+            ]
+        },
+        {
+            "text": "Oh? I thought I just heard a familiar\nvoice.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It would be nice if I could stay and relax\nhere, but\nit doesn't look like I can\nanymore.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Gasp!</i> T-Trainer! Wait... where am I?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You were in the middle of a desperate workout."
+            ]
+        },
+        {
+            "text": "I-is that so? I feel I've just woken up\nfrom the\nstrangest dream.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "In any case, I'm filled to the brim with\nstrength. I\nthink I may have surpassed my\nlimits!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "She has indeed done just that. Mejiro\nMcQueen is\nlooking stronger than ever.",
+            "name": "Монолог"
+        }
+    ]
+}

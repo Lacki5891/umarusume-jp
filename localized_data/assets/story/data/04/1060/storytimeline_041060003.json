@@ -1,0 +1,236 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's evening, and I'm in my room crafting a\nplan to help Nature beat\nТокай Тейо at the\nTracen Meet.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uma Attack! Good evening, it's your\nbeloved trainee!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry for coming by so late, Trainer. I\nforgot some stuff in the trainer\noffice,\nsooo... mind lending me the keys?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh yeah, it'd be a hassle to return them\ntonight, so I'll unlock the\nroom for you\ntomorrow.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It's already late, so why don't we go together?"
+            ]
+        },
+        {
+            "text": "Huh?! Ah, um, that's...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I-I'll be f-fine! Just who do you take me\nfor? I'm not a damsel in\ndistress, y'know?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's that, so hurry it up! Gimme the keys\nalready.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm a little curious about the way Nature is\nacting, but I hand the keys\nover to her\nanyway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My thanks! And with that, a good night to\nyou, Trainer.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A few hours later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>R-r-r-ring!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello? Is this Nature's Тренер? This is Fuji\nKiseki, dorm leader of Ritto\nDormitory,\nspeaking.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's already an hour past curfew, but\nNature hasn't come back yet.\nWould you\nhave any ideas as to where she might be?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "There's no time to panic! First, I should\ncheck the trainer's office!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I run through the dimly-lit academy, finally\narriving in front of the\ntrainer's office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Coming around from the outside is none\nother than Токай Тэйо! It's\nthe final stretch!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Токай Тэйо leaps into the front! She breaks\nout of the pack... and\nacross the line!\nWinning by two whole lengths, Токай Тэйо\ntakes home\nthe gold!",
+            "name": "Комментатор",
+            "choice_data_list": [
+                "(Is that race footage of Teio?)"
+            ]
+        },
+        {
+            "text": "Opening the door, I find Nature staring\nintently at footage of Tokai\nTeio.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> O-o-ow... neck... stiff.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Still... win after win after win. Her\npositioning near the end there was\n\nflawless—practically textbook.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Once she gets into her groove, there's no\nstopping her... Yikes, I'm\ngetting the\nheebie-jeebies.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Are you researching Teio by yourself?"
+            ]
+        },
+        {
+            "text": "Huh? Wh-whooooa?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "T-Trainer! N-no way—why're you here?!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I got a call from your dorm leader."
+            ]
+        },
+        {
+            "text": "From Fuji?! Why did she... Ahhh! The\ncurfew!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Augh, I totally lost track of the time. Oh\nman, that's so dumb!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Looks like she got sucked into researching\nТокай Тейо and didn't\nrealize it was this\nlate already.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um... Sorry about lying to you earlier.\nHere's the key. I'll go apologize\nto Fuji\ntoo.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You want to beat Токай Тэйо, don't you?"
+            ]
+        },
+        {
+            "text": "Huh?! Nah, it's not—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...It's not that simple.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I told you plenty of times, haven't I?\nThat... I'm not built like the\nothers.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "With a hint of frustration in her tone,\nNature slowly walks towards the\nwindow\nbefore gazing up at the night sky.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm not like those dazzling stars—I can't\nshine like they do. I'm not the\nmain\ncharacter of this story.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Of course, there was a time when I thought\nI was, y'know? I wouldn't\nhave come to\nTracen otherwise.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But now... I know the the cold, hard truth.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "No matter how fast I run, there's always\nsomeone out there who's\nfaster.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Everyone cheered me on—even threw me a\nsend-off fit for a queen.\nBut when I'm next\nto real stars, there's no way I can compare\nto their\nradiance.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "To put it simply, I'm just one of those\nextras you see all the time in\nmovies.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm not cut out for the leading role... I\nknow that better than anyone.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "An extra like me has no business aiming for\nfirst... It's pathetic, isn't\nit?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You're not pathetic in the slightest."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "When you give it your all, you shine brighter\nthan any other star."
+            ]
+        },
+        {
+            "text": "...I-I can't shine like the others. So stop it,\nTrainer.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Please... just stop.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She speaks firmly, but when I look at her,\nher eyes seem to waver.\nPerhaps my words\nreached her?",
+            "name": "Монолог"
+        },
+        {
+            "text": "After some time, we go back to Nature's\ndorm and apologize to Fuji\nKiseki\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next day, after training...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Тренер? After this, you mind if I\ncheck out some Teio footage\nagain?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, um, don't get me wrong, okay? It's not\nbecause I'm super pumped\nabout facing\nTeio. Not even close.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's just... well...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Even if first place is out of reach... even if\nvictory is impossible... I-I\nstill want to say\nthat I tried my best...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Understood. Knock yourself out!"
+            ]
+        },
+        {
+            "text": "Mhm. Well, let's get going!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And so, the two us begin dedicating every\nwaking moment to training\nfor the\nupcoming Tracen Meet.",
+            "name": "Монолог"
+        }
+    ]
+}

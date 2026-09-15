@@ -1,0 +1,100 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Vrooooom...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excellent. The bus is precisely on\nschedule. Let's\nget in.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Are you happy with how summer camp went?"
+            ]
+        },
+        {
+            "text": "Of course. How could I not be when I\nmade so\nmuch progress in preparation\nfor the Japan Cup?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Let's go over the details of my progress\nin the bus\nand—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Heeey! Wait for meee!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Falcon?! Why are you here?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You should have been aboard the bus\nthat left\nfifteen minutes ago. We even\nwent over your\nitinerary last night.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ehehe! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I see... So your impromptu concert for\nthe locals\nwent longer than expected,\nwhich is why you're\ntardy...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Falcon...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I-it was just supposed be a quick show! It\nwas only\ngonna be one song to say\ngoodbye to everyone\nwe met here...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But you should've heard the crowd!\n...You must be\ndisappointed in me, huh?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yes. I am.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Awww... ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But I am only disappointed by the fact\nthat you\nfailed to notify anyone about\nyour show in\nadvance.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You should have informed the\ninstructors and\nstaff about it the moment\nyou decided to hold\none since a delay\nwas inevitable.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After all, your concerts are always so\npopular.\nOne song alone would never\nhave sufficed.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oh, Flash! ☆☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The bus will depart momentarily. Please\ndo not\nmake a scene.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You're sitting too close, Falcon. Please\nshift five\ncentimeters to the right.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I don't wanna! ☆ In fact, I'm gonna\nscooch five\ncentimeters <i>closer!</i> ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And so, our lively summer camp comes\nto a\nclose... And Эйсин Флэш doesn't\neven insist on\ngoing over our notes in\ndetail on the ride back.",
+            "name": "Монолог"
+        }
+    ]
+}

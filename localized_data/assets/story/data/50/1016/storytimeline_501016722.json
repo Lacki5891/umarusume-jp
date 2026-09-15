@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ugh... My head...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "It's not a big deal... My temples just hurt\na little...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Groan!</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Tch. Maybe it was a bit chilly\nyesterday after I\ngot out of the bath...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I should have dried my hair right away\nbefore the\nnight air touched it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Imagine Brian's hair flowing in the night\nbreeze...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Whoa, you mean like...",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Ahhh! That's so... freakin'... cool!",
+            "name": "Both"
+        },
+        {
+            "text": "Ngh?! It's echoing... in my skull...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан's headache continues for a\nwhile\nafter.",
+            "name": "Монолог"
+        }
+    ]
+}

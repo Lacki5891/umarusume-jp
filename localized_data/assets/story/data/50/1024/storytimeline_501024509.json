@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm filling out some paperwork when\nMayano Top\nGun's homeroom teacher\ninforms me that she\ndidn't show up for\nclass...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, a vapor trail... I bet it'd be fun to\nride one of\nthose...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You seem out of it."
+            ]
+        },
+        {
+            "text": "Oh, Trainer...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...I don't wanna go to class. It's so boring.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Racing, shopping, talking... All the\nthings I used\nto like... They're all so\nboring.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And my body's feeling heavier and\nheavier...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Running back-to-back races must be\ntaking a toll\non her. I'd better adjust her\nrace schedule...",
+            "name": "Монолог"
+        }
+    ]
+}

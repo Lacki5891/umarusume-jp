@@ -1,0 +1,354 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as we pass through the\nshopping district\non the way home..."
+        },
+        {
+            "text": "Huh, they're doing something over\nthere.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "A hot spring vacation, huh...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Are you a fan of hot springs?"
+            ]
+        },
+        {
+            "text": "I guess I could say so? When I finish a\nbig job, my\nmanager always takes me to\none as a reward.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I've never been to one on my own.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Suddenly, I remember I had received a\nraffle\nticket the last time I shopped over\nhere.",
+            "choice_data_list": [
+                "Do you wanna try it?"
+            ]
+        },
+        {
+            "text": "...Sure, why not?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Can I do the spinning?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити gives the raffle machine a\ngentle spin!"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Oooh!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Whoa, we actually won!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Congrats, City!"
+            ]
+        },
+        {
+            "text": "I'm shocked. That was way too easy...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Does this mean I'm...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Maybe the gods did you a service for\nyour\nstriking beauty, young lady!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You know what, I don't need this.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "text": "Thank you very much.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "D-did I say something wrong?!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "I'm always like this. Mother always\nscolded me for\nmaking such unnecessary\ncomments. Oh, I've\noffended her!",
+            "name": "Raffle Clerk",
+            "choice_data_list": [
+                "I-it's okay."
+            ]
+        },
+        {
+            "text": "After calming down the raffle clerk, I\nhurriedly\nchase after Голд Сити with the\nvacation ticket in\nhand."
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "City!"
+            ]
+        },
+        {
+            "text": "Did I upset the guy from the raffle?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "He was worried about you."
+            ]
+        },
+        {
+            "text": "Uh-huh.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I know he didn't mean any offense.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And after I won using <i>your</i> ticket, too.\nShoulda\njust kept the coupon, but oh\nwell.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "It's all right! He gave it to me!"
+            ]
+        },
+        {
+            "text": "Seriously? In that situation?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Dang, you don't miss a trick, do you?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "But I think you won this ticket yourself."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I... I'm good. Can't take it now after what\nI did\nback there.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You use it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I probably wouldn't even enjoy it if I\nwent.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So... congrats. Bye now.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Wow, it's massive.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But it looks delicious... And the glazed\ncarrot is so\nshiny.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Looks like a good eat."
+            ]
+        },
+        {
+            "text": "Too good, in fact. Bet my manager\nwould be\npissed if I ate it all.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You don't think you'll be able to balance it out?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Excuse me?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Who do you think you're talking to? I'm\na\nprofessional at maintaining my figure.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It'll be fine. So... I guess I'll dig in.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll eat all this <i>and</i> stay in shape. Just you\nwatch.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Huh, a bushel. That's actually really\nhelpful.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "text": "Carrots are supposed to be good for\nyour skin.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And above all, they're delicious. So it's a\nplus to\nhave a bunch to keep for later.\nI'll leave them\nwith my manager.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Actually... there's something I've been\nwondering\nabout—you guys aren't such\nhuge fans of carrots,\nare you?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Well, some people like them plenty."
+            ]
+        },
+        {
+            "text": "But you wouldn't fight over them or\nanything,\nwould you? Meanwhile at the\nTracen cafeteria,\nit's harder to find a\ndish that <i>doesn't</i> have carrots\nin it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Of course, I'm sure there must be <i>some</i>\nstudents\nwho don't like them, but I know\nI never met one.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And, you know, I talked about carrots in\na\nmagazine column before, and all the\nreactions I\ngot were from Umamusume.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I remember it struck me as weird. Carrots\nare\ndelicious, so... why's it just us?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You really love carrots, eh?"
+            ]
+        },
+        {
+            "text": "I talked about this with my manager\nbefore, and\nthen she started carrying\ncarrot sticks with her\neverywhere.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm not complaining, but it's not like I'm\n<i>that</i> in\nlove with them. For instance, last\nweek...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "What am I supposed to do with one\ncarrot?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Seems like more than enough for preparing a\nmeal."
+            ]
+        },
+        {
+            "text": "You're talking to an Umamusume. One is\nfar from\nenough.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Well, I was thinking you'd also use other\ningredients..."
+            ]
+        },
+        {
+            "text": "Oh, that's what you mean? ...I mean, I\nknew that.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Cooking, huh...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Not your forte?"
+            ]
+        },
+        {
+            "text": "What? Like that's any of your business?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Just out of curiosity, though... If you\nwere me,\nwhat would you make with this\ncarrot?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Lame. And I'm supposed to be a model.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I get one chance and pull a pack of\ntissues. What\na joke.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And that's how I end up holding onto\nthe ticket\nfor the hot spring vacation."
+        },
+        {
+            "text": "Leaving behind the topic of carrots,\nGold City\ncontinues sharing anecdotes\nabout her manager\nas we make our way\nback to the academy."
+        },
+        {
+            "text": "This is more than lame. This is, like,\nhumiliating.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And so, I teach Голд Сити some recipes\nas we\nmake our way back to the\nacademy."
+        },
+        {
+            "text": "Голд Сити chows down on her\nlip-smacking\nhamburger steak and\nnonetheless manages to\nkeep in shape\nafterward—of course."
+        }
+    ]
+}

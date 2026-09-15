@@ -1,0 +1,42 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Huh, you actually pulled it off. Guess\nthey didn't\nrig this machine.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What're you gonna do with all of those\nanyway?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Think you can take them all home?"
+            ]
+        },
+        {
+            "text": "Huh? No, and I don't want them.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Use 'em to decorate your office or\nsomething.\nYou're the one who won\nthem.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Come on, just take them!"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> Fine. I'll take one.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...Hmm.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I guess it's pretty cute.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

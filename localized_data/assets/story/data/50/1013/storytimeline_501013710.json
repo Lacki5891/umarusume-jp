@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...I'm terribly sorry. This was completely\nmy fault. I\nwasn't good enough.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "As a member of the Mejiro family, I\nregret making\nsuch an embarrassing\ndisplay.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm sorry... I utterly failed to live up to\nyour\nexpectations.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Turn that regret into motivation!",
+                "Are you going to just run away, then?"
+            ]
+        },
+        {
+            "text": "You're right. If I don't use this as a\nstepping\nstone, then it will have all been\nmeaningless.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Regret is a bitter pill, indeed. I will not\ntake such\na pill again.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Next time, we'll savor the sweet taste of victory!"
+            ]
+        },
+        {
+            "text": "The sweet taste of victory. Yes... As a\nMejiro, I\nmust experience it for myself.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...What?! Unthinkable!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The very idea of running away is\npreposterous. It\nwould be a further\ndisgrace to the Mejiro name!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Then let's look to the future."
+            ]
+        },
+        {
+            "text": "...Yes, of course. Next time, I will win for\ncertain. I\nabsolutely will!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Therefore, Trainer... Please, make me\neven\nstronger!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

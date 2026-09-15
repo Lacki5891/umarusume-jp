@@ -1,0 +1,26 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Break is almost over, and I'm heading\nback to the\noffice early to prepare for\ntraining, when..."
+        },
+        {
+            "text": "...You're here early.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "That makes two of us."
+            ]
+        },
+        {
+            "text": "...Hmph. That's because I was able to\ntake a good\nrest.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Give me some training with some bite to\nit.\nSomething strong enough to cool my\nboiling\nblood.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Properly rested, Нарита Брайан is full of\nvim and\nvigor."
+        }
+    ]
+}

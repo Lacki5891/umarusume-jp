@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wh-what are you doing?!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'm sorry..."
+            ]
+        },
+        {
+            "text": "Ugh, you dummy! Apologizing  won't fix\nanything!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Take this experience as a lesson so you\ncan do\nbetter next time for your king.\nUnderstand?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Yes..."
+            ]
+        },
+        {
+            "text": "Hmph. But don't you worry. A tiny\nfailure like this\nwon't get me down. A\nfirst-rate Umamusume\nknows how to\nrebound!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Each day was jam-packed with activity,\nyet\nsomehow it feels like summer camp\nwent by in the\nblink of an eye.",
+            "name": "Монолог"
+        },
+        {
+            "text": "C'mon, Grass! Race ya to the BUUUS!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yes, yes, I'm on my way!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "What in the heavens has gotten into\nher? She's\nbeen pestering me so much\nlately.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Maybe she's excited for the upcoming race."
+            ]
+        },
+        {
+            "text": "Ah yes... the Japan Cup.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I suppose that's fair. While you may not\nsee me\nhollering wildly about the flames\nof passion...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...I too have no intention of surrendering\nthe lead\nto anyone.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Not until I reach the destination I seek.",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

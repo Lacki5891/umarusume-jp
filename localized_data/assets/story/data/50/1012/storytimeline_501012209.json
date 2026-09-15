@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Arima Kinen is here at last. Today,\nthe\nNakayama Racecourse is swarming\nwith\nspectators.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, didn't Хиши Амадзон and Narita\nBrian\ncompete here last year too?",
+            "name": "Fan A"
+        },
+        {
+            "text": "They've completely switched statuses\nsince then.\nHishi Amazon has been doing\nreally well for\nherself lately, but...",
+            "name": "Fan B"
+        },
+        {
+            "text": "Нарита Брайан hasn't gotten her mojo\nback, right? I\nhope she does well\ntoday...",
+            "name": "Fan A"
+        },
+        {
+            "text": "The stands buzz with chatter.\nMeanwhile, over at\nthe runners' tunnel...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today's the day... Finally! You excited,\nBrian?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's you versus me. Нарита Брайан versus\nHishi\nAmazon.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna make our rematch count!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Our rematch, huh?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I won't make this easy for you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан takes Хиши Амадзон's\noutstretched\nhand and grips it firmly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh. I like that look in your eyes.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Now, let's see... Hey, Teach! You just\ntake it easy\nand watch me, okay?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We've done so much to get here, and I'm\ngonna\nwrap things up with a bang!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Go get 'em!"
+            ]
+        },
+        {
+            "text": "I sure will!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Amidst nerves and excitement, the\ncurtains rise\non the Arima Kinen at long\nlast!",
+            "name": "Монолог"
+        }
+    ]
+}

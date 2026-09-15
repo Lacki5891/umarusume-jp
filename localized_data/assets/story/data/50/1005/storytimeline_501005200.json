@@ -1,0 +1,87 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Finally, it's time for Фудзи Кисэки's debut\nrace."
+        },
+        {
+            "text": "\"Here's Фудзи Кисэки! She's already made\nquite a\nname for herself before her\ndebut. Rumor has it\nshe had a whole\ncrowd of trainers vying to work\nwith her.\"",
+            "name": "Announcer A"
+        },
+        {
+            "text": "\"That must mean her current trainer is\nthe cream\nof the crop!\"",
+            "name": "Announcer B",
+            "choice_data_list": [
+                "(...!)"
+            ]
+        },
+        {
+            "text": "\"That may be so! Now, I don't know\nabout you,\nbut I can't wait to see how\nthey do today!\"",
+            "name": "Announcer A"
+        },
+        {
+            "text": "Even though this is Фудзи Кисэки's race, a\ngreat deal\nof attention is suddenly\nturned on me too.",
+            "choice_data_list": [
+                "(Th-this is so nerve-racking!)"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Let me cast a charm on you real quick,\nTrainer.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's a special spell that will fill you with\ncourage.\nGive me your hand.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I hold out my right hand as asked, and\nshe takes\nit between both of hers."
+        },
+        {
+            "text": "I know you well. You're brave and wise\nand warm.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "When I release your hand, your heart\nwill brim\nwith courage. When you look\nup, you'll see a\nrainbow.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm going to let go now.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She releases her grip on me slowly."
+        },
+        {
+            "text": "I feel something resting in my palm, and\nwhen I\ncheck, I realize it's a piece of\nwrapped chocolate."
+        },
+        {
+            "text": "Chocolate is supposed to settle the\nnerves. Think\nof it as a bonus.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Do you feel better now?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I do!"
+            ]
+        },
+        {
+            "text": "Good!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, I'd better go now. I'll see you later.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки exits the room with a gallant\nflourish."
+        },
+        {
+            "text": "My right hand is warm and the chocolate\nis sweet.\nNext thing I know, I'm no\nlonger nervous at all."
+        }
+    ]
+}

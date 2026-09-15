@@ -1,0 +1,260 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Симболи Рудольф has entered the final\nstage of\npreparation for the Satsuki Sho,\nthe first race of\nthe Classic Triple Crown.\nHer focus is astonishing\nto behold...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "(Her average times are practically identical!)"
+            ]
+        },
+        {
+            "text": "That means she's controlling her pace\nperfectly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She previously requested that we up the\ntraining\ndifficulty to be higher than what\nit was before her\nracing debut, and now\nwe're seeing the results.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What did you think, Тренер?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Your form looks great!"
+            ]
+        },
+        {
+            "text": "If she runs like this on the day of the\nrace, the\nSatsuki Sho's as good as ours. I\nopen my mouth to\nsay as much, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Prez.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Why, if it isn't Brian. I take it you aren't\nhere to\ntrain?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "No. There's a problem. You've gotta\ncome quick.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It looks like I'm going to have to step\naway for a\nwhile. Is that all right with\nyou, Тренер?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I'll join you."
+            ]
+        },
+        {
+            "text": "That won't be nece—",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "No, you're right. My problems are your\nproblems\nnow.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "This way, then. And thank you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "We hurry to the student council office.\nAs we\narrive, we hear voices coming\nthrough the door.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...you certain? I understand... But,\nperhaps...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But... can't... that's why...",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "I'm coming in.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She opens the door...",
+            "name": "Монолог"
+        },
+        {
+            "text": "President?! Why are you—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, Brian. I should have known. Why did\nyou get\nthe President involved?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We're getting nowhere without her.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "She has training to focus on. You can't\njust—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Coming here was my decision. Could you\nplease\ntell me what's happened?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "We can resolve this oursel—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm so sorry! It's all my fault!",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "...!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I can't do this anymore! I'm quitting the\nstudent\ncouncil!",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "And with those words, she flees the\nroom.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Not so fast, Эйр Грув. I want to speak\nwith you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You go, Brian.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Now, if I may ask... Is this related to the\nproblem\nthat you promised to explain in\ndue time?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It is. I apologize for failing to resolve it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "There's no need for that. But I would like\nyou to\ntell me what's going on.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The general manager approached me a\nwhile ago,\nsaying that she wanted to\nresign from the student\ncouncil.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "For what reason?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She felt unequal to the task. I suspect\nthat she\nwas troubled by how frequently\nshe's been\nlagging behind in her duties.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She said that she respected you too\nmuch to drag\nyou down.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I see... I think I understand.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She is still inexperienced, but she's\nshown she has\nroom to grow. I've been\ntelling her it's too soon\nto give up, and\nit's worked until now, but...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Don't worry, I can tell you put a great\ndeal of\neffort into this. I only regret that\nI left you to do\nit alone.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Not at all! I—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Just then, the door opens again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're back.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Student Council General Manager",
+            "choice_data_list": [
+                "(Looks like Brian really had to chase her down.)"
+            ]
+        },
+        {
+            "text": "Good work, Brian.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Now, as for you...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I-I'm sorry I ran...",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "Fear not, I take no offense. I simply want\nto ask\nyou to do something for me.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Wh-what is it?",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "I intend to attempt the Classic Triple\nCrown in\nthe coming months. Will you\ncome and watch the\nfirst race?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "All I want is for you to see me run in\nperson, like\nyou did before. Will you do\nthat for me?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Um... I'd be happy to, but...",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "Excellent. That will be all. You may go\nhome for\nthe day.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Don't worry, Эйр Грув. I'll take care of\nthis.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Now, I believe I left my training session\n\nunfinished. Shall we get back to work,\nТренер?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Right..."
+            ]
+        },
+        {
+            "text": "I'm not quite sure where this is going,\nbut it seems\nlike Симболи Рудольф has a\nplan. We resume our\ntraining session\nwith me still at a loss.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Awww, too bad. If you couldn't get\none...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I guess that just means you don't love\nme enough.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Th-that's not true!"
+            ]
+        },
+        {
+            "text": "I guess that just means you don't love\nme enough.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Th-that's not true!"
+            ]
+        },
+        {
+            "text": "Hehe. I'm just kidding. ♪ I know you did\nyour\nbest. So...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hehe. I'm just kidding. ♪ I know you did\nyour\nbest. So...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Just love me even more and make me\neven cuter,\n'kay?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Just love me even more and make me\neven cuter,\n'kay?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Well, that was disappointing..."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As a reward for her success in her G1 races, I \ntreat Oguri Cap to dinner at a restaurant."
+        },
+        {
+            "name": "Monologue",
+            "text": "She eats a lot to restore her energy for her next \ngoal, the autumn Tenno Sho.",
+            "color_text_info_list": [
+                "autumn Tenno Sho"
+            ]
+        }
+    ],
+    "title": "Goal Achieved: Ogurin?!"
+}

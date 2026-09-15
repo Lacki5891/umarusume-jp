@@ -1,0 +1,240 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Марузенски contacts me about\nsome\nsort of \"special appointment,\" and\nwhen I get to\nthe station to meet her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>VRRROOOOM!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer! Enjoying your days of\nbeing young\nand free?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, Trainer! Enjoying your days of\nbeing young\nand free?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски is there in her red\nspeedster. She\nreally loves that car.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...Young and free?"
+            ]
+        },
+        {
+            "text": "When I called my mom the other day,\nshe said\nsomething to me.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "She said, \"You're certainly making the\nmost of\nyour youth! You should\nremember to thank your\ntrainer.\"",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So, I'm here to thank you and deliver\nsome\nyouthful exuberance! I've got a\nticket to\nspringtopia with your name on\nit! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "As she says this, Марузенски pulls out\nsomething\nto show me...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a hot spring voucher!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, and this is your only train there.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If I remember correctly, you <i>promised</i>\nyou would\ngo with me!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If I remember correctly, you <i>promised</i>\nyou would\ngo with me!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "She's right. We made that promise when\nshe won\nthe voucher from a raffle.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Of course! So... should we go by train?"
+            ]
+        },
+        {
+            "text": "What, do you want to make Tata feel\nbad?\nC'mon, get in already! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Once we arrive at the inn, we're going to\nhop\nright into the hot spring, then drink\nsome milk,\nand finally have a pillow\nfight!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's going to be off the chain!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Driving wildly at top speed, we somehow\nmake it\nto the hot spring in one piece...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, are the baths being cleaned right\nnow?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm afraid so. You have our most sincere\n\napologies for making you wait.",
+            "name": "Inn Proprietress"
+        },
+        {
+            "text": "Not at all! Now that I know the baths will\nbe\nsparkling clean, I'm looking forward\nto them even\nmore!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What do you say, Тренер? Let's go kill\nsome time,\nshall we?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Maybe we can relax in our separate rooms?"
+            ]
+        },
+        {
+            "text": "What do you say, Тренер? Let's go kill\nsome time,\nshall we?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Maybe we can relax in our separate rooms?"
+            ]
+        },
+        {
+            "text": "<i>As if!</i> We need a more happening plan\nto spend\nour time...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Mmm... The wind is so refreshing! And\nthere's a\nriver, too!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, homeboy! Let's go wade in the\nwater!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Barefoot in a river... Just like when I was a kid."
+            ]
+        },
+        {
+            "text": "Hey, homegirl! Let's go wade in the\nwater!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Barefoot in a river... Just like when I was a kid."
+            ]
+        },
+        {
+            "text": "Exactly! That's my youthtastic plan!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's just be kids today!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We're the only ones here, after all!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...I guess so."
+            ]
+        },
+        {
+            "text": "Haha! Right answer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "School's out for summer, so it's time to\nplay!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Come on, let's go!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Splish, splash</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haha! This feels soooo good! Take this,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Haha! This feels soooo good! Take this,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски and I continue playing in\nthe river\nuntil the sun goes down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We return to the inn soaking wet and\nhead for the\nhot spring, still laughing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Creak, creak... Spshhhh...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm hm hmmmm! ♪ ...Huh?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ouch! What the...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm such an airhead! I can't believe I\nforgot to put\non sunscreen!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe, I wonder which one of us got\nmore carried\naway...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe, I wonder which one of us got\nmore carried\naway...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer. Wasn't the hot water just\nthe best?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It was great!"
+            ]
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer. Wasn't the hot water just\nthe best?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It was great!"
+            ]
+        },
+        {
+            "text": "Hehe. I'm glad you're enjoying yourself!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right, let's drink some milk next!\nThen it'll be\ntime for our pillow fight!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's enjoy being young a bit longer,\nshall we?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I sense that Марузенски and I have\nformed an\nirreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

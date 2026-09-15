@@ -1,0 +1,66 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Not too shabby, right? I made it onto\nthe\nscoreboard after all.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yup, this feels about right. Nice and\nsafe.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You should be prouder of yourself!",
+                "Are you satisfied with this?"
+            ]
+        },
+        {
+            "text": "Yup, this feels about right. Nice and\nsafe.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You should be prouder of yourself!",
+                "Are you satisfied with this?"
+            ]
+        },
+        {
+            "text": "There's nothing to be proud of, though. I\ndidn't\nwin or anything.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It's proof that you have potential. You'll\ndefinitely win next time!"
+            ]
+        },
+        {
+            "text": "Uh... I don't know how you can say\nthings like\n\"definitely\" with such\nconviction.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, I guess it's good for my trainer to\nhave\nconfidence in me.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, don't go all drill sergeant on me!\nThat won't\nwhip me into shape.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "So... you're okay with where you are then?"
+            ]
+        },
+        {
+            "text": "Of... course not. You know that.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Then let's do even better next time."
+            ]
+        },
+        {
+            "text": "Ugh... You always try to make me say I'll\ndo\nbetter.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I won't go as far as to say I'll <i>definitely</i>\nwin, but I\ncan aim for it at least.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...But if I win, that means you'll stop,\nright?",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

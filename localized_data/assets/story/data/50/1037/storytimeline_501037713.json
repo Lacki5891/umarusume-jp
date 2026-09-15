@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I apologize for incurring such an injury...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, it is not severe enough to\nwarrant\nchanges to the schedule.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "With a little time to rest, I should be\nable to\nresume training as planned.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Don't worry and just rest up for now.",
+                "Are you sure you can continue?"
+            ]
+        },
+        {
+            "text": "With a little time to rest, I should be\nable to\nresume training as planned.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Don't worry and just rest up for now.",
+                "Are you sure you can continue?"
+            ]
+        },
+        {
+            "text": "If I do that, we'll end up delaying the\nschedule,\nthough...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "And if your injury worsens, you'll lose all your\nprogress."
+            ]
+        },
+        {
+            "text": "That... is a valid point.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Apologies. The pressure seems to be\ngetting to\nme. I will focus on recovery\nfor now...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Yes. Light running should not be an\nissue.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...Ngh!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That was more painful than I expected.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I must practice more, and yet...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Pant...</i> Phew...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...Hm, this level of discomfort seems\nmanageable.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Let's create a new schedule that\naccommodates\nfor my injury right away.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And like that, we get Эйсин Флэш back\non a\ntraining regimen that isn't too\nstrenuous.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I just hope we can get back on track\nafterwards...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I warn Эйсин Флэш not to push herself\nand give\nher a time-out to recover.",
+            "name": "Монолог"
+        }
+    ]
+}

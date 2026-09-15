@@ -1,0 +1,153 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Таисин isn't feeling very\nmotivated, so I\ntake her to a shrine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We pray and draw our fortunes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I was wondering where you were taking\nme, but a\nshrine? Really?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I thought it would make you feel better."
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> If wishes really came true so\neasily, there\nwould be literally no more\nsuffering in the—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hang on... Taishin?! Is that you? Heeeey!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, you two came to pray too?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We're about to leave. We already\nprayed and got\nour fortunes and\neverything.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whaaat?! Don't go yet! Do it again so\nwe can\nmake a wish together! Please?\nPleeease?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Praying twice is better than once, and\ndoing it\nthree times is even better! The\nmore you pray, the\nmore likely your\nwish'll come true!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "...Is that how it works?"
+            ]
+        },
+        {
+            "text": "At Уиннинг Тикит's insistence, we get\nback in line\nto pray.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, gods—and the Buddha too! Grant\nmy wiiiish!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "This is a Shinto shrine, Ticket. The\nBuddha isn't\nhere.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Why the heck am I even doing this?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey, what fortunes did everyone get? I\ngot \"good\nfortune\"!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I got \"modest fortune.\" Not bad. What\nabout you,\nTaishin?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...I got \"great fortune.\"",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "That's amazing, Taishin!"
+            ]
+        },
+        {
+            "text": "It's not like it's super rare or anything.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's not true! Not everyone has great\nluck, after\nall!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "If you combine it with my good luck and\n\nHayahide's modest luck, your wish will\ndefinitely\ncome true!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm sure you'll feel totally better in no\ntime!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ah, I suppose we should tell you. We\nactually\ncame here to pray for your good\nhealth.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We want to race you when you're in top\nfighting\nshape after all.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Did you two really...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ugh, who asked you to do that?! You\nboneheads!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...I got \"great misfortune.\"",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "D-draw again!"
+            ]
+        },
+        {
+            "text": "Yeah, yeah! They say you always get a\n\"great\nfortune\" after drawing that one!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "However... it appears that they've run\nout of\nfortunes.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Whaaat?! Does that mean Taishin's stuck\nwith the\nworst possible luck?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I don't really care, actually...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But you <i>should</i> care! Oh, poor Taishiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Geez... Shut up already! And stop crying!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Afterward, it seems like their wishes\ncome true\nwith Нарита Таисин making a\nfull recovery.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Though she's able to calm Winning\nTicket\nafterward, Нарита Таисин's\ncondition\nunfortunately doesn't improve.",
+            "name": "Монолог"
+        }
+    ]
+}

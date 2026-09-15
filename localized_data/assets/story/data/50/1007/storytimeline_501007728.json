@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Mission accomplished! Good job\nassisting the\nUmamusume prisoners on\ntheir grand escape!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "I could've saved more..."
+            ]
+        },
+        {
+            "text": "Eh, the rest'll be fine. It looks like\nthey're pretty\nhappy living in the clear\nbox.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's up to us to find a safe home for the\nfreed\nUmamusume... We need to find\ntheir Eden too.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "For now, we can turn McQueen or\nJordan's room\ninto a temporary Eden for\nthem.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now that that's settled, let's go!\nOnward, valiant\nsoldiers, to the noble\nland of Temporary Eden!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That went pretty well!",
+            "name": "Монолог"
+        }
+    ]
+}

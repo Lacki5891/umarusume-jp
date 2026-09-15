@@ -1,0 +1,338 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the Spring Fan Fest! It's during\nthis\noccasion that the academy opens its\ndoors to\nfans, somewhat similar to a\nschool festival.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a rare opportunity to see the\nstudents\nparticipating in all kinds of\nactivities outside of\ntheir usual races, so\nfans gather from all around,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "More people have shown up than we\nexpected,\nand we're having trouble\nkeeping the line in\norder.",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "Send patrol groups C and D to the gate\nto sort\nout the situation there.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I've also received reports that some fans\nare using\nflash photography without\npermission.",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "Contact the nearest patrol group and\nsend them\nout with security to issue\nwarnings.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The task of overseeing the Fan Fest\nactivities is\nkeeping the student council\nbusier than ever.",
+            "name": "Монолог"
+        },
+        {
+            "text": "At Эйр Грув's request, I've pitched in\nto help\nwith the event management too,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Vice President, bad news!",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "What's the matter?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "One of the students who was going to\nparticipate\nin the scavenger hunt has\ncome down with a fever!",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "There was a mix-up, and we didn't get\nword until\njust now... I don't think we can\nfind a replacement\nin time!",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "The president will be back shortly. I'll\nask her to\ntake over for me while I enter\nthe scavenger hunt\nmyself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "R-really?! Are you sure?",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "This isn't a lengthy event like the\nmarathon—it\nshouldn't take too much of\nmy time. I'll be right\nback once I'm done.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Trainer, you're coming with me. I'll need\nyou to\npass on any messages from the\nstudent council.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "text": "Am I seeing things, or is that Air\nGroove?!",
+            "name": "Male Fan A"
+        },
+        {
+            "text": "I don't believe it! <i>She's</i> joining the\nscavenger\nhunt?!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "We would like to make a quick\nannouncement.\nThere has been a change\nin the participants of\nthe scavenger hunt.",
+            "name": "Announcer"
+        },
+        {
+            "text": "Participant number five has dropped out\ndue to\nsudden illness. Эйр Грув will be\nparticipating in\nher place. Thank you for\nyour understanding.",
+            "name": "Announcer"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now then... If I'm going to participate at\nall, I\nmust give this scavenger hunt my\neverything.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "<i>Kablam!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aaand the scavenger hunt is underway!\nEveryone\nin the audience, please help\nthe participants out\nif they come up to\nyou!",
+            "name": "Umamusume Комментатор"
+        },
+        {
+            "text": "Look at Эйр Грув go! She's the first to\nreach the\ntable and secure her card with\nthe items she\nneeds to find!",
+            "name": "Umamusume Комментатор"
+        },
+        {
+            "text": "(Now, let's see...)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh dear, Эйр Грув is looking quite\nworried!\nStill, she's off toward the crowd!",
+            "name": "Umamusume Комментатор"
+        },
+        {
+            "text": "Would anyone here happen to have any\nof my\nmerch?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The list in Эйр Грув's hand reads:\n\"Three items\nof your own merch.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув is a substitute, so no one was\n\nexpecting her to be here. This is bad!",
+            "name": "Монолог"
+        },
+        {
+            "text": "If anyone happens to have any of my\nmerch,\ncould I please borrow it?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I do! I have a keychain with you on it!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Me too! I have an Empress wristband!\nHere!",
+            "name": "Female Fan B"
+        },
+        {
+            "text": "Эйр Грув! I have one of your pins!",
+            "name": "Male Fan A"
+        },
+        {
+            "text": "Thank you all so much. The Empress\nshall make\nthe most of your support.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув borrows the three pieces of\nmerch and\ndashes to the finish line.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow... She was so incredible I almost\nforgot to\nbreathe. I'm so glad I was born\nin the same era as\nher...",
+            "name": "Female Fan B"
+        },
+        {
+            "text": "Sh-she's glorious! Ahhh, even her hands\nwere\nelegant!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "That pin is going to be a family\nheirloom. I'm\nputting it in my will!",
+            "name": "Male Fan A"
+        },
+        {
+            "text": "Эйр Грув dashes off and successfully\nsecures\nfirst place in the scavenger hunt.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After the scavenger hunt, the rest of the\nFan Fest\nproceeds without issue, and the\nparticipants all\nleave satisfied.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув, having run herself ragged as\nboth\nmanager and participant, takes a\nmoment to\ncatch her breath.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have to say, I'm a tad bit worn out.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You did so much today."
+            ]
+        },
+        {
+            "text": "The same goes for you. Thank you for all\nyour\nhelp.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All in all, I'm happy the event went as\nwell as it\ndid.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "The scavenger hunt was a bit touch and go."
+            ]
+        },
+        {
+            "text": "That it was. I may have been a surprise\n\ncontestant, but that didn't mean I could\nallow\nmyself to lose.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I have those three fans to thank for my\nvictory\nthough.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You'll have to repay them with a stunning\nperformance in the Takarazuka Kinen."
+            ]
+        },
+        {
+            "text": "Indeed...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Afterwards, Эйр Грув and I raise our\nglasses of\ncarrot juice in a toast,\ncelebrating a successful\nend to the Fan\nFest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Me, me, me! I'm your <i>biggest</i> fan! I've\ngot\neverything! Photos, keychains, pins,\nphone\ncases—you name it!",
+            "name": "Female Fan B"
+        },
+        {
+            "text": "Oh, oh! I've got some accessories! And\ndid you\nnotice I'm dressed just like you?",
+            "name": "Female Fan C"
+        },
+        {
+            "text": "Look at me, Эйр Грув! I've got a hand\nfan with\nyour face on it!",
+            "name": "Female Fan D"
+        },
+        {
+            "text": "Check this out! Empress shirt, Empress\ntowel,\nEmpress wristband, Empress light\nstick! I've. Got.\nIt. All!",
+            "name": "Male Fan B"
+        },
+        {
+            "text": "Эйр Грув! Empress! Air\nGroovey-Groove!",
+            "name": "Various Fans"
+        },
+        {
+            "text": "I didn't think there'd be so many of\nthem...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Chaos is threatening to unfold!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Everyone! Silence, please!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's voice can be heard over the\ncrowd.\nAll of her fans close their mouths\n\nsimultaneously—almost as if they had\nrehearsed\nfor this very moment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you. Now, you there. And you.\nAnd the\nman over there. Yes, you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If I may, I would like to borrow an item\nfrom each\nof you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The Empress will reward your support by\nclaiming\nvictory without fail.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Three pieces of merch in hand, Air\nGroove dashes\noff decisively for the\nfinish line.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Em-press! Em-press! Em-press!\nEm-press!",
+            "name": "Various Fans"
+        },
+        {
+            "text": "Amid roaring cheers, Эйр Грув\nsuccessfully\ncrosses the finish line in first\nplace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After the scavenger hunt, the rest of the\nFan Fest\nproceeds without issue, and the\nparticipants all\nleave satisfied.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув, having run herself ragged as\nboth\nmanager and participant, takes a\nmoment to\ncatch her breath.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm happy to say we've wrapped up the\nFan Fest\nnicely.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You worked so hard today."
+            ]
+        },
+        {
+            "text": "As did you. Thank you for all your help\ntoday.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Personally speaking, I found it to be\nquite a...\nsobering event.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You mean at the scavenger hunt?"
+            ]
+        },
+        {
+            "text": "Yes. It was an enlightening experience\nseeing with\nmy own two eyes just how\nmany fans were\nwatching me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I must be the ideal Empress for them\nall—now and\nforever.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Let's show them at the Takarazuka Kinen."
+            ]
+        },
+        {
+            "text": "Indeed.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Afterwards, Эйр Грув and I raise our\nglasses of\ncarrot juice in a toast,\ncelebrating a successful\nend to the Fan\nFest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I secretly pray that the support of all her\nfans will\ngive her the strength to do her\nbest at the\nTakarazuka Kinen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I secretly pray that her experience with\nthe fans\ntoday will give her the strength\nto do her best at\nthe Takarazuka Kinen.",
+            "name": "Монолог"
+        }
+    ]
+}

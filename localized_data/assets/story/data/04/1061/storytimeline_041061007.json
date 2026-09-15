@@ -1,0 +1,257 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp has officially kicked off this\nweek, with Кинг Хало\ngoing through my\nbeach training program.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, I think I've done enough practice\nat the beach.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "text": "Hehehe. ♪ I guess I'll have to enlighten\nyou.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "A little bird told me about a top-secret,\nfirst-rate training area used\nby G1 racers!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "There's supposedly a super advanced\ncourse in the forest behind our\ncamp. I bet\nyou're unaware of it.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Uh huh..."
+            ]
+        },
+        {
+            "text": "Ohohoho! Of course you're unaware, it's\nnot easy to come across this\ninfo after all!\nEven I was only able to find it thanks to my\ninternet\nsleuthing skills.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, a lot of posts did warn that amateurs\nare in for a world full of\npain, but that\ndoesn't apply to me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll handle all the planning, so don't worry!\nJust follow my lead!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Although Кинг Хало seems confident in her\nchoice...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whaaat? King, are you really going to run\nin the forest tomorrow?",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "Yeah, why do you ask?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Are you sure it's a good idea? I heard that\nthe course is kinda\nquestionable...",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "Heh-heh, no need to fret! As a first-rate\nracer, I'll show you that I can\nrun any\ncourse thrown at me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...I feel uncertain. I better prepare some\nsupplies for tomorrow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, the day arrives.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohohoho! Good morning, Trainer! Today, I\ngrant you the honor of\naccompanying me\nas I put my perfect practice plan into\naction!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I've prepared thoroughly for this moment.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I spent last night researching everything I\ncould about the course.\nEvery important\nplace has been marked on my phone's\nmap!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Is that the only map you've brought?"
+            ]
+        },
+        {
+            "text": "Oh please, we're in the digital age now. I\ndon't need anything else\nwhen I've got\neverything on my phone.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "On the other hand, it looks like you've still\ngot lots to learn. I don't\nknow why you\nbrought such a heavy backpack with you.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, as long as I don't have to carry any\nexcess luggage, I'm\nperfectly happy. All\nright, let's not waste any more time here!\nFollow\nme!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало's adventure in the mountains\nbegins.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... running on this mountain trail is\nexhausting. There are too\nmany uneven\nareas and natural obstacles in the way.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The roads aren't paved and the humidity is\nway too high. I wonder\nwhat temperature it\nis right now... Ah, where's my cellphone—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ahhhh! There's a b-b-bug!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "T-T-Trainer! Hurry up and do something!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "I-I'm okay. This isn't enough to make me\ngive up. All right, let me\ncheck the next\ndestination...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hey, Trainer, did you happen to see my\nphone anywhere?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Did you... lose it?"
+            ]
+        },
+        {
+            "text": "O-of course not! I'm just asking a question!\nA first-rate racer would\nnever lose her\nphone...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Come on, think... think... Aha!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That must be it! Trainer, remember the\nplace where that bug attacked\nus? We\nhave to go back there!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I believe it was at the second rest area.\nOkay, that's a great start. I've\ngot\neverything under control. I just need to\ncheck the GPS on my\nphone...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "—which I don't have!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "...Are you sure you're okay?"
+            ]
+        },
+        {
+            "text": "I-I'm doing perfectly fine! This minor\nsetback isn't going to faze me...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm gonna find my phone, I'm gonna get\nout of this forest, and I'm\ngonna go back\nto the camp...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "At this rate, it's clear things are going\ndownhill. I unfold my map and\nbegin\nmarking down the places we've been.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nnngh, what could you possibly be doing\nright now?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I've prepared for this very moment."
+            ]
+        },
+        {
+            "text": "Wait, is that a map and a compass in your\nhands? And that red line...\nis that the road\nwe've taken so far?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh my gosh, that's amazing, Trainer! With\nthis, I'll be able to find\nmy—",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "—phone? Yeah, let's go look."
+            ]
+        },
+        {
+            "text": "Nngh... Yes... please...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Somehow, we managed to return in one\npiece...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Are you hurt anywhere?"
+            ]
+        },
+        {
+            "text": "Nope, not a single scratch on me, or my\nphone...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But, I'm surprised by how much\npreparation you were able to do in\nsuch a\nshort amount of time. I told you about the\ncourse only\nyesterday.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Well, I'm trying to be a first-rate trainer."
+            ]
+        },
+        {
+            "text": "Hmph, don't let that get to your head. But\nI admit, it was my fault this\ntime. I didn't\ndo nearly enough planning.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "If you hadn't brought that map and\ncompass with you, we would've\nprobably\nfound ourselves in an even bigger mess.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So I'm... sorry for putting you through all\nof that.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'm just glad you're safe."
+            ]
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Since today's special, I'll give you a bit of\npraise. You've\ndemonstrated traits worthy\nof being with a first-rate racer such as\n\nmyself.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Anyway, we should review what we did\ntoday and prepare for\ntomorrow's forest\ntraining. This time it'll be perfect.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You want to go again tomorrow?!"
+            ]
+        },
+        {
+            "text": "Of course! Who do you think I am? Words\nlike \"impossible\" and \"give\nup\" don't exist\nin my dictionary!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Let's hurry and go back to the camp now!\nA first-rate trainer wouldn't\ndream of\nmaking me wait, right?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Upon returning, we immediately begin\ndevising a strategy for\ntomorrow's\nexcursion.",
+            "name": "Монолог"
+        }
+    ]
+}

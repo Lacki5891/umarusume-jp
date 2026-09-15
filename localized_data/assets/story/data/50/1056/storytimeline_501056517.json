@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm taking a stroll in the park on my day\noff,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> Hm? That squawking...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Argh?! Y-you have to be kidding me...\nAm I in the\nfirst circle of hell?!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Ah, my salvation! I beg you, Trainer,\nrescue me\nfrom the misery of these dark\ndepths before I\nsuccumb to misfortune!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I was feeling groggy and dozed off on\nthe\nbench... I only just woke up! That's\nwhen...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I heard a crow caw four times above my\nhead!\nThat's definitely a sign things will\ntake a turn for\nthe worse!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "My mom always used to warn me to\ncome back\nhome before the crow's first\ncaw! It means danger\nis just around the\ncorner!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "After an untimely encounter with an\nomen of\nmisfortune, Матиканэфукукитару\nseems to be\ncompletely drained of\nenergy...",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эль Кондор Паса didn't show up for\ntraining, so I\ndecide to go looking for\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soooaring... dunk!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Damn, we lost again! It's no fair to\nrecruit El for\nhelp!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Hehe! Aerial attacks are a condor's\nspecialty!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Just keep giving me the ball and I'll\nkeep droppin'\n'em in!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Uh, El... I think your trainer is here...",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Qué? What's up, Тренер? You need help\nwith\nsomethin'?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Did you forget about training?"
+            ]
+        },
+        {
+            "text": "Ah, that's right! I totally spaced!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I was only gonna play for a little bit, but\nmy\ncompetitive spirit got the best of\nme...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'll be careful next time. I'm really sorry...",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

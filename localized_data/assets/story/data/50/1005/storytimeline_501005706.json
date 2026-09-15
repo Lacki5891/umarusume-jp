@@ -1,0 +1,142 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After wrapping up some errands with\nFuji Kiseki,\nwe start heading home."
+        },
+        {
+            "text": "Trainer, can you come with me\nsomewhere after\nthis?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Sure, but—"
+            ]
+        },
+        {
+            "text": "Thank you! I knew you'd say yes!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And thank goodness because I've\nalready\nreserved seats for us. ♪ Come\non!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Seats for what?!"
+            ]
+        },
+        {
+            "text": "Don't worry, you'll see soon enough. Just\nleave\neverything to me.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I have no choice but to follow her as she\nbrings\nme to the planetarium.",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "Shhh, just relax. The show's about to\nbegin.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I rest on the reclining seat, and before I\nknow it,\nwe're drifting along a sea of\nstars."
+        },
+        {
+            "text": "Did you have fun today? I like the\nconcerts we\nput on, but it's nice to\nwatch the stars dance once\nin a while\ntoo, don't you think?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It was cute how the stars of the Big\nDipper\nseemed to dance around. It made\nit look like Ursa\nMajor itself was\ndancing! ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Spica is so gorgeous and mysterious,\nand... well, I\nthink its sparkle is just like\nthe twinkle in your\neyes.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Thank you. But why did you bring me here?"
+            ]
+        },
+        {
+            "text": "Hehe. Because I wanted to give you\nsome time to\nrelax.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You always work so hard to show me\nthat I burn\njust as brightly as any star in\nthe night sky.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "So, as thanks, I wanted to show you stars\ntoo.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Every distant twinkling star in the vast\nvelvet\nstretch above us represents a\nfraction of the\ngratitude I feel for you\nevery day. ♪",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "So <i>that's</i> why you chose a planetarium..."
+            ]
+        },
+        {
+            "text": "Exactly. From here onward, let me be\nyour guide\nto the rest of your dreams.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I want to be a miracle even to those\nclosest to\nme. So tell me... what kind of\nsurprise would you\nlike next?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I want to see real stars next time.",
+                "Anything we do together is special to me."
+            ]
+        },
+        {
+            "text": "I want to be a miracle even to those\nclosest to\nme. So tell me... what kind of\nsurprise would you\nlike next?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I want to see real stars next time.",
+                "Anything we do together is special to me."
+            ]
+        },
+        {
+            "text": "Real stars, eh? So you want to travel into\nspace\nwith me next, do you?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "We don't have to see them <i>that</i> up close..."
+            ]
+        },
+        {
+            "text": "Haha! Never mind simple race tours—I'd\nlove to\ngo on a never-ending journey to\nthe far reaches\nof the Milky Way with\nyou.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm sure it would be delightful to talk\nabout this\nand that while weaving\nthrough constellations.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll go anywhere you wish when the time\ncomes.\nIt's a promise, my dear\nCampanella. ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...?!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Haha... You can be kind of scary\nsometimes, you\nknow?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I can't believe you were able to pull of\nsuch a\nsmooth line despite never having\nstudied theater.\nYou're something else.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Then again... you and I are both\nentertainers, so\nperhaps it's good that\nwe can surprise one\nanother.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Let's keep dancing this never-ending\nwaltz\ntogether, you and I, while sharing\nour dreams.\n...Did you like that one?\nHehe. ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Gazing at the stars is certainly calming,\nbut her\nsweet words are more soothing\nthan anything in\nthe world."
+        },
+        {
+            "text": "There many be innumerable stars in the\nsky, but I\nhave the feeling the brightest\nstar of all is the one\nstanding right\nbeside me."
+        }
+    ]
+}

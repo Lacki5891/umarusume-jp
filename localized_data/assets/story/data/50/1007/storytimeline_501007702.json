@@ -1,0 +1,217 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Шипп turns to me as we're passing\nthrough a\npark on the way home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "T to the rainer, aka \"Trainer\"!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Let's have a little swing-a-roo on those\nswingy\nswings!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We're gonna sing while we swing, and\nthe first\none to bite their tongue loses!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What kind of game is that?"
+            ]
+        },
+        {
+            "text": "Hm?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "S-somebody save meee!",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "Holy guacamole! Is Armageddon upon\nus?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Huh?! Uh, no, it's nothing that serious...",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "But it's still an emergency! You have to\nhelp me!\nLook over there!",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "The girl, who can't be much older than\nten, points\na shaky finger across the\npark.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh! Where'd she go?!",
+            "name": "Suspicious Man A"
+        },
+        {
+            "text": "I'm certain she ran off in this direction...\nHey,\nsearch the playground!",
+            "name": "Suspicious Man B"
+        },
+        {
+            "text": "Wow, check it. They're literally\nSuspicious Man A\nand Suspicious Man B\nover there.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hang on... Are they after <i>you,</i> kiddo?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yes... Please don't be alarmed, but the\ntruth is,\nwell...",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "I'm a princess from a faraway land, and\nthey're\nassassins sent to kill me!",
+            "name": "Mysterious Girl",
+            "choice_data_list": [
+                "Whaaat?!"
+            ]
+        },
+        {
+            "text": "No waaaaay!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Then... Could it be? Are you the heir to\nthe\nlong-lost Argent Kingdom?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "History recalls how the king's\ntwenty-one\ndaughters scattered upon\nhearing news of his\nuntimely death\namidst the coup twelve years ago.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "O princess... To think! To think that\nyou're safe! It\nis an honor to meet you!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I, um, well...",
+            "name": "Mysterious Girl",
+            "choice_data_list": [
+                "(Golshi's totally commandeered the\nconversation!)"
+            ]
+        },
+        {
+            "text": "She's not here, either... Goodness, why\nmust she\ndo this every time?",
+            "name": "Suspicious Man A"
+        },
+        {
+            "text": "Please come out, my lady! Your lessons\nwere to\nbegin quite some time ago! Your\nfather is going\nto be beside himself!",
+            "name": "Suspicious Man B"
+        },
+        {
+            "text": "...It seems the girl is being pursued for a\n\ncompletely different reason than she\nclaims.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Duty has called, and I, the Golden\nKnight, shall\nrise to meet it! Princess,\nhave no fear! I shall\nprotect you from\nthese evildoers!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "...Well met, brave knight! As my shield,\nsee that\nno harm comes to me!",
+            "name": "Mysterious Girl",
+            "choice_data_list": [
+                "(She's playing along?!)"
+            ]
+        },
+        {
+            "text": "Yes, Your Highness! I live to serve!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now, Trainer! My faithful right-hand\n\ncompanion—er, that's a bit much. My\nfaithful\nright-pinky companion!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Have you a plan to keep Her Highness\nsafe?!\nWell? Do you?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "I think it's better if we let them find her.",
+                "When hiding a tree, one must make for the\nforest!"
+            ]
+        },
+        {
+            "text": "Have you a plan to keep Her Highness\nsafe?!\nWell? Do you?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "I think it's better if we let them find her.",
+                "When hiding a tree, one must make for the\nforest!"
+            ]
+        },
+        {
+            "text": "What? I don't wanna be found! If they\nfind me, I'll\nhave to sit all alone and\nstud―er, I mean...",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "Ugh! See, this is why you'll only ever be\na pinky!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Princess, let us leave this pinky to itself\ntill its\nnails grow over.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now, climb onto my back! The Golden\nKnight will\nsave you!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Listen up, baddies! Get outta the way if\nyou don't\nwanna get hurt!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ack! What the—my lady?! Stop right\nthere!",
+            "name": "Suspicious Men"
+        },
+        {
+            "text": "Ahahaha! Wow, miss―oops, I mean\nbrave knight!\nYou're very fast!",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "Hyahaha! 'Tis I, the Golden Knight,\nlethal weapon\nof the Argent Kingdom!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Wowzers! That plan is perfect! I\nexpected nothing\nless from Trainer the\nWise!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But this is no time for dawdling! Princess,\nthis way!\nQuickly!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Huh? Where are we going?",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "Oh, wow! Is this a racecourse? I've never\nbeen to\none before!",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "Bwahaha! They'll never find you with all\nthese\npeople around, even if they have a\n+1 in\ninvestigation!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Look at that, Trainer. Turns out you do\nhave\nsome good ideas sometimes! I\nofficially promote\nyou from pinky to\neyelash!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...I end up with no choice but to join the\nmen and\nchase after Голд Шипп as she\nflees with the girl.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After enjoying the races for a while, we\nescort the\ngirl back to her home.",
+            "name": "Монолог"
+        }
+    ]
+}

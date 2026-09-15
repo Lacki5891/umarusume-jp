@@ -1,0 +1,192 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, when visiting the library...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Please... I beseech you!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "O-Opera O? This is a library...",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Oh! A thousand pardons. To violate the\nlibrary's\ncode of conduct is a betrayal of\nbeauty itself. As\nsuch... Ahem...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Please... I beseech you...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Um, your voice is softer this time, but...",
+            "name": "Зенно Роб Рой",
+            "choice_data_list": [
+                "What's going on here?"
+            ]
+        },
+        {
+            "text": "Ah, fine trainer. Assist me in my\nendeavor, would\nyou?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "For she is the scholar of songs who holds\n\nknowledge of the composition I seek.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "A scholar of songs?"
+            ]
+        },
+        {
+            "text": "Th-that phrasing is somewhat\nperplexing...",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "I ask for a quick summary to get up to\nspeed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As it turns out, Т.М. Опера О has come\nhere to\nask Зенно Роб Рой for opera\nrecommendations.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She is a veritable fountain of knowledge!\nI would\ninvite her expertise for the\nbenefit of my\ndramaturgy!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Th-that's... You're exaggerating.",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "I-I simply like to read books. I'm\nnowhere near\nqualified to handle such a\nhigh request.",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Rob Roy.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "...Yes?",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "I am beautiful.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Huh? W-well, yes... you are.",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Then no other words are necessary.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "...?",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Зенно Роб Рой is beyond confused. It\nlooks like I\nneed to step in.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "In layman's terms?"
+            ]
+        },
+        {
+            "text": "There are none. When an assessment is\nmade, it\nmust be made rightly. Am I\nwrong?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Rob Roy, your intimate knowledge of\nbooks runs\ndeЭпизод You should be praised\nfor it and proud of\nit.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Never should it be taken lightly, even by\nyourself.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "...!",
+            "name": "Зенно Роб Рой",
+            "choice_data_list": [
+                "It's true."
+            ]
+        },
+        {
+            "text": "You both think so?",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "So, I beg of you once again—might you\n\nrecommend a play worthy of one such as\nI?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "...",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Very well. I'll pick what I consider to be\nthe finest\nof works!",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Зенно Роб Рой comes back with two\nscripts of\nrecommendation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The one we decide to read first is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "An epic about a racing deity.",
+                "The tale of a heroic savior of the people."
+            ]
+        },
+        {
+            "text": "Heh-heh, what a coincidence. I have\nbeen\nmeaning to read that very one!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Opera O and I absorb ourselves in the\nstory.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What is it thou desires?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Speed? So be it... Now, go forth.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Heh-heh, what a coincidence. I have\nbeen\nmeaning to read that very one!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Um, Opera O! I've procured another\nbook for you\ntoday!",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Ah! Thank you... Hehe, I can hardly wait\nto read\nit.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "She gave you another recommendation?"
+            ]
+        },
+        {
+            "text": "Yes, I have the urge to read more heroic\ntales.\nPeople yearn for heroes of all\nshapes and sizes.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Heh... It seems the hero of her dreams\nand I, the\nOverlord, somewhat differ.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Reading books seems to have helped\nT.M. Opera\nO come to a realization.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm not sure what's come over T.M.\nOpera O, but\nit's having a positive effect\non her running.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After training for the day, Biwa\nHayahide and I\nstart tidying up when\nsomeone catches her\nattention..."
+        },
+        {
+            "text": "Hm? Taishin! Are you done for the day\ntoo?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm just taking a break. I still have a little\nmore to\ndo.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You can't be serious. It's already dark.\nResting up\nfor the next day is just as\nimportant as—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Leave me alone. I don't need your\nnagging. I\nknow what I'm doing.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The nerve! As her friend and rival, how\ncan I just\nleave her be?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Trainer, I'm worried about Taishin.\nWould it be all\nright if I train with her for\na while?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Sure. I'll help.",
+                "You should have more faith in your rival."
+            ]
+        },
+        {
+            "text": "Trainer, I'm worried about Taishin.\nWould it be all\nright if I train with her for\na while?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Sure. I'll help.",
+                "You should have more faith in your rival."
+            ]
+        },
+        {
+            "text": "Thank you! I really appreciate it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Taishin! Hold on!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You wanna train together? Why? Didn't\nyou just\nsay you were done for the day?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Watching you made me want to run\nmore myself.\nPlease, can't I join you?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Okay, fine. It's not like you'll take no\nfor an\nanswer, anyway.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Don't blame me if you're tired tomorrow.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hm... I guess you're right.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Besides, it's not like we can both come\nin first\nplace. All of us are training to\nwin.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The best thing I can do is go home and\ntake care\nof myself, then.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I have to be in top condition to compete\nwith her,\nafter all!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "With that, Бива Хаяхидэ watches her\nrival go off\nto train alone as she returns\nto her dorm."
+        },
+        {
+            "text": "They spend the evening training\ntogether until\njust before curfew."
+        }
+    ]
+}

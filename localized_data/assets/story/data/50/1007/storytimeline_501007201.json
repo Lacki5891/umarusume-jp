@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day has finally arrived for the\nHopeful\nStakes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's today's race again? The Heartful\nGretel? I\nheard it's the first race ever\nheld underwater.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hehe! Finally, the day I can show the\nworld my\nstunning butterfly stroke has\ncome!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Just you wait, Pacific Ocean! I'll see you\nas soon\nas I get past the Japan Trench!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "She's definitely excited for the wrong\nthing, but\nat least she's excited to race\nin general!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "D-do your best!"
+            ]
+        },
+        {
+            "text": "Will do! Nothing can stop me, much less\na measly\noceanic trench or two!",
+            "name": "Голд Шип"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Even the atmosphere here feels\ndifferent! As\nexpected of the vaunted\nG1 moniker.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I'm starting to get nervous!"
+            ]
+        },
+        {
+            "text": "Ahaha! Are you all right?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hang on, I know what'll help. My mother\ntaught\nme a breathing exercise back\nwhen I was still an\nactor.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's great for getting rid of nerves, so\nlet's do it\ntogether.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "First, set your feet shoulder-width apart\nand\nplace your hands on your stomach.\nThen focus on\nbreathing with your\nstomach.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Breathe in through your nose... and\nbreathe out.\nGood, just like that!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Breathe in... Breathe out... Hehe. I guess\nI was a\nlittle nervous too.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I can hear the din of the crowd over the\nquiet\nsound of our synced breathing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Right, how was that? Do you feel better\nnow?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I feel a <i>lot</i> better."
+            ]
+        },
+        {
+            "text": "Great! On that note, I'll be off now.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I hope you're excited for the show I'm\nabout to\nput on.",
+            "name": "Фудзи Кисэки"
+        }
+    ]
+}

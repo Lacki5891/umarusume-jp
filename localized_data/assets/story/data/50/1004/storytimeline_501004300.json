@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today marks the end of our time at\nsummer camp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Geez... Youth sure is fleeting, huh? I\ncan't believe\ncamp is already over.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But this is no time to get sentimental.\nThe Arima\nKinen will be here before we\nknow it.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to use what I learned at camp\nto have\nthe best race possible!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Huh? Where are you going, Тренер?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I was thinking... of taking the bus..."
+            ]
+        },
+        {
+            "text": "...Huh? Where are you going, Тренер?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I was thinking... of taking the bus..."
+            ]
+        },
+        {
+            "text": "Don't be ridiculous! You and I are going\nfor a\njoyride with Tata!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Don't be ridiculous! You and I are going\nfor a\njoyride with Tata!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Come on, let's <i>burn rubber</i> all the way\nhome!",
+            "name": "Марузенски"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few days after running into\nMatikanefukukitaru...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heya! Can I borrow a minute of your time?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "I was thinking about starting my training\nfor tryouts today—like, <i>real</i>\ntraining!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It was revealed to me through my\nhoroscope that doing well at the\nupcoming\ntryouts is paramount to my success.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Which means that I'll be needing your\nguidance! That's okay with you,\nright?!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "But I'm not even your trainer yet!"
+            ]
+        },
+        {
+            "text": "A TV psychic said to \"lend your ear to the\nexperts.\" And you're an\nexpert trainer,\nright?! So you gotta train me—you just\ngotta!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару won't take no for an\nanswer, so I finally give in to\nher request\nto do some training with her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are you serious?! My training is running in\na scrimmage?!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You said you wanted \"<i>real</i> training,\" right?"
+            ]
+        },
+        {
+            "text": "I mean, yeah... I did, but...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Thinking that the best way to improve is to\ngain as much experience\nas possible, as\nquickly as possible, I've already organized\na\nscrimmage for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Howdy there! May the better runner win\nthe race!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Whoa! I'm going against Taiki?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Your trainer here came to me to ask if I\ncould lend a hand! It's the\nleast I can do as\nyour friend!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "But you're practically good enough to\nmake your debut! Trainer, I\ncan't race\nagainst her!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What happened to listening to the experts?"
+            ]
+        },
+        {
+            "text": "Aaargh! Ya got me there...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Could I at least try reading my fortune\nfirst?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Eko, eko, azure seal! Eko, eko, wall o' rust!\nGoddess of victory, heed\nmy call!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "She chants some kind of mysterious\nincantation, pulls a pencil out of\nthin air\nand rolls it on the ground.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! Great fortunes await me at the end\nof this race!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's decided! I <i>will</i> run in this scrimmage!\nWitness me fly faster than\nI've ever flown\nbefore!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ya ready, Taiki?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You betcha! I'm locked and loaded! Let's\nhave a little fun, why don't\nwe?!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "And so begins the scrimmage between\nMatikanefukukitaru and Taiki\nShuttle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant... pant...</i>",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Wow... Taiki really is something. I'd better\npick up the pace!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I won't lose though! After all, fortune\nstands by my side today!\nForward—to a\nglorious future of luck aplenty!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I lost?! But how?!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I guess you ran out of luck."
+            ]
+        },
+        {
+            "text": "Hrnnng... That's not it at all!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I need to funnel this frustration into\nmotivation! That's what my great\nfortune\nis—I'm sure of it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Anyway, I need to book it! The next race\nisn't gonna win itself!\nUwaaah!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hey, are we done already?! But I wanted\nto run with ya some more!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "That night, right as I'm leaving the\nacademy campus, I hear a strange\nvoice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Woiya... Haiya... Reveal tonight's lucky\ntrack to mine eye!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Huh? Oh, it's you.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What are you doing?"
+            ]
+        },
+        {
+            "text": "Well, I want to go running, but I first need\nto figure out the best track\nto run on!\nNothing a little bit of divination can't\nsolve!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The great Shiraoki would be displeased if I\never attempted to rely on\nluck alone!\nGood fortune blesses those who work for\nit!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "The great... Shiraoki?"
+            ]
+        },
+        {
+            "text": "Shiraoki is this amazing goddess who\nappears in my dreams! She tells\nme what's\nlucky and leads me along a path of great\nfortune!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "If I'm ever feeling lost, down, or anxious,\nshe cheers me up—makes\nme feel better!\nShe even helped me during my scrimmage\nwith Taiki!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The reason why I'm even here right now is\nall thanks to the great\nShiraoki! I chose to\nbelieve in her, and that brought me to\nwhere I am\ntoday...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "A benevolent and irreplaceable goddess, huh?"
+            ]
+        },
+        {
+            "text": "Spot on! Now you're getting it! She's\namazing, isn't she?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "In any case, I need to get back to training!\nI'm off to the lucky track!\nSuper Fortune\nDaaaash!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wait, what?! Why is there a puddle here?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "These divinations seem to serve as some\nkind of motivation for her to\nfulfill her own\ndesire to run.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Матиканэфукукитару is definitely an\nUmamusume of many quirks, but I\nfeel like\nI'm beginning to see who she really is\nbehind her shell of\nfortune.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I head to the training grounds to see how Mejiro McQueen is faring\non the day after her tryout race."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "This won't do. I can't seem to channel strength into my legs, just like\nyesterday. This is worrisome..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Sigh...</i>",
+            "choice_data_list": [
+                "2Does your stomach hurt?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You... I'm sorry, have we met?",
+            "choice_data_list": [
+                "Not yet. I'm a new trainer. Nice to meet you.",
+                "Not yet. I'm a new trainer. Nice to meet you."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My, a trainer? Have you come to observe my routine, perchance?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What an honor! I must thank you for coming out here for me."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Though, I must ask: what is it about me that you wish to observe?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "As you no doubt saw, I did naught but practically drag my family's\nname through the mud at yesterday's tryout race."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So after seeing that, why me?",
+            "choice_data_list": [
+                "I admire your tenacity."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tenacity... I see. Thank you for looking beyond the surface level."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "As an Umamusume of the Mejiro family, it wouldn't suit me to be weak\nof will."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "At the very least, I am glad I was able to show that I remain\nunshakable in my efforts to succeed."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Though, I do hope that you will refrain from deciding whether or not\nto bring me under your tutelage until after you have seen me run\nmore."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Another thing that I possess as a Mejiro is a certain lofty\nambition—one that I cannot afford to leave unfulfilled under any \ncircumstances.",
+            "choice_data_list": [
+                "A lofty ambition?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes. Namely, victory at the Tenno Sho."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That is, of course, something I cannot hope to accomplish without the\nproper guidance from a trainer."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If that trainer were not able to place their full confidence in my\nability, then there is no conceivable way that I would receive said\nguidance."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So again, please wait to decide whether or not to scout me until you\nhave properly assessed my capabilities."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I need to be assured that my trainer will uphold me to the standards\nexpected of a Mejiro.",
+            "choice_data_list": [
+                "You take a lot of pride in the Mejiro name,\ndon't you?",
+                "You take a lot of pride in the Mejiro name,\ndon't you?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Of course! It is such a privilege to have been born to my house."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I am surrounded by a caring family—people who have supported me\nmy whole life. I could not abide letting any of them down."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It is thanks to them that I even stand on this training track now."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Which is why I, as a Mejiro Umamusume, want nothing more than to\nachieve the glory befitting of my family name."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To that end, I must insist that you only make your decision after you\nwitness my physical ability as well.",
+            "choice_data_list": [
+                "Very well.",
+                "Very well."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you. I know very well that my showing yesterday was incredibly\npoor... But I <i>will</i> redeem myself here!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Here I go. Observe the fruits of years of training within the Mejiro\nestate!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen takes off running, her spirits appearing somewhat\nrenewed."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Phew...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Likely owing to the fact that she has been training from a young age,\nher form is refined and beautiful."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "All right... Once more!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She possesses the energy and the tenacity fit for long distances."
+        },
+        {
+            "name": "Monologue",
+            "text": "There is no doubt in my mind that she can become a first-class stayer,\neasily capable of taking home a win at the spring Tenno Sho."
+        },
+        {
+            "name": "Monologue",
+            "text": "There is one thing I am concerned about, though."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Pant, pant...</i> What did you think?",
+            "choice_data_list": [
+                "Do you find it difficult to channel strength into\nyour legs?",
+                "Do you find it difficult to channel strength into\nyour legs?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh? W-well, um..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Urgh...",
+            "choice_data_list": [
+                "Your stomach hurts, doesn't it?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, n-no! That's not the case at all!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Um, please excuse me! I'm going to run one more lap!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I can't embarass myself again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen continues to train as if nothing is amiss. I can clearly\nsee that isn't the case, however."
+        }
+    ]
+}

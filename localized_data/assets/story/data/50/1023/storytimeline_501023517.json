@@ -1,0 +1,38 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I come across Бива Хаяхидэ in\nthe\nhallway, sighing at her reflection in a\nwindow."
+        },
+        {
+            "text": "<i>Sigh...</i> Ugh, I can't even get the sides to\nsettle\ndown.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What're you up to?"
+            ]
+        },
+        {
+            "text": "Same as ever, I'm afraid. Dealing with\nanother\nbad hair day. And today's\nhumidity has made\nthings particularly\nbad. <i>Sigh...</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm sorry to always ask, but would you\nmind\ntaking a look at the back, Tick—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Wait, T-Тренер?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "S-sorry! Please, don't worry about me. I\nthought\nyou were Ticket, for a moment.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Sigh...</i> What am I even doing?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ wanders off, still sighing\nall the\nwhile."
+        }
+    ]
+}

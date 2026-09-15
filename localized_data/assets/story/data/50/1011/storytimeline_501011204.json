@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Arima Kinen is here, but...\nМарузенски is not.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I see just a flicker of hesitation in Grass\nWonder's\neyes, and then she's back to\nacting her prim,\npracticed self.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, now that all the preparations are\ncomplete,\nit's about time.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I glance at her feet and notice she has\nher\ntraining shoes on.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Shouldn't you change into your racing cleats?"
+            ]
+        },
+        {
+            "text": "Ah!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "M-my apologies. I'll put them on right\naway.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Without Марузенски's footsteps to\nfollow, Grass\nWonder looks unsure\nwhere to go.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Even so, the crowd roars—for the gates\nmust\nopen, and the Arima Kinen must go\non.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yo, Grass.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hello there, Sei. How are you feeling?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Decent, I guess? Same old, same old.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hehe. So you're in peak condition, then.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'll keep my guard up.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...? Hey, Grass? Um...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "What is it?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...Nah, forget it.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "See you on the track.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I should be off as well.",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

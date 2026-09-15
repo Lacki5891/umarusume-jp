@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "So... my d-d-debut is finally here. I'm a\nlittle\nnervous, but...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'LL DO MY BEST!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You're fired up all of a sudden."
+            ]
+        },
+        {
+            "text": "Well, it all started after the three of us\nwent to\nthe Derby. I realized I can't\nafford to stay the\nsame!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I need to change. Once my debut is\nover, I'll\nbecome a different me. So,\nthat's why I... I, I'b\nbleeb in melf—",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Slow down. You're muddying your words."
+            ]
+        },
+        {
+            "text": "Huh? Oh, I'm sorry... My heart is beating\nso fast...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I promise to put on a great run. Trainer,\nOpera O,\nwill you two watch me?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Yes, I'm pleased by your enthusiasm.\nNow go\nforth, Doto!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Yeeee!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Was that a reply or a very unique battle\ncry?\nEither way, I have confidence in her!",
+            "name": "Монолог"
+        }
+    ]
+}

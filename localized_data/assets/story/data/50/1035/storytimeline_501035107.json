@@ -1,0 +1,166 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's early February, and I'm out shopping\nwith\nУиннинг Тикит.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I got towels, I got sports drinks... Warm\n\ncompresses, cold spray—all good!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I think I got all the stuff I need for\ntraining. I'm\ngonna keep running all I can\nthis month!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Thank you for coming along."
+            ]
+        },
+        {
+            "text": "No need to thank me! I'm the one using\nthis stuff,\nafter all.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Besides, I was just thinking I gotta go\nshopping.",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Oh, you need something?"
+            ]
+        },
+        {
+            "text": "Heh-heh... Ingredients for homemade\nchocolates!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's almost Valentine's Day, right? I\npromised my\nfriends we'd give each\nother chocolates!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And of course I'm giving you some too!\nYou're\ngonna love it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "On Valentine's Day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems like most students are having a\ngreat\ntime today, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmmm... This is so weird...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Hey, is something up?"
+            ]
+        },
+        {
+            "text": "Remember I told you how me and my\nfriends\npromised to give each other\nchocolates?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But it's so weird. On my way to practice\njust now,\nthey gave me some outta\nnowhere...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Why now? Why today? Is Valentine's\nEve a thing?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "So you didn't give your friends anything?"
+            ]
+        },
+        {
+            "text": "Well, no. I mean, Valentine's Day is\ntomorrow,\nright?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Valentine's is today."
+            ]
+        },
+        {
+            "text": "...Huh?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "NO WAAAY! I got the day wrong!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's why everyone gave me those\nweird looks\nwhen I didn't give them\nanything in return!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Couldn't they have at least <i>reminded</i> me\nthat\nValentine's Day is today? Waaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sniff...</i> I'll apologize and give them their\n\nchocolates tomorrow. I'll bring yours\ntomorrow\ntoo, okay, Тренер?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "No matter how long I wait, Winning\nTicket isn't\nshowing up for training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "When I ask her classmates, they say she\nhurried\nback to the dorm, so I go to take\na look.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm so sorry, Trainer! I forgot to tell you\nI'd be\nlate!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Did something happen?"
+            ]
+        },
+        {
+            "text": "Actually, this morning, I got some\nchocolates\nfrom my fans.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So that's when I remembered Valentine's\nDay is\ntoday!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "If it weren't for those fans, I probably\nwould've\nmade it all the way to practice\nwithout even\nnoticing!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Aww, thanks, fans! You're the b-best!\nWaaaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...Anyway, I figured if I hurry, I can still\nget some\nchocolates ready in time, so\nI'm making them\nright now.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I don't think I can make them <i>and</i>\nget to\ntraining on time...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "That's okay—you do what you gotta do!"
+            ]
+        },
+        {
+            "text": "Aww, Trainer! Thank youuuu!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right, I gotta roll up my sleeves and\nmake\nsome chocolates that'll put a smile\non everyone's\nface!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll make some for you too, so get ready\nfor\nsomething good!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "After she's done, Уиннинг Тикит brings\nher\nchocolates to training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, Уиннинг Тикит ends up\ncelebrating\nValentine's Day one day\nlate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She wrapped them before the chocolate\ncooled,\nso the shapes are a little\nstrange, but they're\nlovingly made and\ndelicious, all the same.",
+            "name": "Монолог"
+        }
+    ]
+}

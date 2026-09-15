@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The first of the Classic Triple Crown\nraces, the\nSatsuki Sho, is finally here,\nand the air at the\nNakayama Racecourse\nis electric.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Anyway, that's basically how I think\nthings will\ngo. I mean, what else could\nhappen, really?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Hmm, I dunno. Эйсин Флэш has really\npolished up\nher game lately...",
+            "name": "Fan B"
+        },
+        {
+            "text": "But you've got her down in a really low\n\nplacement. She's got a strong following,\nso what\ngives?",
+            "name": "Fan B"
+        },
+        {
+            "text": "I get where you're coming from. She\nseems pretty\nstrong, she's making a\nname for herself... but\nc'mon!",
+            "name": "Fan A"
+        },
+        {
+            "text": "This is the Classic Triple Crown!",
+            "name": "Fan A"
+        },
+        {
+            "text": "So this is the Classic Triple Crown... <i>This</i>\nis the\nSatsuki Sho... The crowd is\ndeafening.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Even the air itself feels different from\nthe\nprevious races I've run. The pressure\ncoming from\nthe other racers is\nincredible...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "But the track is still the same."
+            ]
+        },
+        {
+            "text": "Precisely. I know the Nakayama\nRacecourse well\nthanks to my\nparticipation in the Keisei Hai.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This is the race where only the fastest\nshall\nprevail... I have already determined\nthe optimal\ntime to unleash my top\nspeed.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "All that's left is to execute my strategy\nas usual. I\nshall see you in thirty minutes.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

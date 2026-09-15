@@ -1,0 +1,277 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One evening, as we're walking through\nthe\nshopping district..."
+        },
+        {
+            "text": "Huh, I wonder what all the fuss is about\nover\nthere.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Ooh, so they're holding a raffle. Looks\nfun!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The coupon they're offering as a grand\nprize is for\na well-known hot spring\nthat's notoriously hard to\nbook dates for."
+        },
+        {
+            "text": "It would be great if I could win it and\ngift it to Fuji\nKiseki since she's been\nworking so hard..."
+        },
+        {
+            "text": "Do you want to give it a try? I actually\nhave a\nraffle ticket with me.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Since we're here and everything, go\nahead and\ngive it a shot!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Oh!"
+            ]
+        },
+        {
+            "text": "I almost take it, but I feel bad since she\ngot the\nraffle ticket from her own\npurchases. I push it\nback to her.",
+            "choice_data_list": [
+                "I think you should do it instead."
+            ]
+        },
+        {
+            "text": "Hmm, you sure? I don't mind either way,\nbut...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hey, why don't we do it together? We\ncan\ncombine our luck. What do you say?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "At her suggestion, we grasp the\ntumbler's lever\ntogether and give it a\ngood spin!"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "W-we got the grand prize?!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I can't believe it! I didn't expect to\nactually win\nthe grand prize.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Our combined luck must be really good.\nHehe.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I really want Фудзи Кисэки to use the\ncoupon on\nherself, so I hold it out to\nher."
+        },
+        {
+            "text": "You want me to have it? Are you\npositive?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I was thinking that you could use it to go\non\nvacation and recharge.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Use it to take a good friend with you."
+            ]
+        },
+        {
+            "text": "...Right. Okay. Thank you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Well... Would you like to go with me,\nthen?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "You told me to go with a good friend,\nright? You\nfit that category perfectly, so\nlet's go together!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I mean, only if you want to. I don't want\nto force\nyou.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I'd love to."
+            ]
+        },
+        {
+            "text": "Good! Then it's settled.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That said, we're both so busy right now.\nLet's\nmake plans for this once things\nhave settled\ndown, okay?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll put together the best itinerary for\nyou, so look\nforward to it! ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Wow, first prize! We did pretty great.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "This hamburger steak sure is big,\nthough... Want\nto split it with me?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We can enjoy it while watching a nice\nDVD\ntogether. It'll be fun, I promise.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That night, Фудзи Кисэки and I make a\nwonderful\ndinner out of the deluxe\ncarrot hamburger steak."
+        },
+        {
+            "text": "The cool thing about this play is how\nlighthearted\nthe lines are despite being\na subliminal\ncommentary on the societal\nproblems of its time.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "There are a lot of interpretations on the\nmeaning\nof the protagonist's ribbon\ncolors, and...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, sorry! Listen to me blabbing on. The\nshow's\nabout to start.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Second prize, huh? Not bad!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But... I don't know if we can finish all\nthese. It\nmight be tough with just the\ntwo of us.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Why don't we share them with your dorm\nresidents?"
+            ]
+        },
+        {
+            "text": "That's a good idea. We have nothing but\nbig\neaters in Ritto, so I'm sure they'll\nlove this.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I know! I should cook all these up before\nserving\nthem to everyone.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I'll help."
+            ]
+        },
+        {
+            "text": "Really? Thank you! I'd appreciate it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What should we make, then? Stew?\nSteak? Oh,\ncake might be good.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hehe. Cooking together is pretty fun.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "choice_data_list": [
+                "A single carrot!"
+            ]
+        },
+        {
+            "text": "What a shame! But there's no need to be\n\ndisappointed just yet.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm going to cast some magic on this\ncarrot and\ngive you a good show. Can\nyou wait in your office\nfor about an hour,\nplease?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I do as she asks and wait for her in my\noffice."
+        },
+        {
+            "text": "Thanks for being so patient. All my\nmagic\npreparations are complete.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ahem! Now, behold!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Here comes the carrot transformation of\nthe\ncentury! In three, two, one!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки conjures up a fluffy plate of\ncarrot\nomelet rice from thin air!"
+        },
+        {
+            "text": "Hehe. Did you like that? Eat up while it's\nstill\nwarm.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Too bad... I guess we weren't so lucky\ntoday.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What a shame. I really wanted to see\nyour face\nlight up in joy...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That night, I catch a rare glimpse of a\npreviously\nunknown side to Фудзи Кисэки as\nshe stares\ncaptivated by what's on the\nscreen."
+        },
+        {
+            "text": "With our combined efforts, we prepare a\nlovely\ncarrot feast."
+        },
+        {
+            "text": "We're both deflated by the result."
+        },
+        {
+            "text": "So that's how I end up making a promise\nwith Fuji\nKiseki to go on vacation\ntogether."
+        },
+        {
+            "text": "The carrot omelet rice she made is so\ndelicious I\ncan almost believe it really\nwas conjured by\nmagic."
+        }
+    ]
+}

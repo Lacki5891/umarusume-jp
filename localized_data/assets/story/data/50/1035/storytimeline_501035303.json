@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! I... <i>sob...</i> I made my debut!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaah! I'm soooo <i>happyyy!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She's as emotional as if she'd just won\nthe\nJapanese Derby!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(This moment must really mean a lot to her.)"
+            ]
+        },
+        {
+            "text": "<i>Sniff...</i> Finally, my first step into the\nTwinkle\nSeries...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sob...</i> Thinking about it makes my heart\njump up\nand down!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "I'm here with you, all the way!"
+            ]
+        },
+        {
+            "text": "...Yeah! Yeah, yeah, YEAH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All RIIIGHT! Let's work hard together!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Her tearful declaration echoes through\nthe whole\ntunnel.",
+            "name": "Монолог"
+        },
+        {
+            "text": "At any rate, this is where the real\nchallenges\nbegin. We steel ourselves for\nthe great journey\nahead.",
+            "name": "Монолог"
+        }
+    ]
+}

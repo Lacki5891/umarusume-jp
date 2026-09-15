@@ -1,0 +1,197 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, the tryouts—a multitude of races\nhighlighting up-and-coming\nstudents—are\nbeing held. This is their chance to get\nscouted and\nmake it big.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's still early in the morning, but as I look\nover at the track, I spy a\nstudent already\nrunning laps.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew! Okay, one more lap—no, ten more\nlaps!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Be careful not to overwork yourself right before\nthe tryouts."
+            ]
+        },
+        {
+            "text": "No worries! So far, this has been nothing\nmore than a warm-up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "After all, I'm Эль Кондор Паса! The racer\nwhose wings are destined to\nunfurl and\nsoar across the world some day!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wait! We're totally talkin' like we know\neach other... Who are you?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "I'm just a trainer who's here to watch the\ntryouts."
+            ]
+        },
+        {
+            "text": "You're a Тренер?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If that's the case, then could it be... that\nyou've come here to scout\nme?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The tryouts haven't even started yet, and\nyou're telling me you've\nalready got your\neye on my ability, talent, and potential?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Um, well..."
+            ]
+        },
+        {
+            "text": "Bueno! I'm glad you came to say hi! I\nrespect your passion and drive!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She's not hearing me out!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Unfortunately, I have to decline your offer\nfor now.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Why, you ask? Even though you want to\nscout me right now, why do\nI not accept\nyour offer?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The answer is simple! Trainer, I want you to\nwatch me today! Watch\nme in today's\ntryouts, and <i>then</i> judge my abilities!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A passionate bond of trust with her trainer\nis necessary for the world's\nstrongest racer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's why I want you to judge me\nproperly, Trainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Oh, but you didn't call out to me before\nthe tryouts in vain! ♪ I'll\ngive you one El\npoint for your troubles!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Thanks, I guess?"
+            ]
+        },
+        {
+            "text": "Whoa! It's almost time for my race. Catch\nya later—ciao! ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса's feet take flight as she\ndashes away, leaving me\nbehind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Finally, the tryouts begin in earnest.\nThere, the top-performing runner\nis...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эль Кондор Паса! She's taken the lead!\nNobody can catch up!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "What magnificent form! In first place, El\nCondor Pasa!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "La victoria! I'm the best, the greatest, the\none to beat all the rest!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She left her competition in the dust in the\nfinal stretch! She's head\nand shoulders\nabove the competition!",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Why, we might just have a prodigy in the\nmaking on our hands!",
+            "name": "Veteran Trainer B"
+        },
+        {
+            "text": "Heheheh... I can hear it—the crowd\ncheerin' for the world's strongest\nracer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, it's scouting time! Which one of\nyou trainers wants to\nconquer the world\nwith me?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса! Please let me scout you!",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "No wait, pick me! I'll give you the wings\nyou need to fly!",
+            "name": "Veteran Trainer B"
+        },
+        {
+            "text": "Ooh, bueno! ♪ Now that's what I like to\nhear!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But what <i>I'm</i> lookin' for is a partner I can\ntrust! Which means...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A duel! A contest! It's time for the\nScouting Championship!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The Scouting Championship?",
+            "name": "Trainers"
+        },
+        {
+            "text": "Sí! When it comes to trainers, it's their\ntraining programs that count!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Therefore, I want each of you to come up\nwith a training program fit\nfor me—the\nworld's strongest racer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And if I vibe enough with one of your\nprograms, then I'll accept the\nscoutin'\noffer from the trainer who came up with it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I see... It's a training program showdown!",
+            "name": "Veteran Trainer B"
+        },
+        {
+            "text": "Challenge accepted! I'll come up with the\nperfect program for you!",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "The trainers around Эль Кондор Паса soon\ndisperse, leaving only me\nstanding in front\nof her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And lastly, we have... you! The trainer who\nwas overflowing with\npassion!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "How-ever! Unfortunately for you, I'm not\ngiving you special treatment.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That said... just between you and me, I'm\nreally lookin' forward to\nwhatever training\nprogram you come up with! ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You <i>did</i> cut the line and try to scout me\nbefore I even raced, after all.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I expect great things, Trainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And so, I get to work drafting up a training\nprogram for El Condor\nPasa.",
+            "name": "Монолог"
+        }
+    ]
+}

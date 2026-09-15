@@ -1,0 +1,229 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Whoaaaa! What's with this huge\ndownpour?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wow, it's basically flooding! I can't even\nsee the\ntrack! If this keeps up, today's\ntraining is gonna\nbe...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Impossible, I'd say."
+            ]
+        },
+        {
+            "text": "Oh NOOO! And today I was thinking of\nrunning\nwith Taishin too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What? I don't remember you asking me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Trainer! Can't you make the clouds go\naway?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "That's... out of my pay grade."
+            ]
+        },
+        {
+            "text": "But at this rate, I can't run with Taishiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Like I said, you never—ugh, whatever...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Besides, no one can change the weather.\nIt's\nnever gonna happen.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Really? Are you sure?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket looks over my way with hope in\nher eyes.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We could make some sunshine dolls to pray for\nsunny weather.",
+                "Let's wait and see what happens."
+            ]
+        },
+        {
+            "text": "That's a great idea! Taishin, come join\nus!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Sunshine dolls? What are you, a little\nkid? I'm not\ndoing that.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Why not? It's fun! At least watch me\nmake one!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, come <i>on...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Let's see. We'll need a white\nhandkerchief and\nsomething to fill it up\nwith... Trainer, do you have\nstuff in your\noffice? Let's go look!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Look at this, Trainer! I made so many\nsunshine\ndolls!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "A whole pile of them is sitting on my\ndesk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I figured if I'm putting up one, I might as\nwell\nmake a whole bunch. Maybe it'll\nwork faster that\nway!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh, the sight of all those dolls in one\nplace is\nkinda creeping me out...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "How did you not get sick of making\nthem?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Get sick of it? As long as I've got\nmaterials, I\ncould make them forever!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Good idea, me! I'm gonna keep making\nmore until\nit's sunny!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Just then, a ray of sunlight shines in\nthrough the\nwindow, as bright and clear\nas if there was never\na cloud in the sky.",
+            "name": "Монолог"
+        },
+        {
+            "text": "WOW! It got sunny! All the sunshine\ndolls I made\nreally worked!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You're giving them credit for this? You\ndidn't\neven hang them up yet.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "A little while later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yaaay! It stopped! The rain is GONE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But the track's still a muddy mess. I don't\nthink\nwe're out of the woods just yet—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm gonna go do some light jogging!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh, she's not listening to a word I say.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishiiin! Trainer! I'm back!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "How's the track?"
+            ]
+        },
+        {
+            "text": "It's still pretty muddy, but if you think of\nit as a\nsoft dirt track, it's nothing I can't\nhandle!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It could actually work as great training\nfor\ncontrolling our balance while\nrunning!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Hmm, maybe you're right."
+            ]
+        },
+        {
+            "text": "Yeah? You think so too? Okay, Taishin,\nthat\nsettles it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Go get changed so we can run!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "How many times do I have to say this? I\nnever\nsaid I'd run with you today!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whaaat? No way!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yes way!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "For real?! THIS IS HORRIBLE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Uerghhh! I was really looking forward to\nit too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I really wanted... <i>sniff...</i> to run together...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Gah! You're so annoying! Stop crying!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Sniffle...</i> Then... will you join me?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Why would I—ugh, turning you down is\njust\ngetting exhausting at this point.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm still not joining you today, but... let's\ndo it\nsometime soon, okay?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Really?! Yaaaay!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yay, yay, yay! It's a promise!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! I gotta get faster before we run\nthen!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...You're such a dummy.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Looking around at the huge pile of dolls,\nI can't\nhelp but feel like Winning\nTicket's perseverance\ntruly did save the\nday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, Нарита Таисин and I continue\nwatching\nTicket train.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hearing that Супер Крик is doing some\nsolo\ndance training, I decide to drop by\nand watch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... That dance session felt amazing!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Great job!"
+            ]
+        },
+        {
+            "text": "Thank you, Trainer!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I have to say... Hehe. I liked the way\nyou were\nlooking at me...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Your eyes were sparkling like a child's.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I couldn't help myself with how much fun you\nseemed to be having."
+            ]
+        },
+        {
+            "text": "Goodness, are you getting the urge to\ndance too,\nТренер?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe, I'm glad to hear it! Let's dance\ntogether\nnext!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's okay. We still have some time before\nthe next\nperson comes to practice. What\ndo you say?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "All right, let's do it!",
+                "I'd hate to interrupt your practice..."
+            ]
+        },
+        {
+            "text": "It's okay. We still have some time before\nthe next\nperson comes to practice. What\ndo you say?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "All right, let's do it!",
+                "I'd hate to interrupt your practice..."
+            ]
+        },
+        {
+            "text": "It makes me happy to see you this\nexcited!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Ehehe, I can't believe I get to dance with\nyou,\nTrainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Maybe <i>I'll</i> be the one with the sparkling\neyes this\ntime! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Goodness gracious... Hehe.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I've been dancing all on my own this\nwhole\ntime, and I'm feeling rather\nlonely...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Isn't there a kind trainer out there who\ncould\npossibly dance with me?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...Ehehe. Thank goodness, there's one\nright\nhere! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик takes my hand, and we\nhave fun\ndancing together. She appears\nto learn something\nfrom watching my\nmovements.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик beams as we take to the\nstage, and\nthe two of us enjoy our dance\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... huff... huff...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You were so close, Tickezo! But that was\na great\nrace!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Yeah! It was so awesome! Good luck\nnext time!",
+            "name": "Fan B"
+        },
+        {
+            "text": "...!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I... I made it all the way to the Derby...\nBut I\nfailed.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "AAAAAGH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I can't believe it! This is the wooorst!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The race of Уиннинг Тикит's dreams, the\n\nJapanese Derby, ends not with a bang,\nbut with a\nwhimper.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After the race, she can't stop crying, and\nI try to\nconsole her on the way home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sniffle...</i>",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Have you calmed down a bit?"
+            ]
+        },
+        {
+            "text": "Yeah... I feel a little better. Thanks,\nTrainer.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She's always been quick to tears, but\nI've never\nseen her this sad.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But just as I'm wondering how I can\ncheer her up...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I know what those two would say if they\nwere\nhere. They'd tell me, \"You can't cry\nforever.\"",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hehe... Now that I've gotten that out of\nmy\nsystem, I've realized something.",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Really? What?"
+            ]
+        },
+        {
+            "text": "Even though I lost, my fans said it was a\ngreat\nrace.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Winning... isn't the only thing that's\nimportant.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's the serious competition, the huge\nclash\nbetween rivals that makes a race so\nawesome!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "With a little sniffle, Уиннинг Тикит tries\nto give\nme a happy smile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thinking about it like that, I was still\nable to give\nthem an exciting race!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "No doubt—it was a great race!"
+            ]
+        },
+        {
+            "text": "Hehe, thanks!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right, the next goal is the Kikuka\nSho, right?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That one has to be a great race too! I'm\ngonna\nmake sure of it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Even though her dream of winning the\nDerby\ndidn't come true, Уиннинг Тикит\nbeams with the\nsatisfaction of having\nexcited the crowd.",
+            "name": "Монолог"
+        }
+    ]
+}

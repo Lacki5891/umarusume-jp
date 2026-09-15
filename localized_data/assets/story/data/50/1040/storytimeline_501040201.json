@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "There she is! Quick, get the cameras!",
+            "name": "Reporters"
+        },
+        {
+            "text": "It's like a riot in here. Way different\nvibes from\nother races I've been in.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "That's because it's the Hanshin J.F."
+            ]
+        },
+        {
+            "text": "This is one of the few G1 races for\njunior-year\nrunners. Those who achieve\ngood results here are\nexpected to do\nwell in the years to come."
+        },
+        {
+            "text": "All eyes on today's field, huh. Then this\nis my\nchance.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll show them a performance that will\nmake them\nsee me differently.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "For myself... and for everyone hoping for\nmy\nsuccess.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You don't seem nervous today."
+            ]
+        },
+        {
+            "text": "Huh? I'm never nervous!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And, like, if you're supposed to be my\ntrainer,\ndon't you have anything better\nto say?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Go out there and show them what you're made\nof!"
+            ]
+        },
+        {
+            "text": "Hmph!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You don't have to tell me that!",
+            "name": "Голд Сити"
+        }
+    ]
+}

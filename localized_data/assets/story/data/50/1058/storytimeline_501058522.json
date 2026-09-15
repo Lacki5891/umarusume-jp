@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I run into Мэйсё Дото in the hallway as\nshe's\nletting out a long and deep sigh.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> Why am I such a mess?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "What's wrong? Did something happen?"
+            ]
+        },
+        {
+            "text": "Oh, T-Trainer... It's nothing serious, only\nthat my\nskin has started feeling a little\npatchy...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It must be because yesterday I mistook\nthe\nsesame oil for soy sauce... and put it\non my side\ndish.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But then my hand slipped... turning my\nvegetables\ninto sesame oil soup.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I suppose she was against throwing the\ndish away.\nHer skin trouble and latest\nblunder leave Meisho\nDoto in a slump.",
+            "name": "Монолог"
+        }
+    ]
+}

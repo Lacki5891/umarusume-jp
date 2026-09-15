@@ -1,0 +1,155 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Rumble...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Raaaagh! I'm going to wiiiiin!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Graaaah! Don't you dare underestimate\nthe\nOverloooord!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Neither of them are letting up the\npressure!\nThey're locked in a fierce\ntussle! A gruesome\nbattle! And the\nwinner is...",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Мэйсё Дото! The raging storm washes\nover the\nOverlord's splendor in this\ngenerational\nshowdown!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i>",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Has Doto... always been like this? That\nsheer...\npower...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "What... is this?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "What am I... feeling right now?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I feel all fuzzy on the inside... and shiny\non the\noutside... and really, <i>really</i>\nhappy!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Is this... the real me? If I keep this up,\njust\nmaybe...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Next time, I'll truly shine!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Heh heh... haaah ha ha! Frustration eats\nat me...\nand yet, I feel complete!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Thank you, Doto. This defeat has taught\nme a\nvaluable lesson. My legend is far\nfrom complete.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I'll get even stronger and shoot for the\nthrone\nbeyond the clouds. I'll surpass\nyou and the\nprevious generation,\nstanding supreme as the\nultimate,\nmiraculous Overlord!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Okay, I'll follow your lead—I mean...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll do my best. Let's raise the ante, as\nrivals!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "What the heck?",
+            "name": "Air Shakur",
+            "choice_data_list": [
+                "What's the matter, Air Shakur?"
+            ]
+        },
+        {
+            "text": "Her lap time! It might not seem like a\nhuge\ndifference, but that was faster than\nthe maximum\npossible value for her\nstats...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "I thought your limits were supposed to\nbe\nabsolute. I fought that ceiling for\n<i>nothing,</i> and\nthen those two just casually\nshatter it?!",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "I don't get it. The previous generation\nhave the\nhigher stats, but...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "The Three Goddesses must've loaded\nthe dice in\ntheir favor!",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Looks like the Arima Kinen is going to\nbe tons of\nfun, Grass!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Spe... after watching this race... <i>that's</i>\nwhat comes\nto mind?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Well, yeah! I'm more pumped up than\never. Doto\nand Т.М. Опера О are\ngetting so strong.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That makes me really happy! Just think\nhow\nexciting things will be if everyone\nkeeps revving it\nup!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...You know what? You're right. Sorry,\nmy\nreaction was uncalled for.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I cannot bear to stand here trembling. I\nwill knock\nthem down, regally and with\npoise.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Traineeeer! Oh, Trainer.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Thank you so, so much! I... I really did it!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "It won't be long before you reach your dream."
+            ]
+        },
+        {
+            "text": "Yes! I definitely... <i>definitely</i> want to run\nin the\nArima Kinen next! That's where...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll finally become a racing star! I'll win\nagainst\nOpera O, the previous\ngeneration... and I'll shine\nmore than\nanyone else!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото realizes her full potential,\ngiving up\nher attachment to T.M. Opera\nO.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our next match is the Arima Kinen. Only\nvictory\nwill reunite us with the splendor\nseen in our\ndreams!",
+            "name": "Монолог"
+        }
+    ]
+}

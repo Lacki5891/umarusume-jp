@@ -1,0 +1,215 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Just after the race...",
+            "name": "Монолог"
+        },
+        {
+            "text": "D-did you see her run?! This is just her\ndebut\nrace, right?!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "<i>That's</i> Нарита Брайан? She's so... wild.",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Voices of astonishment spread like fire\n\nthroughout the audience.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But as for Нарита Брайан herself...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "How was the race?"
+            ]
+        },
+        {
+            "text": "...Not bad. No one backed off, so it was\na real\nfight until the very end.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "But?"
+            ]
+        },
+        {
+            "text": "...Nothing. Let's talk about something\nelse.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm going to run in the Asahi Hai Futurity\nStakes\nnext.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "The Asahi Hai F.S.?"
+            ]
+        },
+        {
+            "text": "The Asahi Hai F.S. is a G1 race that\nattracts the\ntop junior racers. If I recall\ncorrectly, the distance\nis 1,600 meters\non a turf track.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Apparently, my sister ran there her\njunior year. I\nalso hear it's pretty tough.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well, that's all for me. I'm going to bed.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "I'm tired. Wake me up when it's time to\ngo.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "She collapses onto the sofa, looking\nabnormally\nlow-energy.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(...Something seems wrong.)"
+            ]
+        },
+        {
+            "text": "I think back to how she looked during\nthe race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The crowd thought she ran \"wildly.\" But\nif I had to\npinpoint what was out of\nplace...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hyah!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Agh!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Right out of the gate, she was glaring at\nthe other\nrunners, running as if she was\nhyper-aware of all\nof them.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seemed to be making a noticeable\neffort to\nforcefully overpower the others\nby changing her\nown pace whenever\nanyone came near her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She was exuding an unusual sense of\nintimidation\nand competitiveness...",
+            "name": "Монолог"
+        },
+        {
+            "text": "And now, that very same Нарита Брайан is\nresting on\nthe sofa behind me, sound\nasleЭпизод",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Knock, knock.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me. Is Brian he—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh, she's asleep? Hehe, she looks just\nlike she did\nwhen she was little.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's Бива Хаяхидэ, Нарита Брайан's older\nsister and\nan outstanding racer currently\ncompeting in the\nClassic Triple Crown\ntour.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for taking care of my sister. I\nknow she\ncan be self-centered, and a\nhandful at times...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But I hope you'll do your best to bear\nwith her.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She's happy to be somewhere she can\n\ndemonstrate her full abilities. She just\nhas a funny\nway of showing it.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Do you think she demonstrated her full abilities\ntoday?"
+            ]
+        },
+        {
+            "text": "...Well, it was her debut.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm sure she must have been nervous.\nThat's\nprobably why she didn't seem to\nbe running like\nher normal self.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What do you mean by that?"
+            ]
+        },
+        {
+            "text": "Speaking as someone who used to\ncompete with\nher all the time, I can tell\nyou her usual way of\nrunning is much\nmore terrifying.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Once the trigger is pulled, that's it. No\nmatter\nhow far she runs, the thought of\novertaking her\nopponent never leaves\nher mind.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Oh, sorry. I should simply be praising\nher,\nconsidering she's my little sister.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "No, it's okay. This has been educational."
+            ]
+        },
+        {
+            "text": "Hehe, my apologies. Now I've got you\ntrying to\nmake me feel better.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But all in all, it was a good run. No one\ncan do it\nperfectly the first time.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "A lot of people used to keep their\ndistance\nbecause of her strength. It\nmust've been a new\nexperience for her\nto run with so many others.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Is that right?"
+            ]
+        },
+        {
+            "text": "Indeed. Anyway, please take good care\nof her\nmoving forward.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "As I'm watching Бива Хаяхидэ leave, I\nrealize\nhow little I know about Narita\nBrian's past.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I need to learn more about her."
+            ]
+        },
+        {
+            "text": "Later, I notice something while I'm\ntaking another\nlook at Нарита Брайан's\ninformation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She didn't take part in many scrimmages\nbefore\nher debut race. I'm sure there are\nmany factors\ninvolved, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I think that's what affected her this time.\nThe\nprospect of racing with so many\nother people\nmust've got to her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As a result, she couldn't run like usual\nand ended\nup extremely fatigued. What\ncan I do to fix this?",
+            "name": "Монолог"
+        }
+    ]
+}

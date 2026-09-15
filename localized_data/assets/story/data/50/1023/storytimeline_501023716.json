@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's lunchtime, and the cafeteria is as\nboisterous\nas always."
+        },
+        {
+            "text": "Don't be stubborn, Hayahide! Have my\nlunch! You\nneed it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh... I can't! That'll simply compound\nthe\nproblem!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "Hayahide's on a hunger strike, and I'm\nworried\nabout her!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm not on a hunger strike! I simply\nconsumed a\nlarge number of calories\nearlier to optimize my\nbrain function in\nclass.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Unfortunately, I completed my\ncalculations far\nsooner than expected,\nand now my body is\nstoring an excess of\ncalories!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh, I get it! Well, if you want to get rid\nof the\nextra calories, then just do some\nextra exercise!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But that might result in overtraining. I\ncan't afford\nto deviate from my carefully\nbalanced training\nschedule.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Don't worry. I can make some adjustments."
+            ]
+        },
+        {
+            "text": "It's my fault that I made a miscalculation.\nIt\nwouldn't be fair to burden you with\nmore work\nbecause of my own mistake!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You mean you don't want to ask your\ntrainer for\nhelp? Why not? That's exactly\nwhat trainers are\nfor!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, when you put it that way... I\nsuppose that <i>is</i>\na trainer's job...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Then let's get to work!"
+            ]
+        },
+        {
+            "text": "Thank you, as always. I don't know what\nI'd do\nwithout you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm here for you too! We're friends, after\nall! Now\nhave my lunch so you can do\nyour best out there!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...Were you listening to anything I just\nsaid?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I make some adjustments to Biwa\nHayahide's\ntraining schedule, and she's\nable to account for\nthe extra calories she\nconsumed earlier."
+        }
+    ]
+}

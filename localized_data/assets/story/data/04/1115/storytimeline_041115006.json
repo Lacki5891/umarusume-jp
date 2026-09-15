@@ -1,0 +1,243 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On a day off——",
+            "choice_data_list": [
+                "Huh? Орфевр?"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "So it's you. \nWhat are you doing in a place like this?",
+            "choice_data_list": [
+                "Just some shopping……Орфевр too?"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "An exhibit for accessories. \n——However, there was nothing of note."
+        },
+        {
+            "name": "Орфевр",
+            "text": "……In my name, I command. \nGuide me to a place where I can relieve this boredom.",
+            "choice_data_list": [
+                "Somewhere you won't get bored, huh?"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "Correct. Spare no effort. \nRemember that your fate——will be determined by my humor."
+        },
+        {
+            "text": "That would be quite the challenge. I wonder where I \nshould take her……? While thinking about various \noptions, we wandered around the department store."
+        },
+        {
+            "text": "Somehow, we ended up at my usual shopping venue. \nОрфевр declared she wanted to see some clothing."
+        },
+        {
+            "name": "Орфевр",
+            "text": "Ohh……How unexpected, it's quite fitting. \nYou will accompany me while wearing this.",
+            "choice_data_list": [
+                "It's all red……!"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "Rejoice. It is the King's preferred color. If you were to \nwear it, then you too might gain some strength. Further——"
+        },
+        {
+            "name": "Орфевр",
+            "text": "When I see you like this……it raises my spirit.",
+            "choice_data_list": [
+                "……Eh"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "And mysteriously……it makes my right hand tremble.",
+            "choice_data_list": [
+                "Eeeeeeeeeeh……!?"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "It must be an honor to be so encouraged by myself. \nIn this moment——I'll allow you to weep in joy."
+        },
+        {
+            "name": "Орфевр",
+            "text": "Experiential Entertainment……is that what this is?",
+            "choice_data_list": [
+                "Umalator tech seems to be involved."
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "Very well, my interest is piqued. The King shall \npersonally be the judge. You will accompany me."
+        },
+        {
+            "name": "NPC King",
+            "text": "『Oh Hero! I'm grateful you have arrived! This country is \nunder threat by monsters. Please save us with your power!』"
+        },
+        {
+            "name": "Орфевр",
+            "text": "……A foolish King.",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "To think that he is unable to sufficiently protect his own domain——"
+        },
+        {
+            "name": "Орфевр",
+            "text": "A King——is someone who rules over all. \nAt the same time, he must be strong enough to overcome any usurper."
+        },
+        {
+            "name": "Орфевр",
+            "text": "I refuse to serve a fool who can only tremble on this throne.",
+            "choice_data_list": [
+                "W-well, that's just the setting……"
+            ]
+        },
+        {
+            "text": "And so, \nour adventure began, but……"
+        },
+        {
+            "name": "Ferocious Monster",
+            "text": "『Grrrrrrrrr……!』"
+        },
+        {
+            "text": "Our first objective was to earn money to purchase \nstronger equipment but……she ignored that and moved \non, saying 『Who are you to tell me how to proceed?』",
+            "choice_data_list": [
+                "M-maybe we should head back and prepare——"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "Fuu!"
+        },
+        {
+            "name": "Ferocious Monster",
+            "text": "『Gyaaaaaaa……!』"
+        },
+        {
+            "name": "Орфевр",
+            "text": "How weak. \nIs there no one that can rival me?",
+            "choice_data_list": [
+                "You're too unreasonable……"
+            ]
+        },
+        {
+            "text": "Wasn't the technology in the Umalator supposed to reflect \nthe Player's physical parameters only to a certain extent?"
+        },
+        {
+            "name": "Орфевр",
+            "text": "What's wrong? \nYou may disarm the traps."
+        },
+        {
+            "text": "The door would open with a certain gimmick…… \nI had to find it quickly. When I looked around, \na suspicious stone statue caught my eye.",
+            "choice_data_list": [
+                "This statue……maybe this can be pushed in?"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "I'll allow it. \nTry it."
+        },
+        {
+            "text": "A single kick from Орфевр was enough to resolve everything \nup to this point. But, now I don't have any proper equipment. \nI still had to make myself useful though——"
+        },
+        {
+            "name": "Stone Statue Monster",
+            "text": "『Roooaaaaaaaar!』",
+            "choice_data_list": [
+                "Uwaaaah! That statue's moving!?"
+            ]
+        },
+        {
+            "text": "As the stone statue activated, I leapt back in a panic. \nIt seemed to be aiming for me."
+        },
+        {
+            "name": "Орфевр",
+            "text": "How amusing. \nAs a vassal, you should show your worth.",
+            "choice_data_list": [
+                "No way, that's impossible!"
+            ]
+        },
+        {
+            "text": "Орфевр watched on in amusement as I ended \nup desperately fleeing from the monster."
+        },
+        {
+            "name": "Demon Dragon",
+            "text": "『Gr……aaaaaa………!』"
+        },
+        {
+            "text": "A giant monster fell to the ground after being \nkicked by Орфевр. Its strength was so underwhelming \nin comparison I couldn't help but be shocked."
+        },
+        {
+            "name": "Орфевр",
+            "text": "All shall prostrate before me. \n——Hm?",
+            "choice_data_list": [
+                "A treasure chest!"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "Good. Open it."
+        },
+        {
+            "text": "I had a bad feeling about this, but since it was \nthe reward from a Demon Dragon it could be some \npowerful equipment. I bravely opened the chest——"
+        },
+        {
+            "name": "Mimic",
+            "text": "『Gwaaaaaaaaaah!』",
+            "choice_data_list": [
+                "I knew this was gonna happen!"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "Fuu, it swallowing you whole was astonishing."
+        },
+        {
+            "name": "Орфевр",
+            "text": "However……to try to take my clown from right before my eyes. \n……You will return them.",
+            "choice_data_list": [
+                "W-wait, Орфевр!?"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "Oooooooooh!"
+        },
+        {
+            "text": "I felt a sudden impact followed by a feeling of weightlessness. \nОрфевр's kick had destroyed the monster in one hit, but——"
+        },
+        {
+            "text": "After being kicked with that kind of force, \nboth the monster and I ended up flying through the air……",
+            "choice_data_list": [
+                "Gyaaーーーーーーー!?"
+            ]
+        },
+        {
+            "name": "Орфевр",
+            "text": "How pleasant. \nI'll offer you praise."
+        },
+        {
+            "text": "Somehow it seemed like she had fun, so I was safe for now……"
+        },
+        {
+            "name": "Орфевр",
+            "text": "However……it seems you really do have talent as a clown. \nYou may continue to cultivate that talent."
+        },
+        {
+            "name": "Орфевр",
+            "text": "It was quite fulfilling to partake. \nYou've done well."
+        },
+        {
+            "text": "I hurriedly chased after \nОрфевр as she carried on……"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As predicted, the storm has come.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро МакКуин, you look ready for the\nKikuka\nSho. A spot in the race is surely\nyours if you want\nit!",
+            "name": "Interviewer A"
+        },
+        {
+            "text": "They say that if you decide to enter, you\ncould\nupend the entire race. So, what\nare your thoughts\non the matter?",
+            "name": "Interviewer A"
+        },
+        {
+            "text": "I plan on taking part, of course. I've\nspent my\nsummer preparing for it.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "She's entering after all, Trainer.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Come on, there's something I need to\ntalk to her\nabout.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Before their decisive race, Мэдзиро Райан\nwants to\ncheck in with McQueen to\nspeak about their\nplans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's not here yet. I'm sure this is where\nwe were\nsupposed to meet...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hello, Ryan. My apologies—am I tardy?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "No, I think that we were just early.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "So, McQueen, the media said you could\nupend\nthe race. But that's not what\nyou're aiming to do,\nis it?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hehe, indeed not. My plans haven't\nchanged. It is\nonly the opinions of others\nthat have.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I've also heard people say that they\ndidn't expect\nyou to be a lead player in\nthe Classics.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "But... aren't they right about that?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I don't believe so. I've always expected\nyou to\ncontend well, haven't I?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's only you who doesn't realize it yet.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "They both understand each other very\nwell. And\nthat's exactly why they can't\nsettle their rivalry in\nany simple manner.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If Ryan hopes to beat McQueen, she'll\nhave to\nsurpass her in raw ability first.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So, Ryan, have you found anyone more\ncapable\nthan I am?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The Kikuka Sho is a 3,000-meter race.\nIt's my\nspecialty as a stayer.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "As you saw in our scrimmage before,\nwithout a\nstrategy, I have the advantage\nagainst you.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "What kind of weapon do you have that\ncan\ndefeat me?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "A weapon?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I... I have a few...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "(Like my dashing, my explosive force,\nmy staying\npower, my final sprint...\nBut...)",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "(Will that really work? I always lose\nagainst\nMcQueen...)",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(I'm so scared... I can't help but think\nabout how I\nalways lost when we were\nkids.)",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "(Can I really stand a chance against her?\nEven\nwith everything I've learned, I'm\nafraid... Why...)",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Her weapon is her muscles."
+            ]
+        },
+        {
+            "text": "Her muscles? Whatever do you mean,\nТренер?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I am aware of how splendid her physique\nis. But I\nalso know that muscles alone are\nnot enough for\nher to defeat me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Sh-she's right, Trainer. My muscles aren't\n\nenough...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Let's go somewhere else."
+            ]
+        },
+        {
+            "text": "We change locations to the pool.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um... I changed clothes, but I'm not sure\nwhat this\nis supposed to—",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My goodness... what a change. You're\ncompletely\ndifferent from this past\nspring...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Your muscle tone is the same, but your\nbody\nlooks much more conditioned to\nexert power in\nracing. This is...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "The results of putting in the right effort."
+            ]
+        },
+        {
+            "text": "The right effort? You mean...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I mean everything she's done so far. It's\ntrue that\nМэдзиро Райан can't compete with\nМэдзиро МакКуин\nwhen it comes to\nperfection.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But that's also why she never gave up in\nher\neffort. She fights on, turning those\nfeelings of\ninferiority into muscle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A youth of sweat and tears—their rivalry\nexposed\nRyan's weaknesses, but it also\ngave birth to her\ncurrent physique.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I understand now. It's plain to see when\nyou look\nat her.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ryan, I can see that you are continuing\nyour\njourney down an unchanging path,\nand you're\ndoing it with extraordinary\nspeed.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I-I am? I don't really understand it\nmyself.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hehe. Like always, you're unable to see\nit...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "But that's precisely why you can move\nforward\nwithout hesitation. You've found\nyourself a good\npartner.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It is a pleasure to have you as an\nopponent. So\nbelieve in yourself.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Believe in the Ryan that your trainer and\nI believe\nin. As long as you run with all\nof your strength,\nthen I'm certain it will\nbe a good race.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Run with all my strength... O-okay.\nThat's\nsomething I can definitely\npromise!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I can say with confidence that I've\nworked hard\ntoward this day, all so I can\nbeat you!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан has gained the confidence\nshe needs\nto compete. The great battle\nbetween the two\nMejiro rivals is about to\nbegin.",
+            "name": "Монолог"
+        }
+    ]
+}

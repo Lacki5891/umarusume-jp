@@ -1,0 +1,251 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Faster... I need to be faster... I'll never\nbeat\nSuzuka at this rate!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm beginning to sense a dangerous aura\nabout\nЭйр Грув during our recent\ntraining sessions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I get the feeling her determination to\nsurpass\nСайленс Судзука is pushing her to\nrisky extremes.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I need to think of some way to get her to\nrelax...)"
+            ]
+        },
+        {
+            "text": "Just then, it occurs to me that I haven't\nbeen to a\nshrine yet this year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув chewed me out last year\nabout not\nhaving any holiday spirit.\nShe'll definitely bite if I\nmention this to\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What are you staring at? Do you have\nsomething\nto say about my running?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I was just thinking about how I haven't been to a\nshrine yet this year..."
+            ]
+        },
+        {
+            "text": "...?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No... It can't be... How could I let this\nhappen?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув is <i>way</i> more flustered than I\nimagined!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I knew these things meant a lot to her,\nbut can\nshe really be <i>this</i> horrified on my\nbehalf?",
+            "name": "Монолог"
+        },
+        {
+            "text": "HOW HAVE I NOT GONE YET?!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "...Wait, you too?"
+            ]
+        },
+        {
+            "text": "I'll never forgive myself! I was so caught\nup in\ntraining that I almost let this\ncelebration pass me\nby!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Why are you just standing there?! We're\nleaving\n<i>right this second!</i>",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I never imagined Эйр Грув would have\n\nforgotten, but it was a happy\nmiscalculation. This\nshould present a\ngood chance for her to relax.\nWe get\nready and head out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув and I finish giving our\nrespects at a\nlocal shrine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This doesn't happen often, but I must\nthank you.\nIf weren't for your reminder, I\nwould've\ncompletely forgotten about it.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You're very welcome."
+            ]
+        },
+        {
+            "text": "Ugh... This is clear proof of negligence\non my\npart!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I need to up my game! Otherwise, I'm\nnever going\nto beat Suzuka...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Okay. Let's hurry back. Time is precious,\nand I\nneed to spend it training.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I start to panic. I need to nip this in the\nbud\nbefore things get out of hand. But\nhow am I going\nto get her to take the\nwhole day off?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why don't we have some New Year's food?",
+                "Let's write \"I want to get stronger\" on a prayer\ntablet!",
+                "Let's get a fortune slip!"
+            ]
+        },
+        {
+            "text": "I start to panic. I need to nip this in the\nbud\nbefore things get out of hand. But\nhow am I going\nto get her to take the\nwhole day off?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why don't we have some New Year's food?",
+                "Let's write \"I want to get stronger\" on a prayer\ntablet!",
+                "Let's get a fortune slip!"
+            ]
+        },
+        {
+            "text": "Did you even listen to what I just said?\nWe\nhaven't a moment to lose!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "So you're just going to ignore the New Year's\nseason?"
+            ]
+        },
+        {
+            "text": "Ngh...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I suppose a shrine visit alone isn't\nenough to\nconstitute a proper New\nYear's celebration...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You know how important it is to show some\nholiday spirit!"
+            ]
+        },
+        {
+            "text": "I can't believe you're using my own\nwords against\nme...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Fine, I surrender. My lifestyle may\nindeed have\nbeen lacking in balance of\nlate.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Let's eat something seasonal before we\nhead\nback. Any ideas?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "How about mochi soup?"
+            ]
+        },
+        {
+            "text": "...Is that the only New Year's food you\nknow?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув and I get some mochi soup\nbefore\nheading back to the academy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"I want to get stronger?\" As always, your\nphrasing\nneeds some work. Besides, I\ndon't have time to\nwaste on—",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Do you not write prayer tablets for New Year's?"
+            ]
+        },
+        {
+            "text": "Ngh.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Actually, I usually do.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Writing out my goals is an effective way\nto\nheighten my awareness of them.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "So what are we waiting for?"
+            ]
+        },
+        {
+            "text": "I suppose you're right. But let's make\nthis quick.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'd like to retract my earlier statement. I\nmay have\nbeen more... on edge lately\nthan I realized.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Okay, let's get to it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "So tell me. What are <i>you</i> going to write?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "\"I hope Эйр Грув becomes the greatest racer\nof all time.\""
+            ]
+        },
+        {
+            "text": "You moron... Could you have phrased\nthat any\nmore poorly?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув and I discuss how to best\nwrite our\nwishes on the wooden prayer\ntablets.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Did you even listen to a word I said? I\ntold you\ntime is of the essence.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "But a shrine visit isn't complete without a\nfortune."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I don't... entirely disagree.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Don't you want to celebrate this holiday\nproperly?"
+            ]
+        },
+        {
+            "text": "Ugh... I hate that you're using my own\nwords\nagainst me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Fine.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll placate you just this once. What are\nyou\nstanding around for? Come on!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's fortune reads, \"You are\nrushing\nforward with little regard for\nyour health. Find\ntime to relax.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув takes the words to heart,\nresolving to\nfocus on the training she\nreally needs to do rather\nthan recklessly\nracking up session after session.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As we chat, I notice her expression\ngrowing less\nstrained. I let out a sigh of\nrelief.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seems to have loosened up a bit. I\nthink the\ntime off did her some good.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This shift in focus helps to relieve the\nexcessive\npressure she had been feeling,\nleading her back\nto the path of\nefficiency.",
+            "name": "Монолог"
+        }
+    ]
+}

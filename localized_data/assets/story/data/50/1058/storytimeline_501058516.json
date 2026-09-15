@@ -1,0 +1,93 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I stop by a fast-food\nrestaurant—only\nto bump into Meisho\nDoto.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are you here to eat too, Тренер? I'm\nhere\nbecause Taiki invited me.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh, here she comes! Welcome back,\nTaiki.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Sorry for the hold up! ☆ Oh, looks like\nyour\ntrainer's here, too!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I say that's great timin'! How 'bout we all\neat\ntogether?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Тайки Шаттл then begins to heap several\n\nhamburgers on top of the table.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, yikes! Th-that is quite a lot... don't\nyou\nthink?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Well, consider this a show of my thanks!\nYou\nalways have a pen to spare when I\nneed one!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I hereby name this present the\n\"Hamburger\nTower.\" It's as big as my\ngratitude toward ya!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "A present... for me?! Are you sure?! I-I'm\nso\nhappy!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I was hopin' you'd be! But don't force\nyourself to\neat the whole thing. We can\nhave the rest to go!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "No, I'll eat everything. That's how...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll repay your thoughtfulness, Taiki!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "It's okay to pace yourself and savor it.",
+                "Show your thanks by finishing it all."
+            ]
+        },
+        {
+            "text": "Oh... Y-you're right. It's better if I savor\nsuch a\nwonderful present!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Yes ma'am! I'd appreciate it much more\nif you\nenjoy the food!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "O-okay. Well, better get started!\nEhehe...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Okay! Well... here I go!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Nom... Munch, munch!</i> Ish sho delicioush!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Whoa, talk about impressive! You eat\nlike a\nstarved coyote!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Мэйсё Дото enjoys what she can,\nexperiencing\nthe full flavor of the\nhamburgers!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэйсё Дото attacks her meal with\nvigor,\nconsuming everything down to the\nlast bite.",
+            "name": "Монолог"
+        }
+    ]
+}

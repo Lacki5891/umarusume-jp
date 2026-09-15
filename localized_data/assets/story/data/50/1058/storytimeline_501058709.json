@@ -1,0 +1,74 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hehe... I feel like my training is starting\nto pay\noff.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "This isn't so bad of a result... I d-do feel\na little\nmore confident now...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Just maybe... I could work my way up to\nthe front with a\nbit more effort...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Hyaaah?! D-did I say that out loud?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "S-s-sorry, but could you pretend you\ndidn't hear\nthat?! I understand I don't\nhave what it takes!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I should be realistic, take baby steps,\nstart off\nwith smaller goals... That's what\nI need to do!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Today proved you have what it takes to aim\nhigher!",
+                "Let's knock off those goals one at a time."
+            ]
+        },
+        {
+            "text": "R-really?! You really feel that way about\nme?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm clumsy, with a long line of mistakes\nand\nslipups... But if you believe I can,\nTrainer...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Have more confidence in yourself!"
+            ]
+        },
+        {
+            "text": "Y-yenderstood!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "R-right! I can't continue on like this!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I don't have the elegance of Opera O, or\nShakur's\nanalytical skills...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And I'm bad at everything else, too... I\nhave too\nmany obstacles to overcome!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Let's take things one at a time."
+            ]
+        },
+        {
+            "text": "O-okay! I have a lot of areas to make up\nfor, but I\npromise to take on whatever\ntraining you give\nme!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Urk... Sorry, I m-mixed my words\ntogether in such\nan important moment.\nI'll keep on trying my best!",
+            "name": "Мэйсё Дото"
+        }
+    ]
+}

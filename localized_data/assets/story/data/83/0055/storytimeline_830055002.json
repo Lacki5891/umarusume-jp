@@ -1,0 +1,180 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey there, Traineroonie.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "While I'm strolling through the academy\none\nevening, Сэйун Скай waves me over\nfor another\nsession of the murder\nmystery game.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, so let's continue from where we\nleft off.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Last time, we discovered that the\npoisoned egg\ncustard had been switched\nout. The original was\nin a yellow bowl,\nbut the poisoned one was in a\nblue bowl.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "And since El visited King's room after\nthe meal\nwas served, she's looking\npretty sus right now.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "No, no, no! It was just a coincidence that\nI\ndropped by after the food was served!\nThere's no\nproof that it was me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, that's true. Which just means we're\ngonna\nhave to continue our\ninvestigation.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "All right, this marks the start of phase\ntwo.\nTrainer, please read the script.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "As requested, I check the instructions in\nthe GM\nscript. It looks like the next step\nis...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "\"Everyone is now permitted to reveal their\nsecrets.\""
+            ]
+        },
+        {
+            "text": "Secrets? Are we all supposed to have\none?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ah, yep—looks like they're written in our\n\nindividual booklets. It should say \"secret\nfor\nphase two only\" on it.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "We might end up with a different\nsuspect once we\nhear this new\ninformation. ...What do you think,\n\neveryone?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "We might indeed. Well then, may I\nspeak first?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The truth is... after I served the food,\nKing went\nto the bathroom. It seemed as\nif she'd forgotten\nsomething.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...What?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh? So you're saying that King left the\nroom after\nthe food was served.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Curious indeed, don't you think? If King\nleft the\nroom after her food was served,\nthen anybody\ncould have snuck in\nwithout being spotted.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "In other words, anyone could have\nswitched the\nbowls... And so, everybody\nis a suspect.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Bueno! That means I'm not the only\nsuspect\nanymore!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And I've got a special secret of my own\nto reveal!\nSo, actually, when I went to\nsee King...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The bowl was already blue! Meaning the\nculprit\nhad already entered the room!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh, it was already blue? That's a rather\nintriguing\npiece of information.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The more we know, the easier it'll be to\nnarrow\ndown the suspects. Spe, Sei, care\nto share your\nsecrets?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "O-okay, I've got something too... So,\nactually, I\nwas with Grass from just after\nshe served dinner\nright up until we all\ngathered here. But while we\nwere\ntogether...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I caught a very brief glimpse of Sei\nwalking along\nholding something...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh? You saw <i>me?</i>",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Interesting. She was holding something?\nIt\ncouldn't have been... a yellow bowl,\ncould it?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Whoa, Sherlock here's giving me the\n\nheebie-jeebies. So the spotlight of\nsuspicion's\nshining on me now, huh?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Well, this isn't looking too good... Hey,\nhelp me\nout here, Trainer.",
+            "name": "Сэйун Скай",
+            "choice_data_list": [
+                "Were you carrying cleaning supplies or\nsomething?",
+                "Hang on... Are you really just an ordinary\nhousekeeper?"
+            ]
+        },
+        {
+            "text": "Oooh, nice job backing me up there.\nYep, I'm a\nhousekeeper, so I carry all\nkinds of cleaning\nsupplies around with\nme.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hmm... That's actually <i>muy sospechosa.</i> I\nmean,\nthis is Sei we're talking about\nhere.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hey now, first the spotlight and now the\nshade?\nWho do you take me for?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "But anyways... You caught me...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Everyone waits with bated breath to see\nhow the\ncornered Сэйун Скай will\nrespond.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Spe's telling the truth. I <i>was</i> walking\naround the\ninn holding something.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "\"Ordinary\" is subjective. Maybe I'm\nactually the\nbest housekeeper in the\nworld. Nya-ha-ha.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "But for real, that was more of a sabotage\nthan a\nhelping hand. You're making this\nharder.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "But anyways... If you really must know...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Everyone waits with bated breath to see\nhow the\ncornered Сэйун Скай will\nrespond.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Spe's telling the truth. I <i>was</i> walking\naround the\ninn holding something.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Surprisingly, she openly admits to it. Is\nshe\nplanning something here?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Surprisingly, she openly admits to it. Is\nshe\nplanning something here?",
+            "name": "Монолог"
+        }
+    ]
+}

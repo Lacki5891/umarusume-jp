@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh, Trainer! Good morning.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Morning! How was your day off?"
+            ]
+        },
+        {
+            "text": "Very refreshing, actually.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You seem pretty energetic yourself.\nHehe, you\nmust have got some good rest\ntoo.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Your peppy greeting and perky smile\nare raising\nmy mood even more!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Let's not push ourselves too hard and go\nat our\nown pace today. And, as always,\nlet's give it our\nall! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик is light on her feet and\nlooks well\nrested.",
+            "name": "Монолог"
+        }
+    ]
+}

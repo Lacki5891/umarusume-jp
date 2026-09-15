@@ -1,0 +1,37 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Drum roll, please... And ta-DAH!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That comes to an even seven! The\nquestion is, of\nwhat?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "The number of watermelons you split at camp.",
+                "The number of cicada shells you collected at\ncamp."
+            ]
+        },
+        {
+            "text": "ERRRNT!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The answer is the number of\nfancy-schmancy\nbrooches in McQueen's\ncollection!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That has nothing to do with summer\ncamp,\nthough!",
+            "name": "Монолог"
+        },
+        {
+            "text": "You know the drill! As punishment for\nanswering\nincorrectly, you have to walk\nback to the\nacademy! Bye!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I make a beeline for the bus before it\ngets a\nchance to leave me behind.",
+            "name": "Монолог"
+        }
+    ]
+}

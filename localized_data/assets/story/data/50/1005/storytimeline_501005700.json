@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're just coming back from break and\nI'm\nscheduled to have a meeting with\nFuji Kiseki. I\nstep in my office to find...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Zzz... Zzz...</i>",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ngh?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "T-Trainer! I was just resting my eyes, I\nswear!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You can't lie to me. You were snoring."
+            ]
+        },
+        {
+            "text": "<i>Sigh.</i> I'm sorry you had to see me like\nthat.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "One of my residents was inconsolable\nwith\nhomesickness last night, so I stayed\nby her side\nuntil she fell asleЭпизод..\n<i>Yaaawn.</i>",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки must not have gotten enough\nsleep\nherself because of that. She looks\nexhausted.",
+            "name": "Монолог"
+        }
+    ]
+}

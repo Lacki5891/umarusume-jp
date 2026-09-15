@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for training and Голд Шипп is\nnowhere to\nbe found. I search for her\naround the academy\nand come across a\nstrange scene.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yup, there you go! ☆ Make sure to\nswing your\narms if you want to get\nfaster! ☆",
+            "name": "Tree Fairy (?)"
+        },
+        {
+            "text": "Thanks a bunch for the advice, Miss\nFairy! I'll try\nmy very best!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Yup! All you can do is try, try, and try\nagain! I'm\nrooting for you! Teehee! ☆",
+            "name": "Tree Fairy (?)"
+        },
+        {
+            "text": "Hm? Heya, Trainer.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп suddenly jumps down from a\ntree and\nlands before me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What're you doing all the way out here?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "I should be asking you that question."
+            ]
+        },
+        {
+            "text": "Me? I'm being a fairy. What about you?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh, shoot! Today's a training day, isn't\nit? Ahaha,\nI totally forgot!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Big soz, Trainer! Think you can let me\nslide just\nthis once?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I let her off easy but warn her not to let\nit happen\nagain.",
+            "name": "Монолог"
+        }
+    ]
+}

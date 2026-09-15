@@ -1,0 +1,164 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... Puff...</i> Ngh!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Brian... really is... as fast as a jet!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What the hell?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Why... can I still not...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hmph. It's like I'm not even on her radar.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Just what the heck is she looking a—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What <i>is</i> Brian looking at?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey, Тренер? Can I ask you for\nsomething?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Please let me race against Brian one\nmore time.\nAs soon as possible.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You still want to challenge her?"
+            ]
+        },
+        {
+            "text": "Yeah. I'm not really sure why, but I know\nI have\nto...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Not just that. This time, I feel like I\nshould do it as\nsoon as possible...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Mayano... You felt that in today's race?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Y-yeah.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I see. Then I guess I've gotta tell ya.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The Arima Kinen is your last chance.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Brian's decided the Arima will be her last\nrace\nbefore she quits running.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Tch... It's still too early for her to quit!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hishiama?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But... why? That doesn't make any sense.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It doesn't have to be her last race... She\nwas\nincredible today.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Running against her got me so excited\nagain.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I can't let it end like this... I won't accept\nit!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I don't want it to end on a loss!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You want to win?"
+            ]
+        },
+        {
+            "text": "...Yeah, I do. More than anything else.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Next time, I'll make sure she's the one\ntrembling\nwith excitement.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Some racers are so twinkly the audience\ncan't\neven see the other racers. They get\neveryone\nexcited.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I wanna become a racer that can excite\n<i>her</i> like\nthat!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey, Тренер?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hishiama said that Brian's last race will\nbe the\nArima Kinen, right?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That means you have until the Arima\nKinen to\ntrain me to perfection.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "text": "Thank you. Ehehe, I can't wait.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She sets her sights on the Arima\nKinen—a race\nagainst the incredible\nopponent she so wishes to\nexcite. That\nmeans we need to get her on the G1\n\nagenda.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She has a chance this summer and\nanother one in\nautumn. She either has to\nrun in a G1\nlong-distance race similar to\nthe Arima or a\nmedium-distance G1\nrace.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "The Takarazuka Kinen and the autumn Tenno\nSho..."
+            ]
+        },
+        {
+            "text": "Then I'll run in those. I'll run as fast as I\ncan... and\nget even better.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I feel like that's what I have to do.",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I'm walking by the front gate of the\nacademy, I\nspot Эйр Грув and Tokai\nTeio.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oho, looks like this party has a new\nguest! Come\njoin us!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Who said you could invite anyone?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Are you guys heading out?"
+            ]
+        },
+        {
+            "text": "She's been moaning all day about how\nbored she\nis without the president\naround.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I attempted to remove her from the\npremises, but\nshe ended up dragging me\nout here with her.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "C'mon, just give it up and hang out with\nme\nalready! Let's goooo!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "H-hold on, I didn't agree to any of this!\nLet go of\nme!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And here we are! All right, Эйр Грув.\nTime to\nduke it out!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Fine. Just one round, and then I'll be\ngoing.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ooh, I know. Your trainer can decide\nwhat we\nplay! How about it?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You prob'ly don't play games like this a\nlot, so it's\nfairer if I let you guys choose!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hah. As if I need any favors.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What game should I pick?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "A dance game.",
+                "A card game."
+            ]
+        },
+        {
+            "text": "Ooh! You sure? I'm pretty good at those,\nif I do\nsay so myself!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I won't back down in the face of a\nchallenge.\nBring it, Токай Тэйо.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hehe, gotcha. I'm not holdin' back then!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Woohoo, a perfect score on the bonus\nstage too!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Токай Тэйо's footwork is incredible...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh, how do ya like <i>that,</i> Эйр Грув?\nNo way\nyou can beat that score!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Huh, wait... Where's Эйр Грув? Is she\nstill\nplaying?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I was so absorbed in Токай Тэйо's\ndancing that I\nforgot about Эйр Грув. I\nfrantically look for her\nand find...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's the matter with you?! Where are\nyour\nmanners?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Don't be like that, gorgeous! Your\ndancing just\nlooked so great, I couldn't\nstop staring!",
+            "name": "Passerby A"
+        },
+        {
+            "text": "You gotta show us those hot moves\nagain. I'll\neven pay for it! It's what you\ncame here for, right?\nWhat's the\nproblem?",
+            "name": "Passerby B",
+            "choice_data_list": [
+                "(Oh no! Эйр Грув!)"
+            ]
+        },
+        {
+            "text": "I instinctively move to get between\nthem.\nHowever, before I'm able to reach\nЭйр Грув,\nsomeone else leaps to\naction.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Get! Away! From! Her!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "What's wrong with you two?! Don't you\nknow\nbetter than to bother people\nwho're just trying to\nhave fun?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Besides, it's <i>me</i> you should be watching,\nnot her! I\nput on a way better show!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "C-come on, dude, let's bail... Short\nstack's totally\nkilled the mood.",
+            "name": "Passerby A"
+        },
+        {
+            "text": "You said it. See ya later, pipsqueak!",
+            "name": "Passerby B"
+        },
+        {
+            "text": "H-hold it! Who're you callin' pipsqueak?!\nTalk\nabout rude!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Grrr... And don't get me started on you,\nAir\nGroove!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "What did <i>I</i> do?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's what you <i>didn't</i> do that's the\nproblem! Where\nwas the scary Air\nGroove who always yells at me?!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Just today, you were giving me that look\nof yours\nwith your eyebrow raised all the\nway to <i>here!</i>",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "They're complete strangers. I can't treat\nthem the\nsame way I treat you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That shouldn't matter! Ugh, why don't\nyou get it?!\nSheesh!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hold on... Are you... telling <i>me</i> off right\nnow?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Am I actually being told off by Teio?\nTalk about\nridiculous... Haha... Ahahah!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Come ON! First them, now you? Stop\nlaughing\nwhen I'm trying to be serious!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I-I'm sorry, it's just... Pfft... I really can't...\n\nHahahaha!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ah, a game of knowledge and\nstratagems. Yes, I\nthink this might be\nfun.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Heh, well... I'm no pushover when it\ncomes to\ngames that use your brains!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Very well. Before we begin, I'd like to\nstudy the\nfeatures and abilities of the\ncards. Wait just a\nmoment, Teio.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Take as long as you need! Imma go try\nthe claw\nmachine in the meantime.",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "Don't you need to get ready too?"
+            ]
+        },
+        {
+            "text": "I've played this game loads of times. I've\njust\nabout memorized all the cards.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "No point gettin' all worked up about it!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "That should be enough. Thank you for\nwaiting,\nTeio. I'm ready now.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I scored twenty pieces of candy while\nwaiting, so\nit's all good.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "All righty then! Let's get this game\nstarted!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "The duel begins, and Токай Тэйо quickly\ngains the\nupper hand.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh, drawing this out isn't fun for\nanyone. It's\ntime to end this!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Oho... You have both the knowledge\nand daring\nto strike when necessary. I\nimagine the average\nplayer wouldn't\nstand a chance against you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Haha, here's somethin' you don't see\nevery day! Is\nthe high and mighty Air\nGroove givin' up?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "No, Teio. I said the <i>average</i> player.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I certainly hope you're not counting the\nEmpress\namong their ranks!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now, prepare to feel my army's wrath!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(Zhwooooom!)",
+            "name": "Монолог"
+        },
+        {
+            "text": "N-nooooo!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I... I lost?! But how?!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hubris got the best of you. You believed\nyou had\nan advantage over your\nopponent in experience,\nexpertise, and\neven innate ability.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This combination was the source of your\n\ncarelessness—and by extension, your\ndefeat.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Careless? Me?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...I'm gonna review all the cards again.\nYou'd\nbetter sit tight, 'cause we're\nhaving a rematch!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Oh?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You may be the Empress, but I'm the\nMonarch!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I refuse to accept anything other than a\nclean\nsweep!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Very well. I'll humor you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hmph, just you wait!",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "I'm excited for the rematch!"
+            ]
+        },
+        {
+            "text": "Heh.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...For once, I agree.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And so, much to her enjoyment, Air\nGroove\nspends a little more time\nmatching wits against\nТокай Тейо.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув can't help but laugh at the\nbizarre\npredicament she's found herself\nin.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Yay! Trainer, see that? I got through the\nwhole\nrace. My lucky powers went to\nwork right away!\nSweet victory!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Your luck was great today."
+            ]
+        },
+        {
+            "text": "It sure was! It was like a path of light was\nguiding\nme on the turf, saying, \"Come\nthis way! Woof,\nwoof!\"",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I've made my debut... But that means I'm\nonly just\ngetting started, right?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Exactly!"
+            ]
+        },
+        {
+            "text": "Okay, then. Please do me the honor of\ndeciding\nthe next race.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...That's probably what you expected me\nto say,\nright? But why don't we let\ndivination do the work\nfor us?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You're going to use divination?!"
+            ]
+        },
+        {
+            "text": "That's right! I guess you could say this is\nhow I like\nto spice things up.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Okay, here goes. Whatever it says on\nthe fortune\nslip, that'll be my next race.\nIt's all up to luck\ntoday!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Here goes!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ooh! Look what it says!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It looks like our next goal is the Yayoi\nSho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looks like our next goal is the Spring\nStakes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looks like our next goal is the Mainichi\nHai.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The Yayoi Sho! After running 2,000\nmeters\nthrough the Nakayama spring\ngreenery, I'll\nemerge as a beautiful\nflower!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The Mainichi Hai! A 1,800-meter race in\nHanshin.\nSince it's a G3 race, it should\nbe within reach.\nThis is a chance to put\nall that everyday hard\nwork to the test!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The Spring Stakes! Who will be first to\ncover\nthose 1,800 meters in Nakayama\nand take the\ncrown of budding flowers?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's go with that! Hehehe, I'm starting\nto get all\npumped up!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "This seems a bit... arbitrary."
+            ]
+        },
+        {
+            "text": "It's not arbitrary! We're not doing this\nfor show,\nyou know!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "We are following the will of the gods to\nthe\n<i>letter.</i> Besides, you're the one who\npulled the slip!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

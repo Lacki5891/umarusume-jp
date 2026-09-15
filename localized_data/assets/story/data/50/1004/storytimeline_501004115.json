@@ -1,0 +1,219 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Марузенски is training hard for the\nOsaka Hai.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahh! This brisk air is the best! It makes\nrunning a\n<i>breeze!</i>",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You're looking good out there."
+            ]
+        },
+        {
+            "text": "The race is coming soon, so I'm all\namped up!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "When I think about who my next\nopponents are\ngoing to be, I get so\nexcited I can't stand still!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, look over there!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Grass, you're amazing! You've broken\nyour own\nrecord again!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe, I'm glad to see that my training is\npaying\noff!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Me next! Time t'get serious!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "My rivals are working super hard so they\ncan\ncompete with me, huh?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "To keep them motivated, I really need\nto meet\ntheir expectations!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Show them what their role model can do!"
+            ]
+        },
+        {
+            "text": "Absitively posolutely!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to do one more lap! Time to\nget amped\nto the max!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "After training, Марузенски continues to\nwatch the\nearly-year students.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heehee! They're working so hard.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It touches my heart to see how much\nthese\nadorable athletes have grown up.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I feel the same way.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Ah, Rudolf.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Continuing to chase your dreams in the\nface of\nadversity can be difficult for any\nUmamusume.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "However, seeing your ideal self running\nright in\nfront of you is just about the\nbest motivation you\ncan have.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It would seem that you've become an\nexcellent\nguide for the novice students,\nМарузенски.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, that's high praise!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's true that I've been trying to become\na role\nmodel for others to follow...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But that's just because I want to get a\nkick out of\nrunning with everyone!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You wish to set an example so you can\nenjoy\nrunning...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "For myself, my ambition to lead all\nUmamusume\nforward is what keeps me\ngoing.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But with you, I can't help wanting to run\nfor a\ndifferent purpose.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Really? What would that be?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's simple, really. The fundamental drive\nof all\nrunners...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I want to know which one of us will come\nout in\nfront.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oh! You know what—I'm curious too!\nAnd I can't\nwait to find out!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe, that's exactly how I feel.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Then, a few days later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! Sorry about calling you so\nsuddenly!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Trainer! Sorry about calling you so\nsuddenly!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I heard about a hot Italian restaurant\nwhere all\nthe hippest kids hang, so I\nthought maybe we\ncould go check it\nout—",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Huh? What's that big crowd headed this\nway?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски! Can you answer a few\nquestions\nabout your upcoming\nshowdown at the Osaka\nHai?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "How confident are you that you can win?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "W-wait! Slow down! I can't think when\nI'm getting\nbombarded like this!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We've heard that Симболи Рудольф is also\ngoing to\nrun in the Osaka Hai!",
+            "name": "Репортёр C"
+        },
+        {
+            "text": "R-really? Trainer, did you know about\nthis?!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It's the first I've heard!"
+            ]
+        },
+        {
+            "text": "R-really? Trainer, did you know about\nthis?!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It's the first I've heard!"
+            ]
+        },
+        {
+            "text": "The media is already abuzz with the\nnews! How do\nyou feel about it?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Well, I mean, isn't it obvious?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If you guys are all this excited about it,\nthen how\ncould us runners <i>not</i> be super\nhyped up?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, Trainer! Sorry for changing plans so\n\nabruptly, but instead of getting Italian...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You want to train for the showdown, right?"
+            ]
+        },
+        {
+            "text": "Hey, Trainer! Sorry for changing plans so\n\nabruptly, but instead of getting Italian...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You want to train for the showdown, right?"
+            ]
+        },
+        {
+            "text": "That's right! I want to make this the best\nrace\never!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The Osaka Hai, and the anticipated\nshowdown\nwith \"Emperor\" Symboli\nRudolf, is finally here!",
+            "name": "Монолог"
+        }
+    ]
+}

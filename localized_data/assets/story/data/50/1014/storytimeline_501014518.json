@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I head to the cafeteria for lunch, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nooooo! What have I dooone?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What happened?"
+            ]
+        },
+        {
+            "text": "I forgot it! The source of all my power...\nmy\nspecial Salsa de la Vida!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I can't work up my super spicy energy\nwithout it...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "There goes the whole afternoon... I'm\nnot gonna\nbe able to do anything.",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

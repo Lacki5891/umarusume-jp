@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During a break in our training session...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yay, I did it! I improved my time again!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Recently, I've really been in tip-top\nshape! I feel\nlike I can do anything...\nBecause...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaahhh! <i>Sniffle!</i> Traiiiineeeer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Whoa, what's going on?"
+            ]
+        },
+        {
+            "text": "<i>Sob...</i> Well... you see... the reason why I\ngot this\nfast is...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Because you always, <i>always</i> do your best\nto guide\nme!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Just thinking about it makes me so\nhappy it hurts!\nThank you so very, very\nmuuuch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "When you go full tilt at it... <i>sniffle...</i>\nthat's when I\ncan go full tilt tooooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Moved by Ticket's tears of joy, I swear\nto myself\nto keep working as hard as I\ncan.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Otherworldly Front-Runner does it\nagain!\nСайленс Судзука takes first place!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! Look at that speed!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Wow... She looked invincible!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "She's the best runner of her generation!\nMaybe\neven in all of racing history!",
+            "name": "Spectator C"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Suzuka!"
+            ]
+        },
+        {
+            "text": "Trainer... I-I did it! I made it into the\nlead!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I saw it... I saw the scenery from the lead\nof the\nautumn Tenno Sho!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I could hear everyone's heartbeats, then\nI pushed\npast them all... And waiting for\nme there was...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The most serene and beautiful scenery\nI've seen in\na race yet!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm so glad I ran today! Thank goodness I\nwas able\nto!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Welcome back, Suzuka!"
+            ]
+        },
+        {
+            "text": "Thank you... I knew I would be able to\nfind my\nway back to you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And so ends the autumn Tenno Sho. The\ncheers\nfrom the audience ring out for\nquite some time.",
+            "name": "Монолог"
+        }
+    ]
+}

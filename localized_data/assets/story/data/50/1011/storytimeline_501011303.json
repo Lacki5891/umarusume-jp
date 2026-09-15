@@ -1,0 +1,233 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер seems to have made a\nstrong\nimpression in her debut race!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm back, Trainer. Are you still feeling\nnervous?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Not in the slightest!"
+            ]
+        },
+        {
+            "text": "Hehe. Wonderful. ♪ The first step has\nbeen\ntaken... yes?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "After packing up our things to head\nback, we step\noutside only to be\nimmediately approached by a\nwaiting\nfigure.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me, Грасс Вандер! May I ask you\na few\nquick questions?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Oh, certainly. Go right ahead.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Thank you! Then let me start by\ncongratulating\nyou!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "You displayed amazing potential in your\ndebut\nrace! Your running was a sight to\nbehold!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "I'm honored to receive such praise.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, trust me, I've still got goosebumps!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "It's no wonder they call you the next\n\nМарузенски—you really are the Beast's\nSuccessor!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "...Thank you.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Though the reporter's eyes are alight\nwith\nexcitement, I feel like they're\nseeing too much of\nМарузенски and not\nenough of Грасс Вандер.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Грасс Вандер herself must be feeling\nthis\ndissonance even more acutely.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Pardon me—"
+            ]
+        },
+        {
+            "text": "Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Allow me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I try to step in, but Грасс Вандер cuts\nme off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Too excited to notice the tension in the\nair, the\nreporter tries to press onward\nwith the interview.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So, what's in your racing schedule going\nforward?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "If you have anything planned, I'd love to\nknow\nwhat race we'll be seeing you in\nnext!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Oh yes, I was just about to discuss that\nvery topic\nwith my trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So then, Trainer, is now a good time?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Do you have a race in mind?"
+            ]
+        },
+        {
+            "text": "Yes, my heart is set on one in particular.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Allow me to race in the Asahi Hai\nFuturity Stakes.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "The Asahi Hai F.S. is well-known to\ndetermine the\ntop junior-year runner, so\nit sounds like a perfect\nobjective for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But there's just one problem...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Did I hear that right?! The Asahi Hai\nF.S.?!\nThat's...",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "That's the race where Марузенски set a\nnew\nrecord back in her junior year!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "And now <i>you</i> want to run in it next?!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Yes, so long as I receive my trainer's\npermission.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As long as it wouldn't put unreasonable\nstrain on\nher schedule, I'd intended to\napprove any race\nshe might name.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But this...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now this is a scoop! \"The Successor Aims\nfor the\nJunior Crown!\" Yep, this going on\nthe front page!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Thank you so much for your time and the\nbig\nnews! Goodbye!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Hehe. Please be careful on your way\nhome.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Now then... just to make sure.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Trainer, may I set the Asahi Hai F.S. as\nmy next\nrace goal?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Are you sure this is what you want?"
+            ]
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Марузенски's performance in the Asahi\nHai F.S.\nleft a mark on the racing world\nthat still burns\nvividly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "People are already calling Грасс Вандер\nthe next\nМарузенски. If she makes this\nher next big race...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It'll invite more comparison than ever."
+            ]
+        },
+        {
+            "text": "...I know.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's exactly why I have to enter.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The nickname has already spread, so\nthere's no\nescaping it now.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Besides, I have no intention of running\nfrom it\nanyhow.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Bring on the comparisons, I say. I'll take\nthis\nchance to prove myself once and for\nall.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "My running is one of a kind.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Grass..."
+            ]
+        },
+        {
+            "text": "So... I'll ask one more time.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Do I have your permission to run in the\nAsahi Hai\nF.S.?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Let's show the world what you can do!"
+            ]
+        },
+        {
+            "text": "Thank you.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Then let's begin training right away. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And with that, Грасс Вандер's next goal\nis\ndecided: the Asahi Hai Futurity\nStakes!",
+            "name": "Монолог"
+        }
+    ]
+}

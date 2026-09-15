@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey, did you see who's running today?",
+            "name": "Spectator with Hat"
+        },
+        {
+            "text": "I saw! It's that Umamusume from abroad,\nright?",
+            "name": "Spectator in Button Up"
+        },
+        {
+            "text": "No, not her! I'm talking about the one\nwho was on\nTV the other day! I'm a huge\nfan.",
+            "name": "Spectator with Hat"
+        },
+        {
+            "text": "On TV? Wait, you can't mean... No way,\nshe's\nhere?!",
+            "name": "Spectator in Button Up"
+        },
+        {
+            "text": "Oh, this takes me back a bit! I used to\nfollow all\nof Спешл Уик's races, so I\nsaw her as well. I was\njust thinking that\nit's been a while since I've heard\n\nanything about her.",
+            "name": "Spectator in Button Up"
+        },
+        {
+            "text": "What are you talking about? She's the\nhot topic\nright now! Wait, is she really in\nthe same year as\nSpe?!",
+            "name": "Spectator with Hat"
+        },
+        {
+            "text": "Ahaha. At any rate, I always found her to\nbe a\nlittle eccentric, but it turns out\nshe's pretty\namazing!",
+            "name": "Spectator with Hat"
+        },
+        {
+            "text": "Hey, did you hear? There's a guest\nrunner from\nabroad in today's Yasuda\nKinen.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Not that it matters to me.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Either way, you're going to win."
+            ]
+        },
+        {
+            "text": "Ohohoho! That's right! No one can stand\nin my\nway!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll leave everyone in the dust!",
+            "name": "Кинг Хало"
+        }
+    ]
+}

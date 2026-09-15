@@ -1,0 +1,91 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Маяно Топ Ган is exhausted, so I\ndecide to\nbring her to the infirmary to\nrest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ehehe! Thanks so much for worrying\nabout me! I\ncan really tell that you\ncare! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm gonna get some proper rest! Maybe\nyou'll\neven show up in my dreams. ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Huh? Where am I? And why is there an\nairplane\nhere?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Your mission, Airman Mayano, is to land\non the\nbeach in formation with your\ntrainer, and ring\nthat bell!",
+            "name": "Flight Instructor"
+        },
+        {
+            "text": "Huh?! I get to fly with Тренер?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Let's do this, Mayano!"
+            ]
+        },
+        {
+            "text": "Whoa! ☆ A couple's flight with Trainer...\nThere's\nno way I'm gonna mess this up!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Woo! ☆ Great flying, Trainer! But I'm not\ngonna\njust sit here and let you outdo\nme! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Touchdown! ☆",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Let's go ring that bell!"
+            ]
+        },
+        {
+            "text": "Okay! On the count of three! ♪ One,\ntwo... three!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Ring, ding, dong!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, I'm still in the infirmary. I must've\nbeen\ndreaming...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That bell sounded kinda like...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe! I bet that dream was a good\nomen! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Huh? I'm losing altitude! Aaaaah!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The engines! Mayday!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Aaah! Wait, I was just dreaming?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh, c'mon! Even my dreams are\nfrustrating!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Unable to shake off her dream, Mayano\nTop Gun\nis unable to get proper rest...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her mood improved by her dream,\nMayano Top\nGun leaves the infirmary\nwith a skip in her stЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

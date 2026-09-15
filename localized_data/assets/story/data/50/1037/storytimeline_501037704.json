@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйсин Флэш has scheduled time to hang\nout with\nТосэн Джордан after our outing\ntoday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So, like, what're we doing today? You\nhaven't\ntold me anything sooo... are we\nwinging it?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Of course not. I have a trip to an\n\n\"Umastagrammable\" cafe planned for us.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wait, are you for real?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Omigosh. This place is <i>built</i> for\nUmastagram.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Heh... I never thought you'd invite me to\na place\nlike this.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "I mean, remember how shook you were\nwhen I\nrandomly suggested we go to\nkaraoke for\nstarters?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "...What are you trying to imply? Could\nyou please\nbe more direct?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hehe! I wasn't trying to imply anything! I\nwas just\nthinking how we gotta take a\nselfie to\ncommemorate this event.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Is that another new Japanese custom I\nhave yet to\nlearn about?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It sure is. It's, like, <i>the</i> current forerunner\nof\ntrends, and right now, I feel like takin'\na pic\ntogether!",
+            "name": "Тосэн Джордан",
+            "choice_data_list": [
+                "I can take one for you."
+            ]
+        },
+        {
+            "text": "No, that's all right. You should join us.\nLet's\ncommemorate the day together.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Click!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I appreciate you joining us today. Thank\nyou.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "How was it?"
+            ]
+        },
+        {
+            "text": "I'd assumed an \"Umastagrammable\"\nlocation was\nmerely photogenic, but the\ncafe had a liveliness\nthat exceeded my\nexpectations. Furthermore...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The experience was delightful.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "To think I could be moved to this extent\nby a\nsingle group photo is bewildering,\nto be honest.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wait, hold up. Does this mean you've\ngotten used\nto trends enough to actually\n<i>enjoy</i> them?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "\"Gotten used to?\" No. If I were to put a\nword to\nthis feeling, it would be...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"Familiar,\" I believe. They feel more\nfamiliar to\nme now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I still have a lot to learn, but I have\ncome to enjoy\ndiscovering all of these\nnew experiences.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It helps that I have someone supportive\nby my\nside.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Let's keep on learning together!"
+            ]
+        },
+        {
+            "text": "Aww, you guys... This is low-key kinda\nemotional.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Hm? I've never heard \"low-key\" used in\nsuch a\nway... I've discovered yet another\nterm that's not\nin my vocabulary.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I suspect this will happen again in the\nfuture, so I\nmust find an efficient way to\nlearn new words.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why not ask your friends?",
+                "Experience is the only way.",
+                "Maybe try solely speaking Japanese for a while."
+            ]
+        },
+        {
+            "text": "Yes, I could do that, especially since\nJordan said\nshe knows of forerunner\ntrends.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Jordan. I hope you'll take me under your\nwing.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Judging by our past conversations, I\nbelieve I can\nlearn all the terms and\nphrases I don't know by\nshadowing you\nfor six days.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "For real?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "A few days later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, you've gotta help me out here! She\nwon't\nleave me alone!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "I have only completed 60 percent of my\n\nobjective. I shall not relent until I, too,\nhave\nachieved trendsetter status.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That's right. It's just as the hostess of the\ninn\ntaught me—there is no need to rush.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It seems I must try to embrace the\nconcept of\n\"wabi-sabi\" more fully.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wabi what now? Is that related to\nwasabi or\nsomething?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "A few days later, I spy Эйсин Флэш\nmeditating\nnext to Грасс Вандер on\ncampus.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Inhale... exhale...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You're doing great. Now, let your mind\nrelax\nfurther still...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You should be able to open your mind's\neye soon.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I sense it all... The wind, the soil... No,\nthe world...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ahhh... This feeling is sublime.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "For reals? But like, what if her mom\ncalls?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "My parents have their hands full with the\nbakery. I\ndoubt I'll be receiving any\nunexpected calls from\nthem.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Whoa! Flash, you're out of breath! Are\nyou okay?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I-it's nothing... I merely... had a call with\nmy\nparents...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Huh? How'd a phone call wind you so\nmuch?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "My parents are not particularly adept in\n\nJapanese, so I communicated via\ngestures using\nvideo chat... for three\nhours.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Th-three hours?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...I have learned the value of doing\neverything in\nmoderation.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш then devotes herself to\nadjusting to\nlife in Japan... while using\nan appropriate amount\nof German.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems Эйсин Флэш has not only\nadjusted to\nliving in Japan, but on Earth\nas a whole...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems Эйсин Флэш is adjusting well to\nlife at the\nacademy.",
+            "name": "Монолог"
+        }
+    ]
+}

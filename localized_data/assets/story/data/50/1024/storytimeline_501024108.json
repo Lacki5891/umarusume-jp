@@ -1,0 +1,222 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Fan Fest—a festival held to\ncelebrate the\nfans who regularly support\nour racers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The athletic competitions are the\nhighlight of the\nSpring Fan Fest...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahaha! This is so exciting! The\n2,000-meter dirt\nrace is next!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...In other words, it's your turn to\ncompete! Get a\nmove on!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Huh?! No way! I'm in the middle of a\ndate with my\ntrainer!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Good luck!"
+            ]
+        },
+        {
+            "text": "Not you too, Trainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hmph... You're such a meanie. Ruining\nmy date\nlike that...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Seriously? We might be at a festival\ntoday, but\naren't you gettin' a bit too\ncarried away?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Have you already forgotten? Look\naround.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And take note.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Of what?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Hmph. I'll show you what I've got.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Heh... Don't get too cocky.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Whoa, everyone's looking at me! ☆\nOooh, guess\nI'm stealing all the\nattention! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...Well?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...I've never raced against most of these\nracers\nbefore.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Exactly. This is quite a rare lineup.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's true that this race is just for fun, but\nthat's\nexactly why...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You can face off against opponents you\nnormally\nwouldn't.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "This race is your one and only chance to\ntake on\nthis lineup.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So just this once... go out there and have\nas much\nfun as possible.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...As much fun as possible?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Precisely. This race will also help you\ngrow! So—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Grow?! Into an adult?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Copy that! ☆ Today, I'll soar right past\neven you,\nHishiama!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Huh?! Don't get too carried away!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Soon after, the 2,000-meter dirt race\nbegins...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh... Trainer...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hahaha! Mayano! Looks like ya had a\ncrash\nlanding.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Still, this is a good opportunity for you.\nSear the\nfaces of the winners into your\nmind and use the\nfrustration you feel as\na springboard.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's how I got to where I am. Heh.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Mmph... I have to get better... I have to\ngrow!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Thank you, everyone! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Woohoo! Falco!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Urgh! No, no, no! I hate this!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I wanna hear Trainer praise me like that!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Sigh...</i> You really are obsessed with your\ntrainer,\nhuh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hmph... I wanted to show Trainer that\nI've grown\nup.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I can already feel that you have."
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Argh! I'm gonna go run in another race!\nAnd I'm\ntotally gonna win this time!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I already told ya that you can only run\nonce!\nUnbelievable!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Traaaainer! I got first! ☆",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Great job!"
+            ]
+        },
+        {
+            "text": "Ehehe... Keep the praise coming! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...What a fearsome sight. To think you\nwould beat\nnot just me but everyone in\nthat race...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Heehee! Thanks for encouraging me to\nrace,\nHishiama!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It was super fun! And so... exciting too!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I thought about all the things I could\nonly do in\nthat race, and a bunch of\nstrategies popped into\nmy head!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I tried all the most exciting running\nstyles I could\nthink of.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You came up with all that on the fly?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You really are gonna be a thorn in my\nside!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Today, I really felt like I could see\nMayano Top\nGun's growth with my own\ntwo eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Хиши Амадзон and I run off to stop the\nmanic\nMayano Top Gun.",
+            "name": "Монолог"
+        }
+    ]
+}

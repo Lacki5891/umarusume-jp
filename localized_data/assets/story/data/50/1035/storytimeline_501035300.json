@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Is summer camp over already? We've\ngotta say\ngoodbye to this home away\nfrom home?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sniff...</i> Waaaahaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll miss you, summer caaaamp! <i>Sob...</i> Are\nyou sure\nwe can't stay one more day?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "The Kikuka Sho is waiting!"
+            ]
+        },
+        {
+            "text": "Oh! Yeah, you're right!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Taishin and Hayahide will be there too! I\ngotta\nmake it the best race <i>ever!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Woohoo! It's full speed back to home!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And with that, Уиннинг Тикит's\nevent-filled\nsummer camp comes to an\nend.",
+            "name": "Монолог"
+        }
+    ]
+}

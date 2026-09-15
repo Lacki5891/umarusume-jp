@@ -1,0 +1,104 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Симболи Рудольф invites me to\nsit in on\nher dance lesson.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One, two, three, four!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That's all for today. Did anything strike\nyou as\nrequiring attention?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф's routine was so flawless,\nI can't\nthink of anything to bring up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "May I assume from your silence that my\n\nperformance was acceptable?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I'm sorry I can't be more helpful."
+            ]
+        },
+        {
+            "text": "Not at all. If nothing stands out to the\nuntrained\neye, then I have achieved the\nbare minimum at\nleast.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'll devote a little more attention to this\nsong,\nhowever, as it still has room for\nimprovement.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Setting that aside, there is something\nelse I was\nhoping to discuss.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I have been looking to broaden my\nrange by\nexploring new dance styles,\nbut I am uncertain\nwhere to begin.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If you have any ideas, please, don't hold\nback.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You need some cutesy choreography.",
+                "How do you feel about breakdancing?"
+            ]
+        },
+        {
+            "text": "Hm. Cutesy, you say...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That would certainly be out of the norm\nfor me.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, there's no time like the present.\nFirst, you\nmust tell me exactly what you\nconsider \"cutesy.\"",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "So I must smile, wink, <i>and</i> stand\npigeon-toed?\nHaha, there's more to this\nthan I previously\nappreciated.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But that won't stop me from rising to the\n\nchallenge.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "With that, Симболи Рудольф throws herself\ninto\npracticing all kinds of cutesy\nroutines.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Breakdancing? That would certainly be a\nnew\nfrontier...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It's unlike anything I've attempted\nbefore, but\nwith it does come a certain\nfreshness and freedom\nof expression.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If I could incorporate it into my routine, I\nthink I\nwould improve dramatically.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, there's no time like the present. I\nshould get\nstarted.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I can rely on your assistance, I hope?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She seems satisfied that the effort has\nbroadened\nher horizons.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so Симболи Рудольф's horizons\nexpand once\nmore, driven by an\ninsatiable hunger for\nself-improvement.",
+            "name": "Монолог"
+        }
+    ]
+}

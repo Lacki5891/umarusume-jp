@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey, did you see Нарита Брайан's\nannouncement?",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "I did! That's why I decided to come\nwatch the\nHanshin Daishoten! After all...",
+            "name": "Spectator B"
+        },
+        {
+            "text": "\"If she doesn't keep winning after this\nrace, her\nannouncement is meaningless.\"",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Apparently.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Her announcement at yesterday's award\n\nceremony was covered by the media and\n\nbroadcast around the world.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Feeling pressured?"
+            ]
+        },
+        {
+            "text": "Ha... Don't make me laugh!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's completely irrelevant.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No matter who I'm up against or what\nkind of race\nI'm in, I'll tear the track to\nshreds!",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

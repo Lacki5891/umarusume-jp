@@ -1,0 +1,171 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as I'm walking in front of the\nstation...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Like I just said, the glass was already\nbroken when\nwe arrived!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Quit your lying mouth! I've heard\nenough from\nyou!",
+            "name": "Elderly Bookstore Owner"
+        },
+        {
+            "text": "Ugh! You stubborn old man! Why don't\nyou\nwanna believe us?!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "<i>Sigh...</i> But seriously, it wasn't us who\nbroke the\nwindow.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh, won't bother to show any remorse,\nwill you?\nYou're as disrespectful as you\nlook! Young people\nthese days...",
+            "name": "Elderly Bookstore Owner"
+        },
+        {
+            "text": "Hold up. Can you, like, <i>not</i> make snap\njudgments\nbased on how we look?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "That one ticked Голд Сити off. Things\ncan only\nget worse from here!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Wait a second!"
+            ]
+        },
+        {
+            "text": "Тренер?! What are you doing here?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Looked like you were in a pickle."
+            ]
+        },
+        {
+            "text": "It's not like we needed you to swoop in\nand save\nus...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Talk about lucky! I will <i>happily</i> let you\ntake over\nhere. ☆",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Jordan!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "C'mon, get real. Times like these, you\njust gotta\nlet the grown-ups talk it out.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Oh... So you are the guardian of these\nchildren?\nHow are you going to pay for\nmy broken window?",
+            "name": "Elderly Bookstore Owner",
+            "choice_data_list": [
+                "I apologize for all the trouble."
+            ]
+        },
+        {
+            "text": "Huh? What are you apologizing for?!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I'm prepared to take responsibility, but let me\ncheck something first."
+            ]
+        },
+        {
+            "text": "Check? Check what?",
+            "name": "Elderly Bookstore Owner"
+        },
+        {
+            "text": "After waiting for the owner to calm\ndown, we\nlook around the area and ask\na few bystanders\nsome questions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Fortunately, someone at a nearby coffee\nshop\nwitnessed the moment the incident\nhappened.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So it was those local brats who broke the\nwindow!",
+            "name": "Elderly Bookstore Owner"
+        },
+        {
+            "text": "I'm terribly sorry for all the trouble.\nThank you for\nyour help sorting this out.",
+            "name": "Elderly Bookstore Owner"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I'm just glad we found the real culprits."
+            ]
+        },
+        {
+            "text": "I should apologize to you two as well. It\nwas\nchildish of me to get so worked\nup—I wasn't\nlistening properly to what\nyou said.",
+            "name": "Elderly Bookstore Owner"
+        },
+        {
+            "text": "I convinced myself you were lying. I\nshould have\ndone better... I'm sorry.",
+            "name": "Elderly Bookstore Owner"
+        },
+        {
+            "text": "You're good! See, City? I knew it was\nthe right\ncall to let your trainer take\nover! ☆",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's not fair...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's not fair you can just stroll in saying\n\"guardian\"\nthis and \"responsibility\" that,\nand then the whole\nthing is just fixed.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But you did help us out, so...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Sorry about earlier. I'm glad you were\nthere.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're welcome.",
+                "Is that a sign of respect?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You're such an adult.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...I really want to tell you to shut it, but\nI'll fight\nthe urge, just for today.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll swing by your office later with some\nsnacks or\nwhatever. Not trying to owe\nyou anything.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Will you bring me something sweet like my\npersonality?"
+            ]
+        },
+        {
+            "text": "Ew... You're so done.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "For the rest of the day, Голд Сити seems\nto look\nat me a little differently from\nusual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I probably shouldn't have said that last\npart...",
+            "name": "Монолог"
+        }
+    ]
+}

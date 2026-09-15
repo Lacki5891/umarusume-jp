@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I won't lose like I did before. I'm a\ncompletely\ndifferent Umamusume today!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "My hair's got the right amount of\nvolume, and the\nends are just right.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Not only that, I've got my sparkling\nsmile and my\npose on point.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "In any case, I'm shining more today than\nI was\nyesterday!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You're cuter than ever!"
+            ]
+        },
+        {
+            "text": "Yeah! This is the real me! I'm gonna look\nsuper\ncute and get the win today!",
+            "name": "Каррен Тян"
+        }
+    ]
+}

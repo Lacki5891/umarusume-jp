@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with Biwa\n\nHayahide..."
+        },
+        {
+            "text": "Those are so cute. I remember how much\nI used to\nlove plushies.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She's looking at a claw machine filled\nwith little\nUmamusume plushies."
+        },
+        {
+            "text": "Brian and I used to have matching\nplushies when\nwe were young.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's hard to even imagine her playing\nwith one\nnow...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Her wistful expression as she gazes at\nthe plushies\ngives me an idea.",
+            "choice_data_list": [
+                "Do you want one?"
+            ]
+        },
+        {
+            "text": "A plushie at my age? Hmm. That's an\ninteresting\nproposal.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It might be good to get back in touch\nwith my\ninner child. But first, let's see if\nyou can get one\nat all.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I've got this!"
+            ]
+        },
+        {
+            "text": "You sound pretty confident! Show me\nyour best,\nthen, Trainer!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while training for the autumn\nTenno\nSho...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Did you see this morning's news,\nТренер?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Every year around this time, they release\na list of\neveryone who has announced\ntheir intent to race\nin the Senior Autumn\nTriple Crown races.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Now you know who you're up against in each\nrace."
+            ]
+        },
+        {
+            "text": "...It doesn't matter who I'm racing. I plan\nto take\nfirst regardless.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That said, I'm not so conceited as to\noverlook this\ninformation.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Going forward, we should take our\nopponents\ninto account в тренировке.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I check all of the materials we have on\nhand in\norder to formulate a strategy to\nhandle Narita\nBrian's rivals.",
+            "name": "Монолог"
+        },
+        {
+            "text": "According to the list, Hishi\nAmazon—who made a\nfierce showing at\nthe Arima Kinen—has\nannounced her\nintent to run in the Japan Cup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She'll undoubtedly be stronger now than\nshe was\nat the Arima Kinen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And as for the upcoming autumn Tenno\nSho...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, looks like this one should be in the\nbag!\nYou're competing against that\n\nМатиканэтангейзер, right?",
+            "name": "Fellow Trainer",
+            "choice_data_list": [
+                "...Seems like it."
+            ]
+        },
+        {
+            "text": "...Матиканэтангейзер. You could say\nshe's\nsomeone people can't stop talking\nabout, in a\nsense.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Despite having ample strength to win\nG1 races,\nvarious factors seem to always\nalign and prevent\nher from winning.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The stars seemed to have finally aligned\nfor her at\nlast year's Arima Kinen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "But then she apparently got sick right\nbefore and\ncouldn't even run.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If that's who she's up against, Narita\nBrian should\nhave no problem.",
+            "name": "Fellow Trainer"
+        },
+        {
+            "text": "You're running in the Japan Cup, right?\nIf so, you\nought to just focus your efforts\non dealing with\nthat \"Queen of the\nAmazons\" there.",
+            "name": "Fellow Trainer",
+            "choice_data_list": [
+                "We can't do that..."
+            ]
+        },
+        {
+            "text": "Sheesh, you're too by the book. You're\ngoing to\ntire yourself out if you don't\ncatch what breaks\nyou can.",
+            "name": "Fellow Trainer"
+        },
+        {
+            "text": "Not to mention, you both seem to be\nmaking a\nbig fuss about this \"sisterly\nshowdown,\" but the\ntruth is that the\nmedia expects Бива Хаяхидэ to\ndr—",
+            "name": "Fellow Trainer"
+        },
+        {
+            "text": "H-hey! Where are you going?!",
+            "name": "Fellow Trainer"
+        },
+        {
+            "text": "At the training course, Нарита Брайан has\njust\nfinished her warm-up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm ready to go anytime, Trainer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан is a racer who has a head-on\n\napproach to running. Surely, the autumn\nTenno\nSho will be no exception...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're taking the autumn Tenno Sho seriously,\nright?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Only racing can satisfy this craving in my\nheart.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And this is the Twinkle Series—there's no\ntime to\ncut corners.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "There's no such thing as an easy\nopponent, so I\nalways take my races\nseriously.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "(...And that's what makes Brian Brian.)"
+            ]
+        },
+        {
+            "text": "Hey, what's the matter? We don't have\ntime to sit\naround.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And so, Нарита Брайан runs training drills\n\nrepeatedly in preparation for the autumn\nTenno\nSho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That night...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is this everything?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Sis?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Why aren't you wearing your uniform?\nToday's a\nweekday.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...There's no training today, so I'm going\nout.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "By the way, it makes me proud to see\nyou working\nso hard every day.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Don't talk like it has nothing to do with\nyou.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm planning on surpassing you, so you\nbetter be\nready.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...I'm already one of many behind you,\nlooking at your\nback.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Come again?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian, just keep on running ahead. Don't\never\nlook back.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Sis?",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's a new year, and Нарита Таисин's\nchallenges as\na classic year racer have\nfinally begun!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(It's always so hard to get ahold of Taishin...)"
+            ]
+        },
+        {
+            "text": "But this year will be an important one,\nand I want\nto take the opportunity to\ncelebrate the occasion\nwith her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I keep that determination burning in my\nheart\nand, once I finish decorating the\noffice, head out\nto find Нарита Таисин.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Taishin?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh! I saw her wandering off somewhere\nbefore\nlunch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But it doesn't look like she's back yet!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Really? Darn..."
+            ]
+        },
+        {
+            "text": "<i>Gasp!</i> Noooo! Don't be sad! Oh, gosh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Um, um!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ah, I know! She might be taking a nap\nover there!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Yawn...</i> I slept like a lo—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What the?! How long have you been\nhere?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And how'd you know I was here to begin\nwith?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Ticket told me..."
+            ]
+        },
+        {
+            "text": "Ugh, that bonehead... She always\ninterrupts my\nnaps, and now she's\nsnitching about my hiding\nspots?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's it. Next time, I'm gonna kick some\nsense\ninto her.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(Forgive me, Ticket!)"
+            ]
+        },
+        {
+            "text": "So? What do you want?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I was thinking we could make a New Year's\nresolution together."
+            ]
+        },
+        {
+            "text": "Gross. Hard pass.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm starving, and she won't even throw\nme a bone!\nBut if I let this get to me, I\nwon't last as her\ntrainer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "At the very least, it'd be nice to spend\nNew Year's\nwith her, so I try to suggest\nsomething that will\npique her interest.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's sit under a kotatsu table and play some\nracing games!",
+                "Let's take another nap!",
+                "Let's have our usual meeting."
+            ]
+        },
+        {
+            "text": "Talk about coming out of left field...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Eh, I guess it's still better than making a\n\nresolution or whatever.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(Yes!)"
+            ]
+        },
+        {
+            "text": "Since Нарита Таисин enjoys playing video\ngames,\nI'm able to snag her—hook, line,\nand sinker. I\nquickly set up the kotatsu\nin my office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our gaming session gets underway,\nwhen...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I can't believe I lost ten out of ten games...\nShe's crushing me!)"
+            ]
+        },
+        {
+            "text": "<i>Sigh.</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Don't just use your items randomly. You\ngotta\nthink when the best timing is.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Your cornering's not bad, so why don't\nyou switch\nto a car with higher speed\nstats?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin! Thank you!"
+            ]
+        },
+        {
+            "text": "Ew. What're you getting all emotional on\nme for?\nI'm only giving you advice\nbecause I'm getting\nbored!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Absolutely not. I came here because I\nwanted to\nnap <i>alone.</i>",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Do you take afternoon naps here often?"
+            ]
+        },
+        {
+            "text": "Why the heck are you asking? What, are\nyou\ntrying to police what I do on my own\ntime?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But for your information, yeah, I do. I\nlike\nnapping. Sleeping lets me escape all\nthe annoying\nstuff in the world.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And it helps me grow tall—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I mean... nothing.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "A sudden gust of cold air rushes past us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Achoo!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ugh.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "It's cold, so why don't you continue your nap in\nmy office instead?"
+            ]
+        },
+        {
+            "text": "Fine. But only this once.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You wanna talk about training? Yeah, I\nguess\nthat's fine.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, let's hurry to your office, then.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, geez. What's with all the\ndecorations?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(I totally forgot about them!)"
+            ]
+        },
+        {
+            "text": "Did you do all this to celebrate New\nYear's or\nsomething?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Ugh...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Fine. Break out the holiday snacks.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Wait, really?"
+            ]
+        },
+        {
+            "text": "Get a move on before I change my mind.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You expect anyone to hold a meeting\nhere with\nthe room like this?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's not without a few bumps and\nhurdles, but we\nend up having a pretty\nfun New Year's together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, I watch over Нарита Таисин as\nshe pulls a\nblanket over her head and\ncurls up like a kitten\non the sofa in my\noffice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Таисин finally gives in to the\nfestive mood,\nand we spend a fun New\nYear's together.",
+            "name": "Монолог"
+        }
+    ]
+}

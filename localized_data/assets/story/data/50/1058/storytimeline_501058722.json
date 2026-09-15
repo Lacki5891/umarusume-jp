@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ohh... Oww... Uugh, I think a headache is\ncoming\non...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "My head suddenly hurts... I don't think\nit's\nbecause of a cold...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I haven't tripped yet today, either...\nWhat could\nbe the reason? Nghh...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Owie! Ow ow! It's starting to hurt again...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Maybe it's your overthinking?"
+            ]
+        },
+        {
+            "text": "That's true... I do feel like too much\nthinking\nsometimes gives me a\nheadache.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Which means... maybe I should stop\nthinking\naltogether? O-okay, no more\nthinking. Don't\nthink.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ohhh... But I can't finish the day without\n\nreflecting on my actions!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ow! Ow ow ow! I'm not sure if I can stop\n\nthinking...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Unable to stop her ruminating, Meisho\nDoto\nagonizes over her headache.",
+            "name": "Монолог"
+        }
+    ]
+}

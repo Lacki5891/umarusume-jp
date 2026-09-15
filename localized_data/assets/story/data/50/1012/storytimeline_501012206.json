@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ooh, I can just feel the tension in the\nair... Sparks\ncould fly any second.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "text": "Not gonna lie, I kinda am. But I can't get\nall\nscared and tarnish my name.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm here for first place. I won't accept\nanything\nless.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Her firm voice makes it clear how\nresolved she is\nfor this race."
+        },
+        {
+            "text": "I'm gonna make good on my word!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's finally here, folks. Today is the senior\nG1\nOsaka Hai!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Which runner will emerge victorious from\nthe\nfray?!",
+            "name": "Комментатор"
+        }
+    ]
+}

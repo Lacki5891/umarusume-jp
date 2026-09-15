@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey, Trainer.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Are there any racers today who I haven't\nfaced\nbefore?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Probably."
+            ]
+        },
+        {
+            "text": "...I see. That makes it more interesting!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You chose this race specifically for me,\nright?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Then I'll definitely do my best. I'm\ngetting all\nexcited.",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

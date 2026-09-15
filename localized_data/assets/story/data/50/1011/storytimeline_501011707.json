@@ -1,0 +1,78 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер and I have come to a\nshrine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whenever I pray at a shrine, there's\nsomething\nimportant I like to keep in\nmind.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Something important?"
+            ]
+        },
+        {
+            "text": "Yes. When we pray, it should be for the\nsake of\nothers. Any benefit to ourselves\nis only a happy\nbonus.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The tradition goes that Japanese deities\nrespond\nbest to prayers for the land and\nits people as a\nwhole.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I've been told it is improper to pray only\nfor\nyourself.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "That's a nice way of thinking."
+            ]
+        },
+        {
+            "text": "It's only one point of view, of course,\nbut I\nbelieve the deities will take notice\nif I honor it.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "According to an old Japanese saying,\ncompassion\nfor others is always\nrewarded. I find it to be a\nwonderful\nsentiment. ♪",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'll give it a shot, too."
+            ]
+        },
+        {
+            "text": "Oh, you will? Then let's go offer our\nprayers\ntogether. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Reflecting carefully on Грасс Вандер's\nwords, I\npray for the prosperity of all\nUmamusume in their\nraces.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew... All done. The rest depends on\nthe gods'\ntemperament.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "One should always do their best... but\nsometimes\na little divine aid is the push\nyou need. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Whew... We're all done now, but...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "<i>Fssshhh...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh dear. Perhaps the gods aren't in the\nbest of\nmoods?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The two of us run back to the academy\nin the\npouring rain.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Considering how committed she is to\ndoing her\nbest, I'm sure the gods will\nprovide their\nblessings.",
+            "name": "Монолог"
+        }
+    ]
+}

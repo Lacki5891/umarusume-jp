@@ -1,0 +1,72 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Our second summer camp has come to\nan end.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...All that's left is to run in the Japan\nCup.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I can't wait."
+            ]
+        },
+        {
+            "text": "Yeah.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I was just thinking, you've really softened up\nlately."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What, did you like the cold treatment? I\ncan start\nbossing you around if you'd\nlike.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "That's not what I mean..."
+            ]
+        },
+        {
+            "text": "Parasol, please.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And my sunglasses and sparkling water.\nAlso\nbring long gloves for UV\nprotection.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What are you doing making me stand\nbeneath the\nscorching sun like this?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I do ads for sunscreen. Can you imagine\nthe losses\nI'd suffer if I get sunburned?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I'll bring them right away, ma'am!"
+            ]
+        },
+        {
+            "text": "Haha, I'm just joking. I'm not that bossy,\neven at\nwork.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Felt pretty good to hear you call me\n\"ma'am,\"\nthough. Hahaha.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And so, our second summer camp ends\nwith Gold\nCity laughing.",
+            "name": "Монолог"
+        }
+    ]
+}

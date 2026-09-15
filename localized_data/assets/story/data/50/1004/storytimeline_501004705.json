@@ -1,0 +1,217 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Марузенски and I are on our way home\nwhen we\npass a certain street.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Wait, is this place...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "text": "Can't you see, Тренер?! This spot...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Can't you see, Тренер?! This spot...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "This is where <i>Eight Blossoms of Youth</i>\nwas filmed!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "Марузенски catches me off guard with\nthe name\nof a classic TV show.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm gonna lose it! This is totally the\nstreet corner\nwhere Momotaro and\nYoshimi reunite in the first\nepisode!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I never thought I'd stumble on the\nlocation of\nsuch a cool, trendy TV show!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We have to recreate the scene, Trainer!\nCome on!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "We have to recreate the scene, Trainer!\nCome on!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "You play Momotaro, and I'll be Yoshimi!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You play Momotaro, and I'll be Yoshimi!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A few days after a <i>totally bogus</i> chance\n\nencounter, Yoshimi walks down the\nstreet and\nbumps into a certain\nsomeone...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The two of them look at each other and\nshout,\n\"Ahh! You again!\"",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Sigh...</i> So cool and hip! Let's go, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "She has sparkles in her eyes. I guess I\nhave no\nchoice...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's get this show on the road!",
+                "We should be respectful of their story."
+            ]
+        },
+        {
+            "text": "Woo-hoo! ☆ I knew you'd be up for it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Woo-hoo! ☆ I knew you'd be up for it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll walk in from over there. Aaand\n<i>action!</i> ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ugh! If I ever see that guy again, I'm\ngoing to give\nhim a piece of my mi—",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oof! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "S-sorry! I was in a rush, and...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wait, <i>whaaat?!</i> You again! From the\nother day!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Y-you again... from the other day!"
+            ]
+        },
+        {
+            "text": "Oooh, that was so good! We recreated\nthat\nfamous scene perfectly!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "This is so much fun! Now, let's go tour\nthe other\nlocations!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...What?"
+            ]
+        },
+        {
+            "text": "I'll go get Tata! Be back in a flash!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "That tale belongs to Momotaro and Yoshimi."
+            ]
+        },
+        {
+            "text": "...Ahh, so that's it.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Their fateful rendezvous was for them\nalone. I\nguess it would be rude to rewrite\nit.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, let's stop here, then.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "(Whew...)"
+            ]
+        },
+        {
+            "text": "...Heehee.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "text": "All right, Trainer, let's go!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right, Trainer, let's go!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We're gonna find a cool, dramatic way\nfor <i>us</i> to\nmeet! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...What?"
+            ]
+        },
+        {
+            "text": "We're gonna find a cool, dramatic way\nfor <i>us</i> to\nmeet! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...What?"
+            ]
+        },
+        {
+            "text": "Oh, c'mon! You didn't really think you\ncould talk\nme out of it <i>that</i> easily, did\nyou?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, c'mon! You didn't really think you\ncould talk\nme out of it <i>that</i> easily, did\nyou?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Your attempts at bargaining were cute\nand all,\nbut you're going to hurt my\nfeelings!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So as punishment, I won't let you go\nhome until\nthe two of us create an\nexciting meet-cute fit for\nthe big\nscreen! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee! I'm counting on you! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We then travel around the city to each\nlocation\nfrom the drama to recreate its\nfamous scenes until\nМарузенски is\nsatisfied.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I should've known it wouldn't be that\neasy...",
+            "name": "Монолог"
+        }
+    ]
+}

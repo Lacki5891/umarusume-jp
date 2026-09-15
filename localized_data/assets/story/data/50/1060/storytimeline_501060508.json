@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while walking around campus, I\nhear a\nfamiliar voice... but saying some\nvery unfamiliar\nwords.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Meeeowww... What a cute widdle\nkittyyy! So\ncuuute, yes you are!",
+            "name": "Cat-Lover Umamusume?"
+        },
+        {
+            "text": "<i>Sigh...</i> Cats really take away all the\nexhausti—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...?!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sorry for interrupting..."
+            ]
+        },
+        {
+            "text": "...Can you take away Trainer's memory\ntoo, Mr.\nCat?! Please?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Meeeooow.",
+            "name": "Cat"
+        },
+        {
+            "text": "Yeah, I figured as much. You're just a\nlittle kitty!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ughhhh... I can't... I'm even more tired\nnow...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She appears exhausted and low on\nenergy. I\nwonder if I should reconsider\nher race schedule\nfor the sake of her\nfuture success.",
+            "name": "Монолог"
+        }
+    ]
+}

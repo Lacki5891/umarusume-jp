@@ -1,0 +1,154 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day in February, I head to my office\njust like\nusual, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Finally. I've been waiting.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "C'mon, you better get eating now or it'll\ngo bad\nbefore you can finish it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I look to where Нарита Брайан is pointing...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "That's a lot of chocolate!"
+            ]
+        },
+        {
+            "text": "Right? I mean, it's fine if people want to\ngive me\nchocolates, but I wish they\nwouldn't do it all at\nonce.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let's start with the ones closest to their\nexpiration\ndates.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "But aren't these <i>your</i> chocolates?"
+            ]
+        },
+        {
+            "text": "...What?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tch! You think I'm going to let you\nweasel out of\nyour duties?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Here, take a look at this card.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "At Нарита Брайан's insistence, I look at the\nmessage\ncard attached to one of the\nboxes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Dear Нарита Брайан,\nI want to be just like\nyou! You look so cool when\nyou run!\"",
+            "name": "Message Card"
+        },
+        {
+            "text": "\"I also want to give my sincerest thanks\nto your\ntrainer for always supporting\nyou. You two really\nare the best combo!\"",
+            "name": "Message Card"
+        },
+        {
+            "text": "\"I hope both of you will accept this\nchocolate as a\ntoken of my\nappreciation!\"",
+            "name": "Message Card"
+        },
+        {
+            "text": "This chocolate is for me <i>and</i> you.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "A-all of it?"
+            ]
+        },
+        {
+            "text": "So, are you ready?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And so, we get started on the mountain\nof\nchocolate...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> Do we really have to eat\nchocolate again\ntomorrow?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "We gotta make sure we eat it all, though."
+            ]
+        },
+        {
+            "text": "Of course. We can't be disrespectful.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "My mom and sister are both very strict\nabout this\nkind of thing. They told me\nnever to snub a show\nof kindness.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "By the way...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This one isn't for the both of us. This one\nis just\nfor you.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Thanks."
+            ]
+        },
+        {
+            "text": "I open the package to find three small\nchocolates\nI often see in convenience\nstores.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Make sure you eat them all.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Make sure you eat them all.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What do you want in return?"
+            ]
+        },
+        {
+            "text": "...Nothing. That's not why I gave them to\nyou.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If you do give me something, I'll take it\nthough.\nLike I said before, that's how I\ndo things.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'll be sure to pour my heart into it."
+            ]
+        },
+        {
+            "text": "Hmph...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Knowing you, there'll be enough heart in\nit to\ngive me heartburn. No amount of\nsugar will hide\nit.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And I can't imagine anyone else being\nable to\nstomach it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...At least bring me something I like.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "A few days later, I give Нарита Брайан\nsome snacks\nin return.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан looks somewhat\nembarrassed as she\nheads back to the\ndorm.",
+            "name": "Монолог"
+        }
+    ]
+}

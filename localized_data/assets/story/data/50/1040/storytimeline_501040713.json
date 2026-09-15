@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Сити injured herself в тренировке\ntoday.\nOnce I finish tending to the\nwound...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks, Trainer. Since it's nothing\nserious, let's go\nback to training. I don't\nwant to waste any time.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I should still be able to run a few laps\nbefore my\nmanager comes to pick me\nup, right?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I think we should call it a day.",
+                "Let's get back to work."
+            ]
+        },
+        {
+            "text": "What? Why? This is nothing, plus you\npatched me\nup already.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "If it gets worse, it'll affect your ability to race."
+            ]
+        },
+        {
+            "text": "That... might be true, but...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Look, we're already short on time!\nFine—but we're\n<i>not</i> canceling our\ntraining tomorrow!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah, good call. I'll have to concentrate\nbetter.\nCan't let myself get distracted by\nthoughts of\nwork again...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, so long as I'm not being careless,\nI'll be fine.\nA slight twist is nothing to\nworry abo—",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ow!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "No way... Another twist. When have I\never been\nthis clumsy?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I wonder what they're gonna ask me\nduring the\ninterview later... Agh, no,\nsnap out of it!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Modeling, and running. If I want to do\nboth, I\nneed to keep them separate.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You did a good job patching me up, so I\nneed to\nmake use of the rest of our time!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити seems to have aggravated her\ninjury. I\ndecide to have her take the rest\nof the day off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Committed to her training, Голд Сити\nsuccessfully\ncompletes today's regimen\nas planned.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I manage to calm her down, and she\nagrees to\ntake a rest at the infirmary\nuntil it's time for her\nmodeling job.",
+            "name": "Монолог"
+        }
+    ]
+}

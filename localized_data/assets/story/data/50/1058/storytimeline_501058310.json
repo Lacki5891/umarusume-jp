@@ -1,0 +1,92 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I did it... I ran properly... Hehehe...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You did great, Doto!"
+            ]
+        },
+        {
+            "text": "Thank you! Trainer, you know... I'm\nfinally feeling\na little more confident!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "She's true to her word. This is a huge\nleap in terms\nof growth. Not to\nmention...",
+            "choice_data_list": [
+                "(Her running has certainly gotten better\ntoo—that's for sure.)"
+            ]
+        },
+        {
+            "text": "She stands her ground, even in a\nhigh-pace senior\ngraded race. If she\nkeeps this up..."
+        },
+        {
+            "text": "Trainer, is it... possible?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Do you think I can do it now?! Run with\nOpera O\nin a senior G1?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Yes, of course."
+            ]
+        },
+        {
+            "text": "Hold it right there!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Eeeeek?! Oh...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You can't go running with Opera O just\nyet. There\nstill stands one opponent you\nmust defeat!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Heaven calls upon me, Buddha as my\nwitness.\nSpirits begone, vanquished by\nthe spinach leaf!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You want to run with Opera O? Then do\nso after\ndefeating <i>me,</i>\nMatikanefukukitaru!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Huh, Fukukitaru? But I thought we were\nkindred\nspirits...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Why yes, we are. However... I assure you\nmy\nchallenge comes with a profound and\nesoteric\nmeaning.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Trainer, will you cosign this?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Uh, sure..."
+            ]
+        },
+        {
+            "text": "I get the feeling Матиканэфукукитару is\nplanning\nsomething, I can't be\ncompletely sure though."
+        },
+        {
+            "text": "Then, that settles it! This challenge will\ntake place\nnowhere other than...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The Arima Kinen at the end of the year!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Isn't that a little far away?"
+            ]
+        },
+        {
+            "text": "Then, how about the Kinko Sho?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "A swift and easy response. With that, it's\n\ndecided—the friends will face off in the\nKinko Sho\nthis March."
+        }
+    ]
+}

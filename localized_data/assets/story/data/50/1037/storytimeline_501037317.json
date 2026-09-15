@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Clap, clap, clap!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The crowd bathes the dark-haired\nconqueror of\nthe year-end Grand Prix\nwith thunderous\napplause.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm truly grateful for everything I have\n\nexperienced on my journey, expected\nand\notherwise.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thank you! Thank you so much!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She bows deeply at the stands, and a\nfresh wave\nof applause washes over her,\nbut then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, hold up!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What're you making a big ol' fancy\nspeech for?\nAre you trying to steal all\nour thunder?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And hey, when're you racing next,\nFlash-idash?\nYou're not planning to run\naway after nabbing\nthat victory, are\nyou?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hehe. Of course I'm not running away.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Komm jetzt, Голд Шип. I welcome your\nchallenge\nand will happily become an\nobstacle in your path\nanytime.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I apologize for the wait, Trainer.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now begins the difficult part. I cannot\nwaste any\ntime basking in my victory.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After all, tomorrow will be the first time\nI'll wake\nup with absolutely nothing\nscheduled for the day.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Additionally, my only directive from now\non is to\ndo as I wish, which is an\nimmensely difficult\nsituation to manage.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Want to call it quits, then?"
+            ]
+        },
+        {
+            "text": "Niemals! I would never.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It is that difficulty which makes creating\na\nschedule worthwhile.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "What should we decide on first? I can't\nwait to\nstart!",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

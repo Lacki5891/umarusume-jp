@@ -1,0 +1,260 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Смарт Фалкон has decided to enter the\nSatsuki\nSho. However, the path ahead is\nanything but\nsmooth...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "W-well, what do you think?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Well..."
+            ]
+        },
+        {
+            "text": "Her aptitude makes for a big hurdle. As\nsoon as\nshe steps onto turf, her\nperformance drops\nsignificantly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> No good, huh?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I can tell something's off when I'm\nrunning. Like I\njust can't go all out.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "There isn't much time left before the\nSatsuki Sho.\nWe either keep at it and\nhope for a miracle, or...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We need to change things up, big time."
+            ]
+        },
+        {
+            "text": "A big change...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "What about... Yeah! I think I might have\njuuust\nthe thing! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The next day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Whoa, whoa, whoooa! ♪ Yay!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Come on, Suzuka! You too, Trainer!\nDon't give\nme that blank expression. All\ntogether now...\nYay! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Yay!"
+            ]
+        },
+        {
+            "text": "Uh... Yay?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Sorry, but... what's all this about again,\nSmart\nFalcon?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I told you to call me Falco! ☆ Don't be\nso uptight,\nSuzuka! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Сайленс Судзука has already achieved\ngreat\nsuccess on turf. Her dynamic and\npowerful\nrunaway style captivates\neveryone who sees it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Смарт Фалкон's bright idea seems to\ninvolve her\nsomehow, but it's still\nunclear how this is\nhelping...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um... I thought you wanted me to give\nyou some\npointers about running on\nturf...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That's right! ☆ Thank you so much for\nagreeing to\nhelp. ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I love the way you run, Suzuka. That's\nwhy I want\nyou to teach me!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm happy you feel that way, but... why\nare we at\nkaraoke?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Before we run, I want to get some\npointers on\nsinging from you too. Ehe! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Wh-what?! It's not like I'm good at sin—",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Here's your mic!"
+            ]
+        },
+        {
+            "text": "Y-you too?!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "All right, let's go! L-O-V-E! I love\nSuzuka! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Huh?!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And so, after we spend some time\nlearning (?)\nsinging from Silence\nSuzuka...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff...</i> I can't believe you made me sing\nsix songs\nin a row...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Haha, thanks for singing for us! ♪\nYou've got me\nsooo emotional! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's why I...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Whoa! Isn't that Сайленс Судзука?!",
+            "name": "Passerby A"
+        },
+        {
+            "text": "Huh?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That's her! It's Suzuka! Oh my gosh!",
+            "name": "Passerby B"
+        },
+        {
+            "text": "Suzuka, in the flesh! Wow, she's even\nprettier in\nreal life!",
+            "name": "Passerby C"
+        },
+        {
+            "text": "Before we know it...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I saw your last race! You were amazing,\nas usual!",
+            "name": "Suzuka Fan A"
+        },
+        {
+            "text": "I can't wait to watch your next race!\nAnd, um... It's\nstill cold, so make sure\nyou stay warm!",
+            "name": "Suzuka Fan B"
+        },
+        {
+            "text": "Oh... Thank you very much.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Wow, she's completely surrounded.\nSuzuka sure is\npopular.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...But, it's easy to understand why.\nSuzuka runs\nbeautifully, and she sings\nbeautifully.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "She's got me starstruck. I just love her!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I bet everyone feels energized just\nlooking at her.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I wanna be like that too...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Сайленс Судзука is likely close to what\nSmart\nFalcon has in mind when she\nimagines a top\nUmadol.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You've got what it takes, Falco."
+            ]
+        },
+        {
+            "text": "Hehe, thanks! I think so too.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But I can't just stand on the sidelines\ndreaming!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I've got to make it happen with my own\ntwo legs!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hi, Suzuka fans! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm the Umadol everyone's talking\nabout, Falco!\nAnd I'm gonna be running\nin the Satsuki Sho! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "\"Falco\"? I don't think I've heard of you...",
+            "name": "Suzuka Fan A"
+        },
+        {
+            "text": "But if you're running in the Satsuki Sho,\nyou must\nbe pretty good... I guess.",
+            "name": "Suzuka Fan B"
+        },
+        {
+            "text": "Weeell, why don't you find out with your\nown two\neyes? ☆ See you at the\nracecourse!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm always performing on the street too,\nso drop\nby anytime! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Well, she seems interesting. Maybe I'll\nlook into\nher...",
+            "name": "Suzuka Fan C"
+        },
+        {
+            "text": "...Hehe. She's really something.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "After that, Сайленс Судзука gives Smart\nFalcon\nsome running pointers back at\nthe academy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Phew...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Wow! She's so amazing. I'm gonna be\njust like her!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Inspired by Сайленс Судзука's singing and\nrunning,\nSmart Falcon looks to the\nSatsuki Sho with a fresh\nspirit.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Man, that was close, Teach.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I'm sorry..."
+            ]
+        },
+        {
+            "text": "Come on, don't say that! Keep your\nhead high.\nYou did a great job!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right, time for me to give it a shot!\nTeach, can\nI borrow a coin or two from\nya?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I'm out, sorry..."
+            ]
+        },
+        {
+            "text": "Shucks, well... I guess I could make it up\nwith a\nhuge meal for the newbies.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

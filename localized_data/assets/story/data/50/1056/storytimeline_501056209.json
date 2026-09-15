@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for the Kokura Kinen, Trainer!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You know, I went to pray at Dazaifu\nTenmangu\nright before the race.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's where the great scholar Sugawara no\n\nMichizane is enshrined.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That makes it one of the two most\nsacred sites in\nFukuoka, so praying there\nshould really pay off!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What's the other sacred place?"
+            ]
+        },
+        {
+            "text": "You really don't know? It's so famous,\nthough...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Well then, I think I have a pretty good\nidea on my\nhands. If I manage to get\nthrough this race...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's go there to celebrate! Hehe! Now\nI'm even\nmore fired up to win!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

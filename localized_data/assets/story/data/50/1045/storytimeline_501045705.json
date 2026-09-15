@@ -1,0 +1,186 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my way back from a day out with\nSuper\nCreek...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We ended up walking quite a lot today.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Are you okay?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I'm dandy!"
+            ]
+        },
+        {
+            "text": "Hehe. Still full of pep, huh?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "In that case... do you mind tagging along\nwith me\nfor just a little longer?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Let's go and rest somewhere quiet...\nWhat do you\nsay?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "How about we grab a cup of tea?"
+            ]
+        },
+        {
+            "text": "Actually, I learned a reeeally refreshing\nmassage\ntechnique recently.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "So I was thinking I'd give it a try on you,\n\nTrainer! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Now, now, no need to be shy! Let's go\nsomewhere\nyou can lie down.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm all changed!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hm? Is that... Oguri?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Ah, Creek. You're with your trainer,\nhuh?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Goodness me, you're still training at this\nhour?\nWell, aren't you a go-getter!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Don't push yourself too hard though.\nTaking the\ntime to rest is equally\nimportant.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Yeah, that's what I was about to do.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Actually, I don't know if it's because I\nexercised\ndifferently than usual, but my\nbody feels a little\nstiff...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Hm? Let me take a look.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Trainer, help me out here, will you?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Upon Супер Крик's request, I take a\nlook at\nOguri Cap.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It doesn't look like there's anything to\nbe worried\nabout, but it might be good\nto loosen up her\nmuscles a bit with a\nmassage.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It doesn't look serious, but what do you\nthink,\nТренер?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "It might be good to loosen up those muscles."
+            ]
+        },
+        {
+            "text": "Well! Then it's my time to shine!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You know how to give a massage?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The intricate stuff is best left to the\nprofessionals,\nbut I can manage if you're\njust looking to loosen\nup a little.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll squeeze the pressure points in your\nfeet too.\nIt's super effective, even if it\ndoes hurt a lot.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Um...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Sorry, Trainer. Could you wait here for a\nbit?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Massages are best received after warming up\nyour body.",
+                "Sure, I don't mind."
+            ]
+        },
+        {
+            "text": "Sorry, Trainer. Could you wait here for a\nbit?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Massages are best received after warming up\nyour body.",
+                "Sure, I don't mind."
+            ]
+        },
+        {
+            "text": "Yep, I agree.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Okay, Oguri. First, let's hit to the\nshowers\ntogether! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Um... But I was going to train again after\na short\nrest...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "That's enough for today. Be a darling\nand come\nalong, why don't you?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "B-but...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "We'll be back, Trainer!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Without getting a say on the matter,\nOguri Cap is\ndragged off by Super\nCreek.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you, Trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Now then, Oguri. Lay down over there.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll bear the pain if I have to. I just hope\nthere\nwon't be any lingering discomfort.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It'll be fine! You'll feel all refreshed once\nI'm done\nwith you! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I hear some strange noises coming from\nthe\nshowers shortly thereafter. They\nvaguely sound\nlike screams, but... I'm\nprobably just imagining\nthings.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mere seconds later, I hear Огури Кэп\nshriek as\nshe gets her feet massaged.",
+            "name": "Монолог"
+        }
+    ]
+}

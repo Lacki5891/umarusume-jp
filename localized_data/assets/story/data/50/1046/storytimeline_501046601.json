@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I was so disappointed I lost that last race\nand\ncouldn't stand center stage...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But! I'm definitely making my comeback\ntoday!\nI'm gonna run cute and win cute!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Leave the cheering and chanting to me!"
+            ]
+        },
+        {
+            "text": "All right, thanks! I hope you're ready,\nTrainer!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Because I'm gonna show you how I\nsparkle at the\nwinning concert! ☆",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I escort Симболи Рудольф to the infirmary\nafter she\nsuffers an injury в тренировке.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is nothing, Trainer—hardly more\nthan a\nbruise. It will heal in no time.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If I were to falter at a scratch like this, I\nwould be\nashamed to call myself\nEmperor.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Why, I could resume training tomorrow if\nyou\nwanted. Haha...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Absolutely not. You're resting up.",
+                "I was hoping you'd say that!"
+            ]
+        },
+        {
+            "text": "Ah... I had hoped a little humor would\nreassure\nyou, but it seems to have had\nthe opposite effect.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Excellent! In that case—",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф makes to get up, only to\nfreeze\nmid-motion.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "...It seems I was a little hasty in my\nassessment. I\nmay need time to\nrecuperate after all.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Then we are of one mind. No hardship is\ntoo\nonerous for the Emperor.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm always vigilant for opportunities to\nput my\nideals into practice.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "My apologies. I see now that putting up\na brave\nfront is not always the best\nanswer.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "So much for sparing my dignity...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "This is one such time. I will not be\nundone by a\nminor mishap!",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I'm setting up for the day's\nearly-morning\ntraining, I'm greeted by a\nfamiliar voice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good morning, Trainer. I thought I might\nfind you\nhere.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Morning. You're up early."
+            ]
+        },
+        {
+            "text": "I slept well last night, so I thought I\nmight come\nand pay you a visit.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, more precisely, I thought I might\nlie in wait\nand surprise you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But it seems even the Emperor cannot\noutdo you\nwhen it comes to early starts.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Thanks for giving me yesterday off. I\nreally\nappreciated the break.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Were you able to get a lot of rest in?"
+            ]
+        },
+        {
+            "text": "I was!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I managed to wrap up all my dorm\nleader duties\nand talked to my lovely\nponies about their\nconcerns.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I also had a one-on-one race with\nHishiama,\nwatched Opera O's solo show,\nand...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You consider that \"resting\"?!"
+            ]
+        },
+        {
+            "text": "Of course! Entertaining others and\nenjoying a\ngood time with them is how I\nrecharge!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки's definition of \"rest\" is very\ndifferent\nfrom mine, but she seems alert\nand refreshed from\nher break, and that's\nall that counts.",
+            "name": "Монолог"
+        }
+    ]
+}

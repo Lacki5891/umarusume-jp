@@ -1,0 +1,223 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp is well underway, and\neven Mejiro\nRyan has had a few chance\nencounters with the\npossibility of\nromance. But...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, you're an Umamusume! Your ears\nreally are\nyour most distinctive feature,\nhuh?",
+            "name": "Beachgoer A"
+        },
+        {
+            "text": "U-um, no... That would be my hammies.\nWhen I\ndig my heels in running, gravel\ngets kicked up\nbehind me. Cool, huh?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Your hammies? ...What's that?",
+            "name": "Beachgoer A"
+        },
+        {
+            "text": "Hey! Why don't we watch the fireworks\ntogether?\nPick you up tonight, okay?",
+            "name": "Beachgoer B"
+        },
+        {
+            "text": "Okay. I'll see you at midnight, then.\nLooking\nforward to it.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Whoa, that's way too late! The fireworks\nare\ngonna be over long before that.",
+            "name": "Beachgoer B"
+        },
+        {
+            "text": "Really?! But... isn't this the type of thing\nwhere we\npromise to meet at midnight?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Let's play a game!",
+            "name": "Beachgoer C"
+        },
+        {
+            "text": "Oh, I think I know this one! Whoever\nsays they\nlike the other first loses, right?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...What?",
+            "name": "Beachgoer C"
+        },
+        {
+            "text": "After a series of misunderstandings,\nМэдзиро Райан's\nhopes go down in flames.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uh...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "She's completely befuddled by the total\nrejection\nshe's gotten.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sorry, Trainer... I'm just too green\nwhen it\ncomes to romance...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It's no big deal if they just don't like me,\nbut when\nthey act like I'm a weirdo...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Is romance hard for you?"
+            ]
+        },
+        {
+            "text": "I don't know if I'd say it's <i>hard,</i> It just\nalways ends\nup like this.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Because of McQueen...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Unexpectedly, she mentions the name of\nher\nlifelong rival. I decide to shut up and\nlet her tell\nthe story.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...It's pretty pathetic, isn't it? Always\ncompeting\njust to lose.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "McQueen's really pretty. And she knows\nhow to\ncoordinate an outfit too.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "There was a time when even <i>I</i> wanted to\nwear\ndresses and put ribbons in my hair.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But... I just can't measure up to her. I\nalways lose\nand get hurt...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "So I gave up. If people are always gonna\ncompare\nour looks, then I'm better off\nnot trying.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I tossed aside everything except sports. I\ncut my\nhair short, put all my effort into\nworkin' out...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And despite all that, she still beats me\nwhenever\nwe race!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "She's had such a painful childhood. I\ncan't help\nbut to pat her on the back.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Isn't it terrible? Being in the shadow of\nsuch a\ntalented and pretty girl like her?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But I can't hold a grudge... I can't even\ndislike her.\nYou know why?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Because I really like McQueen. I've\nalways looked\nup to her.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "If I can't admit to myself that a good\nperson\nreally is good, then I'm hopeless.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Holding out until the end, even when\npushed into\na corner... Maybe that's\nRyan's real strength.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You know what? It's too late. Looks like\nI can't\nmake my romantic debut.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Maybe I should just devote my life to\nweight\nlifting. Go full \"no muscle, no\nlife.\"",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "I don't think you should."
+            ]
+        },
+        {
+            "text": "I'm sure she can tackle anything in front\nof her,\none problem at a time, like she\ndid to make it\ninto the Classics.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I encourage her and say she can indulge\nherself in\nromance as much as she wants.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm! Then what should I do next? I\nneed to\nknow!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Please teach me, Trainer! What am I\nlacking in the\nromance department that I\nneed to have a good\nrelationship?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You'll need to acquire the right knowledge.",
+                "Don't say things just for the sake of saying\nsomething."
+            ]
+        },
+        {
+            "text": "The right knowledge... Ohhh, I see.\nEverything\nI've learned about romance is\nfrom manga.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Gotcha! I'm gonna start reading a whole\nlot of\nother books during summer camp!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Afterward, Мэдзиро Райан buries her nose\nin how-to\nbooks for romance every day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... Hm!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Mmm? Hmmmm?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ohhh, I never thought of doing that\nbefore! My\nmind muscles are <i>blown!</i>",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You mean, like, be quiet and listen? So\nthat's\nwhat they mean by \"good\nlistener.\"",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ugh, I'll probably end up fidgeting\naround until\nI'm ready to burst. But I'll\ntry it out tomorrow!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I just have to hold my tongue and stay\nstill! Then\nwhen someone talks to me, I'll\nsimply listen and\nnod.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Come ooon... Listen good!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I gotta listen more! Listen, listen, listen!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "What the... How's it dark out already? Is\nno one\ngoing to talk to me?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Set ablaze with newfound knowledge,\nshe turns\nher bashful nature into\nstrength!",
+            "name": "Монолог"
+        },
+        {
+            "text": "With her standing there so motionless, it\nmakes\nsense that no one would talk to\nher. But even\nattempting this \"exercise\"\nshows she's got guts.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,563 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I bring <chrname>\nto the\ninfirmary for a checkup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! A custo—I mean, a student! Hello!",
+            "name": "???"
+        },
+        {
+            "text": "Are you hurt? Sick? Stressed? Whatever\nit is, I\ntreat it all!",
+            "name": "???",
+            "choice_data_list": [
+                "Who are you?!"
+            ]
+        },
+        {
+            "text": "Well, considering you're at the academy\n\ninfirmary, I'd say that makes me your\ntrusty\nschool nurse! Yup, just your\naverage school\nemployee!",
+            "name": "???",
+            "choice_data_list": [
+                "...No, you aren't?"
+            ]
+        },
+        {
+            "text": "Ahaha! Guess there's no fooling you. I\nsuppose I\nshould start by giving you my\nname.",
+            "name": "???"
+        },
+        {
+            "text": "Ahem! Allow me to introduce myself!",
+            "name": "???"
+        },
+        {
+            "text": "I am the (likely) savior of all\nUmamusume, the\n(self-proclaimed)\nlegendary acupuncturist with\nthe magic\ntouch...",
+            "name": "???"
+        },
+        {
+            "text": "The one and only Сасами Ансиндзава!\nSee? No\nworries! ☆",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "...The hell?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Gosh! You sure seem worried! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "No matter! No matter! We've made our\n\nintroductions, so lie down and let me\nput these\nneedles to work!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "What do you mean, \"no matter?!\" Don't\njust keep\ntalking like that explains it!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hahaha! No need to be scared! All I'm\ngoing to do\nis slip these extraordinary\nneedles precisely into\nyour chakra\npoints.",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Then voilà, presto! Something\nindescribable will\nhappen!",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "(This is indescribably sketchy...)"
+            ]
+        },
+        {
+            "text": "And let me assure you, there's\nabsolutely nothing\nsketchy about this at\nall! It's never gone anything\nless than\nperfectly!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "...For my master.",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "For your master?! What about for you?!"
+            ]
+        },
+        {
+            "text": "Don't fret! This is my first time, so\ntechnically, I've\nnever failed a patient\neither!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "And it's not like I have no experience! I\nspent ten\nyears under a legendary\nmaster, fetching dri—I\nmean, training!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "See? No worries! ☆",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "(We need to get outta here, stat!)"
+            ]
+        },
+        {
+            "text": "There's no way we're doing this. I take\n\n<chrname> and head for the\ndoor,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "W-wait! Where are you going?!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "You're Нарита Брайан, aren't you?! The\nstrongest,\nfastest, and most fiercely\nindependent\nUmamusume!",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "You've heard of her?"
+            ]
+        },
+        {
+            "text": "Have I heard of her? Of course I have!\nI'm a big\nfan!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "That's precisely why I'm here! To give\nyou my\nsupport! Let me help you!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Just give me a chance! Pleeease!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "...What should we do? Kick her out?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Please! Pretty please with a carrot on\ntop! I'll even\nlet you choose which\nchakra I activate!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "I'm <i>sure</i> I won't mess up!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Well... pretty sure.",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "<i>Pretty</i> sure?!"
+            ]
+        },
+        {
+            "text": "I mean, it's on the sure side! That's <i>good,</i>\nright?\nAnyway, don't get hung up on the\ndetails!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Let's get to the good stuff! Which chakra\nshould I\nactivate? Do you want a boost\nto your abilities?\nYour health? Or maybe\nyour <i>charm?</i>",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Go ahead and tell me which chakra you\nwant me\nto activate, then!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "I smell danger in the air, but I figure\nthere\nmight—and I emphasize <i>might</i>—be\na chance of\ngetting something special\nout of this treatment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What should we do?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Activate the strength chakra.",
+                "Activate the winning chakra.",
+                "Activate the health chakra.",
+                "Activate the charm chakra.",
+                "This is too sketchy. Let's quit while we still can."
+            ]
+        },
+        {
+            "text": "I see, I see. So you want me to activate\nthe\nstrength chakra?",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Now, just relaaax... See? No worries! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Aaand poke!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Wha—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Puncture Perfect!",
+            "name": "Монолог"
+        },
+        {
+            "text": "How dare you?! You... you... Hold on...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No way... I feel lighter. I can't believe\nthis, but I\nactually feel really good!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Gasp...</i> You're kidding... It actually\nworked?!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "No waaay! I can't believe it! I'm a total\ngenius!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "<chrname> is overflowing\nwith so\nmuch power she's almost\nunrecognizable!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why, you! Damn! My body won't do\nwhat I tell it\nto!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You better get over here and fix this!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<chrname>'s condition\ndeteriorates\nrapidly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So... That's that, I guess...",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Well, would you look at the time? I\nshould get\ngoing! Bye! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "I see, I see. So, you want me to activate\nthe\nwinning chakra?",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Now, just relaaax... See? No worries! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Aaand poke!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Wha—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Puncture Perfect!",
+            "name": "Монолог"
+        },
+        {
+            "text": "How dare you?! You... you... Hold on...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No way... I feel lighter. I can't believe\nthis, but I\nactually feel really good!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Gasp...</i> You're kidding... It actually\nworked?!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "No waaay! I can't believe it! I'm a total\ngenius!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "I can sense a huge improvement in\n\n<chrname>'s skills!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why, you! Damn! My body won't do\nwhat I tell it\nto!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You better get over here and fix this!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<chrname>'s condition\ndeteriorates\nrapidly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So... That's that, I guess...",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Well, would you look at the time? I\nshould get\ngoing! Bye! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "I see, I see. So, you want me to activate\nthe\nhealth chakra?",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Now, just relaaax... See? No worries! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Aaand poke!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Wha—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Puncture Perfect!",
+            "name": "Монолог"
+        },
+        {
+            "text": "How dare you?! You... you... Hold on...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No way... I feel lighter. I can't believe\nthis, but I\nactually feel really good!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Gasp...</i> You're kidding... It actually\nworked?!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "No waaay! I can't believe it! I'm a total\ngenius!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "<chrname>'s entire body is\nradiating a\nhealthy glow! She's the\nabsolute picture of health!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why, you! Damn! My body won't do\nwhat I tell it\nto!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You better get over here and fix this!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<chrname>'s condition\ndeteriorates\nrapidly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So... That's that, I guess...",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Well, would you look at the time? I\nshould get\ngoing! Bye! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "I see, I see. So, you want me to activate\nthe\ncharm chakra?",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Then let's get started! Are you ready?\nThere's no\ngoing back after!",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "text": "All right, leave it to me! Time to locate\nthat\nchakra! Ollie, ollie, oxen free!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Now, just relaaax... See? No worries! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Aaand poke!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Wha—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Puncture Perfect!",
+            "name": "Монолог"
+        },
+        {
+            "text": "How dare you?! You... you... Hold on...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No way... I feel lighter. I can't believe\nthis, but I\nactually feel really good!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Gasp...</i> You're kidding... It actually\nworked?!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "No waaay! I can't believe it! I'm a total\ngenius!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "<chrname> is overflowing\nwith charm!\nShe's bound to turn heads\neverywhere she goes!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why, you! Damn! My body won't do\nwhat I tell it\nto!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You better get over here and fix this!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<chrname>'s condition\ndeteriorates\nrapidly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So... That's that, I guess...",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Well, would you look at the time? I\nshould get\ngoing! Bye! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Aw, c'mon! Don't be like that!",
+            "name": "Сасами Ансиндзава",
+            "choice_data_list": [
+                "Decline.",
+                "Reconsider."
+            ]
+        },
+        {
+            "text": "Hey! You there! I hope you know\ntrespassers <i>will</i>\nbe prosecuted!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Gah! I've been found out!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Welp, I'm outta here! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Hey! Stop right there!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "She even managed to get away from\nTazuna...\nJust who the hell was that\nperson?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well, at any rate, it saved us the trouble\nof\nkicking her out ourselves.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Agreed."
+            ]
+        },
+        {
+            "text": "Had a change of heart, did you? No\nworries, it\nhappens!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Well?! Don't leave us in suspense! Wait a\n\nsecond... How long have I been here?",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Hey! You there! I hope you know\ntrespassers <i>will</i>\nbe prosecuted!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Gah! I've been found out!",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Welp, I'm outta here! ☆",
+            "name": "Сасами Ансиндзава"
+        },
+        {
+            "text": "Hey! Stop right there!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "The situation takes a sharp turn before I\ncan\nmake a decision.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We took a chance and it paid off! This is\na great\nleap toward achieving our goal!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm curious who this Anshinzawa\ncharacter really\nis, but there's no use\nruminating over it. Best to\nforget about\ntoday and move on.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I should've known better than to test our\nluck. I'm\nnot the one suffering, yet I'm\nfull of regret.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I should've known better than to test our\nluck. I'm\nnot the one suffering, yet I'm\nfull of regret.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What was that all about?\n<chrname>\nand I look at\neach other in bewilderment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We took a chance and it paid off! This is\na great\nleap toward achieving our goal!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I should've known better than to test our\nluck. I'm\nnot the one suffering, yet I'm\nfull of regret.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We took a chance and it paid off! This is\na great\nleap toward achieving our goal!",
+            "name": "Монолог"
+        },
+        {
+            "text": "We took a chance and it paid off! This is\na great\nleap toward achieving our goal!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I should've known better than to test our\nluck. I'm\nnot the one suffering, yet I'm\nfull of regret.",
+            "name": "Монолог"
+        }
+    ]
+}

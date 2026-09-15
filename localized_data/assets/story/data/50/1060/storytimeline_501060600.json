@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I don't know why, but I feel like...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I feel like I can do really well today.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ugh, what am I saying? C'mon, Nature!\nDon't jinx\nit!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You've got this!"
+            ]
+        },
+        {
+            "text": "Don't make it worse! I'm just feeling\ngood is all...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But don't get your hopes up too high.\nJust... If it\ngoes well, it goes well!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

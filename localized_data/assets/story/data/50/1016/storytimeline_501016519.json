@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I'm about to eat lunch in my\noffice,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Rattle, rattle, rattle!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tch! No good.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Are you talking about me?"
+            ]
+        },
+        {
+            "text": "Yeah. Why do you have to be here?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If I can't stay here, the only other place\nis behind\nthe gym...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Something I can help you with?"
+            ]
+        },
+        {
+            "text": "...You can let me be by myself.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Classrooms, the plaza, the roof... There's\npeople\neverywhere. I can't get any\npeace.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Grasping the situation, I decide to move\nmyself\nto a cafe, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Ding-dong, dang-dong</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Damn.",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

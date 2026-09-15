@@ -1,0 +1,277 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back from my outing with\n\nМарузенски...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh... Why's there a rent-a-car place\nhere in the\nmiddle of nowhere?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "She stares at the car rental and its array\nof\nvehicles.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have Tata, so I never really noticed\nthese...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Car rentals, huh...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Bingo!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, Trainer! How about you rent a car\nand try\ndriving around a bit?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "Hey, Trainer! How about you rent a car\nand try\ndriving around a bit?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "Yeah! I've been thinking that we should\ntake a\ndrive with <i>you</i> at the wheel! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yeah! I've been thinking that we should\ntake a\ndrive with <i>you</i> at the wheel! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски's suggestion catches me by\nsurprise.\nI'd always assumed that she\nwanted to be the one\nin control.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You don't mind if I'm the one driving?"
+            ]
+        },
+        {
+            "text": "Abisitively posolutely not!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I obviously love driving, but riding in the\n\npassenger seat can be just as fun!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Besides, I first fell in love with taking\ndrives when\nmy father drove us on family\noutings.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Did you also get your love of speed from your\nfather?"
+            ]
+        },
+        {
+            "text": "Bingo! I guess the apple doesn't fall far\nfrom the\ntree! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I loved driving with my dad. It was like\nan\namusement park ride, but even more\nfun!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I even liked the traffic jams. They gave\nus a\nchance to chat, you know?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "When you're driving with someone who's\n\nimportant to you, you're happy just to\nbe there\nwith them!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So that's why I'd like to let you take the\nwheel.\nWhat do you think?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You got it!"
+            ]
+        },
+        {
+            "text": "So that's why I'd like to let you take the\nwheel.\nWhat do you think?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You got it!"
+            ]
+        },
+        {
+            "text": "Hooray! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I can't wait to see how you drive!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "(I'm gonna floor it!)",
+                "(I should take slow, congested roads.)",
+                "(I'll take it easy and drive safe.)"
+            ]
+        },
+        {
+            "text": "You got it, Trainer! ♪ I'm with you all\nthe way!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You got it, Trainer! ♪ I'm with you all\nthe way!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>VRROOOOOM!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Woo-hoo!</i> Now that's <i>my</i> kind of speed!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Keep it in the red!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Phew... That felt so good! I loved\nhearing the\nwind whistle as we sped\nforward!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That's my partner! You drove like\ngreased\nlightning!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "High five!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Woooo! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You got it, Trainer! ♪ I'm with you all\nthe way!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You got it, Trainer! ♪ I'm with you all\nthe way!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Vrrrrmm...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, we're stuck in traffic. This is going to\ntake a\nwhile.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "That means we have plenty of time to talk!"
+            ]
+        },
+        {
+            "text": "Ah-ha! ♪ You were listening when I told\nyou I like\ntraffic jams too!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee! Well played! Let's rap for a\nwhile, then!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wow... It's totally dark already.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But I'm so happy we got to goof around\nand talk\nso much. I had a great time!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And you look adorable when you're\nconcentrating\non the road... Heehee! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And you look adorable when you're\nconcentrating\non the road... Heehee! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But it's nice to look you straight in the\neyes too...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But it's nice to look you straight in the\neyes too...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You got it, Trainer! ♪ I'm with you all\nthe way!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You got it, Trainer! ♪ I'm with you all\nthe way!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Vrrrrmm...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... I didn't realize how laid back you\nwere. Your\ndriving style is the complete\nopposite of mine.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But... this is still kind of... relaxing...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Zzz...</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Hm? Oh, whoopsie! I must've fallen\nasleЭпизод",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Your driving was so smooth and\ngentle—it put me\nright at ease.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'm glad you found it relaxing."
+            ]
+        },
+        {
+            "text": "Your driving was so smooth and\ngentle—it put me\nright at ease.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'm glad you found it relaxing."
+            ]
+        },
+        {
+            "text": "Yeah, it was very soothing. It reminded\nme of\nwhen I was a child.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Maybe it isn't so bad to go slow once in\na while.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...But leave the return trip to me!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll get you home at breakneck speed!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Whether slow and relaxing—or\ndizzyingly\nfast—car rides with\nМарузенски are always a\nblast.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Driving just the way Марузенски likes it\nseems to\nhave made her very happy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, Марузенски and I gaze out at\nthe sea and\ncontinue chatting for a while\nlonger.",
+            "name": "Монолог"
+        }
+    ]
+}

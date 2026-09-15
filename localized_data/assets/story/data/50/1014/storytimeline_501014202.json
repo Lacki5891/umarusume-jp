@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're here! The classic year! The NHK\nMile Cup!\nWho will be the new! Mile!\nMaster?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Here we are, Trainer! The G1 race we've\nbeen\naiming for!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Are you ready?"
+            ]
+        },
+        {
+            "text": "Of course! Next comes the Japan Cup,\nand then...\nI take off for the world stage!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "What's more, this race is where I say\nfarewell to\neveryone.",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Farewell?"
+            ]
+        },
+        {
+            "text": "Yes. This is where our paths diverge. I'm\non a\ndifferent path from the Derby\ngroup.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If I said I wasn't gonna miss them, I'd be\nlying. I'm\ndefinitely gonna miss them!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But I don't have any regrets. This is my\nchoice.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Someone, somewhere once said,\n\"Sometimes you\njust can't help yourself.\"",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So vague...",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's why I won't be bringin' these tears\ninto this\nrace!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm the condor of the world, and I'm\ngonna prove\nit here, in the race that\nPearl won before me!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

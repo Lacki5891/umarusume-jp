@@ -1,0 +1,244 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Once again, our murder mystery group\nhas\nassembled to pin down the culprit\nonce and for\nall. Now, the last we heard\nwas...",
+            "name": "Монолог"
+        },
+        {
+            "text": "So, actually, I was with Grass from just\nafter she\nserved dinner right up until we\nall gathered here.\nBut while we were\ntogether...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I caught a very brief glimpse of Sei\nwalking along\nholding something...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Following Спешл Уик's revelation,\nСэйун Скай\nseemed like the most likely\nsuspect. But in\nresponse...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Spe's telling the truth. I <i>was</i> walking\naround the\ninn holding something.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Right. Last time, Sei admitted that Spe's\n\nrevelation was true. Tell us, Sei—do you\nhave\nsome sort of scheme up your\nsleeve?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Nope, there's no scheming going on\nhere. I just\nadmitted the truth, that's all.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "More importantly, it all right if I go\nahead and\nspill my secret now? It's a\npretty important one,\ny'know.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "An important secret? Let's hear it!\nVamos!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So, I happened to get a look at Grass's\nphone.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "And y'know what I saw? Plant-based\npoison in her\npurchase history.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Que fuerte! Poison?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That means Grass was the one who had\nthe\npoison to begin with, and she spiked\nthe meal.\nBut she knew bringing\npoisoned food directly\nwoulda been way\ntoo obvious.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Luckily for her, King just happened to\nleave the\nroom, and El had dropped by\nright before that.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Grass figured she could frame El, so she\nwent\nback to King's room and switched\nthe bowls...\nHow's that for a summary of\nevents?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Qué? So you're sayin' Grass is our main\nsuspect?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Huh? But Grass was...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, right. Before I forget. That sound of\n\nsomething breaking was King dropping\nthe bowl\nafter eating the poison.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I happened to be nearby, so I rushed\nover, and\nthat's when I found King.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Naturally, I decided to run and tell\neveryone, but\nI figured it'd be\ndangerous to leave the bowl on\nthe\nfloor, so I swept it up and took it with\nme.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "That must be when Spe saw me booking\nit with\nthe broken bowl. Nothing\nsuspicious after all,\nright?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "So that's what you're going with, then?\nBut you\nhave no proof that what you're\nsaying is the truth,\ncorrect?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Right, no evidence. Which means it's up\nto all of\nyou to make up your minds one\nway or another.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Сэйун Скай grins, and with two suspects\ntrying to\nclear their name, a timer signals\nthe end of phase\ntwo.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gahhh! Sei and Grass both seem muy\n\nsuspechosas!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I think back over everything that's been\nrevealed\nso far. Who should I cast my\nvote for?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Сэйун Скай is the culprit.",
+                "Грасс Вандер is the culprit."
+            ]
+        },
+        {
+            "text": "With the results in, Сэйун Скай receives\nthe most\nvotes and is deemed the\nculprit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Darn it. Guess I couldn't pull the wool\nover\nanyone's eyes, huh?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "That's right, I'm the culprit. But this\nwhole thing\nwas just an unfortunate\nseries of events.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Truth is, I'd actually cleaned King's room\nduring\nthe day, but I'd gone and left my\nbroom behind.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I waited for King to leave her room so I\ncould\nsneak in and grab it, but I\naccidentally knocked it\nover.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "It smashed the original bowl of\nchawanmushi and\nmade a huge racket,\nso I rushed to the kitchen for\na\nreplacement. I had no idea the food in\nthe blue\nbowl had been poisoned.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hehe. Your story about my having gone\nback to\nthe room to switch the bowls\nwas quite plausible\nindeed.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And you timed the revelation that I had\nbeen in\npossession of the poison quite\neffectively too.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But things aren't always as they seem...\n\nUltimately, your explanation wasn't\nconsistent\nwith Spe's statement about\nhaving been with me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, so that's how you knew something\nwas up...\nGuess I've gotta do better next\ntime.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hehe, excellent. I would love to play\nagain.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The results are in, but the vote is\ndivided, so\nСэйун Скай is off the hook.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So the game ends without us knowing\nwho did it?\nMaaan, what a bummer...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I mean, that's why they call it a murder\n<i>mystery.</i>\nThe ambiguity's part of the\nsuspense.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Everyone's lies were so convincing. We\nshould\ndefinitely do this again sometime.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Qué?! I didn't tell any lies!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehe, I'd very much like to deduce the\nidentity of\nthe real liar next time.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "<i>GASP!</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Is it over?! It's finally over, right?! I\nthought I'd\nnever be able to breathe\nagain...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh. Hey, King. Welcome back to the\nworld of the\nliving.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "With the results in, Грасс Вандер\nreceives the\nmost votes and is deemed\nthe culprit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Goodness me. Well...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Unfortunately, you've all been\ndeceived... by Sei's\nlies.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What?! She lied?!"
+            ]
+        },
+        {
+            "text": "Lying, bluffing, whatever you'd like to\ncall it. But I\nam not the culprit.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Qué?! Really?! I have no idea what was\ntrue and\nwhat was a lie!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hmm, well, maybe Grass really isn't the\ntrue\nkiller...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "...But that doesn't necessarily mean\neverything I\nsaid was untrue. Fortune\nfavors the bold, am I\nright?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hehe, I'm not sure precisely what you\nmean, but\nyou do have a way with\nwords.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Nya-ha-ha! I suppose that's something\nwe have in\ncommon.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Who was the real killer in the end?\nPerhaps only\nСэйун Скай and Grass\nWonder know the truth...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Who was the real killer in the end?\nPerhaps only\nСэйун Скай and Grass\nWonder know the truth...",
+            "name": "Монолог"
+        },
+        {
+            "text": "And with that, the truth comes to light\nand the\ncurtains close on the murder\nmystery.",
+            "name": "Монолог"
+        }
+    ]
+}

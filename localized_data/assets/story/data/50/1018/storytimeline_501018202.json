@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "In a rare display, I find Эйр Грув fixed\non her\nphone in spite of the approaching\nstart of the\nrace.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "text": "Dober just messaged me. She's coming\nto watch.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If she's watching, then I have no choice\nbut to\ndeliver my challenge.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I can sense that Эйр Грув is ready to\ngo! I just\nneed to send her off and trust\nher to give this\nrace her all.",
+            "name": "Монолог"
+        }
+    ]
+}

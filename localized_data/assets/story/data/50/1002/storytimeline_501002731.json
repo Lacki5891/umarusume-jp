@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh, you got one!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you, Trainer.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm sure this will put a smile on Spe's\nface.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Happy to help."
+            ]
+        },
+        {
+            "text": "Hehe, I can't wait to show her.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That went pretty well!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "If I take into consideration today's\nweather, wind\nspeed, and humidity...\nYes, this should work.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Sorry to keep you waiting. I've made\nsome\nrevisions to my calculations.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Feeling confident?"
+            ]
+        },
+        {
+            "text": "Heh... That's a silly question.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The more refined a theory, the simpler it\n\nbecomes. Keep your eyes on me,\nTrainer.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'll show you the ultimate result of my\n\ncalculations—total victory!",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Arima Kinen is finally here, and\namong the\nelite runners of the Ultimate\nEra...",
+            "name": "Монолог"
+        },
+        {
+            "text": "A young racer steps up to challenge\nthem.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, d'you wanna try jumping out the\nstarting\ngate? Could be fun.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "There's Голд Шип, the Double Crown\nchampion\nthis year, who's rocked up at\nNakayama with a\nfull head of steam.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Stop bothering me before the race!\nBesides, no\none is foolish enough to\njump out of the gate!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Aw, man... I'm really not feelin' it today,\nso I\nthought if you did that, it'd help me\nget in the\nmood to race...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yeesh, doesn't anyone have drive\nnowadays?\nFine, I'll just have to do this\nmyself.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Golshi's gonna let loose!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Today's race is filled with nothing but\n\nunconventional and unwieldy racers from\nevery\ngeneration.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "If I take first place against all of them...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I can finish my career on a beautiful note\nas a\nracer with glory to her name.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It'll be a magnificent and fitting end to it\nall.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Her words sound so final... I can't hold\nmy tongue\nanymore.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Wait—I have something for you."
+            ]
+        },
+        {
+            "text": "...?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Is this... a schedule for races after the\nArima\nKinen?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Did you make this?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Yes. Though it might be a little rough around\nthe edges..."
+            ]
+        },
+        {
+            "text": "Indeed, it needs some adjustments, but\nmay I ask\nwhy you drafted it in the first\nplace?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Because I want you to keep racing!"
+            ]
+        },
+        {
+            "text": "Maybe, just maybe, if running still has a\nplace in\nthe most important timetable of\nher life, then...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I want to see you run!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Trainer. This notebook contains a\nschedule I\nmapped out for the next ten\nyears of my life.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Riiip! Rip! RIP!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...That made me feel a great deal guiltier\nthan I\nanticipated.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why'd you do that?!"
+            ]
+        },
+        {
+            "text": "Earlier, I said that this would be the\nend... but\nthat final ending of mine has\nyet to be decided.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Meaning?"
+            ]
+        },
+        {
+            "text": "I have already made my parents proud.\n\nTherefore, I no longer have a reason to\ncontinue\nrunning.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, my desire to keep running, to\nkeep\nracing—it's still here, and it's as\nstrong as ever.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "So I asked myself, \"What would those I\nadmire do\nin this situation?\"",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My parents would likely maintain their\n\npredetermined trajectory to the end.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "In your case, however... I believe you\nwould say\nthat pursuing my desire to\nkeep racing would be\nthe right thing to\ndo.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Flash!"
+            ]
+        },
+        {
+            "text": "Let's create a schedule for my future\nplans when\nwe get back.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This Arima Kinen isn't the end of my\ncareer, but\nthe beginning of our new\npath together...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And so, I shall claim a worthy victory for\nyou!",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

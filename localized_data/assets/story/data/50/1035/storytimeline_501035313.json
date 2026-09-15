@@ -1,0 +1,90 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Congratulations, Tickezo!",
+            "name": "Fan A"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Th-thank you!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I reached my limit... The race is over...\nbut I'm still\nout of breath...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I gotta say, though, the way Taishin was\nrunning\nout there was <i>wild!</i>",
+            "name": "Fan B"
+        },
+        {
+            "text": "Yeah, that intensity! It makes you want\nto root\nfor her even more!",
+            "name": "Fan C"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh... Trainer...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "Heh... Thanks... Phew...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I won, but that really did me in... I'm\nkinda\nsurprised I got first...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Yeah... but Taishin's energy today was,\nlike,\n<i>wow</i>... It was really, really intense...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It makes me wanna work harder!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hey, did you pick my next race yet? I\nwanna run a\nbig one!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Although Уиннинг Тикит is exhausted,\nthere's no\ndenying she got a great result\nin today's race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So for our next challenge, I think we\nshould aim\nfor the big race that tops off\nthe first half of the\nTwinkle Series year...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's enter the Takarazuka Kinen!"
+            ]
+        },
+        {
+            "text": "Whoa! A Grand Prix race! I bet a lot of\nBIG\ncompetitors will show up there!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What if Taishin and Hayahide enter too,\nand it\nbecomes a super hot match like\nthe Derby?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All the cheers! All the smiles! Just\nthinking about\nit makes me wanna...\n<i>cryyyy!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! I'm gonna go full blast for the\n\nTakarazuka Kinen!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

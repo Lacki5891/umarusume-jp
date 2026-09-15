@@ -1,0 +1,92 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After my training session with Eishin\nFlash...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Nakayama. Are you about to begin\ntraining?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You could say that... But I ain't feelin' it\nright\nnow.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Is that so? Are you under the weather,\nperhaps?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That ain't it. There's just nothing thrillin'\nabout\npractice, y'know?",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "I can't say I've ever thought about that\nbefore...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Why don't you try doing pair running\nwith a\npartner?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Pair runnin'? Now <i>that</i> sounds fun! Some\nfierce\ncompetition oughta do the trick.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "You're the one who brought it up, so\nwhy don't\nyou be my running partner?",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Me? I suppose that would be fine.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Excuse me, Trainer. May I have your\npermission to\njoin Nakayama?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Go right ahead!",
+                "You need to rest now."
+            ]
+        },
+        {
+            "text": "Thank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "If it is thrilling competition you crave,\nthen I will\nnot hold back. I shall do my\nutmost to meet your\nexpectations.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Heh! Haha! I like the way you think!",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Understood. Too much practice can\ncertainly be\ndetrimental.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You can go pair running another day!"
+            ]
+        },
+        {
+            "text": "Yes! That would be nice.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I apologize, but can we reschedule for\nanother\ntime? When do you have an\nopening?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Not happy with just a verbal agreement,\nhuh?\nYou sure like to do things clean.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "After Эйсин Флэш sets up a day to go\npair running\nwith Накаяма Феста, she\ngoes right back to her\ndorm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, the two dive right into pair\nrunning.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What an electrifying experience! And\nthe racer\nwho sprinted past the rest is...",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Кинг Хало! That's right, Кинг Хало has\nsnatched\naway first place!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe. It's hard to tell whether\neveryone's\nsurprised or overjoyed.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But today's result is proof...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I really do have talent! Isn't that right,\nТренер?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "That's right!"
+            ]
+        },
+        {
+            "text": "Hehe. You've done well too... improving\nmy skills\nand helping me shine.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's why we've managed to command all\nthis\nattention today.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Everyone's eyes are on King and her\ntrainer!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I return to the waiting room with King\nHalo.",
+            "name": "Монолог"
+        },
+        {
+            "text": "King, King! Kiiiiing!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "...Kawakami. You came.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I knew you'd be great out there! You\ndashed\nthrough the last stretch just like\nPrincess Fighter\nin episode thirty-two!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "I'm feeling so excited... I'm going to win\nthe\nTakamatsunomiya Kinen one day\ntoo!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe. Oh, Kawakami, you dummy.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I may be your idol, but you don't have to\nchase\nafter me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You have to find whatever it is that <i>you</i>\nwant to\ndo and then become first-rate at\nthat.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That's...",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "That's so cool!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "At any rate, I think it's time we chose our\nnext\ngoal.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So, looking at our current situation...\nHmm...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I could face off against Спешл Уик\nand Seiun\nSky in the spring Tenno Sho.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Also, Grass has announced her intention\nto run in\nthe Takarazuka Kinen. El\nCondor Pasa may\nparticipate too, seeing\nas she wants to make it\noverseas.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What to do?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Both choices will set me up in\ncompetition against\nmy rivals.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, things will be exciting either way.\nBut on the\nother hand...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "On the other hand?"
+            ]
+        },
+        {
+            "text": "As the leading star, I don't necessarily\nneed the\npresence of a rival to shine.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "On top of that, it seems like there isn't\nenough\nexcitement for the mile races\nthis summer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Perhaps I should help everyone by\nrunning in this\nyear's Yasuda Kinen.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The Yasuda Kinen is a 1,600-meter turf\nmile\nrace, a bit longer than the\nTakamatsunomiya\nKinen.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What do you want to do?"
+            ]
+        },
+        {
+            "text": "Oh, I thought that was obvious.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm going to take the throne as King of\nthe\nMile—a fitting name for a dazzling\nUmamusume\nsuch as myself.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Besides, we have massive potential to\nrise far\nbeyond our current\nachievements.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, we set our next goal for the\nYasuda\nKinen.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's after curfew, and campus is silent. I'm\nheading\nback to my office to grab\nsomething I forgot,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! Trainer! What a coinkydink! ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "What are you doing out so late?"
+            ]
+        },
+        {
+            "text": "I'm ghost-hunting!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We watched a spooky show on TV, so I\nstarted\nwondering if there were any\nghosts on campus.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "O-obviously not, right? But she won't\nlisten...",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "You know it's past curfew, right? You guys need\nto get back to your dorm."
+            ]
+        },
+        {
+            "text": "R-r-r-r-right?! We've already looked\neverywhere,\nso let's just go home!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "What?! But there's still one more place!\nWe\nhaven't checked Trainer's office yet!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "A long, long time ago, there was a racer\nwho died\nin an accident before she got\nher signature\nracewear...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Her ghost appears each night in the\noffice, crying\nout, \"Where's my signature\nracewear?!\"",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Eeeeek!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "H-hey, stop... Y-you're just making\nthings up!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You don't know that! Trainer, please\ntake us to\nyour office!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган won't back down, so I\nend up\ntaking them back with me to my\noffice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here, ghosty ghosty ghosty! Come out,\ncome out,\nwherever you are!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wh-what are you doing?! What if\nsomething\nactually comes out?!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "A wandering ghost who wants to try on\nher\nsignature racewear just once...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "She must have unfinished business.",
+                "Behind you!"
+            ]
+        },
+        {
+            "text": "A wandering ghost who wants to try on\nher\nsignature racewear just once...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "She must have unfinished business.",
+                "Behind you!"
+            ]
+        },
+        {
+            "text": "I mention that there's no doubt she\ndreamed of\nracing on the turf in her\nsignature racewear.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yeah. I bet she really loved running...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She must be in so much pain—lonely too!\nThat's\nwhy she comes here! I know I\nwould!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You want to resolve her unfinished business?"
+            ]
+        },
+        {
+            "text": "Yeah...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I know! I'll run for her sake!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Since she can't run anymore, I'll run in\ntons of\nraces for her!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Knock, knock, knock!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?! Something just knocked on the\nwindow!",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "Maybe she's thanking you."
+            ]
+        },
+        {
+            "text": "Aaah! Let's go home already! I don't\nwanna get\npossessed!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Huh? But it would be fun to be friends\nwith a\nghost. ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Right, Miss Ghost? ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "All right! Miss Ghost, I promise to do my\nbest for\nyou!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Aaah! It's the ghost!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Waaah! Heeelp meee!",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "After her!"
+            ]
+        },
+        {
+            "text": "R-right!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We take off after Токай Тэйо, but she's\nin such a\npanic that we soon lose sight of\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She must be really scared of ghosts...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I wonder where she ran off to."
+            ]
+        },
+        {
+            "text": "Hm... Well, she probably didn't take any\ndark and\nscary paths.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "So the answer is simple! Let's go!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I follow Маяно Топ Ган, who says she\nknows\nwhere Токай Тэйо went...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Target confirmed! Found ya, Teio!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "I'm sorry for scaring you earlier."
+            ]
+        },
+        {
+            "text": "She comes back to the dorms with us,\nbut doesn't\nsay a word the whole way\nthere.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> Morning, Trainer.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's a shame we didn't see any ghosts last\nnight,\nhuh? Got my hopes up for\nnothing.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's a good thing! I was so worried\nabout you!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You didn't come back to the dorm! I\ntried calling\nbut couldn't get a hold of\nyou!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Huh? But you came back with us, Teio.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "No, I went back to the dorm by myself.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...Then who was the Teio that was with\nus last\nnight?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Waaaaah!",
+            "name": "Маяно Топ Ган and Токай Тэйо"
+        },
+        {
+            "text": "Almost as if she's picked up a tailwind,\nMayano\nTop Gun runs off with a spring\nin her stЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

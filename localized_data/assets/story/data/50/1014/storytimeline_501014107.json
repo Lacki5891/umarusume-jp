@@ -1,0 +1,254 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is Valentine's Day. However, for\nsome\nreason...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're gonna play tag, Trainer! You\nversus me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And you're it first!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Ding!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Starting... now!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Our game of tag begins.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Think ya can catch me within the time\nlimit? If\nyou can, I've got some special\nchocolate for you!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "And if I can't?"
+            ]
+        },
+        {
+            "text": "If you can't, you gotta eat beans.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm not quite sure why I have to catch\nher to get\nchocolate or why I have to eat\nbeans if I don't.\nMysterious as the rules\nare, we start the game.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Well, Тренер?! Do you give\nup?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Not yet!"
+            ]
+        },
+        {
+            "text": "Oooh, you've got guts!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Umamusume certainly have incredible\nstamina.\nTired and barely conscious, I\nreach out my hand.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa there! Just where do you think\nyou're\ngrabbing?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My fingertips catch Эль Кондор Паса's\nmask and...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Agh!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...pull it off. Эль Кондор Паса's face is beet\nred.",
+            "name": "Монолог"
+        },
+        {
+            "text": "D-don't look at me, please. Taking my\nmask off is\nagainst the rules...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Why are you so red?"
+            ]
+        },
+        {
+            "text": "B-because... I'm... I'm embarrassed,\nokay?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I've never given anyone chocolate\nbefore. I\nthought it'd be more natural if\nyou just caught me\nand took them.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So this was supposed to be natural... It\nseems\nchallenging me to a game of tag\nwas her way of\nhiding her\nembarrassment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Even though it was just the edge of my\nmask, you\ngot me, so... You win.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So... here's your chocolate. I made it\nmyself.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "After getting such a sweet handmade\ngift, I can't\nhelp but open it and try\nsome right awa—",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Aaaagh! Hot! It's so hot!"
+            ]
+        },
+        {
+            "text": "Тренер?! Are you okay? Are you alive?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I <i>thought</i> I might've put too much\njalapeño in it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "These chocolates could be considered\nthe world's\nstrongest in their own way.\nThis is a truly\nexhilarating Valentine's\nDay.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, Trainer! Next is the Valentine's\ndate!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Let's go for a passionate night stroll in\nthe park!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm not in a particularly passionate\nmood, but a\nwalk might be good.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, have you seen anything out of the\nordinary?\nYou never know if someone is\ngoing to try to\nsneak out on Valentine's\nDay.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Catch anyone that tries to go out, all\nright? We\ncan't let even one person get\nby us.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's Vice President Эйр Грув!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She's a tough one... like a viper! If she\ncatches\nyou, she doesn't let go! She just\nsqueezes and\nsqueezes!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Is this it for us?! Is this as far as we go?!\nShould we\ngive up on our date?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Going out at night without permission is\nstrictly\nforbidden, even when\naccompanied by a trainer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув is a tough cookie as well.\nShe's\nunlikely to look the other way.\nUnless...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why don't we try giving her you-know-what?"
+            ]
+        },
+        {
+            "text": "...What?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ohhh, you mean <i>that!</i>",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эйр Грув! Happy Valentine's Daaay! ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I brought some nice nutritious\nchocolates for my\nfavorite overworked\nvice president!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hm? Oh, Эль Кондор Паса. Don't mind if I\ndo...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Guh! Wh-what is this?! It's so spicy!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You! Did you <i>poison</i> me?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Don't worryyy! The spiciness is addictive!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Now's our chance, Trainer. Let's flyyy!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i> Bueno! That was hella\nfun!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Is your heart pounding too?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Hehehe, getting out of a pinch like that\ntogether\nwas kinda special...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I feel like we've really gotten closer. Isn't\nthis\ncalled...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's called the suspension bridge effect.\n\nApparently, experiencing something\nfrightening\ntogether can bring two\npeople closer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Right, the suspended ceiling effect!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If we do more exciting stuff, we'll get\nhella close!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Would you... do a bunch of suspended\nceilings\nwith me today?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "S-sure!"
+            ]
+        },
+        {
+            "text": "It's Valentine's Day evening and the\natmosphere\nis unusually sweet...",
+            "name": "Монолог"
+        },
+        {
+            "text": "These chocolates could be considered\nthe world's\nstrongest in their own way.\nThis is a truly\nexhilarating Valentine's\nDay.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mentally, Эль Кондор Паса's given me a\nconstant\nstring of suspended ceilings.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The results are in! The winner of this\nyear's\nautumn Tenno Sho is...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff... Huff...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Let's goooo! You did it, King!",
+            "name": "Spectator"
+        },
+        {
+            "text": "Кинг Халоoo! Kiiing!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Not bad applause. Very fitting acclaim\nfor one\nwho has reached the very top.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I lost... But I really didn't want to lose!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "King... You're the real deal.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Trainer, I need to go somewhere for a\nmoment.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Is that all right?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "Thank you.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Good job today.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I have something I want to say to you\ntwo. Can I\nhave a moment of your time?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Okay.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You know... There was a time when I\nhated the\nboth of you.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I thought of you as obstacles, preventing\nme from\ngetting the results I deserved.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I wondered why I had to debut in the\nsame year\nas you.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But now that I think about it...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm glad to be a part of this generation.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You two lit a fire under me, one stronger\nthan I\ncould've ever mustered by myself.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Every time I thought about the\npossibility of\nlosing, I grew more and\nmore invigorated.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "If it weren't for you two, I would've\nnever had the\nopportunity to truly steel\nmyself.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's thanks to both of you that I was able\nto finally\nwalk my own path. That's why...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I want to thank you for competing\nagainst me...\nand for being my rivals.\nThank you!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That's all I have to say.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Guess you're not always sharp, huh?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Excuse me?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You think you're the only one who feels\nthat way?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I've always been grateful to you and\neveryone as\nwell. I'm so glad we all\nmade our debut at the\nsame time.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I've become so much better by having\nyou two as\nmy rivals.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm so grateful we were able to debut\nand race\ntogether!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Спешл Уик...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Geez. You both sure know how to set a\nmood.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "But despite saying it yourselves, you\nseem to be\nforgetting that...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "We all started the same year.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "In other words, this ain't over. There are\nstill more\nraces to come.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Sky...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, you're not wrong. We all belong\nto the\nsame generation.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "From here on, we'll keep competing,\nagain and\nagain.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Which means I'll be winning again and\nagain! First\nplace suits <i>me</i> the best!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, is that a challenge?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "It is indeed a challenge!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You two better not get discouraged by\nme\nthough! I want you to give it your all!\nOhohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The wind carries their laughter across\nthe venue.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As it continues to blow, the wind lifts\ntheir voices\ntoward a new season, a new\nyear together, and\nbeyond.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With their hopes and dreams on the line,\neach of\nthem has the chance to become\na star on this\nracecourse.",
+            "name": "Монолог"
+        }
+    ]
+}

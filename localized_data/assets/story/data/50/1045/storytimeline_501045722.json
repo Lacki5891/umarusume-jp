@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While Супер Крик and I are talking\nabout\ntraining...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oooh... My head...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "text": "Gosh, I'm sorry. Did I startle you?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe! You're such a kind soul. I'm fine.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I have a bit of a headache, but I'm sure\nI'll be\nright as rain in no time.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "So no need to worry, okay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Despite what she says, she appears to be\nin pain.\nI should probably keep an eye\non her.",
+            "name": "Монолог"
+        }
+    ]
+}

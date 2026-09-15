@@ -1,0 +1,148 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the Asahi Hai F.S. has\narrived. I'm in\nthe waiting room, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Oh.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, do we still have time? I'm out of\ntape.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Now that you mention it, why do you always put\ntape on your nose?"
+            ]
+        },
+        {
+            "text": "I don't feel right without it. Can't even\nremember\nwhen I started doing it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Anyway, can I go buy some tape? I can\nprobably\njust pick some up at a\nconvenience store since\nthey sell\neverything.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's probably true, but Нарита Брайан\nhas already\nchanged clothes for the\nrace. She'll definitely\nstand out if she\ngoes out like this.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's also not good to waste time with\nstuff like this\nright before a race.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'll go buy it for you."
+            ]
+        },
+        {
+            "text": "...Thanks.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The quality doesn't matter, just get the\ncheapest\none.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Just to be sure, I check what brand she\nusually\nuses before heading to the shop\nnearest to the\nracecourse.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(There's quite a selection...)"
+            ]
+        },
+        {
+            "text": "The shelves contain a variety of brands,\nfrom\nwell-established standbys to new\nproducts\nclaiming to enhance\nconcentration.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's even scented tape for relaxation,\nand\nothers that stretch.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I don't know which one to pick..."
+            ]
+        },
+        {
+            "text": "What the heck? Did you buy out the\nwhole store\nor something?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "...I'm paying for it, so don't worry about it."
+            ]
+        },
+        {
+            "text": "That's not the point. Geez.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "First of all, a trainer's contract only lasts\nfor three\nyears from the debut race. And\nif you don't get\nthe results, that contract\ncan even be terminated\nearly.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yet you're out here wasting money\nbuying stacks\nof tape. What are you\ngoing to do if I go on a\nlosing streak and\nyou lose your contract?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I know you won't lose."
+            ]
+        },
+        {
+            "text": "...Huh?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You're going to win, no matter who you're up\nagainst!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Haha... What's with the blind faith? Did\nyou hit\nyour head or something?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Hmph. Well? Which tape is the best\nfor\nconcentration?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'll try that one first.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Well?"
+            ]
+        },
+        {
+            "text": "...It feels okay.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This is racing. The first across the finish\nline wins,\nright?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You're going to win, no matter who you're up\nagainst!"
+            ]
+        },
+        {
+            "text": "...Don't try and make me say that.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Okay, fine... Whoever I'm up against, I'm\ngoing to\ntear them apart—victory will be\nmine!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "There's a lotta people here. I'd expect\nnothin' less\nof the Asahi Hai Futurity\nStakes.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right, Brian! Don't bore us out there\nor I'll\ncome laugh in your face when\nyou're done!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And so, the Asahi Hai F.S. is set to begin\nunder\nthe watchful eyes of a huge\ncrowd.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро МакКуин said she was feeling\nunwell\nв тренировке, so I've brought\nher to the\ninfirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems I was a little fatigued. I'm sorry\nto have\nworried you.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "But thanks to you, my mood has also\nrebounded.\nNow, shall we resume\ntraining?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Nuh-uh. No training until you've fully recovered.",
+                "Not a chance. I'll have to rethink your training\nregimen."
+            ]
+        },
+        {
+            "text": "But thanks to you, my mood has also\nrebounded.\nNow, shall we resume\ntraining?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Nuh-uh. No training until you've fully recovered.",
+                "Not a chance. I'll have to rethink your training\nregimen."
+            ]
+        },
+        {
+            "text": "You forbid it?! But I understand\nthoroughly how\nto cope with my\nweakened condition.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "With a little rest, I'll surely—",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Nice try, but no!"
+            ]
+        },
+        {
+            "text": "Urgh... Well, you're being unusually\nstrict today!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Fine, then. Unfortunate as it may be, I'll\ndo as you\nsay and rest for the moment.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Stubborn ox...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "What?! But you went through so much\ntrouble to\nput it together!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I can judge for myself whether I've\nreached my\nlimits or not. This small\nsetback is no proble—",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "By the time you collapse, it'll be too late."
+            ]
+        },
+        {
+            "text": "Ugh!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I've inconvenienced you with my poor\n\nself-management... I'm truly sorry.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ngh... I understand.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "This is all the result of my own\ninadequacies. This\ntime, I will graciously\naccept my lot.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "However, I wish for my next training\nregimen to\nbe stricter than this one!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I will get better as soon as possible, and\nnext\ntime, I will complete your tests\nwithout fail!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин gets better in no time,\njust as\nshe declared she would. Starting\nthe following\nday, she's in superb form.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро МакКуин's injury is taking a long\ntime to\nheal. Maybe her mental state has\nhad an impact\non her recovery.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I decide to have Мэдзиро МакКуин focus\non resting\nfor the remainder of the day.",
+            "name": "Монолог"
+        }
+    ]
+}

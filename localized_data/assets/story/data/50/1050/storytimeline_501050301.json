@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "That was exhausting.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't know how many times I raced\nTannhauser\non the beach... Nature never\ntold us to stop.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Then Urara went off on her own to that\ndeserted\nisland, and Rice wouldn't stop\ncrying...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "This has been the most tiring camp since\nI entered\nTracen.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But you look like you had fun!"
+            ]
+        },
+        {
+            "text": "Like hell I do! You want your butt\nkicked?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We have some truly enriching days\nleading up to\nthe autumn Tenno Sho!"
+        }
+    ]
+}

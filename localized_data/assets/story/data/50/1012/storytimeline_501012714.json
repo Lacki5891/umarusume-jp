@@ -1,0 +1,144 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон suffers an injury during\ntraining, so\nwe go to get it treated.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... Let's get a move on.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "To what?"
+            ]
+        },
+        {
+            "text": "To training, duh! There's more to\ntraining than\nrunning.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "If I can't work on my legs, I'll work my\narms and\nback! I can't start slacking just\n'cause I got hurt!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Urk... Ouch.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You really need to rest up.",
+                "Let's take things slow and see how you do."
+            ]
+        },
+        {
+            "text": "Why? What's wrong with a bit of\nstrength\ntraining?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I don't want to risk your injury getting worse."
+            ]
+        },
+        {
+            "text": "Yeah, but it's a way bigger risk to not do\nany\ntraining!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Relax—have patience."
+            ]
+        },
+        {
+            "text": "I <i>am</i> being patient!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Oh, sorry for yelling at you.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I'll work on a plan to speed up your recovery."
+            ]
+        },
+        {
+            "text": "Okay, thanks. I'll leave that to you and\ntake it\neasy, then.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right! Let's head to the gym an—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Agh!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Watch out!"
+            ]
+        },
+        {
+            "text": "Hish Amazon tips over the moment she\ntries to\nstand up, but I thankfully\nmanage to catch her\njust in time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh! Ouch...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Thanks, Teach. You saved me there.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Maybe we should hold off on the training."
+            ]
+        },
+        {
+            "text": "Yeah, I'm probably gonna make things\nworse at\nthis rate. I'll go home for today\nand rest up.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "That's a good idea."
+            ]
+        },
+        {
+            "text": "This is exactly what you wanted from the\n\nbeginning, isn't it?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But you knew I wouldn't have agreed if\nyou\nordered me to rest...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right. I'll take some time off till my\nbody's\nback to normal!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right! Let's head to the gym an—",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Be careful while you're walking!"
+            ]
+        },
+        {
+            "text": "Yeah, I get it. I'm trying not to put any\nstrain on\nmy legs.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Geez, there's only so much training I can\ndo like\nthis.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Leave the training regimen to me."
+            ]
+        },
+        {
+            "text": "As if you'd let me train on my own terms,\neh?\nWell, that's fine by me.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You're the one who's compromising with\nme\ndespite how unreasonable I'm being,\nso I promise\nI won't push myself!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон trains around her injury\nand makes\na quick recovery.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Хиши Амадзон stays true to her word and\nrests\nuntil her injury is fully healed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Хиши Амадзон rests until her leg pain\nwears off.",
+            "name": "Монолог"
+        }
+    ]
+}

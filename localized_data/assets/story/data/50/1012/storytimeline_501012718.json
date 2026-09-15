@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey, Teach! Thanks for giving me a day\noff!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Were you able to rest well?"
+            ]
+        },
+        {
+            "text": "YЭпизод You told me to rest, so I did just\nthat!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right. Now it's your turn to blow my\n\nexpectations outta the water.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I bet you spent your time off cookin' up\na real\nkiller of a training regimen for me,\ndidn't you?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I sure did."
+            ]
+        },
+        {
+            "text": "I knew I could count on ya! All right,\nlet's get\ntraining, Teach!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон is raring to go after some\nmuch\nneeded rest!",
+            "name": "Монолог"
+        }
+    ]
+}

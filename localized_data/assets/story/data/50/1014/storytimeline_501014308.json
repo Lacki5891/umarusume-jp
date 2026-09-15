@@ -1,0 +1,111 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What's this?! It's the great flight of the\ncondor!\nShe swoops right past Silence\nSuzuka and claims\nvictory!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Huff, huff... Pant, pant...</i>",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "In an amazing feat of strength, El\nCondor Pasa\npasses the Otherworldly\nFront-Runner.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My arms... My legs... I can't breathe...\n<i>Wheeze!</i>",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I... can't... mo—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Thunk!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "El? El!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Trainer! Call an ambulance!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "<i>Wee woo wee woo...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "A complete examination reveals no\nserious\ninjuries. Still...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer... No more...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "No more what?"
+            ]
+        },
+        {
+            "text": "I did my best... I used everything I had in\nme to\nbeat Suzuka...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My heart... my soul... Everything.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But now I'm... in pieces... A condor with\nbroken\nwings.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I can't keep running like this. Not only\nthat...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If someone even stronger than Suzuka\nshows up\nat the Japan Cup, then...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Her shoulders slump with\ndisappointment. It\nseems like her\nwillpower has reached its limit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I... have to face the facts...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm not... the world's strongest racer...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "This race showed me that... I still have a\nlong way\nahead of me...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Don't get me wrong, I'm glad I won! But\nthis was\nonly the Mainichi Okan.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I can't do the Japan Cup... Not like this...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I just can't.",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "...I understand."
+            ]
+        },
+        {
+            "text": "I concede to Эль Кондор Паса's\ndisappointment. It\nlooks like we're going\nback to the drawing board\nfor this year's\nplan.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her dream of taking on the Japan Cup in\nher\nclassic year—once a lofty\nambition—has come\ncrashing down.",
+            "name": "Монолог"
+        }
+    ]
+}

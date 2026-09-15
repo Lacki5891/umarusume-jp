@@ -1,0 +1,169 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "For today's training, Нарита Таисин asks for\nhelp building her strength.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just as I arrive at the gym, I see the stern\nathlete about to lift a\nbarbell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, I've got this...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She yanks it up, but the weight's\nmomentum throws her off balance!",
+            "name": "Монолог"
+        },
+        {
+            "text": "So... heavy!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Be careful!"
+            ]
+        },
+        {
+            "text": "I help hold the barbell and slowly lower it\nto the floor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Gasp... Gasp...</i> Damn it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It would probably be a good idea to warm\nup before she gets herself\nhurt.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Don't go overboard."
+            ]
+        },
+        {
+            "text": "What? You saying I can't handle it?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That anyone as scrawny as me should just\ngive up?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'm not saying that."
+            ]
+        },
+        {
+            "text": "It's clear the irritated trainee has enough\nstrength to lift the barbell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But she needs to slow down and warm up\nproperly first. I try to\nexplain why.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Though she appears reluctant, the\nstubborn student does as\ninstructed for\nnow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I assign some light jogging on the treadmill\nto raise her body temp\nand heart rate,\nthen cap it off with stretching to loosen\nher muscles.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Having finished the comprehensive\nwarm-up, Нарита Таисин once\nagain stands\nbefore the barbell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hgh... Hng!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "This time, she's a lot steadier, and she's\nable to lift the barbell with\nno problem.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I did it!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Looks like you've got the hang of it."
+            ]
+        },
+        {
+            "text": "A little, I guess.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Her words express some doubt, but she's\ngot it down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Dumbbell training is going smoothly, but it\ncould be better if I\nadjusted her shaky\nposture...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Can you straighten out your upper body a little\nmore?"
+            ]
+        },
+        {
+            "text": "...I'll try.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "For the rest of the training, she seems to\ntake my instructions more\nwillingly than\nbefore.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With the workout finished, I go over the\nday's accomplishments.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How'd you feel with today's training?"
+            ]
+        },
+        {
+            "text": "Um... Fine, I guess.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, right. Hey, um...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I think I might wanna do that warm-up you\nshowed me from now on.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It made things... Well, my body felt easier\nto move, I think.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Really?! That's great!"
+            ]
+        },
+        {
+            "text": "I can't hide my excitement. I wasn't\nexpecting such a positive\nresponse from\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, what the heck... Chill out, would\nyou?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Are we done wrapping up? Cause I'm\ngonna split.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "O-oh, okay. Good work today."
+            ]
+        },
+        {
+            "text": "Though training seems to be going well\nwith her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "There are still some obstacles to overcome\nbefore we can truly be\npartners.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "...Hm?",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...I can feel a bit of a cool breeze. I guess fall is on \nits way."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Time sure does fly, huh? This fall... I'll be running \nthe Tenno Sho with Tama.",
+            "color_text_info_list": [
+                "Tenno Sho"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...And then there's the Arima Kinen in the winter \nafterward. That'll be the competition that \ndetermines this year's top racer.",
+            "choice_data_list": [
+                "Let's show them what you've learned during \nsummer camp!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. I've grown a lot during this year's camp."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All that's left for me to do is to run as fast as I \ncan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so concludes our productive summer camp."
+        }
+    ],
+    "title": "Summer Camp (Year 3) Ends"
+}

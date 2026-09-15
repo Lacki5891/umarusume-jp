@@ -1,0 +1,16 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Монолог",
+            "text": "Дайва Скарлет проигрывает Водке в Tulip Sho."
+        },
+        {
+            "name": "Монолог",
+            "text": "С уязвленной гордостью она клянется взять реванш\nв Oka Sho.",
+            "color_text_info_list": [
+                "Oka Sho"
+            ]
+        }
+    ]
+}

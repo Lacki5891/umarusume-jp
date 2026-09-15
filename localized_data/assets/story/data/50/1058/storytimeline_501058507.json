@@ -1,0 +1,60 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, a letter from a fan arrives for\nMeisho\nDoto."
+        },
+        {
+            "text": "A f-fan letter? It... can't be for me,\nright?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Maybe they got the names mixed up? I\nmean,\nthere isn't one good thing about\nme...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Why don't you try reading it first?"
+            ]
+        },
+        {
+            "text": "I-I should, shouldn't I? Okay, here goes!\nUm...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ngh... Trainer...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "What does it say?"
+            ]
+        },
+        {
+            "text": "\"I love how hardworking you are. I'm\nclumsy too,\nso you give me courage.\"",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm so happy... This is just like how I was\nin the\npast.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I remember listening to a post-race\ninterview and\nhearing the winner say, \"I\nwas able to overcome\nmy flaws.\"",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It gave me courage, enough courage to\ncome to\nthis academy... And now, now\nI'm the one who's...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "The one who's inspiring others."
+            ]
+        },
+        {
+            "text": "<i>Sniffle...</i> Trainer, I promise to work even\nharder.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Because... despite my many flaws, I was\nable to\nencourage someone!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "From this day on, Мэйсё Дото puts in\nfar more\neffort during our training\nsessions."
+        }
+    ]
+}

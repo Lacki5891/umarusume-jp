@@ -1,0 +1,248 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the Fan Fest, a day where a variety\nof events\nare taking place for fans to\ninteract with their\nfavorite racers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало is no exception. She joins in\non the\nfestivities to entertain her fans,\njust like everyone\nelse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало, please make your way to the\ntrack for\nthe 1,500-meter bread-eating\nrace. I repeat,\nКинг Хало...",
+            "name": "Announcer"
+        },
+        {
+            "text": "Ohohoho! Even the broadcasters can't\nwait to see\nme race! I've finally made i—",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Hurry up and get out there!"
+            ]
+        },
+        {
+            "text": "Excuse me! I was talking! Ugh, you've\nruined the\nmoment.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But you make a good point. I have no\ninterest in\nkeeping my fans waiting.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe. Look forward to an elegant\nperformance\nfrom yours truly!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohohoho! Introducing the star of today's\nshow,\nКинг Хало!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, if it isn't King. I'm glad you made it\nin time.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Isn't that right, Spe?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Huh?! Uh, y-yeah!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hm? That's odd. Weren't you the most\nworried\nabout her?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, King's in this group too!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Nice! I know everyone in this group!",
+            "name": "Tall Audience Member"
+        },
+        {
+            "text": "Do you? I wonder which one of them will\nwin.\nOoh, I can't wait!",
+            "name": "New Fan"
+        },
+        {
+            "text": "Hehe. Well then, let's all take our\npositions, shall\nwe?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "<i>Ka-thunk!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "And they're off! The bread-eating race\nhas begun!\nWho will reach the line of\nbread first?",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Oh! Here comes Кинг Хало, speeding\nthrough at\nthe front. She approaches the\nbread, and...",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Ughhhh!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohhh! She misses the bread! Кинг Хало\njumps\nagain and again, but she can't\nseem to get it!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "But wait, look at that!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Zoom! Soar! Chomp! El is numero uno!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...I've no intention of losing!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Haaaaa!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It's a three-way battle for the lead! King\nHalo was\nstrong at the start, but...",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Gaaaaah!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohhh! And she misses again!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "She really can't grab hold of the bread,\ncan she?",
+            "name": "New Fan"
+        },
+        {
+            "text": "She keeps falling in the mud too. They\nshould go\neasy on her and let her use\nher hands.",
+            "name": "Tall Audience Member"
+        },
+        {
+            "text": "Graaah! I don't need your pity! This\nbread is mine!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Here I go!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...!",
+            "name": "Монолог"
+        },
+        {
+            "text": "ARGH!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And still, no dice!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Shut up! Shut up! One more time!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wow, she really is committed.",
+            "name": "Tall Audience Member"
+        },
+        {
+            "text": "That's right... She's come this far, I'd\nhate to see\nher give up now.",
+            "name": "New Fan"
+        },
+        {
+            "text": "Qué está pasando?! Why's everyone\nrooting for\nKing?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She's last! We're the ones in the lead!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehehe. Oh well, I guess that's what\nmakes this a\nFan Fest.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It is strange to see her garnering all the\nsupport\nthough, regardless of whether\nshe wins or not.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Perhaps she has a natural charisma, and\neveryone\nis simply drawn to it.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hmmm... She's really something, huh?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Do your best, King!",
+            "name": "New Fan"
+        },
+        {
+            "text": "You've got it next time! Go for it, King\nHalo!",
+            "name": "Tall Audience Member"
+        },
+        {
+            "text": "When will Кинг Хало manage to get the\nbread?! Is\nthe eleventh time the charm?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "I'll tell you when! I'm taking down this\nbread <i>now!</i>\nJust watch, everyone!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Witness the power of my jump!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Whiff...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "RRRGH! Come ooon!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Chomp!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mrm mrm mrm! Mrm mrm mrm!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, the race finally concludes with\nКинг Хало\ncoming in dead last.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But regardless, she manages to capture\nthe fans'\nhearts.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Even still, Кинг Хало refuses to give up.\nWith all\nher fans rooting her on, she\njumps for the bread\nagain and again.",
+            "name": "Монолог"
+        }
+    ]
+}

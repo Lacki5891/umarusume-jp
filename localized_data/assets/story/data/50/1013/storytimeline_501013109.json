@@ -1,0 +1,158 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With the autumn Tenno Sho in the\nbooks, Mejiro\nMcQueen and I decide to\nhave a holiday party.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Having purchased cake, groceries, and a\nvariety\nof other things, I make my way\nback.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Ah, Trainer. Welcome back.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Thanks."
+            ]
+        },
+        {
+            "text": "Hehe... Judging from your demeanor,\nyou haven't\nyet noticed.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Huh? Noticed what?"
+            ]
+        },
+        {
+            "text": "You see, I added a decoration while you\nwere\nabsent.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Well? Can you find it?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I look around the room.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's a small, wrapped cookie sitting\non the\ndesk! What's more, it's shaped\nlike the plaque of\nthe Tenno Sho!",
+            "name": "Монолог"
+        },
+        {
+            "text": "You seem to have spotted it!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I used a mold to make it into the shape\nof a\nshield. I know it isn't much.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "But it's my way of showing thanks for\nleading me\ntoward my victories in the\nTwin Tenno Sho.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Please savor and enjoy this token of my\nesteem.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I try Мэдзиро МакКуин's handmade,\nshield-shaped\ncookie.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's kind of bitter..."
+            ]
+        },
+        {
+            "text": "What's that?! Let me try.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Crunch...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Urgh... You're right. This is definitely\nburnt...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Sigh...</i> I tried so hard to make you\nhappy.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I <i>am</i> happy!"
+            ]
+        },
+        {
+            "text": "Really?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Oh, I see. After all, the emotions I felt\nas I made\nthis for you were genuine.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "As long as I was able to convey my\nfeelings, that\nis enough for me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I decide to try Мэдзиро МакКуин's\nhandmade,\nshield-shaped cookie.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's good!"
+            ]
+        },
+        {
+            "text": "Oh my, really?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Thank goodness... I put my heart into\nmaking it,\nand now I know it was all\nworth the effort.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's a relief to see the smile on your face.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "A relief?"
+            ]
+        },
+        {
+            "text": "Indeed. You know how much effort I've\nbeen\nputting toward my goal all this\ntime, yes?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "After all that work, I successfully\nachieved my\ngoal, but...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Perhaps as a consequence of my\nsingle-minded\nfocus, I feel that I've\nneglected a part of my\npersonal life.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "So, when I saw your smile just now, it\ngave me a\nsense of relief. I can celebrate\nwithout restraint.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Let's have lots of fun!"
+            ]
+        },
+        {
+            "text": "Yes... absolutely!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Since that's settled, why don't we get\nour glasses\nand have a toast?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "After that, we cut loose and enjoy our\nholiday\nparty until curfew.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We enjoy the rest of our holiday party,\ntaking\nthings easier than usual.",
+            "name": "Монолог"
+        }
+    ]
+}

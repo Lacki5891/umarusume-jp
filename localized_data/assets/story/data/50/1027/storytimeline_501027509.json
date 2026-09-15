@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While we're at the gym, Мэдзиро Райан\nlooks at me\nand groans weakly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uuugh... My muscles will never be their\nbest at\nthis rate...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Did something happen?"
+            ]
+        },
+        {
+            "text": "I haven't been able to lift as much as\nusual during\nmy bench presses.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I've had no luck adding weight to my\nchest and\nleg presses either.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Guh... What the heck is going on with\nmy body?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Amidst all the racing she's been doing\nlately, she\nhasn't noticed her growing\nfatigue. Maybe I\nshould rethink her\nschedule...",
+            "name": "Монолог"
+        }
+    ]
+}

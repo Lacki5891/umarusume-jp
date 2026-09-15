@@ -1,0 +1,148 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I come across Mejiro McQueen studying in the cafeteria late at night."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So if I were to substitute this formula here... That makes sense.",
+            "choice_data_list": [
+                "Do you have a test coming up?",
+                "Do you have a test coming up?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, Trainer! Yes, there's a short quiz tomorrow. I thought that I would\nconduct a quick review."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I was having a few difficulties, however, which is why I'm still here.",
+            "choice_data_list": [
+                "Maybe we should reduce the training load\ntomorrow?",
+                "Maybe we should reduce the training load\ntomorrow?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh no, there's no need to do that. As a Mejiro, I am accustomed to\nbalancing both mental and physical discipline."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Therefore, I expect the standard regimen at practice tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "As requested, we conduct our training regimen as usual the next day."
+        },
+        {
+            "name": "Monologue",
+            "text": "However..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "No doubt due to how late she was up studying last night, McQueen\nbegins to nod off during our post-training meeting.",
+            "choice_data_list": [
+                "Are you awake?",
+                "Are you awake?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eek!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "O-of course I am! A Mejiro brings nothing but her full attention to\nevery interaction!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "We were reviewing all of today's training exercises, yes?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Given her condition, I decide it would be best to start things over one\nmore time. But..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...",
+            "choice_data_list": [
+                "You didn't get enough sleep, did you?",
+                "You didn't get enough sleep, did you?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I-I really wasn't sleeping, dozing, or even dreaming! It must be your\nimagination."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Please continue. I'm all ears.",
+            "choice_data_list": [
+                "Let's go ahead and call it a day."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh? But we were in the middle of a meeting...",
+            "choice_data_list": [
+                "I don't want to push you to the point of\ncollapsing again.",
+                "I don't want to push you to the point of\ncollapsing again."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh... but..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It looks like I've exhibited cause for concern once again."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I don't want to cause you any more undue trouble, so let's wrap it up\nfor today."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you as always, Trainer.",
+            "choice_data_list": [
+                "Just be sure to sleep properly, okay?",
+                "Just be sure to sleep properly, okay?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'll have you know that I am managing my sleep schedule perfectly\nfine!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>AND</i> I was actually paying proper attention back there!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I must ask that you believe me! I insist!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems much work remains to be done to persuade the prideful\nMcQueen to acknowledge her limits."
+        }
+    ]
+}

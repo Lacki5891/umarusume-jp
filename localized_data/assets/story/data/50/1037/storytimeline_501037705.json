@@ -1,0 +1,306 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйсин Флэш wants to go shopping, so we\nstop by\nthe shopping mall on our way\nhome.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for accompanying me.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Of course. So what do you need to buy?"
+            ]
+        },
+        {
+            "text": "I wish to purchase thank-you gifts for\npeople who\nhave helped me during my\ntime in Japan. I have\nbeen saving up for\nthis occasion.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I have a list of what I'd like to get, so\nthis should\nnot take long. Let's be on our\nway.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "A comfortable pillow for Falcon, a clutch\npurse\nfor Jordan...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "A Moai statue for Golshi... A tumbler for\n\nNakayama...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now, only one gift remains. I'm surprised\nI'm still\nunder budget.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Who's left?"
+            ]
+        },
+        {
+            "text": "You, of course.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You don't have to get me anything!"
+            ]
+        },
+        {
+            "text": "Of course I do. You have helped me\nmore than\nanyone.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Is there anything in particular you would\nlike? My\nbudget is now higher than\nanticipated, so I'm\nopen to requests.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I'd like to look around first.",
+                "I'm fine with anything you pick!"
+            ]
+        },
+        {
+            "text": "Is there anything in particular you would\nlike? My\nbudget is now higher than\nanticipated, so I'm\nopen to requests.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I'd like to look around first.",
+                "I'm fine with anything you pick!"
+            ]
+        },
+        {
+            "text": "Very well. Let's find something together.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "We browse for a while until suddenly, I\nnotice\nEishin Flash staring intently at\none particular\nitem.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It's a stopwatch decorated with\nladybugs. Now\nthat I think about it,\nEishin Flash does love\nladybugs...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh. Excuse me. I didn't mean to get\ndistracted...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I think I'd like that stopwatch."
+            ]
+        },
+        {
+            "text": "Huh? You've taken a liking to it as well?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wait... Can it be you are planning to\nregift it to\nme?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Oops. You saw right through my plan."
+            ]
+        },
+        {
+            "text": "Of course I did. You are kind as always.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, this is supposed to be a gift of\n\ngratitude for <i>you.</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So as happy as I am for your\nthoughtfulness—",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Your happiness is the best gift I could ask for."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...Very well. Then I shall graciously\naccept your\nkindness...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I shall treasure it with my whole heart.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш carries the stopwatch to the\nregister\nwith a truly priceless smile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here you go...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She hands me the stopwatch, and then I\npresent it\nback to her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Thank you very much, Trainer.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Well, let's head back."
+            ]
+        },
+        {
+            "text": "Wait a moment. Before we do—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Please accept this.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "Open it. You'll see.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I do as she says and discover a picture\nframe\ninside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I couldn't ignore my desire to gift you\nsomething,\nyou see...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There is a particular picture I wish for\nyou to put\nin that frame.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "And that would be?"
+            ]
+        },
+        {
+            "text": "The picture we'll take together to\ncommemorate\nmy victory at a race.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I believe that would be the best proof\nthat I have\nachieved what I must—and\nthe gift that would\nbring you the most\njoy.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hehe. Please look forward to that day.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Anything, you say? But I want to choose\n\nsomething that I know you will like...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hmm. What a predicament.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You don't need to put so much thought into it."
+            ]
+        },
+        {
+            "text": "Please be patient. I shall find the perfect\ngift for\nyou within the next twelve\nminutes, thirty\nseconds.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш takes off before I can try to\nstop her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Seven minutes, eighteen seconds remain.\nHmm...\nI'm struggling to find the right\ngift...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "No, I mustn't fret. Toi, toi, toi... I should\nreturn to\nthe floor map and think it\nover...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh, hi! I thought that was you, Flash! ♪\nNever\nthought I'd bump into you here!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Huh? You're by yourself? But this\nmorning you\ntold me you were going to\nbe hanging out with\nyour trainer...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hello, Falcon. That is true, but I am\ncurrently—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ooh, okay! So you're looking for\nsomething to\nget your trainer, huh?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Not too long ago, we were watching TV\nwhen the\ntrainer took a liking to the\nArita ware teacups\nthey were\nshowcasing...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But then again, there was the fancy\ntable lamp\nthey introduced in the\nScandinavian-themed\nprogram too...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Taking such remarks into consideration,\nthe\nperfect gift must be... No, there must\nbe\nsomething else... Hm...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Umm... Aren't you overthinking this?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Indeed, my thoughts are in gridlock.\nOnly five\nminutes, twenty-eight seconds\nremain... Will I be\nable to find a suitable\ngift in time?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hmm... Well, at times like this, you\nshould...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Thank you for your patience, Trainer.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Here... Please accept this gift.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It's a cake. As the daughter of pastry\nchefs, I can\nattest to the quality of the\npatisserie where I\npurchased this.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm sure, well... I think you will like how\nit tastes.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I can only hope this is a satisfactory\ngift...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Oh! What a relief...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Yay! I'm so glad it worked out! Good for\nyou!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Thank you. Your advice was most\nhelpful, Falcon.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ehehe! Aren't I just the best? When it\ncomes to\nstuff like this, you don't have\ngo for a perfect\nscore or anything.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It was just like you said—it's the thought\nthat\ncounts. Clearly conveying my\nsincerity was all I\nneeded to do.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I hope Trainer is enjoying the cake right\nnow.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After receiving such a wonderful present\nfrom\nEishin Flash, I feel even more\ndetermined to work\nhard together with\nher.",
+            "name": "Монолог"
+        }
+    ]
+}

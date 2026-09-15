@@ -1,0 +1,101 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...Sorry, Trainer. I lost.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I thought I could pull out a decent\n\nperformance—at least, that's what I'm\ngood\nat—but I couldn't even manage\nthat.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But I guess I have to accept that this is\nall I can\ndo now.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, on the bright side, I learned what I\nneed to\nwork on! Look forward to the\nnext episode!\nHahaha.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah! I believe in you, Nature!",
+                "You don't have to hide your frustration."
+            ]
+        },
+        {
+            "text": "Well, on the bright side, I learned what I\nneed to\nwork on! Look forward to the\nnext episode!\nHahaha.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah! I believe in you, Nature!",
+                "You don't have to hide your frustration."
+            ]
+        },
+        {
+            "text": "Haha, you're too confident. I haven't\ndone\nanything to earn that trust.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But I <i>do</i> believe in you! Honest!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I know. You're always telling me as much\nwith that\nsilver tongue of yours.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Unfortunately, I'm not the type to be\nmotivated\nwith just talk.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You've got it all wrong. I'm not trying to\nhide\nanything. It's just that being\nfrustrated won't\nmake me any faster.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Plus, it would be really out of character\nfor me to\nbe frustrated...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Then I'll be frustrated for you!"
+            ]
+        },
+        {
+            "text": "What?!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nooooo! You were <i>this</i> close! Aaarrrgh!"
+            ]
+        },
+        {
+            "text": "Whoa, whoa, whoa! Hold on, Trainer!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What are you doing?! Is that supposed\nto be how\nI'm feeling? Stop expressing\n<i>my</i> frustration so\naggressively!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Urgh, you're ridiculous... Haha.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Let's win next time!"
+            ]
+        },
+        {
+            "text": "Heh... All right, all right, I'll try.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But well... Maybe I could try believing in\nthose\nwords a little.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I don't want you to scream like that\nagain, after\nall. Still, no promises!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

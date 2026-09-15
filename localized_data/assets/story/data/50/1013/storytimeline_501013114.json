@@ -1,0 +1,268 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ryan! This way! Hurry!",
+            "name": "Young McQueen"
+        },
+        {
+            "text": "<i>Huff... puff...</i> Wait up!",
+            "name": "Young Ryan"
+        },
+        {
+            "text": "McQueen, you ran off too fast!",
+            "name": "Young Ryan"
+        },
+        {
+            "text": "Oh... I'm sorry.",
+            "name": "Young McQueen"
+        },
+        {
+            "text": "I just have so much fun running with you.\n<i>Sniff...</i>",
+            "name": "Young McQueen"
+        },
+        {
+            "text": "O-okay, okay! Then, I'll make up for it\nand catch\nup to you!",
+            "name": "Young Ryan"
+        },
+        {
+            "text": "Really?! Hehe, yay!",
+            "name": "Young McQueen"
+        },
+        {
+            "text": "<i>Patter, patter, patter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah... Hey! Wait for me to catch up fiiirst!",
+            "name": "Young Ryan"
+        },
+        {
+            "text": "Ngh... Was that... a dream?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(How nostalgic... It's been a long time\nsince I\ndreamt of my childhood.)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(Could it be because I'm seeing her\ntoday?)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh, now is no time to dawdle. I must\nhurry and\nget ready.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Chatter chatter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, this is certainly a crowd befitting a\nG1 race.\nNow then, where in the world\nis—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "McQueen! Over here! Over heeere!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, Ryan! I'll be right there!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Impressive, Ryan. I can't believe you\nmanaged to\nget front-row seats.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The view is more impactful from the\nfront seats.\nHey, I'm sure you know that\nfrom baseba—",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ack, sorry! I forgot that's a secret.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hehe, I'm sure no one could hear you in\nall this\nnoise.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Today, we're mere spectators ourselves.\nLet's just\nenjoy the race!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Good point. Right, I'm gonna cheer till\nI'm hoarse!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Today is a day off from training for\nMejiro\nMcQueen and I.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's a G1 race being held today, so I\ndecide\nto watch at the racecourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Everyone's off to a great start! Now the\nbattle for\nthe lead begins!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm astonished at how loud the crowd is.\nG1 races\nsure inspire great enthusiasm\nfrom the viewers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gooooo! This is where the race really\nstarts!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Everyone, this is your chance to take a\ngood\nposition!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Is that McQueen and Мэдзиро Райан?"
+            ]
+        },
+        {
+            "text": "Oh my! Тренер?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My apologies, but my attention is on the\nrace\nright now! If you want to talk,\nplease wait until\nafterward!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "—has just broken away from the pack\nand\nsnatched first place!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "That was a good race. The competition\nremained\nclose all the way until the end.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I could feel their drive and unrelenting\nwillpower.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Yeah, you could tell how much they\ndidn't want\nto lose to their rivals, and\nhow important this race\nwas to them.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Guess they've all got pretty big dreams,\nhuh?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "On another note, I was really surprised\nto run into\nyou, Trainer.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Same here. What a coincidence."
+            ]
+        },
+        {
+            "text": "Ahaha. No kidding.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Actually, I'm the one who invited\nMcQueen to\nwatch the G1 race with me\ntoday.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "We decided to see for ourselves the\nlocation\nwhere we'd one day compete.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "After New Year's, you'll be classic racers."
+            ]
+        },
+        {
+            "text": "Indeed. All Umamusume dream of\ncompeting in\nthe historic Classics.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm no exception, even though my\nultimate goal is\nthe Tenno Sho.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Let's give it everything we've got!"
+            ]
+        },
+        {
+            "text": "Yes, I will focus my efforts in earnest to\nachieve\nsuccess.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Now that the race is over, we should be\non our\nway.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Why don't we all go have tea together?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh, sorry... I've got training to do now!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ah, I see.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Then don't worry about it. Enjoy your\ntraining.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Okay. Later, you two!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Something wrong?"
+            ]
+        },
+        {
+            "text": "...Oh, no.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I was just thinking about Ryan's strong\npassion for\nthe Classics.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Of the Mejiro family, I'm the one who's\nexpected\nto win the Tenno Sho.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "And Ryan is expected to win the Classic\nTriple\nCrown.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The curtain rises on this series of\n\nonce-in-a-lifetime Classic races.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ryan! This way! Hurry!",
+            "name": "Young McQueen"
+        },
+        {
+            "text": "<i>Huff... puff...</i> Wait up!",
+            "name": "Young Ryan"
+        },
+        {
+            "text": "(...Ever since I was little, I've been\nchasing after\nyou.)",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "(After a certain point, I started to think\nit was\nnormal. But thinking back on it\nnow...)",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "(I realize I still haven't managed to catch\nup.)",
+            "name": "Мэдзиро Райан"
+        }
+    ]
+}

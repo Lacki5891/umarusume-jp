@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hmm... I guess that was okay...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But I really wanted to get first place for\nall the\nyounger students who came to\nwatch me.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I guess I've still got a ways to go...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It wasn't a bad performance at all.",
+                "Let's get back on track!"
+            ]
+        },
+        {
+            "text": "Heh, thanks for trying to make me feel\nbetter.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ugh, but I shouldn't be making you\nworry.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Losing all the time is definitely not my\nbag!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll give everyone a real taste of my\nspeed next\ntime!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now we just need to take a refreshing\ndrive!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's ride Tata all the way to the beach!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right! Next time, I'm going to turn it\nup to\neleven, keep up the pace, and\n<i>win!</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I accompany Марузенски on a drive\nalong the\ncoast until she feels better.",
+            "name": "Монолог"
+        }
+    ]
+}

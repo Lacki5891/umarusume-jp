@@ -1,0 +1,246 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i> Damn it!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I lost to Tamamo...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Whooooa! Тамамо Кросс is so fast!",
+            "name": "Spectators"
+        },
+        {
+            "text": "I knew Тамамо Кросс was strong! Her\ntalent just\nexploded in this race!",
+            "name": "Fan A"
+        },
+        {
+            "text": "City did great too! Have you ever seen\nsuch a\nstunning runner?! I hope she'll\ngive us more eye\ncandy on the track\nnext year!",
+            "name": "Fan B"
+        },
+        {
+            "text": "So Tamamo gets all the normal praise,\nhuh...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Must be nice... I'm jealous.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I was strong too, wasn't I? I've earned my\nshare of\nlegitimate results, haven't I?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Haha... <i>Sigh...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Why did I even bother?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's all been a big waste of time.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "City...",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Hey! What's da big idea?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Weren't ya listenin' when I said don't\nhalf-ass it\nout dere?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I didn't. Or what, did you see me trying\nto lose?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Dat's not what I mean and ya know it!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Tch... Fine! <i>Be</i> a little crybaby, then!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "And here I thought ya wanted to show\neveryone\nya got backbone!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Hmph... Guess I'll ask ya one more time.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "What're ya racing for?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Why do ya run?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Isn't it obvious?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Don't look down! Look me in da eyes!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Unreal. Don't tell me I got my hopes up\nfor dis...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I thought you were better than dat.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Why couldn't I say anything?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh well... who cares? Not like any of it\neven\nmatters.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Trainer. I'm done.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "There's no point to running anymore.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "People will always look at me the same,\nno matter\nhow well I do.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I thought things would change if I\nshowed them\nmy ability. That's why I\nworked so hard.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But it was all just wishful thinking.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "People only care about \"Pretty City.\" My\nrunning\nmeans nothing to them.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "All my effort until now has been\npointless. And it\nwill keep being\npointless.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So I... just don't care anymore.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити looks defeated. Maybe having\nher\ncompete in the Arima Kinen was a\nbad idea."
+        },
+        {
+            "text": "But there's one thing I need to confirm\nbefore I\nlet regret take over.",
+            "choice_data_list": [
+                "So, you're quitting?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "She doesn't say anything. But that\nsilence is all I\nneed to hear.",
+            "choice_data_list": [
+                "(There's no way City wants to quit!)"
+            ]
+        },
+        {
+            "text": "She's just not at her best right now. All I\ncan do is\ncontinue preparing her for the\nroad ahead."
+        },
+        {
+            "text": "I'm getting changed. Leave, please.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Before that, let's decide your next race."
+            ]
+        },
+        {
+            "text": "...Huh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Didn't I just say there's no point to\nrunning\nanymore?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let's aim for the Senior Spring Triple Crown."
+            ]
+        },
+        {
+            "text": "You're not listening.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let's keep showing off your skill!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ugh, fine... Knock yourself out. Not like\nyou need\nme there for the sign-up\nprocess.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If you want to make me run so bad, then\ngo\nahead.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Okay, let's start with the Osaka Hai!"
+            ]
+        },
+        {
+            "text": "You're actually doing this?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Whatever... just get out so I can get\nchanged.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I said get out!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What gives? Didn't I say there's no\npoint?",
+            "name": "Голд Сити"
+        }
+    ]
+}

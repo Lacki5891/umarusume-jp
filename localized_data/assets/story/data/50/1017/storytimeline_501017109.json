@@ -1,0 +1,328 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day during the holidays, Symboli\nRudolf asks\nme to come to the cafeteria.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Chatter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Grass, look! They brought out more\ncakes!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Really, Spe, that's your fourth one. I\nthink you've\nhad enough already...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But look at the name! It's called Premium\nMatcha\nCake! It looks sooo good!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Premium... Matcha...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Well, I suppose we could take a <i>look</i>...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yay! Ehehe, it really is the most\nwonderful time of\nthe year!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "The cafeteria is crowded with\nUmamusume. As I\ntry to make my way\nthrough...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, Trainer! There you are. Welcome to\nthe\nstudent council holiday party.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "The student council's running this?"
+            ]
+        },
+        {
+            "text": "Naturally. We do this every year. Public\nevents\nare an excellent way of raising\nstudent morale.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And logistical justifications aside, it\nwould be a\nbit of a shame not to\ncelebrate the holidays in\n<i>some</i> way,\ndon't you think?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Attendance is voluntary, and students\nare free to\ncome and go as they please.\nWe usually see\nparticipation rates of\naround fifty percent...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But this year, attendance has exceeded\nninety\npercent. Which is to say, nearly\nthe entire student\nbody is present.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Ninety?! As in nine zero?!"
+            ]
+        },
+        {
+            "text": "As one of the organizers, I can't deny it's\n\nflattering, but at the same time, we\ndidn't plan\nfor this many attendees.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The entire student council is running\nitself ragged\ntrying to cater to them all.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I hate to invite you here only to abandon\nyou, but\nit seems you may have to enjoy\nthe party on your\nown.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I planned to show you around myself,\nbut I doubt\nI'll have the chance.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "No worries, I get it."
+            ]
+        },
+        {
+            "text": "My apologies. But at the very least, I'm\nconfident\nthat you'll enjoy the festivities.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Now, if that's all...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Excuse me, President! I'm sorry to\ninterrupt, but...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Hm? What's wrong?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "We... we wanted to ask, um... Could you\ntake a\npicture with us?",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "A photo? Of course.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Thank you! You're the best!",
+            "name": "Students"
+        },
+        {
+            "text": "We're so sorry for interrupting you,\nTrainer, but\nwe thought this might be\nour only chance!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "The President looked so at ease when\nshe was\ntalking with you...",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "...!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>Sigh...</i> I am an open book, it seems. My\ndignity is\nin shambles...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I mustn't let the camera capture my\n\nembarrassment. Speaking of which...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Want me to take the photo?"
+            ]
+        },
+        {
+            "text": "If you would be so kind. Do try to get\nour best\nsides.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "All right, say cheese..."
+            ]
+        },
+        {
+            "text": "Wait! Um... President, could you stand in\nthe\nmiddle? With your arms crossed?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "If you wish, but... why?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You need to really look like the\nEmperor! I want\nto capture you at your\ncoolest!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Very well. If that's what you want...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Then how about this?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Eeeeek! That's so awesome!",
+            "name": "Students"
+        },
+        {
+            "text": "I have other poses too, you know.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Kyaaaaa! Sh-she's so... imperial!",
+            "name": "Students"
+        },
+        {
+            "text": "Haha... I think I could get used to this.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Good grief. I knew I was right to seek\nyou out.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Pardon?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You've been working since this morning.\nYou\nmust be exhausted. Why don't you\nget some fresh\nair?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Surely the same goes for you? You had\njust as\nearly a start as I did.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>I</i> took a break earlier in the afternoon,\nas per\nyour imperial decree. Or have you\nforgotten?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well... I suppose that's true, but...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "No buts. I've already told the rest of the\nstudent\ncouncil that you're indisposed.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It would only cause confusion if I were to\nchange\nthe story now. Are you certain\nthat's wise?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Is it just me, or have you gotten less\n\ncompromising recently? But very well.\nYou've\nmade it clear I have no choice.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, Trainer, it seems I can either leave\nof my\nown volition or be chased out.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And seeing as I would prefer to leave\nwith my\ndignity intact... would you come\nwith me for a\nmoment?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Look, Trainer.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "We can see the entire academy from up\nhere. Of\ncourse, this late in the day, it's\nall dark...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Except for the lights of the cafeteria. It's\n\nbeautiful, don't you think? The way it\nshines in\nthe darkness.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Every student of Академия Тайсен is\ntheir own\nglimmer of light, and when\nthey come together,\nthey are radiant\nindeed.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It's my place to do everything I can to\nhelp them\nshine brighter.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "And it's my job to help <i>you</i> shine brighter."
+            ]
+        },
+        {
+            "text": "Oho?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, aren't you confident. I hope you\ncan live up\nto those words.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That aside...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Do I hear music in the air? That must be\nthe start\nof the dance.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Are you sure? I don't hear anything."
+            ]
+        },
+        {
+            "text": "We Umamusume have better hearing\nthan\nhumans, so that's only to be\nexpected.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I really don't hear anything... but if she\nsays so,\nthen it must be true.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, we won't make it back before this\nsong\nends. In which case...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What do you say we have our own dance\nright\nhere?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Y-you want to dance?!"
+            ]
+        },
+        {
+            "text": "Nervous, are you? Don't underestimate\nyour\ndance partner.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The Emperor will take the lead.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Unless you're getting cold feet?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "No, I'd... I'd love to."
+            ]
+        },
+        {
+            "text": "I am pleased to hear it.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, then. May I have this dance?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>Grip...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now turn here, and... Oho? You're rather\ngood at\nthis.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Haha. I may have found myself the\nperfect dance\npartner.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The two of us enjoy our private holiday\nball for a\nwhile, until Симболи Рудольф has\nfinally danced her\nfill.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This holiday party turns out to be a fun\n\nopportunity to see Rudolf cut loose a\nlittle.",
+            "name": "Монолог"
+        }
+    ]
+}

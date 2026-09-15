@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yawn...</i> Man, I'm beat. I can't stop\nyawning.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Did you not get enough sleep?"
+            ]
+        },
+        {
+            "text": "Yeah. I was reading a cookbook last\nnight, and\nsleepiness hit me like a truck.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I kept telling myself that fallin' asleep\nwould\nmean I'd lost, so I fought against\nmy drowsiness,\ntooth and nail!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Of course, I came out the winner! Held\nout until\ndawn—drowsiness got nothin'\non me! Hahaha!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Yaaawn...</i>",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "In short, Хиши Амадзон pulled an\nall-nighter.",
+            "name": "Монолог"
+        }
+    ]
+}

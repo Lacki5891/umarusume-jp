@@ -1,0 +1,22 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap is approached by a group of \nUmamusume while training."
+        },
+        {
+            "name": "Monologue",
+            "text": "They're none other than the three rising \nstars—Inari One, Tamamo Cross, and Super \nCreek.",
+            "color_text_info_list": [
+                "Inari One",
+                "Super Creek"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "From an outside perspective, Oguri Cap and \nSuper Creek seem like they should be sworn \nenemies, but the two of them don't seem to feel \nas such."
+        }
+    ],
+    "title": "A Gathering of Greats"
+}

@@ -1,0 +1,80 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Now that training's over, it's time for\nthat special\nreward... Pretty please!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What reward again?"
+            ]
+        },
+        {
+            "text": "I saw it in my morning fortune-telling\nsession! \"A\nshuttle full of sparkles.\" That\ncan only mean—",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hey! You called?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Huh? Тайки Шаттл? Oh, no, no, no! I\nwas—",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wait... Could this mean that Taiki is the\nshuttle\nthat brings the sparkles?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oho! So you want somethin' sparkly, do\nya? Then,\nI got just the thing!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "(Great! Taiki's from the US, so I bet it's a\ngreat\nbig piggy bank full of silver\ndollars!)",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Come partner runnin' with me! Your\nskin'll shine\nreal good with the sweat I'll\nhave you workin'\nup! ♪",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "You want us to go partner running? I\nguess that\nwould be one way to create\nan abundance of\nsparkles...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh, haha! I'd love to, but I need my\ntrainer's\npermission first...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What should I do? Run with Taiki... or do\nyou\nhave a reward for me?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Go running!",
+                "I guess I can prepare something..."
+            ]
+        },
+        {
+            "text": "Argh! I had an feeling you'd say that!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Yeehaw! Let's go!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Yesss! I worked super hard today, after\nall! So,\nwhat kind of sparkly reward have\nyou got for\nme? ♪",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Now, wait just a gosh darn minute!\nDidn't you say\nyou were going to \"fill\nТайки Шаттл up with\nsparkles\"?!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Матиканэфукукитару puts her all into her\nextra\ntraining.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I meet both their expectations by giving\nthem two\nsparkling... cans of juice.",
+            "name": "Монолог"
+        }
+    ]
+}

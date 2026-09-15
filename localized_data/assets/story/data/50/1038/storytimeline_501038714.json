@@ -1,0 +1,136 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Каррен Тян injures herself during\ntraining, so I\nbring her to the infirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh... I'm so sorry, Big Bro... I went and\ngot\nmyself hurt...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ugh... I'm so sorry, Big Sis... I went and\ngot myself\nhurt...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Don't hate me, please... <i>Sob...</i>",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I could never hate you.",
+                "I'll only hate you if you don't get better soon."
+            ]
+        },
+        {
+            "text": "Ehe! ♪ Thanks. You're so nice. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ehe! ♪ Thanks. You're so nice. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "In that case, I'm just gonna lie down and\nnurse\nmyself back to a hundred percent!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I'm sure you'll get better soon."
+            ]
+        },
+        {
+            "text": "Yep!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But still...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I can't believe I actually got injured.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Grrr!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You're so mean!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You're so mean!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hmph. Whatever. Now my mood is all\nrotten!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...No.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "No what?"
+            ]
+        },
+        {
+            "text": "No! I'm gonna do my best to get better.\nSo... so...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Don't say something so sad... I know I\nmessed up\ntoday...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I just want you to tell me to do my best.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I just want you to tell me to do my best.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "If you're here supporting me, I'm sure I\ncan get\nbetter. So, please...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "(Urgh...)"
+            ]
+        },
+        {
+            "text": "If you're here supporting me, I'm sure I\ncan get\nbetter. So, please...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "(Urgh...)"
+            ]
+        },
+        {
+            "text": "Каррен Тян looks at me with teary eyes.\nAlmost\ninstinctively, my mouth starts to\nmove on its own.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...You can do it!"
+            ]
+        },
+        {
+            "text": "Ehehe. Okay!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll be cuter and healthier than ever\nbefore you\nknow it, so wait for me,\nokay? ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll be cuter and healthier than ever\nbefore you\nknow it, so wait for me,\nokay? ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян recovers remarkably\nquickly, and we\nreturn to training in no\ntime.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Каррен Тян's recovery ends up taking\nlonger\nthan usual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems Каррен Тян is frustrated over\nher injury.",
+            "name": "Монолог"
+        }
+    ]
+}

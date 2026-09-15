@@ -1,0 +1,200 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As we walk along the river on our way\nback, I\nthink of the puppy that Air\nGroove ended up\ntaking home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I decide to ask her about how the dog is\ndoing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, yes. I received special permission to\nallow the\npup to stay in my dorm room.\nThe dorm mistress\nhelps out when I'm\nnot around.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I have to say, she's very smart. She learns\nquickly,\nand I don't need to correct any\nbad behavior\nmore than once.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Honestly, you could learn a thing or two\nfrom her,\nhehe.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув emanates an aura of\npositivity and\nkindness as she brags\nabout her puppy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm heading out to buy some dog food\nand treats\nnow. Care to join me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Howdy, Эйр Грув! Trainer!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Ah, here already, Taiki? Strange to see\nyou\nactually show up on time for once.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You betcha! Leave the puppy biz to me!\nIf you're\nthe mama, then I'll be the papa!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Where in the world did this mama and\npapa stuff\ncome from?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ugh, I have to deal with this ridiculous\nrigmarole\nfrom my roommate every day\nas well... I'm sick of\nit!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now, hold on just a minute! Are you\nsayin' Fine is\ntryin' to cut in on my job as\npapa?! Grrr, I'm not\ngonna take that\nsittin' down!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Enough, enough... I'm starting to feel a\nheadache\ncoming on. Let's go—pet\nsupplies are this way.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The three of us head to the pet supply\nsection,\nand Эйр Грув stops in front of\na shelf of dog\ntoys.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now then, Taiki. A crumb of your\nwisdom, if you\nwouldn't mind.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You betcha! I knew every sheepdog\nback on the\nranch like they were my\nvery own family! Fire\naway, pardner!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Trainer, I'd like you to speak up if you\nthink of\nanything, as well. Now, let's\ncommence the toy\nselection process!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yeehaw, let's get to it!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hey, Air Grooooove? Check out this\n\nsuper-duper-jumbo-size bone!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "That's larger than the dog!\nNo—absolutely not!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The toy selection is off to what I think is\n\nsupposed to be a good start.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In the end, Эйр Грув buys a small\nrubber ball\nthat can hold a treat inside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Y-you're really gonna pass on that big\nball? Ngh,\nwhat a cryin' shame...",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Taiki... What is with this unfathomable\ntrust you\nplace in large things? I swear...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All the same, it's been... educational...\nhaving you\nhere. You have my thanks.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hold up, Эйр Грув! You're callin' it\nquits\nalready?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Look at all the yummy doggy treats!\nThey've got\njerky, biscuits, cake—the\nwhole enchilada! Let's\nget 'em all!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I suppose treats can be a useful tool to\nget a\npuppy's attention...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But I'm only taking care of her for a\nshort while. I\ncan't foster too close a\nrelationship...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Everyone needs a reward now and then.",
+                "Woof woof! Won'tcha feed a poor pup?"
+            ]
+        },
+        {
+            "text": "Hmph...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yeah, nice assist! I knew you were a\ngood'un!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Loosen up, Эйр Грув. Do ya care about\nthe\npupper, or don'tcha?!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "With a treat or three, we'll have a happy\npuppy\nbefore long! And a happy pup\nmakes you a happy\nduck!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "What an awful tag team you two make...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Fine. Every now and then won't hurt. I'll\nbuy some.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Excuse me? For your own sake, I hope\nthat wasn't\nan impression of our little\nfriend.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "W... woof?"
+            ]
+        },
+        {
+            "text": "Oh, you've done it now! Hold it right\nthere, and\nI'll show you at length just\nhow far your feeble\nimitation falls from\nthe mark!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wh-whoa there, Эйр Грув! Calm your\njets!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "C'mon, a cute pupster deserves a treat\nnow and\nthen! It's the recipe for even\ngreater cuteness!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hrm...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Let me paint a picture for you, Air\nGroove.\nYou've got the dog biscuit in\nhand, and the pup\ndashes towards ya, all\nbarks and wags! Woof,\nwoof, wahoo!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hmmm...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Fine. But just so we're clear, I'm not\ndoing this\nbecause of your silly charade,\nTrainer!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm just... bowing to Taiki's greater\nexperience in\nraising dogs.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув acquiesces with a shrewd\nsmile and\nbuys some doggy treats.",
+            "name": "Монолог"
+        },
+        {
+            "text": "At any rate, Эйр Грув goes home with\nsome\ndog treats in her bag.",
+            "name": "Монолог"
+        }
+    ]
+}

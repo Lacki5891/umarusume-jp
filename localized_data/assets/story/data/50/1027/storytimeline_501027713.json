@@ -1,0 +1,95 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ow...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Oh, me? I'm fine! I just hurt myself a\nlittle...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Okay, back to training! Sorry for\nworrying you!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Though Мэдзиро Райан is cheerful as ever,\nan injury\nis still an injury.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We should take a break, just to be safe.",
+                "Forget about the pain and stay focused!"
+            ]
+        },
+        {
+            "text": "Huh? B-but it's really not a big deal!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Look! See how easy I can do squats?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan attempts a squat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ack!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "...Let's get some rest."
+            ]
+        },
+        {
+            "text": "Ah... You're right! Sorry...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "If this were a bad injury, I wouldn't be\nable to\nrace...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "(McQueen would've never let this\nhappen to\nherself.)",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I guess I'm still not as aware of my body\nas I need\nto be.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "We agree to stick to rest and recovery\nthat day,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Y-you're right! Sorry!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Focus... focus! At a time like this, I gotta\nuse my\nabdominal muscles to breathe\nfrom my\ndiaphragm!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Breathe in... and out!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Okay! Let's do this!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My fears come true, and Ryan's injury\nisn't healing\nas fast as I'd hoped.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We finish training, but it looks like Ryan\nwill make\na full recovery by tomorrow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ngh, okay... Sorry...",
+            "name": "Мэдзиро Райан"
+        }
+    ]
+}

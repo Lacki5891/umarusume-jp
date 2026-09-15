@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew! I'm beat! I think this old body's\nhad enough\nfor today.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You aren't old."
+            ]
+        },
+        {
+            "text": "You know what I mean. It was tough.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I've come this far. Surely I can put up a\ngood\nfight... or maybe not.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер is most likely caught up in\nthinking\nabout the fast-approaching\nKikuka Sho.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You definitely can."
+            ]
+        },
+        {
+            "text": "Oh, you...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You said it! You have to take\nresponsibility if it\ndoesn't pay off!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I better start looking into what kind of\nfancy meal\nyou can treat me to when\nthat happens. I'm\nthinking hot pot or\npufferfish.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And with that, Найс Нэйчер's productive\nsummer\ncamp comes to an end.",
+            "name": "Монолог"
+        }
+    ]
+}

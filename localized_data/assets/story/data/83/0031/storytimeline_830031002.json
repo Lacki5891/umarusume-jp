@@ -1,0 +1,279 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm walking through the\nTracen\nAcademy school building..."
+        },
+        {
+            "text": "Zoinks!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "P-pard'n me! I was just spac'n out a bit...",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "You seem kinda down. Something wrong?"
+            ]
+        },
+        {
+            "text": "Huh? Y-you could tell just by look'n?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Well, actually, some folks from my\nhometown are\npay'n me a visit soon.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "We're hav'n a scrimmage, so they said\nthey'd\ncome t'cheer me on...",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "That's great!"
+            ]
+        },
+        {
+            "text": "Yes, I'm pleased as punch about them\ncom'n,\nbut...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "The race is gonna have Oguri and all\nkinds of\ntalented racers running in it, so I\ndon't know how\nwell I'll be able t'do.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "They're com'n from so far away to cheer\nme on... I\njust hope I don't disappoint\nthem...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Even if Юкино Бидзин's concerns are\nwarranted,\nletting her anxieties get the\nbetter of her would\ndefeat the purpose\nof the race. But just as about\nI'm about\nto tell her this..."
+        },
+        {
+            "text": "What's this?! My class rep senses detect\na worried\nstudent!",
+            "name": "???"
+        },
+        {
+            "text": "Yukino! So YOU'RE the source of the\ndistress\nsignal!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "You can't fool your class representative!\nIf\nsomething's on your mind, then TALK\nTO ME!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Huh? What?!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I see! I understand your concerns very\nwell...\nVERY WELL INDEED!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "As everyone's class representative, I will\ntrain you\nmyself!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "To win a race, all you've gotta do is\ntrain! You\nthere! Trainer! You're with me,\nright?!",
+            "name": "Сакура Бакушин-О",
+            "choice_data_list": [
+                "Yeah! Show us your grit, Class Rep!",
+                "Yeah! Show us how a class rep runs!"
+            ]
+        },
+        {
+            "text": "To win a race, all you've gotta do is\ntrain! You\nthere! Trainer! You're with me,\nright?!",
+            "name": "Сакура Бакушин-О",
+            "choice_data_list": [
+                "Yeah! Show us your grit, Class Rep!",
+                "Yeah! Show us how a class rep runs!"
+            ]
+        },
+        {
+            "text": "Сакура Бакушин-О's perpetual boldness\nis\ndefinitely a strength of hers in races as\nwell."
+        },
+        {
+            "text": "With a little of that tenacity, Yukino\nBijin might\nbe able to race to the best of\nher abilities\nregardless of who she's up\nagainst. I explain this\nto her, and..."
+        },
+        {
+            "text": "You're right! My nerves've gotten the\nbetter of\nme in a bunch of past races! I\ncouldn't even run\nproperly!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I see! Then you really do need your class\n\nrepresentative to help you out!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "With that settled, let's head over to the\nperfect\ntraining spot!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Although Сакура Бакушин-О is full of\nconfidence,\na sense of unease compels\nme to tag along with\nthem."
+        },
+        {
+            "text": "Сакура Бакушин-О brings us out to the\ncentral\nplaza."
+        },
+        {
+            "text": "A reporter from a magazine is\ninterviewing\nstudents passing by."
+        },
+        {
+            "text": "\"Special Feature: Word from Tracen\nAcademy!\"\nLet's have them interview us\ntoo!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "What?!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Your training begins NOW, Yukino! If\nyou can\nanswer the questions with\nconfidence here, then\nyou've surely got\ngrit worthy of a class rep too!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "My running philosophy? Well, it's to set\na good\nexample and run each race in a\nmanner worthy of\na class representative!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "A-as for me, um... it'd be nice if I looked\nas cool\nas the others when I run...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "No, no, no! I sense that you're holding\nback,\nYukino!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "You need to reveal more of your inner\nfeelings!\nDon't you want to bring honor\nto your\nhometown?!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "My hometown...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Give it your all, Yukino! Show those city\nracers\nwhat you can do!",
+            "name": "Older Lady"
+        },
+        {
+            "text": "Thanks for com'n to see me off,\neveryone! You've\neven made a snazzy\nbann'r for me... <i>Sniffle...</i>",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I'm gonna become a real strong\nUmamusume! One\nyou'll all be proud of!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "(That's right... I wanna show 'em I've\nbecome a\ncity girl too!)",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I wanna run a race that'll make all the\nfolks from\nmy hometown real proud!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I wanna show them all that I can shine\njust as\nbright as the city girls!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Hehe, now <i>that</i> was an interview! You\nfully\nexpressed how you feel about your\nhometown\nand racing!",
+            "name": "Сакура Бакушин-О",
+            "choice_data_list": [
+                "I liked the confidence!"
+            ]
+        },
+        {
+            "text": "Сакура Бакушин-О's spirited running and\n\nperfectly timed bursts of speed are\namazing."
+        },
+        {
+            "text": "I tell Yukino that if she can learn from\nBakushin\nO's running, her strategy\nrepertoire will expand,\ngiving her the\nedge in races."
+        },
+        {
+            "text": "Yes, exactly! EXACTLY! You've got a\nreal\ndiscerning eye on you!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Leave everything to me! Starting today,\nyour\nrunning abilities will be class\nrep-level too!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Z-zowie, sounds like I'll be a force to be\nreck'ned\nwith... Thanks so much!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Not at all! It's all in a day's work for a\nclass\nrepresentative! All right! Get\nchanged and I'll see\nyou at the track!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Although Сакура Бакушин-О is full of\nconfidence,\na sense of unease compels\nme to tag along with\nthem."
+        },
+        {
+            "text": "Now then, let's start with some\n\nclass-representative-style SHUTTLE\nRUNS!",
+            "name": "Сакура Бакушин-О",
+            "choice_data_list": [
+                "What are those?"
+            ]
+        },
+        {
+            "text": "While running back and forth, we shout\nenergetic\nphrases at the top of our\nlungs! This lets us muster\nmore energy\nand speed than normal!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "R-really? Okay, um...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Rock 'n roll!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "That's the spirit! And remember, you're\ncompeting\nwith my gusto as well!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "And with that, Юкино Бидзин and Sakura\nBakushin\nO push through their\nclass-representative-style\ntraining."
+        },
+        {
+            "text": "While a lot of the training exercises\ncome out of\nleft field, they all help\nЮкино Бидзин to learn\nSakura Bakushin\nO's running style."
+        },
+        {
+            "text": "<i>Huff... wheeze...</i> All that's left is the final\nexercise\nto wrap things up.",
+            "name": "Сакура Бакушин-О",
+            "choice_data_list": [
+                "You should rest for a bit first."
+            ]
+        },
+        {
+            "text": "<i>Wheeze... gasp...</i> Y-you're right. Let's\ntake a\nbreak.",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Still, it's pretty impressive that you\nmanaged to\nkeep up with my training\nexercises!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Ehehe... well, you did a tee-rific job of\nteach'n me\nyour runn'n style!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Now then, time for the final training\nexercise! Run\nhowever you please\ntoward the setting sun!",
+            "name": "Сакура Бакушин-О",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "Sweating and gritting your teeth while\nshowing\nreal guts... A class\nrepresentative must embody\nthe spirit of\nyouth!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "If you set your heart aflame with that\nfiery\nfighting spirit you've gained, you'll\nbe able to win\nany race!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "I see! I think I've seen a scene like that in\na TV\nshow rerun!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I remembered someth'n important back\nthere...\nand I guess it gave me the\ncourage I needed!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I'll be just like the characters in that\nshow... All\nright! Time to rock 'n roll!",
+            "name": "Юкино Бидзин"
+        }
+    ]
+}

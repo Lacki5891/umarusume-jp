@@ -1,0 +1,295 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Fan Fest is finally here.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The huge crowds of fans visiting campus\nbring a\nfestive mood with them.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey! You're Сайленс Судзука! You were so\ngreat at\nthe Kinko Sho!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Oh, th-thank you very much.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You're running in today's team relay\nrace, right? I\ncan't wait!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Yes, um... Thank you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She appears a little uncomfortable\nhaving to\ninteract with people in the\npacked crowd.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "Honestly, all these fans...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I never know how I should respond to\nthem.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems a lot of fans here today were\nparticularly\nimpressed by her\nperformance at the Kinko Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We walk around the academy grounds a\nbit, but\nit's not long until we're\ncompletely surrounded.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Watching you run is so inspiring!",
+            "name": "Fan B"
+        },
+        {
+            "text": "When's your next race?",
+            "name": "Fan C"
+        },
+        {
+            "text": "Is it true that you like strawberry mochi?",
+            "name": "Fan D"
+        },
+        {
+            "text": "Um... Well... Uh...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm sorry. I should be getting ready for\nthe relay.\nIf you would excuse me!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She's so cool!",
+            "name": "Fan B"
+        },
+        {
+            "text": "That's part of what I like about her\nthough!",
+            "name": "Fan C"
+        },
+        {
+            "text": "I know, right! She's so stoic and focused\nonly on\nrunning. That's so cool!",
+            "name": "Fan D"
+        },
+        {
+            "text": "It seems her fans love her all the more\nfor her\nreticent nature.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soon afterwards, the relay race is ready\nto begin!\nThe academy's most popular\nUmamusume gather\nup to participate in\nthis special event.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Serving as the commentator for the\nevent is the\nmartial arts-loving El Condor\nPasa!",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's time for a relay caliente! Which team\nwill take\nthe prize in today's scorchin'\nhot contest of\nspeed?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The heated competition unfurls. As it\nnears the\nend, the batons are passed to\neach team's\nanchors—Эйр Грув and\nСайленс Судзука!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The red team's Эйр Грув has the baton\nand\nshe's running like the wind!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But she's not alone! Fuji is hot on her\ntail, passin'\nthe baton off to Suzuka!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's down to the two anchors—Silence\nSuzuka, the\nOtherworldly Front-Runner,\nand Эйр Грув, the\nEmpress!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Can the red team keep their lead? Or\nwill the\nwhite team catapult ahead?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The crowd of spectators goes wild.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And there you have it! Эйр Грув flies\nahead to\nthe finish line! The relay goes\nto the red team!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Good job! You almost had it."
+            ]
+        },
+        {
+            "text": "Oh, Trainer. Yes... It was close.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Even though I had a slow start... in the\nend, Air\nGroove's final dash was just too\npowerful.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I wish I could have taken the lead.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You sound a little frustrated."
+            ]
+        },
+        {
+            "text": "Yeah. I almost feel like I should\napologize to\neveryone...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Apologize for what?"
+            ]
+        },
+        {
+            "text": "Well... Because there are so many\npeople who\ncame to see me win.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "(This is unexpected!)"
+            ]
+        },
+        {
+            "text": "Why do you look so surprised?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It's nothing. Next time, you'll win!"
+            ]
+        },
+        {
+            "text": "...?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yes. Next time, without a doubt.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Que rápido! The white team might have\nthe upper\nhand! They pass their baton\njust a tiny bit ahead!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The showdown between Сайленс Судзука,\nthe\nOtherworldly Front-Runner, and Air\nGroove, the\nEmpress, is on!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Fly, Сайленс Судзука! You can do it!",
+            "name": "Fan A"
+        },
+        {
+            "text": "You've got this! You've got this!",
+            "name": "Fan B"
+        },
+        {
+            "text": "(...All this enthusiastic cheering... It's like\nI'm\nrunning at a racecourse.)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(I... I want to see what lies beyond this\npassion!)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...Hah!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The crowd goes wild.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Сайленс Судзука does it! She flies across\nthe finish\nline and takes it for the white\nteam!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "Hehe. Thank you.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "The crowd really went crazy!"
+            ]
+        },
+        {
+            "text": "Yes. It felt like we were at a racecourse.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The sounds... The atmosphere... The\nvibrations!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I went beyond the passion of the crowd\nand\nfound a calm place all my own...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Though, I wish I could have better\nexpressed my\nappreciation for my fans.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Just show it through your racing."
+            ]
+        },
+        {
+            "text": "My racing?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It's exactly what they want to see."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe, is that right? In that case...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll just have to keep doing what I do\nbest.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems the events of today's Fan Fest\nhave\ngiven Сайленс Судзука a motivation\nboost.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems the events of today's Fan Fest\nhave\ngiven Сайленс Судзука a motivation\nboost.",
+            "name": "Монолог"
+        }
+    ]
+}

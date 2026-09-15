@@ -1,0 +1,93 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Huh? I won? Against... Ayabe?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i>",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I did it... I really did it! I truly gave it my\nall! <i>Sniff!</i>",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But... I'm not like Ayabe. I have no one\nto offer\nthis star to.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'm sure you'll find someone if you look."
+            ]
+        },
+        {
+            "text": "I can, can't I? Then, I'll take this star and\ngive it\nto...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Opera O!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Isn't it a little strange to give it to your peer?"
+            ]
+        },
+        {
+            "text": "Ohhh... is that so? Then...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll give it to you, Trainer. Please, before\nit gets\ncold...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Oh no, I can't take it."
+            ]
+        },
+        {
+            "text": "But why nooot?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "What are you... doing?",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Ack?! Ayabe! Well, um...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Sorry for... getting in your way. But this\nwas a\nreally important match to me, so...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You don't have to apologize. I'm not\nbothered.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I lost because I was too weak. That's all\nthere is to\nit. See you.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Oh... And you ran well, Мэйсё Дото.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Huh? Um... Okay.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Trainer... Ayabe wasn't upset with me...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I might have won today, but...\nHopefully,\nsomeday...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll be able to run like she does—for the\nsake of\nsomeone else.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Адмайр Вега looks up at a daytime star,\n\nundeterred in the face of her broken\ndreams.\nМэйсё Дото, quietly from\nbehind, sends her off\nwith a polite bow\nof respect."
+        }
+    ]
+}

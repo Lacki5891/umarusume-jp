@@ -1,0 +1,190 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as I'm passing by the park...",
+            "name": "Монолог"
+        },
+        {
+            "text": "So, do you like it, Taiki?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yeah, it tastes good! Hoo boy has it got\na bitter\nkick to it, though!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Shucks, I'm tryin' ta think how them\nfancy folk'd\ndescribe it. You sure brew a\nmighty fine \"cuppa!\"",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hehe. Why, thank you for saying so. ♪",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Having another tea session?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer. That's right. Taiki and I\ndecided to\nhave one at the park today.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's an outdoor tea party! I'm havin' a\nblast!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Which reminds me! I brought some\ndonuts to\nenjoy!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Betcha this'll solve that lil' bitterness\nproblem!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Sit tight while I go get 'em.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "SWEET MOTHER OF MERCY!",
+            "name": "Тайки Шаттл",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "A wasp! And a darn big one, too!\nAAAAAH!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Oh... it's just a bee. Perhaps the sugary\nscent of\nthe donuts drew it here?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Help me, Grass! HEEEEELP!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Yes, I can take care of this. The best\nthing to do\nis...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Be careful!",
+                "Make the first move!"
+            ]
+        },
+        {
+            "text": "Yes, I can take care of this. The best\nthing to do\nis...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Be careful!",
+                "Make the first move!"
+            ]
+        },
+        {
+            "text": "Yes, very true. As long as we stay still\nand don't\ndisturb the bee...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ooh... So, make like statues and we'll be\nsafe?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Yes, perfectly safe. So try to calm down,\nokay,\nTaiki?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We follow Грасс Вандер's instructions\nand sit\ncompletely still.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Bzzz...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! Graaaass! We ain't goners after all!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Very well. Bees tend to stay where it's\nsunny, so\nwhy don't we move into the\nshade?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "A-all righty. Then let's shake a leg like\nwe're\nrunnin' a race. Ready?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "No, no, Taiki. We have to move slowly\nso as not\nto disturb the bee.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh! So we gotta be silent like a ninja?!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Yes, like that. Now is your chance to be\na ninja,\nTaiki. So, let's do our best. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Gotcha! I'm Ninja Shuttle, sneaky and\nsilent!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Eeeeasy does it...",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "The three of us make it to a safe spot.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew. Everything is okay now.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ugh... Back when I was a kiddo in the\nStates, I was\ntaught not to mess around\nwhen a killer bee's in\ntown.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Ugh... Back when I was a kiddo in the\nStates, I was\ntaught not to mess around\nwhen a killer bee's in\ntown.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "That was so scary! My knees are\ntremblin' even\nnow!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Bees in the States sometimes cause\nserious\nincidents, so it's no surprise many\nchildren are\nafraid of them.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You don't seem scared, Grass..."
+            ]
+        },
+        {
+            "text": "That's a fact! Grass's approach was\nwonderfully\nperfect!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hehe. I'm glad you saw it that way. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Know thine enemy, as the saying goes.\nIt's\nprecisely because they are scary that\nI learned as\nmuch as I could about them.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "There is nothing to fear as long as you\nhave a\nplan.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Wow, Grass! That's a tasty cuppa\nwisdom ya\npoured!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I'm not sure I'd use that exact phrasing...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер's level-headed strength\nwas on full\ndisplay this afternoon.",
+            "name": "Монолог"
+        }
+    ]
+}

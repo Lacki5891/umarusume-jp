@@ -1,0 +1,217 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm so pumped about today's drive,\nTrainer! Let's\nput the pedal to the metal!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm so pumped about today's drive,\nTrainer! Let's\nput the pedal to the metal!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And away we go!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The tires squeal as Марузенски's bright\nred sports\ncar takes off!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Aren't you going a bit fast?!"
+            ]
+        },
+        {
+            "text": "Oh, this is nothing!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We're about to get on the highway... and\nI feel\nthe need for speed!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The car barrels onto the highway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're only just getting started! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We're speeding up even more!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Aaaaah!"
+            ]
+        },
+        {
+            "text": "Let's see what this baby can do! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Check out these mad cornering skills!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yahoo!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The sports car drifts through a turn!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Watch out!"
+            ]
+        },
+        {
+            "text": "Chillax over there!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I've got it all under control!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The car gains even more speed!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Woohoo! Let's kick this party into high\ngear!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I mean, we <i>are</i> out for a drive after all!\nHehe! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "Hm? Is something wrong, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hm? Is something wrong, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hello? Anybody home?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Uuugh..."
+            ]
+        },
+        {
+            "text": "Hey, are you okay? Am I going too fast\nfor you?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Let's push it to the limit!",
+                "Let's take a break..."
+            ]
+        },
+        {
+            "text": "Yeah! Now you're talking!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's break on through, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's break on through, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Break on through to the other side of\nthe sound\nbarrier, I mean! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Together, we can go anywhere!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Together, we can go anywhere!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What a view...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's my first time coming to this kinda\nplace. I've\nnever seen anything like it.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I guess this is what it means to go\nwherever the\nwind takes you...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yeah, I understand. It's never good to go\n\noverboard, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "There's a rest stop just up ahead. We'll\npull in\nthere.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски parks at the rest stop.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Ugh... My head is spinning...)"
+            ]
+        },
+        {
+            "text": "You okay, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You okay, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I got you a drink.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Thanks. Ahh, that hits the spot!"
+            ]
+        },
+        {
+            "text": "Use that handkerchief, too. I wet it with\ncold\nwater.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "There's a fancy-looking handkerchief on\nthe\ntable.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Put it on your face. It should help you\nfeel better.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Are you sure? It looks expensive."
+            ]
+        },
+        {
+            "text": "Don't worry about it! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You went out of your way to join me on\nthe drive\ntoday.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's only right that I take good care of\nyou in\nreturn! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's only right that I take good care of\nyou in\nreturn! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That same wind carries Марузенски's\nspellbound\nwhisper to my ear.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And Марузенски does continue taking\ncare of me,\nwith the warmth of a true\nfriend.",
+            "name": "Монолог"
+        }
+    ]
+}

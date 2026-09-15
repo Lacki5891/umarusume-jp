@@ -1,0 +1,113 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I decide to watch Эйр Грув\nas she\ndoes some solo dance practice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One, two, three, four. One, two, three,\nfour!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's dance skills are,\nunsurprisingly, top\nnotch. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is there something you'd like to say?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If something is on your mind, speak up.\nYou're\nnot holding back because you're\nafraid, are you?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It appears that the hesitation I'm feeling\nis as\nclear as day to her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Your dance could use a bit more oomph.",
+                "Your routine could do with a bit more\nsophistication."
+            ]
+        },
+        {
+            "text": "Oh? Well, that's a bold piece of\ncriticism.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well, I'll bite. Explain yourself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I explain what aspects of the dance\ncould be\nexpressed with more energy\nand power.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... Your reasoning is sound enough.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Glad it made sense."
+            ]
+        },
+        {
+            "text": "Not so fast!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I have to put your advice into practice.\nYour job\nis to stay here until it's been\nproperly executed.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I suppose you're right."
+            ]
+        },
+        {
+            "text": "Your eyes had better be glued to me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Sophistication? That's not a word you'd\nuse\nwithout a good reason.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You need to be more specific. I'm\nassuming you\nhave something in mind.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I explain what aspects of the dance\ncould be\nexpressed with more finesse\nand grace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Hmph. I see what you mean. Not a bad\nidea.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Glad it made sense."
+            ]
+        },
+        {
+            "text": "Don't get too pleased with yourself just\nyet, you\ndunce!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm going to implement your advice, and\nI expect\na full dissection of my\nperformance after.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Your job is to point out any flaws and\nhelp me\nachieve perfection. Don't blink!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "text": "Then let's get started.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "By the end of the session, Эйр Грув is\ninstilling\nmore intent into her dance,\nthus improving her\nroutine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "By the end of the session, Эйр Грув is\nputting\nfar more power into her dance,\nthus improving\nher routine.",
+            "name": "Монолог"
+        }
+    ]
+}

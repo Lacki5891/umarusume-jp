@@ -1,0 +1,139 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I take Нарита Таисин to the infirmary\nafter she\nsuffers an injury в тренировке.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look, it's not a big deal. It'll probably\njust heal on\nits own.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'd rather it not get worse.",
+                "Okay! Then let's get back to training!"
+            ]
+        },
+        {
+            "text": "Look, it's not a big deal. It'll probably\njust heal on\nits own.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'd rather it not get worse.",
+                "Okay! Then let's get back to training!"
+            ]
+        },
+        {
+            "text": "Oh, bug off!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Do you really think I'm some frail wimp?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Is it because I'm shorter than the others?\nBecause\nI'm tiny and weak? Is that it?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'm just worried about you."
+            ]
+        },
+        {
+            "text": "Well, I don't need you to!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Why don't you stop worrying and use\nyour time to\nthink up a training regimen?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Will you rest in the meantime?"
+            ]
+        },
+        {
+            "text": "If she agrees to rest, I'll happily think up\nas many\nregimens as she'd like, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "No, that's not what I'm getting at! Are\nyou even\nlistening to me?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> I don't even know why I bother\nwith you...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I decide to place my trust in her, as she's\n\nprobably the person who knows herself\nbest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmph. Should have started with that.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Okay, clearly that injury is affecting—"
+            ]
+        },
+        {
+            "text": "Oh, be quiet! I can keep going!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I can keep running! I have to... keep\nrunning!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I understand her impatience, but it\nwould be\ndangerous to let her continue.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant...</i> You see?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Seems like your injury really is fine."
+            ]
+        },
+        {
+            "text": "Duh. No way in hell I'm gonna let\nsomething that\nsmall hold me back.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I've gotta do more training than anyone\nelse if I\nhope to beat them.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But you also need to take care of your body."
+            ]
+        },
+        {
+            "text": "<i>Sigh.</i> You're such a nag.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whatever. Stop hounding me and let me\ntrain\nalready!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I won't have to deal with you hovering\nover me all\nthe time once I get stronger.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I manage to calm her down and cut\ntraining short\nfor the day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Таисин loses her will to keep\narguing and\nconsequently agrees to\nreceive treatment for her\ninjury.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Despite her complaints, Нарита Таисин\nfinishes\nthe full training session.",
+            "name": "Монолог"
+        }
+    ]
+}

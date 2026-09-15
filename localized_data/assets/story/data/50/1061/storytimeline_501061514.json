@@ -1,0 +1,175 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Early one morning...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... huff...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, if it isn't Trainer! I don't often see\nyou at\nthis time of day.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Were you doing some morning training?"
+            ]
+        },
+        {
+            "text": "That's right. The weather is so pleasant, I\nthought\nit would be a waste not to go\nfor a run.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It looks like the weather will be this\ngood all day.\nA perfect day for training!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, but I have to get ready for school\nnow. I'll see\nyou later at practice!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I plan on running to my heart's content\ntoday, so\nyou best prepare a suitable\nplan for me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But when training time comes around...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks for waiting, Trainer.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Why are you still in your uniform?"
+            ]
+        },
+        {
+            "text": "Oh, it's nothing. Anyway, do you think\nwe could\ntrain in the pool today?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "After all, it's important to do\ncross-training,\nwouldn't you agree?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Alternatively, even a lecture would\nsuffice.\nKnowledge is also essential when\nit comes to\nrunning, is it not?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Didn't you say today's weather is perfect for\nrunning?"
+            ]
+        },
+        {
+            "text": "W-well, I changed my mind!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Of course running is important. I know I\ngrow\nstronger with every lap I run.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But, you know, having a broad\nperspective can\nreally expand your\npotential!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You might find something you never\nwould have\nnoticed while running—a\nwhole new version of\nyourself!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "A true first-rate is never satisfied! They\nmust\nalways strive to become better!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Well, you do have a good point."
+            ]
+        },
+        {
+            "text": "Ohohoho! But of course!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now then, whether it's swimming or\nstudying, let's\ndo something other than\nrunning!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Huh? Oh, King!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, hello, Спешл Уик.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm sorry, but I can't go partner running\nwith you.\nWe've just decided not to run\ntoday.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, I was wondering about that,\nactually. I\nthought that maybe you could\nrun in your school\nuniform or something.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I mean, you told me this morning you\naccidentally\nput all of your tracksuits in\nthe wash at once\nand—",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hey! There's no need to go into details!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "Ohohoho! It's nothing! Don't mind her,\nTrainer!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Come on, don't just stand there! It's time\nfor us to\ndiscover my hidden potentials!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Right, let's focus on training other skills!",
+                "Sounds like you made a little mistake."
+            ]
+        },
+        {
+            "text": "I knew you were my trainer for a reason!\nRunning\nis something you can do\nanytime... Just not now!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Um... I can lend you a tracksuit if you\nwant...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It's not like I'm doing this because I\ndon't have a\ntracksuit! Cross-training is\nalso important, you\nknow!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "N-not at all! It's not like I put all my\ntracksuits in\nthe washing machine by\nmistake!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But fine! If you want to see me run that\nbadly, just\nwait while I get changed!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "There! Now I can run as much as you\nwant!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "In your signature racewear?"
+            ]
+        },
+        {
+            "text": "I simply feel more motivated this way!\nCome on,\nСпешл Уик. It's time for\npartner running!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Huh?! W-wait!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Whether it's because of the sunny\nweather or\nsomething else, Кинг Хало\ntakes off at top speed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало insists on practicing other\nskills today.",
+            "name": "Монолог"
+        }
+    ]
+}

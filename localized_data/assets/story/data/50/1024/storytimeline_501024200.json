@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of Маяно Топ Ган's debut has\narrived!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look at me, Trainer! I'm not wearing a\ntracksuit\ntoday!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Do you know why?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Because it's your debut!"
+            ]
+        },
+        {
+            "text": "Bingo! You get a gold star and an A++\nfrom me!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You know what that means, right? You\ngotta\nkeep your eyes on me! Got it?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll show you just how brightly I can\nsparkle in the\nTwinkle Series! ♪",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

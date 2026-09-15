@@ -1,0 +1,147 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Шипп puts on a fantastic\nperformance and\ncomes in first place!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I think having a rival gave her an extra\npush to\nreach the top.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There were laughs, and there were\ntears...\nLooking back, I definitely took\nthe long way\nround getting here.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But despite that, those days were worth\nit! They\nled me to today's victory!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The romance of the journey... It warms\nthe heart\nlike, well, chestnuts roasting\non an open fire!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I lost to her <i>again?!</i> But hooow?!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "I'm just saying, but this time and last\ntime were\ntotal flukes, okay?! I'm totally\nwinning next time!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Oh? Have something to say to me, do\nyou?\nYou've got chestnuts, I'll give you\nthat.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Anyway, sure! I'll be waiting for you at\nthe next\nbig race! Be there, or be\nsquare!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh, I'll be there all right, and you're\ngonna wish\nyou'd never challenged me!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "It looks like another showdown with\nТосэн Джордан\nis in the cards.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now to head off in search of new\nchestnuts...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...Oh? There's something on the ground\nwhere\nJordan was standing.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Let's see here... A piece of paper with\n\"RI\" on it?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Could it be a clue?"
+            ]
+        },
+        {
+            "text": "Probably. So far I've gotten \"UM,\" then\n\"QUA,\"\nand now \"RI\"...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yeah, that doesn't make a lick of sense!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Once again, our mystery puzzle-giver\nhas fulfilled\ntheir promise and given us a\nnew clue.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There must be a reason why someone is\ndoing\nthis, considering all the effort\nthat's been put into\nit, but I have no\nidea what it is. Just then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yes! Excellent!  There is no greater\ntreasure than\na bond formed in the heat\nof battle!",
+            "name": "???"
+        },
+        {
+            "text": "That familiar voice is the same one I\nheard before!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(That voice... Can it be?!)"
+            ]
+        },
+        {
+            "text": "The person who wrote the Book of\nSecrets and\nprepared the clues... I have\na feeling they're\nsomeone we know fairly\nwell!",
+            "name": "Монолог"
+        },
+        {
+            "text": "That night, Голд Шипп has the same\ndream again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Ship of gold, resting beneath the\nwaves...\"",
+            "name": "???"
+        },
+        {
+            "text": "\"Uncharted territory lies just before\nyou... Now is\nthe time to unleash your\ntrue potential...\"",
+            "name": "???"
+        },
+        {
+            "text": "<i>Yaaawn...</i> That dream again, huh? It's\ngetting\npretty old at this point...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So sleepy... Maybe practicing the Trinity\nPose will\nwake me up.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I see you're wastin' time on useless crap,\nsame as\never.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Oh, hey Nakayama. Wanna join m—hm?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "(Whoa, what's with this sense of déjà vu?\nWait,\nNakayama kinda sounds like the\nperson in my\ndream...)",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, are you the one who keeps showing\nup in my\ndreams?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...The heck?",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "That's quite a question... You take one\ntoo many\nhits to the head or something?",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "A swing and a miss, huh? Never mind.\nForget I\nsaid anything.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "(I dunno what any of this means, but\nsomething's\ntelling me Nakayama might\nbe my next key to\nsolving this mystery...)",
+            "name": "Голд Шип"
+        }
+    ]
+}

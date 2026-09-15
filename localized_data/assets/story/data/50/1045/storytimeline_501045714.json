@@ -1,0 +1,107 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Супер Крик's injury has been fully\ntreated.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Um... You're going to make me blush if\nyou keep\nstaring at me like that.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Stop pretending like you're fine."
+            ]
+        },
+        {
+            "text": "I'm not pretending! If I just sit still, then\nit's no\nbig—",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "<i>Stare</i>"
+            ]
+        },
+        {
+            "text": "There you go staring again. Stop picking\non me!\nHmph!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...Honestly, it does hurt, but it's nothing\nto worry\nabout.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm being serious... Okay?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I'm still worried.",
+                "I'll cry if I find out you're lying, you hear me?"
+            ]
+        },
+        {
+            "text": "I'm being serious... Okay?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I'm still worried.",
+                "I'll cry if I find out you're lying, you hear me?"
+            ]
+        },
+        {
+            "text": "...I see. Well, I wouldn't want to make\nyou worry.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "All right then. I hate to take advantage\nof your\nkindness, but just this once...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Do you think you could stay with me\nuntil I'm\nbetter? I'm so sorry...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh? Well, that won't do at all.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm sorry, Trainer. It really does hurt a\nlot.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Gah, what do I do? I don't want you to\nhave a\ntough time because of me...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Mrgh! B-but it hurts...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Goodness me. Hehe, silly Trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If I make you cry, I'll just have to own my\nmistake\nand comfort you.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll give you a <i>biiiiig</i> hug, and then... Oh,\nright.\nThat means I have to get better\nfast.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...You're so cute, Trainer. Thanks for\n\neverything! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I give Супер Крик the care that she\nneeds, and\nshe happily pats me on the\nhead.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик smiles through the pain to\nstop me\nfrom worrying.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After calming the flustered Супер Крик,\nI take\nmy time tending to her injury.",
+            "name": "Монолог"
+        }
+    ]
+}

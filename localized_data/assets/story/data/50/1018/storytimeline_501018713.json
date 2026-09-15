@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I escort Эйр Грув to the infirmary after\nshe\nsuffers an injury в тренировке.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh. The thought of falling behind due\nto such a\nsmall injury is...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'm sorry, I should've been more cautious.",
+                "We'll make up for it when you're all better!"
+            ]
+        },
+        {
+            "text": "Ugh. The thought of falling behind due\nto such a\nsmall injury is...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'm sorry, I should've been more cautious.",
+                "We'll make up for it when you're all better!"
+            ]
+        },
+        {
+            "text": "It's not your fault.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I was the one doing the exercise—I'm the\none who\nneeds to reflect on what\nhappened.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This makes for a good lesson though.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Easier said than done. Every second\nwasted is a\nsecond you'll never get back.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This failure on my part will continue to\nhaunt me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Easier said than done. You can't make\nup for lost\ntime with a run-of-the-mill\nwork ethic.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Do you understand the consequences of\nwhat\nyou're insinuating?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We'll both give it our all!"
+            ]
+        },
+        {
+            "text": "Heh... Good answer.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Then get ready to continue training at a\nmoment's\nnotice.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I shall strive to avoid repeating such a\ncareless\nmistake in the future.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All I can do is accept the loss and\ndouble down\non my training once I\nrecover.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll be back at it as soon as I've\nrecovered from\nthis irksome injury!",
+            "name": "Эйр Грув"
+        }
+    ]
+}

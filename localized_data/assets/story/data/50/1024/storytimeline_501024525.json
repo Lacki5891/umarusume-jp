@@ -1,0 +1,150 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As we're discussing strategies for the\nnext\nscrimmage...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What?! No way! I wanna fly at top\nspeed!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Don't you want to see me blow past the\n\ncompetition at Mach 10?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You need to be a late surger this time—"
+            ]
+        },
+        {
+            "text": "No way! If you're gonna go that far, then\nyou\nneed to get me in the mood!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "If you show me a good time, I'll listen to\nwhat you\nhave to say!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Why is this so challenging?",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's a bit moody, so it'll probably be\nfor the best\nif I just go with the flow and\ntry to make her\nhappy.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's fight for it!"
+            ]
+        },
+        {
+            "text": "Okay! ♪ What kind of fight?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "A staring contest. First one to look away loses!"
+            ]
+        },
+        {
+            "text": "Why something so simple? ...Whatever,\nlet's do it!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "<i>Staaaaare.</i>"
+            ]
+        },
+        {
+            "text": "Oh?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "T-Trainer... Don't look at me like that...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Nooo! I can't stand it!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Heh. Looks like I won."
+            ]
+        },
+        {
+            "text": "W-wait! I want a rematch! I'll definitely\nwin this\ntime!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган and I keep up this\ngame for a\nwhile and have a surprising\namount of fun.",
+            "name": "Монолог"
+        },
+        {
+            "text": "However, it doesn't take long before she\nstarts\ngetting bored of the meeting.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about we take a break?"
+            ]
+        },
+        {
+            "text": "We go for a walk around campus.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ehehe! ♪ Out on a stroll with Trainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's like we're on a date! Just the two of\nus walking\ntogether!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Don't you think so? ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "As long as you're having fun."
+            ]
+        },
+        {
+            "text": "If I could just get her to have fun <i>and</i>\nunderstand\nthe importance of strategy...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Should we relax a bit and watch a video?"
+            ]
+        },
+        {
+            "text": "Totally!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What should we watch? Maybe a\nromantic\ncomedy? Ooh, I can't wait! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Hey, what is this?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "<i>The Fundamentals and Essence of Racing\nStrategy</i>."
+            ]
+        },
+        {
+            "text": "You said we were going to relax! How is\nmore\nstudying relaxing?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I thought you'd understand better if we\nreviewed the basics."
+            ]
+        },
+        {
+            "text": "You're a meanie, Trainer! You can't play\nwith a\ngirl's feelings like this!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Suddenly angry, Маяно Топ Ган\nstorms out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ultimately, she promises to follow my\nstrategy\nwhen she runs in the scrimmage.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With her enthusiasm renewed, Mayano\nTop Gun\npromises to follow my strategy\nwhen she runs in\nthe scrimmage.",
+            "name": "Монолог"
+        }
+    ]
+}

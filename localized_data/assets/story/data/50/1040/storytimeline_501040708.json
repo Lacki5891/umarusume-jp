@@ -1,0 +1,61 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I... won.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Trainer, I won! I finished first!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And the whole crowd was\nwatching—watching me\n<i>run,</i> not just\nstand there looking pretty.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You showed them your true skill!",
+                "You have what it takes to go for more!"
+            ]
+        },
+        {
+            "text": "And the whole crowd was\nwatching—watching me\n<i>run,</i> not just\nstand there looking pretty.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You showed them your true skill!",
+                "You have what it takes to go for more!"
+            ]
+        },
+        {
+            "text": "My true skill! Damn, okay, I like the\nsound of\nthat. Like I have all this hidden\npotential or\nsomething.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Haha, I'm so confused. Somehow I'm,\nlike, more\nexcited than I was before the\nrace.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey, Trainer, when's the next one? I\nwanna run\nmore and more.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What? You're not going to compliment\nme first?\nWould it hurt to let me enjoy\nthis victory?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ah... But I'm still smiling. I can do even\nbetter,\nhuh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It actually makes me really happy to\nhear you say\nthat. I mean, my manager\ntells me the same thing,\nbut you believe\nin my <i>strength.</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, I can't let you down now, can I?\nAll right,\nstarting tomorrow, no more\ngoing easy on me!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I want to run and win, and let everyone\nknow that\nI'm not just some pretty doll!",
+            "name": "Голд Сити"
+        }
+    ]
+}

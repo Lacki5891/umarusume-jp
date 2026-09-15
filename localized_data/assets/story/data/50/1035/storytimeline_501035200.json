@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally Уиннинг Тикит's turn to make\nher\ndebut!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aaaaagh! M-my time is here, Trainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Th-the nerves are making my heart\npound like\ncrazy! I'm feeling kinda itchy\nall over too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Am I gonna be okay?! I hope I can still\nrun!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You'll do fine, Ticket!"
+            ]
+        },
+        {
+            "text": "Whoa! You're really sure! That's\nreassuring,\nTrainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I guess I do feel a little braver now. I\ncan do\nit! I'm gonna be fine!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "If I let a little thing like a debut scare\nme, I'll\nnever make it to the Derby!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All riiight! I'm gonna give it all I\ngot—FOR THE\nDERBY!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

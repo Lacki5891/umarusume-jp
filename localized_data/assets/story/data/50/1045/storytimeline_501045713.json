@@ -1,0 +1,96 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm sorry for making you waste your time\ntreating\nmy injury...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Don't worry about that. How's the pain?"
+            ]
+        },
+        {
+            "text": "I'm fine. It's nothing to look so worried\nover.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm barely even hurt. It's minor enough\nfor me to\nbe able to treat myself...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I still want to help with whatever I can.",
+                "This is all part of a trainer's job."
+            ]
+        },
+        {
+            "text": "I'm barely even hurt. It's minor enough\nfor me to\nbe able to treat myself...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I still want to help with whatever I can.",
+                "This is all part of a trainer's job."
+            ]
+        },
+        {
+            "text": "Oh my, I can't turn down such an\nadorable offer\nlike that.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But really, please don't worry about me.\nI'll be\nbetter in no time.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It hurts me more to see you upset.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Of course, I suppose I'm the cause of it...\nSo I'm\nsorry for making you worry.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Trainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I understand. Then I'm in your care.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe... I really do love the cool and\ndependable\nside of you too.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Who's a good Тренер?! Yes, you are!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh, deary me. What a surprise!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You're usually so cute, but now you've\ngot this\nserious look of maturity on your\nface...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "My heart... It won't stop pounding!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe... Thank you, Trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll make sure to train with everything\nI've got\nonce I'm all better.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик forces a smile, but she still\nseems\ndown. She pats my head as I take\ncare of her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I cheer up the demoralized Супер Крик\nso that\nshe rests peacefully.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик smiles with joy as I tend to\nher injury.",
+            "name": "Монолог"
+        }
+    ]
+}

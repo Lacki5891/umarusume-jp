@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One morning at the academy entrance...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yaaaaawn...</i>",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You look tired."
+            ]
+        },
+        {
+            "text": "Huh? Oh. Morning.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I was doing some modeling work until\nlate last\nnight, so naturally I was late\ngetting home too...\n<i>Yaaawn.</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Meh, it's not like I'm gonna be late, so I\nguess I'll\ntake my time.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Isn't class starting soon?",
+                "Yeah, there's no point in rushing."
+            ]
+        },
+        {
+            "text": "Huh? Nah, there's no way—gah, you're\nright!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Uh-huh. It's important to always stay\ncool and\ncollect—",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Bing-bong, bang-bong...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's the school bell! Crap, crap, crap. I\nguess\nthe time on my alarm clock was\noff.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wait, but I might still make it if I run.\nWell, catch\nya later. You'd better not be\nlate either!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Looks like the time on my alarm clock\nwas off...\n<i>Sigh...</i> I guess I'd better get a\nmove on. Thanks,\nthough.",
+            "name": "Голд Сити"
+        }
+    ]
+}

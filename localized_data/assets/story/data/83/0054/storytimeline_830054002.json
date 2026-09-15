@@ -1,0 +1,215 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's my day off, so I decide to go watch\nan\noff-campus marathon for inspiration...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Dash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "And the winner iiiis... Найс Нэйчер!",
+            "name": "Marathon Director"
+        },
+        {
+            "text": "...Phew! I finished off strong!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nice work!"
+            ]
+        },
+        {
+            "text": "Oh, uh, thanks... You came to watch,\nhuh?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "YЭпизод So I guess you felt like racing?"
+            ]
+        },
+        {
+            "text": "Well, yeah. Do you remember what\nPalmer told\nme before?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I wanted to try that whole \"escape the\nordinary\"\nthing she suggested.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Look around... Not all these participants\nare from\nthe academy. I figured that\nracing against new\nfaces might feel kind\nof refreshing...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Dang it! I lost!",
+            "name": "Black-Haired Umamusume"
+        },
+        {
+            "text": "But that was so incredible, Nature! I\nhope I can\nbeat you someday!",
+            "name": "Black-Haired Umamusume"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ahaha, I know how you feel, but I'm not\nso sure\nwe stand a chance!",
+            "name": "Long-Haired Umamusume"
+        },
+        {
+            "text": "Your specialty's short races, right? Why\ndon't you\njust stick to those?",
+            "name": "Long-Haired Umamusume"
+        },
+        {
+            "text": "No way! I won't give up! I <i>can't</i> give up!\nI've got\nthis feeling inside me that I can't\nignore...",
+            "name": "Black-Haired Umamusume"
+        },
+        {
+            "text": "I <i>will</i> win someday! My heart, my body,\nand my\nsoul are all crying out for victory!",
+            "name": "Black-Haired Umamusume"
+        },
+        {
+            "text": "Her heart... is crying out?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Everything was perfect! I had the win in\nthe bag!\nBut that darn Teio just had to...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Dang it, dang it, <i>dang it!</i> I can't <i>believe</i>\nthis!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Huh. I guess I felt the same way.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's because she hasn't given up that\nshe's frustrated and\neager to win.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I get it now... That's why when I lost to\nTeio, I felt so...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Huh?! N-nothing! Anyway!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Siiigh...</i> My face's burning up here...\nGuess I didn't\nrealize I was this\nstubborn...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Um, hey. Can I ask you something?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I don't suppose you know any tricks\npeople can\ntry to, you know, cool their\nheads?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Out of the blue, she asks me for advice.\nAnd what\ncomes to mind in the moment\nis...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Go eat something sweet.",
+                "Going for a run might clear your mind."
+            ]
+        },
+        {
+            "text": "Oh, so you think I should get some sugar\nto calm\ndown? Nice idea!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay! I'm gonna go all in! Who cares\nabout a\nlittle heartburn?!\nRub-a-dub-dub, bring on the\ngrub!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Pardon me, ma'am, I'd like a chocolate\ncarrot.\nOh, and a fanfare soda, please!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Here ya are, Natie! Your sweet tooth's\nreally\nacting up today, huh?",
+            "name": "Candy Store Owner"
+        },
+        {
+            "text": "It's just been one of those days! So, any\nother\nrecommendations?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, Nature! Sweet stuff always hits the\nspot after\na hard day of work, huh?",
+            "name": "Black-Haired Umamusume"
+        },
+        {
+            "text": "...Whoa! You're those racers from before!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh my. Do y'all know Natie?",
+            "name": "Candy Store Owner"
+        },
+        {
+            "text": "Yes! We ran together in today's\nmarathon! Nature\nwas <i>so</i> amazing!",
+            "name": "Long-Haired Umamusume",
+            "choice_data_list": [
+                "She really respects you..."
+            ]
+        },
+        {
+            "text": "Hey, now... If you keep that up...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "My face is gonna burn up just as I was\nstarting to\ncool down!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, I get it. But that sounds a little like\na line out\nof a sports movie or\nsomething.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But sure! I'm in! That's exactly what I\nneed right\nnow!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Wheeze... Huff...</i> That was harder than\nthe\nmarathon.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I didn't think you'd be running till sunset."
+            ]
+        },
+        {
+            "text": "Ahaha... Well, me neither. Surprised\neven myself\nthere.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But all that running sure set things\nstraight up\nthere in the old noggin.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "text": "Oh, it's nothing. A little something just\noccurred\nto me is all.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I just figured... I'm actually pretty good\nat\nrunning, you know?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "With a clear head, it looks like she's\ngained a\nlittle confidence.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Despite all her fussing, Найс Нэйчер ends\nup with\nsome sweet treats and even\nsweeter friends.",
+            "name": "Монолог"
+        }
+    ]
+}

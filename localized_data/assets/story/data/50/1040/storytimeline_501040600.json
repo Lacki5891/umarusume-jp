@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow. It's more packed here than at my\nfashion\nshows.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Everyone is here to see you run."
+            ]
+        },
+        {
+            "text": "You think so?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Then I can't be looking tacky out there.\nI'll have\nto spruce up my form.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm going to give it my all on this runway!",
+            "name": "Голд Сити"
+        }
+    ]
+}

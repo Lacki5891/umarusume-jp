@@ -1,0 +1,229 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, during an extended period of\nintense\ntraining, Супер Крик\napproaches me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Did you know Tamtam is growing\nvegetables?\nWant to take a little break\nand go have a look?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh my, you have so many different types\nof\nvegetables.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Pretty cool, yeah? The li'l runts saved\ntheir\nallowances and sent me the seeds.",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "Li'l runts?"
+            ]
+        },
+        {
+            "text": "Yeah, my li'l siblings.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "They say I'll get real fast if I eat a\nbuncha tasty\nveggies.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "But it takes 'em forever to grow. Haha!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Hehe. You look like you're enjoying\nyourself,\nTamtam.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Yeah, well, ya know. I'll let y'all eat\nsome too\nwhen they get nice and big!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "A few days after visiting Тамамо Кросс's\n\nvegetable patch, Супер Крик and I are\ndiscussing\ntraining, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Man... I used fertilizer and everythin'...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Tamtam?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh, hey. You guys want somethin'?",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "You mentioned something about fertilizer just\nnow..."
+            ]
+        },
+        {
+            "text": "Are your vegetables not doing well?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh... Heh. Yeah, well, it's no biggie.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I'll figure somethin' out! No worries!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Um, Tamtam? Why don't we look into\nit\ntogether?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Huh? Whatcha mean by that?",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "Let's find a way to perk your veggies up!"
+            ]
+        },
+        {
+            "text": "Ya seriously don't need ta worry 'bout it.\nI bet\nyou're all busy and stuff.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "And it's not like we got a pro veggie\ngrower\n'round here just readily available\nta help us. It's\nnot somethin' ya can\neasily look up either, so it'd\nbe a waste\nof ti—",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "I'm sure there's someone around with the\nknow-how.",
+                "If we work together, we'll find an answer in no\ntime."
+            ]
+        },
+        {
+            "text": "And it's not like we got a pro veggie\ngrower\n'round here just readily available\nta help us. It's\nnot somethin' ya can\neasily look up either, so it'd\nbe a waste\nof ti—",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "I'm sure there's someone around with the\nknow-how.",
+                "If we work together, we'll find an answer in no\ntime."
+            ]
+        },
+        {
+            "text": "That's right. Oh, what about Flower?\nWhy don't\nwe go and ask her?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Flower? Ya mean Нишино Флауэр?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Ya don't gotta come along. I can go and\nask\nmyself.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Well, I think it'd be best if we all\npepped these\nveggies up together.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You, Trainer, and me! Let's go shower\nthem with\naffection!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Everything shines more brightly when\nraised with\nlots of love.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "L-love? I dunno how ya say such\nembarrassin'\nthings with a straight face...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...It's just a buncha veggies.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Hehe, I know you don't see them that\nway.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Urk...</i>",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "And it's not just the vegetables that I\nwant to\nshower with love.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "My adorable little Tamtam! I want to\nsmother you\nwith affection too! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "H-hell no! Your affection's way too\nsweet!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Ehehe, look at you getting all\nembarrassed.\nAdorable!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I couldn't agree more.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...Listen. Yer gettin' too caught up in my\nbusiness.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I don't want you postponin' your trainin'\njust to\nhelp me out.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Goodness... Did you hear that, Тренер?\nWhat do\nyou think?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "That's that, this is this."
+            ]
+        },
+        {
+            "text": "Hehe, I agree!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Huh? That don't make sense! The hell ya\nsayin'?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "You may as well give in to the\ninevitable.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "While training is important, we can\nalways make\nup the lost time.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But vegetables are living things. Let's all\nwork\ntogether to save them, okay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Nnh...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Their lives were a precious gift from\nsomeone\nspecial. Right?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...Yeah. You're right, Creek.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Sorry, and thanks for the help!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Glad to be of service! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик smiles in response to\nTamamo\nCross's words of gratitude.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик smiles at the sight of\nTamamo\nCross's flushed cheeks.",
+            "name": "Монолог"
+        }
+    ]
+}

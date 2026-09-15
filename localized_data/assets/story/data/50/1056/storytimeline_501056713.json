@@ -1,0 +1,94 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "To think I'd injure myself... This doesn't\nbode well\nat all, Trainer...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Is it that bad?"
+            ]
+        },
+        {
+            "text": "Well... no, the injury itself is nothing\nserious. The\nreal problem is... it's a bad\nsign for the future.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "An injury is a sign of grueling ordeals to\ncome!\nThis must be what the great\nShiraoki is trying to\nwarn me about!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Sigh...</i> Just imagining what kind of\ndisasters will\nbefall me gives me the\nshivers...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Well, let's take it easy for now.",
+                "Weakness attracts bad energy."
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> Just imagining what kind of\ndisasters will\nbefall me gives me the\nshivers...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Well, let's take it easy for now.",
+                "Weakness attracts bad energy."
+            ]
+        },
+        {
+            "text": "You're right. The best thing to do at\ntimes like\nthis is shut yourself awa—I\nmean, stock up on\ngood luck.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "In which case, let's sprinkle purifying salt\nand sake\nall the way home for good\nmeasure!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Hold on a minute!"
+            ]
+        },
+        {
+            "text": "Eek! Y-you're right!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I definitely cannot show weakness! I'm\nstrong and\nI'll be just fine... probably!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Waaah! I don't have it in me! I'm not\nstrong\nenough to do this!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I must be dripping with bad energy by\nnow!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Sigh...</i> Though only barely, it's seems I've\nbested\nmy own weakness.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'll get to resting up and healing my\ninjuries! That\nshould ward off any bad\nluck!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Now all I need is a lucky charm to help\nspeed up\nmy recovery!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару is burning with\ndetermination\nfor our next training\nsession and concentrates all\nher energy\ntoward recovery!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell her not to overdo it, and she takes\nsome\ntime to recuperate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All this commotion only negatively\nimpacts her\ninjury, and as a result, she\nhas to take a few days\noff.",
+            "name": "Монолог"
+        }
+    ]
+}

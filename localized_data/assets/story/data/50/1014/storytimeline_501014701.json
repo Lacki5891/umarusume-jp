@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Early one morning, Эль Кондор Паса\ncomes running\nup to me as I'm making\nmy way to the academy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Buenos días, Trainer!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You're up early!"
+            ]
+        },
+        {
+            "text": "Sí! I got up with the sun today!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "In other words...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm ridin' high and shiny just like the sun!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "So... you're feeling good?"
+            ]
+        },
+        {
+            "text": "Exactamente! That's right!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Watch out, Trainer, or you might get\nburned!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The flames of passion are burnin' outta\ncontrol!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

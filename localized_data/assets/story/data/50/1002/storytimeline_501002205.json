@@ -1,0 +1,146 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At last, it's the day of the Mainichi\nOkan!",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a showdown between three top\ntalents.\nСайленс Судзука, the\nOtherworldly Front-Runner,\nEl Condor\nPasa, the Phantom Bird, and Grass\n\nWonder, the Beast's Successor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The venue is filled with excited\nspectators ready\nto watch what is bound\nto be a truly incredible\nrace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The crowd is electric today.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You don't seem too nervous."
+            ]
+        },
+        {
+            "text": "Hehe. I'm just going to take the lead, as\nalways.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What's there to be nervous about?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Mind if I butt in, Suzuka?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Both El and Grass asked me to give you\na\nmessage.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "What kind of message?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um... El said, let's see... Ahem.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "\"You're goin' down today so I can\ncontinue my\njourney to become the\nworld's strongest racer!\"",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "\"Get ready to eat my dust!\"",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That's it!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "(She sounded exactly like El!)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "As for Grass...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "\"Let's have a good race.\"",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "And that's it!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...That's it?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yep! I know it doesn't seem like much,\nbut I'm\npretty sure Grass is just as fired\nup as El!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "They told me to give you the message to\nlet you\nknow they're excited to race\nagainst you.",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Well, that's gotta make you nervous."
+            ]
+        },
+        {
+            "text": "Hehe, nope. In fact, I feel even more\neager to get\nout there.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The stronger the runners that I leave\nbehind me\nare, the prettier the scenery\ngets.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Спешл Уик is taken aback upon\nhearing\nSuzuka's words.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, can I return the message?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I want 'em to know how fired up you are\ntoo! I\nknow they'll appreciate it!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I don't mind. You're quite fired up\nyourself, Spe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe! It's 'cause all my friends are\nracing! The\nenergy's contagious!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Sorry, I'm totally in the way, aren't I?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Just know I'm rooting for you, Suzuka!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "See you later!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Sounds like everyone's feeling confident."
+            ]
+        },
+        {
+            "text": "Yes, it seems that way.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "However, no matter what those two are\nstriving\nfor, I won't give up the lead to\neither of them!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And so, the stage is set for a thrilling\nMainichi\nOkan!",
+            "name": "Монолог"
+        }
+    ]
+}

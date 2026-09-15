@@ -1,0 +1,38 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Сити and I are on our way\nsomewhere, but\nshe's been holding her\nhead in pain the entire\ntime."
+        },
+        {
+            "text": "Ohh... Oww...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ugh, this is the worst. That medicine isn't\nworking\nat all.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "I'm fine. It's just a little headache.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It happens sometimes when I'm\nmodeling.\nYesterday's shoot was\nespecially tough, with all\nthe harsh\nlighting.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But hey, it's not the first time this has\nhappened,\nso you don't have to worry.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, but I have another shoot today... I\nhope the\nmedicine will start working by\nthen.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити continues to suffer from her\nheadache\nfor some time."
+        }
+    ]
+}

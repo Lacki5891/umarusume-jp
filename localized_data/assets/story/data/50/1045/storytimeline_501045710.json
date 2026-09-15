@@ -1,0 +1,57 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh, dear... I'm at a loss for words...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I wanted to prove to everyone how\nwonderful you\nare, but...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I <i>will</i> win next time. I promise.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I didn't get the results I wanted this\ntime, but you\nstill believe in me... right?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Of course!",
+                "I want you to believe in me, too."
+            ]
+        },
+        {
+            "text": "I didn't get the results I wanted this\ntime, but you\nstill believe in me... right?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Of course!",
+                "I want you to believe in me, too."
+            ]
+        },
+        {
+            "text": "...Right! I'll prove that it was right of you\nto put\nyour faith in me.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I hope you look forward to my next race.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I do believe in you, Trainer. In fact, I've\nnever\nonce doubted you.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But thank you for the reminder. I'll make\nsure your\nhopes for me aren't for\nnothing.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "As long as I have you to guide me, I\nwon't lose my\nway.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll put my all into aiming for first place\nso I can\nspoil you silly! ♪",
+            "name": "Супер Крик"
+        }
+    ]
+}

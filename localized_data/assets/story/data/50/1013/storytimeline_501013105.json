@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Finally, it's that season again!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You seem really motivated this year too!"
+            ]
+        },
+        {
+            "text": "Indeed. After all, I am preparing for the\nautumn\nTenno Sho.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Now that I've conquered the spring\nTenno Sho,\nmy desire to win both spring\nand autumn in\nsuccession has grown all\nthe stronger!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I shall hone my skills even more this\nsummer camp\nso I may achieve a\nspectacular victory for the\nMejiro family!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I'll do everything I can to support you!"
+            ]
+        },
+        {
+            "text": "Thank you. I'll do whatever it takes. I\ndon't care\nhow strict your training is!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Create a regimen that will ensure my\nvictory in\nthe upcoming autumn Tenno\nSho.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин and I begin our final\nsummer\ncamp together!",
+            "name": "Монолог"
+        }
+    ]
+}

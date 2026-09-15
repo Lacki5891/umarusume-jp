@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for training, but Симболи Рудольф\nis\nnowhere to be found. Curious, I make\nmy way to\nthe student council office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Zzz...</i> Mm... Oh... Эйр Грув... It's you...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Sure enough, I find her dozing amid\nstacks of\npaperwork.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No... I don't need that chair moved...\nHeh... Chair\nmove... Эйр Грув...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It seems like she's sleeping peacefully,\nso I decide\nnot to disturb her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Please accept my earnest apologies for\nfailing to\nkeep to our schedule.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Just be more careful next time."
+            ]
+        },
+        {
+            "text": "Of course. I will take pains to ensure\nthat this\ndoes not happen again.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

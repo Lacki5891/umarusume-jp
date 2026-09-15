@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Zzz...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Where am I?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "We are approaching the last stop...\nPlease ensure\nyou take all your personal\nbelongings as you exit\nthe train.",
+            "name": "Train Announcement"
+        },
+        {
+            "text": "Crap... I'm way past where I was\nsupposed to get\noff!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Even if I get off and start going back the\nother\nway, I won't make it back to the\nacademy by\ncurfew.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I could ask my manager... no, they'll be\nbusy with\nthat meeting right now. <i>Sigh...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити later gets scolded for\nreturning after\ncurfew."
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A box addressed to me from Eishin\nFlash's parents\narrives the day after her\ndebut.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(A wreath?)"
+            ]
+        },
+        {
+            "text": "Interwoven in its branches are berries,\ndried\nflowers, and, on closer inspection,\nspices. It's a\nbeautifully symmetrical and\nintricate masterpiece.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Attached to it is a card with the\nmessage,\n\"Congratulations on debuting\"\nwritten in\nperfectly balanced Japanese\ncharacters.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I received the same wreath. The message\naffixed\nto it was different, however.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"May the joy you felt at your debut\ncontinue\nthroughout your racing career.\"\nThat is the wish\nmine is imbued with.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "When I opened the box and smelled the\nfaint\naroma of spices, I immediately\nknew it was made\nby my mother's hand.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "This is handmade?!"
+            ]
+        },
+        {
+            "text": "Yes. My mother has always had a\nfondness for\nmaking wreaths.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "This is just a <i>hobby</i> for her?!"
+            ]
+        },
+        {
+            "text": "That is correct. My parents excel at\nmany things!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Both are dexterous and quick to learn\nwhatever\nthey turn a hand to.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My mother has extraordinary sense for\nwreath\ndesign, as you can see, and my\nfather is\nknowledgeable in many things\noutside the realm\nof confectionery, as\nwell.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "In fact, my mother was the one who\ndesigned\nalmost every piece of furniture\nin our house, and\nmy father was the one\nwho built them!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "They always shied away from praise,\nsaying it's\namateur work, but it is truly\ngorgeous. I would\nlove to show you\nsomeday, actually!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You must really respect your parents."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I do... I respect and admire them greatly.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "To me, they are the symbols of what is\nright.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Can you elaborate on what you mean?"
+            ]
+        },
+        {
+            "text": "Both my parents proudly saw through\ntheir own\nchosen paths. For my mother,\nit was racing, and\nfor my father, it was\nbaking.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"May you accomplish all you want on the\npath\nyou choose.\" That was the message\nwritten for\nme.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I wish to live up to their expectations\nand carry\non as they do. However, I lack\nthe ability to do so\nas I am now.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You don't think you have what it takes?"
+            ]
+        },
+        {
+            "text": "I don't. I'm still so inexperienced—I can't\nhold a\ncandle to my parents.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Once, when I was a child, I made a\nwreath under\nmy mother's instruction.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, mine paled in comparison to\nhers, so I\nasked her how I could improve.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"Experience is something you\naccumulate over\ntime,\" she told me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"If you interlace branches the right way\nand work\nhard to do everything\ncorrectly, all will come\ntogether\nbeautifully in the end.\"",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My mother always created a thorough\nplan for\nher races—just as she did for her\nwreaths—and\ncarried it through to\nperfection.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I still lack the finesse and experience she\nhas. My\nschedule is designed to alleviate\nthese\ndeficiencies of mine.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will see this timetable through to the\nend and\nbecome a better, more proper\nversion of myself...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Then, I can return to Germany with\npride... and\nshow my parents who I have\nbecome.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It seems her profound admiration for her\nparents\nis what caused her to be fixated\non doing things\nthe \"right\" way.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As she calmly talks about her grand\nplan, I can't\nhelp but feel moved\nrealizing it all stemmed from\nher simple\nwish of wanting to make her parents\n\nproud.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's make this happen!"
+            ]
+        },
+        {
+            "text": "Let's!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "If I may ask, where is your wreath now?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Good. All looks well.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I placed it next to your door. That space\nis in\nshade year-round, so there's no\ndanger of the\nwreath losing color.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "text": "Think nothing of it. By the way, could we\ndiscuss\nmy training schedule?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Specifically, I would like to increase my\ntraining\nload leading up to the Japanese\nDerby.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why is that?"
+            ]
+        },
+        {
+            "text": "Learning how much my parents expect of\nme has\nrenewed my determination to\nimprove further.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I previously said that I didn't want to set\nvictory\nas my goal. However... I wish for\nmy mother to see\nme win the Derby.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now that I think about it, she did\nmention how\npassionate she was about\nthe Derby when we first\ntalked about\nher three-year schedule.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why is the Derby so special to you?"
+            ]
+        },
+        {
+            "text": "I suppose it's because...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "When I was young, my mother showed\nme the\nGerman Derby.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The race left a strong impression on me,\nbut then\nmy mother told me something.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She said that some races overseas, like\nthe\nJapanese Derby, are amazing too,\nand how\nthey're a true spectacle every\nsingle year.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So, I asked her if I would be amazing if I\nran in the\nJapanese Derby.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She answered with the largest smile that\nday,\nsaying, \"You would be super, toll\nund klasse,\nFlash!\"",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "All of those words translate to\n\"amazing,\" but I\nhad never heard my\nmother use them in\nsuccession with such\nexcitement before.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Winning the Derby would surely make\nher happy.\nThat being the case, it would\nonly be right to win\nit.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Making her happy is your dream, huh?"
+            ]
+        },
+        {
+            "text": "I'm unsure if \"dream\" is the correct word.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The visions we see while in deep sleep\nare also\n\"dreams.\" Thus, the word itself is\nvague and\nintangible.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "To me, bringing my mother joy is not a\ndream,\nbut a reality that I must make\nhappen.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That's why I want to go over my training\nschedule\nagain to ensure I'll be able to\nwin the Derby.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I'm with you all the way."
+            ]
+        },
+        {
+            "text": "Thank you. Now, concerning when I\nshould start...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I've learned a lot today about how\nimportant\nEishin Flash's parents are to\nher, and what it\nmeans for her to do\nthings the \"right\" way.",
+            "name": "Монолог"
+        }
+    ]
+}

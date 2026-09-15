@@ -1,0 +1,118 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ha ha ha! Trying to place an edict on\nthis\nacademy's nightingale, I see.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I swear, you too are simply making a\nmountain\nout of a molehill. Pain, no\nmatter the type, is\ntrivial for the\nOverlord.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Yes... Be it a gash from a frigid blade of\nice or a\nsearing wound from a raging fire!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "That's how bad it hurts?"
+            ]
+        },
+        {
+            "text": "Indeed! But I will not kneel. My\ndetermination\nshall be known! In fact, I\ncould convey it through\noperatic\nexpression this very moment!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "That's it! We will dance! Now is the time\nto\ncompose a new ballad!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "My courage in the face of hardship will\nlift the\nspirits of all—my own too, of\ncourse.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "This pain shall become my strength.\nTrainer, let us\ngo to the dance studio\nposthaste!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "No, everyone's worried about you.",
+                "...All right, let's give it a go!"
+            ]
+        },
+        {
+            "text": "This pain shall become my strength.\nTrainer, let us\ngo to the dance studio\nposthaste!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "No, everyone's worried about you.",
+                "...All right, let's give it a go!"
+            ]
+        },
+        {
+            "text": "Are you telling me my efforts to\nencourage will\nonly elicit tears of\ndespair?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>Sigh...</i> If you say so, I must hold back.\nAfter all,\nthe Overlord must only inspire\njoy.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "While unfortunate, relenting appears to\nbe best. I\nshall review past scripts in the\nmeantime.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I don't understand her reasoning, but if\nshe's this\nmotivated, I'll take the chance!",
+            "name": "Монолог"
+        },
+        {
+            "text": "This swan spreads her injured wings in\nsearch of\nthe heavens. If she cannot take\nto the skies, then\nshe must dance.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Laaa-di-da-di-daaa! ♪Dooo-di-do-di...\nAck?!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Whoa! Did you twist your ankle?!"
+            ]
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Strength is a double-edged sword... But\nthat is\nbut another aspect... of beauty.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Hum-di-duuum ♪Mm-mm-hmmm ♪",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "...Perfect! The strength and grace of a\nswan\ntaking to the sky is embodied\nthrough these\nmovements!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Well? Did I appear injured to you during\nmy\nopera?",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Th-that opera was amazing!"
+            ]
+        },
+        {
+            "text": "Hehehe... Haaah ha ha! Stand back and\nobserve,\nTrainer!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "For this moment marks the birth of my\nmagnum\nopus!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "With a careless twirl, she twists her ankle\nand\ncollapses in pain. We take the time\nnecessary for\nher to recover.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A crestfallen Т.М. Опера О lies down in\nbed... and\nfocuses on her recovery.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Having saw no signs of an injury during\nher dance,\nwe start training again right\nafter!",
+            "name": "Монолог"
+        }
+    ]
+}

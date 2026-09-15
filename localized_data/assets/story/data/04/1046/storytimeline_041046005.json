@@ -1,0 +1,166 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Heeeey, Trainer! Listen to this!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "One day, as I'm making my rounds\nthroughout the academy, I spot\nSmart\nFalcon running my way with a huge grin on\nher face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm gonna be cheerleading at the next\nTracen Meet! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You mean <i>the</i> Tracen Meet?"
+            ]
+        },
+        {
+            "text": "Held twice a year at Академия Тайсен, the\nTracen Meet is a race that\nnever fails to\nattract a crowd. It's one of the institution's\nlargest\nevents.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yep! The one and only! There's gonna be\nsooo many people coming\nto watch!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I wonder if I can make all those people my\nfans if I dance for them!\nEhehe! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Later that evening, I run into her a second\ntime, but her energy is\ndrastically\ndifferent.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Go, go. You can do it.\nLet's go. Do it, do\nit...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "(Did something happen?)"
+            ]
+        },
+        {
+            "text": "I'm about to call out to her when I notice\nher talk to another\nUmamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> I really wanted to dance, y'know?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yeah... Why'd they put us on flag duty\nanyway?",
+            "name": "Dirt-Racing Umamusume"
+        },
+        {
+            "text": "\"You should do dirt racing!\" this. \"You're\nreally good at twirling a\nflag!\" that. It's like\nwe never get a say in what we do.\nNobody's ever\ngonna notice us at this\nrate...",
+            "name": "Dirt-Racing Umamusume"
+        },
+        {
+            "text": "It appears the two have been assigned to\nflag duty instead of the\nmain cheerleading\nroles.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(How should I approach them?)"
+            ]
+        },
+        {
+            "text": "As I try to come up with something\npositive to say...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, it is what it is, so we might as well\nmake the most of it and do\nour best!\nC'mon, let's get back to practice!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "So we hold it like this... and spin it like\nthat! Then we do this, and...\nvoila! Easy as\npie!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Their flags flutter in the evening sky. As I\nwatch the two flag-bearers\nhandle the\nheavy poles with ease, I begin to\nunderstand why they\nwere assigned that\nrole.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With their practice now complete, Smart\nFalcon's partner takes her\nleave, leaving\nme free to approach the now-alone\nUmamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Phew...</i> That took way more energy than I\nthought it would... I'm\ntotally exhausted!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You twirled that flag like a champ."
+            ]
+        },
+        {
+            "text": "Whoa, Trainer! When did you get here?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "<i>Sigh...</i> I really did want to show off my\ncute dance moves instead of...\nthis.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Flag-bearers are important too."
+            ]
+        },
+        {
+            "text": "I guess that's true... Maybe I'll still be able\nto wow people like this.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон remains a bit doubtful, but\nthe day of the Tracen Meet\narrives\nregardless.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Go! Go! You can do it!\nLet's go! Do it! Do\nit!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон twirls her flag next to the\nbreathtaking dancers, waiting\nfor her time\nin the spotlight. When it's finally her turn,\nshe moves to\nthe center and seizes the\nopportunity.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Go! Go! YOU CAN DO IT!\nLet's go! Do it!\nDO IT!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Wow! Look at her with the flag! She's\namazing!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Yeah! The way she handles that thing...\nI've never seen someone so in\nsync with\ntheir flag!",
+            "name": "Fan B",
+            "choice_data_list": [
+                "(That's it! You're doing it!)"
+            ]
+        },
+        {
+            "text": "...Or so I thought.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Man, these cheerleaders are crazy good!\nAre you seeing this?! Tell me\nwho else\ncould pull off a pyramid like that!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Wow, you're right! And look at their\nbeautiful smiles! They're so cool\nand cute\nthat I can't take my eyes off them! ♪",
+            "name": "Fan A"
+        },
+        {
+            "text": "<i>Sigh...</i> \"The flag-bearers were great, but\nthe cheerleaders were the\nstars of the\nshow!\" is all I keep hearing...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I knew I couldn't compete with them...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You did your best, and that's what matters!"
+            ]
+        },
+        {
+            "text": "But they probably won't remember who I\nam! Maybe they'll be able to\nrecall the\nflag's pattern, but not who waved it...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Some results take time and effort to\nattain, and becoming a top\nUmadol might\nbe one of them.",
+            "name": "Монолог"
+        }
+    ]
+}

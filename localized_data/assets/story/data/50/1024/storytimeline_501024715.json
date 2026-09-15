@@ -1,0 +1,92 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey, hey! Since we've finished training,\ncan I take\nyou somewhere nice?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Somewhere nice?"
+            ]
+        },
+        {
+            "text": "Yeah, you know! The nighttime scenery\nthere is\nawesome and twinkly—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "One, two! One, two! ...Oh, Mayano!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Oh! Hi, Teio! What's up?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I've been looking for you! I told you to\nlet me\nknow if you were going to be\nhome late!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Whoops! ☆ Well, I'm gonna be home\nlate! Sorry,\nTeio!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "All right. I've been itching to run ever\nsince I saw\nPrez's race earlier.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "To put it in your words... You could say\nshe was\ntwinkly.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Whoa! I totally get it! She's super cool\nwhen she\nruns, isn't she?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hmm, now I'm feeling a little excited\nmyself...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Trainer, let's forget that nighttime\nscenery! I\nwanna twinkle!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'll come with!",
+                "Resting is just as important as training."
+            ]
+        },
+        {
+            "text": "Ehe! That's my trainer for ya!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "All right, let's do some pair running!\nThat should\nbe exciting too!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Okay! Time for takeoff! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hm, true that! I need a little rest if I\nwant my skin\nto look twinkly!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I know! I'll steal some of the nighttime\ntwinkle for\nmyself!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll be off then!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Be back by curfew!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "With that, Маяно Топ Ган dives\nheadfirst into\nher additional training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Маяно Топ Ган and I get some good\nrest in\nwhile enjoying the nighttime\nscenery.",
+            "name": "Монолог"
+        }
+    ]
+}

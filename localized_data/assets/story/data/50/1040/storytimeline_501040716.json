@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Before training, Голд Сити is getting an\ninterview\nfor a magazine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What I'm into? Well, I recently started\npracticing\nyoga. I happen to know a\ngood teacher.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I see. Just as expected, you're mindful of\n\nmaintaining your physique!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Um... It's more for relaxation and\nstrengthening\nmy core.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, of course. With the amount of\ntraining you\ndo, I'm sure you don't have\nany trouble keeping\nin shape!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Haha... I suppose you're right.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "That was too close. I would've been\ndone for if I\ntold him the yoga was to\ncomplement my diet.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're dieting?"
+            ]
+        },
+        {
+            "text": "<i>Gasp!</i> Тренер?! Were you listening?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, you know... when I'm hanging out\nwith\npeople like Jordan, I tend to\novereat a little.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ugh, this is embarrassing. I'll have\nreached my\ngoal soon, so don't tell\nanyone about the diet!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Later, and perhaps thanks to the\nbenefits of\ndoing yoga, Голд Сити\nregains her usual physique.",
+            "name": "Монолог"
+        }
+    ]
+}

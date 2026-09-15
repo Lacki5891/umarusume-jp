@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for the Sapporo Kinen, Trainer!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hm? There's a decorative tree over in\nthe\ncorner...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "It's a lilac tree."
+            ]
+        },
+        {
+            "text": "The name has a nice ring to it and all,\nbut what's\nit doing here?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh, it says here that the lilac is the\nofficial tree of\nSapporo.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ooh! This is a very auspicious omen!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What are the chances that this lilac\nwould be\nblooming now?! Lilac has the\nsame amount of\nletters as \"lucky\", and\nthey both start with <i>l</i>. This\nhas to mean\nsomething!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Um, sure..."
+            ]
+        },
+        {
+            "text": "O great gods of the north, I humbly\naccept this\nblessing.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Grant us good fortune. And, if possible,\nsome of\nthat famous Sapporo lamb\nbarbecue too.",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

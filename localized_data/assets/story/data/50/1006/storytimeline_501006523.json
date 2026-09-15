@@ -1,0 +1,83 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap asked me to meet up with her for some \ncardio training before the race, but to my \nsurprise...",
+            "choice_data_list": [
+                "This is an amusement park..."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama and Inari told me that the scary rides are \nthe perfect way to train yourself up."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The excitement of a roller coaster will surely \nstrengthen my heart."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although I suspect that this training won't be of \nmuch help, I decide to go along with her plan all \nthe same."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's like I'm flying. Going this fast is shaking me to \nmy core... My heart isn't the only thing getting a \nworkout here..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Whoa... Where am I? I thought I was on a roller \ncoaster."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Are those the Three Goddesses over there? \nThey look like they're doing a festival dance."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm... I wonder if the dance helps you get \nstronger."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...I can't let them win."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So... you sway from side to side as you break \naway from the group, spin around, and then \nspeed up as you go around the bend."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "\"Those who dance well, race well.\" Is that it? You \nmight be onto something there, Goddesses..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Huh?!",
+            "choice_data_list": [
+                "Did you black out?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I was in a strange meadow somewhere watching \nthe Three Goddesses doing a festival dance."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So I resolutely danced back at them.",
+            "choice_data_list": [
+                "...What?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I felt so much power flowing throughout my body. \nI've definitely grown stronger from it."
+        },
+        {
+            "name": "Monologue",
+            "text": "With a confident smile on her face, Oguri Cap \nlooks like twice the racer she was before."
+        }
+    ],
+    "title": "Oguri's Heart-Pounding Training"
+}

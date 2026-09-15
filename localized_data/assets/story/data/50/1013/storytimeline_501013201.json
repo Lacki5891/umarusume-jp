@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I need to ensure I'm properly positioned\nfor the\ninitial slope.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Think you can do it?"
+            ]
+        },
+        {
+            "text": "...Yes. I can picture it in my head.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The Kobe Shimbun Hai is 2,400 meters\non turf.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "As long as I can remember all the\ntraining I've\ndone up to this point, it\nwon't be a problem.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I shall stay focused and secure victory!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

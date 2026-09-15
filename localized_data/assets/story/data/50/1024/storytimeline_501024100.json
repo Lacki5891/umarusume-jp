@@ -1,0 +1,246 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Starting from today, Маяно Топ Ган\nwill begin\npreparing for the Twinkle\nSeries.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I organize a scrimmage to test her skills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's time for takeoff! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yay! ☆ I'm number one!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> How did that... happen?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So you were being serious... when you\nsaid.. you\nhad a new strategy...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Haha! I thought it'd be interesting to be\nthe front\nrunner this time!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But y'know... ☆ I think I just came up\nwith a really\nfun way to run!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heehee. ♪ Like this!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Boom!</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> Are you sure you're not\ncheating?\nYou have way too much\nenergy...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Excuse me. Do you have a moment?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(This is Найс Нэйчер. She's quite close to\nMayano\nTop Gun, so she's one of the\nracers who agreed\nto run in the\nscrimmage.)",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Don't you think that our twinkly, nerdy\nracer\nknows a bit too much?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Even now it looks like she's coming up\nwith a\nwhole new strategy...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...If there's some kind of trick to it, do\nyou think\nyou could spill it to me?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's true that Маяно Топ Ган tends to\npick up\non things very fast.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But that's her innate senses at work.\nRather than a\ntrick, it's more—",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey! Trainer! Why aren't you looking at\nme?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh. Haha, my apologies. I was just\nborrowing\nyour trainer for a moment.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What?! You can't do that! Trainer is\nmine!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's it, no more running for the day! I\nrefuse to\ndo anything other than go on a\ndate!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Don't \"huh\" me! This is all your fault!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We'll rendezvous in ten minutes at the\nschool\ngates! Do you copy?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Wait a second..."
+            ]
+        },
+        {
+            "text": "I'm gonna go get ready! See you in a\nbit. ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh my... It seems she's quite smitten with\nyou.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'll be taking my leave now. You\nyoungsters don't\nneed someone like me\nin the way.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I guess Маяно Топ Ган and I are going\non a\ndate now...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What are you gonna get, Тренер? I'm\ngonna get a\nsuper boiling hot one with\nhoney whipped cream.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "What are you talking about?"
+            ]
+        },
+        {
+            "text": "Drinks! C'mon, you can't walk down this\nstreet\nwithout a coffee in one hand!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Once we get to the next block, I'll let\nyou have a\nsip of mine! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Come on! Try to look good for the\ncamera, okay?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Three, two, one!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahaha, you've gotta move. I'm taking a\nvideo,\nnot a photo!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "My date with Маяно Топ Ган\ncontinues...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why are you walking so slow? Pick up\nthe pace!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "All right, we're here! Our last spot for\ntoday.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Where are we?"
+            ]
+        },
+        {
+            "text": "It's a racecourse, duh!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The last stop on our date has to be the\nplace\nwhere I twinkle the most!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "(The place she twinkles the most...)"
+            ]
+        },
+        {
+            "text": "Oh, it looks like the next race is about\nto start!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And the leaders round the fourth corner.\nUh-oh,\nit looks like the racer in last\nplace—",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Did you see that cornering just now? I\nknow\nwhat's gonna happen next!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Haha, I knew it! She's gonna fake a pass\nand then\nstay on the ins—wait, what?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! I didn't know you could maneuver\nlike\nthat!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Incredible! That was amazing! Races\nreally are the\nbest way to get your heart\npumping!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Sigh...</i> Look at them. I wanna race on a\nreal track\nas soon as I can.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I wanna run and twinkle like those racers\njust now.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "That'll be you soon enough."
+            ]
+        },
+        {
+            "text": "Wait, you're right! My debut!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Haha! ☆ You'll help me accomplish\neverything I\nwant to do, won't you? ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe... I'm gonna race in the Twinkle\nSeries! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hmm-hm-hmmm... I'm so excited. ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...And so, Маяно Топ Ган and I begin\nour\njourney to take on the Twinkle\nSeries.",
+            "name": "Монолог"
+        }
+    ]
+}

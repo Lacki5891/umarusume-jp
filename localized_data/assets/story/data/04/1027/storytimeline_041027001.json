@@ -1,0 +1,260 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One morning, while on a stroll along the\nriver, I notice a certain\nrunner out of the\ncorner of my eye.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, puff...</i> Ah, good morning!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Morning! Someone's energetic today."
+            ]
+        },
+        {
+            "text": "Hehe, you bet! How could I not be when\nit's so nice outside?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I feel like I could do laps forever in this\nweather. Anyway, I'll let you\nget back to\nyour walk! See ya!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Our short exchange now over, Мэдзиро Райан\ntakes off. Her jog seems to\nbe more for fun\nthan sport, but her form is still consistent.\nIt's honestly\nimpressive.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But that thought is quickly replaced by\nanother, more immediate\nconcern...\nShouldn't she be headed to school?",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, puff...</i> Ah!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "(Maybe she realized the time.)"
+            ]
+        },
+        {
+            "text": "Right, right. I wanted to try out that new\nrunning routine! Better do\none... no, five\nmore laps!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Wait!"
+            ]
+        },
+        {
+            "text": "Whoa! Ah, it's you again... What's up?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You're going to be late..."
+            ]
+        },
+        {
+            "text": "Huh? Late? For wha—aaah! School! I gotta\ngo, and quick!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Aw man, thanks for the heads-up! It was so\nnice this morning, I totally\nzoned out!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Anyway, gotta run! Thanks again!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан dashes off towards the school,\nonce again displaying her\nflawless running\nform.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That same day, after classes...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? You're the person from this morning!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Wait, that badge... Ah, that's how you\nknew I was running late! You're\na trainer\nhere, huh?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Thanks again for the save! And don't\nworry, I made it to school in\ntime!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Good to hear."
+            ]
+        },
+        {
+            "text": "I'd like to pay you back somehow, but\nhow... Ah, I know!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Um, could you come with me for a second?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "All right, we're finally here! As thanks for\nhelping me this morning...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "We're gonna work out together!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "<i>This</i> is how you're thanking me?!"
+            ]
+        },
+        {
+            "text": "You bet! As far as thanks go, this is\nprobably the best I've got!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I've always loved moving my body, you\nsee. In fact, exercise might be\nthe only\nthing I'm good at.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But hey, that just makes me the best kind\nof coach—the kind that\nshows you how fun\nworkouts can be! I'll even come up with\nthe\nperfect routine for you!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ah... Suddenly being asked to work out\nmust be kinda strange, right?\nSorry, I can\ncome up with something else if you like...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My hesitation clearly has Мэдзиро Райан\nfeeling down. I decide to step\nup.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Well, this is certainly a rare opportunity..."
+            ]
+        },
+        {
+            "text": "Seriously?! Awesome! In that case, let's get\nchanged and pump some\niron!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Phew! How's that, Тренер?! Feelin' the\nburn yet?!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Oh yeah... I'm feeling it, all right..."
+            ]
+        },
+        {
+            "text": "Hey, don't sweat it if you're having trouble\nkeeping up! We've just\nbeen waking up\nyour muscles!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "All right, time for the <i>real</i> workout! Well\nhydrated?! Great! Let's get\nSWOLE!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That's it! One more rep! One more! Hm?\nCan't keep going? Okay, just\none more to\nfinish out the set and... Yeah! You did it!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Great job! Do you feel that, Тренер? I bet\nyour heart, your\npectorals—your whole\nbody's screaming out in gratitude!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Y-yeah... You're right! I can hear them!"
+            ]
+        },
+        {
+            "text": "Perfect! Then let's scream back and show\nyour body what it's made of!\nOn to the\nsecond round!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Okay, Trainer... This is it! The final stretch!\nCome on! Count out the\nreps with me!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "One!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Twooo!"
+            ]
+        },
+        {
+            "text": "Threeee! Woohoo! You did it!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Exhaustion consumes me... but it's\naccompanied by a strong feeling of\n\naccomplishment and pride! After all, that\nwas one intense workout!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you do this every day?"
+            ]
+        },
+        {
+            "text": "Nah, today's workout was made with you\nin mind. I'd say I usually do...\nabout four\ntimes more in total.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But any exercise is good exercise as far as\nyour muscles are\nconcerned! Keep it up,\nand you'll see results in no time!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Nothing beats seeing your time go down,\neven by a single second.\nAnd when your\nhard work shows on the track... Man, that's\nsomething\nentirely different!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That moment when you're the fastest on\nthe track... when you cross\nthat finish line\nbefore anyone else...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Feeling your muscles burn and that heat\nspread throughout your\nbody... No better\nexperience than that.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Is that why you run? To feel that?"
+            ]
+        },
+        {
+            "text": "You bet!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hope that's not... too disappointing.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "(...?)"
+            ]
+        },
+        {
+            "text": "Ryan's reaction to my question is a bit\nperplexing, but before I can\ncontinue,\nanother Umamusume approaches her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ryan! Where are yo—ah, there you are!\nFigures you'd be in the gym!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Oh, Ines! What's up?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The tryouts are coming up, remember? I\nfigured you'd be training for\nthat, so let's\nrun together!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Whoa, really?! That'd be amazing! Wanna\nget started right now?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I knew you'd say yes! ♪ I'll go get\nchanged!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Guess I better get going too. Great work\ntoday—I mean it!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "See ya 'round!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Judging from that conversation, Mejiro\nRyan's running in the tryouts...\nWhich\nmeans I'll be able to see how she runs at\nher best.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With something to look forward to, I pack\nup and leave the gym with\na spring in my\nstЭпизод Or... I would if I wasn't so sore.",
+            "name": "Монолог"
+        }
+    ]
+}

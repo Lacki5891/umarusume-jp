@@ -1,0 +1,80 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my lunch break, I look for Mejiro\nMcQueen to\ndiscuss her training\nschedule.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One, two, three... H-huh?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Sigh...</i> It seems I can't do it after all...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Ahh! Trainer! How long have you been\nstanding\nthere?!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Not very long."
+            ]
+        },
+        {
+            "text": "<i>Gulp!</i> But still... you s-saw my... terrible\ndancing?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Please know I don't usually dance this\npoorly! I'm\njust... unaccustomed to pop\nmusic.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Be that as it may, I must live up to\nexpectations\natop the stage as well as\non the racecourse. That\nis a mark of a\ntrue Mejiro.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "No need to worry. I will be dancing like\na star in\nno time!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I can help you with your practice if you'd like.",
+                "Why don't you start by trying to understand the\nsong?"
+            ]
+        },
+        {
+            "text": "No need to worry. I will be dancing like\na star in\nno time!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I can help you with your practice if you'd like.",
+                "Why don't you start by trying to understand the\nsong?"
+            ]
+        },
+        {
+            "text": "N-no, that's quite all right!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Sigh...</i> But that look on your face... I can\nsee that\nnothing I say will sway you.\nGood grief, you are\nquite the worrywart.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "W-well then... Um... If I make a fool of\nmyself,\nplease don't laugh at me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Well... it's true I've been focused solely\non the\nchoreography. Perhaps that's why\nI'm not getting\nit quite right.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm grateful for your advice. I shall start\nby\nreading the lyrics of the song!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "From there, Мэдзиро МакКуин deepens\nher\nunderstanding of the song, allowing\nher to master\nher dance with aplomb.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I join Мэдзиро МакКуин in her training\nand help her\nmaster the dance.",
+            "name": "Монолог"
+        }
+    ]
+}

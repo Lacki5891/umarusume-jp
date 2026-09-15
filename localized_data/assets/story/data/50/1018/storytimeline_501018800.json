@@ -1,0 +1,247 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Эйр Грув and I are called to\nthe\nstudent council office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What is it, President? I came in my\nsignature\nracewear, as requested.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Apologies for the abrupt summons. I\nhave a\nrequest for you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "We're doing a report on signature\nracewear in the\nnext student newspaper.\nAs such, I was wondering\nif you could\njoin me as a model.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You want me to model? But... why me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Why, you ask? Your signature racewear\nis highly\nrated among the students.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It's beautiful, elegant, and\ntough—everything a\nracer could ask for.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "As such, I thought you would be perfect\nto show\nthe other students what it means\nto wear\nsignature racewear—and inspire\nthem to want to\nemulate you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That's very high praise... Thank you.\nVery well. I'll\ngive this challenge\neverything I have, as always.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Haha, I'm glad to hear it. Then why don't\nwe get\nsta—",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Hold it right there!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Teio... Were you hiding in the student\ncouncil\noffice again?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I should be the one standing next to\nPrez in those\npics! <i>Me!</i>",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "What's got you so riled up about this?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Isn't it obvious?! A pic of two people\nstanding\nnext to each other looking like\nthat? It just\n<i>screams</i> \"wedding photo\"!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "That's... certainly not what I was\nexpecting to\nhear. Listen, this is my job.\nThe president\nappointed me to the role.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I don't intend to give it up.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, I'm not gonna give it up either!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Come on, isn't it obvious that Prez and I\nlook way\nbetter together than the two of\nyou?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "We've got similar vibes, you know? I bet\n\neveryone wants to see that picture.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Excuse you?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Calm down, please. I have an idea. Why\ndon't the\ntwo of you pose for the photos\ntogether?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Really? I don't think the message will be\nas strong\nif I'm with Teio...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now hold on a second! What is it about\nme that\nruins the message?!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Do you think either of us carry the same\nweight as\nthe president?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well... not <i>yet</i>...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Dear me. What are we going to do about\nthis?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Just do your best, you two!",
+                "Why not have three models?"
+            ]
+        },
+        {
+            "text": "Hmm... Well, I suppose it's true that the\nresults\nare what matters...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well. No matter who is\nparticipating, I will\nwork to ensure the\nbest possible outcome!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Heh. As reliable as ever, Эйр Грув. I'm\ncounting\non you too, Teio.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You got it! Your mind's gonna be blown\nwhen you\nsee the final product!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "And thus, the photo shoot begins...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um... Do you think you could both make\nthe same\nexpression?",
+            "name": "Photographer"
+        },
+        {
+            "text": "Teio, more dignity, please. You look like\na child.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Puh-lease! You've gotta loosen up, Air\nGroove! It\nfeels like you're about to bite\nmy head off!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I wonder if there's some way of making\ntheir\nexpressions the same. If only there\nwas something\nthat could make them\nboth smile...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I heard the photoshoot isn't going so\nwell. Can I\nhelp at all?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Can you give them a wave?"
+            ]
+        },
+        {
+            "text": "A... wave? You mean, like this?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Look, it's Prez! Heeey!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "President?! I didn't know you were\ncoming!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The photographer doesn't miss a beat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... I see. Yes, it might be an\ninteresting idea\nto have you there as\nwell.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The trust between Umamusume and their\ntrainer,\ndisplayed alongside the beauty\nof the racewear!\nWhat a compelling\nimage!",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "That's not what I—"
+            ]
+        },
+        {
+            "text": "This may require some alterations to the\ntext of\nthe article... No matter, I can\ncontact the editor.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Once Prez is onto something, there's no\nstopping\nher.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You're not wrong.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Thanks to Симболи Рудольф's\nmisunderstanding, I\nend up modeling\ntoo.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, here we go!",
+            "name": "Photographer"
+        },
+        {
+            "text": "<i>Snap!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "A few days later, I go to the student\ncouncil\noffice to check a sample issue.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Doesn't it look kinda like a family photo\nwith me\nin the middle like that?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Wh-what are you... N-nonsense...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Although, you may actually have a\npoint...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This might cause unwanted\nmisunderstanding. We\nmay want to\nconsider a reca—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Are you sure? Your racewear, your\nexpressions,\nyour positions... I think they\nall look great.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President, please!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "When the school paper goes out a few\ndays later,\neveryone loves the picture of\nthe two of them\nbeaming widely.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, the school paper photoshoot\nends in\nsuccess.",
+            "name": "Монолог"
+        }
+    ]
+}

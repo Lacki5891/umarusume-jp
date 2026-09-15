@@ -1,0 +1,240 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At the G1 Takarazuka Kinen, Silence\nSuzuka\nshowed the world her true\nprowess.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's only four months until the autumn\nTenno Sho!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "To prepare, I'd like her to run in the\nMainichi\nOkan, which also takes place at\nthe Tokyo\nRacecourse.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I wanted to talk to you about the next race..."
+            ]
+        },
+        {
+            "text": "Are you thinking of the Mainichi Okan?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She already knows what's on my mind, so\nI simply\nnod in agreement. Winning the\nMainichi Okan will\ntake us one step\ncloser to the autumn Tenno Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With our next race penciled in, it's time\nto get to\ntraining and get Сайленс Судзука\ncloser to\nsurpassing her limits.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah... The weather is so nice...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Suzuka! I challenge you! Do you accept?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "El?!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's Эль Кондор Паса, an Umamusume\nendowed\nwith the spirit of a pro wrestler\nand the lofty goal\nof becoming the\nworld's strongest racer. She's\nalso\nСпешл Уик's classmate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's do a 2,200-meter clockwise race\non the turf\ntrack—no! A 1,800-meter\ncounterclockwise race\nis okay too!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You have five minutes! Prepare yourself\nto feel el\nfuego!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Don't be a nuisance, El. Suzuka is in the\nmiddle of\ntraining.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And here is Грасс Вандер, a refined\nUmamusume\nwith a serene heart and a\nmighty will. She's also\nСпешл Уик's\nclassmate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aw, c'mon! I don't wanna wait until the\nMainichi\nOkan!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "There's no need to be impatient. It's not\nlike the\nrace is going to run off and\ndisappear.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ugh! You're not fooling anyone by\nacting all calm\nand collected!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Just yesterday, you looked so frustrated,\nit was\nlike you were about to cr—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Eep!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Suzuka, I look forward to racing you at\nthe\nMainichi Okan.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Come, El, let's take our leave. You can\nhave your\nbattle with her at the\nracecourse.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Argh! I <i>said</i> I don't wanna wait till then!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...But Grass is right. What's a win if you\ndon't have\nan audience to witness it?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Suzuka, nos vemos at the Mainichi Okan!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I have to beat you first if I'm gonna\nprove I'm the\nworld's strongest racer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "O-of course...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука is clearly unsure how to\nrespond\nto such boisterous passion...",
+            "name": "Монолог"
+        },
+        {
+            "text": "All she can do is watch bewilderedly as\nEl dashes\noff.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uhhh...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. Don't look so puzzled.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Apologies. I couldn't help but overhear\nyour\nconversation.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It seems Эйр Грув's back to her normal\nself,\nthough I can still picture the face of\ndejection she\nwore after the Takarazuka\nKinen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It appears the Takarazuka Kinen left a\ndeep\nimpression on them.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yes... It was a very special day for me\ntoo.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I just wonder why <i>they're</i> so passionate,\nthough.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Haha, oh my. You're something else. Do\nyou\nreally not know?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You've become an entity of ambition for\nthem,\nSuzuka. You're a foe they must\ndefeat if they're\nto continue forward on\ntheir journeys.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In other words, you've become the light\nthey now\nstrive toward.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I have?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Indeed. Not only do you illuminate their\npath to\nsuccess, you also act as the\nhurdle they must\novercome.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I see... I think.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This isn't the first time fellow racers have\nfocused\ntheir competitive spirit on\nСайленс Судзука.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But it's the first time she's realized it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh. I'm glad you understand.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Still... It's like you've taken it all from\nme...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Pardon?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's nothing. I was just thinking how you\nare\nexactly what I aspire to be. That's\nall.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Don't worry. I've already finished making\npeace\nwith what happened.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll do what I must. You should do the\nsame.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You'd better not lose the Mainichi Okan.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I won't!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Very well. I'll let you get back to your\ntraining.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Thank you, Эйр Грув!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Эйр Грув's silhouette is powerful and\nsteadfast\nas she strides off, ever the\nbeacon of strength.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, the first steps toward the\nMainichi Okan,\na battle that transcends\ngenerations, have been\ntaken.",
+            "name": "Монолог"
+        }
+    ]
+}

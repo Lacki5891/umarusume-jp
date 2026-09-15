@@ -1,0 +1,45 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Another loss. <i>Sigh...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I guess this is what happens when your\nmind's not\nin it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I think I've had enough. I can't take any\nmore\nhumiliation.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I think we should keep trying.",
+                "You're not quitting here."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Quit it with that gaze. You're way too\nintense\nsometimes, you know that?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, you're my trainer. Do whatever you\nwant.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Seriously, what are you even thinking? I\njust don't get it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "When you look so determined... how am\nI\nsupposed to refuse?",
+            "name": "Голд Сити"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I bring Уиннинг Тикит to the infirmary\nto get her\ninjury looked at...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aw, man... Looks like I went a teensy bit\n\noverboard...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But it's no problem! This is barely even a\nscratch!\nAnd I had it treated properly!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll focus <i>super</i> hard on healing, so it'll\nbe gone in\nno time! Let's get back to\npractice, Trainer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Actually, let's take the rest of the day off to be\nsure.",
+                "All right, let's go for it!"
+            ]
+        },
+        {
+            "text": "I'll focus <i>super</i> hard on healing, so it'll\nbe gone in\nno time! Let's get back to\npractice, Trainer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Actually, let's take the rest of the day off to be\nsure.",
+                "All right, let's go for it!"
+            ]
+        },
+        {
+            "text": "No, I swear, I'm totally fine! I get little\ninjuries all\nthe time from working out!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "I'm still worried though."
+            ]
+        },
+        {
+            "text": "Wow! Y-you're really that worried about\nme?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That makes me s-so happyyy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Thank you, Trainer! Okay, I'll do as you\nsay.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll get some rest and totally heal up!\nThen I can\ngo full power at training\ntomorrow!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Woo, that's what I'm talking about!\nYou're the\nbest!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! I'll dash at full speed back to\nthe\ntraining track right now!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>CRICK!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aaagh!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "text": "Y-yeah, of course! I'm totally... totally...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...not fine at aaaall! This kinda... really...\nHURTS!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! I'll dash at full speed back to\nthe\ntraining track right now!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Don't overdo it!"
+            ]
+        },
+        {
+            "text": "Gotcha! Thanks for worrying about me! If\nit hurts\nagain, I'll tell you right away!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But my full power won't lose to any\ninjury!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll show you в тренировке! Just watch\nme!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Taking Уиннинг Тикит's injury in\nconsideration,\nwe start training again\nafter a short break.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Уиннинг Тикит relents and agrees to\ngive herself\ntime to recover before\ntraining again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We end up cutting practice short as I\nmake sure\nУиннинг Тикит gets all the\nrest she needs.",
+            "name": "Монолог"
+        }
+    ]
+}

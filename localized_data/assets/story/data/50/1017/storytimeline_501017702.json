@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Симболи Рудольф and I arrive back at the\nacademy\nafter a day out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Haha.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Oh, nothing. I was just reflecting on the\nday. I feel\nremarkably refreshed.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "How about you? Did you enjoy cutting\nloose a\nlittle?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I'm just glad you had a good time.",
+                "Yeah, it was great!"
+            ]
+        },
+        {
+            "text": "That's all very flattering, but it was you I\nwas\nasking about.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Still, I do appreciate the way that you\nalways look\nout for my well-being.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You know, I've experimented with a lot\nof\ndifferent ways of resetting myself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Some have been effective, others less\nso.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But none have left me feeling quite so\n\nrejuvenated as today.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oh? Well, I'm pleased that you're so\nenthusiastic.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Although I have to admit, I feel the\nsame.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You know, I've experimented with a lot\nof\ndifferent ways of resetting myself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Some have been effective, others less\nso.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But none have left me feeling quite so\n\nrejuvenated as today.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It's gratifying to hear that Symboli\nRudolf has had\na fulfilling day off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's gratifying to hear that Symboli\nRudolf has had\na fulfilling day off.",
+            "name": "Монолог"
+        }
+    ]
+}

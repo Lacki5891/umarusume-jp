@@ -1,0 +1,82 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Did I just lose... again?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Why? I'm not holding myself back by\ncaring about\nwhat other people think\nanymore.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm running just for me, and... and it\nblows!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "But you'll keep on running, right?",
+                "It's all up to you now."
+            ]
+        },
+        {
+            "text": "I'm running just for me, and... and it\nblows!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "But you'll keep on running, right?",
+                "It's all up to you now."
+            ]
+        },
+        {
+            "text": "Of course. I already made my decision.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I don't care how many times I lose. No\nmatter how\nlame I look, I'll keep at it\nuntil I win!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "It's that determination that's always with you."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You know it. I want to win.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "So, do you want to give up because you're not\nhaving fun?"
+            ]
+        },
+        {
+            "text": "No way! You already know that!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Losing sucks. It's frustrating, but that's\nhow racing\nworks.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And I chose to race, so I'm not giving up!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Then there's only one thing to do."
+            ]
+        },
+        {
+            "text": "Trainer, let's have a review session. I\nwant to go\nthrough every race I couldn't\nwin.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's going to be so cringe watching\nmyself, but I\nneed to do more than just\nrun!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Because I want to keep running. That's\nall there is\nto it!",
+            "name": "Голд Сити"
+        }
+    ]
+}

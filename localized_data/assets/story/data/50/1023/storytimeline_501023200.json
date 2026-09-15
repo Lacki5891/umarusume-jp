@@ -1,0 +1,23 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ's big day has arrived!"
+        },
+        {
+            "text": "This debut race is full of promising\nprospects who\njust signed on with new\ntrainers.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "At long last, I get to see the results of\nmy\ntraining. It's time to focus and do\nthis!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I'm in your corner!"
+            ]
+        },
+        {
+            "text": "Hehe, I promise I won't let you down.\nLet's take\nhome a win.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

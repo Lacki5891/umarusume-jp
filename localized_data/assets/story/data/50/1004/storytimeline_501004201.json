@@ -1,0 +1,79 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Finally, the day of the Asahi Hai Futurity\nStakes\narrives to decide the junior year\nchampion...",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's something about the track at a\nG1 race\nthat feels so different!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It even affects how I feel when I run...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "text": "Hehe, of course not! I'm so excited, I\ncan't stay\nstill!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I've done a lot of training, and I'm\nfeeling like the\nbee's knees right now!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "This should be my best race ever! I'm\nitching to\nget out there and run!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Then have fun out there!"
+            ]
+        },
+        {
+            "text": "Yeah! I'm going to start off with a bang!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wooow! The G1 paddock looks <i>totally\nrad</i> from\nthis side!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe, I'll have to show them some\nincredible\nracing to match all this flair!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски, I can't wait to race against\nyou\ntoday!",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "Oh, I'm excited too!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "With everyone calling you \"Hot Rod,\" I\nknew I'd\nsee you here.",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "That's why I've been training harder than\never\nbefore.",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "...That's why I'm not going to lose!",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "Oh-ho! Well, I'll be running full steam\ntoo, so let's\nmake this a super fun race!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yeah! It'll really be something to\nremember!",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "The runners of today's main race will\nsoon be\nentering the paddock!",
+            "name": "PA Announcement"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... huff...</i> I won?! I beat... McQueen?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "No way... This isn't a joke, right? Is it?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "It's no joke. Congratulations."
+            ]
+        },
+        {
+            "text": "Trainer... I... I...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I DID IT! OOOOH YEAAAAH!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Her screams of joy echo throughout the\ntrack on\nthis crisp autumn day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh my... Aren't you overstating your\nvictory a\nlittle, Ryan?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ah, McQueen...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hehe, I always knew this would be a\npossible\noutcome.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The fact of the matter is that it was <i>you</i>\nwho\nnever believed in yourself.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That's not true. I could never win before\nbecause\nof how strong you are.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And I don't think this is the end our\ncompetition.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You've got that correct at least. No one\nwould\nclaim as much after just one race.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That's right. The next time we'll meet is...\nthe\nArima Kinen, I think. If you decide to\nrace in it,\nthat is!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My, my, my... How very impatient.\nYou've finally\nmanaged to defeat me, so\nwhy not savor the\nmoment?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Well then, enjoy yourself. Today's race\nwas only\nthe beginning.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "The beginning of... the real battle?"
+            ]
+        },
+        {
+            "text": "Hehe... Not exactly.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The beginning of the Golden Age of\nMejiro, with\nRyan and I at the top!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро Райан completes her first battle\nagainst\nМэдзиро МакКуин, earning herself\na great\nachievement.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But there's still a long road ahead of\nher—toward\nthe Arima Kinen, where\nmany more strong\nopponents await.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hehe! I can feel the buzz in the stadium\nall the\nway from here!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The anticipation keeps building! As soon\nas we go\nout there, the crowd's\nexcitement will burst out in\nwaves of\ncheers!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's like I can already feel myself up on\nthe\nstage! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Sounds like fun!"
+            ]
+        },
+        {
+            "text": "For sure! I'd love to get up there and\nwave a\nfolding fan around!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Everyone's here to see us, after all! I\nhave to show\nthem my stuff!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, time to hit the accelerator!",
+            "name": "Марузенски"
+        }
+    ]
+}

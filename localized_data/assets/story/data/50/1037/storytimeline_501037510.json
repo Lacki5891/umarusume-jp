@@ -1,0 +1,201 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Apologies for bothering you, Trainer,\nbut have\nyou seen any ladybugs around?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Ladybugs?"
+            ]
+        },
+        {
+            "text": "Yes. Seven-spotted ladybugs, to be\nprecise. The\nones that should be in the\nfield at the moment\nhave gone missing.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "As one entrusted with their\nmanagement, I am\ninvestigating their\nwhereabouts.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You're managing ladybugs?!"
+            ]
+        },
+        {
+            "text": "Yes, but it's more of a personal hobby.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Any information would be most\nappreciated, as I\nhave no leads at the\nmoment.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I'll help."
+            ]
+        },
+        {
+            "text": "...Are you sure?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After splitting up and asking around the\nschool,\nwe get some useful information.\nWe immediately\nhead out to find the\nladybugs, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Geez! Sit still already! How are you so\ntiny yet so\nfast?!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "Listen up, ladybugs! You'd better stay in\nthe\nmagic circle if you know what's good\nfor you!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "You there! Unhand those poor creatures!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wh-who're you?!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "We are members of the Ladybug\nManagement\nAssociation. Return the\nladybugs you abducted.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "(<i>We?!</i>)"
+            ]
+        },
+        {
+            "text": "No! I need them for my magic to work\nright this\ntime!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "With these seven-spotted ladybugs and\na\nseven-pointed magic circle, I just know\nit's gonna\nwork!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "...I understand the urge to rely upon\nladybugs.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I did the very same when my father\ntaught me\nthat they were symbols of\nluck.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I used to beg for ladybug-shaped cakes\nand\npolish the ladybug charms affixed to\nmy\nSchulranzen—my schoolbag...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But in the end, I realized that they were\nmerely a\nsymbol.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My father taught me that while ladybugs\ncan\nprovide a morale boost, only I can\ncontrol my\nown life.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "If there is something I want to achieve, I\nmust do\nso with my own efforts. On that\nnote...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Let me ask you something. Can you truly\nfeel joy\ntowards an achievement that\nisn't yours?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "Urgh... Nnngh...",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "Okay, fine! I'll give them back if you\nwant 'em so\nbad! I'll make the magic\nwork all by myself!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "All's well that ends well.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Congrats on straightening that out."
+            ]
+        },
+        {
+            "text": "The situation was resolved five minutes,\n\nfifty-three seconds earlier than\nanticipated. Your\nassistance proved\ninvaluable.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "By the way...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Would you be interested in joining the\nLadybug\nManagement Association?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Er..."
+            ]
+        },
+        {
+            "text": "Your willingness to drop everything and\ntake\naction for the sake of ladybugs is\nan admirable\ntrait.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Having someone like you among our\nranks would\nbe of great help. Of course,\nI'll ensure none of our\nladybug activities\naffect my training.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I don't know if I have the energy...",
+                "If you really think I can help, sure!"
+            ]
+        },
+        {
+            "text": "...I understand. Taking on another job in\naddition\nto your current duties as a\ntrainer would certainly\nbe tiring.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "We can begin with building up your\neducational\nbackground on ladybugs,\nthen.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Er..."
+            ]
+        },
+        {
+            "text": "Aller Anfang ist schwer—all beginnings\nare\ndifficult. However, once you start, a\nwhole new\nworld will become yours.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After we've built up your knowledge of\nthem, we\nwill begin training you to run\nat thirty kilometers\nper hour, the same\nspeed that ladybugs can fly.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Thirty kilometers per hour?!"
+            ]
+        },
+        {
+            "text": "Have no fear. Ladybugs tend to favor a\nspecific\nlocale, so their migration paths\nare rather short—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But of course. I will inform the other\nmembers at\nonce.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oho? Interested in joining this\nassociation, are\nyou? You have good\ntaste.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ladybugs are beneficial insects that\nprotect fields\nand flowerbeds day and\nnight.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Therefore, protecting them is a vital part\nof\nprotecting the academy as a whole.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Let's do our utmost for the academy and\nfor the\nladybugs.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "From that point on, I join Эйсин Флэш on\nregular\npatrols around the campus to\ncheck on the\nladybugs.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't bring myself to stop her with how\nexcited\nshe looks while rattling off\nladybug facts... so I\nend up listening to\nher lectures on a regular basis.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ has asked me to review\nrace\nfootage together, so after returning\nto the school\nI head over to meet her."
+        },
+        {
+            "text": "Hmm... My positioning is a little sloppy. I\nhave a\nbad habit of just staring straight\nahead during\nraces.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's watch again from the beginning. I'm\nsure\nwe'll find other issues too.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Shouldn't you get some rest?"
+            ]
+        },
+        {
+            "text": "Since she's just finished her first race and\nconcert\nperformance, I figure she must\nbe pretty tired."
+        },
+        {
+            "text": "You needn't worry about me. Now that\nI've\nexperienced a real race, I'm\ndiscovering a lot of\nissues I never\nnoticed before.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And we need to fix them. The winning\nequation I\nso desire to complete is the\nvery thing I'll be using\nagainst her, after\nall.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Every second counts.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "(Right... The winning equation against Narita\nBrian.)"
+            ]
+        },
+        {
+            "text": "It seems she's realized how exceedingly\ndifficult it\nwill be to perfect her\nequation."
+        },
+        {
+            "text": "Acceleration... wind resistance... the\nangle at\nwhich my feet hit the ground...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Maybe my role as her trainer should be\nto provide\npractical experience that will\nallow her to\ndevelop her calculations.",
+            "choice_data_list": [
+                "Do you want to enter the Asahi Hai F.S.?"
+            ]
+        },
+        {
+            "text": "The Asahi Hai Futurity Stakes is a G1\nrace\nbetween the top junior racers."
+        },
+        {
+            "text": "The competition is fierce, but it might\nbe a good\nexperience for her."
+        },
+        {
+            "text": "Hmm. That's an interesting suggestion...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And a good one, at that. I'll do it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Her glasses glint in the light as we lock\nin our next\ncourse of action."
+        }
+    ]
+}

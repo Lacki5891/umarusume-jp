@@ -1,0 +1,22 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After some time off, Нарита Таисин stops\nby my\noffice.",
+            "choice_data_list": [
+                "How was your break?"
+            ]
+        },
+        {
+            "text": "Huh? It's none of your... Ugh, I guess it\nis.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Same ol', same ol'. I took it easy and\nspent my\ntime relaxing.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It seems like Нарита Таисин had a good\nbreak."
+        }
+    ]
+}

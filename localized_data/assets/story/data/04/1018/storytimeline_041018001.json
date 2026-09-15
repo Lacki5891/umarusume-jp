@@ -1,0 +1,214 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Umamusume destined to rise above their\npeers are said to have a\ncertain aura—a\ncommanding quality that attracts all who\nstand in their\npresence.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If anyone has that aura, it must be <i>her.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... huff... huff... huff...</i>",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "(So that's Эйр Грув, the \"Empress.\")"
+            ]
+        },
+        {
+            "text": "A slender form that slices the air like\nbutter and long legs that cover\nground\nwith remarkable efficiency. Her gaze\npossesses a determined,\npiercing beauty.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Above all, she exudes an incomparable air\nof fortitude and elegance.\nIt's no wonder\nhow she got her nickname.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Some time has passed since I began\nwatching her, and before I know\nit the sky\nis already dyed a regal purple.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув seems to be wrapping up her\ntraining for the day when\nanother student\napproaches her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув, sorry I kept you waiting! I can\nget pretty distracted when\nI'm running off\nof the grounds.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Heh, I've come to expect that of you,\nSuzuka. I figured it was\nsomething like\nthat, so I didn't pay it much mind.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Do you still have the stamina for our\npartner run?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yes, no problems there. I'm ready when\nyou are.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh, is that Эйр Грув and Сайленс Судзука\nI spot? Lookin' like they're\ngearin' up for\nsome partner running. This could be\ninteresting!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Now that's a pair we may be able to learn\na thing or two from.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "A crowd quickly forms around the track to\nwatch the duo.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... huff... huff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Wow! Suzuka's front running is as\nmagnificent as always.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I don't think Эйр Грув plans to let her\nkeep that lead, though.\nLook—when\nSuzuka pulls ahead, the fire in Air\nGroove's eyes just\ngrows stronger!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Heh...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And sure enough, just as Сайленс Судзука\nrounds the final turn...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haahh!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Whoa! Hold up—how the hell did she close\nthat distance so easily?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That acceleration! She did well to conserve\nthat energy and use it at\nthe most\nopportune moment. Suzuka can't catch up\nnow.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Gasp...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This one's mine!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "An insatiable desire to win, tempered by\nacute, level-headed\njudgment—not to\nmention her incredible running ability. She\nis\ndazzling in every way.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The gap between the runners remains\nopen, and Эйр Грув crosses\nthe finish\nahead of her competition.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Dumbfounded, I find myself watching well\nafter the race, surrounded\nby comments\nfrom the multiple spectators.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well heck, that was pretty exciting! Now I\nfeel like challenging her\nmyself.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I understand the feeling—her racing is top\nnotch. You could even call\nit textbook.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And she's vice president of the student\ncouncil to boot. I'm glad that\nwe have\nsomeone like her going out of her way to\nsupport us.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Her methods of \"support\" can be a bit\nharsh, but I guess it's helpful to\nus all the\nsame.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Small wonder all of our darling ponies\nadore her. She's one of the\nideals I strive\nfor.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "By the way... You, over there. I noticed\nthat you've been starin' at Air\nGroove\npractically this whole time.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Who, me?"
+            ]
+        },
+        {
+            "text": "Yeah, you. I don't see anyone else behind\nyou. Can't say I've seen you\naround before.\nYou a new Тренер?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wait, are you out to scout Эйр Грув or\nsomethin'?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Well, if I can..."
+            ]
+        },
+        {
+            "text": "Aw, well now... I hate to break it to you,\nbut you're a bit late.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Эйр Грув! There you are! I guess this\nmeans you were doing some\npersonal\ntraining today too?",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "Yes, that's right. Is there a problem?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No, but I did want to talk to you about\ntomorrow. Something's come\nup for me, so\nwould you be okay with delaying our\nsession by a half\nhour?",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "Hm. But our course reservation has already\nbeen processed, no? In\nthat case, I'll come\nout and get started ahead of you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Huh? I thought you might enjoy the little\nbreak—",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "My debut race is just around the corner. I\ncan't afford to waste even a\nsingle minute.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Besides, I take breaks as necessary without\nneeding to be told. Have I\never not been\nwell enough to train, even once?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "W-well, no... I don't think so. All right,\nthen please begin your training\nas\nplanned.",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "Haha, never afraid to lay into her trainer,\nthat one. But yeah, now\nyou've seen them.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She already has a trainer working with her.\nI'm sorry you had to find\nout like this.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I guess she never did run a tryout race, but\nthere's no rule sayin' that\nyou <i>have to</i> do\nthat before getting scouted.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "This must just mean that I wasn't the only\ntrainer who saw something\ntruly special in\nЭйр Грув...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I leave the grounds that evening with an\nacute sense of regret.",
+            "name": "Монолог"
+        }
+    ]
+}

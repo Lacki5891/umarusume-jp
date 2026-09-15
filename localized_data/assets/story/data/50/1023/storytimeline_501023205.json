@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Here we are at the Hanshin Racecourse\ntoday for\nthe spring Tenno Sho!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Which one of these fine competitors will\nwalk\naway with the coveted spring\nshield? Narita\nTaishin and Biwa\nHayahide, of the BNW trio, are\nthe two\nto watch out for today!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "According to the report released\nyesterday, the\nturf should have just the\nright bounce today.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And these weather conditions are similar\nto when\nI ran the D course last week.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You got this?"
+            ]
+        },
+        {
+            "text": "Of course.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "All you need to do is sit back and watch\nmy\nwinning equation in action!",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

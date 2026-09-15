@@ -1,0 +1,26 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Yesterday, I received some pickled vegetables \nfrom my hometown, and as I was eating them, I \nfelt strangely uplifted.",
+            "choice_data_list": [
+                "Probably because it was such a heartfelt gift.",
+                "Probably because it was such a heartfelt gift."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That must be it. It was a reminder of all the \nsupport I receive from back home."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've got a feeling that I'm gonna run well in my \nnext race. I'll win this one—I promise."
+        },
+        {
+            "name": "",
+            "text": "Seeing Oguri Cap so motivated gives me high \nhopes for the upcoming race."
+        }
+    ],
+    "title": "Not This Time!"
+}

@@ -1,0 +1,50 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow! It's so nice to be back! The\nlodging is as\nnice as ever. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "This is Каррен Тян's second summer\ncamp to\nimprove her skills. She's fresh\nout of a tough time\nand has a smile on\nher face.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is everything okay now?"
+            ]
+        },
+        {
+            "text": "Yeah. Totes fine.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Your love is what got me through it. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "Your love is what got me through it. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "Haha. But it's true, isn't it?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...It's not long until the Sprinters Stakes.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Let's get through this summer and come\nout way\nstronger! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "A truly hot summer camp is about to\nbegin!",
+            "name": "Монолог"
+        }
+    ]
+}

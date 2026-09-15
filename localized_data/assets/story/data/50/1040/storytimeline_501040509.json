@@ -1,0 +1,26 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm working in my office when Голд Сити\nenters\nlooking exhausted.",
+            "choice_data_list": [
+                "Aren't you supposed to be in class?"
+            ]
+        },
+        {
+            "text": "I promise I'll go to class after, so can you\njust let\nme chill here a little?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I don't want anyone to see me slipping.\nCan't\nhave them worrying about me or\nthinking I'm not\ngood enough.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I know I can't keep on like this, but... I\njust can't\nmuster up the motivation...\n<i>Sigh...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "She must be burnt out from all the races\nI've had\nher in. It might be better to\nreview her schedule\nlooking forward."
+        }
+    ]
+}

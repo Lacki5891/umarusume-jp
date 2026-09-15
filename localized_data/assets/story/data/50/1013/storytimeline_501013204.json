@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally here, the Takarazuka Kinen!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "The race is normally held at Hanshin, but\nthis\ntime, it was moved to Kyoto.",
+            "name": "Комментатор"
+        },
+        {
+            "text": "We have a brilliant lineup once again\nthis year!\nGet ready to witness a fierce\ncompetition!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Many have their eyes on the two racers\nof the\nnotable Mejiro family: Mejiro\nMcQueen and\nМэдзиро Райан!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Can we expect one of these two to\ncompletely\ndominate the race?! Or will it\nbe someone else\naltogether?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "...Incredible. The crowd is even more\nexcited than\nduring the Kikuka Sho.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Remember to keep your composure."
+            ]
+        },
+        {
+            "text": "Yes. I will keep in mind everything\nyou've taught\nme up to this point.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My victory will be swift and decisive.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(Ryan... How many times does this\nmake?)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(No matter, I will not concede victory.)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(I shall make my determination known!)",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

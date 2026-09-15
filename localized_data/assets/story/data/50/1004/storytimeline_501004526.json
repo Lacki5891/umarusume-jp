@@ -1,0 +1,165 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I accompany Марузенски to\nher dance\nlesson.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One, two, one, two! Aaand, the big\nfinish!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Such technical prowess... Such powerful\n\nexpressiveness... What an amazing\ndisplay! Ten\nout of ten—no notes! Bravo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ack! What are you doing, Tickezo?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So I just watched the finals of the\nDancing World\nCup yesterday, and\nthose dances really got my\nblood\n<i>pumping!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, I know! Марузенски, will you teach\nme how to\ndance?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I wanna blow everyone's minds with\nthose hot\ndance moves!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Haha! If that's what you want, then I'm\n\nabsi-posolutely willing to help!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All riiiiight! Let's <i>do</i> this!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But remember, Tickezo. You can't get\ngood at\neverything all at once!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Do you want sharp technical prowess or\npowerful\nexpressiveness? We can focus\non one or the\nother.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Huuuuh?!</i> How am I supposed to\ndecide?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Okay, then... Let's have my trainer here\ndecide! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Technical skills!",
+                "Expressiveness!"
+            ]
+        },
+        {
+            "text": "Okay, then... Let's have my trainer here\ndecide! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Technical skills!",
+                "Expressiveness!"
+            ]
+        },
+        {
+            "text": "You got it! Let's boogie down like pros!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ready? Follow my moves, Tickezo!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Right behind you!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Step and stЭпизод.. Keep those knees bent!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Dang! You're so fast!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Uh-oh, you're falling a bit behind! Keep\n\ngoing—you can do it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Aaand finish!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Pant... pant...</i> I'm all worn out...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Your dancing was off the hook! Like,\nthat was the\nbomb!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wow, thanks so muuuch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I feel like I've been able to improve my\ndancing\ntoo! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Expressiveness, huh? First, let's close our\neyes\nand listen to the sounds around us!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What kind of image do you have in your\nhead,\nTickezo?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A forest! And there's... a monkey!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Okay! Open your eyes—we're monkeys\nin the\nforest now! <i>Ooh ooh ah aah!</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All riiiight! <i>OOH OOH AH AHH!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hey, where are you going, Tickezo?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>OOH OOH! EEE EEE EEE!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Pant... pant...</i> I never thought I'd take a\nlap\naround the city as a monkey! Talk\nabout <i>wild!</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ahaha! Sorry, I was having soooo much\nfun, I\ncouldn't help myself!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, it's okay! I got a good workout out\nof it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's never forget this amazing feeling!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "After teaching Уиннинг Тикит,\nМарузенски's\ndancing seems to have\ngotten even snappier!",
+            "name": "Монолог"
+        },
+        {
+            "text": "After teaching Уиннинг Тикит,\nМарузенски's\nexpressiveness seems to\nhave improved.",
+            "name": "Монолог"
+        }
+    ]
+}

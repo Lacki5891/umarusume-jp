@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the first day of the summer\ncamp, a\nperiod of intensive race training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, please listen closely.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Can you hear them? The waves in the\ndistance...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Not only is the sound relaxing, but the\nbreeze\nhelps to escape the heat.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Perfect for training!"
+            ]
+        },
+        {
+            "text": "Hehe. Very much so.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Those who conquer summer emerge\nvictorious in\nfall.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Our path to the Japan Cup has already\nbegun...\nI'll be relying on your guidance.",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

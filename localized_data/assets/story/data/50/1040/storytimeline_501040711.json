@@ -1,0 +1,61 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ugh! How did I lose AGAIN?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Like, what's wrong with me? Not enough\ngrit?\nHard work? Luck? Am I just not cut\nout for this?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And I said I was gonna become the \"real\nme.\"\nGod, I'm such a loser.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Don't panic—things will turn out okay.",
+                "I thought your style was to never give up, no\nmatter how it makes you look!"
+            ]
+        },
+        {
+            "text": "And I said I was gonna become the \"real\nme.\"\nGod, I'm such a loser.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Don't panic—things will turn out okay.",
+                "I thought your style was to never give up, no\nmatter how it makes you look!"
+            ]
+        },
+        {
+            "text": "Who's panicking?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...No, you're right. I just don't want\neveryone\nthinking that racing is just my\nside hustle.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I also don't have the patience—I\n<i>have</i> to win\nthe next race.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Haha. If this were a modeling gig,\nnobody\nwould ever suggest that not\ncaring how I look is\n\"my style.\"",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But it's true—I've been such a loser. If I\ncarry on\nlike this, people are gonna stop\ncaring about me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Maybe a little panicking could do me\nsome good.\nI'll train like hell, then prove\njust how fast I can be\nnext race!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And I <i>won't</i> be ignored. I'll win the next\nrace and\nturn all their heads again!",
+            "name": "Голд Сити"
+        }
+    ]
+}

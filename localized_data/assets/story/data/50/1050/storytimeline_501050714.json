@@ -1,0 +1,138 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Таисин has suffered an injury, so\nI've\nbrought her to the infirmary.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you okay, Taishin?!"
+            ]
+        },
+        {
+            "text": "I can hear just fine without you yelling in\nmy ear.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "This is nothing! It doesn't even hurt\nanymore. I'm\ngood.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin."
+            ]
+        },
+        {
+            "text": "There's nothing wrong so I can jump\nright back\ninto trainin—",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin!"
+            ]
+        },
+        {
+            "text": "What?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "We're here <i>precisely</i> because something\nappears to be wrong.",
+                "I'll support you all the way!"
+            ]
+        },
+        {
+            "text": "What?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "We're here <i>precisely</i> because something\nappears to be wrong.",
+                "I'll support you all the way!"
+            ]
+        },
+        {
+            "text": "Tch...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We don't have the time to be resting!\nYou of all\npeople should know that!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "If I keep getting held back like this, I'll\nbe stuck\nas a weakling forever!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You need to rest or else you'll never recover."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Shut up, shut up, SHUT UP! Knock it off\nwith your\nstupid reasoning!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Would you rather I lie and only say what you\nwant to hear?"
+            ]
+        },
+        {
+            "text": "Hell no! I'm not some dummy who wants\nthat\nnonsense!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Damn it! This injury'd better heal at light\n\nspeed—or else!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm struck by the way she tries to get\nback on her\nfeet despite her injury. I\nreassure her that I'll\nsupport her with all\nof my being.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uh... okay.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's good to hear, but sheesh... You're\nso\nirritating.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You've got this, Taishiiin!"
+            ]
+        },
+        {
+            "text": "Ugh, be quiet! You're making me lose\nfocu—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "OUCH!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm just getting started!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I can't hear you! Louder!"
+            ]
+        },
+        {
+            "text": "Tch! I'm not Ticket, you know!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Then again, shouting does make it hurt\nless, and\nI feel more fired up... This is\nreally dumb, but...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Raaaaah!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "As a result, Нарита Таисин ends up\nworsening her\ninjury в тренировке and\nis forced to rest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Таисин shows off what she's got\nand blasts\nthrough her training for the\nday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Таисин agrees to go to bed,\nalbeit rather\nreluctantly.",
+            "name": "Монолог"
+        }
+    ]
+}

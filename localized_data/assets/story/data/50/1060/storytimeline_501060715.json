@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After training...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm hmm. ♪ It's finally here, the\nspecial sale day\nfor croquettes—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Thank you so much! I'm off!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Hi, Ines. You're just getting off work?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I still have to go to my next job, but I'm\ngoing to\ndo a quick run on my way there!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "I gotta utilize this time between shifts!\nBye now!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What are you thinking about?"
+            ]
+        },
+        {
+            "text": "It's nothing! Just that... well, isn't she just\nthe\npicture of youthful energy?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Giving it a hundred percent to chase\nyour\ndreams... Oh, to be young.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "...Let's do some extra training!",
+                "Let's give this break a hundred percent too!"
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oops, did that inspire you? I swear, kids\nthese\ndays.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'll do it for you, though. After all, I have\na strong\nsense of responsibility.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Plus, I want to go for a run anyway.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What? Give this break... a hundred\npercent?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Pfft... hahaha! Then I guess we better\nrest like we\nmean it!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Maybe I'll get some veggie croquettes\ntoday.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We eat veggie croquettes and\nrejuvenate\nourselves.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, Найс Нэйчер and I put all our\nyouthful\nenergy into training.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Japanese Derby... the race that\ndecides the\ntop classic-year runner.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's every Umamusume's dream to earn\nthe title of\nDerby champion.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And today, in front of everybody, I'm\ngoing to\nprove myself!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "They'll never see me the same way\nagain!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Don't be too hasty."
+            ]
+        },
+        {
+            "text": "Hey, way to kill the mood.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Can't you see I'm at peak hype levels\nright now?\nDon't make me lose it.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You can't overturn your reputation all at once."
+            ]
+        },
+        {
+            "text": "What? But if the Derby can't change it,\nthen what\ncan?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Don't you have anything better to say?\nYou're\nsupposed to be my trainer—we\ntalked about this\nalready, remember?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You <i>do</i> want to be known as a Derby\ntrainer,\ndon't you?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Then you need to say something to get\nme extra\npumped! Go on!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Go give it your all and be yourself!"
+            ]
+        },
+        {
+            "text": "Of course I will! Next time I talk to you...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I won't be City the model, but City the\nDerby\nchampion!",
+            "name": "Голд Сити"
+        }
+    ]
+}

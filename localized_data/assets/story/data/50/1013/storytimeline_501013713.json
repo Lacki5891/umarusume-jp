@@ -1,0 +1,88 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm still an amateur, aren't I? I can't\nbelieve I got\nhurt. <i>Sigh...</i>",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I've inconvenienced you as well, Trainer.\nFor that,\nI'm very sorry.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I think it would be best to rest today.",
+                "You should pay more attention to your\nsurroundings from now on."
+            ]
+        },
+        {
+            "text": "I've inconvenienced you as well, Trainer.\nFor that,\nI'm very sorry.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I think it would be best to rest today.",
+                "You should pay more attention to your\nsurroundings from now on."
+            ]
+        },
+        {
+            "text": "What?! Th-that's taking it too far! Just a\nlittle\nmedical attention would be\nenough!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Good grief. Aren't cuts and bruises a\nregular\noccurrence in training? If\nsomething this small\nworries you, you'll\nnever get the chance to relax,\nyou\nknow?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I don't need to relax."
+            ]
+        },
+        {
+            "text": "Then... I don't know what to say.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Sigh...</i> Your concern has been\nthoroughly\nconveyed.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "If you insist, then I shall devote myself\nfully to\nrest and recovery for the day.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You're right... I mustn't be so focused\nthat I\nignore my surroundings.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "However, the thought that I made such\nan\nelementary blunder is...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Sigh...</i> I feel guilty all over again...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You're right... I mustn't be so focused\nthat I\nignore my surroundings. Having\nsaid that...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "One might say that my focus proves I\nwas training\nefficiently.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It would surely come in handy sometime\nif I\nmanage to better hone this ability to\nconcentrate.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Now, shall we return to our training\nbefore my\nfocus is broken?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "After treating Мэдзиро МакКуин's injury, I\nsee her\nback to the dorm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After tending to Мэдзиро МакКуин's\ninjury, I\ndecide to resume her training, as\nshe requests.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After treating Мэдзиро МакКуин's injury, I\ngive her\nthe rest of the day off.",
+            "name": "Монолог"
+        }
+    ]
+}

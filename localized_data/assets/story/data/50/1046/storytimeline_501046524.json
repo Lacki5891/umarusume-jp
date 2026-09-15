@@ -1,0 +1,223 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After a very successful performance\nbeneath an\nunderpass, Смарт Фалкон is\nseeing off her fans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you so much for coming,\neveryone! I'll see\nyou all at the next\none! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "E-erm... Hey, Falco!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Yeees? ☆\n...Oh?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You were in the back row... with the\nhandmade\nfan, right? ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "H-huh? Y-you... you remember? There\nwere so\nmany people, but you remember\nme? How come?!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "You made that fan just for today, didn't\nyou?\nThat makes me super happy. ☆\nThanks for always\nshowing up to my\nperformances. ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "No waaay! You're a goddess among\ngoddesses! I\ncan't believe you\nremembered me!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Come on, don't exaggerate! ☆ Anyways,\nyou had\nsomething to tell me, right?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ah, that's right! I was just wondering if\nyou'd\nrecord a message of support for\nmy childhood\nfriend... Unless that's too\nmuch to ask...",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "It's just, my friend is a huge fan of yours\nas well,\nbut she's too busy to leave our\nhometown...",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "It's no trouble at all! I'll be her very own\n\ncheerleader!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Y-y-you're seriously an angel sent from\nheaven...\nMy friend has been stressing\nout and feeling\ndown, but this will\ndefinitely cheer her up!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Oh, I'm sorry to hear that. Here's hoping\nmy voice\ncan lift her spirits a little.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I know! I've got a better idea than just\nrecording a\nmessage! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "What would you say if I told you I'd put\non a\nwinning concert near where your\nfriend lives?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I-if you did that, she'd be able to come\ntoo!\nB-b-but... why would you go that far\nfor us?!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "I'd do anything for my fans! That's what\nbeing an\nUmadol is all about!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Faaa... Fal... Falcooo!",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "I-i-incre... Incredible! Beyond incredible!\nI... I can't\nbreathe... <i>Gasp...</i>",
+            "name": "Female Fan A",
+            "choice_data_list": [
+                "B-by the way, where exactly is your hometown?"
+            ]
+        },
+        {
+            "text": "Oh... right! Sorry! I'm from Hokkaido!\nWould you\nbe able to come to the\nracecourse in Sapporo or\nHakodate?",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Wooow! Hokkaido? ♪ I bet if I ate some\ndelicious\ncheese and crab before a\nconcert, I'd never run\nout of energy! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Тренер? We can go, riiight?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "text": "Yaaay! I'll be aiming for center stage, so\nmake\nsure you're there cheering me\non! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "With that, Смарт Фалкон promises she'll\nappear in\na winning concert near her\nfan's hometown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... right! Sorry! I'm from Yamagata!\nWould you\nbe able to come to the\nracecourse in Fukushima,\nMorioka, or\nNiigata?",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Wooow! Yamagata?! ♪ The air there is\nso fresh! I\nbet it would feel amazing to\ndo a concert\nthere. ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Тренер? We can go, riiight?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "text": "Yaaay! I'll be aiming for center stage, so\nmake\nsure you're there cheering me\non! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "With that, Смарт Фалкон promises she'll\nappear in\na winning concert near her\nfan's hometown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... right! Sorry! I'm from Chiba! Would\nyou be\nable to come to the racecourse in\nNakayama or\nFunabashi?",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Wooow! Chiba?! ♪ I bet I could really\nkill it at the\nconcert after having some of\nthat nutritious offal\nstew! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Тренер? We can go, riiight?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "text": "Yaaay! I'll be aiming for center stage, so\nmake\nsure you're there cheering me\non! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "With that, Смарт Фалкон promises she'll\nappear in\na winning concert near her\nfan's hometown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... right! Sorry! I'm from out west!\nWould you be\nable to come to the\nracecourse in Hanshin or\nKyoto?",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Wooow! Kansai? I bet crowds would\nreally get\ninto the concert there. ☆ It'll\ndefinitely be a fun\nperformance!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Тренер? We can go, riiight?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "text": "Yaaay! I'll be aiming for center stage, so\nmake\nsure you're there cheering me\non! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "With that, Смарт Фалкон promises she'll\nappear in\na winning concert near her\nfan's hometown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... right! Sorry! I'm from Fukuoka!\nWould you\nbe able to come to the\nracecourse in Kokura?",
+            "name": "Female Fan A"
+        },
+        {
+            "text": "Wooow, Fukuoka? ♪ There are so many\ncute girls\nthere, but I'll be even cuter\nwhen I'm on stage! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Тренер? We can go, riiight?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "text": "Yaaay! I'll be aiming for center stage, so\nmake\nsure you're there cheering me\non! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "With that, Смарт Фалкон promises she'll\nappear in\na winning concert near her\nfan's hometown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time to put together a strategy to claim\ncenter\nstage at Kokura.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time to put together a strategy to claim\ncenter\nstage at either Sapporo or\nHakodate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time to put together a strategy to claim\ncenter\nstage at Fukushima, Morioka, or\nNiigata.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time to put together a strategy to claim\ncenter\nstage at either Hanshin or Kyoto.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time to put together a strategy to claim\ncenter\nstage at either Nakayama or\nFunabashi.",
+            "name": "Монолог"
+        }
+    ]
+}

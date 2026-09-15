@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day in the plaza, I spot Эйр Грув\nsitting\nwith her shoulders slumped\ndejectedly. I approach\nher, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "This doesn't concern you. Don't stick\nyour nose\nwhere it doesn't belong.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You don't look so good."
+            ]
+        },
+        {
+            "text": "...It's not that serious.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I didn't pay enough attention to some of\nmy\nflowers, so they withered away.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I can't believe I allowed myself to\nbecome this\nlax. What's gotten into me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's mood doesn't improve for a\nwhile.",
+            "name": "Монолог"
+        }
+    ]
+}

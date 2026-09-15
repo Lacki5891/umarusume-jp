@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Good morning, Trainer!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You sure are chipper this morning."
+            ]
+        },
+        {
+            "text": "I slept really well last night thanks to the\nthermal\neye mask a darling pony gave\nme.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Speaking of which, here.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I liked it so much, I bought some more.\nYou can\nhave one to try out.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You'll be sure to sleep like a baby\ntonight. I\nguarantee it!",
+            "name": "Фудзи Кисэки"
+        }
+    ]
+}

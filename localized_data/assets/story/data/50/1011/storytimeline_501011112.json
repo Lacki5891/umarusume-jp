@@ -1,0 +1,179 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after Грасс Вандер has a\nnumber of\nvictories under her belt...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, may I have a moment of your\ntime?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "I was thinking now that the Twinkle\nSeries has\nsettled down, it might be a\ngood time to fulfill\nthat promise.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You mean... go on that hot spring trip we won at\nthe raffle?"
+            ]
+        },
+        {
+            "text": "Yes. If your schedule allows for it, would\nyou be\nwilling to accompany me?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Sounds great!"
+            ]
+        },
+        {
+            "text": "I immediately agree to go. Chances to\nkick back\nand blow off steam like this\ndon't come up every\nday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here we are, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "This natural hot spring is said to relieve\nfatigue,\nmental strain, muscle soreness,\nand stiff\nshoulders.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You've done your homework."
+            ]
+        },
+        {
+            "text": "I've found that being knowledgeable\nabout a\ndestination makes the trip more\nenjoyable.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "In fact, hot springs have been a part of\nJapanese\nculture since the times of the\nKojiki and Nihon\nShoki.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It was all so interesting, so I read as\nmuch as I\ncould. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She's as diligent as always, even on\nvacation. We\nwalk into the inn together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... The water was wonderful.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The soothing heat seems to have washed\naway\nevery last trace of my exhaustion\nfrom racing. ♪",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'm glad to hear it."
+            ]
+        },
+        {
+            "text": "...Um, Тренер?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I can't help but feel it would be a waste\nfor us to\nreturn to our rooms now. Could\nwe go for a walk?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ahhh... This place really does have a\nwonderful\nview of the stars.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "This view is incredible."
+            ]
+        },
+        {
+            "text": "It sure is! ♪ The view from the outdoor\nbath was\nso magnificent...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It made me want to see it again with\nyou, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The sky is like sand, a stardust of\ncountless lights,\nand somewhere out\nthere... As though to return\nmy gaze, a\nstar seems to shine at me.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "And that is?"
+            ]
+        },
+        {
+            "text": "A poem written by Shiki Masaoka.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Just like him, as I gaze up at the night\nsky, I feel\nlike there's a star shining for\nme too.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I think that star is you, Trainer.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "Yes.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The steep path I travel has been fraught\nwith\nobstacles. The journey hasn't been\neasy.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The only reason I was able to make it\nthrough\nwith no regrets is because you\nhave been there to\nguide me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Watching over me, lighting the way\nforward...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "That's because <i>you</i> are my star, Grass."
+            ]
+        },
+        {
+            "text": "Just like all the shining stars above us,\nthere are\ncountless Umamusume aiming\nfor the top.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But there was only one light that caught\nmy eye\nand refused to let it go. It came\nfrom the\nUmamusume named Grass\nWonder.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So, we're each other's stars? Then we\ncould\nconsider our meeting destiny.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Or is that an overblown thing to say?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "No, it's an honor."
+            ]
+        },
+        {
+            "text": "Thank you very much, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So long as we are there to light each\nother's\npaths, neither of us will go\nastray.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "My determination will drive me forward,\nas\nalways.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "No matter how steep the climb, you and\nI will\nascend together, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I sense that Грасс Вандер and I have\nformed an\nirreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

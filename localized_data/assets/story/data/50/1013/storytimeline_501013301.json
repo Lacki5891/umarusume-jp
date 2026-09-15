@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp may be over now, but my\nspirit is\nburning hotter than ever before.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I know I've gained a lot of strength for\nthe\nautumn Tenno Sho.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "All that's left is the main event!"
+            ]
+        },
+        {
+            "text": "Yes. If I can maintain my current form,\nI'm\nconfident I'll win.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "After we return to the academy, I will\nmaintain my\nfocus and continue to train\nhard!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

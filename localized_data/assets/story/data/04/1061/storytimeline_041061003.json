@@ -1,0 +1,232 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Кинг Хало's performance left a strong\nimpression on me, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Halo! You ran really well at the tryouts! I\nmight be one of the newer\ntrainers, but\nwe'd make a great team!",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "Rejected. A self-admitted inexperienced\ntrainer like yourself wouldn't\nbenefit me.\nGo ask someone else.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало, I loved the way you ran! How\nabout joining me? I can help\nyou be as\nsuccessful as your mother!",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Rejected. I don't bask in past glory, least\nof all hers. Is her history all\nyou're capable\nof seeing? You're unfit for me too.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Sigh...</i> None of you are good enough.\nPlease stop wasting my time!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Scouting Кинг Хало seems next to\nimpossible.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With my head full of worries, I head off to\nthe cafeteria to grab some\nfood.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are you still thinking about that stuck-up\nprincess? Sure, she might've\ninherited a bit\nof talent, but I wouldn't touch that\npersonality with a\nten-foot pole.",
+            "name": "Skilled Trainer B"
+        },
+        {
+            "text": "Her pride outweighs her skill. Placing 2nd\nin the tryouts doesn't mean\nshe'll be able\nto stand her ground in the Classics.",
+            "name": "Skilled Trainer B",
+            "choice_data_list": [
+                "No, I'm positive she's got what it takes for the\nbig races."
+            ]
+        },
+        {
+            "text": "...Well, if you say so. Don't say I didn't\nwarn you though. Oh, speak of\nthe devil.",
+            "name": "Skilled Trainer B"
+        },
+        {
+            "text": "Hey, King, I heard all about it. You turned\ndown every single Тренер?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hmph, sadly no one is befitting of a\nfirst-rate racer like me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ahaha, you're picky as always.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "But I've got good news for you! Drum roll,\nplease... Congratulations!\nYou've been\ninvited to participate in the upcoming\nscrimmage! ♪",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "It's gonna be a great chance to draw lots\nof attention. Tons of trainers\nare gonna be\nthere. What do you think?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "...Wait a second. I'm pretty sure you got\ninvited to it, not me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now, now, don't think too much about it.\nDon't you wanna race\nagain?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "...Yeah, you're right. Count me in.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm going to show off my skills to everyone\nand find the perfect\ntrainer for me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "All right! Looks like I'll be able to skip the\nrace then. Thanks, King!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Skip?! Wait a second, Sky! Gosh, why do\nyou always do this?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Unable to find a trainer that meets her\nstandards, Кинг Хало resolves\nto\nparticipate in the scrimmage.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But why are her standards so high?",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i> Phew. Hah... hah... phew. Let's\nsee my time... Hmm, not\nbad.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Hey, good work out there."
+            ]
+        },
+        {
+            "text": "Oh... it's you again.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Sorry, if you're here to scout me again, my\nanswer is still the same. I'm\nnot going to\naccept anyone less than first-rate—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Bzzz... Bzzz...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, who is it now?! I swear, people\nalways pick the worst time to\ncall!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...It's Mother.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Aren't you gonna pick up?"
+            ]
+        },
+        {
+            "text": "It doesn't matter. I already know what\nshe's going to say.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "\"Have you found a Тренер? No? See, I told\nyou. Give up and come\nback home\nalready.\"",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ugh... I wish she would stop thinking she\nknows better than me! Just\nbecause she\nwon a few G1 races in the past doesn't\ngive her the right\nto decide my future!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "When I told her I wanted to race, she\ncompletely blew up and refused\nto hear\nme out!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "She kept saying things like, \"The racing\nworld isn't for the weak.\" and\n\"Don't follow\nin my footsteps.\"",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Maybe she's just worried about her daughter?"
+            ]
+        },
+        {
+            "text": "Worried? ...Heh, as if.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "She's never paid attention to me. Not\nwhile she was still a racer, nor\nwhen she\nleft the track and started working. And\nnow she wants to\nplay the role of a worried\nmother?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "She'd insist that I have no talent, that I\nshould give up and find\nsomething else\nthat'll make me happy.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "My happiness? My talent? Who is she to\njudge?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The only person who gets to decide what I\ndo with my life is me!\nThat's why I'm never\ngoing to give up, no matter what!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm going to win and prove to her that I\nhave the talent. I won't stop\nuntil she\nacknowledges that I'm also first-rate!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "\"First-rate\"..."
+            ]
+        },
+        {
+            "text": "That's right. No matter how many times I\nfall, or how many people\nlaugh at me, I'll\nmake sure everyone knows my name.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It doesn't matter muddied I become. My\nhead will always be held\nhigh. I will <i>never</i>\nback down.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I don't care what other people say or think\nof me. I am Кинг Хало, the\nfirst-rate racer,\nand victory will be mine.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The determination in her voice is almost\npalpable.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Though people may find her ambitions\nlofty and her self-proclaimed\n\"first-rate\"\ntitle laughable, it's a testament to her\ncommitment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's why I won't compromise when it\ncomes to finding a trainer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "If the trainer doesn't have the same level\nof commitment as I do,\nthey'll never be\nable to truly support me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...I think I've spoken enough. It's time for\nme to continue training.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "If you don't mind, I'll be taking my leave.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало turns on her heel and walks\naway. As I watch her shrink into\nthe\ndistance, the word \"commitment\" rings in\nmy ears.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later, rain begins to pour down\nincessantly, lasting through the night.",
+            "name": "Монолог"
+        }
+    ]
+}

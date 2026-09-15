@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp starts today! The students\nare\nheading to a special academy site for\nspecial\ntraining!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Of course, Кинг Хало is no exception.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe. Trainer, look well and hard. I'm\ngoing to\nneed you to remember this\nmoment moving\nforward.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "When you compare my figure from\nbefore summer\nto after summer, you'll\nbe astounded by how\nmuch I'll have\nchanged in such a short time.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Someday, this lodge will become one of\nthe\nworld's leading tourist destinations\nas a place\nwhere Кинг Хало once trained!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "It sounds like you're dreaming big!"
+            ]
+        },
+        {
+            "text": "Oh, I believe it's fairly modest in\ncomparison to\nwhat else I plan to\naccomplish.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe. Speaking of which, there are\nvarious things\nI would like to do with this\nlodging here.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Under my guidance, this place would be\nfar\nbetter.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's so awfully hot in here. First of all, I'd\nhave a\nmuch-needed air conditioner\ninstalled.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "(Actually, that's kind of a small dream...)"
+            ]
+        },
+        {
+            "text": "I stow my seditious thoughts away and\ninstead\nshift my focus to summer training\nwith Кинг Хало!",
+            "name": "Монолог"
+        }
+    ]
+}

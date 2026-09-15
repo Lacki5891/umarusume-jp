@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Finally, the day of the Takarazuka Kinen\narrives.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right! Let's get charged up for an\nelectrifying\nrace!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hayahide may be a strong rival, but I'm\narmed\nwith tons of passion!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You can bet that I'll bring some super\nexciting\nmoments to this race, Trainer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Go and show them!"
+            ]
+        },
+        {
+            "text": "Yeah, see you later!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...Ticket.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh, Hayahide! Good luck to both of us!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Let's make it a great race that really\nwows the\naudience!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "A race to wow them... I see.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah! So give me all you've got!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Of course. You had better do the same.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

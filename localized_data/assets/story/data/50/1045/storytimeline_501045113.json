@@ -1,0 +1,239 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Miss Creeeeek! I'm hungry! Waaaaah!",
+            "name": "Child"
+        },
+        {
+            "text": "Now, now, don't cry.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll give you something really nice! ♪\nHere, hold\nout your hands.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "There's one thing that I've wanted to see\nfor a\nlong time...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i>",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Trainer, let's pick up the pace... <i>Pant,\nhuff...</i>",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "I'm fine. I just... want to see it...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Phew! I worked up a great sweat today.\nThank\nyou for another amazing training\nsession.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm feeling great now. Hopefully, I can\nkeep this\nup and get through the Sumire\nStakes on my way\ninto the Classics.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Can I ask you something?"
+            ]
+        },
+        {
+            "text": "Of course. What is it?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I ask her something that's been on my\nmind. What\nis this thing she wants to\nsee?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Oh, that? Well...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "How many treats do you want, Тренер?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Treats?"
+            ]
+        },
+        {
+            "text": "Yes, treats. How many do you want?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I don't really need any."
+            ]
+        },
+        {
+            "text": "Oh, you! Just be honest with me.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe, it's what I used to ask the kids I\nlooked\nafter.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "My family runs a daycare center, and I\noften\ncared for the kids with my mom.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'd ask them how many treats they\nwanted, and\nthey would all say different\nthings.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "The shy children would only ask for one.\nThe\ngreedy ones would ask for several.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Everyone had different answers, but\nthere was\none thing that they all shared.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What was that?"
+            ]
+        },
+        {
+            "text": "Well... they'd all smile when they got\ntheir treats.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It was always a joy seeing them so\nhappy! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Sometimes, I think to myself that smiles\nare what\nare most important.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "There are all sorts of children at the\ndaycare\ncenter—some are more\nfortunate than others.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But while they're smiling, none of that\nmatters! As\nlong as I can make them\nsmile, anyone can be\nhappy, at least for\nthat moment.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I can't be everyone's mom, nor can I take\naway\nthe sadness in their hearts. But...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If I'm able to create even a single happy\nmoment\nin their lives, even if it's only for\nan instant, then\nI'll do whatever it takes.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "That's why I can try my hardest, no\nmatter how\ntough it may be—to see\npeople smile.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I had no idea."
+            ]
+        },
+        {
+            "text": "Yeah, that's why I want you to be honest\nwith me.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If a child doesn't get the number of\ntreats they\nwant, they won't smile.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "So I'll ask you one more time—Trainer,\nhow many\ndo you want?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Tell me honestly how many it would take\nto make\nyou smile. ♪ I'm sure you want\nsome!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "...One?"
+            ]
+        },
+        {
+            "text": "Hmm, just one? I like considerate\nchildren, but I\nfeel like you're holding\nback...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "...Then I guess two?"
+            ]
+        },
+        {
+            "text": "Is that how many you want? Would one\nper month\nin April and May really be\nenough?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "One per month... in April and May?",
+            "name": "Монолог"
+        },
+        {
+            "text": "A thought crosses my mind. Could it be\nthat she's\ntalking not about treats, but\nabout races?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tell me how many you really, <i>really</i>\nwant. Go on.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Three!"
+            ]
+        },
+        {
+            "text": "Thank you for being honest. So you want\nthree of\nthem, right? ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I feel the same way. Miss Creek wants to\ngive you\nthree as well.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Ah, right. I'm not \"Miss Creek\" here! I\nthought I\nwas back at the daycare center\nfor a second\nthere.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Sorry! You're my trainer, not one of the\nkids.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "We look at each other and laugh. I think\nI know\nwhat the treats really mean now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right then. I've promised you three\ntreats.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I can't give them to you now, but I\ndefinitely will...\neventually.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Anyway, I've got somewhere to be now,\nso I'll see\nyou later.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Okay. Later!"
+            ]
+        },
+        {
+            "text": "Супер Крик leaves and heads back\ntowards the\nacademy. What exactly is\nshe up to?",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, puff, pant...</i> I can still keep going.\nJust a\nlittle longer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I need to get stronger to give Trainer all\nthree\ntreats. The Satsuki Sho, the Derby,\nand the\nKikuka Sho...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "There's only one thing I want to see, and\nI need to\ndo this if I want to make it\nhappen...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I want to—no, <i>have</i> to see it this fall. I\n<i>will</i> make\nTrainer smile!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Huff, huff, huff... Cough...</i>",
+            "name": "Супер Крик"
+        }
+    ]
+}

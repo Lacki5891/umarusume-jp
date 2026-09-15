@@ -1,0 +1,201 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer, Fukukitaru, Happy New Year! ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ohhh, I'm so happy...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Happy about what, Doto?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Well, last year I messed up our New\nYear's visit\nand ended up going to a\nshrine alone.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But I didn't make a single mistake this\ntime!\nMaybe this is a sign of growth?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Why yes, of course it is! ☆ You're not\nthe same\nDoto you used to be.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Мэйсё Дото has become a little more\nresilient\nsince that encounter with\nАдмайр Вега.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, just you wait. I'm going to give\nthis year\nmy all!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll definitely be able to support Opera\nO. I know I\ncan, because I've grown...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You've grown, huh?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Oh, Shakur? Are you here to celebrate\nNew\nYear's too?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Me? Course not. I'm just passing\nthrough, but\nmore importantly...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Listen up, Doto. Don't go believing in\nthings you\ncan't put into numbers.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Growth, feelings, gods, wishes... Get\ncaught up in\nthat nonsense, and you'll\nlose sight of reality.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "I said it before your debut, and I'll say it\nagain.\nYou need <i>skill,</i> not any of that\ngood-luck junk.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Don't go tripping over yourself 'cause\nyou've\nmisread the info. See ya.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "As Air Shakur leaves, I get the odd\nfeeling she\nwas looking at me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "T-T-Trainer... Shakur isn't the type to\nmake up\nlies. She's right—I'm just not\ntalented enough...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "That's not true."
+            ]
+        },
+        {
+            "text": "Yes, yes, I agree! If you ask me, numbers\nmake as\nmuch sense as rapping\nunderwater.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Have faith in the gods, and you'll be on\nthe\ncorrect path! The gods save the\nearth! Nothing\ncan go astray if you have\nluck on the way! ☆",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That would be nice, but...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Well, I'll need to do something this New\nYear's to\nwin the blessing of the gods.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Trainer, what do you think I should do?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I don't want to push her so early in the\nyear, so I\nthink a small blessing will do.\nWhat could work as\na cozy little\nadventure for her?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Chillax with the crew.",
+                "Go for a mountain retreat.",
+                "Learn the art of napping."
+            ]
+        },
+        {
+            "text": "Wow, chillaxing. ♪ Lounging about\nindoors with\neveryone sounds great.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "So it's settled! Why don't we sing a New\nYear's\nsong to get in the chillaxing\nmood!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "La-la-la, la-di-da! ♪",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Yay! ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "La-di-da-di-daa! ♪",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um, this is a lot of fun, but all I've\ncontributed is\na \"yay\" so far...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You're totally fine! It's New Year's—let\nme handle\nall the difficult parts!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "A retreat in the mountains... It sounds\nlike a lot of\nwork.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I see... A follower of the gods is a\npractitioner of\n<i>shugendo,</i> and a\npractitioner of <i>shugendo</i> must\ntrain in\nthe mountains.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Now then! We should depart for those\nbitter, cold\npeaks where spirits roam\nfree!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Trainer, the rice we cooked using the\nmess kit is\ngood to go. It's steaming hot!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And here's a really fluffy blanket. We\ncan get nice\nand cozy with this.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "What is this?! The only peaks I see are\nthe tops of\nthese tents! Are we just\ncamping?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Well, not that it's a problem. ♪ A trip to\nthe\noutdoors is stimulating in itself.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ooh! And did you know you can learn\nwhile you\nsleep? What an idea! A New\nYear's blessing.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Speaking of which, I think I've seen\naudiobooks\nthat send info directly to\nyour brain via\nheadphones.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Maybe I'll put one of those on, and go\ntake a\nnap.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "A few days later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, I don't know what to do! I can\nremember\nall these things, and it\nhappened so suddenly.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I must have memorized everything from\nthe\nsleep-learning audiobooks. It all just\nsoaked into\nmy head.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото, honest to a fault, has\nabsorbed all\nthe knowledge played back\nto her. I can see this\ninformation coming\nin handy later on.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Pitching our tents, gathering\nkindling—we enjoy a\nlittle getaway from\nour everyday routines.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Relenting, Мэйсё Дото continues\nadding her own\nlittle contributions. She\nappears to be having a\nrelaxing time.",
+            "name": "Монолог"
+        }
+    ]
+}

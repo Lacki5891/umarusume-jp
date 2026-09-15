@@ -1,0 +1,38 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "One morning, I see Oguri Cap assumedly headed \nto the academy, but as she approaches, she \nmarches right past its gate.",
+            "choice_data_list": [
+                "Where are you going?",
+                "Where are you going?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That was a close one. You're a real lifesaver... \n<i>Yawn.</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I couldn't fall asleep last night, so instead of \nsheep, I decided to count takoyaki."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Then I counted taiyaki, and then carrots, and \nthen hamburgers..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Before I knew it, it was morning."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap looks sleep-deprived throughout the \nremainder of the day."
+        }
+    ],
+    "title": "Night Owl"
+}

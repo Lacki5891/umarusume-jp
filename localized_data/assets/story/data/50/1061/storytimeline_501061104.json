@@ -1,0 +1,300 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're in the middle of summer camp,\nand King\nHalo has the Kikuka Sho on her\nmind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Who will seize glorious victory in the\nKikuka Sho?\nWhat's her name?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Ohohoho! You couldn't be more correct!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Shouldn't you be training right now?"
+            ]
+        },
+        {
+            "text": "No, no, no, you dummy! This is the part\nwhere\nyou're supposed to say \"King is\nthe best!\"",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "For the time being, training is secondary!\nNow is\nthe moment for making grand\nimpressions!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "With the amount of tourists here, I have\nto ensure\nas many as possible remember\nmy name.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "If I want to run in the likes of the\nTakarazuka\nKinen or Arima Kinen, I need\nfans to vote for\nme! ♪",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Logical, but still...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah. Is that the nepo baby everyone's\ntalking\nabout? Guess you can do\nwhatever you want\nwhen you're rich.",
+            "name": "Tourist at Food Stall"
+        },
+        {
+            "text": "That's nepotism for you. I've heard her\nmom was\nseriously amazing, though. At\nleast, that's what\nmy dad says.",
+            "name": "Tourist in Swimsuit"
+        },
+        {
+            "text": "This approach seems counterproductive.\nIt would\nbe better to show off her actual\nskills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Such trifling criticism does nothing to\nme.\nBesides, I'm not going to give—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohhhh! Is it who I think it is?!",
+            "name": "Tourists"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> Sei! I finally found you!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Well, well, if it isn't Spe! You running\nfrom trouble\nor what?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "If you're looking for a good fishing spot,\nthe\nrocky area down by the coast should\nbe pretty\ngreat.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "No, I'm not here for fishing. I wanted to\nask you\nto go running with me!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I keep thinking about how well you ran\nin the\nSatsuki Sho!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Love that you get straight to the point.\nGives me\nprotagonist vibes.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "But, you're outta luck today! ☆ Why\nshow my\ncards when I can just relax\ninstead?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "At least consider it for a second!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Aw, come on!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Man, I really admire Спешл Уик. She's\nhonest,\nupfront, and super determined!",
+            "name": "Tourist at Food Stall"
+        },
+        {
+            "text": "Me too, me too! And she's got such\ngood\njudgment, observing Сэйун Скай.",
+            "name": "Tourist in Swimsuit"
+        },
+        {
+            "text": "I'm expecting Сэйун Скай to turn heads\ntoo after\nher performance in the Satsuki\nSho.",
+            "name": "Tourist in Swimsuit"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Just one race and those two already\nhave\neveryone calling them by their\nnames.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You want them to be talking about you?"
+            ]
+        },
+        {
+            "text": "Of course. My name should be the talk\nof the\ntown.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Instead, everyone keeps going on about\n\"<i>her</i>\ndaughter\" and the like. The\ndisrespect is just\nastonishing, don't you\nthink?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "K-Kawakami?! What are you doing here?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What's with that question? I'm a student\nat\nTracen Academy too. It's not weird for\nme to be\nat summer camp.",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Ugh! That's not what I mean! You're\nsupposed to\nbe focused on your training!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Exactly! So, why don't you come with\nme, King?",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Hehehe. I heard you talking just now.\nYou\ndeclared yourself the next winner of\nthe Kikuka\nSho.",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "I wanna train with strong people, the\nkind who\nare full of the confidence to\nwin!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Oh, Kawakami. You have much to learn.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I think it's endearing. You should help out the\nyounger students.",
+                "Are you prepared to join the call and response\nfrom hell?"
+            ]
+        },
+        {
+            "text": "Oh, Kawakami. You have much to learn.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I think it's endearing. You should help out the\nyounger students.",
+                "Are you prepared to join the call and response\nfrom hell?"
+            ]
+        },
+        {
+            "text": "Umm... She's not younger... You see, sh—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Okay, King! I'm heading there first! I'm\ngonna win!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Win?! Against who?! I know you can't\nmean me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Swept up by Каваками Принцесс's\nchallenge, King\nHalo joins her for a\nrunning session.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> How could you let this happen?\nMost\neveryone's already left.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, I do feel stronger after training, so\nI'll let it\nslide this time. But, starting from\ntomorrow...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "We'll go back to promoting the Кинг Хало\nbrand."
+            ]
+        },
+        {
+            "text": "Hmph! I'm glad you understand.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You're going to make me have to deal\nwith her?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Gulp...</i> Heed the call from hell? Is that\nyour secret\ntraining plan?",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Kawakami... You aren't the sharpest tool\nin the\nshed, are you?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What am I to do with you two?\nHonestly...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Right, then! If it's what you desire, I'll\ngrant you\nthe right to join me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Your job is to shout \"Кинг Хало\" after\neverything I\nsay. Understand?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Okaaay! ♪",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "<i>Wheeze... Wheeze...</i> Well, I think that's\nabout\nenough promotion for today.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well done, everyone. Best to give your\nvoices a\nbreak before tomorrow.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "We're doing this again tomorrow?!"
+            ]
+        },
+        {
+            "text": "Well, of course! Once you've joined the\ntroop,\nyou should stick with it to the\nvery end.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well then, I'm going to take a stroll\nbefore\nheading back to the lodge. You\ngo on without\nme.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well then, I'm going to take a stroll\nbefore\nheading back to the lodge. You\ngo on without\nme. ...Phew!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Fshhh...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Before I have a moment to respond, King\nHalo\nruns away.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She dashes off a little slower than usual\nbecause\nof the sand, but nonetheless\nswift.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Ah, I knew it. She's different from her\nmother.",
+            "name": "Kind Репортёр",
+            "choice_data_list": [
+                "Who are you?"
+            ]
+        },
+        {
+            "text": "Oh, sorry. I guess I said that out loud.\nYou know, I\nused to be a big fan of her\nmother...",
+            "name": "Kind Репортёр"
+        },
+        {
+            "text": "I heard a rumor that her daughter would\nbe here,\nso I couldn't help but come.\nHahaha.",
+            "name": "Kind Репортёр"
+        },
+        {
+            "text": "She appears to have good form.\nHowever, if it\nwere her mother...",
+            "name": "Kind Репортёр"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> Why am I already out of\nbreath?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But I can't stop now—not until people\n\nacknowledge me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The fame, the spotlight, the attention...\nI'm\nnowhere near where I want to be!",
+            "name": "Кинг Хало"
+        }
+    ]
+}

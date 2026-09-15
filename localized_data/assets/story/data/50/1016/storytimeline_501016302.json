@@ -1,0 +1,253 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Брайан and I head to the shopping\ndistrict to\nbuy some equipment one day\nafter training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...What's going on over there?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "So, it's a raffle. Come to think of it,\ndidn't you get\na ticket earlier?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Want to give it a go?"
+            ]
+        },
+        {
+            "text": "Well there's no point in not using it,\nright?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Okay.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hand it over.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "My sister always says that I'm good at\nturning the\ntumbler. Just watch.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I hand the raffle ticket to a strangely\nconfidant\nНарита Брайан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She steps up boldly and spins the lever\nof the\nraffle machine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\nticket for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... the grand prize.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "That's amazing!"
+            ]
+        },
+        {
+            "text": "Haha, you're a little too happy. You\nlook just like\nmy sister.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Every time I won a prize, she would clap\nher\nhands and run up to get it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But that's ancient history. Anyway, I'll\ngive you\nthe prize this time.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "text": "Why not? You're the one who got the\nticket to\nplay in the first place.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All I did was spin the lever. If anyone\ndeserves the\nprize, it's you.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "But you went to all the trouble..."
+            ]
+        },
+        {
+            "text": "...Hah. You're taking this too seriously.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Fine. I'll use it when I decide the time is\nright.\nOkay?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm... Another delicious-looking prize.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oho, you've got a good eye! Actually,\nthe retail\nvalue of this hamburger steak\nis... <i>mumble,\nmumble.</i>",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "What?! Are you insane, giving away\nsomething\nthis extravagant as a raffle\nprize?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>...Gulp.</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I recommend you eat it soon. All food is\nbest\nwhen it's fresh!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let's hurry back and get cooking,\nTrainer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Who knew you could get meat like this\nfrom a\nraffle...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, we won something..",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Nice job!"
+            ]
+        },
+        {
+            "text": "Not bad, getting second prize and all!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "...Come on, don't praise me over\nsomething like\nthis. It's embarrassing.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "But it's impressive!"
+            ]
+        },
+        {
+            "text": "...I said cut it out already. Geez...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Third place.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Winning anything at all is still lucky!"
+            ]
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yeah, I guess so. Raffles are like that.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "At least the prize is a carrot. It's good\nluck\ngetting something I can eat.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I lost?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Hey, it happens."
+            ]
+        },
+        {
+            "text": "True. Playing a raffle you can't lose\nwould be\nboring.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Everything happens by chance. Not\nknowing what\nwill happen is exactly\nwhat makes it interesting.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Although, winning still would've been\nnicer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан and I head back to the\nschool faster\nthan usual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, Нарита Брайан ends up taking the\nticket for\nthe hot spring vacation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан takes the prize. Although\nshe's not a\nfan of vegetables, it seems\nthat carrots are an\nexception.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her tail drops dejectedly and doesn't\nperk up\nagain for a while after.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан splits the carrots with me,\nlooking\nslightly embarrassed.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Woohoooo! I won! I WON! I got first\nplace!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Trainer! Trainer, I won!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Great job, Ticket!"
+            ]
+        },
+        {
+            "text": "I... <i>Sob...</i> I-I did it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaaah! I'm so overwhelmed right\nnooow!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I ran as hard as I could, even more than\nfull\npower... And I got first! I'm so happy!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You really did great!",
+                "Let's keep up the great work and win more\nraces!"
+            ]
+        },
+        {
+            "text": "I ran as hard as I could, even more than\nfull\npower... And I got first! I'm so happy!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You really did great!",
+                "Let's keep up the great work and win more\nraces!"
+            ]
+        },
+        {
+            "text": "T-Traineeeer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I know exactly why I won too...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's 'cause I have a trainer who ALWAYS\ngoes all\nout in helping me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What I'm saying is... we got this win\ntogether!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So congratulations, Trainer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Then how about we celebrate tonight?"
+            ]
+        },
+        {
+            "text": "Ooh! A celebration!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Okay, you got it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm gonna go full blast at the next one\ntoo!\nThere's no way I'll ever lose!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "It's great to see you so confident!"
+            ]
+        },
+        {
+            "text": "Of course I'm confident! I feel like I can't\npossibly\nlose!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Not if I'm running my best, that's for\nsure! And I\nknow you're doing your best\nto help me too...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "When I think about it like that, both my\nbody and\nspirit can run at full power!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All riiiight! Look forward to the next\nrace! It's\ngonna be GREAT!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Great idea! Let's have a celebration of\nour\nvictory!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

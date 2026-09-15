@@ -1,0 +1,183 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ngh...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Forgive me, Trainer. I failed to take the\ncrown.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "How humiliating for me to fall at the first\nhurdle.\nWhat use is an Emperor who\ncannot meet her\nsubjects' expectations?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I am naive. Lacking. Pathetic.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф's eyes cloud with bitter\nregret...\nbut beneath it, a fire still burns.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But that does not mean my dream is\ndead.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Two crowns remain. I will vindicate\nmyself by\nclaiming the next: the\nJapanese Derby.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Our campaign is not yet over. Are you\nwith me,\nТренер?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "That's it, then. We're sticking to the plan\nand\naiming for the Japanese Derby!",
+            "name": "Монолог"
+        },
+        {
+            "text": "As we settle down to refocus ourselves\non taking\nthe two remaining crowns...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Knock, knock...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Come in.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Good afternoon, President.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Sorry to bother you...",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "Ah, you two. Right on time.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I apologize for making you watch such a\npoor\nperformance.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You must be disappointed.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Not at all!",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "You ran so magnificently, right up to the\nfinish\nline.",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "You were every bit the racer I thought\nyou were...\nEvery bit the racer who\ninspired me to join the\nstudent council.",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "I appreciate your candor. And let me\nswear to you\nhere and now...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I will become stronger still. Strong\nenough for you\nto rely on without\nhesitation.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...President?",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "I apologize for not seeing your troubles\nsooner. A\nsign that I must pay closer\nattention to those\naround me, no doubt.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If you want to become stronger, I will\nhappily\nguide you. I don't want you to\nsuffer in silence.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "B-but you're so busy! I couldn't\npossibly...",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "It's no burden at all. I would be honored\nto help\nyou flourish.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "So I ask you to give me one more\nchance...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And trust that I am strong enough to\ncarry you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Why are you being so kind to... to a\nwaste of\nspace like me?",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "Because you are the purest incarnation\nof my\ndream.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "(Her dream, huh?)"
+            ]
+        },
+        {
+            "text": "I have charged myself with building a\nworld where\nall Umamusume can live in\nbliss.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And you joined the student council in\nthe hopes\nof growing as a person.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I will not watch you give in before you\nrealize\nyour dream.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Please, don't call yourself a waste of\nspace. If you\nare struggling to find your\nway, I will help you\nfind it.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If you look up to me as much as you say,\ncan you\ntrust me to lead you in the right\ndirection?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President...",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "I'm sorry I've been acting so scared. I...\n<i>Sniff...</i> I'll\nfollow you wherever you lead\nme...",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "Now, now, don't cry. I'm delighted to\nsee you've\nfound your resolve.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It looks like the issue at hand has been\nresolved.\nRudolf has a knack for leading\nthrough\nstrength—a tactic befitting an\nEmperor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But such strength requires the\ndetermination to\ncarry an enormous\namount of responsibility on\nher\nshoulders. And in that sense, her\napproach\nis...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ridiculous.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув watches from a distance, a\nhint of\nfrustration in her eyes.",
+            "name": "Монолог"
+        }
+    ]
+}

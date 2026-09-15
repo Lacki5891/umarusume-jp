@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "So this is the current extent of my\nabilities...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I can't afford to be so careless,\nespecially not\nafter discovering such a\nflaw in my calculations.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hmm... Perhaps it'd be best if I go back\nto the\ndrawing board and start from the\nground up.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It'd be a shame if she abandoned all her\nhard\nwork, but the choice is ultimately\nhers.",
+            "choice_data_list": [
+                "Some of it is good!",
+                "I think you're right."
+            ]
+        },
+        {
+            "text": "It'd be a shame if she abandoned all her\nhard\nwork, but the choice is ultimately\nhers.",
+            "choice_data_list": [
+                "Some of it is good!",
+                "I think you're right."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Thank you. I really appreciate you\nhelping me\nwith my theories and\ncalculations.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You're right. The path to success is\npaved with\nfailure. Nothing I've done has\never been a waste\nof time.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Now, then! First, let's identify the parts\nof the\nstrategy that did work. If we do\nthat, then—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Your next race will end in victory instead!"
+            ]
+        },
+        {
+            "text": "Right! I'll strike the iron while it's hot\nand rework\nmy calculations now while\nmy memory of the race\nis still fresh.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's head back right away...\nWait—before we go\nback, I need to buy\nsome bananas.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Uh, why?"
+            ]
+        },
+        {
+            "text": "Because the glucose they provide is\nexcellent for\nboosting brain function.\nThey're essential for long\nbrainstorming\nsessions.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "For the record... I don't want to buy\nthem simply\nbecause I want to eat\nbananas!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yes! I'll do whatever it takes to perfect\nmy\nwinning equation.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ and I grab some bananas\nfrom the\nsupermarket before heading\nback, and then we\nput in some long\nhours going over race data."
+        }
+    ]
+}

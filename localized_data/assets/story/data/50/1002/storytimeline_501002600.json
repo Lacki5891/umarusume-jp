@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I go to visit Сайленс Судзука in the prep\nroom\nbefore the race only to discover\nshe isn't there.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh, Trainer...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Did you go for a run?"
+            ]
+        },
+        {
+            "text": "I got the itch, so I did a lap around the\n\nracecourse.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It looks like it's about time...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll give everything I have to reach the\nfront...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I won't give up the lead to anyone.",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

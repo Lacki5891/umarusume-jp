@@ -1,0 +1,50 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! Trainer! Oh, it's terrible, just\nawful!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "What happened?!"
+            ]
+        },
+        {
+            "text": "Trainer! Trainer! Oh, it's terrible! Just\nawful!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "What happened?!"
+            ]
+        },
+        {
+            "text": "I was looking something up on my\nphone, and all\nof a sudden, this weird\nthing popped up!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Something about viruses and my\npersonal\ninformation... What's going to\nhappen to me?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I look at her phone, and it's merely a\npop-up ad.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "There's no problem. You can relax."
+            ]
+        },
+        {
+            "text": "Really? You're sure?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Whew, thank goodness... That really\nthrew me for\na loop.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I know I should learn how to use this\nthing\nproperly, but it's just so hard to\nfigure out. <i>Sigh...</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All that worrying really seems to have\nworn\nМарузенски out...",
+            "name": "Монолог"
+        }
+    ]
+}

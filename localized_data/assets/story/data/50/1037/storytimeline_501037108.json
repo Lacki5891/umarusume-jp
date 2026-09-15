@@ -1,0 +1,230 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today's the Spring Fan Fest! Students\nare\npartaking in contests to entertain the\nfans, and\nEishin Flash is no exception.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff!</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш takes first place!",
+            "name": "Event Announcer"
+        },
+        {
+            "text": "Эйсин Флэш has won the ping-pong relay\nwith her\nunparalleled footwork, and she\ndidn't drop the\nball a single time!",
+            "name": "Event Announcer"
+        },
+        {
+            "text": "<i>Clap, clap, clap!</i>",
+            "name": "Spectators"
+        },
+        {
+            "text": "I thank you all for your support.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh, Lady Flash... I wish I could talk with\nher, even\nonce...",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "As if that'll happen. But I'm happy just\nwatching\nher from a distance. Wow, just\nlook at her\nbeautifully glossy hair.",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "She's so sublime, there's no way I'll ever\nget to\nsee her up close... Oh, she's\nwonderful...",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "It seems Эйсин Флэш's fans are just as\nreserved as\nshe is.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer. I have completed every\ncompetition I\nregistered for.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Great job!"
+            ]
+        },
+        {
+            "text": "The last competition ended earlier than\nexpected\nso I have unanticipated free\ntime.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "If you have no preference for what I\nshould do\nnext, I would like to search\nfor another\ncompetition I can join\nlast-minute.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The fan from earlier comes to mind. Even\nif it's a\nbit forced, maybe there's a way\nEishin Flash's fans\ncan interact with her...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "In that case, I have a suggestion."
+            ]
+        },
+        {
+            "text": "It's time for everyone's favorite event,\nthe\nfan-carrying contest!",
+            "name": "Event Announcer"
+        },
+        {
+            "text": "The rules are simple. Fans will introduce\n\nthemselves, and the first contestant to\nreach the\nfinish line with one of them\nwins!",
+            "name": "Event Announcer"
+        },
+        {
+            "text": "The G Block participants are Голд Шип,\n\nНакаяма Феста, and Эйсин Флэш!",
+            "name": "Event Announcer"
+        },
+        {
+            "text": "A big thanks to the fans participating!\nNow, which\npair will reach the finish\nfirst?!",
+            "name": "Event Announcer"
+        },
+        {
+            "text": "Hah! I choose you! Here it comes...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Golshi's ☆... Burlap Sack of Destiny!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Gaaaaah! You're literally carrying me\nlike a sack\nof potatoes?! You're too\nrough! Ow! It's dark, and\nI'm scared!",
+            "name": "Golshi Fan"
+        },
+        {
+            "text": "You there. You've got a look of luck\nabout you.\nCome with me.",
+            "name": "Накаяма Феста"
+        },
+        {
+            "text": "Huh? Wait... Wha?! Whoaaa! H-how are\nyou\ncarrying me with just one arm?!\nYou're incredible!",
+            "name": "Nakayama Fan"
+        },
+        {
+            "text": "O-oh no! Lady Flash is going to lose!",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "B-but there's nothing I could possibly do\nto help...",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "Pardon me. Are the colors of your flag\nmeant to\nmatch my signature racewear?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Gasp!</i> Y-yes!",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "The moment she gets her answer, Eishin\nFlash\ngrabs hold of her fan's hand.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's no time. Would you please lend\nme your\nstrength?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Really?! ...Of course!",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "Thank you. Now, pardon me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I-I-I'm being princess carried!",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "Голд Шипп wins G Block! She ran so fast,\nI think\nher fan's soul is still somewhere\nout on the track!",
+            "name": "Event Announcer"
+        },
+        {
+            "text": "I'm so sorry... I-I should've announced\nmyself to\nyou sooner!",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "No, don't worry. There was no defeating\nGold\nShip in an event like this.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I cherish my fans too much to treat them\nin such a\nmanner.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I do hope you aren't feeling ill.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hnggg... I love you!",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "Hm? Oh, um... Thank you very much.\nNow, are\nyou feeling all right?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Whoa! Эйсин Флэш wins the race!\nDespite her late\nstart, she was able to\nclaim victory with a truly\nlegendary\nsurge on the homestretch!",
+            "name": "Event Announcer"
+        },
+        {
+            "text": "Thanks to how securely you were\nholding on to\nme, I was able to run at\nfull speed without issue.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "N-no, thank <i>you!</i> It was... It was truly an\nhonor!",
+            "name": "Flash Fan A"
+        },
+        {
+            "text": "Oh! What a hasty retreat... I was hoping\nto talk\ntogether a while longer...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "E-excuse me!",
+            "name": "Flash Fan B"
+        },
+        {
+            "text": "Hm? Who are all of you?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "We're all your fans, Lady Flash.",
+            "name": "Flash Fan C"
+        },
+        {
+            "text": "\"Lady\"?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After seeing that last event, we knew we\nhad to\nwork up the courage to speak\nwith you! Um, we\nwon't ask you to carry\nus or anything, but could\nwe please\nspend some time together?!",
+            "name": "Flash Fan D"
+        },
+        {
+            "text": "Please, Lady Flash!",
+            "name": "Flash Fans"
+        },
+        {
+            "text": "...Trainer.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I'll go and see if I can set up a meet-and-greet!"
+            ]
+        },
+        {
+            "text": "Thank you!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш might have lost the event,\nbut she\nwas able to grow closer to a fan.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, Эйсин Флэш is able to deepen\nher bond\nwith many fans.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "в тренировке, Смарт Фалкон comes up\nto me out\nof breath..."
+        },
+        {
+            "text": "<i>Huff... puff...</i> Trainer... What... should I...\ndo?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "My fatigue isn't clearing up one bit...\nThere's no\nway I can train cute like this!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Train... cute?"
+            ]
+        },
+        {
+            "text": "Yeah... My muscles need to be cute and\nhealthy if\nI want to be a top Umadol.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But when I'm this worn out, all I can do is\ntrain\ntired!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "She seems to be exhausted... Maybe I\nneed to\nrevise her race schedule."
+        }
+    ]
+}

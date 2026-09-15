@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэйсё Дото has yet to show up to\ntraining, so I\ndecide to search for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Th-the energy from the cosmos gives\nyou\np-positivity? And you say the results\nare\npermanent?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I never knew a p-product so amazing\ncould be\nreal! I'll take one please!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hehe, so you would like to purchase the\ncosmic\nwristband. Now, how will you be\npaying?",
+            "name": "Suspicious Lady",
+            "choice_data_list": [
+                "Are you sure this does what you say?"
+            ]
+        },
+        {
+            "text": "Gyah, Тренер?! What are you doing\nhere?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh, ho, ho, ho! I must take my leave, for\nI have\nnow remembered my very tight\nand busy\nschedule!",
+            "name": "Suspicious Lady"
+        },
+        {
+            "text": "Huuuh?! But what about my cosmic\nwristband?!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You should be more concerned that it's your\ntraining time."
+            ]
+        },
+        {
+            "text": "Training ti—Oh nooo!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I completely forgot! I'm s-so sorry!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I remind Мэйсё Дото to be more\ncognizant of\nher training schedule.",
+            "name": "Монолог"
+        }
+    ]
+}

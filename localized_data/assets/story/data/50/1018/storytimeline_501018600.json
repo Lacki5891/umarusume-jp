@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Before a race, I find Эйр Грув\nquivering in the\nwaiting room.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Nervous?"
+            ]
+        },
+        {
+            "text": "Who, me? Hah.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You fool. Quite the contrary. I am\nabsolutely\nelated.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "After all, today I move one step closer\nto\nbecoming a model for Umamusume\neverywhere.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Let's win this thing!"
+            ]
+        },
+        {
+            "text": "That goes without saying. Keep your\neyes on the\nEmpress and witness my\nvictory!",
+            "name": "Эйр Грув"
+        }
+    ]
+}

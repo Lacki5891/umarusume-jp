@@ -1,0 +1,233 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On our way home from a day out, we\ndecide to\ntake the train back.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I had a bunch of fun today, Big Bro.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I had a bunch of fun today, Big Sis.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Ding ding ding ding...</i> ♪",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, the train's coming. Let's get in line.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Yay! There are seats open! I wanna sit at\nthe\nend! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You're next to me, obviously!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You're next to me, obviously!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "That way, we can talk a whole bunch. ♪\nCome on,\nhurry!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Rattle, rattle, clunk...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks for taking me out today. ♪ I got\nso many\npics.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And they're not even all selfies. Look! I\ngot this\ncandid shot of you!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "When did you take that?!"
+            ]
+        },
+        {
+            "text": "And they're not even all selfies. Look! I\ngot this\ncandid shot of you!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "When did you take that?!"
+            ]
+        },
+        {
+            "text": "Hmm, I wonder! Maybe I should upload\nthis to\nUmastagram... Just kidding!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "We pass some time on the train by\nlooking at the\nphotos Каррен Тян has\non her phone. But then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Rattle, rattle, clunk...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Zzz... Zzz...</i>",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян snores peacefully. I can feel\nher\nwarmth on my shoulder.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ehehe... Big Bro... <i>Zzz... Zzz...</i>",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I'll let her sleЭпизод",
+                "...Maybe I should wake her up."
+            ]
+        },
+        {
+            "text": "Ehehe... Big Sis... <i>Zzz... Zzz...</i>",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I'll let her sleЭпизод",
+                "...Maybe I should wake her up."
+            ]
+        },
+        {
+            "text": "<i>Rattle, rattle, clunk...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe... Big Bro...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hehe... Big Sis...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I like that... about you...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Yawn...</i> That felt great!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I'm glad to hear it."
+            ]
+        },
+        {
+            "text": "Haha! And your shoulder made the best\npillow.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Haha! And your shoulder made the best\npillow.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll be sure to make a reservation the\nnext time I\nride the train too! ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "A reservation for what?"
+            ]
+        },
+        {
+            "text": "For the seat next to you! I can't let\nsomeone else\nhave you, now can I?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "For the seat next to you! I can't let\nsomeone else\nhave you, now can I?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And so, we walk home side by side...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I decide to gently wake her up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yaaawn...</i> Ehe... Morning, Big Bro. Did\nyou wanna\ntalk to me more?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Yaaawn...</i> Ehe... Morning, Big Sis. Did\nyou wanna\ntalk to me more?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Well, if you insiiist! Maybe I still have\nsome vids I\nhaven't showed you... Oh!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Heyyy, Umastagram! Check out these\nclothes!\nThat's right! I'm starting at\nTracen Academy\ntoday! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm sooo excited—and nervous too,\nthinking\nabout the friends I'll make and\nthe races I'll run in!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Beep, beЭпизод..</i>",
+            "name": "Car"
+        },
+        {
+            "text": "Oh! My ride's here! Time to go!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Who knows? Maybe I'll meet someone\nspecial\ntoday!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Haha. That video really takes me back. It\ngot a\nmillion likes, you know.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...It's an important memory. Maybe I\nshould put it\nin my favorites folder. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "The train slows down and comes to a\nstop.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, it looks like we're here already.\nGuess it's\ntime to say goodbye for\ntoday, Big Bro!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh, it looks like we're here already.\nGuess it's\ntime to say goodbye for\ntoday, Big Sis!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "We didn't forget anything, did we?\nThen...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wait, no! I <i>did</i> forget something! Over\nhere, Big\nBro!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wait, no! I <i>did</i> forget something! Over\nhere, Big\nSis!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Click!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe! I got another shot of you! ♪ This\none's\ngoing straight into my favorites!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "A little closer than usual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Каррен Тян heads toward the ticket\ngate with a\nspring in her stЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the day of the Japanese Oaks. We\narrive early\nand are heading to the\nwaiting room, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sorry, but do we have some time before\nwe head\nin?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "text": "I'd like to have a look at the course\nbefore I run.\nIs there time?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув seems more nervous than\nusual. I\ndecide to okay her request.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The first race hasn't even yet begun, but\nthe\nstands are quite full already.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're gonna witness history today! I\nwanna see\nthe Empress follow in her\nmom's footsteps and\nwin the Japanese\nOaks with my own eyes!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "You said it! I really, really hope Air\nGroove wins!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "It's evident that the crowd has a\nheightened\ninterest in today's race—or\nperhaps I should say,\nin Эйр Грув's\nperformance today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I wonder what was going through my\nmother's\nmind when she took on the\nJapanese Oaks.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "How strange... To be here myself, yet\nthinking of\nthat.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув has a point—it's not like her\nto be so\npensive.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You've never asked her about it?"
+            ]
+        },
+        {
+            "text": "Once, but I was quite young at the time.\nI\nremember how she responded even\nnow.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "\"If you really want to know, then try\nrunning there\nyourself.\"",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "\"If you give the race everything you can\nmuster,\nI'm sure you'll understand how I\nfelt.\" That's what\nshe told me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...What's with that look?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You strike me as pretty different from her."
+            ]
+        },
+        {
+            "text": "When it comes to the big questions, my\nmother\ndoesn't like to hand out answers.\nShe believes it's\nmore effective to let\nyou find them for yourself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She has a broad outlook that I can't\nhope to\nfathom, and her words always\nhave a deeper\nmeaning.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's only natural that you wouldn't\nunderstand her\nwords. Especially when I\nmyself am still puzzling\nover them.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's tone is as abrasive as ever,\nbut her\nexpression is slightly softer than\nusual when\nspeaking of her mother. She\nlooks almost...\nchildlike.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Together with the new perspective on\nwhat the\nJapanese Oaks means to her, it\nmakes me see her\nin a new light.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I guess in the end, you'll just have to try it and\nsee."
+            ]
+        },
+        {
+            "text": "Heh. To think you'd be the one to tell\nme that.\nBut you're absolutely right.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll do exactly as my mother said and\ngive this\nrace everything I can muster.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll show everyone that I can catch the\nqueen.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Sorry for wasting your time with this.\nLet's get\nready.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's that time of the year when nature\nblooms into\nthe fullness of its beauty!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Which of these dazzling young stars will\ntake the\ncrown and become Queen of\nthe Oaks?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Many eyes are cast upon Эйр Грув!\nCan she\nfollow in her mother's\nfootsteps?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "We can hear the cheers from the crowd\neven here.\nNow, as for Эйр Грув...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...All right.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Her state of intense focus gives her a\nmore\ndignified air than I've ever seen.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're going to be fantastic."
+            ]
+        },
+        {
+            "text": "I know. I'm going to surpass everyone's\nwildest\nexpectations.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The race is about to begin!",
+            "name": "Монолог"
+        }
+    ]
+}

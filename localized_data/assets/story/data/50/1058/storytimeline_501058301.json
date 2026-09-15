@@ -1,0 +1,153 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the last day of summer camp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? My dash record time hasn't\nchanged much...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Haaah ha ha! Have you not realized,\nDoto?\nBehind all your troubles are the\nsummer sun rays.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh, I see. But what do you mean?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Haaah ha ha! If you are so curious, you\nshould ask\nsummer yourself!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "But I also believe another lap around\nwould clear\nup your issues. Come, Doto!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Okay, thank you for the invite! I hope\nthis\nworks—I really do!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото appears both panicked and\n\nhesitant. No matter how you look at it,\nher\nrunning lacks the sheer power Opera\nO's has.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This has become a summer of stagnation\nand\nstruggle, with no exit in sight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's when a familiar face appears.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Адмайр Вега",
+            "choice_data_list": [
+                "Oh, it's you!"
+            ]
+        },
+        {
+            "text": "Ah, Doto's trainer... Hello there.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "It's one of Мэйсё Дото's peers Admire\nVega. I\nthought she would still be\nrecovering.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How are you feeling?"
+            ]
+        },
+        {
+            "text": "Good enough to walk around, at least.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "...You look troubled yourself. What's the\nmatter?",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "At my wit's end, I share my worries about\nAir\nShakur's theory—Мэйсё Дото's \"stat\nceiling.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "The ceiling story... huh...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I'm not so good at complex\nconversations, but...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Maybe if you watch them from my\nperspective,\nyou'll see something\ndifferent.",
+            "name": "Адмайр Вега",
+            "choice_data_list": [
+                "Something different?"
+            ]
+        },
+        {
+            "text": "Yes. Taking a step back and viewing\nthings from\nafar might help you see\nthings you couldn't notice\nup close.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "For the moment, let's just observe.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I decide to hide away while watching\nMeisho\nDoto and Т.М. Опера О's\npartner run.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Dash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "What plagues you, Doto?! Come, try\nand catch\nup with me!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> Please... wait... Opera\nOooo!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Адмайр Вега",
+            "choice_data_list": [
+                "Notice anything yet?"
+            ]
+        },
+        {
+            "text": "No... nothing in particular. But...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "It seems like something's holding them\nback.\nEspecially Doto...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Адмайр Вега is deep in thought. It looks\nas\nthough she might be onto something.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohhh?! Do my eyes deceive me?! Doto,\nlook over\nthere!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Huh, Ayabe? Is that... really you?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Waaahhh! Ayabeeee!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Um... it's nice to see you too.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Our moment of observation is quickly\n\novershadowed by a heartfelt reunion.\nThe summer\ncamp of joy and trials\neventually comes to a\nclose.",
+            "name": "Монолог"
+        }
+    ]
+}

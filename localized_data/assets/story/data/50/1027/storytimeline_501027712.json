@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm waiting for Мэдзиро Райан. She hasn't\nshown up\nfor training yet...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sorry, Trainer! I didn't mean to skip\ntraining.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I got caught up talking to one of the\nyounger\nstudents, and...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "As I consider how to respond to Ryan's\napology,\nanother Umamusume enters the\nroom.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me... Please don't get mad at\nRyan. It was\nall my fault!",
+            "name": "Younger Умамусумэ А"
+        },
+        {
+            "text": "I thought she didn't have any training\ntoday, so I\nasked her for advice about\nmy diet.",
+            "name": "Younger Умамусумэ А"
+        },
+        {
+            "text": "Oh! You didn't have to come. I can\nhandle it!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It appears Ryan is trying to protect this\ngirl.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Just try to be more careful next time."
+            ]
+        },
+        {
+            "text": "S-so it's all right? Oh, what a relief.",
+            "name": "Younger Умамусумэ А"
+        },
+        {
+            "text": "Sorry. Thanks for understanding, Trainer.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I've learned today that Ryan is very\nmuch beloved\nby the younger students.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "When I walk past the hollowed-out\nstump, I\nnotice two items next to it that\nlook about three\ntimes bigger than what\nthey should be.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is that a mortar and pestle?!"
+            ]
+        },
+        {
+            "text": "Hehe! ♪ I'm about to make some mochi!\nMy\ndormmates have been asking for\nsome.",
+            "name": "Хиши Акэбоно",
+            "choice_data_list": [
+                "But those things are huge!"
+            ]
+        },
+        {
+            "text": "Well, I figured I could make a bigger\nbatch with\nbigger tools. I want everyone\nto have their fill and\nthen some! ☆",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "I can make everyone happy with my\nbuono mochi!\nThe bigger the better as\nthey say!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Akebono! The rice is done!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Great! Time to get started, then!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Хиши Акэбоно takes the enormous\npestle and\nbegins to make mochi with\nsome other\nUmamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heeeaaave!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Hooooo!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Pheeeeew! This thing's pretty heavy!",
+            "name": "Хиши Акэбоно",
+            "choice_data_list": [
+                "Why don't you take a quick break?",
+                "You must be putting a lot of strength into that."
+            ]
+        },
+        {
+            "text": "Pheeeeew! This thing's pretty heavy!",
+            "name": "Хиши Акэбоно",
+            "choice_data_list": [
+                "Why don't you take a quick break?",
+                "You must be putting a lot of strength into that."
+            ]
+        },
+        {
+            "text": "Yeah, that's a good idea. I wanna have a\nnibble\nof the mochi anyways. ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Oh, hey, you guys over there! Do you\nwant some\nmochi too? It's piping hot\nand ready to eat! ☆",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "What? You made mochi?! Can I really\nhave some?",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Of course! Have as much as you'd like!\nGet 'em\nwhile they're warm! ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Anyway, back to you! What do you want\non your\nmochi? We've got soy sauce and\ngrated radish! ♪",
+            "name": "Хиши Акэбоно",
+            "choice_data_list": [
+                "Wait, I get some too?"
+            ]
+        },
+        {
+            "text": "Absolutely! We're gonna make loads\nmore\nanyway, so don't hold back! ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Hmmm, it's not so much my strength but\nmy\nweight that I'm throwing into this...",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Using your weight to pound mochi\nmakes it more\nchewy and tasty!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "I'm pretty big, so consider this technique\nmy\nspecialty!",
+            "name": "Хиши Акэбоно",
+            "choice_data_list": [
+                "I see. What a good technique!"
+            ]
+        },
+        {
+            "text": "Right? Like I always say, the bigger the\nbetter! ☆",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "The \"sample\" I get is about the size of\nmy head,\nbut Хиши Акэбоно's mochi\nreally is delicious.\nEveryone smiles\nbrightly as we eat together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The mochi Хиши Акэбоно makes with\nher unique\ntechnique has an incredible\nspringiness and is\nextremely delicious!",
+            "name": "Монолог"
+        }
+    ]
+}

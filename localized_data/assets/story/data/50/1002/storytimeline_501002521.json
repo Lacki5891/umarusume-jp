@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Сайленс Судзука sounds half asleep as she\nmurmurs\nunder her breath.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> A trip would be... so nice...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "A trip?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Rolling plains carpeted with verdant\ngrass, and\nauroras dancing above in the\nsky...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I've been watching videos of scenery\ntaken from\nall around the world recently.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "My legs tingle just thinking about those\nvistas...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Sigh...</i> But before I knew it, it was\nalready\nmorning.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems Сайленс Судзука was so\nenthralled by the\nvideos, it cut into her\nsleЭпизод She certainly looks a\nlittle tired.",
+            "name": "Монолог"
+        }
+    ]
+}

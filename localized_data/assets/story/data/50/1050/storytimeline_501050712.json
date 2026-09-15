@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Training time comes around, but I don't\nsee\nНарита Таисин, so I decide to go\nlooking for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hell yeah! That was an easy win! The\narcade and\nmobile versions of this game\nare practically the\nsame.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Aww yeah! I'm on fire! Just gotta keep\nthis streak\ngoing!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Argh! I lost again?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Who the heck is this \"MightyMe\"\nanyways?\nThey're relentless!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We're pretty evenly matched, so why do\nI keep\nlosing? Dammit! I'm winning the\nnext round if it\nkills me!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Um, Taishin... You coming to training?"
+            ]
+        },
+        {
+            "text": "Huh? Is it time already?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...Sorry.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She apologizes, and I tell her to be more\ncareful\nfrom now on.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I might've lost, but that's not gonna\nkeep me\ndown!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "They say that condors take one deep\nplunge\nbefore soaring high...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Which means that loss was the\nspringboard that'll\nsend me soaring!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's put that loss behind us!"
+            ]
+        },
+        {
+            "text": "Of course! Hold on tight!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "We're taking off with a <i>whoooshhh!</i>",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

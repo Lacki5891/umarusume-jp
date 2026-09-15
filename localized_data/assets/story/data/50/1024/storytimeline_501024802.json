@@ -1,0 +1,223 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Huh?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sensing something strange, I open my\neyes to find\nmyself in bed of an\nunfamiliar hospital room. Did\nsomething\nhap—",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Ow! My back!"
+            ]
+        },
+        {
+            "text": "Oh, Trainer! Don't get up too fast!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You really messed up your back. Do you\n\nremember? We were on our way to the\nairport,\nwhen...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Thanks for coming with me, Trainer! This\nis a\ndirect train, so we'll be there in no\ntime!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "My dad's next flight is this evening, so\nwe won't\nhave much time, but...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We can only see each other a few times\na year, so\nwe've got tons to talk about!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Then maybe it would be best for me to leave\nyou two alo—"
+            ]
+        },
+        {
+            "text": "Don't be silly! I wanna introduce you to\nhim! Plus,\nhe said it would be dangerous\nfor me to go alo—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh! Could you move closer a little?\nThere's an old\nlady trying to get past.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "There's an older woman with a suitcase\nstanding\nbehind me. I hurriedly move out\nof the way so she\ncan get through.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you. I was having trouble holding\nonto the\nhand strap with this big\nsuitcase...",
+            "name": "Older Woman",
+            "choice_data_list": [
+                "I can put it on the luggage rack for you."
+            ]
+        },
+        {
+            "text": "Oh my, you're so kind. But it's far too\nheavy, so\ndon't—",
+            "name": "Older Woman",
+            "choice_data_list": [
+                "Don't worry! I've got it!"
+            ]
+        },
+        {
+            "text": "<i>Crack!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Huh? Тренер? Was that you?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "T-Тренер?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You lost consciousness from the pain, so\nwe\ncalled an ambulance.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "But your dad..."
+            ]
+        },
+        {
+            "text": "I didn't go to see him! I couldn't just\nleave you on\nyour own...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'm fine! You get to the airport!"
+            ]
+        },
+        {
+            "text": "It's okay! I already apologized to him.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm gonna stay here today and nurse you\nback to\nhealth!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'm sorry..."
+            ]
+        },
+        {
+            "text": "Hey! I said it's fine! Now you just lie\ndown and let\nme do my thing!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I've been studying how to be a real\ngrown-up\nwoman, so I'll be the perfect\nnurse! Check this\nout...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Pain's gotta flyyy like an eagle... Go\naway! ☆\nPain's gotta flyyy like an\neagle... Let Maya have\nher way! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Well? It doesn't hurt anymore, right?\nYou're\nwelcome! Now...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's time for lunch! Since you can't\nmove...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll feed you myself! ♪ Say \"ah\"!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Okay! Now it's time to rest. I'll count\nplanes with\nyou.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "One F-1... two F-2s... Oh, have I told\nyou that the\nplane my dad pilots is a—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oops, I got distracted! I have to lull you\nto sleep!\nOkay, once more!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I really think you should go see your dad..."
+            ]
+        },
+        {
+            "text": "You know... I really look up to him and\nlove him a\nlot, right?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But... I want you to know that you're\nprecious to\nme too.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I need you to be healthy so you can\nstand by my\nside and twinkle on with\nme.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Lemme help you! You always support\nme, so I\nwanna do the same for you.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll stay right by you. Just relax and\nrest... That's\nall I'm asking for.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Okay then. I'll be back on my feet before you\nknow it.",
+                "I'm counting on you."
+            ]
+        },
+        {
+            "text": "I'll stay right by you. Just relax and\nrest... That's\nall I'm asking for.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Okay then. I'll be back on my feet before you\nknow it.",
+                "I'm counting on you."
+            ]
+        },
+        {
+            "text": "Yeah! You'd better be!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I was really worried about you. You\nsuddenly fell\nover and looked like you\nwere in so much pain... I\nwas so scared.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Mayano..."
+            ]
+        },
+        {
+            "text": "<i>Sniffle...</i> You're not allowed to collapse\nall of a\nsudden like that again. If that\never happens...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It'd better be because I've made your\nheart beat\nso hard you're having a heart\nattack!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Just kidding! Ehehe...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hehe! Leave the rest of your healing to\nme! I'll get\nyou back in perfect shape!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh, I totally forgot! I spoke to my dad\non the\nphone earlier. He said he wants\nto meet you the\nnext time we have a\nchance.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "He sounded super serious! I was\nshocked! He only\never speaks to me\nreally gently.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I-I see."
+            ]
+        },
+        {
+            "text": "So you have to heal right up, okay?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm already feeling nervous wondering\nhow I'm\nsupposed to act in front of him...\nStill, I take the\ntime to heal and am\ndischarged without incident.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks to Mayano's devoted nursing,\nthe pain in\nmy back goes away, and I'm\ndischarged from the\nhospital.",
+            "name": "Монолог"
+        }
+    ]
+}

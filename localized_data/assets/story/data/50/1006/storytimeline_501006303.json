@@ -1,0 +1,94 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "It's... finally over.",
+            "choice_data_list": [
+                "How was it?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Good question... I think I managed to show them \nall what I was capable of."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If I keep winning at the central level, it's only a \nmatter of time before people back home start \nhearing about me—"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Hey, about Oguri Cap... Y'know, the one who just \nran? What's she like?"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Umm... I heard she was really famous around her \nhometown. Personally, I don't know much about \nher though."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "..."
+        },
+        {
+            "name": "",
+            "text": "On the way back to the academy from Oguri \nCap's race..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Hey. What do you think we should do next?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I know I need to keep racing, but is that really \nenough?"
+        },
+        {
+            "name": "",
+            "text": "She seems lost in thought. I figure she's troubled \nby the comments she overheard from those \nspectators after the race."
+        },
+        {
+            "name": "",
+            "text": "She's right. She may be the talk of the academy, \nbut she's not exactly a household name yet. \nThere's only one way to change that.",
+            "choice_data_list": [
+                "Just enter as many races as you can."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "As many as I can, huh? So I just have to run a lot?",
+            "choice_data_list": [
+                "Exactly!",
+                "Exactly!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Oguri Cap is still relatively unknown, but that just \nmeans we have to show them how powerful and \ncharming she really is.",
+            "choice_data_list": [
+                "Let's prove to everyone that you're central \nrace-level material!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah... Let's."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I gotta run until the folks back home hear my \nname!"
+        },
+        {
+            "name": "",
+            "text": "Oguri Cap's eyes are sparkling with ambition. \nThere's no doubt in my mind that she'll do \namazingly in her upcoming races.",
+            "choice_data_list": [
+                "Time to get racing!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You got it!"
+        }
+    ],
+    "title": "After the Debut: Toward the Skies of\\nKasamatsu"
+}

@@ -1,0 +1,65 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew... Thank you for today... Let's\ncontinue this\ngood work tomorrow.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Halt! Remain where you stand, Doto!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Opera O! Is... is something the matter?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I was reading this epic relating a tale of\ntwo\nwarriors and their collegial rivalry,\nand I could not\nhelp but be reminded of\nyou and me.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Hark, a fire blazes within me! What say\nyou to a\nfriendly duel? Glittering beads\nof sweat shall fly!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Do you mean... running t-together? You\nand me?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Of... of course, I w-would love to! I-if it's\nokay\nwith you, th-then absolutely!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Trainer! Would it be all right if I train\nwith Opera\nO?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Knock yourself out!",
+                "First, you need to rest and recover!"
+            ]
+        },
+        {
+            "text": "Th-thank you! I wouldn't want to waste\nsuch a\nrare invitation!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Opera O, I'm n-n-not very c-competent,\nbut I'll\ntry my best!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Th-that's true... I wouldn't want to cause\nyou any\ntrouble, being as tired as I am.\nI'm really sorry\nabout this, Opera O!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh, but there is beauty in the tragedy\nthat our\npaths will not cross! I applaud\nyour trainer's\nmasterful orchestration!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "After apologizing several times over,\nMeisho\nDoto heads back to her dorm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэйсё Дото gives it her all during the\nsession of\nextra training!",
+            "name": "Монолог"
+        }
+    ]
+}

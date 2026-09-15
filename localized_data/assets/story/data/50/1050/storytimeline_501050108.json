@@ -1,0 +1,233 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today's the Spring Fan Fest, and\nTracen's\nUmamusume are putting on a\nshow for their fans\nby competing in\ndifferent contests.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Run a three-legged race with your\nТренер? What's\nthe meaning of this?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Exactly what it sounds like. You have to\npartner\nup with your trainer and do a\nthree-legged race\ntogether.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Destroy the competition and win. That's\nall there\nis to it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's not what I meant. I mean why the\nheck was\nI entered in this?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Cause you were playing hooky when we\nwere\ndeciding who would do what.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ugh...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No one applied for this race, but\nsomeone had to\ndo it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The student council decided, so if you\nhave a\nproblem, take it up with them.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You know what? I <i>do</i> have a problem!\nWhy me of\nall people?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hayahide said the best way to keep you\nfrom\nslacking off was to pair you up with\nyour trainer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Isn't that nice?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ngh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Here, take my dang right foot and tie it\nup\nalready! Ugh, let's just get this over\nwith!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "O-okay!"
+            ]
+        },
+        {
+            "text": "I don't know why Taishin is so upset, but\nwhether\nshe likes it or not, we're running\na three-legged\nrace together!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Racers, are you ready? Get set... and\nstart!",
+            "name": "Umamusume Commentator"
+        },
+        {
+            "text": "One, two! One, two! One—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "H-hey! Come on, is this all you've got?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'm sorry!"
+            ]
+        },
+        {
+            "text": "Taishin's doing her best to work with me,\nbut she's\nstill an Umamusume. There's no\nway I can run as\nfast as her!",
+            "name": "Монолог"
+        },
+        {
+            "text": "At this rate, we'll lose for sure!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Forget about me. Give it all you've got, Taishin!"
+            ]
+        },
+        {
+            "text": "Huh?! If I do that, you'll—",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'm with you all the way!"
+            ]
+        },
+        {
+            "text": "You better not regret this!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She begins running without heed to my\npace...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, you're awake.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Tch, I knew this was gonna happen. You\nway\noverdid it, idiot.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Huh? Did I pass out—"
+            ]
+        },
+        {
+            "text": "<i>Crick!</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "O-owww!"
+            ]
+        },
+        {
+            "text": "See? Now all your muscles are spasming.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "C'mon, lie face down. I'll help massage\nout the\ncramps.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You don't have to do tha—"
+            ]
+        },
+        {
+            "text": "Just be quiet!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин begins to knead my seized\nmuscles.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Ow! <i>Ow!</i> Gently! Please!"
+            ]
+        },
+        {
+            "text": "Shut your trap!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We hurriedly pick up our pace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, slow down. I don't want you to\noverdo it.\nSlow down!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But if we don't speed up—"
+            ]
+        },
+        {
+            "text": "It's fine to hang back for now. Just match\nmy\nstride at the last stretch.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's all we need to do to catch up.\nWe'll give it\na big boost at the end!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Wow, Taishin!"
+            ]
+        },
+        {
+            "text": "The runners are coming up on the final\nstretch!\nWhich pair will finish first?!",
+            "name": "Umamusume Commentator"
+        },
+        {
+            "text": "Here we go! One, two! One, two!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What's this?! Нарита Таисин and her\ntrainer are\ncharging up from behind!",
+            "name": "Umamusume Commentator"
+        },
+        {
+            "text": "They're making an electrifying break for\n\nit—they're passing all the others! Wow,\nthey've\ndone it! They've won first!",
+            "name": "Umamusume Commentator"
+        },
+        {
+            "text": "Wooo! Great job, Team Taishin!",
+            "name": "Fans"
+        },
+        {
+            "text": "<i>Huff... huff...</i> That was way harder... than\nany race\nI've ever run...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I've never felt more exhausted in my life.\nI feel\nabout ready to collapse on the\nspot.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(But the way we ran at the last stretch...)"
+            ]
+        },
+        {
+            "text": "What? Why are you staring at me?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Your final sprint is seriously incredible."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Don't get all weird... dummy.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "This experience was truly an amazing\none.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is what boneheads like you get for\ntrying too\nhard.",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

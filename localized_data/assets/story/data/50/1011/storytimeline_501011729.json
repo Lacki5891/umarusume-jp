@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "That was unfortunate... But please don't\nworry.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'm going to try again!"
+            ]
+        },
+        {
+            "text": "While I'd love to encourage you, I'm\nafraid it's\nabout time we got going.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Remember this agony and use it to fuel\nyour next\nattempt later on.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Well, that was disappointing...",
+            "name": "Монолог"
+        }
+    ]
+}

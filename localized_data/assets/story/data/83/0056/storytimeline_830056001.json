@@ -1,0 +1,199 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I walk down the hallway, I come\nacross King\nHalo and Фудзи Кисэки chatting\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Everyone gets together to dance? How\nsplendid!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "If the idea tickles your fancy, would you\ncare to\njoin as well, my darling pony?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Really?! Why, I'd love to!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, then let us enjoy ourselves\nthoroughly on\nthe big day!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You there! Do come as well, should you\ndesire.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You'll find that the invitation is already...\nin your\nhand!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I look at my hand and, sure enough, the\ninvitation\nto the mysterious ball is right\nthere!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, you've been invited to the ball as\nwell? Good\nfor you!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You'll have the opportunity to witness\nthis social\nbutterfly's dancing with your\nvery own eyes!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Such delights don't come your way very\noften, am\nI right?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Goodness, I'm sure there'll be rumors\nrunning\nwild. \"Who's that elegant lady\nover there? Why, it\ncan only be...\"",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "King?"
+            ]
+        },
+        {
+            "text": "Why the upward inflection? Say it with\n\nconviction! \"King!\"",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I shall make sure all eyes are focused on\nme when\nI dance with Fuji at the ball!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But... if I'm going to perform alongside\nFuji, I\nhave to make sure I'm extremely\nwell prepared.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "That sounds like a lot of work."
+            ]
+        },
+        {
+            "text": "Don't act like it doesn't concern you!\nNow that\nyou've been invited, you must\nstrive to be the\nbest you can be as well!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Start by changing your mindset. Now, try\ngiving\nme some advice as to how <i>I</i>\nshould begin.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Practice a dance that will capture everyone's\nattention.",
+                "Assemble the ultimate outfit."
+            ]
+        },
+        {
+            "text": "Hmm, interesting.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Indeed, the belle of the ball must\ncapture the\ngaze of everyone in\nattendance.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It is by wearing one's outfit with pride\nand\ndancing with the grace of a butterfly\nthat one\nbecomes first-rate. I see you've\ndone some\nstudying.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I must start my intense training at once!\nBehold!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>SPLOSH!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Th-that's f-f-freezing!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало's resolve is the real deal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She pours water over herself to add\nextra strain\non her body as she dances.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She also frequents an amusement park\nto learn\nfrom the dancers in the parades.",
+            "name": "Монолог"
+        },
+        {
+            "text": "To maintain a smile and excellent\nposture even\nwhile wearing a heavy\noutfit... <i>This</i> is what I strive\nto achieve.\nBut no, I must go further!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "This continues over the course of a few\ndays...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What do you make of my magnificent\nmoves? I'm\nnot known as \"first-rate\" for\nno reason, you know!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The ultimate outfit... Yes, those who are\nfirst-rate\nmust stand at the summit of\nfashion.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...I must set off on a journey.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Project King",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mornings start early for Кинг Хало. She\ngoes\nthrough numerous books trying to\nfind inspiration\nfor the perfect dress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Classical, yet eye-catching... Then it has\nto be...\nYes, of course... This one!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "When one is first-rate, there can be no\n\ncompromise. She climbs a precarious\nmountain\npath to procure the ultimate\nfabric from a\nlegendary weaver.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Who in the world... would think... to\nlive... in a\nplace like this?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Cough, splutter!</i> There's so much dust...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "In search of a famous dressmaker, she\ncharters a\nboat to cross the seas.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait, seriously now?! Does someone\nactually live\nhere?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Haha! No, I'm just messin' with you!",
+            "name": "Sailor"
+        },
+        {
+            "text": "You've got to be kidding! No joking\naround! Let's\ngo!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "After overcoming many hardships, King\nHalo\nfinds her way home. The purpose of\nher entire\njourney was to obtain this\nsingle outfit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well? How does it look? I got my\nsignature\nracewear retailored to\nperfection!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohoho! OHOHOHO!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The sleeves of her signature racewear\nflutter like\nthe wings of a dancing\nbutterfly... She has\nmastered the dance\nstyle she's been longing for.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало's meticulous attention to\ndetail renders\nme powerless to ask\nwhat's changed about the\noutfit. At any\nrate, her hard work has paid off.",
+            "name": "Монолог"
+        }
+    ]
+}

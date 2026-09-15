@@ -1,0 +1,90 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow, Хиши Амадзон was truly something\nelse. Her\nrunning today was quite\nexcellent.",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "She's suddenly given us something to\nlook\nforward to come next year!",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Хиши Амадзон's jaw-dropping\nperformance\ncreates a stir among the\nspectators.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, not too shabby, if I do say so\nmyself.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Great job out there!"
+            ]
+        },
+        {
+            "text": "Just as I'm about to suggest she gets\nsome\nhard-earned rest, a voice cuts into\nour\nconversation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hishiama! You were amaaazing!",
+            "name": "Miho Student A"
+        },
+        {
+            "text": "Hey! What are you guys doin' all the way\nhere?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We overheard people talking about you\nin the\nstands! Everyone's saying you'll be\nthe biggest\nracer next year!",
+            "name": "Miho Student B"
+        },
+        {
+            "text": "We got so excited, we just had to come\ntell you!",
+            "name": "Miho Student B"
+        },
+        {
+            "text": "Hehe... So they've all got eyes on me,\nhuh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Thanks for the heads up! Guess this\nmeans no\nslackin' for me!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right! It's back to the academy for\nsome\ntraining!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna head out now, Teach!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "Wait up, Hishiamaaa!",
+            "name": "Miho Students"
+        },
+        {
+            "text": "Хиши Амадзон leaves the Hanshin\nRacecourse with\nher residents trailing\nafter her. I couldn't get a\nword in to stop\nthem.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Once the new year comes, Хиши Амадзон\nwill\nfinally enter her classic year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soon, it'll be time for her to decide\nwhether she\nwants to pursue the Triple\nTiara tour or the\nClassic Triple Crown\ntour.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In my opinion, the Tiara tour is better\nsuited for\nher, considering her aptitude\nfor mile and\nmedium-distance races.\nHowever...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I wonder what she'll pick?)"
+            ]
+        },
+        {
+            "text": "I'll ask her to start considering her\noptions, but\nfor now, I'll focus our\ntraining plans on the first\nTiara race, the\nOka Sho.",
+            "name": "Монолог"
+        }
+    ]
+}

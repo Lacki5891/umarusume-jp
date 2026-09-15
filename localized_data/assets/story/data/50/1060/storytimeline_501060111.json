@@ -1,0 +1,222 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Найс Нэйчер has managed to leave her\nmark on\nthe Twinkle Series.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Together, we've successfully navigated\nthe crucial\nfirst three years of her career.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day, while still basking in the glory\nof our\naccomplishments...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! Sorry for the wait.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "My hair is not holding together well...\ndespite the\nhair oil I put in last night.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You look the same as usual."
+            ]
+        },
+        {
+            "text": "...Huh. Okay.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Same as usual, huh? I guess I should be\nglad.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I think I put a decent amount of effort\ninto my\nappearance, but good to know\npeople can't tell\nthe difference.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Your hair looks... fluffier today?"
+            ]
+        },
+        {
+            "text": "Whaaaat? Come on, Trainer.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You should keep comments like that to\nyourself,\nokay?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер has come so far over the\npast three\nyears. Perhaps it feels so\npronounced because she\ncan so\nconfidently express herself now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, why don't we start heading out?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер and I head to the shopping\ndistrict\nthat she often hangs out at.\nApparently, there's a\nfestival going on\nthere.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's just a small community festival, so\ndon't\nexpect anything extravagant.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But everyone is really invested in this, so\nit should\nbe pretty interesting—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, Kimie!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hey, Natie! You came!",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Of course! And it wouldn't be a party\nwithout my\ntrainer here!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ohhh, are you turning our festival into a\ndate?",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Come ooon, that joke's getting old.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You don't have to be shy! Well, I gotta\ngo help\nwith some things, so I'll see you\nlater!",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Later!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Goodness gracious. Always teasing me\nabout it\nbeing a date... What is she,\ntwelve?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's embarrassing! ...Hehe.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We have a great time exploring the\nfestival stalls\nand attractions together.\nAfterward...",
+            "name": "Монолог"
+        },
+        {
+            "text": "That was fun! Everyone was so\nenthusiastic as\nalways.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wasn't the butcher's stall amazing? I\nwonder if\nthey were able to sell all of\nthe fried chicken\ncakes after all.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "By the way... you sure are carrying a lot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She's not wrong. I received many\nsouvenirs from\nthe people of the\nshopping district while we\nwalked\naround.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I kinda feel bad."
+            ]
+        },
+        {
+            "text": "Don't. Everyone likes you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Maybe they were nice to you before just\nbecause\nyou're my trainer, but that's not\nthe case now.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They just think you're a good person\nnow.\nProbably.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Hey, did you have fun today?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "Really? You're not just saying that to\nmake me\nfeel better?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What makes you think that?"
+            ]
+        },
+        {
+            "text": "Because... I'm not a bright, fun-loving\ngirl.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I can never say what I'm thinking\noutright either. I\nhave to beat around\nthe bush, which probably\ncomes off as\nannoying.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But even still, you keep me company\neven outside\nof training like this.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I just hope it's not out of a sense of\nobligation\nor kindness.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I want you to spend time with me\nbecause you\nactually want to...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Well, I <i>do</i> want to spend time with you."
+            ]
+        },
+        {
+            "text": "...Seriously? For real?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Then... how important am I to you,\nТренер?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, and don't say \"third important.\" It's\nnot really\nthe time to make jokes.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, I can't force you to answer that\nquestion,\nbut...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course you're my number one."
+            ]
+        },
+        {
+            "text": "<i>Siiiiigh...</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "See, I'm such a pain, aren't I? I'm\nregretting it\nnow, thinking I made you\nsay that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But you're not totally innocent either.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It was you who said I could show even\nmy most\nembarrassing side.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So... it's too late to say you regret\npicking me.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Cause I'll never let anyone steal my\nnumber one\nspot in your heart!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

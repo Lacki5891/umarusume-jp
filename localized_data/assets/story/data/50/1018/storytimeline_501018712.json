@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйр Грув didn't show up for training,\nso I go\nlooking for her inside the\nacademy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Exactly. Recall the formula we went\nover? Try\nusing it here.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Right... So I apply that like this, and...\nOmigosh! I\ndid it!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Really, this is fairly standard. Maybe you\nshould\ndevote a little more time to your\nstudies...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I guess you're right...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "But you should be fine for the test\ntomorrow. Do\nyour best, okay?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I will! Thank you so much!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Heh... What a handful.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You're a good teacher."
+            ]
+        },
+        {
+            "text": "Wh-when did you get here?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh! Today's training... Ngh, how could I\nforget?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "My apologies. I take full responsibility,\nand I'll\nmake sure it doesn't happen\nagain.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

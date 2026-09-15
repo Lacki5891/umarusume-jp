@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with\nКаррен Тян...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, wow, wow! Look at all the\nplushies! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян points toward a claw\nmachine filled\nwith Umamusume\nplushies.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "They really are cute."
+            ]
+        },
+        {
+            "text": "...Hey. Don't you think a super cute\nplushie is just\nperfect for a super cute\ngirl?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Hey. Don't you think a super cute\nplushie is just\nperfect for a super cute\ngirl?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "If I had some of those with me, I think I'd\nbe\nwaaay cuter!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Okay. Let's get some!"
+            ]
+        },
+        {
+            "text": "Yay!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hehe. I can't wait to see how hard you'll\nwork for\nme! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hehe. I can't wait to see how hard you'll\nwork for\nme! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

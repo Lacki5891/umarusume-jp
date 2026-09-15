@@ -1,0 +1,65 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After training...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Is that...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Huff, huff...</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...All right, just about the same as\nbefore. My lap\ntimes are becoming more\nconsistent.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Looks like my theory was correct...\nOkay, one\nmore lap!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Hey, I changed my mind. Let's do some\nextra\ntraining.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Give me something that'll exhaust me to\nmy\nbones. Otherwise...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The fire in my chest just won't go out!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Let's burn it out!",
+                "We can put it out tomorrow."
+            ]
+        },
+        {
+            "text": "Heh, that's what I'm saying!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No. It has to be now, or there's no point.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I tell her it's more efficient to train after\na rest\nthan to train while her body is\nalready tired.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Efficient? You sound like my sister.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tch, fine. But that means I want\nsomething extra\nchallenging tomorrow.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I continue to add on extra training until\nNarita\nBrian is satisfied.",
+            "name": "Монолог"
+        }
+    ]
+}

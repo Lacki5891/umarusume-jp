@@ -1,0 +1,169 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A couple of days before the most festive\nnight of\nthe year...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I return to my office to find that\nsomeone's\ndecorated it for the holidays!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yaaaay! Happy Holidays, Trainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I remember she got the date for\nValentine's Day\nmixed up too. Does she\nactually think it's...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Um, you <i>do</i> know today's not..."
+            ]
+        },
+        {
+            "text": "Tsk, tsk! I'm not wrong this time!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "We've got the Arima Kinen race on the\n25th,\nright? So we gotta celebrate early!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "(What surprising consideration coming from\nher!)"
+            ]
+        },
+        {
+            "text": "That's what Hayahide recommended!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "(Oh, that makes more sense.)"
+            ]
+        },
+        {
+            "text": "So that's why today, I've got the most\namazing\npresent for you!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Saying that, she dramatically reveals...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ta-da-DAAA! A winter sports\nguidebook!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "This one book covers everything from\nnecessities\nto popular spots for the\nwinter season!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Skiing, snowboarding, snowmobiling... It\neven has\nbiathlons and snowball fights!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Browsing through, I can tell the\ninformation inside\nis pretty thorough.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It has advice for beginners too, so it's\ngreat if you\nwanna try something new!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит knows a thing or two\nabout\nsports. If she's recommending it,\nthis guide must\nbe pretty good.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "text": "Hehe... I want you to go and get\nreenergized!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I like all sports, so I'll come along any\ntime you\nwant!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ta-da-DAAA! A snowman-shaped cake!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She shows me a magnificent holiday\ncake in the\nshape of a cute snowman.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It snowed last night, so that's where I\ngot the\ncrash of inspiration!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "(Did she mean \"flash\" of inspiration?)"
+            ]
+        },
+        {
+            "text": "The whipped cream wouldn't stay in\nplace, so it\nwas pretty hard to make!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I kept at it, and it turned out pretty\nwell,\ndidn't it? Heh-heh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She did all this while also preparing for\nthe Arima\nKinen?!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thank you, Ticket!"
+            ]
+        },
+        {
+            "text": "Heh heh! No, I gotta thank you, Trainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right, let's slice this thing up!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит picks up a knife, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Uwaaaah! I can't do it! I can't cut it!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "This little guy was born just yesterday...\nIt's too\nsad!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "In the end, it takes two hours to\nconvince her that\nthe snowman would be\nhappier if eaten, and we\nfinally cut the\ncake.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sniff...</i> Snowman... I hope you're happy\nthat we\nate you...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "I'm sure he is!"
+            ]
+        },
+        {
+            "text": "Whether that's true or not, the cake\nitself is\nvelvety and perfectly delicious.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So yummyyyy! Thanks, snowmaaan!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Just like that, I spend a memorable\nwinter holiday\nwith Уиннинг Тикит.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, we look through the book\nand spend a\ngreat year-end holiday\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

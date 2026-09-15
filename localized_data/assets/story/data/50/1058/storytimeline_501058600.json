@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh, Trainer... My heart feels like it's\nabout to\nburst!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I can't wait to run... I've n-never felt like\nthis\nbefore!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Sounds like you're ready to give it your all."
+            ]
+        },
+        {
+            "text": "M-my all!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "So... th-that's what it is!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "O-okay... I'll give it my all!",
+            "name": "Мэйсё Дото"
+        }
+    ]
+}

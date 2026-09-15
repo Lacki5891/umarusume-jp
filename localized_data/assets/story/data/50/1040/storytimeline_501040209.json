@@ -1,0 +1,116 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ahhh, I'm so excited! I can't wait for the\nJapan\nCup to start!",
+            "name": "Fan A"
+        },
+        {
+            "text": "The lineup is too impressive! There's the\nBeast,\nOguri Cap, then there's White\nLightning, Tamamo\nCross!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Hey, you're forgetting someone\nimportant!",
+            "name": "Fan A"
+        },
+        {
+            "text": "The prettiest Umamusume of this\ngeneration,\nGold City! She'll definitely\nwin today!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "text": "They're going crazy out there.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Just listening to it is making me restless.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Stay calm. Just be yourself."
+            ]
+        },
+        {
+            "text": "Is it just me, or do you always act like I'm\nsome\nnervous wreck? I'm fine.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Go and run like yourself."
+        },
+        {
+            "text": "Go and run like yourself."
+        },
+        {
+            "text": "...Well, I guess this isn't the first time\nyou've told\nme to be myself.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You've always told me to run my own\nway.\nAlways...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You know... why <i>did</i> you let me keep\nracing?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I was complaining literally every second,\nnot to\nmention how unfair my manager\nwas to you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You even completely disregarded what I\nwanted\nat one point. That must've been\nhard for you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But you still let me run... Why?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Because I made a promise."
+            ]
+        },
+        {
+            "text": "I promise I'll keep you on the track no\nmatter\nwhat."
+        },
+        {
+            "text": "I promise I'll keep you on the track no\nmatter\nwhat."
+        },
+        {
+            "text": "...Is that it?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Not for me? Or yourself? Or even the\nfans?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I knew you wanted to run."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Haha... Seriously, you're something else.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But you know, I'm glad I chose an\noverbearing\npain in the ass for my\ntrainer... I really am.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Oh, wipe that stupid grin off your face.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You can show me it after the race, yeah?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Time to get out there and be me!",
+            "name": "Голд Сити"
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I hear some excited voices coming from\nthe\nacademy garden, so I go to check it\nout.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Basically, we have amaryllises over there!\nAnd\nthen gladioluses, dahlias, and the\ncherry on\ntop—hibiscuses!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So they're all red and ostentatious?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Sí! Passion, fire, beauty! Perfect for a\n\nsummer-themed flower bed!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, it's clear that you've put a lot of\nthought\ninto this... in your own way.\nAlthough it sounds a\ntad difficult to put\ninto practice.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Спешл Уик, any thoughts?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, um... When I think of summer, I\nthink of\nsunflowers.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "There were sunflowers near my home\nwhen I was\ngrowing up, so personally, I'd\nlike to see some at\nthe academy too!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ah yes, sunflowers... A classic, reliable\noption.\nThey may not have the novelty\none would want in\na new flower bed,\nhowever.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You're making a new flower bed?"
+            ]
+        },
+        {
+            "text": "Oh! It's Эйр Грув's trainer! Hello.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That we are. We're just discussing the\nbest plan of\naction.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Грасс Вандер was meant to be in\ncharge, as she's\nthe head of the school\ngroundskeeping\ncommittee, but\nunfortunately—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Grass came down with a fever yesterday.\nBut she's\nsooo responsible, she can't\neven rest if her work\nisn't done!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's why we decided to take it off her\nhands!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I appreciate the enthusiasm, but we have\nto settle\nthe matter, and both of our\noptions have their\npros and cons.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'd like to hear your input, if you don't\nmind.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Plain yet achievable, or striking yet\ndifficult?\nWhich option would <i>you</i> favor?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Plain yet achievable.",
+                "Striking yet difficult."
+            ]
+        },
+        {
+            "text": "Hmm, playing it safe, huh? Sounds about\nright for\nЭйр Грув's trainer.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, sunflowers are emblematic of\nsummer, and\ntheir versatility as\ndecorations is unmatched.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That said, I believe we can still include\nenough\nflashiness in this flower bed to\nkeep you satisfied.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You mean we can use some red flowers?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Yes, let's add some red.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Once the flower bed meeting reaches a\ngood\nstopping point, the group decides\nto take a\nbreak. Suddenly, Эйр Грув\nspeaks up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Speaking of sunflowers, do either of you\nknow\nthe famous fable about them?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I think I do! My mom told me when I was\nlittle!\nUmmm, how's it go again?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Once upon a time, there was a girl who\nfell in love\nwith the god of the sun. She\nspent all her time\nlooking up and\nfollowing him across the sky, until\none\nday, she transformed into a flower!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That's what my mom told me when I\nasked her\nwhy sunflowers always follow\nthe sun!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe. You're very well-informed, Special\nWeek.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Whoa, whoa, whoa! Hold up! The girl\nactually\nbecame a flower?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's not a happy story! It's spooky!\nAnd... a\nlittle bit melancólica...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Indeed. Many interpret it as a tragedy\nabout\nheartbreak.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "However, a different emotion wells up in\nme when\nI hear the fable.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Do you mind sharing?"
+            ]
+        },
+        {
+            "text": "The girl longed for something out of\nreach. I think\nsuch passion and bravery is\nadmirable.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And I believe that the girl transformed...\nbecause\nshe desired to do so.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She longed to become a flower that\nresembled\nthe summer sun she so\nadmired.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The girl's resolve, these proud flowers—I\nthink\nthere's a certain beauty in them\nboth.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ohhh myyy—",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "—gosh!"
+            ]
+        },
+        {
+            "text": "Wh-what's with the strangely in-sync\nresponse?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A-Эйр Грув... I never knew you were...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Such a romantic!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "F-forget everything I just said! All of\nyou!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I know I already made a suggestion, but\nI really\nlike El's idea too!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I think a colorful, vibrant flower bed\nwould be\nreally popular with the other\nstudents!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oho... So you choose the path of thorns.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'd expect nothing less from a fellow\nassociate of\nTracen Academy.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well—I shall lead us to success.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We will create an enchanting sea of\nbright-red\nflowers at all costs—no matter\nhow difficult it may\nprove!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "First on the agenda is securing the\nsupplies.\nFollow me, everyone!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Magnífico! What energy! What passion!\nAll hail\nthe Empress!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh man, it looks like we've really lit a\nfire in her!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh! That reminds me of something.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I heard that when Эйр Грув runs, the\nstronger\nthe opponent and tougher the\nsituation, the more\nshe smiles!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wh-what do you mean?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "The bigger they are, the harder they\nfall... and\nthe sweeter the victoria! She\nsavors finding a\nworthy opponent!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That particular smile of hers even has a\nname...\nThey call it \"The Empress's\nSavage Smirk\"!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wh-whaaat?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "O-oh no, Mom... Am I gonna finish this\nthing\nalive?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "A completely red flower bed... Hehehe...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "How exhilarating! I shall relish this\nchallenge!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "They seem like they're all having fun, so\nI decide\nto leave them to it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's an order! No objections!",
+            "name": "Эйр Грув"
+        }
+    ]
+}

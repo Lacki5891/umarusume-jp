@@ -1,0 +1,214 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After spending the day out with Super\nCreek, I\nhead over to the library.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've been taking it easy as I study\ndifferent\ntraining methods—just as I\npromised to Super\nCreek. Then one\nday...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We did it, Trainer! My time has\nimproved!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "It's because you've been working so hard,\nCreek!"
+            ]
+        },
+        {
+            "text": "I'm so glad all our hard work is paying\noff. Hehe!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...Oh? Look, Trainer. Over there...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Huff... puff...</i> Trainer... I-I'm sorry I can't\nmanage...\na better time...",
+            "name": "Short-Haired Umamusume"
+        },
+        {
+            "text": "It's not your fault. It's mine for lacking\nthe power\nto support you as a trainer.",
+            "name": "Serious Trainer"
+        },
+        {
+            "text": "Let's call it a day. I'll think of a new\ntraining plan\nfor next time.",
+            "name": "Serious Trainer"
+        },
+        {
+            "text": "Then, um... I'll also...",
+            "name": "Short-Haired Umamusume"
+        },
+        {
+            "text": "Actually, never mind... Thank you for\ntoday.",
+            "name": "Short-Haired Umamusume"
+        },
+        {
+            "text": "It's that trainer from before.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "...I'll be right back."
+            ]
+        },
+        {
+            "text": "Тренер?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Sigh...</i> What do I even do? This is all my\nfault. At\nthis rate, she—",
+            "name": "Serious Trainer",
+            "choice_data_list": [
+                "You should talk to her some more."
+            ]
+        },
+        {
+            "text": "Excuse me? And who asked for—oh, it's\nyou two...\nYou were listening?",
+            "name": "Serious Trainer"
+        },
+        {
+            "text": "Sorry. We happened to overhear your\n\nconversation.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Still... I agree with my trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "This is none of your business. It's my own\ninability\nthat's to blame. I don't intend\nto point any fingers\nat my trainee.",
+            "name": "Serious Trainer"
+        },
+        {
+            "text": "Well, we're making it our business. I just\nwant to\ntell you that you're wrong.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm sure she's worried about you and\nwants to talk\nwith you about it, just like I\ndo with my trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "She wants to better understand your\nhardships\nand share them with you.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...My hardships?",
+            "name": "Serious Trainer"
+        },
+        {
+            "text": "Yes, I'm sure of it.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I could never put that on her...",
+            "name": "Serious Trainer",
+            "choice_data_list": [
+                "Some things can't be solved on your own."
+            ]
+        },
+        {
+            "text": "If you two gain a deeper understanding\nof each\nother, you might also be able to\nfind a solution to\nyour problems.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "She isn't just an athlete whose sole\npurpose is to\nrun—Umamusume are more\nthan that.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...Yeah. You might be right. Thanks. I'll\nstart by\ntrying to talk to her.",
+            "name": "Serious Trainer"
+        },
+        {
+            "text": "And... I'm sorry for all the mean things I\nsaid\nbefore.",
+            "name": "Serious Trainer"
+        },
+        {
+            "text": "I think our little talk with that other\ntrainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Will help her to form a good relationship\nwith her\nUmamusume—just like the one\nwe have.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You really are kind. Who's a good\nТренер?! Yes,\nyou are! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "While it's important to share a bond, I\nfeel like\nI'm being spoiled a bit too\nmuch. I need to reflect\non my actions.\nFrom now on...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I won't allow myself to be spoiled anymore!",
+                "I will become a more dependable trainer!",
+                "I'll be the one doing the pampering!"
+            ]
+        },
+        {
+            "text": "While it's important to share a bond, I\nfeel like\nI'm being spoiled a bit too\nmuch. I need to reflect\non my actions.\nFrom now on...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I won't allow myself to be spoiled anymore!",
+                "I will become a more dependable trainer!",
+                "I'll be the one doing the pampering!"
+            ]
+        },
+        {
+            "text": "Huuuuh? But why?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "No... I can't bear the thought of no\nlonger being\nable to pamper you...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's just too sad... Too lonely... It's\nmaking me\ncry...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I won't be able to work hard during\ntraining...\n<i>Sniffle.</i>",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe. If you become any more reliable, I\nwon't be\nable to take care of you any\nlonger.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Still, I know there are people out there\nwho don't\nknow how truly reliable you\nare.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll just have to show my trainer off to\nthe world\nthrough my races.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Goodness gracious! You? Pampering\nme? That\nmust mean...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You'll let me spoil you to the moon and\nback,\nright?!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "Hehehe, that makes me so happy.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Always such a sweet little cutie, aren't\nyou? I'll\nkeep spoiling you rotten! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I panic and take back what I had just\nsaid, only to\nnotice a cheeky grin\nspreading across Super\nCreek's face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I try to say otherwise, but Супер Крик\npretends\nnot to hear me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't wait for the day when everybody\ndiscovers\nhow incredible you are! ♪",
+            "name": "Супер Крик"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I did it, Trainer! A soaring,\nsweeping—absolute\nvictory!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehehe. Well, it's only natural. I'm the\nworld's\nstrongest, after all!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's do our best at the next race too!",
+                "Let's not get complacent!"
+            ]
+        },
+        {
+            "text": "Hehehe. Well, it's only natural. I'm the\nworld's\nstrongest, after all!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's do our best at the next race too!",
+                "Let's not get complacent!"
+            ]
+        },
+        {
+            "text": "Of course!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm countin' on you for the training I\nneed to stay\non top!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I know! That's just what my papa always\nsays!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "\"The real fear comes after you win.\nThat's when\nthere's a target on your\nback!\"",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I can't get complacent with more strong\nenemies\nahead! Don't worry, Trainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Let's keep on headin' toward the very\ntop!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That said, my next victory is already a\nsure thing!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Our classic-year spring is over and\nsummer camp\nseason has arrived!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time! For! A! Refresh!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What's gotten into you?"
+            ]
+        },
+        {
+            "text": "Sorry, Trainer! I wasn't my usual self\nafter the\nDerby!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's not like me to worry so much! After\nall, I'm a\nchild of the sun!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Niña del sol!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yet I'm always fretting over the same\nproblem.\nWhat should I do to really\nbecome the world's\nstrongest? What do I\n<i>need</i> to do?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But if I gotta worry all the same, I might\nas well\ndo it with a smile at camp!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If nothing else, it seems like she's\ncheered up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But is it okay for you to just up and go\nto camp,\nEl?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "If we both go, what happens to Mambo?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Mambo?"
+            ]
+        },
+        {
+            "text": "Oh... Um, nothing... Whoops...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Mambo is my pet condor!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "El! Geez! You can't just tell your trainer!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We aren't allowed to have pets in the\ndorms...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "So that's the name of El's condor?"
+            ]
+        },
+        {
+            "text": "Yes, but he's not actually a condor. He's\na hawk.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "No hay problema, Grass! You don't have\nto worry\nabout Mambo!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But what about his food? He eats so\nmuch...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You'll see once we leave.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Vrooooom!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so the bus departs, leaving her pet\nbehind...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehehe, look out the window, Trainer!\nThere, up\nin the sky!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Caaaaaw!",
+            "name": "Mambo"
+        },
+        {
+            "text": "Ah, Mambo!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Mambo, bueno! Way to go! Head\nstraight for\ncamp!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A trip like this is no problem for the\nwings of a\ncondor!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It turns out her pet doesn't need to ride\nthe bus\nto come along. It seems there's\nnothing to worry\nabout.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Caaaaaw!",
+            "name": "Mambo"
+        },
+        {
+            "text": "That piercing, resonant screech is\nundoubtedly\nthe cry of a hawk.",
+            "name": "Монолог"
+        }
+    ]
+}

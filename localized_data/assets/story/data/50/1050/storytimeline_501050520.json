@@ -1,0 +1,260 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One morning, I notice Нарита Таисин\ntalking to\nsomeone in front of her dorm."
+        },
+        {
+            "text": "Anyway, take care, Taishin! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Actually, wait. You said you sprained\nyour ankle,\ndidn't you?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And didn't you mention that you're out\nof your\nfavorite medical tape?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...I'm fine. It's nothing.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Later.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh? Oh, it's you.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Morning. Hey, wasn't that..."
+            ]
+        },
+        {
+            "text": "My roommate, Супер Крик. You know\nher?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Sort of. Are you two close?"
+            ]
+        },
+        {
+            "text": "Does it seem that way? I guess we're\ncloser than\nwe used to be.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We fought a lot when we first met.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin, you're such a good\nUmamusume! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Huh? Are you making fun of me?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Of course not! Now, don't be shy and—",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Get away! Just leave me alone!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What? Oh... I, uh...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "We barely spoke to each other after\nthat, but\nthen we started chatting a tiny\nbit from then on.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And now we're here, I guess.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "So you two hashed it out?"
+            ]
+        },
+        {
+            "text": "Not really. I just put up with her. She\ndoes all\nsorts of stuff in our room, but\nit's not like it bugs\nme.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And it's not like I wanna get into fights\nor\nanything. Anyway, aren't we supposed\nto go\ntrain?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That night..."
+        },
+        {
+            "text": "Hey, you. Got a moment? Creek hasn't\ncome\nhome yet.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I wonder if she's okay. It's not like I care\nsince\nwe're not friends or anything, but\nstill...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "We should go look for her.",
+                "You should wait for her."
+            ]
+        },
+        {
+            "text": "Yeah, you're right. It'd be a pain if she's\nin trouble\nor something, so I guess we\nshould.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh? Someone's coming. Is that...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Sigh...</i> I was the one who said I'd tag\nalong on yer\nshoppin' trip, but I'm barely\nholdin' it together.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Yer just buyin' everyday things. Why'd\nya hafta\nbe so picky? You shoulda just\ngot whatever.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "That won't do! Our little Umamusume is\na delicate\nflower.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I pick one thing that really suits her,\nthen\ncamouflage it with a few other\nitems that make it\nseem like I didn't try.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whadda pain in the butt. Yer gonna\nexhaust\nyerself walkin' on eggshells like\nthat.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Why don'tcha just lay it all out and be\nstraight\nwith her?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "No, it's better not to rush things.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It might take some time, but this is the\nright pace\nfor our friendship.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm sure one day, I'll be able to see her\nreal smile.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ughhh, you got the patience of a saint.\nIs that the\nsuper caring friend thing?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Trainer, let's go.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I thought it was normal, but it turns out\nto be the\nopposite...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Listen, I...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'll wait here, then.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Why don't you wait in your room?"
+            ]
+        },
+        {
+            "text": "No, I'm staying here. You can go back to\nyour\nplace if you want.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "It's okay. I'll wait with you."
+            ]
+        },
+        {
+            "text": "Suit yourself. Keep a lookout that way,\nthen.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh dear, I didn't mean to be out this\nlate.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Taishin? Were you waiting for me?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "As if. I just happened to be here.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Sorry. I couldn't find any medical tape in\nthe\ndorm, so I went out to search for\nsome.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And I found your favorite one! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Medical tape? For me?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't even need it! Ugh, you're such a\nbusybody.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But, Taishin...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It doesn't matter if you get home late\nbecause of\nme. I don't want that crap.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Give it to my trainer or something.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Bye.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "The next day..."
+        },
+        {
+            "text": "Trainer. Hmph!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Gimme that tape. It's not like you need\nit.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Never mind. I was just thinking I've still\ngot a lot\nof growing up to do, that's all.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She got it for me, so I'll take it—as\npayment for\nhaving to wait outside last\nnight.",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

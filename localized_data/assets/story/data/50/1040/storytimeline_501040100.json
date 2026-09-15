@@ -1,0 +1,300 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Starting off on our headlines for today...",
+            "name": "TV"
+        },
+        {
+            "text": "Голд Сити, an Umamusume model known\nto her\nmany fans as \"Pretty City,\"\nrecently announced\nthat she will\ncompete in the Twinkle Series.",
+            "name": "TV"
+        },
+        {
+            "text": "Голд Сити boasts a huge following\namong the\nteen demographic. I can't\nwait to see what kind of\nbeautiful\nrunning she has to show!",
+            "name": "TV"
+        },
+        {
+            "text": "In other news...",
+            "name": "TV"
+        },
+        {
+            "text": "Today, Голд Сити begins training in\nearnest.\nThanks to her popularity as a\nmodel,\nexpectations are running high.",
+            "choice_data_list": [
+                "(I'll work hard to get her ready for the races!)"
+            ]
+        },
+        {
+            "text": "Making this silent promise to myself, I\nfeel ready\nto do some great work, but..."
+        },
+        {
+            "text": "I'm sorry! Am I really late?!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Just a little. Don't worry about it!"
+            ]
+        },
+        {
+            "text": "I see...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити arrives late for our meeting.\nShe seems\na little tense, too."
+        },
+        {
+            "text": "Ah, dang it...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll get my warm-ups out of the way now.\nHold on\na sec.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey, isn't that City standing over there?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Oh, it is! Congrats on your debut, City!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Oh... Are you fans of mine?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah! We saw you on TV and wanted to\ncome say\ncongratulations in person!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Wow, this is unreal! You're so pretty in\nperson!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Thank you for the support, but I'm in the\nmiddle\nof training right now...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "There she is! City's <i>actually</i> here! Ahhh!",
+            "name": "Fans"
+        },
+        {
+            "text": "Huh?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh boy... What now?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I'll take care of it."
+            ]
+        },
+        {
+            "text": "Hey, you're blockin' da way. Move!",
+            "name": "???"
+        },
+        {
+            "text": "Ah! Tamamo...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "City, don'tcha got trainin' now too?\nWhat're ya\ndoin' wastin' your time here?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Sorry, guys, I have to go. Watch me in\nmy race,\nokay?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ahhh! Please do your best!",
+            "name": "Fans"
+        },
+        {
+            "text": "Sorry about that, Tamamo, but thank\nyou.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You're too nice to your fans. Your\ndebut's comin'\nup, isn't it?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Ya hafta learn how'ta better maneuver\nthrough\nthe attention! I'll see ya, 'kay?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "She actually gave me advice...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Who was that?"
+            ]
+        },
+        {
+            "text": "Тамамо Кросс. She's a year above me,\nbut we'll\nboth be making our Twinkle\nSeries debut this\nyear.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So, it's like... on one hand, she's more\n\nexperienced than me, but we're also sort\nof on\nthe same level.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Anyway, let's get to training. I've already\nlost so\nmuch time...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Bzzzt... Bzzzt...</i>"
+        },
+        {
+            "text": "Hm? Oh, you've got to be—",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "City, you there? Is now a good time? I\nneed to\ntell you something about\nyesterday's photo\nshoot.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "I said not to bother me when I'm on\ncampus! Just\nsend me an email!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "How many times do I need to tell her? I\njust want\nto focus on training...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити appears increasingly\naggravated. I\ndoubt she'll be able to\ntrain efficiently if we start\nnow. With\nthat in mind...",
+            "choice_data_list": [
+                "Hey, before we start..."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So, what, I should clear my mind and just\nrun till\nI'm satisfied?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Exactly!"
+            ]
+        },
+        {
+            "text": "I tell her not to worry about distance or\ntime. I\nwant her to run until she feels\ncontent."
+        },
+        {
+            "text": "What is this? Because I was late, you\ndon't want\nto do a proper training\nsession anymore?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "No, it's just..."
+            ]
+        },
+        {
+            "text": "Okay, fine. You're the trainer here, so\nwhatever\nyou say, boss.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I want to improve though!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Raaaaaah!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити runs as if venting her\nfrustration. She\nfrantically bulldozes\nahead, ignoring her\nsurroundings."
+        },
+        {
+            "text": "<i>Pant... pant... pant...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Her figure appears like sparkling gold.\nIt's a\nbeautiful sight."
+        },
+        {
+            "text": "<i>Pant... pant...</i> Haaahhh...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Feel better?"
+            ]
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I ran off everything that was bothering\nme.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm sorry.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "text": "For being late. I'm so not a morning\nperson, and\nthen yesterday's modeling\njob left me exhausted.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I can't complain when I'm the one\nwho\ndecided to juggle both.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "We can just work out an easygoing regimen for\nmornings!"
+            ]
+        },
+        {
+            "text": "Really? Are you sure?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Only if you can handle tougher sets in the\nevening."
+            ]
+        },
+        {
+            "text": "No problem. Still...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It'll be a huge pain for you if you always\nadjust for\nmy convenience.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I don't like compromising, and I can be\nselfish.\nAnd I won't hide it when I'm\nirritated either.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So you're 100% going to get fed up with\nme at\nsome point... Would you still let\nme run then?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I promise I'll keep you on the track no matter\nwhat."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Somehow, I don't believe you. But I'll\nhave to if\nwe're going to get started.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well then, let's see what you've got.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I want you to sort out a schedule with\nmy\nmanager that'll let me prioritize\ntraining.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You want <i>me</i> to do it?!"
+            ]
+        },
+        {
+            "text": "Heh. How am I supposed to run till I'm\ncontent if\nyou can't even handle this\nmuch?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I need to show everyone I'm not just\nsome pretty\ndoll to be gawked at.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Show me that I can trust you, Trainer.",
+            "name": "Голд Сити"
+        }
+    ]
+}

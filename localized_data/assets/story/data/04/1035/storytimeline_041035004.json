@@ -1,0 +1,243 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the day of the Tracen Meet, where the\nstudents choose their own\nevents to race\nin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Every year the academy booms with\nenergy as visitors flood the\ncampus. In all\nthat uproar, an unstoppable voice rises\nabove the rest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Rrraaaaagh! I wanna go faaaaast!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You're full of pep today."
+            ]
+        },
+        {
+            "text": "You know it! This is the perfect chance for\neveryone to see the fruits\nof our training!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It seems like lots of debuting students are\ndoing the same\n1,700-meter turf race that\nI chose...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, um, what was this called again? The\npre... pre-lee...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The preliminaries.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah, yeah! THAT! Oh, is that you,\nHayahide? Gooood morning!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Good morning. I'm glad to see you're in\nhigh spirits, Ticket. A lack of\nanxiety\nmeans you can achieve your full potential.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Heh-heh! Yep! All thanks to my trainer\nhere!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, that's right! Let me introduce you to\nmy classmate, Hayahide!\nShe's <i>SUPER</i>\nsmart!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And if she's here, that means... Let's\nseeeee...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ah-ha! Taishiiin! Get over here, youuu!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh! Keep your big dumb voice down,\nstupid! Everyone's looking!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hahaha! Sorry, sorry! But I'm so happy to\nsee you two! Hayahide, I\ndidn't think you'd\nbe here yet since your race is in the\nafternoon!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Well, I wanted to observe your run.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Awww! Thank youuu! I'm going to give it\nmy best shot!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And what about you, Taishin? Hold on a\nsec—didn't you tell me you\nusually skip\nthese \"boring\" events?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I was just taking a walk and happened to\npass through. It's irritatingly\nnoisy though,\nso I'm out.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No way! You're going home already?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But you have to see me show my stuff in\nthe raaace! Don't make me\nall saaad!\nWaaaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh, geez, quit crying, you baby!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm still leaving though. Later.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Nooo! TAISHIIIIIN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Worry not, Ticket. Taishin went in the\ndirection of the spectator\nstands.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ah, really?! T-T-Taishiiin! I'm <i>SO</i> touched\nby your super awkward\nfriendship!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "As the heartwarming scene comes to an\nend, the time for Winning\nTicket to run\narrives at long last.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Traaaineeer! It's time! I'm finally\nracing!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You've been such a great trainer to stick\nwith me. I... I could just...\nNgh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "No, no, no! I need to tell you something\nbefore I start crying!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "Well... I don't think I've ever inspired\nanyone with my running.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But still! I met you and learned a lot from\nour training. So, now... now\nI...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Nnngaaah! The words aren't comiiiiing!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Sorry! I'll just have to show you in the race!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ka-chak!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The 1,700-meter turf begins! But what\nkind of show will these\npotential stars give\nus?",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит pulls out ahead! It's a\nstrong, yet controlled, pace!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "(Hm? Huh?! What is this? It's so weird!)",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "(Is it 'cause we trained together all that\ntime? Did I learn this from all\nthe talking\nwe did every day?)",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "(Stay calm and watch your surroundings.\nThink about pacing. Stay at\nyour own\nspeed... It's like I can hear Trainer's voice\nin my head.)",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Huh? Her running's different. When did\nshe learn how to do that...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Fascinating! Heh, you've met a fine trainer,\nTicket!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(I understand... I see it, Trainer!)",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's the stretch! This is it, right?! Time for\nfull poweeeeer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит's speeding up! She's\nleaving everyone behind!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "She's going! She's really moving! What an\nincredible burst of speed!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Urrraaaaagh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "FINISH! Уиннинг Тикит takes first! What a\nstunning victory!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooo!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Thanks for cheering for me, everyooone!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Congratulations, Ticket! You were\namazing!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Waaah, thank you, thank yooou! I'm so\nHAPPYYY!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll return the favor... Someday I'll be an\nUmamusume who inspires\neveryone!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's why... I wanna vow to everyone\nhere, as well as the trainer who\ntaught me\nhow to run!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I promise... to become a Derby\nchampiooon!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wooo!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Unlike at the tryouts, not one person\ndoubts her words now.",
+            "name": "Монолог"
+        }
+    ]
+}

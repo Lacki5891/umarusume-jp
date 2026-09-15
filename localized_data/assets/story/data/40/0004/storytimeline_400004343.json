@@ -1,0 +1,189 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "While at the cafeteria, I spot Taiki Shuttle and\nSeeking the Pearl."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "If I'm going to rule the world one day, I'll need to\nmaster English, French—all the languages!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I'll be! Lookin' to become multilingual, are ya?"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Yes! A maestro of fluency!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "But even if mastering those languages ends up\nbeing too rough, you'd be surprised how well you\ncan get by with plain ol' body language!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Interesting... I suppose that even if our words are\ndifferent, we still express our feelings the same\nway! The world sure is bursting with possibilities!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Taiki! Shall we test this out by having a \nconversation using only body language and the\nword \"revolution\"?"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Let's engage in a passionate exchange while\nexpressing our emotions with our bodies! And one\nword!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Woo! Now that's a daisy idea right there! Okay,\nlet's do it!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Revolution?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ahh! <i>Revolution!</i>"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Reeevolution! Revolution!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hehe, revolution. ☆"
+    },
+    {
+      "name": "Monologue",
+      "text": "Although they look like they're thoroughly\nenjoying their \"conversation,\" I haven't the\nslightest inkling of what it's about...",
+      "choice_data_list": [
+        "Um, what are you discussing?",
+        "Um, what are you discussing?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Oh, couldn't you infer the meaning from our body\nlanguage and intonation?"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "I started the conversation by asking, \"Which do\nyou prefer, the northern or southern\nhemisphere?\""
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "She said, \"The northern hemisphere,\" and I'm of\nthe same opinion, so I replied, \"What a\ncoincidence! That's where I plan to begin my\nglobal conquest.\""
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Well, I'll be! I thought you were inviting me to a\nshindig at your homestead, and I was mighty keen\non it!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "You told me you had yourself a hankering for\nsome good grub, so I said, \"I'll rustle you up some\nbarbecue! ☆\""
+    },
+    {
+      "name": "Monologue",
+      "text": "It sounds like I wasn't the only one who struggled\nto follow the conversation..."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "It appears that branching out into the world isn't\nall that simple."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Yep, well, I reckon you're asking for a sticky time\nby sticking to body language.",
+      "choice_data_list": [
+        "How about changing the word you use?",
+        "Maybe words aren't necessary at all."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I figure you're right! Next up, let's try it with\n\"muffin\"!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Muffin!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Muuuffin!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Muffin! Muffin!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Muffiiin?",
+      "choice_data_list": [
+        "What were you talking about this time?",
+        "What were you talking about this time?"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "First, I declared, \"I'm going to rule the world!\""
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "I thought so! 'Cause that's when I said, \"And no\nmistake!\""
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Then <i>I</i> responded by saying, \"Thank you! Be sure\nto come to the celebration party!\""
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Then, I said, \"I wonder what kinda duds I ought to\nput on for that!\""
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Phew! We did it! We understood each other\nperfectly!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Indeed! I'm now another step closer to world\ndomination!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "That settles it! Muffins are understood the world\nover! Thank you for the suggestion!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Unnecessary? You're saying to stick to plain ol'\nbody language?"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "I understand now—our half-baked word choice\nended up transforming our conversation into\nmere noise!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "It's so clear now! The global stage demands a\nbold approach! Let's begin our body language\nexchange!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Okay! Hmph... Hmph..."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Hah... Mmph..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Wow! Awesome! Ha! Ho!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Excellent! I can feel your passion! How's this?!\nHmph!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm not sure it constitutes a conversation, but the\ntwo energetically exchange thoughts while\nmaking use of their entire bodies."
+    },
+    {
+      "name": "Monologue",
+      "text": "Although the logic behind their conversation is\nmurky at best, I get the sense they've stumbled\nonto an idea with great potential."
+    }
+  ]
+}

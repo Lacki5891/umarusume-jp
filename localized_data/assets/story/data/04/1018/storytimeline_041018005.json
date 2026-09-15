@@ -1,0 +1,166 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Learning that Эйр Грув is overseeing a\ndance lesson for a group of\nother students\nafter school, I decide to drop by and\nwatch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Stay in formation! First the box step, then\nthe turn! Maintain eye\ncontact!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "O-okay!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "You're finished if you fall behind tempo!\nNext is a heel stЭпизод Get\nready to come\nforward!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "O-okay!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "While her tone is stern, the instruction is\nprecise. This is an Air\nGroove dance lesson\nthrough and through.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, let's switch to pair training. Get with\na partner and begin the\nroutine!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Okay!",
+            "name": "The Three",
+            "choice_data_list": [
+                "This is some high-level stuff."
+            ]
+        },
+        {
+            "text": "Hm? Were you always there?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The winning concert is an integral part of\nany Umamusume's duties.\nNaturally, dance\npractice is going to be tough.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's so awesome to get lessons from <i>the</i> Air\nGroove!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Can't be sloppy in front of her! Let's do\nthis!",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "The excited dancer stumbles out of line.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, keep your eyes on—you'll fall!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Eek!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "...!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув rushes over to cushion the girl's\nfall.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ow ow ow...",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "Waaaahhh! Эйр Грув! Are—are you\nokay?!",
+            "name": "Умамусумэ Б",
+            "choice_data_list": [
+                "Эйр Грув?!"
+            ]
+        },
+        {
+            "text": "I'm fine... This is nothing to be alarmed by.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "After some initial resistance, I convince Air\nGroove to come with me\nto the infirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The physician declares it a minor sprain.\nThere is a little swelling, but\nfortunately\nthere's no damage to the ligaments or\nbone.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Then there's nothing stopping me from\ngetting back to work. If you'll\nexcuse me, I\nhave a lesson to teach.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Wait!"
+            ]
+        },
+        {
+            "text": "What do you want? Those girls are\ncounting on me for instruction.\nDon't get\nin my way.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'd prefer if you took better care of yourself."
+            ]
+        },
+        {
+            "text": "Better care? I think I've got that under\ncontrol, thank you. You've no\ngrounds to\nbe telling me how to take care of myself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "An empress cannot abandon those in need\nfor anything. A mere\nscratch is no reason\nto—",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You're hurt! What could be more important than\nthat?!"
+            ]
+        },
+        {
+            "text": "B-back off! I could hear you where you\nwere standing before.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Ah, sorry."
+            ]
+        },
+        {
+            "text": "Oh please, stop with that face. Geez,\nwhat's gotten into you?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I suppose...\n<i>Sigh...</i>",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Fine. I'll take the rest of the day off and\nlet them know we'll resume\npractice at a\nlater date.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It won't do for an empress to allow her\naudience to see her in\nanything less than\nan ideal state.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...And I suppose causing anxiety for one's\ntrainer isn't very\nempress-like either.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Эйр Грув... thank you!"
+            ]
+        },
+        {
+            "text": "All right, enough talk! I'm going to nap\nhere for a while.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, off you go then. Do you want me to\nget some rest or not?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I happily allow myself to be kicked out of\nthe infirmary.",
+            "name": "Монолог"
+        }
+    ]
+}

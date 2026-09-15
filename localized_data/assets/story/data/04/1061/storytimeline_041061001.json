@@ -1,0 +1,229 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As tryouts draw near, hopeful students are\ngiven a chance to\ndemonstrate their\nabilities to trainers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Deciding to observe the students' training\nprogress, I head off to the\ncourse, when an\nindignant voice catches my attention.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gosh, I've already said this a million times!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I <i>do</i> have talent! I'm going to prove it at\nthe tryouts and procure\nmyself a first-rate\ntrainer! If you don't believe me...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Then there's nothing more I have to say to\nyou. Goodbye!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Sigh...</i> Geez, doesn't she know that I don't\nhave time to talk on the\nphone right now—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Aaah! Wh-who are you? A stalker?!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Wait, what?! No!"
+            ]
+        },
+        {
+            "text": "I quickly clear up the misunderstanding by\nintroducing myself as a\nnew trainer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, is that so? Well then, excuse me. But\nconsider yourself lucky that\nyou were able\nto catch me by surprise. It's a rare sight, so\nlet's call it\neven.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Hey, what's with the face? Do you not\nunderstand how grateful you\nshould be\nright now?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Don't tell me... Do you not know who I\nam?!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'm sorry?"
+            ]
+        },
+        {
+            "text": "My goodness me, what a travesty! We\nmustn't waste any time—follow\nme!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "She forcibly drags me along to the central\nsquare.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right everyone, assemble!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Okaaay!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "What's happening, King?",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "Who's this?",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "A new trainer. But for some reason, this\nperson has no idea who I am!\nIsn't that just\nabsolutely tragic?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That's why it's time for a proper\nintroduction!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You got it!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Hehe, that's what I like to hear! Let's\nbegin!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What's my name?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "What am I?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "A winner!",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "How's my future?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Bright and beloved!",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "That's right! For I am the one and only—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "—Кинг Хало!",
+            "name": "Everyone"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Hey, what's with that empty look on your\nface? Where's my\napplause?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I just went out of my way to do a whole\nself-introduction for you! You\nshould be\ncrying tears of joy while clapping!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "That was a self-introduction?"
+            ]
+        },
+        {
+            "text": "Indeed it was. I'm sure the introduction has\ntold you all that you need\nto know—that\nthe elegant, charming, and dignified King\nis a first-rate\nracer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Surely now you understand the sheer\nmagnificence, the intelligence,\nand the\nexpectations that I embody. And how it's\nonly natural for the\nentire school to be\ncaptivated by me?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Umm..."
+            ]
+        },
+        {
+            "text": "What?! How could that possibly have\nflown over your head? You...\n\ngood-for-nothing!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Geez... Very well, once more from the top!\nEveryone, get in your\npositions!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But King, shouldn't you get going soon?",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "Yeah, didn't you say you were going to be\ntraining with the others\ntoday to prepare\nfor the tryouts?",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "...Ah.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The training course is already filled with\nstudents going through their\npractice\nroutines. A large number of trainers have\ngathered to watch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i> Ohohoho! I'm sure you were\nall dying to see me! Ohoho...\n<i>Cough.</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, well, if it isn't King. Did you sprint\nall the way here just to make\nit in time?\nTake a little break and catch your breath,\nokay?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "As if I need a break! There are more\nimportant things right now. Look\naround\nyou—all these trainers have gathered here\nto observe my\nprowess!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Rest is for the weak! Ohohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well... You do you, I suppose.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hey, King! I'm glad you came too. I was\nabout to start training. Do\nyou want to\njoin?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Of course! Sky, come with us too. I'll give\nyou the honor of eating my\ndust!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Okay! Last one there bites the dust!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hey! No cheating!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What, are we starting already?! Wait for\nme!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Haha, well if it isn't the trickster Сэйун Скай,\nthe hard-working Special\nWeek, and the\nwell-to-do Кинг Хало.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "They certainly have their own quirks! I'm\nexcited to see how those\nthree will\nperform in the tryouts!",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "From the sidelines, I watch as Кинг Хало\nand the others race excitedly\nagainst each\nother.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, at training..."
+        },
+        {
+            "text": "<i>Gulp, gulp...</i> Ahh!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...So bitter.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What are you drinking?"
+            ]
+        },
+        {
+            "text": "A makeup artist I know told me about\nthis\ninsanely bitter drink. It's pretty\ngross.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But apparently, it does wonders for your\nskin, and\nit acts fast, so I wanted to try a\nlittle.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I just have to put up with the taste. It's\nmuch\nbetter than having to miss work\nbecause of skin\nproblems.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Gulp, gulp...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Uergh...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити seems to be quite worried\nabout the\ncondition of her skin."
+        }
+    ]
+}

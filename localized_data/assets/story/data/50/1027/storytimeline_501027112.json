@@ -1,0 +1,279 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро Райан has a number of victories\nunder her\nbelt.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day, I get called to meet her on the\nrooftop\nfor \"an earnest talk.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, sorry for making you wait so long.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But I've finally made my decision!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "There have been times when I felt\nworthless and\nhated myself, times I\nwanted to give up.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But after overcoming so many hardships\nand\nmaking it this far, I finally have\nconfidence in\nmyself.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "So, you could say that I've finally\nqualified...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "For a trip to the hot springs!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "...What's going on?"
+            ]
+        },
+        {
+            "text": "Wha... Did you forget? The raffle we\nwon at the\nbeginning of the year...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\nticket for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Uh, Trainer... Could you hold onto this\nticket for\nme?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Thanks! It's only until I gain enough\nconfidence to\nfeel comfortable taking\ntime off.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I remember now. But the way she was\nbringing it\nup made it sound like\nsomething of dire\nimportance. I didn't\nrealize she was talking about\nthe hot\nsprings.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've also decided who I wanna go with. I\nthought\nabout inviting McQueen, Ines,\nand others...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But if I want to fondly reminisce about\nthe\nTwinkle Series, I can't think of\nanyone better\nsuited.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "So, Trainer...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Will you please come to the hot springs\nwith me?!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "O-okay, sure."
+            ]
+        },
+        {
+            "text": "...Wait, wasn't there an old romance\nmovie with a\ntitle like that?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh no, I don't mean it like that! Just\ntake me on a\nregular trip to the hot\nsprings, a <i>regular</i> trip!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm not sure why she's putting so much\nemphasis\non \"regular,\" but I decide to\ntake her up on the\noffer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhh... I think I'm gonna cry...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Huh? Why?"
+            ]
+        },
+        {
+            "text": "I wanna soak this all in and enjoy it, just\nrelax and\ntake things slowly.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It really feels like I deserve a little fun,\nsince I've\nbeen workin' so hard.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm glad I held off on coming here until\nnow. It\nreally feels like a proper reward\nfor myself.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The wait has given extra meaning to\neverything.\nThis must be particularly\nemotional for her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You've still got plenty more time to enjoy\nyourself."
+            ]
+        },
+        {
+            "text": "Yeah! I'm gonna have as much fun as I\ncan on this\nvacation!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan pays a visit to my room, where we\nend up\ntalking about all sorts of things.\nAnd then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, can I talk to you about something\nstrange?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, when I say strange, I don't mean\nsomething\ninappropriate or anything like\nthat!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Sure... What is it?"
+            ]
+        },
+        {
+            "text": "When I was getting into the hot spring, I\ntook a\ngood look at my body and\nrealized something...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I fear she might be talking about\nsomething\ninappropriate, but I decide to\ncontinue listening.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's changed quite a bit.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "In what way?"
+            ]
+        },
+        {
+            "text": "When I was only doing weightlifting and\n\nforgetting my insecurities, I was hella\nswole. My\nmuscles were my pride.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But now... How do I put it nicely? My\nmuscles\nlook a bit deflated, like they\naren't as defined as\nbefore. They're\nmissing that shredded look.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm slimmer now, probably because I've\nbeen\nrunning so much.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That and the dancing. Maybe it's also\nbecause\nI've become more conscious\nabout dancing in\nfront of people.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "With all those changes in my life, my\nbody's\nchanged too.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "So you had more muscles compared to now?"
+            ]
+        },
+        {
+            "text": "Yeah... But no matter how ripped I got, I\nstill felt\nuneasy. Those stronger muscles\ncouldn't protect\nmy heart.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But now, it's the opposite. The strength\nof my\nheart shines out through my body.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It feels like... my body is finally a\nreflection of\nwho I really am.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I wanna run, and I wanna dance. Those\nfeelings\nbecame like my muscles, I think.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I mean, any body type is fine. I'm sure\neveryone\nhas their own preferences\nwhen it comes to that...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But I actually like my how my body looks\nnow! I\nlike myself!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "So yeah... that's what I thought when\ngetting in\nthe hot spring.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "We're here to have fun, so I'm surprised\nshe has\nstuff like this on her mind. But I\ncan't say it's\nunlike her to do that.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, so what do you make of all that? If\nyou have\nany thoughts, I'd like to hear\nthem.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "That was very earnest!"
+            ]
+        },
+        {
+            "text": "Huh? Earnest...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "W-well, yeah. I guess it was... That's just\nhow I am\nwhen I think about myself, you\nknow?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Like, too earnest!"
+            ]
+        },
+        {
+            "text": "Geez, I can't help myself! It's not like I\ncan just go\nand change my whole\npersonality!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You know I'm like that! Gosh!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hmph, it's just who I am—a stubborn\nperson who\nthinks about that kind of\nstuff, even on vacation!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан puffs out her cheeks and\npouts—a\nrare sight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm upset now! Just remember, you're the\none who\nchose me.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Anyway, I hope our relationship\ntogether lasts\nforever!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ack, that makes it sound like we're\nnewlyweds or\nsomething...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Argh, but whatever! I'm fine with being\nearnest!\nSo get ready to put up with it\nfor a long time,\n'cause I'm always gonna\nbe honest!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan has a strange way of getting upset.\nShe's\nlooking straight at me, but her\neyes are quivering.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do you get that? You have to be earnest\ntoo.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "...I understand."
+            ]
+        },
+        {
+            "text": "Well, then... Good to hear.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I sense that Мэдзиро Райан and I have\nformed an\nirreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

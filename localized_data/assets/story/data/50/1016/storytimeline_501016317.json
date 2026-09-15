@@ -1,0 +1,126 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "text": "I haven't had enough.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm not satisfied with this. More! I need\nmore!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "After the race, I hear some interesting\nnews on my\nway to meet Нарита Брайан."
+        },
+        {
+            "text": "What is it, Тренер?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Actually..."
+            ]
+        },
+        {
+            "text": "Yeah?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Мэдзиро МакКуин, are the rumors true?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Indeed, they are. I will be competing in\nthis year's\nspring Tenno Sho.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "O-oh! In that case, do you think you're\nfully\nprepared?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Infallibly. It is my plan to bring honor to\nthe\nMejiro family with an outstanding\nperformance.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "By any chance, did you make the\ndecision\nbecause of—",
+            "name": "Репортёр C"
+        },
+        {
+            "text": "Hehe, come now. I was merely indicating\nmy\nintent.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My intent to take the crown of the\nstrongest\nstayer in history, that is.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ooohhh!",
+            "name": "Reporters"
+        },
+        {
+            "text": "I also heard that Михоно Бурбон will be\nracing.\nHehe.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Rather exciting, wouldn't you say?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...I see.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let's enter the spring Tenno Sho as well.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "It's not really the most typical route..."
+            ]
+        },
+        {
+            "text": "That's why we'll do it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We wouldn't have stayed together all\nthis time if\nyou were one to chicken out.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "By the way...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "How long are you planning on standing\nhere? I\nwant to get changed...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Sorry!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Look, I know how much you like to\nworry.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And I know you're always looking out for\nme. But\nthis won't be a repeat of that\nsummer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Relax. I'll be fine.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Brian..."
+            ]
+        },
+        {
+            "text": "If you got it, then hurry up and get out\nof here.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And so, drawn by the prospect of facing\noff\nagainst strong adversaries, we decide\nto aim for\nthe spring Tenno Sho."
+        }
+    ]
+}

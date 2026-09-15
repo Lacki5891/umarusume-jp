@@ -1,0 +1,266 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A month before the Arima Kinen, I open\nmy mail\none morning to a letter from the\nacademy. Inside,\nI find midterm tallies\nfor the race's nominations.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For the second year in a row, I find Grass\n\nWonder's name on the list. Then, I check\nwhich of\nher rivals we're likely to see on\nthe big day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's one familiar name listed.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Спешл Уик!)"
+            ]
+        },
+        {
+            "text": "I wonder if the racers themselves have\nseen these\ntallies yet.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for a lovely meal!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Nothin' beats a clean plate and a full\nbelly!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Spe never did show up, though, did she?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Right? She just left that message sayin'\n\"start\nwithout me!\"",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But have ya noticed, Grass?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "There's somethin' different about Spe\nthese days.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I have noticed.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I suspect I'll be facing her in the Arima.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Should it come to that—oh?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hm? That a message from your Тренер?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...No.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's Spe. She says she wants to speak\nwith me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She said what?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehe, and there's a rather spirited tone\nto her\nwriting. ...I can hardly wait to\nmeet her on the\nroof.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hmm... So, now Spe's the one gettin' all\nfired up.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Is that envy I'm detecting?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Qué?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "H-hold up! What makes you say that?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I apologize for the wait, Spe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Grass...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Sorry to call you up so suddenly. Thanks\nfor\ncoming though.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Have you seen the Arima tallies yet?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Of course.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You'll be racing in the Arima Kinen, yes,\nSpe?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Uh-huh.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "And... I'm gonna beat you, Grass.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I saw the Mainichi Okan.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You, Suzuka, El... You were all amazing.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It was almost scary, seeing you three at\nfull force.\nYou were so powerful... so\nblindingly bright...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...And so distant.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "My friends... The people I admire...\nEveryone was\nout there giving their all\non the same track.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Except me! I'm the only one being left\nbehind!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I won't let it go on like this. I won't.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I want to show you all what I can do! I'm\ngonna\ncompete right along with you.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "And I wanna win!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Spe...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The Arima Kinen is mine.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'll make my moms proud... Because I'm\nSpecial\nWeek, the top Umamusume in\nall of Japan!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'll face you with everything I have.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...And that is the situation.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Things are getting more tense."
+            ]
+        },
+        {
+            "text": "Spe is training especially hard. I'm\ncertain she'll\nbe almost unrecognizable\nin a month's time.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But I pledged my determination. I'll train\njust as\nhard and accomplish what I've set\nout to do.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You're making great progress, Grass."
+            ]
+        },
+        {
+            "text": "I suppose I am.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Maruzen, Sei, El, Suzuka, and now Spe...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Each of them are truly strong.\nOvercoming them\nwill be no easy task.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But overcome them I will—one by one.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Each time will affirm my progress, each\nstep\nbecoming a source of my strength.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That is how I feel.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Seeing the smile on Грасс Вандер's\nface, I'm\nreminded of the words\nМарузенски told me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But, hey. Grass will be fine. Just peachy.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "After all...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "There's one important thing she's always\nhad tons\nand tons of. Something I never\nhad, no matter\nhow I longed for it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски was revered as the Beast\nbecause\nthere was nobody else who\ncould match her\nstrength.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But Грасс Вандер is surrounded by\nothers\npushing her to do better.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well then, Trainer... shall we begin our\nmeeting?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We still have so much training to do!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер is set to take a major leap\nforward\nat the Arima Kinen. There's no\ndoubt in my mind!",
+            "name": "Монолог"
+        }
+    ]
+}

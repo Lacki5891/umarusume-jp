@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hiiiyah! Hraaaugh! LET'S DO THIIIS!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "You sure are energetic today."
+            ]
+        },
+        {
+            "text": "Whassat? What'chu talkin' about?!\nGolshi's full\ngo, anytime, <i>all</i> the time!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But you gotta meet me halfway, catch\nmy drift?\nNone of that boring,\nhalf-baked training, yo!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Don't even think about subjecting me to\na snooze\nfest today.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "If you try it, we'll go white-water rafting\ninstead,\nand you're gonna be the raft!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I value my life too much, so I curate\ntoday's\ntraining schedule entirely around\nГолд Шип's\ndemands.",
+            "name": "Монолог"
+        }
+    ]
+}

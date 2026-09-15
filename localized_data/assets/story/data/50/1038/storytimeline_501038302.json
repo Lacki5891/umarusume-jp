@@ -1,0 +1,468 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One evening, as Каррен Тян brings me\nthrough\nthe shopping district...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! There it is! There it is! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Let's play the raffle! ♪ I have a ticket!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Is that why you brought me to the shopping\ndistrict?"
+            ]
+        },
+        {
+            "text": "Let's play the raffle! ♪ I have a ticket!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Is that why you brought me to the shopping\ndistrict?"
+            ]
+        },
+        {
+            "text": "Ehe! Yup! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I thought it'd be to fun to play the raffle\n\ntogether. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I thought it'd be to fun to play the raffle\n\ntogether. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And I want you to film me spinning the\nlever.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "To Каррен Тян, it looks like the social\nmedia\npost is more important than the\nactual prize.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Okay, let's do it!"
+            ]
+        },
+        {
+            "text": "I knew you'd say that. ♪ Take my\nphone! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I knew you'd say that. ♪ Take my\nphone! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "As cute as ever, Каррен Тян puts her\nhand on\nthe lever... and... and...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you going to spin it or what?!"
+            ]
+        },
+        {
+            "text": "It'd be boring if I did it right away! ♪\nOkay, here I\ngo!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...And she spins it! A small plastic ball\ndrops from\nthe tumbler's opening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohhh!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ohhh!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You did it!"
+            ]
+        },
+        {
+            "text": "Wow! I never thought I'd get the grand\nprize! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I was thinking the bushel of carrots\nwould make\nfor the best pic, but...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I guess my cuteness just drew in the big\none! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Assuming she'd get at least the\nsecond-place\nprize is very typical of\nКаррен Тян...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aaand here you go! You take it!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "Aaand here you go! You take it!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "I got a good vid, so I'm happy. ♪ Think\nof it as a\nthank-you for coming with me.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "It sure would make me happy to know\nyou got in\na good break, whenever that\nmay be.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It sure would make me happy to know\nyou got in\na good break, whenever that\nmay be.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She does whatever it takes to get\neverything she\nwants but doesn't care\nmuch for what she gets by\nchance...\nThat's so like Каррен Тян. Still...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "No, I can't accept this."
+            ]
+        },
+        {
+            "text": "Awww. Well, too bad. I already gave it\nto you.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Wait, but..."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh! I know...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll take it back if you can catch me!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "Ready, go!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But no matter how hard I run, there's no\nway I can\ncatch up with her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good job, Big Bro. But unfortunately for\nyou, I\nwin this time!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "<i>Wheeze, wheeze...</i>"
+            ]
+        },
+        {
+            "text": "Good job, Big Sis. But unfortunately for\nyou, I win\nthis time!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "<i>Wheeze, wheeze...</i>"
+            ]
+        },
+        {
+            "text": "Oh wow, you really went for it, though!\nThat's so\nlike you...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh wow, you really went for it, though!\nThat's so\nlike you...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It's an opportunity to take a break\nwithout me\naround, so you should've just\naccepted it in the\nfirst place.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You need to take a break too, Curren."
+            ]
+        },
+        {
+            "text": "She's a hard worker, but she tends to\ntake on\neverything herself. I tell her how\nI think she needs\nto rest as well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I getcha. You'll do anything for me,\nhuh?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You're something else, Big Bro...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You're something else, Big Sis...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Okay, you win. I guess there's such a\nthing as\nhaving someone care about you\ntoo much. Haha!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Sooo..."
+            ]
+        },
+        {
+            "text": "So!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Once everything settles down and we\nhave some\ntime, let's go together. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yay! ♪ Did you hear that? Deluxe!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "But I kinda feel like \"deluxe\" should be\nmore than\njust a hamburger steak.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I want everything to be deluxe, like a\nparty or\nsomething! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Sooo... let's look around the shopping\ndistrict\nsome more before we leave.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I wanna get some decorations... Oh!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "By the way, do you like cooking?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Why do you ask?"
+            ]
+        },
+        {
+            "text": "By the way, do you like cooking?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Why do you ask?"
+            ]
+        },
+        {
+            "text": "I'm just making small talk. As for me...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I like cooking when I have to, I guess. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You know, I'd looove to try your cooking\n\nsometime.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You know, I'd looove to try your cooking\n\nsometime.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And so, we head back to the academy\nand have a\ndeluxe carrot hamburger\nsteak party...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! That's a really big bushel!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "This reminds me of harvest festivals. I\nbet they'd\nlook cute displayed in a\nbox. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "My outfit has orange in it today as well...\nIt's\nperfect!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Were you... shooting for this prize?"
+            ]
+        },
+        {
+            "text": "Hehe. It's just a coincidence. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I just heard that the carrots in the raffle\nwere\nsuuuuper sweet and a really pretty\norange!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Can you help me out with some pics\nwhen we get\nback?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Sure, I can take a few pictures."
+            ]
+        },
+        {
+            "text": "Can you help me out with some pics\nwhen we get\nback?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Sure, I can take a few pictures."
+            ]
+        },
+        {
+            "text": "Oh no, you won't be the one taking\nthem...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...One carrot, huh?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Disappointed?"
+            ]
+        },
+        {
+            "text": "Nooo...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I was just thinking about what I can do\nwith just\none carrot. But I've got it. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "First, I put the carrot next to my face,\nand...\n<i>Flash!</i> ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Perfect! ♪ Now for a caption...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"#CarrotChallenge #Carrot\n#PerfectForPics\n#CuteCurrenChan\"",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...I think I'll roast the carrot.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "That's too bad..."
+            ]
+        },
+        {
+            "text": "Hah. Oh, well. It's just a raffle, after all.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh, that's right. I wanna go shopping\nbefore\ngoing home.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I need new makeup brushes for my pics\nand vids.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hm... I should get some spares too, so I\nguess\nabout a hundred should be\nenough.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "A h-hundred?!"
+            ]
+        },
+        {
+            "text": "Do you still have some time? Would you\ncome\nwith me?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Do you still have some time? Would you\ncome\nwith me?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "We're also going to play the raffle\nanother\nhundred times or so.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "(Her eyes look dead serious!)"
+            ]
+        },
+        {
+            "text": "There's nothing Каррен Тян hates more\nthan\nlosing, so I spend the rest of the\nday trying to\ncalm her down. I finally\nsucceed after agreeing to\njoin her on a\ndate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After her post, #CarrotChallenge trends\non\nUmastagram for a while.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For some reason, I end up being the chef\nand\nhaving to serve Каррен Тян!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later, Каррен Тян posts online with the\ncaption,\n\"#AllTheseCarrots\n#EatenbytheStaff.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "In the end, I end up holding onto the\ncoupon for\nthe hot spring vacation.",
+            "name": "Монолог"
+        }
+    ]
+}

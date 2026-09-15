@@ -1,0 +1,102 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ehehe... I really did it this time, huh?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Still, the doctor back there was making\nway too\nmuch of a fuss! It's not <i>that</i> bad!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll be back to training in no time! A little\nbump\nlike this would never affect a lady\nli—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ow!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "text": "Y-yeah... An adult would never admit\nthat they're\nin pain—even if they really\nare.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's why I'll never tell you if I'm\nhurting!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm not some... lame-o kid!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Okay then, we'll handle this like adults.",
+                "It isn't lame to admit that you're in pain."
+            ]
+        },
+        {
+            "text": "Like adults? You mean calmly?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Right... I guess adults are pretty calm.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...I got it! I'm not really in any pain, but\nI'll be a\nresponsible adult and rest as\nmuch as I can.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Even though it doesn't hurt... Not even a\nlittle...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But Trainer...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "The lamest thing you could do is aggravate your\ninjury by pushing yourself too hard."
+            ]
+        },
+        {
+            "text": "True! I guess you're right!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...B-but I really am fine! It only hurts a\ntiny bit. I\ndon't think it'll get worse—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Urk! Owww!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Um, it actually kinda hurts. My injury,\nthat is.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But I don't wanna stop training with you!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "We can train again after you get some rest."
+            ]
+        },
+        {
+            "text": "Roger that!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It takes some time for her injury to heal,\nbut she\neventually returns to her normal\nschedule.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Маяно Топ Ган pretends to be okay,\nbut it\nends up costing her. Her injury\nworsens, and she's\nforced to rest for a\nfew days...",
+            "name": "Монолог"
+        },
+        {
+            "text": "With that, Маяно Топ Ган is able to\nget some\nrest.",
+            "name": "Монолог"
+        }
+    ]
+}

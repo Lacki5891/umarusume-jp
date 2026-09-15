@@ -1,0 +1,174 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The holiday season is upon us once\nagain. It\ncomes and goes faster than a\nrunner in the\nSatsuki Sho...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh! Who ever suggested that I should\ncome\nthrough the chimney? It's narrow\nbeyond belief!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ugh, my bag's all caught up. This calls\nfor a bit of\npushing to make things right!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ack, I've ripped it! But at least it's loose!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Burglar?!"
+            ]
+        },
+        {
+            "text": "Hyuck hyuck, indeed I am! Now, hand\nover yer\ngold!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Hold up. It's the holidays, right? No\npoint in\nhiding it now...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'm Mati-santa Fuku-claus! I'm here to\ngive\npresents to all the good boys and\ngirls!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I'm sorry. Can you say your name again?"
+            ]
+        },
+        {
+            "text": "Oof! Please, could I not? It's not like I\ndidn't say it\nright the first time...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "A-anyway, I have a present for you. Put\nyour hand\nin the bag and pull out\nwhatever you like.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'm giving out presents, fortune-slip\nstyle! I'll give\nyou whatever you pull out,\nall right?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I put my hand in and grab the first thing\nI touch...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's take a look... Great fortune!\n\nCongratulations! Pulling great fortune is\na gift in\nitself!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "Oh, are you not happy? Guess I'll have\nto make\nthis right. Here, take this!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ta-dah! Inside the box is a festive tree\nthat's a\nthousand years old! A plastic\nreplica of it,\nanyway.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's a good prize. Go on, open it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I unwrap my present and open the box...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait, nooo! The star at the top of the\ntreeeee!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The star has snapped right off. It\nprobably broke\nwhen she snagged it\ninside the chimney.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uuugh, I can only apologize... What sort\nof\nMati-santa am I...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um, Trainer. Could you come outside\nwith me for\na moment?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Excuse me! Can I get some glue and\ntape, please?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Just give me a moment—I'll fix this right\nup.\nUuugh, this is so embarrassing...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I really wanted today's celebrations to\nbe a little\nmore holy-feeling. This is so\npathetic...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I don't mind at all."
+            ]
+        },
+        {
+            "text": "Trainer! <i>Sniff...</i> You're so kind!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "While you're being so kind, could I ask\nyou for\nanother favor? When we get\nback, could you help\nme stick the star\nback on?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It can wait until after we've eaten our\nholiday\ncake, though. Hehe.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Okay, plan B! Time to pull out my secret\nweapon!\nCome on, Trainer, lift the tree\nhigh up into the\nsky!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Doesn't it look like there's a real star on\ntop of it\nnow? How romantic is that!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I want to have a proper star on top."
+            ]
+        },
+        {
+            "text": "Ack! My little illusion wasn't good\nenough for\nyou? I thought I really turned\non the charm\nthere...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I guess I'd better use the star that fell\noff, huh?\n<i>Sigh...</i>",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Why don't you use the star that you'll win at the\nArima Kinen?"
+            ]
+        },
+        {
+            "text": "Huh? The Arima Kinen? That's still\ncoming... up...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ah, I see what you did there! That was\nactually\npretty cool. Seems I'm no match\nfor you.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Promise me you'll get that star?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer... Y-yeah, I'll do it. By the\nway...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You're dressed to impress today, huh?\nMy heart is\nracing just looking at you...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "My face is so red, I'm about to become\n\nMatikane-feelin'-the-heat-now. Wait,\nwe're right\nin the middle of winter. Did I\njust flub another\njoke?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "We still don't have the star we need for\nthe tree.\nIt's time to go and win it for\nourselves.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Despite the tribulations, we have fun\ntrying to\nmend the tree together.\nStrangely enough, it's\nturned out to be a\npretty heartwarming holiday.",
+            "name": "Монолог"
+        }
+    ]
+}

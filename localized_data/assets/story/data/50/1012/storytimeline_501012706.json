@@ -1,0 +1,146 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон and I are heading back\nfrom a day\nout, when..."
+        },
+        {
+            "text": "Whoops, I just remembered something!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hey, Teach, if you've got time, can we\nadd one\nmore thing to our to-do list?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "A-as in our plans, not a fight! See, I've\ngot two\ntickets for a museum to use up...",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You? A museum?"
+            ]
+        },
+        {
+            "text": "Yeah, I know, I know. That's what I said\ntoo, but\nthe owner of a shop I visit a lot\ninsisted on giving\nthem to me.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It would've been rude to keep refusing\ntheir good\nwill, so I caved.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Anyway, I thought you'd know more\nabout artsy\nstuff than me, so wanna go?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm not that clued up about art either,\nbut we end\nup going to the museum\ntogether."
+        },
+        {
+            "text": "Whoa... This place is huge.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Check this out, Teach. It's a sculpture of\nan\nUmamusume.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's called <i>The Sprinting Umamusume.</i>\nShe\ndefinitely looks like she's about to\ntake off!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Look, there's even a statue of a human!\nThey're so\nmuscular and realistic, I\nwouldn't be surprised if\nthey started\nmoving.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Whoever made these really went all out.\nIt's got\nme itchin' to take on a challenge\nmyself!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I mean, you'd need some real\nobservational skills\nand grit to do this.\nMan, art is amazing.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We take our time walking through the\nmuseum.\nHishi Amazon is thoroughly\nimpressed by the art."
+        },
+        {
+            "text": "Phew... That installation was somethin'\nelse.\nEverything had some real oomph!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm not really good with complicated\nthings... but\nI seriously dig how\npassionate these artists are!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Thanks for tagging along, Teach.\nOtherwise, I\nprobably would have\npassed up the place without\ngivin' it a\nchance.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But since you were with me, I had a\ngreat time!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Let's make your running an inspiration to artists.",
+                "Let's experience more things together."
+            ]
+        },
+        {
+            "text": "Me, inspiring artists? I never thought of\nthat, but\nI like it.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right! I've gotta show off the new\npassion I feel\nfor art in my next run!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That'll be my way of supporting artists\nand their\nwork!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It'd be cool if someone made a real work\nof art\nafter seein' me run!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Well, this is no time to be standin' still!\nLet's hurry\nback and get to training!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Come on! Time to run back to the\nacademy!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You're right. Having a lot of experiences\nunder\nmy belt will definitely come in\nhandy.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm no good at studying, but I know how\nto think\nwith my heart. Plus, I can learn\nusing my five\nsenses!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hm? I'm smelling something good comin'\nfrom\nover there. Time to trust this nose\nof mine!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон and I walk over to the\nmuseum cafe\ntogether."
+        },
+        {
+            "text": "Whoa, check out this monster stack of\npancakes.\nLooks like they've recreated\nsome of the art\npieces on them with\nchocolate.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I could make these as snacks for my\ndorm\nresidents, or pack them as dessert\nfor their lunch.\nNothing like firsthand\nexperience to get inspired,\neh?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Oh yeah, making cute box lunches is kinda your\nthing, huh?"
+            ]
+        },
+        {
+            "text": "That's right. Hey, you know what? I'll\npack a lunch\nfor you sometime as thanks\nfor your hard work.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Culinary art is art too, after all. And I\nguarantee\nit'll taste as good as it looks!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I watch Хиши Амадзон's figure disappear\nas she\nsprints off into the distance. We\nleave the\nmuseum with a new dream in\ntow."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hmph... A win's a win, I guess.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It wasn't a bad race. I was able to give it\nmy all.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...But, it's not enough. I'm still tingling\nwith\npassion...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Let's find the next worthy opponent!",
+                "Want to train when we get back?"
+            ]
+        },
+        {
+            "text": "...But, it's not enough. I'm still tingling\nwith\npassion...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Let's find the next worthy opponent!",
+                "Want to train when we get back?"
+            ]
+        },
+        {
+            "text": "...Yeah, good idea.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm going to meet people who fire me\nup, enough\nto satisfy this hunger.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Absolutely. I won't be able to sleep\notherwise.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Be sure to get some rest after!"
+            ]
+        },
+        {
+            "text": "That's why... I just have to run.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I know, I know. ...You've always got to\nhave the\nlast word, huh?",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

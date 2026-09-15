@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I walk down the hallway, I spot\nMejiro\nMcQueen coming my direction,\nlooking unwell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Urgh... My head... Why...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "<i>Gasp!</i> Trainer...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm fine. Yes, I'm having no trouble at all.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "As a proud member of the esteemed\nMejiro\nfamily, I shall endure... a\nheadache as minor as\nthis one.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ohh... Oww...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин is suffering from a\nheadache.",
+            "name": "Монолог"
+        }
+    ]
+}

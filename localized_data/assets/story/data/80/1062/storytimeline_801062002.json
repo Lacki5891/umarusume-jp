@@ -1,0 +1,111 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I happen to bump into\nМатиканэтангейзер while\nshe's\nmid-training and stop to talk with her\n\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Awww! Look at that super cute stroller\nover there!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "It even has Umamusume ears attached to\nit! And\none of them has a pink ribbon.\nHow sweet!",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "I wonder if it's a baby Umamusume?"
+            ]
+        },
+        {
+            "text": "That must be the baby's mom and dad\nnext to the\nstroller.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "But the mom doesn't have Umamusume\nears.\nMaybe they're just racing fans.",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "They might even be <i>your</i> fan!"
+            ]
+        },
+        {
+            "text": "Ahaha! As if! Who would be a fan of\nsomeone as\naverage as m—",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Wha... Oh no!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "It all happens in less than a second. The\nfather's\nbackpack bumps against the\nstroller, and it starts\nto roll down the\nriverbank quickly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "<i>Dash, dash, dash! Whoosh!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew! Just in the nick of time...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Oh my goodness!",
+            "name": "Mother"
+        },
+        {
+            "text": "Are you all right?!",
+            "name": "Father"
+        },
+        {
+            "text": "I'm fine! I'm more worried about your\nbaby! Wait,\nwhere is she?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Oh... Safe in her mother's arms... I didn't\neven\nrealize...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Man, I can't believe I just dove after an\nempty\nstroller. That was embarrassing...",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "You really charged off there!",
+                "You didn't even hesitate!"
+            ]
+        },
+        {
+            "text": "Yeah, but it was all for nothing. The\nparents kept\napologizing and thanking\nme too.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I'm really glad the cute stroller was fine,\nbut...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Jeez... When am I finally gonna get a\nbreak? I just\nwanna look really cool for\nonce...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Of course I didn't!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I thought the baby was going to hurtle\ndown the\nriverbank if I didn't do\nsomething.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "<i>Sigh.</i> But, well... Hehe. Guess I goofed.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Матиканэтангейзер tries to hide her\n\nembarrassment by laughing, but I think\nshe did a\nreally noble thing today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Матиканэтангейзер may feel\ndissatisfied, but the\nparents seem\ngenuinely grateful.",
+            "name": "Монолог"
+        }
+    ]
+}

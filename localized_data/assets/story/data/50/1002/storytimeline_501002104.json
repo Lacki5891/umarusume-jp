@@ -1,0 +1,390 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're almost halfway through summer\ncamp, yet\nit doesn't seem like Silence\nSuzuka's managed to\nregain her usual\nvigor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's finally time for the summer camp\nscrimmage,\nand everyone has high\nexpectations for Suzuka.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(I wonder what her... dream is? What is\nit... that\nmakes her run?)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(No! I have to focus!)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "In the end, she fails to meet those\nexpectations.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I wonder what's going on with Silence\nSuzuka.\nEver since we got to summer\ncamp, she hasn't\nseemed well.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Really? I hadn't noticed at all... Do you\nthink she's\nalready peaked?",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Later that night, I find Сайленс Судзука\nstanding\nalone outside the camp\nlodgings.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Suzuka..."
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Something's been bothering you."
+            ]
+        },
+        {
+            "text": "...Yes.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Is there anything I can do to help?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm here for you."
+            ]
+        },
+        {
+            "text": "She gazes at her feet for a moment\nbefore finally\nopening her mouth to\nrespond. Her voice is\nwavering and\nhesitant.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Up until recently... the only thing on my\nmind\nwhen I ran was getting into the\nlead.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But now... I find myself wondering about\nthe other\nracers.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What are their dreams? What is it that\nmotivates\nthem to run?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "All I can think about is...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The things that I've done to them to get\nhere!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I don't know what to do...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Just focus on running how you always do."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You aren't crushing other people's dreams by\nrunning."
+            ]
+        },
+        {
+            "text": "The expectations of the crowd, their\ncheers and\napplause... They aren't just\nencouragement.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're inspiring people."
+            ]
+        },
+        {
+            "text": "That can't be true...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "At the very least, you inspire me."
+            ]
+        },
+        {
+            "text": "Thank you. Still...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The runners who lost could not stop\ncrying.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...I'm sorry, I have to go.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She returns to the lodge, still dejected.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "(My body feels like... it's made of lead.)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "All of a sudden, the clamor of a\nracecourse can\nbe heard from the\ncommon room.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Look at her go! Сайленс Судзука simply\nrefuses to\nslow down! What speed!\"",
+            "name": "Racing Commentator"
+        },
+        {
+            "text": "(Is that one of my races?)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We peek into the common room to find\nSpecial\nWeek with her eyes glued to the\nTV watching\nrace footage.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So coool!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Man... I've still got a lot of work to do.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ah! S-Suzuka! Good morning!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ahaha, it kind of feels like you just\njumped out of\nthe TV and into real life!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "What were you watching?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehehe... To tell you the truth, I've kind\nof been\nin a slump lately.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "So I thought I'd watch you run to get\nsome\nmotivation.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I mean, check it out! The race is only\nhalf over,\nbut look at your lead! And it's\ngrowing!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Спешл Уик points at the television\nscreen.\nDisplayed is a determined\nСайленс Судзука leaving\nthe other runners\nin the dust.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why?! After everything... After all the\nwork I've\ndone!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука shuts off the TV without\na word.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Suzuka?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um... I'm sorry. I should've asked you\nbefore I put\nit on.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "No, it's okay.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's just... Watching me isn't going to\nmotivate\nyou.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Huh? What are you talking about?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I-it totally works! Like, I love this part\nhere!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Спешл Уик turns the TV back on\nfrantically\nand rewinds the recording.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Look at her go! Сайленс Судзука simply\nrefuses to\nslow down! What speed!\"",
+            "name": "Racing Commentator"
+        },
+        {
+            "text": "\"She's unstoppable! No one can catch up\nto her!\"",
+            "name": "Racing Commentator"
+        },
+        {
+            "text": "Hehe. I bet I know just how the other\nracers are\nfeeling around this point.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "They're thinking that no matter how fast\nthey run,\nthey just can't keep up.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "They're thinking about how they've\nfailed again.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "(So that really is what they think...)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But! That's exactly the motivation that\nstarts a\nfire in you!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Huh?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's like: \"One day, I'll catch up! No\nmatter what!\"",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "When I watch you run, it makes me want\nto do\nbetter!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "\"You aren't crushing other people's\ndreams by\nrunning.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"You're inspiring people.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "(Am I really?)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "For what?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Thank you for your admiration.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Huh?! Wh-wh-what's with that all of a\nsudden?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It's... it's okay if I run, right?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What? Of course it is! Why? Did\nsomething bad\nhappen?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe. No. Nothing at all.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...Trainer.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Morning, Suzuka."
+            ]
+        },
+        {
+            "text": "...I'm sorry about yesterday.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And I wanted to thank you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This morning, I was finally able to\nunderstand\nwhat you told me before.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "I don't need to change anything about\nhow I run.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Of course you don't!"
+            ]
+        },
+        {
+            "text": "Сайленс Судзука puts her worries behind\nher and\nlooks ahead with rekindled\ndetermination. It's like\ntime has been\nturned back to before summer\ncamp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What should we do today? Maybe some\nmountain\nrunning?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Let's do some strength training on the beach!",
+                "Let's do a lap around the mountain!"
+            ]
+        },
+        {
+            "text": "Beach strength training, huh? ...Hehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I love looking out at the ocean when I\ntrain. This\nwill be fun.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "A lap around the mountain?!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. Actually, I feel like I can do it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's been a while since I've seen her smile\nlike this.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For the first time in months, I see Silence\nSuzuka\nrunning like her normal self, free\nand\nunrestrained.",
+            "name": "Монолог"
+        }
+    ]
+}

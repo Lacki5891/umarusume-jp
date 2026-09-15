@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp has finally come to an\nend...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looks like we got through without a\nhitch.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We got in a lot of good training."
+            ]
+        },
+        {
+            "text": "Indeed. We're ready for the Shuka Sho.\nLet's keep\nup this pace once we're back.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Vice President! Some students aren't\nhere for roll\ncall!",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "What?! Why must they make things\ndifficult right\nuntil the last minute?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Although Эйр Грув seemed busy from\nstart to\nfinish, it was definitely a\nproductive summer\ncamp!",
+            "name": "Монолог"
+        }
+    ]
+}

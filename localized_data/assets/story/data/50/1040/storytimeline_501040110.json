@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Сити has managed to leave quite a\nmark on\nthe Twinkle Series.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Together, we've successfully navigated\nthe crucial\nfirst three years of her career.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And now...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Good morning, City."
+            ]
+        },
+        {
+            "text": "...Morning.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Stunningly low energy as always!"
+            ]
+        },
+        {
+            "text": "You're stunningly loud this morning.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Do you want to push back our starting time?"
+            ]
+        },
+        {
+            "text": "We're not doing that.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I want to run as much as possible.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "There are higher heights to reach, and\nI've got to\nshow you them all.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, look at that, I'm feeling more awake\nnow.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Because you want to run?"
+            ]
+        },
+        {
+            "text": "What, you think it's childish?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I think it goes to show how much you love\nrunning."
+            ]
+        },
+        {
+            "text": "That's... not wrong.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "All right, let's start with a warm-up. Here\nI go.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити takes off running. Bathed in\nthe\nsunlight, she breaks into a smile.\nToday, like so\nmany days before...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a beautiful sight to behold.",
+            "name": "Монолог"
+        }
+    ]
+}

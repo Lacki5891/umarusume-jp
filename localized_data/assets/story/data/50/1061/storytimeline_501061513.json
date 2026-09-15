@@ -1,0 +1,207 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Кинг Хало is interviewed for a\n\nmagazine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Your casual clothes are so nice! They're\nvery\nnatural and dignified!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Hehe, I suppose my first-rate style just\nshows\nthrough without any effort!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Let's see... we've taken photos of me in\nmy\nuniform, tracksuit, and casual\nclothes...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "With so many of my different sides on\ndisplay,\nthis article will surely be a big\nhit.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Of course! Just look at you—you're the talk of\nthe town!"
+            ]
+        },
+        {
+            "text": "Ohohoho! Bring it on, I say! I'm not one\nto shy\naway from the limelight!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Let's move on to the next shot. Which\nside of me\nwould you like to see next?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Thanks for waiting. I'm changed and\nready to go.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Thank you! Your signature racewear will\nmake for\nan excellent shot!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "But of course! It <i>is</i> me wearing it, after\nall!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll run for you, so make sure to get the\nperfect\nangle!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Her running form is a sight to behold!\nJust look at\nher—chest out and head\nheld high!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "As I watch Кинг Хало's photo shoot, a\nsurprised\nvoice pops out from behind\nme.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No way! King's having her picture\ntaken?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Oh my gosh! Her signature racewear is so\ncool!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "It really is! But then again, she would\nlook great in\nanything!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "That's true! Everything she wears always\nlooks\ngood on her, whether she's going\nout or staying\nin!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "But King herself said that she looks best\nin her\nsignature racewear.",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "She said that?"
+            ]
+        },
+        {
+            "text": "Yup! That was a little while back\nthough...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Wow! What are those clothes?! Are\nthose new?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Hehe, this is my signature racewear!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Like what you wear during a race? Wow,\nthat's so\ngreat!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I'm finally able to wear my signature\nracewear...\nThis is the outfit that suits me\nbest—it's how I wish\neveryone to see me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...But my goal is not simply to don this\noutfit. In\nfact, this is only the first step!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "You see, my mother designs signature\nracewear.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's said she makes clothes that bring out\nthe\ndistinctive qualities of each\nUmamusume who\nwears them.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, so your mother made that outfit for\nyou!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Certainly not! No, this was designed by\nsomeone\nelse. There's no way my mother\nwould make this\nfor me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "She may have a strong sense of design,\nbut her\njudgment concerning\nUmamusume is sorely\nlacking.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So, I'll simply have to show her. She'll\nunderstand\nwhen she sees me win in this!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Until then, I need to put it away and\nkeep it safe!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Splash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gyaaah! I spilled my juice! My signature\nracewear!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I didn't really get what she was saying at\nthe end,\nbut I know she wants to wear\nthat signature\nracewear and do her best!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I can tell that signature racewear is very\nprecious\nto her.",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Phew... So, how did the photos come\nout?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm sure this article will get rave reviews\nsince it\nfeatures me in my signature\nracewear!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'm looking forward to seeing many wins in that\noutfit!",
+                "Your signature racewear really does look good\non you!"
+            ]
+        },
+        {
+            "text": "I'm sure this article will get rave reviews\nsince it\nfeatures me in my signature\nracewear!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'm looking forward to seeing many wins in that\noutfit!",
+                "Your signature racewear really does look good\non you!"
+            ]
+        },
+        {
+            "text": "Wh-what's this all of a sudden?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Anyway, that's a foregone conclusion! I\nam King\nHalo, after all!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I shall claim victory at every major race\nin order\nto prove that I'm first-rate!\nOhohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Goodness, you're not always so direct\nwith your\ncompliments. Do you mean I\nlook even more\nenchanting than usual?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Er, hey... You don't have to stare like\nthat.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wait, is there a stain?! I thought I got all\nthe juice\nout!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Perhaps it's her desire to win, but\nsomehow she\nlooks even more radiant\nthan usual wearing that\nsignature\nracewear.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало's demeanor may be\nboisterous, but\nunderneath it all is a\nrunner who holds incredible\npassion for\nher signature racewear.",
+            "name": "Монолог"
+        }
+    ]
+}

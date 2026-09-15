@@ -1,0 +1,191 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Маяно Топ Ган is helping me organize\nsome\ndocuments, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look! City's in this magazine!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She's so pretty. ♪ That outfit shows so\nmuch skin,\nand she's rocking it!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wait, I just got the best idea!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "After we finish organizing, we head out\nfor a\nwalk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh. Hey, Mayano.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hello!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Yuki! City! Perfect timing! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You're a model, aren't you, City?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You must know a lot of grown-up\nmodels since\nyou're a cool grown-up\nyourself!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "So please tell me the secret to becoming\na mature\nwoman! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "A \"mature woman,\" huh? You're\nobsessed with\nthat idea, aren't you?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "A \"mature woman\"?! G-golly gee!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "...But come t'think of it... I'd like to hear\nthe\nsecret to becom'n a city girl too!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Whaaat... You too, Yukino?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Fine. I'll tell you what I know, but how\nyou take it\nis up to you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "When it comes to being a model, there\nare two\nthings you have to keep in mind.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "First is your condition.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "In other words, you must always be the\nbest\nversion of yourself.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The best version of myself... Cool! And\nthe next\none?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Second is speed.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You must have an antenna trained on\nnew trends\nso you can always be at the\nforefront.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "R-roger dodger!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "That explains why you're always so\ntwinkly, City!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "So if I can do the same, I can grow up at\nMach 10!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I agree. Good condition is very important.",
+                "I agree. Speed is very important."
+            ]
+        },
+        {
+            "text": "So if I can do the same, I can grow up at\nMach 10!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I agree. Good condition is very important.",
+                "I agree. Speed is very important."
+            ]
+        },
+        {
+            "text": "Exactly! ♪ Good condition!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Good condition means... I've got to get\nstronger,\nright? Okay, I think I know\nwhat to do!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I just need to up my stamina! Right,\nТренер? ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Ummm..."
+            ]
+        },
+        {
+            "text": "C'mon, let's go! Blink, and you might\nmiss me\ngrowing up! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's not what I meant, but... I guess it's\nfine.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "She'll grow up in a way only she can, I\nsuppose.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You're so cool! Makes me wanna be just\nlike you\ntoo, City!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Exactly! ♪ My speed!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And when it comes to speed... I've got\njust the\nthing!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "A pacer test! I'm pretty sure one of my\nteachers\nmentioned it before.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I guess it wouldn't hurt..."
+            ]
+        },
+        {
+            "text": "Then it's decided! ♪ Especially since it's\ngot your\nseal of approval, Trainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Preparing for takeoff! ☆ I'll be the\nfastest ever! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "City... Um, I'm also itchin' t'be a city girl!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I see. In that case, don't concern yourself\nwith\nme... Just do your best.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Gotcha! Watch me jam!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Маяно Топ Ган begins her pacer test\ntraining to\nincrease her speed. It ends up\nbeing quite\neffective.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In order to be the best version of\nherself, Mayano\nTop Gun doubles down\non her training and\nmanages to increase\nher stamina.",
+            "name": "Монолог"
+        }
+    ]
+}

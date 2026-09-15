@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're welcoming fall here at Kyoto\nRacecourse\nwith the last race of the\nTriple Tiara series—the\nShuka Sho!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "The start of the race is moments away!\nWho will\nemerge to be showered in\nglory?",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Before I begin the race, there's\nsomething I wish\nto tell you.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You've done a great job so far.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I promise I'll do your hard work justice\ntoday.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I know you will."
+            ]
+        },
+        {
+            "text": "Well then... here goes nothing.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

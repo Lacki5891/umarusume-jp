@@ -1,0 +1,238 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон and I are heading back\nfrom an\nouting, when..."
+        },
+        {
+            "text": "Hey, Teach! Why don't we drop by that\ndiner?\nYou know, the one that had an ad\nin front of the\nstation?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "The barbecue place, you mean?"
+            ]
+        },
+        {
+            "text": "Yeah. I've been thinkin' about the\nhomework my\ndad gave me. Maybe\neatin' some good ol'\nAmerican food will\nhelp inspire an answer.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I really wanna figure out what the most\nimportant\nthing about cooking is!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "All right, let's go!"
+            ]
+        },
+        {
+            "text": "Let's see, what should I order... Hm?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Brian, I understand you're not a fan of\n\nvegetables, but have some carrot juice\nat the\nvery least.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Sigh...</i> Worry about yourself. I can\ndecide what I\nwant to eat on my own.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well, if it isn't Brian and Hayahide!\nWhat're the\nodds?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Hello."
+            ]
+        },
+        {
+            "text": "Oh, it's Hishiama and her trainer. Hello\nthere. I\nsuppose you two are also having\nlunch?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Say hello, Brian.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ama, could you get her to pipe down?\nShe\ndoesn't realize how annoying she\ncan be\nsometimes.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm annoying now? Good nutrition\nshould be\nparamount with your next race\nbeing so close...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "All right, that's enough of that. Why\ndon't we all\njust sit together and eat in\nharmony?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Phew... I'm stuffed! There wasn't a bad\ndish in\nsight!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It all tasted great, but...",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Were you able to figure anything out?"
+            ]
+        },
+        {
+            "text": "Haha, not at all. Guess it's gonna take a\nlot more\nthan that to take care of my\nhomework...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Homework? Since when do you care\nabout that?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Wait, did you eat something bad?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You just saw me eat nothin' but tasty\nbarbecue!\nThe reason is—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wait, hang on! Maybe you two can help\nme out.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What do you think is the most important\nthing\nabout cooking?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The most important thing about\ncooking? I can't\nsay this is familiar\nterritory for me, but...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I think the recipe is the most important\nthing. It\nprovides a basic formula upon\nwhich adjustments\ncan be made via fine\ncalculations.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I see it as the foundation and application\nof\ncooking.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's stupid. Food's good enough as\nlong as it's\nedible.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But we are what we eat, so I'd rather\nthrow\ntogether whatever's gonna get me\nfired up for\nraces.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Interesting... Y'know, for sisters, you two\nsure\nthink differently.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hayahide keeps things cool and\ncollected, while\nBrian likes\nheat-of-the-moment decisions!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hm... I could learn a thing or two from\nboth ways\nof doing things, but I think\nthe one that resonates\nmost with me is...",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Keeping it cool with the right techniques.",
+                "Turning up the heat and challenging new things."
+            ]
+        },
+        {
+            "text": "Oh, good thinking, Teach! I can't really\nwrap my\nhead around the smaller\ndetails, but...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The recipe comes first! I'll just have to\nfollow one\nand see how it goes! Thanks\nfor the help, you two!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We hardly did anything worthy of such\nthanks.\nWe wish you well in your\nendeavors.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Don't lump me in with you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We return to the academy together, but\nHishi\nAmazon asks me to wait in my\noffice."
+        },
+        {
+            "text": "Thanks for waiting, Teach. I whipped this\nup using\nsome cool techniques!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's a chilled tomato and basil pasta. Eat\nup\nbefore it gets warm!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "It looks amazing!"
+            ]
+        },
+        {
+            "text": "I take my first mouthful of the pasta, and\nthe\ncrisp, umami flavor of the vegetables\nfills my\nsenses.",
+            "choice_data_list": [
+                "It's light, refreshing, and tastes wonderful!"
+            ]
+        },
+        {
+            "text": "I'm glad you like it! I usually season food\nbased\non my instincts.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But it was great to go back to the basics\nand\nmeasure everything down to the\ngram!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Phew... Now I'm one step closer to\ncracking the\npuzzle.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Good thinking, Teach! I'm really gonna\nthrow\nmyself into this whole thing...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And pour my heart and soul into my\ncooking once\nwe get back home! I owe\nyou guys one!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I still don't get what you're talking\nabout... but\nsure, good luck. Here, take\nthis carrot juice for\nthe road.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Don't use this as an opportunity to\npush your\njuice on her, Brian.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We return to the academy together, but\nHishi\nAmazon asks me to wait in my\noffice."
+        },
+        {
+            "text": "Thanks for waiting, Teach. I made sure\nmy soul\nwas burnin' hot while I whipped\nthis up!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ta-dah! Spicy stir-fried shrimp, straight\noutta the\npan! Eat up before it gets cold!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Thanks! I'll dig in right away."
+            ]
+        },
+        {
+            "text": "I try the stir-fried shrimp, and the sauce's\nwild,\nspicy tang fills my mouth.",
+            "choice_data_list": [
+                "It's so spicy... but so good!"
+            ]
+        },
+        {
+            "text": "I'm glad you like it! I'm usually pretty\n\nlight-handed when it comes to seasoning\nrich\ndishes like these.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But it's not so bad to go all-out with the\nbold\nflavors in order to match people's\ntaste\npreferences!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right! We're one step closer to\nanswering the\nquestion!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон puts on a cool expression\nand nods\nher head sagely."
+        },
+        {
+            "text": "Хиши Амадзон pumps her fists\ntriumphantly in the\nair with more fire\nburning in her eyes than usual."
+        }
+    ]
+}

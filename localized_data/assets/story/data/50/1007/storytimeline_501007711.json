@@ -1,0 +1,86 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Dang it! This sucks so bad! I hate this!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Waaaaah! <i>Sob... Sob...</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ahaha! This is so sad, it's almost funny!\nC'mon,\nme, you gotta smile! You can't\njust...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Waaaaah! Nope, it still stings!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "You'll get them next time!",
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Waaaaah! Nope, it still stings!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "You'll get them next time!",
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "You're right! I'm going to ask for a\nrematch right\nnow!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Maybe a little bit of a wait is in order..."
+            ]
+        },
+        {
+            "text": "Drat...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Fine, I'll just have to do what I <i>can</i> do\nfor now!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And that's learn everything I can about\nmy\nopponents!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "From what they say in their sleep to\nwhen they\nlike to eat the strawberry off\ntheir shortcake, I'll\npry into every detail\nof their lives!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yeah! That's the kind of response I\nexpect from\nmy very own hand-picked\ntrainer!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "We'd better come up with a training schedule,\nstat!"
+            ]
+        },
+        {
+            "text": "You really think the great Golshi didn't\npick up\non that? Heh, you have much to\nlearn...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Why, I'm already devising no fewer than\na\nthousand strategies for the next race!\nOhoho!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What strategies have you thought up?"
+            ]
+        },
+        {
+            "text": "Uh, hello? I'm still devising them? A bit\nof\ntraining, and they'll come to me!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So we hold a training session and\nbrainstorm a\nfew ideas for how to\napproach the next race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I won't let her go that far, of course, but\nseeing\nher so motivated is a good sign.",
+            "name": "Монолог"
+        }
+    ]
+}

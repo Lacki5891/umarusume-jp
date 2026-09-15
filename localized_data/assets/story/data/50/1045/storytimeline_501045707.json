@@ -1,0 +1,113 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After visiting a shrine with Супер Крик...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "It's not often you sigh like that."
+            ]
+        },
+        {
+            "text": "Oh, I'm sorry. I just don't quite feel like\nmyself\ntoday...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But the air is so fresh here and I really\nfeel like I\ncan relax.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Come to think of it, back when we were\npraying\nat the shrine...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Did you wish for anything?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Just about you."
+            ]
+        },
+        {
+            "text": "Goodness, about me? What exactly did\nyou wish\nfor?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If it's something I can do, then don't\nhesitate to\nask.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh... or is it perhaps something that's\ndifficult to\nask me directly?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe! Guessing what it is might be fun!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "It's nothing special, really."
+            ]
+        },
+        {
+            "text": "Oh, I know!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You want me to hold you in my arms,\nright?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "That's not it!"
+            ]
+        },
+        {
+            "text": "Huh, really?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...Hehe, just kidding!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "There's only one thing that's ever on\nyour mind,\nTrainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's okay. I'm sure training will go as well\nas it\nalways does.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I promise not to let all your efforts go to\nwaste.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And I'll do my best to make you smile. ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hmm... I can't seem to think of anything.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Despite the fact that you're always so\nconsiderate\nof me...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I just can't read what's on your mind.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "That kinda makes me feel sad, actually...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик is feeling down. It looks like\nher\nspirits could still use some lifting...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик grins cheekily. It looks like\nshe's\nback to her usual self.",
+            "name": "Монолог"
+        }
+    ]
+}

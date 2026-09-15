@@ -1,0 +1,95 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... huff... huff...</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Is that... Brian?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(She's so powerful and independent. I\nbet no one\nmakes fun of her.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(To think, even someone as talented as\nher stays\nso late to train...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Trainer, think up some extra training for\nme.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You planning to solo train?"
+            ]
+        },
+        {
+            "text": "Yeah. I need to keep practicing if I'm\never gonna\ncatch up to the top racers.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't want to be some coward who's\nalways\nchasing after everyone.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "All right! Let's do it!",
+                "You should work at your own pace."
+            ]
+        },
+        {
+            "text": "I warn her not to overdo it but agree to\nadd more\nto her regimen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "(One day, I'm going to be just like her.\nNo, that's\nnot enough—I'll beat her!)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh... Is that Taishin?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hmm, that's some nice running she's\ndoing.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If that's the case, then I'll change my\npace to\nmatch Brian's!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I won't get stronger if I don't work at the\nsame\npace as someone who's better than\nme!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You two! Fighting's prohibi—oh, Taishin.\nWhat\nhappened here?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And there's Brian. I know exactly what\nshe'd say if\nshe heard you, Taishin.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "\"Crush everyone by running the way you\nwant\ninstead of forcing yourself to run\nlike someone\nelse. It feels better, and\nyou can get stronger\ntoo.\"",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Personally, I would also suggest you run\nat your\nown pace.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Sounds like her."
+            ]
+        },
+        {
+            "text": "Grr!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин doesn't seem fully\nconvinced, but\nshe nods bitterly and\ntakes a break.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Таисин is totally fired up and\nkeeps at her\nextra training until it's\nalmost curfew.",
+            "name": "Монолог"
+        }
+    ]
+}

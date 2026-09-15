@@ -1,0 +1,98 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Autsch... I got careless.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It's my fault for being so inattentive... I\nshould\nhave been more thorough with\nmy warm-up\nexercises...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "At this rate, my next race may be in\njeopardy...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "There's no need to rush. Just take the time to\nrecover.",
+                "We can still make it if we try."
+            ]
+        },
+        {
+            "text": "But if I do nothing but rest, my body\ncondition\nwill steadily decline.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm sure I'll be fine if I only do a little bit\nof\ntraining...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Resting <i>is</i> part of training."
+            ]
+        },
+        {
+            "text": "I suppose...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You're right.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will rest now so I can recover more\nquickly.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Right... I mustn't give up so easily.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Let's adjust my schedule to focus on\nlight\nworkouts and stretching for now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I can still continue training if we do that.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "We mustn't rush things though."
+            ]
+        },
+        {
+            "text": "There is no need to worry. Obser—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ngh! Ouch...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "With things as they are, we should make\na\npractice schedule that takes my injury\ninto full\nconsideration.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "First, we must reconsider my diet and\nsleep\nschedule. After that, we'll have to\nput together\nsome easy workouts...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Visualization training would also be a\nvaluable\ntool for conditioning my mind.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Right! Let's put a new schedule together\nright\naway.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш looks disheartened as she\ncommits\nherself to resting quietly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After sticking to her light training\nregimen, Eishin\nFlash manages to make a\nfull recovery!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Moving so quickly made her injury even\nworse.\nFull recovery is going to take a\nwhile.",
+            "name": "Монолог"
+        }
+    ]
+}

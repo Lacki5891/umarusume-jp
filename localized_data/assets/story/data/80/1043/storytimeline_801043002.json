@@ -1,0 +1,105 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as I'm walking down a\ntree-lined\nstreet...",
+            "name": "Монолог"
+        },
+        {
+            "text": "GRAWR!",
+            "name": "???",
+            "choice_data_list": [
+                "What the?!"
+            ]
+        },
+        {
+            "text": "Wha?! You dodged my bite attack?!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "That's dangerous, Windy!"
+            ]
+        },
+        {
+            "text": "Bleh! You're not the boss of me! I'm not\ngonna\nlisten to anything anyone says,\nand I won't lose to\nanyone either!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "But if you do that to the wrong person,\nsomething bad might ha―"
+            ]
+        },
+        {
+            "text": "Aha! I hear the approaching footsteps of\nmy next\nprey! Hehe! This one will be my\nbest catch yet!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Now! GRAWR!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "EEEEEEK?!",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "Hehehe! I WIN! YOU LOSE! Fear me,\nweakling!\nI'mma bite'cha real good!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Oooh! You're gonna give me even more\nof the\ngood stuff?! You don't skimp on\nthe fan service at\nall! Bite me more! Bite\nme moooore!",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "...What? Why is she happy? Is she\nimmune to my\nbites or something?",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "What did I tell you?",
+                "Guess this means you lost, huh?"
+            ]
+        },
+        {
+            "text": "...What? Why is she happy? Is she\nimmune to my\nbites or something?",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "What did I tell you?",
+                "Guess this means you lost, huh?"
+            ]
+        },
+        {
+            "text": "Grrr... So this is what you mean by\nsomething bad\nmight happen.",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Then I'll just choose who I bite next!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "That's not my point at all!"
+            ]
+        },
+        {
+            "text": "Ooooh... The bad girl Umas are on\nanother level...",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "I'll never admit defeat! NEVER! I feel\n<i>zero</i> regret\nabout this, you hear? I'm not\ngonna lose to\nanyone! Never! Never!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Grawr! Graaawr! GRAAAAAAWR!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Oh. My. Gosh. She's! SO! CUUUUUTE!",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "She fainted! Yes! I did it! I won!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I hear later that Шинко Винди went on a\nbiting\nspree after that... and got an\nearful from her dorm\nleader, Hishi\nAmazon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Шинко Винди learns absolutely nothing\nfrom\ntoday's events.",
+            "name": "Монолог"
+        }
+    ]
+}

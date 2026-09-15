@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Грасс Вандер will finally run in\nher debut\nrace!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Inhale... Exhale...</i>",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She takes deep and slow breaths,\noutwardly\nseeming like her usual self.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But I can't help but wonder if she'll be\nable to\nhold it all together. Is she\nwarmed up enough?\nShould I tighten her\nshoelaces?",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Excuse me, Тренер? You seem to be\nrather\nanxious. Are you feeling okay?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I-I'm good! How about you?!"
+            ]
+        },
+        {
+            "text": "Hehe. You're nervous enough for the\ntwo of us.\nI'm doing just fine.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "A journey of a thousand miles begins\nwith a single\nstЭпизод Today is no different\nthan any other.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We've waited a long time for this\ndebut... I'll show\nyou a performance that\nwill be sure to clear away\nthose nerves.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I can't wait!"
+            ]
+        },
+        {
+            "text": "Well, I should be on my way.",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

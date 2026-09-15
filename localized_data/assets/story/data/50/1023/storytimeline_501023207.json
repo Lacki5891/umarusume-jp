@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Did you get enough sleep last night?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Here, let me have a better look at you.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Oh..."
+            ]
+        },
+        {
+            "text": "Hmm. The bags under your eyes are\nslightly\nfainter than the other day.\nGood. That makes me\nfeel a little better.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "(I'm glad to hear that, but she's—)"
+            ]
+        },
+        {
+            "text": "I know that face. You think I'm worrying\ntoo much\nagain, don't you?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, whose fault do you think it is that\nI'm\nworrying so much in the first place?\nHmph.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "In any case, I'm off. It's time to prove\nhow\neffective the equation we created\nis.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

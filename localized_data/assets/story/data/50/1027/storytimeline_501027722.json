@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oww...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Sorry. My head muscles are a little sore...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "The muscles in your <i>head?</i>"
+            ]
+        },
+        {
+            "text": "Yeah. It's a throbbing kind of pain, like\nwhen you\noveruse a muscle that's out of\nshape.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I dunno why. Is it because I've been\nstudying more\nthan usual for my tests?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Or... is it because I keep thinking about\nwhat's\ngonna happen next in the manga\nI've been\nreading?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ow... Even talking too loud hurts...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It looks like Мэдзиро Райан is struggling\nwith a\nmigraine.",
+            "name": "Монолог"
+        }
+    ]
+}

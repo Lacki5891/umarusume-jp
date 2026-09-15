@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Taking a break from training, Кинг Хало\nand I\nmake our way to the park.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...What a blustery day.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Does it bother you?"
+            ]
+        },
+        {
+            "text": "Yes. I'm not a fan of how the strong\nwinds kick up\nclouds of sand.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The sand gets everywhere, clinging to\nmy clothes\nand hair. On top of that, it\nmakes me snee—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Swooooosh!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Achoo!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ugh, speak of the dust devil!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Sigh...</i> This is why I hate sand...",
+            "name": "Кинг Хало"
+        }
+    ]
+}

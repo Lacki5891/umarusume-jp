@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm getting tired of stepping on other\npeople's\nshadows.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The tide's about to change. ...I can win\nnow. I\nknow it.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'm sure you can!"
+            ]
+        },
+        {
+            "text": "Hmph... That's right. I'll pass all those\nshadows,\nand...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'll tear 'em all to shreds!",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

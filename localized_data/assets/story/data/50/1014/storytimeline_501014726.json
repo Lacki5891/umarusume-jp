@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I'm out with Эль Кондор Паса,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Qué bonito! Do my eyes deceive me or\nare those\nUmamusume plushies?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "They're claw machine prizes!"
+            ]
+        },
+        {
+            "text": "We could line them up with all my\ntrophies! Think\nhow awesome it'd be to\nsit down with a plate of\nnachos and\ncheck 'em all out!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Claw machines are so fun! They're a hella\nexciting\nchallenge!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But the claw never does what I tell it\nto... The last\ntime I tried, my wallet kept\ngetting lighter, like\nmy money was flying\naway...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Then when I told Grass about it, all she\ndid was\nlecture me about being more\nresponsible. I'd\nrather not have a repeat\nof that...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса trembles a little as the\nmemory of\nGrass's reprimands resurfaces.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, you win one for me instead!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Yeah, I'll avenge your poor wallet!"
+            ]
+        },
+        {
+            "text": "Ooohhh, that's my trainer! I'll be waiting\nfor my\nplushie!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

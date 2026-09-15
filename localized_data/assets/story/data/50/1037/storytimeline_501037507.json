@@ -1,0 +1,121 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, a small mountain of fan letters\narrives\nfor Эйсин Флэш.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are... Are all of these for me?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ich bin so glücklich... I mean, I feel so\nvery happy.\nHow I wish I could show this\nto my parents.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I must reply to each and every one.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "<i>Each</i> and every one?"
+            ]
+        },
+        {
+            "text": "Yes. Worry not, I will maintain my\nschedule\nperfectly even as I pour my\nheart into my\nresponses.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Whoa! Flash, you ate really fast today.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yes. I must use my time efficiently so I\ncan—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh yeah! You said you were going to\nreply to\nyour fan mail. I remember now.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "\"I've been rooting for you since your\ndebut.\"\n...Wow! This fan has spectated\nall of my races thus\nfar.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm so touched. I must do my utmost to\ncontinue\nbeing a runner worthy of their\nsupport.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Although... simply voicing my thoughts\nwill not\ndo. I must properly convey my\ngratitude in my\nwritten response.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now Falcon, I'd like you to try using this\nformula\nto solve the problem. I'll give\nyou fifteen minutes.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "In the meantime, please excuse me. I\nhave some\nreading to do.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "B-but we're in the middle of a study\nsession!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "<i>Gasp!</i> This letter is in German. Perhaps it\nwas\nwritten by a German who is living in\nJapan, just\nlike me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"Your running brings pride to our\ncountry.\" Hehe.\nWhat an honor.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So what I mean is... I'm amazed, Flash!\nYou\nactually replied to all your letters in\na week!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Actually... more arrived this morning..."
+            ]
+        },
+        {
+            "text": "Huh? More?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Trainer... I fear to ask you this, but could\nit be the\nbox you're carrying is full of...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "N-no way! Are those all fan letters?!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Indeed, they are."
+            ]
+        },
+        {
+            "text": "I didn't realize that my racing had\ncaught the\nattention of so many\npeople...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This is so cool! I'm so proud of you!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Are you going to reply to all of these too?"
+            ]
+        },
+        {
+            "text": "Naturally. It is my duty to respond to\ntheir\nenthusiasm in kind.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Each of the fan letters I received the\nother day\nwas filled with the writer's\nwarmth and\nencouragement.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I wish with all my heart to convey just\nhow equally\ngrateful I am to them.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ooh! You really are something else! I\ncould learn\na thing or two from you as an\nUmadol!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

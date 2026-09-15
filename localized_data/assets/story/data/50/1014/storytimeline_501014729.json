@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I told you it was a fearsome opponent,\ndespite\nthe cuteness of the plushies.",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Maybe if I just..."
+            ]
+        },
+        {
+            "text": "No! I know this situation all too well.\nTrust me,\nthe road you're trying to go\ndown is a one-way\nticket to rock\nbottom!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All that happens is your money flies off\nand your\nroommate gets angry... It's not\ngood at all!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But! The day will come when you can\ndon your\nmask again. Believe in that day\nand exit the ring\nfor now.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

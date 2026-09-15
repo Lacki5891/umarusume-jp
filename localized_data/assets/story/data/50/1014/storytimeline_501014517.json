@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ugh! It's still bright and sunny over here,\nso why?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I walk into the training room to find an\n\nirritated-looking Эль Кондор Паса.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Listen to this, Trainer!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Here I was thinkin' my papa was going to\n\ncompliment me for getting my lap time\ndown...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But he fell asleep 'cause of the time\ndifference!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Stupid time difference... I oughtta give it\na\nGerman suplex!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

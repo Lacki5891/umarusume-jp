@@ -1,0 +1,243 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the day Марузенски and I\nfinally begin\ntraining for her debut race!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Or that was our plan, at least...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Марузенски, is it true that preparations\nfor your\ndebut race are in full swing?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "You've already been given the nickname\n\"Hot\nRod.\" Are you confident you can\nback up such a\ntitle?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Haha, well... I appreciate all of the\nattention, but\nI'd like to focus on\ntraining for now.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I don't want to keep my trainer waiting,\nso I'll\nhave to end the interview here.\nThank you!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I don't want to keep my trainer waiting,\nso I'll\nhave to end the interview here.\nThank you!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Aw, can't you tell us anything more?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Sorry, Charlie! You'll just have to wait!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, this Twinkle Series sure is shaping\nup to be\n<I>very</I> interesting!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "It sure is! But... who's \"Charlie\"?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Phew... Those reporters came out of\nnowhere.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The fact that they're so interested in\nМарузенски\nbefore she's even debuted\nshows how high\nexpectations are of her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "They're expecting big things from you."
+            ]
+        },
+        {
+            "text": "Hehe, then I'd better try my best to\nmeet those\nexpectations.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All righty then, let's start with a\n1,200-meter run\nto see where I stand for\nmy debut race!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm so hyped up today, I think I might\nset a new\nrecord for myself! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Haaaaah!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The talent is clearly there, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The wind feels so good... Okay, I'm\ngoing to shift\ninto higher gear!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Above all else, the most charming thing\nabout her\nis just how much she enjoys\nrunning!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Teehee, time really does fly when you're\nhaving a\nblast.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, Trainer, shall we call it a day?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, Trainer, shall we call it a day?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Great running, Maruzen!",
+            "name": "Young Умамусумэ А"
+        },
+        {
+            "text": "Yeah! You looked super cool out there\ntoday!",
+            "name": "Young Умамусумэ Б"
+        },
+        {
+            "text": "Oh, my gosh! Thanks, you guys! I'm so\nhappy you\nthink I'm cool!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Um... Could we maybe... practice\ntogether\nsometime? I wanna run super\nfast, like you!",
+            "name": "Young Умамусумэ А"
+        },
+        {
+            "text": "My dream is to win in the Classics! With\nyour\nhelp, I'm sure I can do it!",
+            "name": "Young Умамусумэ А"
+        },
+        {
+            "text": "And I want to win the Arima Kinen! So\nplease run\nwith me!",
+            "name": "Young Умамусумэ Б"
+        },
+        {
+            "text": "How could I say no to such cute little\nathletes!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<I>Absitively posolutely!</I> Let's all run\ntogether next\ntime!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thanks so much! See you then!\nGoodbye!",
+            "name": "Young Умамусумэ А"
+        },
+        {
+            "text": "Hooray! But what does \"absitively\nposolutely\"\nmean?",
+            "name": "Young Умамусумэ Б"
+        },
+        {
+            "text": "Hehe! To be young is a great thing.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "The newer students really look up to you."
+            ]
+        },
+        {
+            "text": "And I'm so grateful. Their support\npushes me to\nwork even harder.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And yet... they have such big dreams\nabout the\nClassics and the Grand Prix.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Do you think I should aim for\nsomething like\nthat too?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "She must be talking about the need to\nset clear\ngoals for herself...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We should aim high."
+            ]
+        },
+        {
+            "text": "Aim high?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It would be fun to run in the biggest races,\ndon't you think?"
+            ]
+        },
+        {
+            "text": "Hmm... Fun?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe... You really are something else,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe... You really are something else,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Most people would talk about <i>winning,</i>\nbut you\nfocus on how <i>fun</i> the races will\nbe. Hehe!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, you've convinced me! After my\ndebut, let's\naim for the big ones!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Together we can do it!"
+            ]
+        },
+        {
+            "text": "Okey dokey, artichokey!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, why don't we have something\nsweet to\ncommemorate our new\nbeginning?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I know all the hip places! It'll be my\ntreat!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Mmm... Doesn't it look delicious? This\nstuff is\nmega huge with trendy people,\nyou know!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yum, orange smoothie! Enjoy! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's just starting to catch on, so there\naren't many\nstores that serve it!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Couldn't that mean it's just... <i>not</i> popular?"
+            ]
+        },
+        {
+            "text": "You're <i>so</i> behind the times, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're <i>so</i> behind the times, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I always follow the latest happenings, so\nI know\nwhat's hot and what's not!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So, c'mon, drink up! It's a new flavor\nsensation\nthat'll make you weep with joy!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And so, Марузенски, with her brilliant\nracing\ninstincts—and questionable trend\n\nknowledge—begins her next challenge!",
+            "name": "Монолог"
+        }
+    ]
+}

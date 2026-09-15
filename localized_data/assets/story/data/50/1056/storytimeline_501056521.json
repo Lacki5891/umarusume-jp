@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ohhh... This is... the dawn of fortunate\n\nprospects...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "A-are you okay?"
+            ]
+        },
+        {
+            "text": "Oh... Trainer... But of course I am...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hehe... Time and time again, all of my\npredictions\nbrought me \"great\nmisfortune.\" It won't surprise\nyou to hear\nthat my hands were shaking as I held\nthe\ncrystal ball...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "However, in my morning divination\nsession, the\nresult read \"slightly modest\nfortune\"!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I've been sacrificing my sleep these past\nfew days\nto win some good luck, and\nnow fortune shines\nupon me... And with\nsuch overwhelming\nbrightness...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's like a warm, fuzzy feeling inside of\nme...\n<i>Yawn</i>...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару is sleepy for the rest\nof the\nday.",
+            "name": "Монолог"
+        }
+    ]
+}

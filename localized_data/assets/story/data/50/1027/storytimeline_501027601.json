@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...354, 355, 356!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "When I arrive in the waiting room, I see\nMejiro\nRyan furiously doing squats.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, hey there, Trainer!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Looks like someone's pumped up!"
+            ]
+        },
+        {
+            "text": "You know it! My results from the last\nrace are still\nbothering me...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...357, 358, 359!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The bigger the load I take on like this,\nthe\ntougher my muscles will get!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And I bet the same goes for my mind\ntoo!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It's 'cause I lost that I can overcome my\n\nfrustration and continue to improve!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm stronger than I was before—today I'll\nwin!",
+            "name": "Мэдзиро Райан"
+        }
+    ]
+}

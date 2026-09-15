@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I hand a newly-delivered fan letter to\nMejiro\nMcQueen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have read the letter. Thank you very\nmuch.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The expectations of people are quite\nsobering,\naren't they?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "\"The support from your fans is a\nguidepost to\nyour dreams.\"",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Grandmother once said those words to\nme. I feel\nas though I've gotten a little\ncloser to\nunderstanding their true\nmeaning.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "The person who wrote the letter would be\nhappy to hear that too, I'm sure."
+            ]
+        },
+        {
+            "text": "Hehe... Then, I shall have to repay this\nsentiment\nwith a good performance.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I will train to the best of my abilities\ntoday and\nalways!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин happily puts in her\nbest effort\nthroughout the entire training\nsession.",
+            "name": "Монолог"
+        }
+    ]
+}

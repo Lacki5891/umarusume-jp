@@ -1,0 +1,224 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I see something surprising when I pass by\nthe\nclassroom.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Take off! Rapid Running Force,\nUmamusume Five!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Red as Hokkaido salmon roe—Red\nSpecial!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "<i>Rumble, rumble!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Spe? What in the world is going on?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's a hero show! We gotta start thinking\nabout\nwhat to do for the Fan Fest, right?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I asked Biko if she had any ideas, and\nshe\nsuggested a play where we act as\nheroes! A hero\nshow!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I thought we should make our plan now\nand\npractice ahead of time instead of\nwaiting till the\nlast minute.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Now that you mention it, I guess we do\nneed to\nprepare something, don't we?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And it is indeed best to plan in\nadvance... All\nright, I'll help you out.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And so, Эль Кондор Паса's class decides\nto put on\na hero show for the Fan Fest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, so I'll be... um...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Wisdom deeper than the ocean—Blue\nGrass.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "<i>Fssshhh!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "How's that?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Okay, I'm next.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Free as the clouds—White Sky.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "<i>Whoooo...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, all the good parts are taken! In that\ncase...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll be the character who shows up\nmidseason!\nFirst-rate gold, descending\nfrom heaven—Gold\nKing!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Sha-shinnng!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, you really built that up.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hey, what about you, El? What are you\ngonna\ndo?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm... gonna pass.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "What?! Why?!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Are you feeling okay?"
+            ]
+        },
+        {
+            "text": "No, I feel... fine. I've just decided to\nwalk a\ndifferent path from everyone\nelse.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I can't just play around with everyone\nanymore.\nI'm a lone Aztec hero, fighting\non my own.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Chao.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса leaves. It seems she's\nalso drawing\na line in her private life to\nseparate herself from\nthe Triple Crown\ntour.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She left...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "The hero show practice continues\nwithout El\nCondor Pasa.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What should we do?! We're all doomed\nat this\nrate!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Curse that evil Uma organization. What\nkind of\ndespicable lowlife isn't\ncaptivated by the glitter\nof gold?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Aren't you, like, way worse?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "My strategy doesn't seem to be working\nat all.\nWhat do we do?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ha ha ha! Looks like you're havin' a little\ntrouble!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Th-that voice?!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Soy yo!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The gallant hero! The raging storm! The\n\nmysterious masked warrior—Aztec\nCondor comes\nto the rescue!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "El?! I thought you weren't gonna join!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Tsk tsk tsk. It was all a ploy to shock and\ndelight\neveryone!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Even if we walk different paths, we're\nstill friends!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's like my papa told me...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "\"The mark of a true entertainer is not\nsimply\nstrength, but the delight of the\nfans!\"",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Everyone is delighted to see El Condor\nPasa jump\nin. It certainly wouldn't have\nbeen this exciting if\nshe had joined in\nfrom the beginning.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's a true entertainer. Her penchant\nfor\nbringing joy is likely to have a great\nimpact on\nher future.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohohoho! So the Umamusume Five are\nall\ntogether.",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "It doesn't matter. I, Pearl, one of the\nthree\ngenerals, shall still take over\nPlanet Tracen.",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Aaahhh, Pearl! When did you get back\nfrom your\ntrip to France?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Welcome hooome! You gotta tell us all\nabout\nyour adventures and exploits!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehe, thank you, El. Of course I'll tell\nyou all\nabout it. But, before that...",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "I'm taking this planet as my own! Just try\nand stop\nme!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Ahaha... I was just thinking maybe it was\ntime to\ntake a break.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Now that Сикинг зе Пёрл, one of El\nCondor\nPasa's most respected\nupperclassmen, has joined\nthe show,\nthings are even more exciting.",
+            "name": "Монолог"
+        }
+    ]
+}

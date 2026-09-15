@@ -1,0 +1,206 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I visit the hot spring with Mayano Top\nGun one\nday after completing numerous\nraces.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pitter-patter, pitter-patter... Rattle!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maya comes in for the landing!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heya, Trainer! I'm here, right in your\nroom!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Keep it down."
+            ]
+        },
+        {
+            "text": "Heh, don't be like some boring teacher!\nYou're\nsupposed to say \"Hi, Maya\" with\na look of love in\nyour eyes!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I've been waiting and waiting for this trip\nto the\nhot spring!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We're using the hot spring vacation\ncoupon we\nwon at the shopping district\nfor this trip.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now that Маяно Топ Ган has\naccomplished her\ngoals, this is our\nchance to take a break.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're both going to alleviate our\nexhaustion by\nkicking back and relaxing\na little.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But how come we're in separate rooms?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Aren't you gonna get lonely? Do you\nreally want\nto be by yourself?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'll survive."
+            ]
+        },
+        {
+            "text": "Mmgrgh... But like...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "If you're by yourself, who are you gonna\nhave\npillow fights and play cards with?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I can do those things with you! If you're\nwith me,\nyou'll have a hundred times\nmore fun!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I can tell from her face just how much\nshe wants\nto goof off with me...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Okay, we can hang out for a bit."
+            ]
+        },
+        {
+            "text": "Yay!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe! See? Even you think it's so much\nmore fun\nwith me around!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's not often that we get to relax like\nthis, so\nMayano Top Gun and I spend\nsome time\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Before I realize it, the entire day has\npassed. We\nshould get moving if we\nactually want to use the\nhot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yaaaawn...</i>",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "...Looks like she's done for the day."
+            ]
+        },
+        {
+            "text": "I can't bring myself to wake her up, so I\nleave her\nsleeping in my room and go to\nthe hot spring\nalone.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmph! Don't leave me behind like that,\nTrainer...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Mayano?!"
+            ]
+        },
+        {
+            "text": "<i>Sob...</i> I wanna take a bath too.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Don't fall asleep while you're in the water."
+            ]
+        },
+        {
+            "text": "Okay...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Promise?"
+            ]
+        },
+        {
+            "text": "Okay...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'll be waiting until you're done."
+            ]
+        },
+        {
+            "text": "...Huh? Here? You're gonna stay here\nthe whole\ntime?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Are you saying I can see you the second\nI'm\nfinished?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'll be right here."
+            ]
+        },
+        {
+            "text": "Yaaay! Don't you go anywhere!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe! It's like you're my dad.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe! It's like you're my mom.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aaah! That felt so good! I feel nice and\nwarm all\nover!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Sounds like you woke up!"
+            ]
+        },
+        {
+            "text": "Yep! I've got a thousand times more\nenergy!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh, they're selling ice cream over there!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And it's triple scoop! Not single, not\ndouble, but\ntriple! I want vanilla,\nstrawberry, and chocolate!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Maybe you're a little <i>too</i> energetic..."
+            ]
+        },
+        {
+            "text": "Haha. Hurry up! I'm about to take off. ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "With that, Маяно Топ Ган runs off to\nthe ice\ncream vendor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although we came to the hot spring to\nrelax, sure\nenough, I'm being dragged\naround once more...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What flavor would you like? We could\ngo halfsies!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I sense that Маяно Топ Ган and I have\nformed\nan irreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

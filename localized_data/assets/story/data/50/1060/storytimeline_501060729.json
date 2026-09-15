@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Daaang... Well, gotta keep your chin up,\nright?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Well, this is embarrassing..."
+            ]
+        },
+        {
+            "text": "No, no, no. It's really not a big deal!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "If it were easy, arcades would go out of\nbusiness.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Don't worry about it. Why don't we grab\nsome\nramen on the way home?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

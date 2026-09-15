@@ -1,0 +1,191 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's our day off, and Матиканэфукукитару\nand I\nhave plans to go buy new training\nclothes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sorry for springing this on you at the last\nminute,\nbut I brought a friend along. Is\nthat okay?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Howdy, Trainer!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I just love me a bit of shoppin'! ♪",
+            "name": "Тайки Шаттл",
+            "choice_data_list": [
+                "Fine by me. Why the sudden change of plans?"
+            ]
+        },
+        {
+            "text": "Well, you see... The great Shiraoki\nrevealed a\nprophecy to me. \"On this\nday, you shall deepen\nyour connections\nwith the ones close to you.\"",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Holy moly... Is this \"Shiraoki\" some kinda\nprophet\nor somethin'?!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I say we ought to trust the prophet's\njudgment!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I'm not quite up to speed, but the three\nof us end\nup going together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, this is some pretty cool gear. It\nhas fifty\nlucky stars on it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ayy, nice one! Put that on and you'll\nlook just like\nan American racer!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Looks like we've got a little extra time\non our\nhands...",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Oh, Trainer. Look over there! See that\nmovie\nposter?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "There's a western playing!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Yeehaw, a spaghetti western! Makes me\nwanna\nsee a good ol' fashioned Mexican\nstandoff. <i>Bang\nbang!</i>",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Let's all go see it! From the looks of it, I\nreckon\nit's sure to be exciting!",
+            "name": "Тайки Шаттл",
+            "choice_data_list": [
+                "Sounds like a plan."
+            ]
+        },
+        {
+            "text": "I knew you'd say that! Thanks a million!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "It looks like they're playing the same\nmovie on\ntwo different screens.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "There's a normal one and an \"audience\n\nparticipation version.\" ...Whatever that\nmeans.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Oh, audience participation! That's pretty\npopular\nlately. You get to cheer while\nyou're watching the\nmovie.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Now then, time to decide our fate!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Should we sit back and relax, or really\nimmerse\nourselves in the Wild West?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Let's go to the normal screening.",
+                "The audience participation screening sounds\ninteresting."
+            ]
+        },
+        {
+            "text": "Ahhh, I guess it's better to get into a\nno-nonsense\nmood and contemplate the\nstory. I get you.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Okay! Let's get movin', Fukukitaru! I\nreckon we\nshould get ourselves a\nsupersize servin' of\npopcorn for two!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "The movie is a classic tale of a band of\nheroes\ncoming together to bring peace\nto a lawless town.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! That was super intense, huh?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It shot a hole in my heart, and the winds\nof the\nWest are whistling right on\nthrough!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Same here! I wanna have a duel! And\nsoak in a\nbubble bath while shaving my\nfive o'clock\nshadow!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Maybe we should start slingin' pistols\ntoo...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh, that store over there sells gun\nholsters!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Let's snap up a matching pair! We can\nhang them\nfrom our belts and strut\naround like real cowboys!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Sounds good! Starting today, we're the\n\nquick-draw sisters of Академия Тайсен!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Two holsters, please! Also...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Give me one of those auspicious-looking\nshrine\nropes, please. Wait, it's a lasso?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "All right, let's have a look. Though I am\nkind of\nworried the audience is gonna\nget real rowdy.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It'll be fine, Fukukitaru! I'm sure we'll\nhave a blast!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Inside the theater...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Over there, get 'em! Pew pew!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hey! I'm talkin' to you, beardy! Once I\ncount to\nthree, it's night night!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "The audience participation screening\nturns out to\nbe a lot of fun!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew, I really got into it! I feel like I've\nbecome a\nreal rootin'-tootin' gunslinger\nnow!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hey, Fukukitaru. Who are the gunners\nrunning\nthis outpost here?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hehe. Why, you and me, of course!\nWhen we\nteam up, the bad guys down in\nthe stronghold\nknow that they're all\noutta luck!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "They both seem to be really happy with\ntheir\nmatching merchandise!",
+            "name": "Монолог"
+        },
+        {
+            "text": "They're really getting into their roles. It\nseems\nlike the movie has got them\nfeeling as tough as\nthe heroes of the\nWild West.",
+            "name": "Монолог"
+        }
+    ]
+}

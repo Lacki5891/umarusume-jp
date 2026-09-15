@@ -1,0 +1,213 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I happen upon Фудзи Кисэки on my way\nhome. She\ninvites me to watch an\noutdoor play, so I agree to\njoin her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's so good... Her singing and\nacting—no, every\npart of her\nperformance is stupendous!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Do you know her?"
+            ]
+        },
+        {
+            "text": "Yes. The lead is a friend of my mother's.\nI've\nknown her since I was young.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's been a while since I saw her. Would\nit be all\nright if I went to say hi?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hello! Long time no see.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Why, if it isn't Fuji! Thanks for coming. ♪\nYou've\nbecome even more beautiful\nsince the last time I\nsaw you.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "Thank you, but having seen your\nperformance\ntoday, I know I'm no match\nfor you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Why, you've not only grown more\nbeautiful, but\nyour tongue's grown more\ngilded too! And who\nmight this be?",
+            "name": "Stage Actor",
+            "choice_data_list": [
+                "Nice to meet you. I'm Фудзи Кисэки's trainer."
+            ]
+        },
+        {
+            "text": "Ah, so you're her trainer, are you?\nHmm... Very\ninteresting.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "She's quite the handful, is she not?",
+            "name": "Stage Actor",
+            "choice_data_list": [
+                "I'm sorry?"
+            ]
+        },
+        {
+            "text": "Why, we used to call this little imp\n\"Prince\nMischief\" in our company.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "She would scare the cast by hanging\nprop spiders\nabove their heads during\nbreaks in rehearsal!",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "Then again, her pranks did help\neveryone laugh\nand shake off their\nnerves, so there's that.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "Haha! That was so long ago. I don't pull\nsuch\nchildish pranks anymore.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Really now? It's a shame to think we'll\nnever be\nable to see that sweet prince\nagain.",
+            "name": "Stage Actor",
+            "choice_data_list": [
+                "It really is."
+            ]
+        },
+        {
+            "text": "Oh, not you too, Trainer!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You two are so close. ♪ It's a real treat\nto see\nyour bond together. Now then,\nplease excuse me.\nI have to change!",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "Of course. Sorry to keep you. I'll be sure\nto watch\nyour show if you ever have\nanother performance\nnearby.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You are such a dear. Thank you. Oh, one\nmoment.\nI'd like a word with your trainer.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "Hm? Okay...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...I wanted her to become an actor, you\nknow.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "I hoped that one day I could perform\nalongside\nher in a supporting role while\nshe took the stage\nas the lead in a play\nfor the ages.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "The thought that I'll never be able to do\nthat has\nbeen upsetting... but I feel\nmuch better now after\nspeaking with her.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "She looked so happy. It must be because\nshe's\nfound a wonderful trainer and a\nhome that makes\nher happier than the\nstage did.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "All of us from the theatre hope you'll\ntake good\ncare of her. She's the apple of\nour eyes, and we\nleave her to you.",
+            "name": "Stage Actor"
+        },
+        {
+            "text": "Welcome back. So, what'd you two talk\nabout?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Don't tell me she was telling you more\n\nembarrassing stories from when I was\nyoung.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Let's just say I have a lot of dirt on you now.",
+                "She just gave me tips on how to enjoy a play."
+            ]
+        },
+        {
+            "text": "I knew it! So she <i>was</i> gossiping about\nme! What\ndid she tell you?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "It's a secret."
+            ]
+        },
+        {
+            "text": "Is it now? Well, if I had to guess what\nyou were\ntalking about... Oh.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Did she tell you something trivial, like\nhow I\nactually hate wearing high heels\nand used to\nthrow tantrums about it?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Maybe, maybe not."
+            ]
+        },
+        {
+            "text": "Hm, so that's a no...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Was it about the curtain? Maybe it was\nabout\nthat one time we had five\nconsecutive shows...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ah, whatever. They may be tricks I\nplayed as a\nchild, but I must own up to\nthem regardless.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Besides, I don't think you'd leak my\nsecrets\nanyway.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hmm, I'm sure she did!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...Did you really think I would believe\nthat?\nYou're so bad at lying.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "How could you tell?"
+            ]
+        },
+        {
+            "text": "Liars are good at seeing through lies,\nand the\nbest entertainers also happen to\nbe the best liars\nas well.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Since I couldn't trick her, I tell her about\nher\nfriend's dream and the wish she's\nentrusted me\nwith.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So she wanted to perform with me...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That future could have very well been a\nreality...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "However, I chose to walk a different\npath. But,\nsince she's giving me her\nblessing and wishing the\nbest for me...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll have to become an even greater\nentertainer\non the turf than the actors\nwe saw on stage today!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Focus on your performance and leave the rest\nto me!"
+            ]
+        },
+        {
+            "text": "Right! Let's make me the best version of\nmyself\never!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She winks at me, and that effectively\nseals my\nlips. Not that I ever doubted\nher, but she really\ndoes have the true\nmakings of an actor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The stage isn't the only place Фудзи Кисэки\ncan\nimpress her fans. We chat about our\nfuture plans\nthe whole way home.",
+            "name": "Монолог"
+        }
+    ]
+}

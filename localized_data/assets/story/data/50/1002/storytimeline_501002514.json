@@ -1,0 +1,166 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Сайленс Судзука has received a request to\nbe\ninterviewed for a magazine article.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"A special one-on-one feature on the\nprivate life\nof one of the most popular\nUmamusume today...\"",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I don't know if I'm really interesting\nenough for a\nfeature...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Are you worried?"
+            ]
+        },
+        {
+            "text": "Um... A little...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems like they picked me after\nmultiple\nrequests from my fans. But...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm happy to help if I can."
+            ]
+        },
+        {
+            "text": "Really?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That should ease my mind a fair bit. I'm\nnot\nconfident that I'll be able to respond\nwell, so...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I help Сайленс Судзука prepare for her\ninterview. I\nfigure I can shoot her a\nnumber of questions\nsimilar to what she's\nbeen asked in past\ninterviews.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay. Let's begin.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Do you have any hobbies?"
+            ]
+        },
+        {
+            "text": "Hobbies? Well, um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Running... I suppose.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Do you have any special skills?"
+            ]
+        },
+        {
+            "text": "Skills? ...Running.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "...How do you spend your time off?"
+            ]
+        },
+        {
+            "text": "Well... On my days off, I like to go\nrunning...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...Hm?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "We're kind of lacking in the variety\ndepartment..."
+            ]
+        },
+        {
+            "text": "Wh-what should I do?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Just what on earth do my fans want to\nknow\nabout me?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "They want to get to know the real Suzuka.",
+                "Maybe we can change <i>how</i> you answer the\nquestions."
+            ]
+        },
+        {
+            "text": "The real me...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So that means... the answers I gave you\njust now\nare okay the way they are?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "There's no question that Silence\nSuzuka's fans are\nenchanted by her\nrunning.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So I assure her that they're bound to be\ndelighted\nto hear her honest answers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You think so?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "If they really want to know the real me...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Then I'm sure it will be fine. I'll try to\nanswer with\nconfidence.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She concludes that she can approach\nthis and\nfuture press encounters with\nuncomplicated\nsincerity.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>How</i> I answer?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I explain to her how, even if her answer\nis the\nsame, changing the way she says it\nwill give a\ndifferent impression.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... So...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Instead of just saying I like running, I\nshould\nmention something like how I like\nsearching for\nbeautiful scenery as I run.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "As for special skills... I can say I'm good\nat running\nlong distances.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And on my days off, I like searching for\nnew\nplaces to go running...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I-is that close to what you mean?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "That's much better!"
+            ]
+        },
+        {
+            "text": "Really? Thank goodness. Interviews\nreally are\ndifficult, aren't they?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "A few days later, I learn that Silence\nSuzuka's\ninterview was well received for\nits insight into how\nmuch she loves\nrunning.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A few days later, I learn that Silence\nSuzuka's\ninterview was well received for\nits insight into how\nshe's always thinking\nabout running.",
+            "name": "Монолог"
+        }
+    ]
+}

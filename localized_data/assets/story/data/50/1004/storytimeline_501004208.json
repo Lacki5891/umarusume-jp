@@ -1,0 +1,91 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The autumn Tenno Sho has finally\narrived, and\nМарузенски is excited to\nrace alongside Special\nWeek.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Spe and I finally get to run together!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Looking at her past achievements, it's\nclear that\nthis race will be anything but\neasy...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But that just means it's definitely going\nto be fun!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm off, then! Cheer me on, Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Go win it!"
+            ]
+        },
+        {
+            "text": "I'm off, then! Cheer me on, Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Go win it!"
+            ]
+        },
+        {
+            "text": "Of course! I'll come back in first!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Inhale... Exhale... Inhale... Exhale...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Whoa there, are you nervous?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, Марузенски!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ehehe, I guess I am a little...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But I'm having fun too! I'm so excited, I\ncan't calm\ndown!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I finally get to race on the same turf as\nthe\nathlete I've looked up to since\nbefore my debut!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Heehee! I'm so happy to run in the same\nrace as\nyou too, Spe.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But today, don't think of me as someone\nyou look\nup to...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You should come at me as your <i>rival!</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "My rival...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Okay then, you'll be the rival I chase\ndown... and\n<i>pass</i> before the finish!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Let's enjoy this race! It's going to be the\nbest!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yeah!",
+            "name": "Спешл Уик"
+        }
+    ]
+}

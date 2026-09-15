@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "May I ask what you thought of my\nrunning today?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "For the most part, she was as confident\nas ever on\nthe track...",
+            "name": "Монолог"
+        },
+        {
+            "text": "But now that I think about it, she might\nhave\nlooked a little tired.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You seemed to be struggling a bit."
+            ]
+        },
+        {
+            "text": "So you thought the same... Perhaps I\nshould start\npaying more attention to my\nbody's needs and\ngive myself some rest.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Not that you're at fault, of course. We've\nboth\nbeen pushing ourselves a little too\nhard of late.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "We must both strive to keep one\nanother at the\ntop of our game.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф has a point. It might be\nwise to\nrethink our schedule.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Брайан, though still pre-debut,\nsecures a place in the exalted\nSprout\nKinen. It's an amazing accomplishment and\nthe talk of the\nacademy."
+        },
+        {
+            "text": "The exhibition race will be held at the\nTokyo Racecourse, where most\nlegendary\nrunners first come to prominence."
+        },
+        {
+            "text": "I'm sure many are eager with excitement to\nsee the Beast in action.\nHowever, the\nunforeseen happens..."
+        },
+        {
+            "text": "Бива Хаяхидэ is called by student council\npresident Симболи Рудольф\nfor an urgent\nmeeting."
+        },
+        {
+            "text": "You want me to race on her behalf?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What... what is the meaning of this,\nPresident?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I understand that this is sudden and a lot\nto process. We are just as\nthunderstruck as\nyou are.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But the reality is this... Нарита Брайан has\ncome down with a fever.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The racer chosen to take her place in the\nSprout Kinen is you. So I ask\nagain, Biwa\nHayahide, will you heed the call?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Hayahide!"
+            ]
+        },
+        {
+            "text": "This is her chance. If she can race against\ntop runners in the Sprout\nKinen, it should\nhelp her get closer to completing the\nwinning\nequation."
+        },
+        {
+            "text": "Knowing that, I encourage her to join."
+        },
+        {
+            "text": "Impossible. I'm not at that level—Brian's\nlevel.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm no replacement for her!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I disagree. You—",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I know her capabilities more than anyone!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm sorry, I lost my composure.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm worried about Brian's condition. Before\nI make any decisions, I\nwould like to go\nsee my sister.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Of course. I apologize for not giving due\nconsideration.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "However... there is, frankly, no time to\nspare. I expect your decision\nsoon.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hayahide is anxious as we go to check on\nНарита Брайан. At the\nhospital, we're told\nthe ailing racer has just taken some\nmedicine and\nfallen asleЭпизод"
+        },
+        {
+            "text": "She looks terrible. I'm always telling her to\ntake better care of herself,\nbut she never\nlistens...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's the exact opposite of before.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What happened before?"
+            ]
+        },
+        {
+            "text": "It was a long time ago.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Her physical abilities began to surpass\nmine. No longer able to keep\nup, I started\ntraining recklessly.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But my sister—even though she was so\nyoung—was worried about me.\nAnd one\nday, while we were playing tag...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I should've treated it as a friendly game\nbetween sisters, as a proper\nolder sibling\nwould.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "But you didn't?"
+            ]
+        },
+        {
+            "text": "No. No matter how fast I ran, I was unable\nto catch up to her. I grew\nmore and more\ndesperate, eventually neglecting to watch\nwhere I was\ngoing... I crashed into a fence\nand wound up in the hospital.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "While I was completely bedridden, Brian\nkept improving her speed on\nher own.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But I couldn't move—all I could do was use\nmy head. That's when I\nbegan to persist in\nmy studies.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "In bed, I sank myself into my notes and\nbooks, constructing theories\nday in and\nday out. I even gave one the grand title of\nthe \"winning\nequation.\"",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But... You know what, Тренер?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Not once in all this time have I ever been\nable to predict Нарита Брайан\nand her pure\ninstincts.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She always exceeds my calculations. She\ndestroys all my equations.\nShe's an\nanomaly that I <i>cannot</i> solve!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Her words are filled with suffering... And I\nrealize she's been holding\nthis pain inside\nthe whole time."
+        },
+        {
+            "text": "No matter how hard she thinks, the Beast\nalways bests her theories.\nBut even now,\nshe pushes on, always planning and\nformulating.",
+            "choice_data_list": [
+                "And that's how you gained your unique ability."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Your theories are an unrivaled force."
+            ]
+        },
+        {
+            "text": "I told you, I've never been accurate when\nit comes to Brian. No matter\nhow hard I\ntry, I'll never surpass her!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I still haven't been able to prove any of my\ntheories—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I'm proof!"
+            ]
+        },
+        {
+            "text": "You? How so?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "In tomorrow's race, I'll stay near the lead\nuntil the final corner. The\nfront pack will\nbe tightly grouped together.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Following the last turn, I'll pass them from\noutside.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Then I will gain a lead of no less than ten\nlengths—and place first.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Three... two... one.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Time to confirm my calculations!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I still remember how my chest pounded\nwith excitement back then."
+        },
+        {
+            "text": "The way she talked about her calculations\nmade my heart dance. I\ncouldn't help but\nwant to work together and bring her\ntheories to\nfruition!"
+        },
+        {
+            "text": "I was completely captivated by her\nbrilliant winning equation!"
+        },
+        {
+            "text": "Trainer...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Let's solve your equation and seize\nvictory—together."
+            ]
+        },
+        {
+            "text": "Why? Do you truly believe that I can reach\nher level?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "He's not the only one who believes in you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She's not the only one who believes in you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There's something of vital importance that\nI forgot to tell you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Vital importance?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yes, the one who so strongly\nrecommended you above all others as\n\nНарита Брайан's replacement...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "—was Нарита Брайан herself. She said it <i>must</i>\nbe you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ gasps in total shock, but\nher expression quickly shifts\nto one filled\nwith determination."
+        },
+        {
+            "text": "She is ready to do what's necessary."
+        }
+    ]
+}

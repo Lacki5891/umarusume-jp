@@ -1,0 +1,230 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Голд Сити wanted a change of\nscenery, so\nI took her out for the day.\nOn our way back to the\nacademy..."
+        },
+        {
+            "text": "Hey, Trainer. Isn't there anywhere else\nyou want\nto go?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "All that's left is to head back..."
+            ]
+        },
+        {
+            "text": "...Oh.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Is there somewhere you wanted to drop by?"
+            ]
+        },
+        {
+            "text": "Not especially. That's why I asked you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "One time, when my manager was driving\nme to\nwork after school, we passed by\nsome students in\nuniform.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I could hear them from inside the car.\nThey were\ntalking about how their\nevening out was just\ngetting started.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It was already getting dark, so it was\nlike, how are\nyou \"just getting started\"\nwhen places are about\nto close?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But they sounded like they were literally\nhaving\nthe time of their lives, and it just\nstuck with me\neven after I got to the\nstudio.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, if it isn't City. You two out and\nabout too?",
+            "name": "Inari One"
+        },
+        {
+            "text": "Oh... Inari. No, we're actually on our way\nback.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Whaaaat?! You're goin' home? The\nparty's just\ngettin' started!",
+            "name": "Inari One"
+        },
+        {
+            "text": "You're missin' out! C'mon, follow me! I'll\nshow you\nhow to spend the evenin'.",
+            "name": "Inari One"
+        },
+        {
+            "text": "But...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "We might as well. Maybe we'll learn something."
+            ]
+        },
+        {
+            "text": "Are you sure?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah! Your trainer knows what I'm talkin'\nabout!",
+            "name": "Inari One"
+        },
+        {
+            "text": "City, you ready? Time is money, so we\ngotta run\nat top speed!",
+            "name": "Inari One"
+        },
+        {
+            "text": "W-wait, Trainer can't keep up with us...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I'll meet you at the destination.",
+                "You two go have fun together."
+            ]
+        },
+        {
+            "text": "Well... if you say so.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What's gotten you all concerned? You\nwanna stay\nwith your trainer that much?",
+            "name": "Inari One"
+        },
+        {
+            "text": "I-it's not like that! I'm not a child!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Haha—you're right, though. If we're\ngonna have\nfun, we should all enjoy it\ntogether—especially\nwhen it comes to\nwatchin' a race!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Huh? But it's a weekday, and it's already\nlate.\nTokyo Racecourse won't be hosting\nany...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What do you mean?! Don't tell me you\nforgot\nanother one of our great\nracecourses!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Whoa...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hahaha, can you feel the energy? Oi\nRacecourse\nis where dirt and spirit come\ntogether to dance.",
+            "name": "Inari One"
+        },
+        {
+            "text": "By the way, are you on that Umagram\nthingy too?",
+            "name": "Inari One"
+        },
+        {
+            "text": "I'm on <i>Umastagram,</i> if that's what you\nmean...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, then you wanna go take some pics?\nThere's\nthis supposedly great spot Falco\nwon't stop\ntalkin' about.",
+            "name": "Inari One"
+        },
+        {
+            "text": "Falco, huh? Then it's probably\nsomewhere\npicturesque, yeah? Heh,\nJordan might be into it\ntoo.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Also, there's lots of interestin' foods to\ntry. Why\ndon't we take a look around?",
+            "name": "Inari One"
+        },
+        {
+            "text": "Yeah, let's do it!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wait, hold on! The field's entering the\npaddock\nfor the next race!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh my gosh, which should we check\nout? I'm\nliterally so torn!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Haha, such an innocent soul. You must\nbe havin' a\nblast.",
+            "name": "Inari One"
+        },
+        {
+            "text": "That's what I like to hear, Trainer!\nSounds like you\nknow exactly how to\nhave fun after school.",
+            "name": "Inari One"
+        },
+        {
+            "text": "The trick is—no grown-ups allowed! Us\nstudents\nneed our time to ourselves!",
+            "name": "Inari One"
+        },
+        {
+            "text": "But...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Just send me a text whenever you're ready to\ncome back."
+            ]
+        },
+        {
+            "text": "C'mon, City, don't let this chance go to\nwaste.\nLet's go!",
+            "name": "Inari One"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I part ways with Голд Сити. Later, after\ndoing\nsome shopping at the shopping\ndistrict..."
+        },
+        {
+            "text": "Oh, Trainer. You're on your way back?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You finished hanging out already?"
+            ]
+        },
+        {
+            "text": "Yup! First we hit up the arcade, then we\ngot\nhoneyade, then we went to a public\nbath, and...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Haha, you're way too excited. Look,\nyou're scarin'\nyour trainer.",
+            "name": "Inari One"
+        },
+        {
+            "text": "Голд Сити's cheeks are flushed. It seems\nshe really\nenjoyed her time out on the\ntown."
+        },
+        {
+            "text": "What's this? Has the sight of a lass fresh\nout of\nthe bath rattled your noggin?",
+            "name": "Inari One",
+            "choice_data_list": [
+                "Rattled my... what?"
+            ]
+        },
+        {
+            "text": "Haha, I'm <i>askin'</i> if you're swooning at the\nsight.\nYou got that dreamy look on your\nface.",
+            "name": "Inari One"
+        },
+        {
+            "text": "What are you saying, Inari?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey now, hey now, what're <i>you</i> gettin'\nall\nflustered for? Your trainer's standin'\nright in front\nof <i>two</i> drop-dead beauties\nhere.",
+            "name": "Inari One"
+        },
+        {
+            "text": "Or what, did you think you were the\nonly one?",
+            "name": "Inari One"
+        },
+        {
+            "text": "Ugh, Inari!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити blushes as Inari One laughs\nteasingly."
+        },
+        {
+            "text": "Голд Сити's eyes twinkle with excitement\nlike a\nchild's."
+        }
+    ]
+}

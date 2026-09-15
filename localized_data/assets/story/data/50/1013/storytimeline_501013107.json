@@ -1,0 +1,123 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро МакКуин is in the middle of\ntraining for\nthe fast approaching spring\nTenno Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Yet she asks to meet on Valentine's\nDay.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Happy Valentine's Day, Trainer...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Here... I would like you to have this.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "text": "You're quite welcome... This chocolate is\nquite\npopular, you know. There's a\nsix-month wait for\norders.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'd like for you to try it...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "For some reason, there's no enthusiasm\nin Mejiro\nMcQueen's voice. I wonder\nwhat's the matter.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Chocolate... Sugar... It dawns on me.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you want to share it?"
+            ]
+        },
+        {
+            "text": "What?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "N-no, that's quite all right! Don't mind\nme!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I admit, I am a <i>little</i> curious, but...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm refraining from treats until I win the\nspring\nTenno Sho!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Naturally, she's trying to ensure that\nshe's in top\nshape for the upcoming race.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "Wh-wh-why are you apologizing?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Please, there's no need to worry about\nme. Enjoy\nit to your heart's content!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm refraining from treats until I win the\nspring\nTenno Sho!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Naturally, she's trying to ensure that\nshe's in top\nshape for the upcoming race.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "If you have just one piece per day, it shouldn't\nbe a problem."
+            ]
+        },
+        {
+            "text": "Do you think so? Well, if it's only one\npiece, then\nsurely...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Wait just a minute! Why are you\nspoiling me like\nthis?!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Because I get the feeling you love sweets."
+            ]
+        },
+        {
+            "text": "Ah! I-it's like you can see straight into\nmy soul!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Very well, then! I admit defeat!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "If you insist, I suppose I could chalk it up\nto peer\npressure.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "More like \"choc\" it up. Get it?"
+            ]
+        },
+        {
+            "text": "Well aren't you funny.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I decide to eat the chocolates at home,\nif only to\navoid Мэдзиро МакКуин's\nlonging gaze.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In all seriousness, I really have heard\nwonderful\nthings about this chocolate. I\ncan't wait to try\nit! ♪",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

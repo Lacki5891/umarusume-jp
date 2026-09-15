@@ -1,0 +1,77 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Huh... I actually won? No way... I won\nthe Satsuki\nSho!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "People said that it couldn't be done, yet\nI\nsomehow managed to pull it off...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Um, Тренер? What kind of magic spell\ndid you\ncast on me?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I just did everything I could."
+            ]
+        },
+        {
+            "text": "Well, whatever it is you did, it helped\nme run a\ngreat race despite my health\nissues.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm so happy! Can I pat your head as a\nreward?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Coddling you at the Classics is all I've\nbeen\ndreaming of! ♪",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Yeah, of course you can!"
+            ]
+        },
+        {
+            "text": "Hehe! Then come here...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...Ah.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "My hands... won't move.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You were so impressive that I can't see\nyou as just\n\"cute\" anymore.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Calling you a good trainer doesn't seem\n\nappropriate for an achievement this\ngrand. Can I\npraise you in a different\nway?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Sure, I don't mind."
+            ]
+        },
+        {
+            "text": "Okay, here I go... Nice and loud!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Who's an amazing Тренер?! You're an\namazing\ntrainer! Yes, you are! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "She praises me with the incredibly rare\n\"amazing\ntrainer\" compliment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик miraculously conquers the\nSatsuki\nSho! Congratulations!",
+            "name": "Монолог"
+        }
+    ]
+}

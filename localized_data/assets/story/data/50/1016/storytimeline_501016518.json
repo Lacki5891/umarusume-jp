@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I spot Нарита Брайан out in a\nfield pulling\nweeds with the\ngroundskeeper.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is such a pain! How much more do\nwe have to\ndo?!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What are you doing?"
+            ]
+        },
+        {
+            "text": "Agh—Тренер?! Th-this is just...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Punishment. She walked through the\nfield and\ntrampled the seedlings, so I'm\nhaving her pull\nweeds.",
+            "name": "Groundskeeper"
+        },
+        {
+            "text": "I said I didn't mean to, didn't I?! Damn!\nIt's really\nnot my day!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Fine! I'll make this into a field of despair!\nGet\nready, weeds!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан pulls weeds savagely, but\nstooping\nover all day pulling weeds must\nbe tiring, even for\nher...",
+            "name": "Монолог"
+        }
+    ]
+}

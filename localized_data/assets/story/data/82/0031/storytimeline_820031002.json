@@ -1,0 +1,168 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while walking along the street\nback to\nmy place...",
+            "name": "Монолог"
+        },
+        {
+            "text": "GYAAAHHHH!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Dang it... Messed up again...",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "Are you okay?! What happened?!"
+            ]
+        },
+        {
+            "text": "Ooh, when'd you get here, minion?!\nYour timin's\nperfect! Help me with my\ngate trainin'!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "...Uh, \"gate training\"?"
+            ]
+        },
+        {
+            "text": "I assume that scream just now was the\nsound of\nher struggling with training, so I\ndecide to help\nher out. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "When I get into the gate, you give me\nthe signal\nto start. Got it?!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "text": "All riiiiight... I'm in!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Gimme the signal! The signal, dang it!\nCome on,\nc'mon, c'mon!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "GWEH?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Surprised by her yelp, I rush over to\nfind... Shinko\nWindy's foot stuck in a\ndeep hole at the starting\nline. She's\nsprawled dramatically across the\nground.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Grrrr... DANG IT! Why do I keep fallin'?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "And after all that fidgetin' I did to build\nup\npower! GAH!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "I think the fidgeting might be the problem..."
+            ]
+        },
+        {
+            "text": "That's not true! The fidgetin' is proof I'm\ngettin'\nfired up to run like the wind! Plus\nit helps with\ngettin' off to a good start!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "That puts all eyes on me! And that's\nwhen I chomp\ndown hard on first place!\nThat's the perfect race,\nright?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "While it's true that a competitive spirit is\nvital for\nracing, her fidgeting feet are\nwhat dug the hole\nthat tripped her up\nand bungled her all-important\nstart.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I need to persuade her to look at it in\na\ndifferent light.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I think you could do better."
+            ]
+        },
+        {
+            "text": "Wh-what?! Whatcha tryin' to say?!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "If you save all that fire for after the gates open,\npeople are gonna go wild."
+            ]
+        },
+        {
+            "text": "I explain that people get caught off\nguard by\nunpredictable surprises, and\nthat she'd look\ncooler if she kept her\ncompetitiveness under\nwraps until the\nrace was underway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Competitive spirit... lookin' cool...",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Huh? She's awfully quiet. Maybe she's\nnervous.",
+            "name": "Spectators"
+        },
+        {
+            "text": "And the gates are open! Who will make\nthe first\nmove?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "YAAAAAHHHHH! COMPETITIVE\nSPIRIIIIIT!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "What's with that fighting spirit?! Wasn't\nshe\ntotally silent a second ago?! She's so\ncool! Wow!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Hehehe. Guess I'll have to give it a shot,\nif ya\ninsist!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "All right, I'm in the gate. Gotta suppress\nthe\nfidgets... Stay cooool!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "GRAAAAAHHHHH!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I did it! I didn't trip up! Hey, hey! How\nwas I?!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "Super cool!"
+            ]
+        },
+        {
+            "text": "Mehehe! I like this trainin'! Imma do it\nlike a\nhundred times!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "What? A hundred?!"
+            ]
+        },
+        {
+            "text": "Uh-huh! So you're gonna get to witness\nme being\ncool a hundred more times!\nAren't you lucky!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "GAHHHHH?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Ack... Awww...",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "text": "I'm... fine, but... I think... Imma call it... a\nday...",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "She runs off in tears from the sheer pain.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Unable to say no to her beaming smile,\nI stay\nwith her until she wears herself\nout.",
+            "name": "Монолог"
+        }
+    ]
+}

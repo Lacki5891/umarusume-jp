@@ -1,0 +1,239 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Strolling down the street one weekend, I happen to spot Mejiro\nMcQueen, who appears to be in high spirits."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hm hm hmm! ♪ Don't stop! Go for victory!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, I've been waiting all week for this!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Better enter the karaoke place before someone spots—",
+            "choice_data_list": [
+                "Going to do some karaoke?",
+                "Going to do some karaoke?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eek! T-Trainer?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Urgh... Th-that's right."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That is to say... I was thinking of going to practice my winning concert\nsongs.",
+            "choice_data_list": [
+                "In that case, do you want to go together?",
+                "In that case, do you want to go together?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eh? You wish to come along too?",
+            "choice_data_list": [
+                "You said it was for the winning concerts, right?\nI'll help out.",
+                "You said it was for the winning concerts, right?\nI'll help out."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "W-well... Thank you. Let's be on our way, then..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Something feels rather off about McQueen, but I follow her into the \nkaraoke place."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Whew. Let's pause it there for now."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What did you think about my singing? Did you identify any points for\nimprovement?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's sung through quite the assortment of songs, but she doesn't\nseem to be enjoying it much."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just where did that good mood disappear off to?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Is something the matter?",
+            "choice_data_list": [
+                "Am I a bother by being here?",
+                "Am I a bother by being here?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh?! What makes you say that?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That's not the case at all. But how can I say this..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, I should just be honest here."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "The truth is, I didn't come to karaoke today to practice Winning\nConcert songs. Actually..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I wanted to sing some fight songs.",
+            "choice_data_list": [
+                "Fight songs?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, like the ones you hear fans sing at sporting events to support\ntheir team. They're called fight songs."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I happen to attend sporting events myself sometimes... Once in a blue\nmoon, really."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I occasionally like to sing fight songs at karaoke on my days off as\nwell."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That's the real reason why I came here today...",
+            "choice_data_list": [
+                "Why not belt some out, then?",
+                "Why not belt some out, then?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I-I shall do nothing of the sort! I can't have you seeing me act in such\na juvenile fashion!",
+            "choice_data_list": [
+                "What if I joined you?",
+                "What if I joined you?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Uh... Y-you want to join in?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Now w-wait just a moment. I can go without doing it today, okay?",
+            "choice_data_list": [
+                "Nah, let's sing together!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But again, I don't want you to see how I get..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Wait, you've already entered a song?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Urgh, in that case..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>BRING 'EM HOME, YU-TA-KA!</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>BRING 'EM HOME, YU-TA-KA!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Any sense of shame that McQueen had felt earlier is driven off by the\nfiery chants."
+        },
+        {
+            "name": "Monologue",
+            "text": "We shout just as if we were in the stands at a ballpark."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, well, that was a bit embarrassing. Though, admittedly, it was\nalso quite fun."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If I could, I'd go watch a game right this instant.",
+            "choice_data_list": [
+                "How did you come to like watching sports?",
+                "How did you come to like watching sports?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If I had to say... I suppose I love the atmosphere at the venue."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "As a member of the Mejiro family, I've always felt it important to\nmaintain my composure at all times."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So when I went to my first sports stadium, I was quite taken aback. It\nall just seemed so lively."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "The fact that there could be a place where no one would judge you\nfor shouting and flouncing about..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I found the experience to be very fresh and inviting.",
+            "choice_data_list": [
+                "So you ended up finding a new kind of fun?",
+                "So you ended up finding a new kind of fun?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, you could say that."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In any case, what do you say to getting back to singing? I'm still\nrather fired up!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, now that we've left, I can't help but feel embarrassed after all. I\nhope the other patrons weren't able to hear me.",
+            "choice_data_list": [
+                "You were having so much fun though!",
+                "You were having so much fun though!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Well yes, that is true. It has been a long while since I was able to let\nloose to such an extent."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Though you must promise me this, Trainer..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Not a word about this will get out to the other students or staff. And\nif possible, I would like <i>you</i> to completely forget about it too..."
+        }
+    ]
+}

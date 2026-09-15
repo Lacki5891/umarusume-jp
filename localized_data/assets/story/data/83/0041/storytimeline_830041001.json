@@ -1,0 +1,364 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while walking past the station,\nI see a\npair of familiar faces calling out\nto passersby.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, h-hello! We're having an, uh, event,\nat, um,\nTracen Academy, so, um...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "The student council is having an event!\nDo feel\nfree to take a flyer!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm so sorry, I'm really bad at this. I'm not\nhelping\nat all, am I?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Don't worry about it. You're doing just\nfine. I'm\nsure you'll get the hang of it\nonce—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Sorry. I've just received a text from the\n\npresident.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "\"Return to the academy ASAP.\" Oh?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I was hoping to at least hand out half of\nthese,\nbut oh well. Back to school it is.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Please go on ahead. I'll stay here and\nkeep\nhanding out flyers.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Are you sure? You might have to deal\nwith\ngawkers or talk to people you\naren't comfortable\nwith...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I know... But I really want to help you\nout for\nonce.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "...All right. Just don't push yourself too\nhard,\nokay?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Breathe in... Breathe out... Okay. I can\ndo this. I\njust need to announce that\nwe're holding an\nevent...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "An event? Академия Тайсен is doing\nsomething?\nYeah, I think I might grab a\nflyer.",
+            "name": "Male Passerby"
+        },
+        {
+            "text": "Oh?! G-go ahead.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Th-that was just a practice run. Next\ntime, I'm\ngoing to speak clearly and\nhand out the flyers\nmyself!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Ooh! Is she from Академия Тайсен? Oh,\nshe's\nlooking this way! Hellooo!",
+            "name": "Tourist Group"
+        },
+        {
+            "text": "Ignore... the stares. Ignore... the...\ns-stares...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I... I can't do it! What should I do? I went\nand told\nЭйр Грув I could handle this.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "And after I made up my mind that I\nwouldn't let\nany obstacle get in my\nway...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I'll scale any walls that stand in my way!\nThis is\nwhat you meant when you were\ntalking about\nworking toward becoming\nyour ideal self, right,\nKawakami?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I was so sure, but in the end, I... I...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Мэдзиро Добер is trembling in distress. I\nwonder if\nthere's anything I can say to\nassuage her fears?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "One flyer, please!",
+                "Let's hand them out together!"
+            ]
+        },
+        {
+            "text": "Мэдзиро Добер is trembling in distress. I\nwonder if\nthere's anything I can say to\nassuage her fears?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "One flyer, please!",
+                "Let's hand them out together!"
+            ]
+        },
+        {
+            "text": "Huh?! Ah, here yo—wait, you're...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Flyers? Is there some kind of event\ngoing on?\nWhoa! Академия Тайсен's\nputting on an event?!",
+            "name": "Passersby"
+        },
+        {
+            "text": "Oh, they're having a raffle for\nautographs too!\nOh my gosh, yeah! Can I\nget a flyer, please?!\nMe too, me too!",
+            "name": "Passersby"
+        },
+        {
+            "text": "Huh?! Wh-what?!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Perhaps I called out to her a little <i>too</i>\nloudly. So\nmany people are rushing over,\nthere's no way she\ncan possibly handle\nthem alone!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I-I'll help you hand those out!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I don't believe it. I handed out all the\nflyers?\nSeriously?",
+            "name": "Мэдзиро Добер",
+            "choice_data_list": [
+                "YЭпизод Great job!"
+            ]
+        },
+        {
+            "text": "Uh... I wasn't asking you.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "...Thanks. I couldn't have handed them\nall out\nwithout you.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "All of them, you say? You mean you\nfinished\nhanding them out?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Incredible. You surpassed all my\nexpectations. I\nguess my worries were\nunfounded.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Dober, you've really changed. I'm\npleased to see\nhow much you've grown.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, thank you so much!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "But I didn't accomplish this alone. I had\nhelp. So\nreally...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Heh, forget about all that for now. You'll\nfigure it\nout one day.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But your efforts really have helped. So,\nI'll say\nthis...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Thank you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That was directed at you too, Trainer.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "It was nothing."
+            ]
+        },
+        {
+            "text": "Um, I also wanted to say... You helped,\nuh, a bit...\nBye.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Um! I also wanted to say... Thank you so,\nso much!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Eek! The wind's too strong! Oh no! The\nflyers are\ngetting blown away!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Suddenly, a strong gust of wind scatters\nall the\nflyers! In a panic, I rush to help\ngather them up...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> I think we somehow\nmanaged to get\nall of them, but...",
+            "name": "Мэдзиро Добер",
+            "choice_data_list": [
+                "It's almost dark..."
+            ]
+        },
+        {
+            "text": "Sorry, I'm finally ba—oh, what happened\nhere?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I see. That sounds like quite the disaster.\n\n...Dober.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...A-Эйр Грув, I'm so sor—",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Well done. You did the best you could.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "You used to be too timid to even put\nyourself out\nthere. I'm pleased to see\nhow much you've grown.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But I... I said I'd take care of it for you,\nand I\ncouldn't even hand out a single\nflyer.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Heh, forget about all that for now. You'll\nfigure it\nout one day.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Thanks for your help too, Trainer.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "It was nothing."
+            ]
+        },
+        {
+            "text": "Huh? Wait, that badge on your collar...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "...No thanks. And don't give me your\ntrainer spiel,\neither.",
+            "name": "Мэдзиро Добер",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "Thanks, but I don't want to bother one\nof the\nacademy's trainers. I appreciate\nthe sentiment,\nthough.",
+            "name": "Мэдзиро Добер",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "Hmph! You're so nosy! I can do this by\nmyself! I\n<i>have</i> to do this by myself!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "No, really, I'm okay. I should do this by\nmyself!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "What's this? What's all the commotion\nabout?\nLooks like they're passing out\nflyers? What for?",
+            "name": "Student Passersby"
+        },
+        {
+            "text": "Huh? Oh! Um!",
+            "name": "Мэдзиро Добер",
+            "choice_data_list": [
+                "Yes! We're having an event!"
+            ]
+        },
+        {
+            "text": "Hey! ...Oh, fine!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Oh... you're just too nice. You'll be stuck\nhere all\nday at this rate.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Without giving her much of a chance to\nrefuse my\nhelp, I start handing out the\nflyers...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Phew...</i> We still have half of the flyers\nleft, but it's\nalready getting dark. If we\njust keep going for a\nlittle longer...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "No need. Well done, you've handed out\nmore\nthan enough.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Wow, you really handed out half of\nthem. You\nwent all out.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...You've really grown, Dober.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, n-not at all. I was just kicking up a\n\ncommotion.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "In the end, I still needed help getting\npeople's\nattention and handing out\nflyers. So really...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Heh, forget about all that for now. You'll\nfigure it\nout one day.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But your efforts really have helped me\nout. So,\nthank you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That was directed at you too, Trainer.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "It was nothing."
+            ]
+        },
+        {
+            "text": "...I didn't ask you to help, but... thanks. I\nguess.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Maybe it's the pride she feels at having\n\ndistributed all the flyers, but when I\ncatch a brief\nglimpse of Мэдзиро Добер's\nprofile, I see a smile on\nher face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро Добер returns to the academy\ndeep in\nthought, pondering the meaning\nbehind Air\nGroove's words.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yes! I'm sorry for all the trouble! Thank\nyou very\nmuch!",
+            "name": "Мэдзиро Добер"
+        }
+    ]
+}

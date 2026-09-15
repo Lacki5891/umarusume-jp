@@ -1,0 +1,62 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after my training session with\nEishin\nFlash...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Hm?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "It's nothing. The session just ended\nearlier than I\nexpected.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It shouldn't be possible for me to finish\nall of my\nlaps so quickly.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Could it be we miscounted?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But when I check the numbers, all my\nlaps are\naccounted for, which can only\nmean one thing.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You must've gotten faster."
+            ]
+        },
+        {
+            "text": "Well... What a happy miscalculation.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This never happened when I was training\nby\nmyself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...Thank you. I could not have\naccomplished this\nwithout your help.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Of course. Now let's keep it up!"
+            ]
+        },
+        {
+            "text": "Hehe. We must set to work revising my\ntraining\nschedule straight away.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I would appreciate any and all advice\nyou can\ngive me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It looks like my coaching is paying off.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After some time out together, Meisho\nDoto and I\nreturn to the academy."
+        },
+        {
+            "text": "T-Trainer! Would you mind if, after this,\nwe...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Bzzt, bzzt!</i>",
+            "choice_data_list": [
+                "Sorry, that was my phone."
+            ]
+        },
+        {
+            "text": "It's a message from Tazuna. Looks like\nthere's an\nimportant task that needs a\nlot of hands on deck.\nShe's asked me to\nhelp out."
+        },
+        {
+            "text": "I s-suppose you have work to do now...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Wasn't there something you were going to tell\nme?"
+            ]
+        },
+        {
+            "text": "Oh no, it was nothing! Good luck with\ny-your\nwork!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I reluctantly part ways with Meisho\nDoto,\nswitching gears to my new task."
+        },
+        {
+            "text": "After everything is put in order, I step\noutside to\nfind the sky completely dark.\nI guess I should\nhead home."
+        },
+        {
+            "text": "Hey. You're Doto's trainer, aren't you?\nGot any\nidea where she is?",
+            "name": "Air Shakur",
+            "choice_data_list": [
+                "I thought she was back at her dorm..."
+            ]
+        },
+        {
+            "text": "Nope. Around this time, she's normally\nmaking a\nracket getting ready for the\nnext day.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Tch, I swear, if that accident on legs runs\ninto\ntrouble this late at night... Where\nthe hell could\nshe be?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "We've got to find her as soon as\npossible! I go\nlooking for Мэйсё Дото\nwith Air Shakur."
+        },
+        {
+            "text": "Shakur has a guess as to Doto's\nwhereabouts, so I\ntrust her gut and\nfollow along to...",
+            "choice_data_list": [
+                "The forest? Why?"
+            ]
+        },
+        {
+            "text": "If you haven't noticed, she's been\nsneaking out\nhere a lot lately. And\ntracking mud into our room\nwhen she\nsneaks back...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Oooh... Ohhh...",
+            "name": "???"
+        },
+        {
+            "text": "Hm? You hear that?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Ahh... I reminisce on your gentle...\nwaarmth!",
+            "name": "???",
+            "choice_data_list": [
+                "That voice belongs to... Doto!"
+            ]
+        },
+        {
+            "text": "Eep! T-Trainer! Shakur?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm n-n-not imagining things, right? Is\nthat really...\nyou?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You sleep-deprived or something? Of\ncourse it's\nus!",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Uugh... Waaaahh! I was s-so scaaared!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You're safe now."
+            ]
+        },
+        {
+            "text": "<i>Hic...</i> I'm so s-sorry...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I decided to practice my singing here,\nbut then...\n<i>Hic!</i> I c-couldn't find my way\nback in the dark... I\nwas singing to help\nme calm down.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'm sorry I wasn't there for you."
+            ]
+        },
+        {
+            "text": "Oh no, please don't apologize... Your\nwork is far\nmore important than me!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm trying to become... more\nindependent. That\nway, you'll be able to\nfocus on your work, Trainer.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I don't want to be a nuisance to you...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You should focus on screwing up less\nfirst. Surely\nyou could've avoided what\nled you into this mess.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "We escort Мэйсё Дото back to the\ndorm.\nThankfully, she's not injured. I\nsuppose all is calm\nfor now."
+        },
+        {
+            "text": "I'm so ashamed to have caused all th-this\ntrouble!\nI'm really sorry... it's all my fault!\nI won't do\nsomething like this ever again!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Damn right, you won't! I'm not going\nlooking for\nyou a second time.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "I u-understand... I'm so s-sorry! I won't\npractice\nsinging anymore!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "No, keep practicing!"
+            ]
+        },
+        {
+            "text": "Oh... But, what if something like this\nhappens\nagain?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Figure it out on your own! I already said\nI'm not\nplaying search patrol anymore.",
+            "name": "Air Shakur",
+            "choice_data_list": [
+                "What do you want to do, Doto?"
+            ]
+        },
+        {
+            "text": "I, um... Well, you see! I think I like\nsinging a lot\nmore now...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "If it's not a b-bother to anyone... I would\nlike to\nkeep singing.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...Then you'd better come up with a\nmore\nreasonable way to practice.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "O-okay! Um, well... I won't sing in the\nforest\nanymore!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'd like to hear the song whenever you're ready\nto perform.",
+                "Let me join you for practice!"
+            ]
+        },
+        {
+            "text": "O-okay! Um, well... I won't sing in the\nforest\nanymore!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'd like to hear the song whenever you're ready\nto perform.",
+                "Let me join you for practice!"
+            ]
+        },
+        {
+            "text": "Hyah?! You're willing to listen to m-my\nsinging?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Wh-whaaat?! I'll practice a whole, whole\nlot, then.\nI pwo-promishe!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You shouldn't! I already rely on you for\ntraining...\nthis would add on so much\nwork for you!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I want to be with you as you improve."
+            ]
+        },
+        {
+            "text": "Well... If you're really sure you want to\ncome...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I decide to accompany Мэйсё Дото for\nsinging\npractice the following day."
+        },
+        {
+            "text": "Ever since then, I occasionally overhear\nDoto\nsinging when I pass by the dorm."
+        }
+    ]
+}

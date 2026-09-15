@@ -1,0 +1,399 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Марузенски and I go shopping together\none\nday...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... These green onions look\nwonderful.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Excuse me! Could I have some of these\nalong with\nthe cabbage?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You certainly have a good eye for\nproduce! Take\na raffle ticket too, as a\ngift!",
+            "name": "Vegetable Seller"
+        },
+        {
+            "text": "A gift? You're giving them out to\neveryone, aren't\nyou?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hahaha! You caught me!",
+            "name": "Vegetable Seller"
+        },
+        {
+            "text": "Sorry to keep you waiting, Trainer! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Finished with your shopping?"
+            ]
+        },
+        {
+            "text": "Sorry to keep you waiting, Trainer! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Finished with your shopping?"
+            ]
+        },
+        {
+            "text": "Yep, I'm all set!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But let's enjoy our day a bit longer! You\nsee, that\nold lady told me something\ninteresting...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Ta-da! Shall we try it together?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Oh, I see! You want to play the raffle?"
+            ]
+        },
+        {
+            "text": "That's right! I got a ticket from the lady\nat the\ngrocery store! We can't <i>not</i> use it,\nright?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And if I win, I thought I could reward\nyou for\ncoming out with me today by\ngiving you the prize!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Do you really think you'll win?"
+            ]
+        },
+        {
+            "text": "And if I win, I thought I could reward\nyou for\ncoming out with me today by\ngiving you the prize!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Do you really think you'll win?"
+            ]
+        },
+        {
+            "text": "You dare doubt me? Haha! Well, I can't\nwait to\nsee your reaction when I win the\ngrand-prize! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Without further ado, allow me to show\nyou the\nfabled Maruzen luck!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "C'mon, grand-prize! Let's see that\ngrand-prize!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски hums as she cranks the\nhandle of the\nraffle spinner.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "What?! I can't believe it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Trainer, did you hear that?! I won the\ngrand-prize!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "That's amazing!"
+            ]
+        },
+        {
+            "text": "Trainer, did you hear that?! I won the\ngrand-prize!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "That's amazing!"
+            ]
+        },
+        {
+            "text": "I know, right?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So, here you go! This bodacious prize is\nall yours,\nTrainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "So, here you go! This bodacious prize is\nall yours,\nTrainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "Of course!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I feel guilty receiving something like this\njust for\ngoing shopping with Марузенски.\nAnd besides,\nshe's the one who won it.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "No, I can't accept this."
+            ]
+        },
+        {
+            "text": "Oh, come on. You don't have to be so\nserious all\nthe time!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hmm... Okay! How about we make it a\ndate\ninstead, then?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...A date?"
+            ]
+        },
+        {
+            "text": "Yeah, just like today's shopping trip!\nYou'll come\nwith me on the hot spring\ntrip!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yeah, just like today's shopping trip!\nYou'll come\nwith me on the hot spring\ntrip!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But I'm mega busy this year...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So how about next spring? I'm sure we'll\nhave\nsome free time then.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Well, in that case..."
+            ]
+        },
+        {
+            "text": "Done deal! I'll invite you when I get\neverything\nsorted out!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to make this trip a lot of fun,\nso be\nready to have a blast!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Booyah! As if there were any doubt! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Way to go, Марузенски!"
+            ]
+        },
+        {
+            "text": "Ehehe!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heh... Sorry, I got a bit carried away,\ndidn't I?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You got the first place prize, so you should feel\nhappy."
+            ]
+        },
+        {
+            "text": "Just remember you said that when I go\neven <i>more</i>\nover the top! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Just remember you said that when I go\neven <i>more</i>\nover the top! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ahem...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Why don't we eat this hamburger steak\ntogether\nfor lunch?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Sounds great!"
+            ]
+        },
+        {
+            "text": "Why don't we eat this hamburger steak\ntogether\nfor lunch?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Sounds great!"
+            ]
+        },
+        {
+            "text": "Heehee! I'm glad to see you can cut\nloose a little\nyourself! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee! I'm glad to see you can cut\nloose a little\nyourself! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! That sure is a lot!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But having this many carrots is kind of\ntoo much,\neven between the both of us...\nCarrots go bad\nfast, after all.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "How about sharing them with everyone, then?"
+            ]
+        },
+        {
+            "text": "But having this many carrots is kind of\ntoo much,\neven between the both of us...\nCarrots go bad\nfast, after all.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "How about sharing them with everyone, then?"
+            ]
+        },
+        {
+            "text": "Ooh, nice idea, flour tortilla! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, who's hungry?! Come get some\ncarrots!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Yaaay!</i>",
+            "name": "The Two"
+        },
+        {
+            "text": "Teehee! Everyone's looking stoked after\ngobbling\nup those carrots!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Here, you have one too."
+            ]
+        },
+        {
+            "text": "Why thank you! ♪ But don't forget\nyours, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Why thank you! ♪ But don't forget\nyours, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски and I each take a single\ncarrot for\nourselves.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aww, dang!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Well, at least you won <i>something,</i> right?"
+            ]
+        },
+        {
+            "text": "Yeah, I guess a little bit of good luck is\nbetter\nthan none at all.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But a single carrot doesn't really make\nfor a great\npresent... Hmm...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, I know! I'll use this and the green\nonions I\nbought earlier to make a stir-fry!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's my mom's secret recipe, so it'll be\nthe bomb!\nYou're gonna love it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ohhh, that's a blank—tough luck! Here's\nthis pack\nof tissues as a consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Bogus!</i> I can't believe it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ugh... Sorry, Trainer. My Maruzen luck\nlet me\ndown today...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It's okay. You win some, you lose some."
+            ]
+        },
+        {
+            "text": "Ugh... Sorry, Trainer. My Maruzen luck\nlet me\ndown today...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It's okay. You win some, you lose some."
+            ]
+        },
+        {
+            "text": "Aww, I wanted to win you something\nnice... Mega\nlame...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Later on, we enjoy a delicious stir-fry\nmade with\nthe carrot that Марузенски\nwon in the raffle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They're slightly salty and have a\nhardiness that\nsoaks pleasantly into our\ntired bodies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And that's how I end up promising to go\non a hot\nspring trip with Марузенски\nnext year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And that's how Марузенски and I end up\nsharing a\ndeluxe carrot hamburger steak\nfor our next lunch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With Марузенски's shoulders drooping,\nwe leave\nthe shopping street.",
+            "name": "Монолог"
+        }
+    ]
+}

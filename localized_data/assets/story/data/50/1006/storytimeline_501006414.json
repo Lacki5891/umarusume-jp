@@ -1,0 +1,21 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap blows Super Creek out of the water in \nthe Arima Kinen."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the race, Tamamo Cross visits the waiting \nroom and declares she's postponing competing \nfor the Dream Trophy in order to face off against \nOguri Cap.",
+            "color_text_info_list": [
+                "Dream Trophy"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The appearance of an unexpected rival dampens \nOguri Cap's victory and marks the start of a new \nperiod of training."
+        }
+    ],
+    "title": "After the Arima Kinen: Lightning Strikes"
+}

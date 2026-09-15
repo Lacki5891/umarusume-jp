@@ -1,0 +1,185 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On a day off, Мэйсё Дото, for some\nreason, is\nbooked to compete in the\nshopping district's\nspicy-food-eating\ncontest..."
+        },
+        {
+            "text": "Ngh... I thought I was filling out a\nquestionnaire,\nbut to think it was a\nsign-up sheet all along...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You could just drop out."
+            ]
+        },
+        {
+            "text": "N-no, I sh-shouldn't... I would only be\ncausing\neveryone trouble if I leave now.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I probably won't last too long, but I'll do\nmy best.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It's time to announce the contestants!\nFirst up, we\nhave a competitor ready to\nturn up the heat.\nBringing in the\npassionate <i>fuego</i> of her Latin\nheritage,\nit's Эль Кондор Паса, everyone!",
+            "name": "Event Host"
+        },
+        {
+            "text": "I've got the appetite and the speed to\nput me on\ntop! And I brought my own\nSalsa de la Vida to\nfurther increase that\npicante!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "text": "Next up, she's challenging the spice with\nguts and\ngusto! A hot-blooded sister to\nall, it's Hishi\nAmazon!",
+            "name": "Event Host"
+        },
+        {
+            "text": "Spicy stuff's my specialty! I'll come out\non top, no\nmatter the contest!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "text": "And lastly... whoa there, looks like she's\ngot a\nmild case of the jitters. Her\nresistance to spice\nshrouded in\nmystery—it's Мэйсё Дото!",
+            "name": "Event Host"
+        },
+        {
+            "text": "Ah, u-um... I p-pwomise to do my besht!\nOh no, I\nmessed up!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And so, with the colorful cast now\nintroduced to\nthe crowd, the\ncompetition kicks off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "First up on the menu is a super spicy\nramen! We\nhad the noodles specially\nmade with chili\npeppers, served up in a\nbright-red broth!\nContenders, dig in!",
+            "name": "Event Host"
+        },
+        {
+            "text": "Ack?! What is this stuff?! The spice level\nhas my\nSalsa de la Vida beat by a mile!\nIs this real?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Next, we're bringing in the super spicy\nwings! The\nplate's piled up so high, you\nhave to crane your\nneck to see the top!",
+            "name": "Event Host"
+        },
+        {
+            "text": "Eurgh! The coatin' is made completely\nout of chili\npeppers?! My tongue's 'bout\nto shrivel up and fall\nright off!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hm, now that you say that... I guess it's...\na little\nspicy? But it's really delicious!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "What?! This is \"a little spicy\" to you?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "This is like torture, but you haven't even\nwinced!\nWhat kinda trainin' did ya do to\nprepare?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh no, no, no! I haven't trained for this\nin the\nslightest!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm honestly just a klutz! I've always had\nthis\nproblem of ordering spicy food by\nmistake, so I'm\nused to the taste—that's\nall!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Whoa, looks like the tables have turned!\nMeisho\nDoto looks cool as a cucumber,\nwhile her\ncompetition struggles to bear\nthe heat!",
+            "name": "Event Host"
+        },
+        {
+            "text": "Last on the menu is a super spicy mapo\ntofu,\nserved piping hot! Who will be the\none to finish it\nfirst? We're now entering\nthe final stretch!",
+            "name": "Event Host"
+        },
+        {
+            "text": "Adrenaline is my middle name! I'll finish\nthis\ncompetition with a bang and scarf it\ndown at full\nspeed!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ohhh, if it's speed you want, it's speed\nyou're\ngonna get! I'm talking full\nthrottle, all systems\ngo—full speed\nahead!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ngh... I'm not so good at eating\nquickly...\nWh-what should I do, Тренер?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Don't panic and go at your own pace.",
+                "Go for three times the speed!"
+            ]
+        },
+        {
+            "text": "W-well... if I slow down, I don't think I'll\nwin... But,\no-okay, I'll try!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Grlagh... Nope! This is too spicy, even\nfor me! Let\nme break for five or so!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Guh... I don't wanna admit it, but I'm\nwith her...\nPlease, some water!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Looks like two of our contestants are\nasking for a\ntime-out.\nMeanwhile—whaaaat?! You're not going\n\nto believe this!",
+            "name": "Event Host"
+        },
+        {
+            "text": "<i>Gulp!</i> Aaahh... Thank you for the\nfood—it was\ndelicious!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото clears her plate! Her\ninsurmountable\nstrength pushes her to\nthe finish line!",
+            "name": "Event Host"
+        },
+        {
+            "text": "O-okay... I'll s-speed up!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Eeek! My plate! And m-my glass of\nwater!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Rattle! Craaaash!</i>"
+        },
+        {
+            "text": "Uh-oh, Мэйсё Дото has tipped over her\ndishes!\nThis is sure to slow her down!",
+            "name": "Event Host"
+        },
+        {
+            "text": "Ohhh, I'm s-so sorry! Did I break\nanything? I'm\nsorry!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Wh-why am I like this? My hands get all\nslippery\nat the worst moments...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "In the end, Хиши Амадзон and El Condor\nPasa\nfinish in the time it takes Meisho\nDoto to clean\nup."
+        },
+        {
+            "text": "Hey, you were a tough one to beat... If it\nweren't\nfor that accident, that win\nwould've easily been\nyours.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I agree. I'm gonna come back stronger\nnext time,\nso let's do this again!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh wow... you two think too highly of\nme... I\nw-would be honored!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Looks like I made a good\ncall—maintaining her\npace was the\nanswer. Мэйсё Дото's unbelievable\n\nresistance to spice lands her a victory!"
+        },
+        {
+            "text": "The three contestants exchange\nhandshakes.\nAfter being deemed a\nstrong opponent, Meisho\nDoto leaves\nthe experience more confident than\n\nbefore."
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back from our outing, Grass\nWonder\ntells me there's somewhere she\nwants to visit, so\nwe stop by an inn.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello, everyone. It's been a while.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hey, it's Grass! Long time no see!",
+            "name": "Boy"
+        },
+        {
+            "text": "Hi, Grass! What are we gonna play\ntoday?",
+            "name": "Girl"
+        },
+        {
+            "text": "A warm smile grows across Grass\nWonder's face as\nthe excited children\nflock around her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "So you know these kids?"
+            ]
+        },
+        {
+            "text": "Yes, they're the children of this inn's\nproprietors.\nThey're very knowledgeable\nabout traditional\nJapanese games.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We bonded over a game of otedama the\nlast time\nI visited.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We played lots and lots! We did ohajiki,\nayatori,\nkaruta, and tons more.",
+            "name": "Girl"
+        },
+        {
+            "text": "We sure did. Learning so many new\nthings was fun\nfor me, as well.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So, what shall we do today?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hmm... I think we probably showed you\nall the\ngames we know already.",
+            "name": "Boy"
+        },
+        {
+            "text": "I've got it! Why don't you teach us a\ngame you\nplayed when you were little?",
+            "name": "Girl"
+        },
+        {
+            "text": "Huh? Me?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But... I didn't really get to play any\nJapanese\ngames when I was young. What\nto do?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What types of games did you play in the\nStates?"
+            ]
+        },
+        {
+            "text": "What types? Well... it's just that I'm not\nsure if\nthese children would really\nenjoy—",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, I forgot! You're from America! That's\nso cool!",
+            "name": "Boy"
+        },
+        {
+            "text": "That's right! I wanna know what you play\nin\nAmerica!",
+            "name": "Girl"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Very well... I guess I do know a game\ncalled Simon\nSays.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Simon?! What a cool name!",
+            "name": "Boy"
+        },
+        {
+            "text": "Hehe. I guess it would have some flair\nfor being\nforeign.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "America and Japan. I wouldn't be who I\nam today\nwithout them both.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Well, let's get it started!",
+                "Tell us more about the United States."
+            ]
+        },
+        {
+            "text": "America and Japan. I wouldn't be who I\nam today\nwithout them both.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Well, let's get it started!",
+                "Tell us more about the United States."
+            ]
+        },
+        {
+            "text": "Sure. So, in this game, one person plays\nthe role\nof \"Simon,\" and everyone else\nhas to do what\nSimon says.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Experience is the best teacher. I'll start,\nand you\ncan follow my lead.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Let's see... Oh yes. <i>Simon says, right\nhand up...</i>",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "English?!"
+            ]
+        },
+        {
+            "text": "But I don't know English!",
+            "name": "Girl"
+        },
+        {
+            "text": "Oh... I'm sorry.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I guess I got too excited about sharing\nsomething\nfrom back home...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Gladly. There's so much I could tell you.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "My father fits the typical image of a\nconfident,\nrough-around-the-edges\nAmerican, but he loves\nJapan dearly.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Meanwhile my mother is the polar\n\nopposite—unfailingly gentle and polite.\nShe's\nsomething of a role model for me,\nactually.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You take after both of them."
+            ]
+        },
+        {
+            "text": "Hehe. Perhaps I do.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hey! Can we play now?",
+            "name": "Girl"
+        },
+        {
+            "text": "Oh, sorry. Yes, let's get started.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Trainer, I can tell you more on the way\nback to\nthe academy. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We play until the sun goes down. Later,\nas we're\nreturning to the academy, she\ntells me all about\nher happy memories\nfrom back home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The four of us play together until the\nsun goes\ndown, and I get to learn a lot\nabout Grass\nWonder's feelings toward\nher home country.",
+            "name": "Монолог"
+        }
+    ]
+}

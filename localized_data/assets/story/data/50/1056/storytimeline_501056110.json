@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I've spent three years with\nMatikanefukukitaru. It\nwas long in\nessence, and yet, the time went by in\na\nflash. Today, everything comes to a\nclose.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You know what, Тренер? We sure had\nthe\nhappiest of times. On top of that...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "This is just the perfect time to wrap\nthings up!\nGetting to finish with a New\nYear's shrine visit is\njust perfect!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You're right about that."
+            ]
+        },
+        {
+            "text": "Right! We're always on the same page,\nalways in\nsync—like dancers or\nsynchronized swimmers.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Anyway, let's get praying. Now, let me\nfind some\nmoney for the offering box...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wait, arghhhhh! I don't have any change\non me!\nTrainer, please lend me a few\ncoins!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару is still the same as\n\never—always causing a fuss, but\nendearing to the\npoint you just can't\nfault her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I place my hands together and wish for\nher\ncontinued success.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What did you pray for? You can tell me.\nJust\nwhisper it.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "It's a secret."
+            ]
+        },
+        {
+            "text": "Hey, no fair! Why can't you tell me?\nHmph!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Well, I choose to be an open book!\nThere's only\none thing I want, after all.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "My wish is for you to receive lots of\ngood luck!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару only has one wish.\nAnd that\nwish is for me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I also wish for you to tell me what you\nwished for!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...I guess she has two wishes.",
+            "name": "Монолог"
+        }
+    ]
+}

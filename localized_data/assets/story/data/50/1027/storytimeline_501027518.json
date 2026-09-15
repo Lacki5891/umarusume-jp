@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ugh... I'm not feeling so hot...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Hmm, you're kind of pale too."
+            ]
+        },
+        {
+            "text": "The thing is, I'm trying out this new\nbrand of\nprotein.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But it's not sitting too well with me, and\nmy\nstomach...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ugh... I think I'll pass on lunch today...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The digestive system proves to be a\ndifficult\nmuscle to train, causing Mejiro\nRyan to remain in\npoor condition the\nwhole day.",
+            "name": "Монолог"
+        }
+    ]
+}

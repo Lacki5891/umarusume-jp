@@ -1,0 +1,157 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "While in the cafeteria, I overhear Sakura Chiyono\nO explaining herself."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "...So that's why this time, I'm going over to\nMaruzen's place!"
+    },
+    {
+      "name": "Special Week",
+      "text": "That sounds great! Maruzen lives on her own,\nright?"
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "Which brings us to your dilemma—what kind of\ngift you should take with you."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Exactly. It's just as they say, \"Manners between\nfriends is like turf between toes.\""
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "...There's a saying like that?"
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "In any case, Maruzen is very mature, so perhaps\nyou could give her something sophisticated."
+    },
+    {
+      "name": "Special Week",
+      "text": "Hmm, but she does have that mischievous side,\ntoo."
+    },
+    {
+      "name": "Special Week",
+      "text": "A while back, when she was recommending some\nof her favorite music, she handed me a cassette\ntape, but I have no way of playing it..."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Her favorite music?! I hope she plays me some\nmusic she likes when I visit her!"
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Personally, I've always thought of Maruzen as\nbeing a really cool and impressive runner!"
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "Indeed. I hope that someday I'll not only reach\nher level, but surpass it as well."
+    },
+    {
+      "name": "Special Week",
+      "text": "Maruzen loves fast things, so maybe we should\nthink of something along those lines?"
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "A present that gives a sense of speed... Hmm, I\ncan't think of anything."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Maybe something homemade would be better? I\noften make Japanese-style treats."
+    },
+    {
+      "name": "Special Week",
+      "text": "Then what about some <i>dynamically</i> shaped red\nbean jelly?!"
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "Hmm, I'm having trouble picturing a \"dynamic\"\njelly shape..."
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "Oh, what if we shape it like a sports car?"
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Nice idea! I could make some car-shaped nerikiri\nsweets!"
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "It's decided. I'll give her some homemade\nJapanese sweets."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Ah... but Maruzen often talks about desserts with\nforeign names, doesn't she?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Yeah, things like tiramisu and nata de coco."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Maybe she doesn't actually like Japanese stuff all\nthat much."
+    },
+    {
+      "name": "Special Week",
+      "text": "Aww... And it was such a good idea, too."
+    },
+    {
+      "name": "Monologue",
+      "text": "I happen to make eye contact with Sakura\nChiyono O as she brainstorms with her\ncompanions."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Oh, um! Excuse me! Do you know what kind of\ngifts adults like? Would you be happy if someone\ngave you Japanese sweets?",
+      "choice_data_list": [
+        "As long as thought's been put into it, I'd be\nhappy with any gift!",
+        "It's probably best to pick something in line with\nthat person's interests."
+      ]
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "A thoughtful gift... Understood! I'll stake \neverything on what I'm most confident in—my\nJapanese sweets!"
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "You're peerless in how you make Japanese sweets\nand how you aspire to be like Maruzen. I'm\ncertain she'll love your gift."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Thank you! Oh, would you mind taste testing\nthem sometime? It'd be a big help."
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "But of course. I absolutely can't wait."
+    },
+    {
+      "name": "Special Week",
+      "text": "I'll help too! Let me know whenever you need a\ntaste tester!"
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "I see! Then maybe I should try my hand at some\nwestern-style treats!"
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "I'm sure that anything you make will taste truly\ndelicious, Chiyono O."
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "Thank you... Um, the things Maruzen mentions\nmost are tiramisu, nata de coco, and..."
+    },
+    {
+      "name": "Special Week",
+      "text": "She likes italian food, too, right?!"
+    },
+    {
+      "name": "Сакура Чиёно О",
+      "text": "I'm so grateful! I'll do my best to make something\nthe two of you will enjoy too!"
+    },
+    {
+      "name": "Грасс Вандер",
+      "text": "Pasta and such aren't really desserts though..."
+    }
+  ]
+}

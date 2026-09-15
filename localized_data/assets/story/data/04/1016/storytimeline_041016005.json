@@ -1,0 +1,134 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day during break, I happen to see\nНарита Брайан speaking with\nanother\nstudent.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So, like, I have some friends who're fans of\nyours too, and we wanna\ngo to karaoke\nwith you sometime—",
+            "name": "Friendly Umamusume"
+        },
+        {
+            "text": "I'm busy. Go ask someone else.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh...",
+            "name": "Friendly Umamusume"
+        },
+        {
+            "text": "Seeing that interaction reminds me of\nwhen I first met her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's nothing to talk about.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Scram.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Even now, we don't speak much outside of\ntraining. Maybe we'd\nunderstand each\nother better if we could talk a little more...",
+            "name": "Монолог"
+        },
+        {
+            "text": "No need. You're my trainer—nothing more,\nnothing less.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Conversation over. Let's start training.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "But I want to know more about you."
+            ]
+        },
+        {
+            "text": "...What good would that do?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Just think about it. Why get involved in\nother people's lives?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I never expected you to get to know me.\nYou don't need to\nunderstand my\nmotivation.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All you need to know is that I want to run.\nHelp me do that, and we're\ngood.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's enough for me.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The whole time she's saying this, she's\nstaring off into the distance.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I don't want to see anyone's fire go out\nanymore, much less extinguish\nit myself.\nI'm... sick of it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Her hunger for racing may not be\nsomething that can be sated in a\nsingle\nlifetime.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No matter where I go, no matter who I\nchallenge, it's always the same.\nI'm left\nfeeling hungrier than before.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "She must have been suffering this\nlonesome burden for a long time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's not enough. I need more!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Her drive will never be satisfied no matter\nhow many opponents she\nfaces.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан will always have to contend\nwith this unceasing desire in\nher heart.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's enough. Talking more won't get me\nanywhere. Let's drop this\npointless discu—",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "It's not pointless."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'm positive it won't be for nothing."
+            ]
+        },
+        {
+            "text": "You really...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...<i>Sigh.</i> Fine.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Don't expect me to like it, though. I'm still\ngoing to do what I want.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Simple as that.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well, no need to rush... We'll take it slow\nand build up our rapport\nfrom there.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, during a meeting with Gold\nCity...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sorry! Can I borrow City for a photo\nshoot\nright now?",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Huh? Thought I didn't have work today...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I know, I'm sorry, but we need you!\nWe've\nplanned a special feature\nshowcasing\nUmamusume in their\nsignature racewear.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "It'll benefit you as well. It's a chance to\nmake a\nwhole new impression on the\nworld!",
+            "name": "City's Manager",
+            "choice_data_list": [
+                "But our meeting..."
+            ]
+        },
+        {
+            "text": "I know. Hey, mind if I bring my trainer to\nthe\nstudio?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "There'll be downtime while everyone's\nsetting up\nthe equipment, so we can\ncontinue with our\nmeeting then, right?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I end up accompanying Голд Сити to the\nstudio to\ncontinue our meeting.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay. That's our strategy settled—all\nthat's left is\nto put it into action.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well... there's also the photo shoot\nbefore that.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, City. I like your signature racewear.\nIs the\njacket inspired by biker fashion?",
+            "name": "Stylist"
+        },
+        {
+            "text": "Yeah, it is.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I knew it! So tell me—what's the concept\nbehind\nthe design?",
+            "name": "Stylist"
+        },
+        {
+            "text": "Hmm, something I want to try? Anyway,\nI'm off to\nthe shoot now.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Heh, way to evade my question. Good\nluck\nthough!",
+            "name": "Stylist"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What is it that you want to try?"
+            ]
+        },
+        {
+            "text": "Uh, was it not clear enough I was trying\nto keep\nthat vague?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It does have to do with motorcycles—the\nfeeling\nof being able to go wherever you\nwant, the wind\nrushing past.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "See, for this one show a while back, I\nhad to wear\nthis biker-inspired outfit.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I wasn't sure how to approach the\ncatwalk, so I\nasked one of the staff\nmembers who was into\nmotorcycles.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "When you're on a bike, you're totally\nexposed,\nright? The wind blows right\ninto your face. In\nwinter, it hurts like\nhell, and it's freezing cold.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But then, that's how you know you're\nmoving\nforward... I just thought that was\nkinda cool.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And of course, it's on two wheels, so if\nyou don't\nkeep moving, you fall. Or you\nuse the kickstand.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Have you ridden one before?"
+            ]
+        },
+        {
+            "text": "Never. I mean, I'm a model. I'm just\ngoing off of\nwhat that staff member told\nme.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "My contract actually like forbids me\nfrom riding\none, to prevent the risk of\naccidents or whatever.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "No motorcycle could match your stride anyway.",
+                "I'll take you on a ride one day."
+            ]
+        },
+        {
+            "text": "My contract actually like forbids me\nfrom riding\none, to prevent the risk of\naccidents or whatever.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "No motorcycle could match your stride anyway.",
+                "I'll take you on a ride one day."
+            ]
+        },
+        {
+            "text": "Oh, please. Where'd you pick up a line\nlike that?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I can't tell if you were trying to sound\ncool or\ncheer me up or what, but those\nwords did <i>not</i>\nbelong in your mouth.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Shortly afterward, the photographer\ncalls Gold\nCity in for the photo shoot.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Great job today! The photographer was\nreally\nimpressed with you!",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Great, but let's not do this again. Like,\nit's cool if\nyou need me for whatever,\nbut today was way too\nsudden.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ohh... I'm sorry. But you looked really\ngood! It\nwas a side of you I'd never seen\nbefore.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Did something good happen before the\nshoot?",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Before the shoot?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "\"No motorcycle could match your stride\nanyway.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"No motorcycle could match your stride\nanyway.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Something <i>did</i> happen, didn't it?!\nWhatever it\nwas, can you make that a\npart of your prep\nroutine?",
+            "name": "City's Manager"
+        },
+        {
+            "text": "You always have to push the envelope...\nLet's all\nget out of here, yeah? We've\ngot tomorrow too,\nso...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh, you will? Haha... What exactly do\nyou mean\nby that?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "All right, let's start the shoot!",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "Coming.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "By the way, I want to run back to the\nacademy.\nYou can drop me off when we\nget to the\nriverside, okay?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "After the photo shoot, on the way back\nto the\nschool...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Vroooom!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... A motorcycle.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey... About what you said before.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "How serious were you?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити blushes a little more than\nusual as she\nspeaks.",
+            "name": "Монолог"
+        }
+    ]
+}

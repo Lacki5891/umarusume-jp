@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm out with Grass\nWonder...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh? Trainer, look at all of those\nUmamusume\nplushies. They seem to be\nprizes for that claw\nmachine.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm curious which racers there are.\nThough it does\nseem rather noisy\ninside...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер is clearly interested, but\nthe shop's\natmosphere is making her a\nlittle uncomfortable.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's hard to see much of anything from\nhere. I\nwonder if there's a plushie of Spe\nor El.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'll get one for you!"
+            ]
+        },
+        {
+            "text": "Oh, are you sure?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Just watching from the sidelines\nwouldn't feel\nright. If only there were a\nway I could help you,\nthen it would be\nlike a joint effort.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Would you cheer me on?"
+            ]
+        },
+        {
+            "text": "That sounds like it would help. Very\nwell, I'll be\nyour voice of support.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'll give it my all. Go, go, Trainer! Go,\ngo!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

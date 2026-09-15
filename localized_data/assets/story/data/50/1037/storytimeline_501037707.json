@@ -1,0 +1,117 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Despite not feeling great lately, Eishin\nFlash\nagrees to visit a shrine with me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wunderschön... What a calming\natmosphere. The\nair here feels sacred.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It seems the proper sequence for praying\nis to\nbow twice, clap twice, and bow one\nlast time.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "A proper bow is ninety degrees. I have\nprepared a\nshiny five yen coin as an\noffering as well.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You sure did your homework."
+            ]
+        },
+        {
+            "text": "Not at all. In fact, there are still many\nthings I\nfailed to ascertain.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "For example, how many seconds should I\nhold my\nbow?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "However long feels right?"
+            ]
+        },
+        {
+            "text": "And how many seconds would \"feel\nright\" in this\ncase?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I also do not know how quickly I should\nbow, nor\nhow long I should keep my\nhead down.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Without that information, I will not be\nable pray\nproperly. What to do...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Just stay calm, and you'll be all right."
+            ]
+        },
+        {
+            "text": "So calmness is the most important thing\nhere?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I see... Indeed, a tranquil heart is vital\nwhen\noffering prayers to the divine.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thank you. I shall do my best.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Clap, clap.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйсин Флэш does everything perfectly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Did I do everything correctly?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You were flawless!"
+            ]
+        },
+        {
+            "text": "Thank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I was able to pay my respects with a\ncalm heart,\nand it was a very clarifying\nexperience.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Very well. Let me try calming myself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Stay calm...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Clear the mind...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "No, I really would like more specific\ndetails.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Surely, there is protocol for how many\nseconds I\nshould bow?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It bothers me to no end that I don't\nknow how\nlong to pray or ring the bell.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш's eyes are shining bright with\n\npositivity. I can tell she's feeling much\nbetter now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйсин Флэш is unable to pray in a way\nthat meets\nher standards and leaves the\nshrine with her\nspirits sunk.",
+            "name": "Монолог"
+        }
+    ]
+}

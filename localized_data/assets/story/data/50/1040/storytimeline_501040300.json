@@ -1,0 +1,91 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Сити's summer camp has come to an\nend.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You think... I improved, right?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "Hm...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I don't know why, but I don't fully trust\nyour\nenthusiasm.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "I'm being serious. Although, I do feel I\ngot\nsomething out of this.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I think I'm starting to look forward to the\nKikuka\nSho. I'll try to make them...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "No, I'll <i>definitely</i> make them say the\nwords I want\nto hear!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Gahhh!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Hey, Tama! How many more laps are you\ngonna\nrun?",
+            "name": "Inari One"
+        },
+        {
+            "text": "Time to get ready—you're gonna miss\nthe bus!",
+            "name": "Inari One"
+        },
+        {
+            "text": "...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Are you even listenin'?",
+            "name": "Inari One"
+        },
+        {
+            "text": "...Haha. Hahahaha!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Wha?!",
+            "name": "Inari One"
+        },
+        {
+            "text": "This is it! I got it! I found da key to\nvictory!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Everyone who's looked down on me's\n'bout to find\nout who I really am!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Hehe... Mwahahaha!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Did she break?",
+            "name": "Inari One"
+        },
+        {
+            "text": "And so, summer camp—filled with its\nwhirlwind of\nemotions—comes to an end.",
+            "name": "Монолог"
+        }
+    ]
+}

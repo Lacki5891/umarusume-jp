@@ -1,0 +1,200 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh woooow! <i>Sniffle...</i> This is greeeaat!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "As I arrive at the cafeteria, I hear a\nfamiliar voice\ncrying...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aaagh... Waaaaah! It's so overwhelming!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Hey, are you okay?"
+            ]
+        },
+        {
+            "text": "Awww, Trainer! I cagn! Isshaw! Waaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Uh, if you're gonna talk, can you try\nusing words?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Don't worry, Trainer. It's the same\nemotional\nsniffles as usual.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We were reading the racewear coverage\nin this\nmagazine together.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "For some reason, she was deeply moved\nby the\ninterview.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, of course I was! When I thought\nabout all\nthe emotions held in all those\nracers' outfits when\nthey compete...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I remembered the first time I put on my\nown\nracewear, and... Waaaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, I remember. You were super\nannoying back\nthen too.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey, look, look, look! My racewear's\nhere!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Pipe down, we can see.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hmm, I must say, it suits you well. It\nlooks like it's\nmade just for you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I know! You can tell, right? It fits so well!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hey, Taishin! Hey, hey! What do you\nthink?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...Sure is red.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whaaat? Give me more than that,\nTaishin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But you're right! Isn't this red really\npretty? ♪",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Even after that, she'd bawl about her\nracewear\n<i>every</i> time it came up.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, I was just so super happy! That\noutfit was\nmade special for me, you\nknow?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "When I imagine wearing it to the races\nof my\ndreams... It makes me... so...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sniffle...</i> So emotional! And it makes me\nreally,\nreally wanna win!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "I'm sure your rivals feel the same way.",
+                "Let's turn that emotion into motivation!"
+            ]
+        },
+        {
+            "text": "Oh! Yeah, you're right!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The racers in this magazine, and\nHayahide and\nTaishin too...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Everyone's happy to be able to run well\nin their\nracewear! It's not just me who\nfeels empowered by\nit!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoaaa! I can't just stand here!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Where are you going, Ticket?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "To train! ...AH! I forgot!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I can't start training without my trainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You forgot your own trainer...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hehe, it wouldn't be Ticket otherwise.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Sniffle...</i> Hey, yeah, you're right!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "ALL RIIIGHT!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm gonna train harder than EVEEERRR!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And then I'll get to the race of my\ndreams and\ninspire EVERYONE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Uh, Ticket, maybe keep your voice down\na little.\nEveryone is looking at us.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Wow, that's loud... Is she performing?",
+            "name": "Bystander"
+        },
+        {
+            "text": "Huh? Oh, right, we're in the cafeteria.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoops! Um, sorry about the noise!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Applause echoes through the cafeteria.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What? They're clapping? What did I do?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hehe, thank you, thank you! I'm gonna\ndo a great\njob today!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Trainer! Watch me real close today!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sigh...</i> What a show.",
+            "name": "Taishin and Hayahide"
+        }
+    ]
+}

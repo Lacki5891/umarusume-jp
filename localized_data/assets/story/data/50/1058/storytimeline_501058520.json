@@ -1,0 +1,184 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I drop by the library to look for some\nmaterials,\nonly to find Мэйсё Дото with\na friend."
+        },
+        {
+            "text": "Do I have any hope for salvation?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Well... The divine messages of the great\nShiraoki\nare absolute! No result can be\nundone!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You look quite concerned there."
+            ]
+        },
+        {
+            "text": "Eep, T-Trainer! Well, you see,\nFukukitaru is\nreading fortunes right now..",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh my! It appears that a fan from abroad\nhas\nconcerns about pursuing the path of\nan artist.\nThey've come seeking advice!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Unfortunately, Shiraoki has brought me\na\nwarning. That same path comes with\ngreat\ndifficulty—failure is very much a\npossibility!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh no... that's quite harsh...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "However... I trust the results of this\ndivination will\nilluminate a path!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Please, translate this for me! It's due\ntime to put\nyour language skills to work!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Would it be p-possible to ask someone\nelse to\ndo the translation instead?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm not sure how best to put it... I don't\nwant to\nhurt their feelings in any way.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I think you should be honest with them."
+            ]
+        },
+        {
+            "text": "I agree with this sentiment! Should you\nbe\nwishy-washy, it could invite unwanted\nmisfortune!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You t-two are right. I'm so, so very sorry\nfor\ncasting doubt on your\nfortune-telling... Uugh...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "O-okay, I'll do the translation! Be\nhonest... be\nhonest!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ah, well... maybe I... No, but...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Is something wrong?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Nngh... If this is p-possible, and only if...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I w-would like to include this proverb...\nor maybe\nnot...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото has written down a phrase\nin\nEnglish..."
+        },
+        {
+            "text": "\"Every failure is a stepping stone to\nsuccess.\""
+        },
+        {
+            "text": "How do you say that—<i>fail... fail...ure?</i>\nWhat could\nthis possibly mean?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Well, translated back into Japanese, it\nmeans,\n\"Failure is where success begins.\"",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And, if I follow it up with, \"I'm cheering\nyou on in\nall of your endeavors,\" then\nmaybe...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "That would give them a lot of courage."
+            ]
+        },
+        {
+            "text": "Y-yes! My parents would tell me this\nwhenever I\nfelt down because of my own\nfailures.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Even now, I recite it in my head, in\nhopes that just\nmaybe all my many\nfailures will lead me to\nsomething great!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh, b-but you don't have to include it! I\nwouldn't\nwant the fortune-telling to get\nmessed up\nb-b-because of my\nsuggestion!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Quite the contrary! I sense a lot of lucky\npower\nemanating from these words. We\nshall include\nthat English line!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Are you s-sure? I'm actually starting to\nthink it...\nsounds kind of preachy.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Let's tell it to them straight!",
+                "Maybe we should soften the wording a little..."
+            ]
+        },
+        {
+            "text": "Well, if that's what you think, Trainer...\nth-then,\nI'll go ahead with it.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "All right, let's send our response\nstraightaway!\nHehe, the great Shiraoki is\ngoing international! ♪",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Look, they replied! Give us the\ntranslation!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um, let's see... \"Thank you. I'll take on\nthe\nchallenge without worrying about\nfailure!\"",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Whoa! Looks like the proverb really\npacks a lot of\npower!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It r-really does!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Y-you're right on that... Um, what would\nthat look\nlike?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "What about expanding on the\nexplanation? We\ncould introduce a\ndivine message from Shiraoki!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That... could work. Also, it might be\ngood to add\na preface, or... annotations!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "All these new additions result in a\ndecently sized\nstack of papers rivaling\nthe length of a short\nstory."
+        },
+        {
+            "text": "D-do you think they'll read all of this?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "If they do, I can't imagine they would\nunderstand\nthe primary message of the\nfortune...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh, no, no! I have to try and fix it up!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото looks happy to see the\nrequester\nrespond so positively."
+        },
+        {
+            "text": "With a couple more tweaks, Meisho\nDoto whittles\nit down to a perfectly\nunderstandable paragraph."
+        }
+    ]
+}

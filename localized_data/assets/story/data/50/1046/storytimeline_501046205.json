@@ -1,0 +1,78 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the February Stakes, the first of\nthe\nraces Смарт Фалкон declared she'd\nwin. A sense of\nexcitement fills the air at\nTokyo Racecourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I wonder how Смарт Фалкон's gonna do.\nWhat if\nshe stumbles right off the bat?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Hm... She was pretty good last year, but\nI\nwouldn't say she's the best.",
+            "name": "Fan B"
+        },
+        {
+            "text": "You know, I think this is my first time\nwatching a\ndirt race. I'm actually getting\npretty hyped up.",
+            "name": "Fan A"
+        },
+        {
+            "text": "Смарт Фалкон can feel the energy of the\nvenue\neven from the waiting room.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I wonder how high we can go?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Well, Tokyo Racecourse is also home to\nthe\nJapanese Derby, right?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The Japanese Derby is a high-profile turf\nrace\nexclusive to classic-year racers,\nmany of whom\nstake their dreams on it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The Derby is on the same level as the\nArima\nKinen... or bigger, even.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I was just wondering how close we can\nget to that.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "It's a high hurdle, for sure."
+            ]
+        },
+        {
+            "text": "Yeah, the Derby is a super special\nrace—I know\nthat! No matter how hard I\nchase it, I can't get\nthere right now.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Still, we're getting plenty of attention!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "If I can place first today, the next race\nwill get\njust a little more special!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "And you'll have to keep on winning."
+            ]
+        },
+        {
+            "text": "I know. We won't have a story if I go\nlosing right\nat the start.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I have to win and become the trending\ntopic. That\nway, I'll be all smiles on the\nyear-end stage!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...All right! Time to kick things off on the\nright\nfoot!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

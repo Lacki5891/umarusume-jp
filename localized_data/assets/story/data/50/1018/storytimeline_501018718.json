@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After her day off, Эйр Грув comes by\nmy office.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How was your day off?"
+            ]
+        },
+        {
+            "text": "What will that knowledge gain you?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We have a mountain of other things to\nget to,\nand there's precious little time to\nwaste.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...But if you must know, I had a very\ntypical day\noff. There was nothing\nparticularly special about\nit.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I took full advantage of it and am very\nsatisfied. \nThat's all. Happy?",
+            "name": "Эйр Грув"
+        }
+    ]
+}

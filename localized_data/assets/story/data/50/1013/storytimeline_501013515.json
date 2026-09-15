@@ -1,0 +1,180 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро МакКуин has invited me to a tea\nparty at\nthe Mejiro family home today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, there you are, Trainer! ...Wait a\nmoment.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I said you could wear your normal\nclothes. Don't\nyou have trouble\nbreathing in that restrictive\nsuit?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I mean, this is a tea party with the renowned\nMejiro family, so..."
+            ]
+        },
+        {
+            "text": "I see... What you're saying is that you're\nnervous.\nIn other words, this is an\nopportunity for me to\nexhibit my skills.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Don't worry, Trainer. Simply follow my\nlead.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Thus, the tea party begins, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, the next step is to use your knife\nto spread\nsome jam and clotted cream\nonto your scone.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "...L-like this?"
+            ]
+        },
+        {
+            "text": "Hehe... The jam and cream are\nglistening! They\nlook delicious...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Gah! N-now, take a bite.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Quickly, now, before my stomach takes\ncharge.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You're not gonna eat any?"
+            ]
+        },
+        {
+            "text": "I still have an important duty to fulfill!\nSo, I must\nrefrain...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Excuse me, miss. Is now an okay time?",
+            "name": "Mejiro Household Staff"
+        },
+        {
+            "text": "Oh my, it's been a while, hasn't it? Yes,\nby all\nmeans, allow me to introduce you\nto my trainer.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Trainer, state your name as you shake\nhands. There is\nnothing more important\nto good manners than a proper\ngreeting.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "O-okay!"
+            ]
+        },
+        {
+            "text": "With Мэдзиро МакКуин's support, I follow\nthe\nproper manners in exchanging\nintroductions with\nthe staff member.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Phew...</i> You managed to do it correctly.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Thanks for the help."
+            ]
+        },
+        {
+            "text": "There's no need to thank me. It was no\ntrouble.\nYou and I are a team, after all.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...You're unusually silent, Trainer. Is\nsomething\nthe matter?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I was just thinking about how cool you are.",
+                "I was just thinking that I'd better up my game to\nbe fit to stand by your side."
+            ]
+        },
+        {
+            "text": "Wha?! C-c...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Uh, I mean, of course. I am a proud\nMejiro, after\nall.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "But... \"cool,\" you say? You really think\nso?\nHehehe...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I suppose I must do my best and show\nyou just\nhow <i>cool</i> I really am.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Umm... I suppose there was nothing to\nworry\nabout, but... I probably should\nannounce my\npresence, eh?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "R-Ryan?! How long have you been\nstanding\nthere?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Well... I caught that whole \"show you\nhow cool I\nreally am\" bit, if that's what\nyou mean.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ahaha... You really laid it on thick there.\nSheesh...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Y-you have it all wrong! Please don't\ntake that\nremark as me being arrogant! I\nj-just got a little\ncarried away!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hehe... I say you're good enough just the\nway you\nare. Although, I would expect\nsuch a notion from\nmy trainer all the\nsame.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I, as well, ought to respond in kind to\nthat spirit\nof yours.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Allow me to instruct you on a variety of\ntopics,\nfrom the proper way to drink tea\nto making polite\nintroductions.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Today, <i>I</i> shall be the trainer!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ooh, you're in a good mood, McQueen.\nGuess I\ndidn't need to worry after all.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan! Yes, I am giving my trainer my full\nsupport.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Uhuh, good job, good job. ♪ I'd like to\nhave a\nlittle chat with your trainer too, in\nthat case.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh? Well, by all means.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The intensive training shall begin at\nonce!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин maintains as much\n\"coolness\" as\nshe can muster as she\nsupports me through our\ntea party.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, Мэдзиро МакКуин continues to\nteach\nme etiquette as we enjoy our tea\nparty.",
+            "name": "Монолог"
+        }
+    ]
+}

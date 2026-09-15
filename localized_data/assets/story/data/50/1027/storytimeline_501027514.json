@@ -1,0 +1,208 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While walking down the hallway, I catch\na glimpse\nof Мэдзиро Райан deep in\nthought.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... I wonder if anyone would come\nwith me...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Hey, what's up?"
+            ]
+        },
+        {
+            "text": "Oh, hey, Trainer!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I was gonna go to the aquarium this\nweekend, but\nmy friend can't make it\nanymore.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The tickets I got are about to expire\ntoo, so I'm\ntrying to figure out what to\ndo.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, wait a sec. Are you free this\nweekend?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Do you wanna go to the aquarium with\nme?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Wooow... It's such a magical place!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "All those colorful fish—it's like an\nunderwater\nfield of flowers!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, and did you know? Aquariums are\nthe new\nhot spot to go.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Is that so?"
+            ]
+        },
+        {
+            "text": "Yeah, because every aquarium has their\nown\nunique thing.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "One might have a huge variety of\njellyfish, and\nanother one might let you\ntouch the dolphins.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It looks like <i>this</i> aquarium has a lot of\nstrange and\nrare animals.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "See, it's even written on the signs. \"A\nCollection\nof Mysterious Creatures!\nWildly Exciting!\"",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I wonder what they've got! Let's go and\nsee!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "There's beautiful fish, weird-looking\nfish... The\nvariety here really is amazing!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "What else do they got... Hmmm...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Did you find a strange one?"
+            ]
+        },
+        {
+            "text": "N-no, it's not that. But when I look\naround...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "D-doesn't it seem like there are only...\nc-couples\nin here?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "True to her word, there are many young\ncouples\naround us enjoying the\naquarium.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I guess aquariums really are hot spots."
+            ]
+        },
+        {
+            "text": "Aw, geez. I didn't even think about that,\nbut I\nguess it makes sense.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Whoa, those two are really getting\nclose...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I gotta stop starin'! I came here to look\nat the fish!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...Wow. That couple's walking with their\narms\naround each other.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Wanna get a cold drink?",
+                "Let's focus on what's happening in the water."
+            ]
+        },
+        {
+            "text": "Y-yeah! Nothing hits the spot better\nthan a nice\nsports drink!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "<i>Gulp, gulp...</i> Ahhh!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Phew... That settled me down. Seeing all\nthose\ncouples caught me off guard.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Are you tired from walking? Let's take a\nbreak.",
+            "name": "One Half of a Couple"
+        },
+        {
+            "text": "Okay... Mind if I lean against you?",
+            "name": "Other Half of a Couple"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "T-Trainer! I'm all good now, so let's get\noutta\nhere!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Phew... I don't know why, but I'm feeling\npretty\nbeat.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Is this what the \"wildly exciting\" part of\nthat sign\nwas about?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Y-yeah! I'll focus my attention on the\nwater and\nsee what's up inside the tank...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Yikes!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Oh, it's n-nothing! Nothing at all!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Our eyes just met in the reflection of the\nglass...\nand it was like...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It was just like that one scene in volume\nsix of\n<i>Marine Lover!</i>",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Their eyes meet in the reflection... and\nthat's\nwhen they first realize how the\nother feels.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, sorry. I'm getting all distracted. I\nshould focus\non the fish!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan glances back into the tank.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What in the—I keep locking eyes with\nyou!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Is this what that sign meant by \"wildly\nexciting\"?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I enjoy my time at the aquarium with\nМэдзиро Райан,\nwho has no trouble getting\nexcited all on her own.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I don't think that was what they meant,\nbut\nnevertheless, I enjoy my time at the\naquarium\nwith Мэдзиро Райан.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Satsuki Sho is over, and the\nJapanese Derby\nis fast approaching\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What is this? A \"BNW Special Feature\"?\nWhat\ndoes BNW mean?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Isn't it self-explanatory?"
+            ]
+        },
+        {
+            "text": "Oh, I get it. It must stand for \"Biwa\nHayahide,\"\n\"Нарита Таисин,\" and\n\"Уиннинг Тикит.\"",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Pfft. Talk about unimaginative.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин acts unimpressed, but it's\neasy to\nsee the joy in her expression.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Public opinion has completely changed\nfollowing\nНарита Таисин's impressive run\nin the Satsuki Sho.\nThe era of the \"top\ntwo\" has ended, and all focus\nis now on\nthe BNW trio!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's throw everything we've got at the\nJapanese Derby!"
+            ]
+        },
+        {
+            "text": "Sure.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Can we end the meeting now? Cool, I'm\ngonna\nget going.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "See you, Taishi—"
+            ]
+        },
+        {
+            "text": "TAISHIIIIIN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Gah?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You again! Learn to dial down that\ndefeaning\nvoice of yours!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Sorry! But I really...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Reeeaaally</i> wanna have a scrimmage with\nyou!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Уиннинг Тикит's unstoppable\nenthusiasm\npractically teleports us to\nthe racecourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I had wanted Нарита Таисин to take it\neasy since\nshe was done training for the\nday, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Stop worrying so much. It's just a\nscrimmage. I've\ngot enough energy left\nfor one more.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Anyway...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "Ticket might be the biggest dum-dum in\nthe\nworld...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But the way she puts her heart and soul\ninto the\nDerby is the real deal.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Don't you think it'd be worthwhile to see\nwhat she\ncan do?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin! I'm ready—let's gooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah, yeah.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'll be back.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Ka-chak!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The scrimmage between Нарита Таисин\nand\nУиннинг Тикит begins!",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a 2,400-meter run on turf, the same\nas the\nJapanese Derby. Уиннинг Тикит\nis pushing hard\nfrom the get-go.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seems to be on the offensive as she\nraces\ndown the track.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Raaaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Once they enter the final straight,\nУиннинг Тикит\nreleases a fearsome burst\nof speed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're not gonna get the better of me!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин's just as unrelenting. Her\nlast sprint\nis as amazing as ever—or\nrather, it's gotten more\nfierce since the\nSatsuki Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yaaahhh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "In the last 200 meters, Нарита Таисин\nmanages to\npush her nose ahead of\nУиннинг Тикит for a\nmoment, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Derby! Derby, Derby, <i>Deeerrrbyyy!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I won't let you take the Derby crown\naway from\nmeee!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Agh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The dust clears...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Уиннинг Тикит manages to claw back\nthe lead\nand win the scrimmage by a\nnose.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... puff... huff...</i>",
+            "name": "The Two"
+        },
+        {
+            "text": "<i>Wheeze... Huff...</i> Phew! Thank you,\nTaishiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sigh.</i> Who thanks their opponent after\nroyally\nthrashing them? Way to tick me\noff.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yeah... I managed to win today, but you\nknow\nwhat?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I was only able to do it because I saw\nyou race at\nthe Satsuki Sho.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You really are amazing, Taishin! You're\n\nsuper-duper strong! But that's why I\ngotta get\nstrong too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I need to become strong enough to beat\nyou if I\nwanna fulfill my dream and\nbecome a Derby\nchampion!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "When I train, all I think about is beating\n\nyou—about winning no matter what!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hmph. Then you must be happy with\nyour win\ntoday.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Not at <i>all!</i> This wasn't the real Derby,\nand I only\nbarely won.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Besides! You're totally gonna get even\nfaster by\nthe time the Derby comes\naround!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "No duh.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Raaaaah! That's why I gotta, gotta, <i>gotta</i>\ntrain\nmore too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Later, Taishiiiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "How can she still run like that? Where\ndoes she\nkeep all that energy?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey, you were watching, right? You saw\nhow fast\nTicket was?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Good. I'll see you at tomorrow's meeting.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We've gotta come up with a training\nregimen to\ndefeat her!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Right!"
+            ]
+        },
+        {
+            "text": "To challenge and be challenged—they\npush each\nother further ahead. Having a\nrival who so\nearnestly pursues her dream\nis a great influence\non Taishin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "At least, that's what I thought.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Raaaaah! Deeerbyyyyy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Just a dream, huh...",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

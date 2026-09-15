@@ -1,0 +1,79 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The spring Tenno Sho is here. It's a\ncrucial race\nfor Мэдзиро Райан to display\nher true prowess.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's also the race long coveted by her\ndear friend,\nМэдзиро МакКуин.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm done with my warm-ups. It's just\nabout time to\nhead to the paddock.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The moment has come, Trainer.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You seem relaxed."
+            ]
+        },
+        {
+            "text": "Yeah. Together, we've done everything\npossible\nto prepare for today.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But McQueen is staking everything on\nthese\n3,200 meters...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It's going to be a tough fight.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Now that you mention it, I haven't seen her\naround."
+            ]
+        },
+        {
+            "text": "She probably won't say hi today. She\ndidn't call\nme up yesterday either.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm gonna go greet everyone at the\npaddock real\nquick and—",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "McQueen...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hello, Ryan.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Here's to a good race today.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm going to use all my might out there\nand win,\nfair and square.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My top priority is to fulfill my long-held\ndream.\nHowever...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I also want to win against my respectable\nrival.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "There's barely any difference in status\nleft\nbetween them.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is Ryan's first senior-year G1 race\nagainst\nМэдзиро МакКуин. Regardless of\nwho wins, it'll be\na spectacular race.",
+            "name": "Монолог"
+        }
+    ]
+}

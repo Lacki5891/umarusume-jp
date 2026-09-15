@@ -1,0 +1,83 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm at the cafeteria deciding on what to\neat\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I was not expecting this...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I notice Эйсин Флэш staring at all the\ndishes on\ndisplay with a furrowed brow.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "The dish I am partial to here was\nsuddenly\nremoved from the menu today\ndue to supply\nissues...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This has disrupted my planned food\nintake and\nhas left me at a loss for what\nto do.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Formulating a new menu plan now would\ncarry a\nhigh risk of introducing extended\ndelays to the\nrest of my scheduled\nactivities...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why not take this chance to try something new?",
+                "Guess you'll have to think of something quickly."
+            ]
+        },
+        {
+            "text": "Formulating a new menu plan now would\ncarry a\nhigh risk of introducing extended\ndelays to the\nrest of my scheduled\nactivities...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why not take this chance to try something new?",
+                "Guess you'll have to think of something quickly."
+            ]
+        },
+        {
+            "text": "Perhaps you are correct. I shall use this\n\nopportunity to expand the breadth of\nmy food\nselection here.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That way, I will be able to create a\nsub-plan to\ndeal with unexpected\noccurrences like what\nhappened today.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You might discover something unexpectedly\ndelicious too."
+            ]
+        },
+        {
+            "text": "Indeed. If that is the case, perhaps this\nchange of\nplans will be quite beneficial.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Danke schön for your help.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It is as you say. All that remains is for me\nto\nperform a swift reworking of my plan.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will check my planned nutritional\nintake for\ntoday and compare it to the\nmenu items that are\ncurrently displayed.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Danke schön for your help.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After thanking me, Эйсин Флэш returns\nto\nchoosing a dish to eat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After thanking me, Эйсин Флэш returns\nto\nchoosing a dish to eat.",
+            "name": "Монолог"
+        }
+    ]
+}

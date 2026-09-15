@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Inhale... exhale...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The G2 Kinko Sho is upon us, and\nСайленс Судзука\nis the calmest she's ever\nbeen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Winning this race is my ticket to\ncompeting in\neven faster ones.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "How are you feeling?"
+            ]
+        },
+        {
+            "text": "I can hardly contain my excitement.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "All I can think about is how far I'll be\nable to go in\nthis race today.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And on top of that...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I have a feeling I'm going to see\nsomething\nspecial this time.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Get to the front and take it all in!"
+            ]
+        },
+        {
+            "text": "I will!",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

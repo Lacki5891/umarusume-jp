@@ -1,0 +1,66 @@
+{
+    "windows": {
+        "bundle_name": "HOYKQDHHRJOMOZRXUBSW2GXJGTYEQ6NF"
+    },
+    "android": {
+        "bundle_name": "LDH5CWCWZ5DRG7LXD4PYI5LEEFEQLDUX"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "text": "ФИНИШ"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "<size=19>ход(ов)\nосталось</size>",
+                        "position_offset": {
+                            "x": -9,
+                            "y": 0,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "8": {
+                "text_param_list": {
+                    "0": {
+                        "text": ""
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "ФИНИШ"
+                    }
+                }
+            },
+            "14": {
+                "text_param_list": {
+                    "0": {
+                        "text": "<size=18>Кубок Единства начнется\nв конце хода</size>"
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "<size=21>ход(ов)</size>"
+                    }
+                }
+            },
+            "18": {
+                "text_param_list": {
+                    "0": {
+                        "text": "До Кубка Единства"
+                    }
+                }
+            }
+        }
+    }
+}

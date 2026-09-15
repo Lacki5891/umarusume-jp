@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after a round of training with\nMejiro\nRyan...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah! I can hear them!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Hm? Hear who?"
+            ]
+        },
+        {
+            "text": "My pecs, my traps, my quads... I can\nhear all my\nmuscles yelling out!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "They want more... They want to keep\nthis burn\ngoing even longer!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ooh yeah, I'm feeling the <i>real</i> burn now!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...I'm not sure what's happening, but it\nsounds like\nМэдзиро Райан wants to\ncontinue training.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's get ripped!",
+                "Maybe they're screaming for a break..."
+            ]
+        },
+        {
+            "text": "Woo! Here we go!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm gonna turn that screaming... into an\norchestra\nof muscular perfection!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh... You're right, I didn't even think\nabout it that\nway!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Sorry, guess I need to listen to my\nmuscles more.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hey, little buddies! Can you hear me?\nThat's all\nfor today!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан, the muscle conductor,\nworks up a\nnice sweat with some extra\ntraining.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро Райан is talking to her muscles.\nAfter some\ndiscussion, they decide to\ntake a break.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Whooosh...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have finally arrived upon the doorstep\nof ruin, O\nDestiny.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "As the fated moment approaches, my\nright hand\ntrembles with the influence of\ndark forces beyond\nhuman ken...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "After completing the Arima Kinen, we\nreturn to\nthe academy with the fourth\nclue.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you know where to go?"
+            ]
+        },
+        {
+            "text": "But of course... If the divine truly exists\nin this\nworld, there is no place more\nfitting.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "There can be no doubt in my mind, for\nit's the\nplace where I myself truly\nbelong.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Are you ready? Then let us be off...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...to the land of our demise.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...This is it.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Where the freshest seafood gets put on\ndisplay!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Behold, the mock marine playground,\nknown to\nthe masses as the aquarium!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Before the Arima Kinen, we received\nclues that\nsaid \"UM,\" \"QUA,\" and \"RI.\"",
+            "name": "Монолог",
+            "choice_data_list": [
+                "And for the final clue, we received \"A\"!"
+            ]
+        },
+        {
+            "text": "You got it! All you need to do is shuffle\nthese\npapers around, and you get the\nword\n\"AQUARIUM\"!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Talk about the answer being right under\nmy\nnose... To think that the entrance to\nEden was\nhere all along!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now then, where oh where is it hiding?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "This way?! That way?! Or could it be\nover <i>there?!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Huff... Huff... Huff...</i> The heck is going\non?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I've combed this place top to bottom,\nbut all I\nsee are displays of\npre-unprepared seafood!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I can't even find a whiff of Eden's front\ndoor!\nSomebody's got some explaining\nto do!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ha ha ha ha!",
+            "name": "???"
+        },
+        {
+            "text": "What? That voice!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Bravo! You've done well to follow the\nEden\nProtocol and successfully reach\nthis point!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "Most impressive! And you did\nwonderfully as well,\nTrainer! Your\nsupport during the whole process\nwas\nexemplary!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "The Don?! What is the head of Tracen\nAcademy\ndoing here?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "H-hang on. Trainer, did you have any\nidea about\nthis?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Well... maybe an inkling."
+            ]
+        },
+        {
+            "text": "I've long suspected the unique voice we\nheard at\nthe races was Director\nAkikawa's, and now I\nfinally have\nconfirmation of it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You knew all this time and you never\nsaid\nanything to me?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Wait... Then what the heck even is\nEden?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Listen well! I shall make it all clear as\nday!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "Директор Акикава explains the origins of\nthis\nentire scheme.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She had taken note of Голд Шип's wild\nyet\npowerful passion, and hoped to\nfocus it on the\nTwinkle Series by making\nthe experience more\nexciting.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thus she created the Eden Protocol, a\nplan to\nkeep Голд Шипп motivated using\nchapters and\nclues from a mysterious\n\"Book of Secrets.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "In conclusion! The true Eden you sought\nwas the\nutopia forged by Umamusume in\nthe Twinkle\nSeries itself!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "Therefore, you have already arrived!\n\nCongratulations!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "Oh, c'mon! Talk about anticlimactic!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Buuut... I've got to admit you put on a\ngood show.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The Book of Secrets and clues, I get. But\nhow the\nheck did you infiltrate my\ndreams?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "I'm curious about that too."
+            ]
+        },
+        {
+            "text": "Your dreams? What do you mean?",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "C'mon. It was you who spoke to me in\nmy dreams,\nright?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You know, the whole, \"Ship of gold,\nresting\nbeneath the waves...\"",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "\"Uncharted territory lies just before\nyou... Now is\nthe time to unleash your\ntrue potential...\" Stuff\nlike that.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So how'd you do it? Was it cutting-edge\n\ntechnology? Or some mind-bendy\ntelekinesis?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ngggh?!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "N-nonsense! That phenomenon is\nbeyond my\nknowledge!",
+            "name": "Директор Акикава",
+            "choice_data_list": [
+                "Really?"
+            ]
+        },
+        {
+            "text": "Believe me! I have no involvement\nwhatsoever in\nthose dreams!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "...For realsies?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Dang, this is like one of those fantasy\nstories\nwhere a divine being awakens in\nsomeone!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Or maybe it's more like those thrillers\nwhere the\nmain character discovers they\nhave a second\nhidden personality!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thus concludes Голд Шип's Twinkle\nSeries,\nthough the situation is still\ncompletely shrouded\nin mystery!",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Ship of gold, resting beneath the\nwaves...\"",
+            "name": "???"
+        },
+        {
+            "text": "\"Welcome to these pristine lands, yet\nunmarred\nby any other...\"",
+            "name": "???"
+        },
+        {
+            "text": "\"However, your journey does not end\nhere... Set\nyour sights on the brilliant\nfuture...\"",
+            "name": "???"
+        },
+        {
+            "text": "\"Go forth upon the golden path, which\nshall lead\nyou far, far to the distant\nhorizon...\"",
+            "name": "???"
+        },
+        {
+            "text": "Голд Шип: The Ultimate Unsinkable\nBattleship\n(End)",
+            "name": "Монолог"
+        }
+    ]
+}

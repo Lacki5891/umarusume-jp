@@ -1,0 +1,235 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After training, I return to my office\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oye! Get down from that tree! If\nsomebody sees\nya—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "El, is that bird stalking you again?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Qué?! F-Flash?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Wait... She's being stalked by a <i>bird?</i>"
+            ]
+        },
+        {
+            "text": "Well, I've noticed that bird is often\naround El,\nand from what I've heard...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Haha! Wow, it's so weird, right? After\nall, why\nwould a condor take a likin' to\nlil ol' <i>me?</i>",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But people'll get scared if they see it\nhangin'\naround, so go on, you! Hurry\nback to the dor—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Uh, I mean... G-get back to the forest!\nI've tried\nto get it to go a million times,\nbut...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "But it won't listen to you, I presume?"
+            ]
+        },
+        {
+            "text": "I understand the situation now. I have an\nidea.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш approaches the tree where\nthe bird is\nperched.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hear me, nameless bird. This is not your\nhome.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There is no hope of food, and those here\nwill try\nto drive you away... You will find\nonly hardship\nhere.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "We do not wish for you to suffer such a\nfate.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "As if moved to the core by Eishin's\nwords, the bird\nlets out a\nheart-wrenching cry.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I knew you would agree. Now, go... Fly\nto where\nyou will be truly safe!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Flap, flap, flap!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whaaa?! It's flown off to its nest! I'd\nyelled and\nyelled, but it wouldn't even\nbudge for me!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "That was a very convincing speech."
+            ]
+        },
+        {
+            "text": "Thank you. My parents taught me that\nall animals\nhave a heart.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "They said it is better to reason with them\nthan to\nscold them. Besides...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I had the feeling it would be easy to\nconvey my\nthoughts to that bird, and\nthat it would listen to\nwhat I said.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oooh! You sound like you know a lot\nabout how\nto get your feelings across to\nothers!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Flash, you gotta teach me your secrets! I\nnever\nknow when I'll run into Ma—er, my\nfeathered\nadmirer again, after all!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Sure. I wouldn't mind that, but I'm not\nsure I can\nexplain how I do it.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why not let her observe you for a day?",
+                "Why not give her some pointers?"
+            ]
+        },
+        {
+            "text": "Very well. I shall add you to tomorrow's\nschedule.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Good morning. Allow me to go over\ntoday's\nagenda with you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "We arrive at the track in five minutes\nand ten\nseconds. After twenty minutes\nand fifty seconds\nof warm-ups, there\nshould be a headwind just as\nwe start\nrunning laps.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thus, it will be possible to duplicate\nfinal straight\nconditions in which there\nwill be no shelter from\nthe wind.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You've not only planned everything\ndown to the\nsecond but even thought\nabout weather\npatterns?! Talk 'bout\nbein' precise!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That concludes our run. Let's relocate to\nthe\ngymnasium in five minutes and\nperform pull-ups\non the power rack for\ntwenty-three minutes.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wh-whoa... How're you still so full of\nenergy after\nall that sprintin'?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Qué?! Are ya really eatin' natto?! That's\nan\nexchange student's worst nightmare!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Lunch is fuel for the afternoon's\nactivities.\nConsuming ample nutrition is a\n<i>must.</i> No\nexceptions.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эль Кондор Паса continues watching\nEishin Flash\nfor the rest of the day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... And with the power rack\nfinished... that\nconcludes today's\ntraining.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I can't believe this is what a day in your\nlife is like!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "How was it?"
+            ]
+        },
+        {
+            "text": "Everything was so awesome! The way she\n\nschedules, her trainin' regimen, her\nnutrition\nmanagement... It all leaves me\nspeechless!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But I bet Mambo was real impressed by\nhow stoic\nand perfect you are, which is\nwhy he listened to\nya!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Who's Mambo?"
+            ]
+        },
+        {
+            "text": "Urk! Uh, um... Yeah, who <i>is</i> Mambo?\nHaha! What\neven is a \"mambo,\" am I\nright? Ahaha!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hm... I think I have one, then.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I believe that you need to convey your\nfeelings\nwith love.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "L-love?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "In order to have an earnest conversation\nwith\nanother, you must face the other\nparty as an\nequal.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It's necessary to value and respect your\npartner,\nand to talk <i>with</i> them rather\nthan <i>at</i> them.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And when it comes to respecting and\nvaluing your\nspeaking partner, you must\nhave—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Love!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Thinkin' 'bout it, all I ever did was tell\nhim \"no\"\nand never tried to listen to\nwhat he had to say...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, I'll give bein' more lovin' a try\nso I can\nkeep Mambo happy an' healthy!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Who's Mambo?"
+            ]
+        },
+        {
+            "text": "Agh! Uhhh! Um, um!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Y'know, like m-mambo dancin'! I'm\ngonna try to\nreason with that condor\nwith as much love an'\npassion as a\nmambo dance!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A wonderful mindset. I wish you the best\nof luck\nopening a line of communication\nwith that bird.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It seems Эль Кондор Паса learned quite a\nfew\nthings today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems Эль Кондор Паса learned quite a\nfew\nthings today.",
+            "name": "Монолог"
+        }
+    ]
+}

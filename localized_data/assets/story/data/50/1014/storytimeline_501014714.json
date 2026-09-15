@@ -1,0 +1,109 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эль Кондор Паса gets injured during\ntraining, so I\nbring her to the infirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "An injury like this is nothing to the\nworld's\nstrongest racer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "There's no need for your concern! Your\ntime is\nbetter spent preparing for my\ninevitable return to\nracing!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Yeah... I'm not going anywhere."
+            ]
+        },
+        {
+            "text": "B-but Trainer! I said I'm all right!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You should head back to your offi—Ack!\nOuchie.",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You're overdoing it, aren't you?"
+            ]
+        },
+        {
+            "text": "Uhhh... well...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I think I just got a little careless...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "No, that was my fault.",
+                "True. You weren't fired up enough."
+            ]
+        },
+        {
+            "text": "I think I just got a little careless...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "No, that was my fault.",
+                "True. You weren't fired up enough."
+            ]
+        },
+        {
+            "text": "No way! It's my fault!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm just weak... I'm... I'm...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Aaaugh! I want to get even stronger! I\n<i>need</i> to!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's focus on healing up first."
+            ]
+        },
+        {
+            "text": "Entiendo! Sorry for all the trouble!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yes... reflection,\nintrospection—soul-searching...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My papa's gonna be so angry about\nthis...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Just be more careful from now on."
+            ]
+        },
+        {
+            "text": "Not... fired up enough?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Grrr! Me?! Not fired up?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Di que no es verdad! Say it ain't so!\nThat's not me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Okay! I'm fired up, Trainer! You can\ncount on me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Got it! I'll be hella careful during\ntraining from\nnow on...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "With that declaration, she recovers from\nher\ninjury in a few days and performs\nbetter in\ntraining than ever before.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After some much needed rest, El Condor\nPasa is\nfully recovered and overflowing\nwith\ndetermination.",
+            "name": "Монолог"
+        }
+    ]
+}

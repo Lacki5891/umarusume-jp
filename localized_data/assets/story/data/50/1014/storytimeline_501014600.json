@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The mighty crimson Phantom Bird\nswoops onto\nthe track! It's the one, the\nonly, El Condor\nPasaaa!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ooh, I'm just itchin' to do some running!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You look like you're in a good mood today!"
+            ]
+        },
+        {
+            "text": "Sí! I'm feeling <i>great!</i> Fired up! Scorchin'!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I don't care who I'm up against, there's\nno chance\nI'm losin'!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса is here to dominate the\nrace\ntodayyy!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp is over before we know it,\nand\nМэдзиро Райан remains inexperienced\nin... <i>certain</i>\nareas.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well... I had absolutely <i>zero</i> romantic\nencounters\nthis summer.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I did great in the watermelon splitting\ncontest,\nand I helped carry the mikoshi\nshrine at the\nsummer festival, but that\nwas about it.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Don't worry, Ryan."
+            ]
+        },
+        {
+            "text": "I can't help but worry!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hm, maybe it's for the best. With the\nArima Kinen\ncoming up, training has to\nbe my top priority.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "This will be fine. When it comes to love,\nI'll need\nmore confidence than in racing\nbefore I'll find it.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Someday, when my heart's stronger, I'll\nbe able to\ntell someone that I like\nthem...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That's the kind of love I'm aiming for.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...Hehe. ♪",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "That giggle kind of ruined the moment."
+            ]
+        },
+        {
+            "text": "Geez, you don't gotta point that out!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The bus is leaving soon for Tracen\nAcademy,\nwhere Ryan's rivals await.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer, did you hear the news?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "They say this year's Arima Kinen will be\nOguri's\nlast race in the Twinkle Series.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "I didn't know that..."
+            ]
+        },
+        {
+            "text": "There comes a time when everything\nmust end,\neven for a superstar racer like\nOguri Cap.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That means the next time out will be\nRyan's last\nchance to race her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The Arima Kinen is gonna be all about\nOguri now.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "She'll show up determined to win. If I\ncan't beat\nher there, then my dream's as\ngood as gone...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "A colossal trial now awaits her at the\nend. We'll\nhave to do something special\nto prepare for this\nwinter.",
+            "name": "Монолог"
+        }
+    ]
+}

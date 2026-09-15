@@ -1,0 +1,131 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I join Голд Шипп on our first shrine visit of\nthe new\nyear.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Dang it! Why?! Say it ain't sooo!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "For some reason, Голд Шипп gets upset\nabout\nsomething the second we step\nonto the grounds.",
+            "name": "Монолог"
+        },
+        {
+            "text": "How can this be? It's only been a year,\nand yet!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What are you talking about?"
+            ]
+        },
+        {
+            "text": "Yakisoba, of course! What else would I\nbe talking\nabout?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "...You're going to have to elaborate."
+            ]
+        },
+        {
+            "text": "Every year at this time, a bunch of food\nstands\npop up at shrines and stuff, and\nthere's always\nbeen a yakisoba stall!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But look! I don't see a single yakisoba\nstand\naround this year!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Why?! Did yakisoba do something\nwrong?! Did\nit?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "B-beats me..."
+            ]
+        },
+        {
+            "text": "I don't know what goes into setting up\nthe food\nstands, but it's probably just a\ncoincidence that\nno yakisoba stalls are\nset up this year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Curses upon curses! How dare they treat\nyakisoba\nwith such disrespect!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Looks like I have to take things into my\nown\nhands!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I've made up my mind! This year, I'm\nappointing\nmyself as the Umamusume\nambassador of\nyakisoba!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'll spread the word and educate the\nwhole world\nabout what makes yakisoba\nso great...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And I won't stop until yakisoba retakes\nits rightful\nplace as the world's best junk\nfood!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And you'll be right behind me, of course!\nSo,\nwhat's our first strategy?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I doubt there's really a right answer in\nthis\nsituation, but I try to answer\ngenuinely.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We must deepen our understanding of its\ndeliciousness.",
+                "We have to learn the art of making yakisoba.",
+                "We have to brainstorm new recipes."
+            ]
+        },
+        {
+            "text": "Deepen our understanding, you say?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yes, it is imperative that I am the world's\nnumber\none connoisseur of yakisoba...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Otherwise, how else can I get others to\n\nunderstand its rich appeal?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yakisoba... art?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now I see! The problem with the world\nof\nyakisoba is its lack of flash and\nartistry!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Just think of the headlines if I\nmiraculously\nwhipped out a plate of\nyakisoba from thin air!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "New recipes?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You're absolutely right... Regular ol'\nyakisoba\ncan't take the world by storm!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Luckily, we live in a era of unrestricted\n\nself-expression. I'm free to make\nyakisoba into a\ndessert or even get rid of\nthe noodles altogether!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Listen up, yakisoba! I'm going to do\neverything I\ncan to understand you! I'll\nlove you more deeply\nand passionately\nthan anyone!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's time to dive into the ocean of\nlimitless\npossibilities! Let's paint the\nhorizon with a\nyakisoba rainbow!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I know my true path now! I'll revitalize\nthe\nyakisoba industry with epic-level\nmagic tricks!",
+            "name": "Голд Шип"
+        }
+    ]
+}

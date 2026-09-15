@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I see Мэдзиро Райан in front of the stairs,\ntrembling.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Ah, T-Trainer... I did too much weight\nwith my leg\npresses yesterday...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "A-as you can see, my muscles are aching\nmighty\nhard right now. But don't worry!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "This is proof that they're growing!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Are you going to be okay for today's training?"
+            ]
+        },
+        {
+            "text": "Oh, yeah! No problem! I'm just—",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ouch!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Perhaps due to her sore muscles, Mejiro\nRyan isn't\nable to get into a rhythm\nduring her training.",
+            "name": "Монолог"
+        }
+    ]
+}

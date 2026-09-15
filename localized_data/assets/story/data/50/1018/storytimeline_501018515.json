@@ -1,0 +1,240 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Younger Student"
+        },
+        {
+            "text": "<i>Sigh...</i> Your timing was off there... You\nmade your\nmove far too early.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What's gotten you all flustered?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Younger Student"
+        },
+        {
+            "text": "Hey, are you listening?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I... I'm done with this.",
+            "name": "Younger Student"
+        },
+        {
+            "text": "Excuse me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I only came to Академия Тайсен because\nI\nhappened to be good at running and\nraces were\nkinda fun.",
+            "name": "Younger Student"
+        },
+        {
+            "text": "But my mom has zero racing experience.\nThere's\nabsolutely nothing of note about\nmy family.",
+            "name": "Younger Student"
+        },
+        {
+            "text": "What is your point?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm saying I'm a nobody! No family name\nto\nuphold, no dreams to achieve! I don't\nhave any\nreason to run!",
+            "name": "Younger Student"
+        },
+        {
+            "text": "I'm not like you or anyone else here!\nThere's... no\nplace for me at this\nacademy!",
+            "name": "Younger Student"
+        },
+        {
+            "text": "...Is that all?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Younger Student"
+        },
+        {
+            "text": "Very well. We're done for today. Rest up\nand stay\nwarm.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Excuse me. I have two requests to make\nof you.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "First, I'd like your permission to wear my\n\nsignature racewear.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Second, I'd like to reserve your next day\noff.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "On my next day off, I head to the track\nlike Air\nGroove requested.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Your signature racewear looks amazing,\nbut why\nare you showing it to me?",
+            "name": "Younger Student"
+        },
+        {
+            "text": "I inherited this blue and yellow design\nfrom my\nmother, the Queen.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "From there, I altered the design to\nreflect what\nbeing \"the Empress\" means\nto me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The signature racewear of an\nUmamusume serves\nas a representation\nof their resolve and a symbol\nof their\ndreams.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I strive to follow in the footsteps of my\nmother,\nso I move ever forward in pursuit\nof my ideals.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Well, good for you. But what does that\nhave to\ndo with—",
+            "name": "Younger Student"
+        },
+        {
+            "text": "Would someone who wishes to leave the\n\nacademy—someone who's abandoned\nthe\nturf—push themselves forward the\nway you do?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You can't fool me. Whenever you run, I\nsense\nnothing but a fierce desire to win.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ngh! So what? I—",
+            "name": "Younger Student"
+        },
+        {
+            "text": "You still claim that you have nothing to\nstrive\nfor? Then run with me. Right now.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The Empress will show you what you\nclaim to lack.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув...",
+            "name": "Younger Student"
+        },
+        {
+            "text": "The two of them take off. The younger\nstudent\nruns with all her might, but Air\nGroove catches up\nin an instant, quickly\novertaking her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The sight of Эйр Грув's beautiful form\n\noverwhelms the younger student,\nsparking\nsomething within her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i>",
+            "name": "Younger Student",
+            "choice_data_list": [
+                "She's actually quite softhearted, don't you\nthink?",
+                "She's pretty strict, huh?"
+            ]
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i>",
+            "name": "Younger Student",
+            "choice_data_list": [
+                "She's actually quite softhearted, don't you\nthink?",
+                "She's pretty strict, huh?"
+            ]
+        },
+        {
+            "text": "Yeah, she is... but also cruel.",
+            "name": "Younger Student"
+        },
+        {
+            "text": "She's planted seeds of motivation even\nin\nsomeone like me... Ugh!",
+            "name": "Younger Student"
+        },
+        {
+            "text": "Have you ever wondered why\nUmamusume are so\nfast?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Why our legs are so remarkably\nresilient?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It is so that we can run on our chosen\npaths,\nwherever they may lead. At least,\nthat's what I\nbelieve.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I... think I get it...",
+            "name": "Younger Student"
+        },
+        {
+            "text": "If you have hope, then never stop. Your\nlegs will\ncarry you ever onward.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Do not fear the path ahead. It may be\n\ntreacherous. You may stumble and fall.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But there will always be someone there\nto pick\nyou back up and support you the\nrest of the way.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She sure is. I still think it'd be a lot\neasier to just\ngive up.",
+            "name": "Younger Student"
+        },
+        {
+            "text": "If that is truly what you wish for, then I\nwon't stop\nyou.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I don't have the time to stop for\nsomeone who has\nalready dropped out\nof their race. I have my own\ndreams to\npursue.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "However, if you still have conviction and\nare\ndetermined to keep moving\nforward... I shall be a\nbeacon for you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Don't <i>you</i> ever feel unsure of yourself?\nOr lose\nsight of your goals?",
+            "name": "Younger Student"
+        },
+        {
+            "text": "I'd be lying if I said I don't. I have my fair\nshare of\ninadequacies and shortcomings.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "However, I will never lose sight of my\naspirations.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "After all, I have a mirror right beside me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A mirror?",
+            "name": "Younger Student"
+        },
+        {
+            "text": "Indeed. Always by my side, reflecting my\nevery\nact and making sure that I'm still\non the right\ntrack.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув glances over at me with a\nhint of a\nsmile on her lips.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув glances over at me with a\nhint of a\nsmile on her lips.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер's strong in the lead! The\nSuccessor\nlives up to the Beast's name!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Woooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Грасс Вандер seizes a convincing\nvictory over\nher peers and now stands at\nthe top.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All while carrying the \"Beast's Successor\"\nmantle...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, I lost... Grass sure is fast!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I've still got a ways to go... Better get\nback to\ntraining!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Man, that last-second surge was nuts.\nSure got\nme good.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hehe. I'm honored.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...Grass.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh... El.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Nrgh... I hate this... I hate, hate, HATE\nTHIS!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You pullin' ahead! Me failin' to catch up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And that's not even the worst of it... I...\nI'm—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...Grass.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm runnin' in the Japan Cup next.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's the only G1 in Japan that gets so\nmany\nforeign racers—and I swore I'm\ngonna prove I'm\nthe world's strongest!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So you better be there too!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "At the Japan Cup?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Sí! You have to!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You have to let me face you one more\ntime!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Do you want to run in the Japan Cup?"
+            ]
+        },
+        {
+            "text": "I had never considered it, honestly.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "When thinking of gaining experience in\nthe\nClassics, the conventional course\nwould lead me\nto the Kikuka Sho.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That or perhaps the Autumn Tenno Sho,\ntaking\nmy strengths into consideration.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Really? From where I'm standing, you\nand El\nfacing off in the Japan Cup would\nbe gnarly!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...! Maruzen.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Heya! ♪ Nice race! ♪ That was some rad\nrunning\nout there!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Like, I totes flipped out! Who'd have\nthunk you\ncuties could compete with\nsuch fiery passion?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So, you were watching, then.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yep! 'Cause the thing is...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I've had my eye on that Эль Кондор Паса\ngal for a\nlittle while now. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You don't say...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I mean, isn't she adorable? The way she\nputs\nherself out there with her heart on\nher sleeve.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You know, I almost think...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "El might be more of a \"Beast's Successor\"\nthan\nyou. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, crap! I forgot I was in the middle of\n\nsomething.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Bye, Grass! ♪ I'm looking forward to\nyour next\nrace!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "After Марузенски leaves, Грасс Вандер\nfalls very\nsilent.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later, on our way back...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I... was being irresolute earlier. I'm sorry.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But now, my heart is set.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Trainer, please enter me in the Japan\nCup.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "I am.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "How can I beat Maruzen if I'm not even\nfast\nenough to be her Successor?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I have to prove my beastly strength once\nand for\nall.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As she stands firm under the evening\nglow, Grass\nWonder's eyes are alight\nwith steely\ndetermination.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our goal is now set: to run in the Japan\nCup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You just wait, Grass. This next one's\ngonna be\nmine... I swear it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Next time, it'll be my silhouette you're\nchasin'!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "No matter who it is ya might be fixated\non now!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

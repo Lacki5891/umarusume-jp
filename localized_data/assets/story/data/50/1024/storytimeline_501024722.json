@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! Can I ask you for the ultimate\nfavor?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Go ahead."
+            ]
+        },
+        {
+            "text": "Okay! I want you to massage my\nshoulders! I have\na huuuge headache.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm sure you'll be able to pound all that\npain away\nwith your love for me!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Look, even when I try this... Pain, pain,\ngo away...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...It <i>doesn't</i> go away!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Urgh...</i> Why'd I do that?! Now it hurts...\neven more\nthan this morning...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Afterward, I make Маяно Топ Ган take\nsome\nmedicine for her headache, but it\ndoesn't go\naway...",
+            "name": "Монолог"
+        }
+    ]
+}

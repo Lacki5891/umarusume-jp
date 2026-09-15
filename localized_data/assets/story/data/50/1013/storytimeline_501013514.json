@@ -1,0 +1,169 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my way home, I notice there's a light\non in the\ndance studio. I go to turn it off\nwhen I realize\nsomeone's inside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "P-peace, peeeace!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Urk... Wh-why must I do this pose?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "And why would a fan request such a\npose in the\nfirst place?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's not part of the show's choreography,\nand by\nall rights, this is Голд Шип's\npose, not mine...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Is she training for a concert? I should\nwarn her it's\nalmost curfew, but she\nseems laser-focused.",
+            "name": "Монолог"
+        },
+        {
+            "text": "N-no... I must meet their expectations,\nno matter\nwhat they may be.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Winning concerts are an opportunity for\nme to\nexpress my gratitude to the fans\nwho support me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I have to forget this timidity, and delight\nthe\naudience with all my effort. That's\nwhat I vowed\nto do, after all!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "All right, since that is now settled, it's\ntime to\nmove on to the next part! This\none will be difficult\nas well, but...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "L-lovey dovey... kiss!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Aaaagh...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I-I can't take it! This is too bizarre! It's\nnot in my\nnature at all...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Sigh...</i> Thank goodness no one else is\nhere. If\nanyone saw me, I would be the\nlaughingstock of—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "T... Тренер? H-how long have you been\nstanding\nthere?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I just got here.",
+                "That was really good!"
+            ]
+        },
+        {
+            "text": "T... Тренер? H-how long have you been\nstanding\nthere?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I just got here.",
+                "That was really good!"
+            ]
+        },
+        {
+            "text": "Really? Do you really, honestly, <i>truly</i>\nmean it?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Do you swear on the cafeteria's\nexclusive\ntiramisu?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I-I swear!"
+            ]
+        },
+        {
+            "text": "Whoa... Then I can believe you. A vow\non that\ntiramisu is an earnest one,\nindeed.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Now then, I must continue working on\nthis fan\nservi—on this dance.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I will be sure to leave before curfew, so\nyou may\ngo home without worrying\nabout me.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "How about I keep you company?"
+            ]
+        },
+        {
+            "text": "Huh?! That would be terrib—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "U-um, I mean, I'll be fine. Please go\nhome and\nhave a nice rest.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Okay? T-take care!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My! Really?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm glad to hear that. I'm having trouble\ngetting\nused to it. The whole thing\nmakes me feel\nawkward.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hm? Wait a minute. That means you...\nyou were...\nwatching just now?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Nooooo! Th-th-this can't be!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Y-you're telling me you liked the...\nlovey...\ndovey... k-k-k-k-kiss?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Whatever the case! If you tell anyone\nthis, I will\nnever speak to you again!\nEver!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I promise I won't."
+            ]
+        },
+        {
+            "text": "You can be absolutely, positively sure\nthat I'm\nserious! And one more thing!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Which part?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Of what?"
+            ]
+        },
+        {
+            "text": "I mean... Um...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Wh-which part... was \"really good\"?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I give Мэдзиро МакКуин my thoughts and\nthen\nkeep her company until curfew.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She vigorously pushes me toward the\ndoor,\nforcing me to leave.",
+            "name": "Монолог"
+        }
+    ]
+}

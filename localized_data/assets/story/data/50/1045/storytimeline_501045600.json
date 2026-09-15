@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The race is starting soon...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Are you nervous, Тренер? Restless?\nHaving\ntrouble breathing?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Feel free to let me know. You don't\nneed to act\ntough. If you feel uneasy,\nI-I'll... Um...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You seem like the nervous one here."
+            ]
+        },
+        {
+            "text": "Well, now that you mention it... Hehe.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I got a bit carried away, didn't I? I just\ncan't wait\nto show everyone how\namazing you are.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And I'll prove it with this race! ♪",
+            "name": "Супер Крик"
+        }
+    ]
+}

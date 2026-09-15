@@ -1,0 +1,188 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I go to the shopping district to buy some\nthings\non my day off, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "So that's the Boutique Cherie's latest\ndress?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yes, our pride and joy! Isn't it nice? It's a\n\ncombination of python and leopard\nprints! It even\nhas the faces of a snake\nand a leopard on it!",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Ummm... yeah, it's a bit flashy. I'll admit\nit's got a\ncertain mature charm to it,\nthough.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Do you like it, Natie? I'll give you a\ndiscount! I'll\neven throw in a tiger print\npouch!",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "I don't think I'm ready for that\ncombination yet... I\nmean, no one but\nyou can rock it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Don't be like that, Natie! Anyone can\nmake it\nwork—you just have to put it on!\nThat's how\nclothes work!",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Whoa! Now that's the kind of pitch I\nexpect from\nBoutique Cherie's\nlevel-sixty-six saleswoman,\nKimie!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ahaha, is <i>that</i> how old you think I am?\nKeep\njoking like that, and I'll force you\nto buy it.",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Hehe, please, don't!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature!"
+            ]
+        },
+        {
+            "text": "Huh?! Тренер?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What are you doing here? Oh wait. It's\nthe\nshopping district, so shopping, duh.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's right. You're the only young\nperson who\ncomes by here just to chat.",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "What do you mean? This shopping\ndistrict is the\nhottest spot right now.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Look at this amazing selection too,\nTrainer! This\nplace has the largest\nselection of animal prints in\nthe world!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, Kimie! Can you rustle up something\nspecial\nfor my Тренер?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And make it super intimidating! I don't\nwant\nanyone messing with my trainer!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "text": "Come on, Natie. Don't tease your trainer\ntoo\nmuch.",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Aren't you in the middle of shopping?\nWhy don't\nyou go too, Natie?",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Nooo, I'm too tired. No way I could keep\nup with\na youngster.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're too young for those kinds of\ncomplaints!\nNow stop loitering and go\nenjoy your date!",
+            "name": "Shopkeeper Lady"
+        },
+        {
+            "text": "Okay, oka—huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "W-wait, no! It's not a date, okay?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "After that, Найс Нэйчер shows me around\nthe\nshopping district, and I buy what I\ncame for.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nnngh, we sure walked a lot! My back is\nkilling\nme.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Thanks for showing me around."
+            ]
+        },
+        {
+            "text": "Nah, don't mention it. I didn't do\nanything\nspecial.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All I did was chat with the shopping\ndistrict folks.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But dang, they're clearly not busy\nenough, seeing\nas they all had time to\nkeep teasing me about\nbeing on a date.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "While her words have an edge, Nice\nNature's\nexpression is kind when she\ntalks about the\npeople in the shopping\ndistrict.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can tell that they all love her. And\nbeyond that,\nI can tell they are people\nshe can rely on.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You really love them, huh?"
+            ]
+        },
+        {
+            "text": "I-I do, but... why did you have to\nactually say it?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's kind of embarrassing...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "They seem like your family."
+            ]
+        },
+        {
+            "text": "...I guess so.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, sure. They're probably nosier\nthan actual\nparents.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But all the same... they cheer for me no\nmatter\nwhat.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Like, who would do that? Cheer for <i>me?!</i>\nIt's\nfunny, honestly.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They care about me sooo much.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And I get reeeeally motivated when they\ncheer\nme on.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Gyah, what am I saying?! How\nembarrassing!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Three, two, one, and—gone! I just wiped\nyour\nmemory.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, let's go home.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер is embarrassed and hurries\nme back\nto the academy.",
+            "name": "Монолог"
+        }
+    ]
+}

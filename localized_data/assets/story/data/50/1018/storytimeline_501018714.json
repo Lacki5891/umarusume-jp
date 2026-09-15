@@ -1,0 +1,106 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The injury Эйр Грув sustained during\ntraining is\nhurting, so I take her to the\ninfirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tch... How foolish of me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I should have been more observant. This\nis\ncompletely my fault.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I need to do whatever I can to make up\nfor this\nsilly loss of time!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Take it easy until you're all better.",
+                "We can think about a new training regimen\ntogether."
+            ]
+        },
+        {
+            "text": "I can't afford to waste time over\nsomething like\nthis!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Calm down."
+            ]
+        },
+        {
+            "text": "I am extremely calm! That's why I—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ngh...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You shouldn't move around too much."
+            ]
+        },
+        {
+            "text": "What world are you living in?! I don't\nhave the\ntime to think about my\nregimen!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I need to be out there making up for this\nlost time\nas soon as physically possible!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We can train in a way that won't\naggravate the\ninjury. I won't let some\nsilly wound get in my way.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You need to be patient."
+            ]
+        },
+        {
+            "text": "Patience is beside the—urgh!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув tries to move, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Gasp, gasp...</i> Even simple stretches are...\ntiring.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "My regimen, huh?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I suppose that's the best I can do for\nnow. Even if\nI'm not able to move as I\nwish, I can still use my\nmind.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well. I'll bite.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This recent incident has revealed to us\nwhat level\nof training will harm me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Perhaps this injury is a blessing in\ndisguise.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now we can devise training regimens\nthat won't\npush me too far beyond what\nI'm capable of.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув's injury is more serious than\nshe\nrealized.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, we discuss a training regimen\nthat\nwould be effective and tough, while\nremaining\nmanageable.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Fine... I'll focus on getting better first.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

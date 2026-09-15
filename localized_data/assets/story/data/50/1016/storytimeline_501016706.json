@@ -1,0 +1,152 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Брайан and I are on the train home\nafter a\nday out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Brian!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Teio...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You heading home?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Yeah...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I see. Where'd you go?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Out. Nowhere worth talking about.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh? Well, I'll be the judge of that...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Oh, that reminds me! I heard something\n\ninteresting! Listen to this...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...Are you heading straight back to the\nacademy,\nBrian?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "What're you gonna do once you get\nback? Eat?\nTake a bath? Train?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Not sure yet.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "C'mon! You gotta work with me here a\nlittle! Say\nsomething!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hey, Trainer! What's the topic?",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Well, whenever I try and talk to Brian,\nshe just\ngives me a one-word answer!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You <i>must</i> know a topic that catches her\ninterest.\nYou're her trainer, after all!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Something to get Нарита Брайан's attention\nand get\nher talking...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about a race back to the academy?",
+                "How're things going with the student council?"
+            ]
+        },
+        {
+            "text": "That's not really a conversation topic...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Great idea! Hey, Brian, let's have a race!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Pass. Sounds like a pain.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Seriously?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...But, I wouldn't mind running <i>with</i> you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Really?! All right—",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Just not now. I'll make time for it later,\neven if it's\nbetween training sessions.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Okay! I'll hold you to it! Don't forget,\n'kay? I'm\ngonna ask you every day so\nyou remember.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Don't. That's annoying. We'll still run\neven if you\ndon't...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm curious about that too!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I'm pretty sure you're always in the\nstudent\ncouncil office.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But no one tells me anything about the\nactual\nwork.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Like, what is it that you do, Brian? Are\nyou Prez's\nbodyguard or something?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Is that how you see me? For starters,\nRudolf just\nwent and—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "After that, the three of us enjoy a lively\nchat\nabout the student council on our\nway back.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, we all have a good talk about\ntraining\nand racing.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After running errands with Эйсин Флэш,\nwe head\ntoward one last location.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We're finally here."
+            ]
+        },
+        {
+            "text": "Indeed. Here is the inn that's hosting the\n\nimmersive lecture on Japanese culture.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Learn from the past, as they say!\nLearning about\ntime-honored traditions\nshould help me deepen\nmy\nunderstanding of modern trends!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш has become determined to\nlearn all\nabout the newest trends in\nJapanese culture after\nsinging karaoke\nwith her friend the other day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And to facilitate that, we're attending a\nlecture\non Japanese culture.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here is a typical guest room at this inn.",
+            "name": "Hostess"
+        },
+        {
+            "text": "Oh!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Sorry, I just recalled that there is specific\n\netiquette for walking into a\nJapanese-style room.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My, aren't you well-informed? You must\nbe\ntalking about how one shouldn't step\non the\ncracks between the tatami mats.",
+            "name": "Hostess"
+        },
+        {
+            "text": "I very nearly did just that. I shall be more\ncautious\nfrom now on.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Please, there is no need to be nervous.\nRelax and\nenjoy the tour.",
+            "name": "Hostess"
+        },
+        {
+            "text": "However, Эйсин Флэш remains on high\nalert as the\ntour goes on, until...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm surprised that all the hot water must\nbe\nreplaced every time they clean. From\na\ncost-efficiency standpoint, that seems\nrather\nwasteful...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But it <i>is</i> important to prioritize the\nhealth and\nsafety of guests, and that's a\nfantastic way to\nkeep everything\nhygienic.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I can't believe they are able to serve\nmeals so\npunctually despite how many\nrooms there are\nhere...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This is the true epitome of time\nmanagement. I\ntake my hat off to them!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That concludes today's lecture. What\ndid you\nthink?",
+            "name": "Hostess"
+        },
+        {
+            "text": "It was marvelous beyond words. In fact, I\nwould\nlove to take an even more\nin-depth tour.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Sounds like you really enjoyed yourself!"
+            ]
+        },
+        {
+            "text": "I did. Traditional Japanese\n\nhospitality—\"omotenashi\" truly is\nexceptional.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Being provided a traditional yukata as\nsleepwear\nis also a valuable experience\nfrom a cultural\nperspective.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Above all, every element of this facility\nworks in\nharmony to make guests feel at\nhome.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now, I'm painfully aware that everything\nI\nthought I knew about Japanese-style\ninns was\nsuperficial at best.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I still have much to learn... It seems a\nshame to\ndepart while I am still so\nignorant.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш seems reluctant to leave. In\nthat\ncase...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Would you like to stay here overnight\nsometime?",
+                "Would you like to ask the hostess some\nquestions?"
+            ]
+        },
+        {
+            "text": "That is an intriguing suggestion. I could\ncertainly\nlearn much more if I actually\nspent a night here.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh, we would be honored to have you!\nThere's\nplenty to enjoy here.",
+            "name": "Hostess"
+        },
+        {
+            "text": "First, there's our wonderful hot spring\nwhere you\ncan wash away your fatigue.",
+            "name": "Hostess"
+        },
+        {
+            "text": "Then in the evening, our chefs prepare\ndinner\nusing plenty of fresh, seasonal\ningredients. You\ncan enjoy your meal in\nyour room.",
+            "name": "Hostess"
+        },
+        {
+            "text": "Should you visit us in the summer, you\ncould\nwatch fireworks light up the night\nsky.",
+            "name": "Hostess"
+        },
+        {
+            "text": "W-wonderful! I shall make a summer\nreservation\nright now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Weren't you going to make a reservation?"
+            ]
+        },
+        {
+            "text": "Ohne Fleiß kein Preis. There is no gain\nwithout\npain.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "In other words... I shall begin saving\nmoney.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "If I reduce my budget for baking\ningredients by\n20%, I should be able to\nstay here... in precisely\nthree years, six\nmonths' time.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You wish to know more? In that case, I\nwould\nrecommend you attend our\nimmersive\nhousekeeping seminar.",
+            "name": "Hostess"
+        },
+        {
+            "text": "Oh! I would love to attend that.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Knock, knock.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Pardon the intrusion. Thank you for\nstaying with\nus today.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "The pleasure is all mine."
+            ]
+        },
+        {
+            "text": "If there is anything we can provide to\nmake your\nstay more comfortable,\nplease don't hesitate to\nask.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Well done! ♪ That was a picture-perfect\ngreeting.",
+            "name": "Hostess"
+        },
+        {
+            "text": "Thank you very much. However... sitting\non my\nknees for so long is quite painful...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Yes, it's a difficult position to maintain if\nyou're\nnot accustomed to it. I remember\nstruggling with\nit too when I first became\na hostess.",
+            "name": "Hostess"
+        },
+        {
+            "text": "Hm... Both learning and traditions are\ncultivated\nthrough the accumulation of\nexperiences.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Indeed. That is exactly how traditions\nare built.",
+            "name": "Hostess"
+        },
+        {
+            "text": "The building of tradition... Thank you\nvery much.\nThis was most informative.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш's eyes glitter with newfound\njoy and\nknowledge as she thanks the\nhostess for her time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It sounds like booking a room here isn't\ncheap.\nBut at least Эйсин Флэш now has\na new goal to\nstrive toward.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hehehe, this should be far enough...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шип! You won't escape me!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You're still following me?! You're as\ntenacious as\na komodo dragon!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Very well! I have my own\ncountermeasures...\nActivating frilled\nlizard mode! You'll never catch\nme now!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Eat my dust!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> You were just standing\nthere\nwatching?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I could have used some help\napprehending that\nhooligan...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "S-sorry."
+            ]
+        },
+        {
+            "text": "...It's not your fault. I'm just venting. My\nbad.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "<i>Sigh...</i> Голд Шипп sure is something else\nthough.\nAs a member of the student\ncouncil, I can't allow\nher pranks to go\nunchecked...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But trying to catch a student running\nwild is quite\nthe task when I can only use\nsixty percent of my\nfull speed.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Going all out isn't in the cards, huh?"
+            ]
+        },
+        {
+            "text": "Of course it isn't. The law stipulates that\n\nUmamusume aren't allowed to run at full\nspeed\noutside of designated areas.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We're capable of reaching speeds in\nexcess of\nfifty kilometers per hour. Were\nwe to run into\nsomeone or something,\nthe damage caused would\nbe\ncatastrophic.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Still, it's quite frustrating seeing her slip\nout of my\ngrasp like that...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'll help you out!",
+                "Why don't we get some help?"
+            ]
+        },
+        {
+            "text": "Still, it's quite frustrating seeing her slip\nout of my\ngrasp like that...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'll help you out!",
+                "Why don't we get some help?"
+            ]
+        },
+        {
+            "text": "Are you right in the head? I couldn't\ncatch her\nrunning at sixty percent speed.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "With your legs, even running at full tilt,\nyou\nwouldn't be able to so much as\nbrush your\nfingertips against the tip of\nher tail.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We'll come up with a plan."
+            ]
+        },
+        {
+            "text": "A plan, huh?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well. If you have a countermeasure\nin mind,\nI'd be happy to hear it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув and I come up with various\nstrategies\nto capture Голд Шип, and\nsoon enough...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's the deal with you guys?! Are you\noutta\nyour heads?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Didn't your momma ever teach you that\nit's lame\nto ambush in tag?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "My mother and I had no such rule when\nwe used\nto play racewalk tag!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Whoa, you used to play some kinda\nspecial-rules\ntag with your mom? I gotta\nhear all about this!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You're in big trouble when we get back\nto the\nacademy, you know. I hope you're\nready.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You can't press charges when there ain't\nno crime!\nHeeelp! The Empress has gone\nrogue! It's an\nautocracy over heeere!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Enough with your nonsense!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "An ally? We're dealing with Голд Шип\nhere. I\ndoubt we'd find anybody up to\nthe—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Actually...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "There just might be someone capable of\n\ncontrolling Голд Шип's unfathomable\ncomings\nand goings!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "So, like, what is it you need exactly?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "I'll explain later. Just wait there.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Howdy-do, Jordan! Hoo boy, I wanna\nsmack that\nback of yours more than ever\ntoday!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Whoa! <i>Not</i> cool! Where did you even\ncome from?!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "That was perfect, Jordan!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hold the phone—Эйр Грув? Are you\ntelling me\nthis was a <i>trap?!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Indeed it was. And now I have you! Time\nto\nanswer for your crimes!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "My life is flashing before my eyes! See\nyou on the\nother side, folks...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Everyone needs to just, like, hold the\nphone for a\nsec...",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "I have literally zero idea what's going on!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "For some reason, I end up having to\ncalm Tosen\nJordan down. As for Air\nGroove...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Though she doesn't make it easy, we\nmanage to\napprehend the runaway\nGolshi in the end.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After another brief chase, she finally\nmanages to\napprehend Голд Шипп once\nand for all.",
+            "name": "Монолог"
+        }
+    ]
+}

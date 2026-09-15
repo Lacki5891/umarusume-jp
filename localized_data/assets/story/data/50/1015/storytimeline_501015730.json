@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Excellent!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "The time spent in my shining presence\nhas given\nrise to your knightly skill. Be\ngrateful!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Now, we must return home at once to\nprepare a\nstage! These little ones have\nwaited long enough!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ah, I know! I'll prepare the best seat in\nthe house\nfor you, Trainer!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Uh, the best seat?"
+            ]
+        },
+        {
+            "text": "Yes, you'll be put in the center of the\nfront row!\nAs a reward for that brilliant\nrescue, you may\nbask in my radiance to\nyour heart's content!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

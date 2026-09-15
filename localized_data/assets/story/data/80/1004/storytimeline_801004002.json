@@ -1,0 +1,79 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I stop by a cafe to take a\nbreak, and\njust when I take a seat...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, you there! Quick question. If you\nwere going\nfor a drive, would you rather\ngo to the beach or\nvisit a new town?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, you there! Quick question. If you\nwere going\nfor a drive, would you rather\ngo to the beach or\nvisit a new town?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We're all going for a drive soon, but we\ncan't\ndecide where to!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I mean, putting on some classic tunes\nand getting\nreal misty-eyed while driving\nby the beach sounds\ngroovy and all...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "(...Groovy?)"
+            ]
+        },
+        {
+            "text": "But the excitement of exploring a new\nplace is\nalso totally bodacious!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "(B-bodacious?!)"
+            ]
+        },
+        {
+            "text": "We could grab Italian food for lunch,\nthen boogie\non down to the disco at\nnight! I'm sure that'll\nbreathe some fresh\nair into everyone!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, hang on! I was supposed to be\ngetting your\ninput! My bad! That was\ntotes bogus of me! So\nwhere should we\ngo?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "My head is still reeling from the barrage\nof dated\nterms Марузенски keeps\nthrowing at me, but I do\nmy best to\nanswer.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "The beach.",
+                "A new town."
+            ]
+        },
+        {
+            "text": "Yeah, the beach's totally bomb-diggity!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The roads are wider out there, and it\nfeels\namazing cruising in my car at full\nspeed! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A new town, huh? Groovy!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Can't have a road trip without some\nexcitement!\nWe can cruise on some new\nroutes too! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Booyah! I'm gonna give that shot! Thanks\nfor\nhelping me make up my mind! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Right on! The beach it is! Thanks! You're\na\nlifesaver! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски chugs the nata de coco\ndrink on the\ntable and leaves, bidding\nme farewell with a crisp\n\"Catch ya on the\nflipside.\"",
+            "name": "Монолог"
+        }
+    ]
+}

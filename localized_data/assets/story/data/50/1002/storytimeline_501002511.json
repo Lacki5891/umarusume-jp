@@ -1,0 +1,169 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way to another training session\nwith\nСайленс Судзука...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Suzukaaa! Howdy dooo? I found\nyou!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hm?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Ka-thoomp!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wah!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Golly, am I happy I ran into you!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Тайки Шаттл dashes towards Silence\nSuzuka and\ngives her a great, big hug!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! Sorry, pardner! ☆",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I-it's okay. Was there... something you\nneeded?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oopsie! I almost forgot! I wanna throw a\nparty!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "A party?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yessiree! My folks just sent me some big\nol' juicy\nsteaks!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I say we eat it together and wash it down\nwith\nsome nice, fresh milk! Hehe! Now,\ndon't that\nsound fun?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I'm grateful for the invitation, but... I'm\nnot really\ngood with big groups.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That ain't no problem! We can have a\nparty with\njust the two of us! You and\nme!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Really?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Now, you know I love gatherin' a buncha\nfolks\nround for a big party!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "But you're my special guest today! A\nnice, quiet\ntime with you is A-OK with\nme!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "So long as my guest is happy, I'm\nhappy! ☆",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hehe, if you say so...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you, Taiki. Um... would one more\nguest be\nokay?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Of course! I'm good with whoever you\nwanna\ninvite!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Тренер? What do you think? Do you\nwant to join\nus?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Yeah, let's go chow down!",
+                "We should get in a good workout before eating."
+            ]
+        },
+        {
+            "text": "Тренер? What do you think? Do you\nwant to join\nus?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Yeah, let's go chow down!",
+                "We should get in a good workout before eating."
+            ]
+        },
+        {
+            "text": "All right. I'm looking forward to trying a\nreal\nAmerican-style meal.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yippee! I hope you're good 'n hungry!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Cause the pile of steaks is as high as the\nRocky\nMountains!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "...I don't know if I can eat <i>that</i> much.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "All right, then! Time to get cookin'!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "W-wait a minute! Taiki!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yes, you're quite right.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Taiki, would you mind if I work up an\nappetite\nfirst?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Of course not! Better yet, why don't I\njoin you?\nWe're gonna be starvin' after\nthis!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "And whaddaya say we make it\ninteresting?\nWinner gets to eat all the\nsteak they want! Buffet\nstyle!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hehe. I don't know about a buffet, but a\nrace\ndoes sound fun.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "On your marks! Get set!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Go!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Over the course of the party, the three\nof us\nsomehow manage to finish every\nbite of Taiki's\nmountain of steaks.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After working up an appetite, both\nracers regain\ntheir stamina by devouring\nplenty of steak.",
+            "name": "Монолог"
+        }
+    ]
+}

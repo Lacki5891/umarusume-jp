@@ -1,0 +1,141 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Look at this! I got a package today."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap passes over a red scarf of the same \ncolor as her signature racewear."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice that people have written messages of \nsupport for her on the underside of the \nscarf—where nobody else would be able to see \nthem."
+        },
+        {
+            "name": "Monologue",
+            "text": "Reminded of how loved she is, I return the scarf \nto her.",
+            "choice_data_list": [
+                "Is it from your hometown?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. Everyone wrote me a little something."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There are messages like, \"We're always by your \nside,\" \"We're running with you,\" and \"You're the \nembodiment of our dreams.\""
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The embodiment of their dreams? I'm not sure \nwhat they mean by that."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I know that seeing me race makes them happy... \nBut how can <i>I</i> be their dream?",
+            "choice_data_list": [
+                "They're pinning their hopes on you."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Their hopes? On me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain to Oguri Cap that she represents the \naspirations, hopes, and wishes of the people back \nhome."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sounds complicated, but I think I sort of get it \nnow... Everyone's cheering me on and wishing me \nthe best."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...That makes me feel all warm inside—like I'm not \nalone.",
+            "choice_data_list": [
+                "Do you feel pressured?",
+                "Do you feel pressured?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Yeah, I guess I do. But at the same time, I feel \nlike that's what pushes me forward."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm not sure if \"pressure\" is the right word \nthough... I think it's more like... encouragement?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...I'm getting an overwhelming urge to run. Will \nyou come with me?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to stay with Oguri Cap until she feels \nsatisfied."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Huff... huff... puff...</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I was a little skeptical about this outfit at first. I \nkept wondering why you wanted me to wear it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I get it now. People recognize it as my \nsignature racewear. That's why everybody from \nback home sent me this scarf."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "They really want me to win... And this outfit \nrepresents those feelings."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I... feel the same way. I really want to win.",
+            "choice_data_list": [
+                "We're on the same page there!",
+                "We're on the same page there!",
+                "Let's aim to win—for everyone's sake!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I... feel the same way. I really want to win.",
+            "choice_data_list": [
+                "We're on the same page there!",
+                "We're on the same page there!",
+                "Let's aim to win—for everyone's sake!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, I know you're always by my side, \nsupporting me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'll keep running—for the both of us!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "As long as you're with me, I can't lose!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's right. Everyone's hopes and dreams rest on \nmy shoulders."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing Oguri Cap brimming with resolve, I feel a \nrenewed sense of determination for the next race."
+        }
+    ],
+    "title": "Pinned Hopes"
+}

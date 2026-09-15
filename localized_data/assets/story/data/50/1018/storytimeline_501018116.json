@@ -1,0 +1,366 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I need to get Эйр Грув back on her\nfeet. In\norder to do that, I first need to\nfind a chance to\ntalk to her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I still have no idea what I should say to\nher, but\nfor the time being, I tell her I\nsimply want to talk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's the big idea? Why did you call\nme here?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I need you to wake up."
+            ]
+        },
+        {
+            "text": "And what is that supposed to mean?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I thought we were going to surpass Suzuka."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You're right. I need to overtake her. So\nwhy am I\nlike this?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I think... for the first time in my life, I'm\nscared.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "When I witness her running... I can't even\npicture\nmyself surpassing it, and that\nterrifies me!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The way she runs is like nothing I've ever\nseen.\nFree as a bird, with peerless speed\nthat touches\nthe hearts of all watching.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "After experiencing it for myself on the\ntrack, I can\nunderstand all too well.\nThose who see that pure\nand unfettered\nrunning...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...can't help but feel inspired.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "On the other hand, there's me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All this time, I have raced as the Empress\nin order\nto be an ideal for all\nUmamusume.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But with the way things are now... I\nwonder if\nthere's any meaning to my\nefforts.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "They already have Suzuka.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The ideal I strove to embody—the\nUmamusume\nwho inspires others to\ndream—is already standing\nright before\nme.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In the face of that... what is there left for\nme to\ndo?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You and Suzuka aren't the same."
+            ]
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You have something that only you can show\neveryone."
+            ]
+        },
+        {
+            "text": "Something... only I can...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I've journeyed so far with Эйр Грув,\nwatching\nher closely from her side.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've been the closest one to her and the\none most\nenraptured by her running.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's why I feel certain that this is\nsomething\nonly I can tell her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's right. Эйр Грув is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're a challenger."
+            ]
+        },
+        {
+            "text": "A... challenger, you say?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I tell Эйр Грув exactly how she's\nappeared to\nme up until now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"To become the ideal for all\nUmamusume.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "From the very beginning, Эйр Грув has\nbeen\nconstantly challenging herself to\nachieve this\nincredibly grand ambition.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She has always remained disciplined,\nalways\nlooking forward, in order to live\nup to this ideal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She guides the academy as student\ncouncil vice\npresident. She guides the\nyounger students as\ntheir senior. And all\nthe while, she's continued to\nrun in the\nTwinkle Series.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've watched her every step of the way.\nAnd it's\nnot just me—all the Umamusume\nat the academy\ncan testify to her efforts\ntoo.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In the Hanshin Juvenile Fillies and the\nTriple Tiara\nseries, she refused to falter,\ngive up, or look\nback.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's always been the proud Empress,\nconstantly\nchallenging herself with her\neyes fixed on her\ndreams.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Don't rest on your laurels.\" \"I need to\naim for\never greater heights.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"That's why you need to stick with me.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "These are a handful of the things Air\nGroove has\nsaid as she continues to\nmove forward and\nchallenge herself.\nThat's why she's the Empress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She has always been the undaunted\nchallenger,\nstriving tirelessly to be every\nUmamusume's ideal!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I didn't realize that was how you saw\nme...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "He isn't the only one, Эйр Грув.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She isn't the only one, Эйр Грув.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I have also been watching you, and I feel\nexactly\nthe same way.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I came here because I have something I\nwant to\nshow you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Come.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф leads us to the area of\nthe beach\nwhere students train during\nsummer camp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Take a look, Эйр Грув.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I can still... keep going!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I'm sooo tired!",
+            "name": "Summer Camp Умамусумэ А"
+        },
+        {
+            "text": "I can't believe Эйр Грув did this\nregimen last\nyear... She's tough as nails!",
+            "name": "Summer Camp Умамусумэ Б"
+        },
+        {
+            "text": "That's why we need to keep going! We\nneed to\nwork even harder if we're ever\ngoing to surpass\nher!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "You said it!",
+            "name": "Summer Camp Умамусумэ А"
+        },
+        {
+            "text": "Heeey, Dober! You still at it?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "You're really hittin' it recently. I hope\nyou're not\noverdoing it. How you\nfeeling?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Thanks for looking out for me, but I'm\nokay. I'm\nnot overdoing it.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I'm challenging myself.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I'm challenging my own limits.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Dober...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'll be back soon. See you back there.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Come on, everyone! We can keep going!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "YEAAAH!",
+            "name": "Summer Camp Students"
+        },
+        {
+            "text": "Hehe. Your energy is infectious, Dober.\nYou've\nhooked me as well.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That's it! I'm joining you guys! Let's\npump our\nmuscles to the max!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Dober...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Do you understand now?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "They're all chasing after the Empress.\nYou, Air\nGroove.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "They've seen you take on challenge\nafter\nchallenge and have been inspired\nby you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "When they struggle and fall down, it is\nyou, as\ntheir ideal, that pushes them to\nstand up once\nmore.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "They stand back up and challenge\nthemselves to\nachieve glory on their own\ntwo feet.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "As president of Академия Тайсен's\nstudent\ncouncil, I owe you my thanks.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Thank you so much for guiding our\nyounger\nstudents.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I must be going now. I'll leave you two\nalone.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф walks away, leaving us in\nsilence.\nBut I know exactly what to say\nto Эйр Грув now.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's keep challenging ourselves."
+            ]
+        },
+        {
+            "text": "...Indeed.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No matter how high the wall that blocks\nmy way, I\nneed only keep challenging\nmyself without fear or\nhesitation.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That is how I can demonstrate...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...No, that is how I have <i>always</i> \ndemonstrated my\nideal to the world!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I want to challenge Suzuka once more.\nSo that I\ncan remain the ideal everyone\nstrives toward.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Will you stick with me?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Hehe.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's why you're my trainer.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Preparations for our rematch against\nSilence\nSuzuka begin now!",
+            "name": "Монолог"
+        },
+        {
+            "text": "First, we need to get back in the game\nat the\nSapporo Kinen and show everyone\nthat the\nEmpress is as strong as ever!",
+            "name": "Монолог"
+        }
+    ]
+}

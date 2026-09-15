@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Каррен Тян hasn't shown up for\ntraining, so I go\nlooking for her."
+        },
+        {
+            "text": "Hey! Big Bro!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "There you are!"
+            ]
+        },
+        {
+            "text": "Hey! Big Sis!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "There you are!"
+            ]
+        },
+        {
+            "text": "Ehehe, sorryyy! I was in the mood for\nsomething\nsweet.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...I'm feeling a teensy bit tired. You get\nlike that\nsometimes too, don't you?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...I'm feeling a teensy bit tired. You get\nlike that\nsometimes too, don't you?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Here you go! Two Fluffy Strawberry\nParfaits!",
+            "name": "Cafe Staff"
+        },
+        {
+            "text": "Thank youuu! ♪ Do you want one, Big\nBro?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Thank youuu! ♪ Do you want one, Big\nSis?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I dunno if I can eat two all by myself,\nbut I don't\nwanna waste it... so let's eat\nthem together.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...It's not like the parfait did anything\nwrong. I\naccept it, but I still lecture her\nabout skipping\ntraining."
+        }
+    ]
+}

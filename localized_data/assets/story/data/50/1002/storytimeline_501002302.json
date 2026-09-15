@@ -1,0 +1,327 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Сайленс Судзука and I are on the way\nhome from an\nouting when we decide to\nstop by the shopping\ndistrict.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, it's so crowded.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\ncarrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Oh, there's a raffle. No wonder.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Which reminds me, I'm pretty sure we\ngot a ticket\nearlier when we were\nshopping.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We have a ticket, so why not give it a shot?"
+            ]
+        },
+        {
+            "text": "They gave the ticket to you, so you\nshould be the\none to try!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Clang-clang! Clang-clang!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, would you look at that! We've got\na lucky\nfirst-prize winner! You get to\nwalk away with the\ndeluxe carrot\nhamburger steak! Congratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Oh... That bell sounds so familiar...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe, it kind of takes me back.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Oh yeah?"
+            ]
+        },
+        {
+            "text": "Yeah... Back in my hometown, there was\nthis little\nrace I ran in as a kid.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It was called the Kiddy Race. It was so\nsmall and\ninformal, we didn't even have\na proper finish line.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Instead, one of the adults would ring a\nhandbell\nwhen one of us finished.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It sounded exactly like the one the clerk\njust rang.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Then let's get first place and hear the bell\nagain!"
+            ]
+        },
+        {
+            "text": "Get first place? Don't you mean \"Выиграйте\n\nfirst-prize\"?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Nope! You have to get first place just like you\ndid at the Kiddy Race!"
+            ]
+        },
+        {
+            "text": "Hehe. Is that right?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Are you sure I can use your ticket,\nthough?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Thank you very much. I'll go get first\nplace, then!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She goes to the clerk, exchanges the\nticket, and\nturns the handle on the raffle\nspinner.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\nspinner's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Gasp!</i> I placed even higher than first?!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Is that even possible in a race, Тренер?!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I guess it's like breaking a record?"
+            ]
+        },
+        {
+            "text": "Breaking a record...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe, that's a fun way to think of it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What am I supposed to do with this\ncoupon,\nthough?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I've only ever gone on vacation with my\nfamily, so\nI don't know what to do...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You can go with a friend too. Why not invite\nsomeone?"
+            ]
+        },
+        {
+            "text": "Oh, that's certainly an idea...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Then... who should I invite? Vacations\nare such\nspecial occasions, after all...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hmm...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You don't have to decide now."
+            ]
+        },
+        {
+            "text": "That's true. In that case...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Do you think you could hold on to this\ncoupon\nfor me, please?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I can, but why?"
+            ]
+        },
+        {
+            "text": "If I kept it, I'd constantly worry about\nwho I\nshould invite.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Once I've decided, I'll be sure to get it\nfrom you.\nCould you please keep it safe\nuntil then?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! I got first place! Hehe.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Congrats!"
+            ]
+        },
+        {
+            "text": "Thank you!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Even if it's just a raffle, I'm so glad I got\nfirst.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Well, it is a tasty-looking hamburger steak."
+            ]
+        },
+        {
+            "text": "It certainly is.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But it's a bit much considering I've still\ngot dinner\nat the dorm to think about...\nSo would you like to\nsplit it with me?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... I was so close to winning first...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But wow, what an incredible amount of\ncarrots.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What should I do with them all?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Why don't you share them with the others at the\ndorm?"
+            ]
+        },
+        {
+            "text": "Oh! That's a good idea. I'll do that.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe, Spe will be so excited when she\nsees them.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... Third place...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Sorry, Trainer. I guess I didn't have\nenough luck\nto take first today...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Maybe I should have asked Fukukitaru\nfor a good\nluck charm first.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "A good luck charm?"
+            ]
+        },
+        {
+            "text": "Apparently, she has one that's meant to\nboost\nyour luck for drawing fortune slips\nand such.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I can't say for sure how effective it is,\nthough.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ohhh, tough luck! It's the consolation\nprize for\nyou—a pack of tissues.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh no! I didn't even place in the top\nthree!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This is terrible!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Trainer, we need to start training right\naway!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It's okay! It's just a raffle!"
+            ]
+        },
+        {
+            "text": "Oh, yeah! Y-you're right.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Sigh...</i> Sorry, I got a bit caught up in the\nmoment.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm more than happy to, so I agree to\nshare the\nhamburger steak with her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We plop her third-prize carrot into a\nshopping\nbag, and head back to the\nacademy as we watch\nthe sun set\nbeyond the horizon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I help Сайленс Судзука carry her carrots\nback to the\ndorm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Сайленс Судзука looks quite crestfallen as\nwe head\nhome, gazing at the sun setting\nbeyond the\nhorizon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I do as she requests and take the coupon\nfor\nsafekeeping.",
+            "name": "Монолог"
+        }
+    ]
+}

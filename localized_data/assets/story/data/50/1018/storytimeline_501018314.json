@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйр Грув has shown us all a\nspectacular race\ntoday! She really is the\nEmpress through and\nthrough!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nice. Not bad at all.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's strange...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What is?"
+            ]
+        },
+        {
+            "text": "It's almost as if that terror I felt never\nexisted.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Right now, I'm just excited to take\nSuzuka on. My\nheart is aching for the\nchallenge.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Sounds like you've sorted through all your\nfeelings."
+            ]
+        },
+        {
+            "text": "Indeed. All that's left is to set our sights\non\nSuzuka's next race.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That is to say, the autumn Tenno Sho.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's where I'll challenge Suzuka once\nagain!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Just you wait, Suzuka.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This time I'll challenge you without an\nounce of\nfear in my heart!",
+            "name": "Эйр Грув"
+        }
+    ]
+}

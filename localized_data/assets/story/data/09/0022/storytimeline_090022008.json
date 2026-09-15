@@ -1,0 +1,141 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Customer A",
+            "text": "…… Excuse me, <i>Master</i>?"
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "……? How can I help you?"
+        },
+        {
+            "name": "Customer A",
+            "text": "Could I ask for your advice? \nUmm… there's someone I want to give chocolate to…"
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "…! Of course. I'm here to listen."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Eheh. You're doing great. I can tell you're acting \nmuch more like yourself than the first day."
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "Ahaha, you think? That would be good."
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "Hey, Ines. Do you think I got closer to my ideal?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "… Yeah. For sure. You're very much like <i>SweeTea's Master</i>."
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "Ehehe, I see… \nHey, Ines."
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "…… Thanks for watching over me."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Ehh</i>…? That's……?"
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "Chocolates, of course. For everything you've done for me."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Hwaaah</i>! Thank you!! For real～? \nI'll be sure to enjoy these with my little sisters!"
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "Aaah, well…… umm."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hmm? Change your mind?"
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "…… Sorry. If you don't mind me being frank…"
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "…… I'd like you to have them all. \nFor always being by my side."
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "So just this once… could you keep \nthese chocolates all to yourself?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "……! …… Maan, I can't say no to that～"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "―― I'll savour them on my own then."
+        },
+        {
+            "text": "Apparently there's a special limited-time café \nsomewhere near Академия Тайсен."
+        },
+        {
+            "name": "Умамусумэ A",
+            "text": "Hey, hey, have you heard of that one café? \nWord has it everyone comes out feeling refreshed!"
+        },
+        {
+            "name": "Young Woman A",
+            "text": "Of course I've heard! It's said— \nThat they serve up that precious courage you need."
+        },
+        {
+            "name": "Young Woman B",
+            "text": "That's right — I've been served my courage there already. \nI'm sure, anyone that goes there……"
+        },
+        {
+            "name": "Бико Пегасус",
+            "text": "Welcome!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "To our café! Hehen, this way, this way☆"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ohh, welcome! The sun's out and shining today so the \nwindow seats feel great♪ I'll bring you the menu."
+        },
+        {
+            "name": "Хиши Акэбоно",
+            "text": "Bono♪ We just finished a new parfait, would you like to try it?"
+        },
+        {
+            "text": "Led by the floor staff, I entered a café where I was \nwelcomed by friendly staff and a kind pâtissier.",
+            "choice_data_list": [
+                "(What a nice place…)"
+            ]
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "…… Are you looking for a sweet memory? \nOr do you need a little encouragement?"
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "Ehehee. Please take a chocolate first. \nThey're our pride and joy.",
+            "choice_data_list": [
+                "……! Thank you."
+            ]
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "Please take your time. Until your heart finds \npeace, until your heart finds its strength."
+        },
+        {
+            "name": "Мэдзиро Райан",
+            "text": "―― Such is our café."
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Кинг Хало invites me out on a trip one\nday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look, Trainer! This is a genuine first-rate\ninn!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Today's an occasion to let your hair\ndown! Rest\nand unwind to your heart's\ncontent!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "With this hot spring vacation coupon,\nyou can use\nany of the inn's facilities. I\nhereby grant you the\nright to full body\nrelaxation!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That's right. We're making use of the hot\nspring\nvacation coupon we won at the\nshopping district\nbefore.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe. I've always wanted to try a hot\nspring\nwhere all the first-rates go.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "This is your first time?"
+            ]
+        },
+        {
+            "text": "Well... I mean... think of how far away\nthis place\nis. I've had my eyes on it for\nyears, but I haven't\nhad the opportunity\nto stay.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Also, I decided to invite you when I won\nthese\ncoupons, so...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Anyway! We've got hot springs galore to\nhelp us\nwarm up and de-stress, so I'm\ngiving you the right\nto go enjoy them!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Weren't you about the say something else?"
+            ]
+        },
+        {
+            "text": "Even if I was, the hot springs are far\nmore\nimportant, so don't worry about it.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Dinner's at seven, so you can do\nwhatever you'd\nlike until then, okay?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "text": "Good! Enjoy your day to your heart's\ncontent!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You want to take a bath? Take a bath!\nYou want\nto get cozy in your room?\nWell, I'm not stopping\nyou!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Taking full advantage of your relaxation\ntime is\nfirst-rate! Go forth and make full\nuse of the\nfacilities available!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, I enjoy a nice soak in the hot\nsprings.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mmm... Ahhh, that felt so nice.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But I don't know, I feel kind of bored.\nIt's still only\nsix o'clock.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I wonder if Trainer's also feeling bored...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Or perhaps not at all.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's six-thirty now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Dinner is scheduled for seven, but I\ndecide to find\na seat a little ahead of\ntime.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Trainer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I thought I told you dinner isn't until\nseven. Why\nare you here so early?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You're here too."
+            ]
+        },
+        {
+            "text": "Well... I came to appreciate the view!\nThe scenery\nis part of the relaxation\ncourse too, right?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's so beautiful, and the wind feels\namazing right\nafter a bath.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The last three years have been a\nwhirlwind.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "With racing constantly on my mind, it\nfeels like\nit's been a long time since I've\nhad a break like\nthis.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's the same for you, isn't it? You even\ndedicated\nyour days off to supporting\nme.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So, what do you think? Were you able\nto relax\ntoday?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Yup! I'm ready to get back to it tomorrow!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Heh. You make it sound like you're\nalready\nthinking about the next race.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, so much for keeping things casual.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's fine, though. Since we're having\ndinner\ntogether anyway, we might as\nwell begin\ndiscussing plans.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm in the mood for some business as\nwell.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I've had enough relaxing for one day,\nhehe. Are\nyou ready to start tackling\nwork again?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, Кинг Хало and I enjoy the inn's\nfood while\ndiscussing plans for the near\nfuture.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I sense that Кинг Хало and I have formed\nan\nirreplaceable bond during this time\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm working as usual when Супер Крик\nexcitedly\nplaces a flyer on my desk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's for a free one-day pottery class.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They're holding an event at the art\nmuseum. It\nlooks like you get to make\nyour own bowls and\nteacups.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Doesn't it sound like a lot of fun? Why\ndon't you\ncome with me?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Sounds good!"
+            ]
+        },
+        {
+            "text": "Great! Since I don't have anything else\nto do\ntoday, let's get going! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "What are you thinking of making?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Maybe something we can use for training?"
+            ]
+        },
+        {
+            "text": "Gosh! Hehe, I wonder if you can really\nmake\nsomething like that out of clay...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You've always got training on your mind,\nhaven't\nyou?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I absolutely adore how dedicated you\nare.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What are you going to make?"
+            ]
+        },
+        {
+            "text": "Hmm, good question. A teacup or a vase\nmight\nbe nice...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But you have to carefully consider the\nthickness\nof things like teacups, or they\nmight end up being\ntoo heavy to use...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And vases are big, so you have to take\nyour time\nor you might ruin them.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Which do you think is better?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "A teacup seems handy.",
+                "A vase would make for great interior\ndecoration."
+            ]
+        },
+        {
+            "text": "Then a teacup it is!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe, I hope I do a good job! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I try my hand at pottery with Super\nCreek. We\ncan't come up with anything\nthat would be useful\nfor training, so we\nboth end up making teacups.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... That was pretty hard work,\nwasn't it?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Having a knack for it is important, but\nmaking\npottery actually uses more brain\npower than I\nexpected.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It won't turn out the way you want it to if\nyou let\nyour mind wander.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But watching it slowly take shape, a\ndeep feeling\nof attachment grew inside\nme...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "As if it were my own child.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I can't wait to see how they turn out once\nthey've been fired in the kiln."
+            ]
+        },
+        {
+            "text": "Me neither! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Um... Would you like to exchange\nteacups once\nthey're done?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I actually made a wish on my teacup\nwhile I was\nmaking it.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I wished for all the tea you drink out of\nit to be\ndelicious and relaxing.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You were thinking about me?"
+            ]
+        },
+        {
+            "text": "I was. You're always working hard, so I\nwanted to\ngive you some comfort.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I'll always be here to make you feel\nbetter\nwith more than just a cup of tea!\nHehe!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Several days later, Супер Крик and I\nenjoy some\ntea after exchanging our\nteacups.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It will be difficult, but trying hard is an\nexperience\nin and of itself!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Let's keep giving it our all! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I try my hand at pottery with Super\nCreek. We\ncan't come up with anything\nthat would be useful\nfor training, so we\nboth end up making vases.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Great job. Did you enjoy yourself?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Yeah, it was fun!"
+            ]
+        },
+        {
+            "text": "It sure was. I loved watching how\nfocused you\nwere. So cute. ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But the whole process involved more\ndetail and\npatience than I expected.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It wasn't just about gently pressing the\nclay with\nyour hands. There was a lot\nmore to it.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I think it was a truly valuable experience.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I can't wait for them to be fired in the kiln."
+            ]
+        },
+        {
+            "text": "Me neither! We should go find some\nflowers to\nput in them once they're\ndone.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It would be lovely to decorate our own\nrooms\nwith the same flowers.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "That way, we'll think of today whenever\nwe look\nat them and remember the fun\nwe had! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "A few days later, Супер Крик and I\nhead out to\nlook for flowers to put in\nour finished vases.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems like she's learned something\nvaluable\nfrom the pottery class.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems like she's learned something\nvaluable\nfrom the pottery class.",
+            "name": "Монолог"
+        }
+    ]
+}

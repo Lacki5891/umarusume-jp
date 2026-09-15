@@ -1,0 +1,21 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Having lost to Super Creek in the Arima Kinen, \nOguri Cap vows to defeat her next time."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the race, Tamamo Cross visits the waiting \nroom and declares she's postponing competing \nfor the Dream Trophy in order to face off against \nOguri Cap.",
+            "color_text_info_list": [
+                "Dream Trophy"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The appearance of an unexpected rival marks the \nstart of a new period of training for Oguri Cap."
+        }
+    ],
+    "title": "After the Arima Kinen: Electrified"
+}

@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Well, hello there, Trainer. I'm sorry you\nhad to\nsee that.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "You look exhausted."
+            ]
+        },
+        {
+            "text": "Recently, my creative juices have been\nflowing\nbest after the sun exits its\nheavenly stage.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "My latest work is an opera written by\nand starring\nyours truly. <i>Overlord of the\nRose Sky</i> will be told\nin twenty-six parts.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Upon completion, this masterpiece will\nsurely be\nseen as a revolutionary\ncontribution changing the\nrealm of fine\narts!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Т.М. Опера О seems fulfilled with her\nrecent\nproductivity, but it's also\napparent she could use\nmore rest.",
+            "name": "Монолог"
+        }
+    ]
+}

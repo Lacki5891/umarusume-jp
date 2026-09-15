@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Маяно Топ Ган doesn't show up for\ntraining, so\nI head out to look for her,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You seem pretty frazzled. Looking for\nsomething?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh! Lemme guess... You're looking for\nme,\naren'tcha?! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I know! Why don't you join us for\nhide-and-seek.\nWe're in the middle of a\ngame right now. ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'm glad you're okay..."
+            ]
+        },
+        {
+            "text": "Huh? Of course I'm okay... Oh, wait.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Training, right? Did you get worried\nwhen I didn't\nshow?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm sorry! That face—I didn't mean to\nmake you so\nupset!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Just be more careful next time."
+            ]
+        },
+        {
+            "text": "Yeah... I'll try my best not to worry you! I\ndon't\nwant you looking like that ever\nagain!",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

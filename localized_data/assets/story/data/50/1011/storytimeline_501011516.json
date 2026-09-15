@@ -1,0 +1,83 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day in the early afternoon, I spot\nGrass\nWonder deep in contemplation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... I really shouldn't eat too much\nmore, but...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What's on your mind?"
+            ]
+        },
+        {
+            "text": "Ah, Trainer. I'm trying to decide the\nappropriate\namount of food for lunch.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's a little embarrassing to admit this,\nbut... I'm\nafraid I may have already gone\nand stuffed\nmyself.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Have you been snacking?"
+            ]
+        },
+        {
+            "text": "Yes. It was so lovely out, my classmates\nand I had\ntea together.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But I was having such a wonderful time\nchatting\nand drinking, I kept reaching\nfor sweet after\nsweet.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You should have seen it. Spe had a treat\nin each\nhand the whole time... Hehe. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The question is, what am I to do now? I\nsuppose\nyou might consider this my just\ndeserts.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер looks to me for an answer.\nIt'd be\nbad for her health if she ate too\nmuch, but sweets\nare no substitute for a\nproper lunch...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You know, gluttony is considered a sin.",
+                "You can't train well on an empty stomach."
+            ]
+        },
+        {
+            "text": "Hmm... You might be right there. For\ntoday, I\nshould practice restraint.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe. Still, our tea party was such a\ntreat. Won't\nyou join us next time,\nТренер?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I promise you I'll be moderate with my\nsweets\nintake. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Well... I agree, a lackluster meal leads to\na\nlackluster performance.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Having a balanced diet is part of one's\ntraining\nregimen. I might be overeating a\nlittle, but my\nbody needs its nutrients. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe. With that settled, I'll have to pick\n\nsomething that compliments the leftover\ntea...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер makes a conscious effort\nto eat\nwell and better her training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Making tea with her friends seems to\nhave put\nGrass Wonder in a good mood.",
+            "name": "Монолог"
+        }
+    ]
+}

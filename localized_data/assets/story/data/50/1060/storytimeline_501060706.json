@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back home with Nice\nNature...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey... Since we still have some time... do\nyou want\nto go check out some fish?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The lady at the fish store told me to\nbring you\nsometime.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sure, I'm down."
+            ]
+        },
+        {
+            "text": "Great. Shall we, then?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I follow her, thinking maybe she has her\neye on a\nparticular fish she wants to buy,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohhh, look at them go! These\ntasty-looking fish\nsure know how to\nswim.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I wasn't expecting to come to an aquarium."
+            ]
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Trust me, I get it! You're probably\nthinking, \"Huh,\nwhat was up with the\nway she invited me?\" Right?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's just good ol' Nature for you. I\ncan't really\ndo things the cutesy way.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "After the lady at the fish shop went\nthrough the\ntrouble of giving me the\ntickets for us to relax, I\nhad to get you\nhere somehow...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I really didn't mean to trick you or\nanything, I\nswear.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Thanks for bringing me here."
+            ]
+        },
+        {
+            "text": "Well, I'll be... Who's this cool cucumber\nover\nhere? You sure are taking this in\nstride.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, that's good. I'm glad you're not\nupset.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Anyway, I don't know if it'll make up for\nit, but...\nlet's see what you want to see\ntoday!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It looks like they have a lot of\ninteresting stuff\ngoing on here. Can't go\nwrong with everyone's\ngo-to da—I mean,\nhangout spot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The jellyfish exhibit, stingrays,\nsnappers... They\nall looked so tasty.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, how about we go and see the\ndolphin show?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Actually, I bet you don't want to see\ncutesy\nthings like that with me.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, I'll leave it up to you! What do you\nwant to\ngo see?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "The dolphin show.",
+                "The <i>World's Spookiest Sea Creatures</i> exhibit!"
+            ]
+        },
+        {
+            "text": "Um... Were you listening?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah, I was listening."
+            ]
+        },
+        {
+            "text": "Okay, I get it, but are you saying that\nbecause\nyou <i>want</i> to do it, or...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "No, never mind... I guess I did say we'd\nsee\nwhatever you want to see.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Fine. If that'll help you relax, then let's\ndo it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I hope you understand I won't be doing\nany\ncutesy screams, though.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wow, look at how lively that dolphin is!\nWait...\nWater! It's coming this way!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Gyaaaargh!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Drat... That splash was way bigger than I\n\nexpected.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I didn't expect the dolphin show to be a\n\nnear-death experience...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Geez... Not only did I end up screaming,\nit was\nmore of a yowl.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That was fun."
+            ]
+        },
+        {
+            "text": "Heh... I guess it was, wasn't it? Maybe\nplaces like\nthis are my thing, after all.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, that sounds exciting!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It says \"spookiest.\" I wonder how scary\nthese fish\ncan be...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We move on to the exhibit area. After\nlooking\naround myself, I glance over at\nNature to see her\nreaction.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "...So?"
+            ]
+        },
+        {
+            "text": "So adooorable!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Awww! Look at their little eyes! And\nthey're called\nflapjack octopi!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ooh!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm glad you're having fun."
+            ]
+        },
+        {
+            "text": "C-come on, this is false advertising! No\nway you\ncould call cuties like this\n\"spooky.\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oooh... They're too adorable.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Hey, that one over there is pretty cute too..."
+            ]
+        },
+        {
+            "text": "You're right! It's kinda ugly, but in a cute\nway!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер and I have a great time at\nthe\naquarium, and we both leave feeling\nfully\nrefreshed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Найс Нэйчер and I have a great time at\nthe\naquarium, and we both leave feeling\nfully\nrefreshed.",
+            "name": "Монолог"
+        }
+    ]
+}

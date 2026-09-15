@@ -1,0 +1,100 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "An alluring aroma draws me into a ramen\nshop on\nmy day off. After passing\nthrough the door, I spot\na familiar face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Running away, are you? Whilst the\nbattle for the\ncrown is yet to be\nconcluded?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "The question begs its answer—who\namong us two\nlords is to be crowned the\nRamen King?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "You are not listening! I'm telling you that\nspeed\neating ramen is beneath kingly\nconduct!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "However... I cannot ignore your brazen\nwords!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll give you the honor of a personal\nlesson! No\nmatter the contest... I am the\ntrue king of kings!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hah... Allow me to demonstrate the\ndifference\nbetween you and I. For I am\nthe Overlord... the\nlord of all kings!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Why am I not recording this?"
+            ]
+        },
+        {
+            "text": "Ah, Trainer! Come to spectate on this\nkingly\ncontest, have you?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Very well. Burn this moment into your\nmemory,\nfor it will be the moment I\nconquer all to become\nthe unquestioned\nsovereign!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "You two should bring out that fervor in a race!",
+                "I'll stand by and watch."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "The Two Vying Kings"
+        },
+        {
+            "text": "You know how to stoke the competitive\nfire.\n...What do you say, King?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I say you're on. We'll continue this on\nthe track!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Victory... shall be mine!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And so, their speed eating contest to\ndecide the\nking of kings gets underway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sluuurp! Gulp!</i> By one topping, I am\nvic—augh!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>Munch, munch.</i> Ohohoho! That is what\nhappens\nwhen you overdo—ngh!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>THUD!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "They've pushed their stomachs to the\nlimit,\ncollapsing as a result. Just as I'm\nwondering how\nI'm going to roll them\nboth out of here...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Chef! Another two bowls for the Ramen\nKing\ncontest, please! ♪",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Wha?!",
+            "name": "The Two Vying Kings"
+        },
+        {
+            "text": "Like the steam from a bowl of cooling\nramen,\ntheir combative tension curiously\nfades.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As I stare absentmindedly into the\ndistance, I\nrealize that even at the top,\nthere is always\nsomeone better.",
+            "name": "Монолог"
+        }
+    ]
+}

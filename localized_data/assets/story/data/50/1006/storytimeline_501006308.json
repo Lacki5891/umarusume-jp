@@ -1,0 +1,227 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Ohhh... I lost."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I wasn't able to live up to everyone's \nexpectations...",
+            "choice_data_list": [
+                "You ran well though.",
+                "You ran well though."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I didn't win. At the end of the day, that's all \nthat matters."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I could hear people sighing with disappointment. \nI... I..."
+        },
+        {
+            "name": "",
+            "text": "...Oguri Cap stands motionless, proving just how \nfrustrating this loss is to her."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Good job out there, Oguri."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "It looks like I won this time. So... do you want to \nend our rivalry here?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "N-no..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Then you've got to keep moving forward. I'll be \nwaiting for you a little further down the line."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I plan to win next time too though—so you'd best \ncome prepared!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...I'm not gonna lose again."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I need to get stronger and prove that I can beat \nCreek next time!"
+        },
+        {
+            "name": "",
+            "text": "Driven by Super Creek's words, Oguri Cap is \nalready looking toward the future."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've gotta get stronger!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Creek said she'd be waiting for me further down \nthe line. She must have been talking about next \nyear's Arima Kinen."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That means I <i>have</i> to qualify. And next time, I'm \ngonna beat her."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I don't want to disappoint anyone anymore!"
+        },
+        {
+            "name": "",
+            "text": "Oguri Cap is more than competent enough as she \nis. All she needs to do now is keep gaining \nexperience in G1 races."
+        },
+        {
+            "name": "",
+            "text": "There, she'll be able to polish her skills by facing \noff against many powerful competitors. Such \nexperiences will surely expedite her growth.",
+            "choice_data_list": [
+                "Okay! Let's enter as many races as we can!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All right!"
+        },
+        {
+            "name": "",
+            "text": "She's all fired up! But just as we're about to \ndiscuss which race to take on next, a familiar face \ninterrupts us."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sorry to butt in!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I was watchin' the whole time! Ya did great, \nOguri!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I could tell you were really puttin' your all into it. \nSeriously, great job."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks, Tama—"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urgh..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "H-hey, you okay?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't worry, I'm fine. I just feel a little weak..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Maybe it's because I've been wanting to see you. \nThe wave of relief must've been a little much for \nme."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...Hey, you cut that out!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "What's wrong?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "D'ya think I'm your momma or somethin'? 'Cause \nI'm pretty sure I'm not."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'm an <i>Umamusume!</i> Have ya forgotten that?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Huh? Of course not. What else would you be?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The heck kind of answer is that? Don'tcha know \nwhat that <I>means?!</I>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What I'm tryin' to say is dat I'm your rival as well!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Now ya get it! So it's decided! We gotta go \nhead-to-head!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Truth is, I was plannin' on aimin' for the Dream \nTrophy next year.",
+            "color_text_info_list": [
+                "Dream Trophy"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh really?"
+        },
+        {
+            "name": "",
+            "text": "The Dream Trophy League—a higher-level league \nwhere Umamusume who have proven themselves \nin the Twinkle Series compete.",
+            "color_text_info_list": [
+                "Dream Trophy League"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Having debuted a little earlier than Oguri Cap, \naiming for the Dream Trophy League should be \nthe natural next step for Tamamo Cross."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But after seein' your battle with Creek, I made up \nmy mind to stay back for a year and prove I can \nbeat ya!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Let's determine once and for all who's the \nbest—me, you, or Creek!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Got that, Oguri? I'm your opponent next time!",
+            "choice_data_list": [
+                "...You okay?",
+                "...You okay?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...I'm fine. All right, let's get to work on our next \nplan."
+        },
+        {
+            "name": "",
+            "text": "Oguri Cap's battle with Super Creek may be over, \nbut now she has another powerful rival who wants \nto take her on."
+        },
+        {
+            "name": "",
+            "text": "She seems to have a lot to mull over. It's time for \nthe two of us to get to work."
+        }
+    ],
+    "title": "After the Arima Kinen: Electrified"
+}

@@ -1,0 +1,102 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро МакКуин and I have come to\nwatch a\nrace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Soba, udon, steak, soft serve ice\ncream, carrot\ndonuts—",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Is that an incantation?"
+            ]
+        },
+        {
+            "text": "No. Earlier in class, we were discussing\nracecourse\nfood.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "This scent of excessively seasoned junk\nfood... I'd\nnever noticed it before, but\nnow...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Its inescapable allure is drawing me in!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Do you want to take a look?"
+            ]
+        },
+        {
+            "text": "...Yes. I cannot deny the curiosity born\nfrom\neveryone's discussion of these\nflavors.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That's why there is something for which I\nmust\nrequest your cooperation.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I would disgrace the Mejiro family name\nif I am\nleft completely ignorant of the\nfoods being\noffered here. So, would you\ncome have a taste\nwith me?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "An interesting proposition, but\neverything on\noffer sounds rather\nunhealthy.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's split it.",
+                "Let's hold back."
+            ]
+        },
+        {
+            "text": "Yes, let's! Now, I will take half—no! Just\na bite.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The strong flavor comes as a surprise\ninitially,\nbut... Yes, I can see why this is a\npopular topic of\nconversation.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I seldom get to experience this sort of\nflavor at\nhome or at the academy, but\njust one bite is\nenough to tell me it lacks\nnutritional balance.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's delicious, but... you could call it a\nnatural\nenemy to those on a diet. Yes, a\ntaboo flavor! I\nmust be careful not to\noverindulge.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Y-yes... I can see why this food is such a\npopular\ntopic of conversation.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I've eaten more than I anticipated, which\nhas\nresulted in quite a painful situation.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I tried to stop you..."
+            ]
+        },
+        {
+            "text": "I-it's not my fault! I was entranced by the\n\ndelicious aroma of junk food!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Urk... I understand. If those are your\ndirections,\nthen I will abide by them.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "E-even so, I would like to have the\nopportunity\nsomeday! After all, it is a\nMejiro's duty to expand\nher horizons!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин shivers as we depart.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро МакКуин seems to have\novercome this\ntemptation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро МакКуин ate so much that she\ncan't seem\nto focus on watching the\nrace.",
+            "name": "Монолог"
+        }
+    ]
+}

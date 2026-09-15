@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way home from an outing with\n\nМарузенски...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time really does fly when you're having\nfun... I'm\nnot ready for the day to end!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I know what you mean."
+            ]
+        },
+        {
+            "text": "Oh, you too, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, you too, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "In that case... Since we're already out\nand about,\nlet's take a little detour!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's kind of boring just to go straight\nhome, you\nknow?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Okay, let's stop off somewhere."
+            ]
+        },
+        {
+            "text": "Woo-hoo! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Can I decide where we go? There's\nsomething I've\nbeen wanting to try for a\nwhile now!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Follow me!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Radical! They're still open!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I've always wanted to go to an\namusement park in\nthe evening!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски's goal is to visit just before\nclosing\ntime, when the park is almost\nempty.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's got that after-hours vibe. Hip, young\npeople\nlike to come at this time! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It'll be easier to get around with so few\npeople.\nThat means we can enjoy lots of\nrides!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Is entering just before closing time really okay?"
+            ]
+        },
+        {
+            "text": "No problemo! That's where you come in,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "No problemo! That's where you come in,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So, what kind of strategy do you think\nwe should\nfollow to have the most fun\npossible with our\nlimited time?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ooh, and I definitely want to ride the\nroller\ncoaster!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Let's just go straight to the roller coaster!",
+                "Let's ride everything we can!"
+            ]
+        },
+        {
+            "text": "Wh-whaaaat?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That plan... is the bomb!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "By focusing on just one thing, we'll get\nthe most\nenjoyment out of our time! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I heard the roller coaster here is the\nfastest in the\ncountry, so it's perfect for\nthis plan!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...Wait, what?"
+            ]
+        },
+        {
+            "text": "Oh, you didn't know? Well, I'm sure it'll\nbe like a\nwalk in the park for you!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're used to my driving, so this'll be\n\nnothing—probably!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're used to my driving, so this'll be\n\nnothing—probably!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now come on, before you change your\nmind!\nWe're wasting time!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's go, go, GO! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We ride the roller coaster, and while I\ncertainly\nfeel like I've developed a\ntolerance for high\nspeeds...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, are you okay? Can you stand\nup? Do you\nneed me to carry you?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'm... f-fine..."
+            ]
+        },
+        {
+            "text": "Trainer, are you okay? Can you stand\nup? Do you\nneed me to carry you?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'm... f-fine..."
+            ]
+        },
+        {
+            "text": "You shouldn't have pushed yourself so\nhard! Let's\ntake a rest on one of the\nbenches over there and\nthen head home.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A simple and straightforward strategy! I\nlike it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's going to be a test of stamina to see\nhow much\nwe can do...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I want to conquer <i>all</i> the rides! It may be\na pretty\nrough road, though. Are you\nready for that?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Affirmative!"
+            ]
+        },
+        {
+            "text": "Ooh, I love that energy! That's what I\nwant to\nhear, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ooh, I love that energy! That's what I\nwant to\nhear, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right, let's do this! Chaaarge!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, we're halfway there! Now for the\nfinal\nsprint!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "<i>Wheeze... wheeze...</i>"
+            ]
+        },
+        {
+            "text": "Hang in there, Trainer! Let's get through\nthis\ntogether!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hang in there, Trainer! Let's get through\nthis\ntogether!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We can do it! We're going to become\namusement\npark legends!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски and I keep up the pace,\nrushing\naround the whole park... and\nsomehow manage to\nride all of the rides!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The two of us take some time to admire\nthe\namusement park as the remaining\nvisitors\ncontinue to dissipate.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Though Сэйун Скай gets the big win,\nGrass Wonder\nstill earns an impressive\nplace at the Arima Kinen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yeah! You ran like a champ today, Grass\nWonder!",
+            "name": "Fan A"
+        },
+        {
+            "text": "You really are the Beast's Successor! I'm\nsure\nМарузенски's watching you like a\nhawk!",
+            "name": "Fan A"
+        },
+        {
+            "text": "I'm back.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "That was a great race, Grass."
+            ]
+        },
+        {
+            "text": "Thank you for the kind words... Still, I\ncan't help\nbut feel like it wasn't enough.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "This race should have been more...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hmm... I see how it is.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Oh... Sei?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Look, honestly...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "You left yourself wide open today,\nGrass.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Were you even trying out there?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "...!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Well, I guess we all have our off days.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "...Just don't go doing this to me again.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Ah, Sei!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...What was that?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Grass... You!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

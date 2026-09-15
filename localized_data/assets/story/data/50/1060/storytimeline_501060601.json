@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I really need to make sure I do well this\ntime. My\nlast race was pathetic.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Right. I gotta keep it together.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Don't put too much pressure on yourself."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Come on, me? Pressure myself? It's not\nlike I'm a\nhot-shot racer or—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'll take care of whatever happens afterward. So\njust go out there and have fun running!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Geez... Putting on a brave face for me,\nare we?\nHehe...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, all right. I'll have fun out there.\nBut\nwhatever happens, don't blame me,\nokay?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well then, time to go!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

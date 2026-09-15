@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I stop by a cafe and spot Fuji\nKiseki\nwith a younger Tracen student\ninside. It looks like\nthey just finished\neating.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That limited-time edition caramel and\nbanana\ncake was so delicious!",
+            "name": "Younger Umamusume"
+        },
+        {
+            "text": "It really was. But as tasty as it was...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I enjoyed watching you eating happily\nfar more\nthan I did the cake.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Aaah! Don't tease me like that!",
+            "name": "Younger Umamusume"
+        },
+        {
+            "text": "I'm loath to say goodbye, but I\nunfortunately\nmust go. Let's spend time\ntogether again\nsometime.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Phew...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer... Yes, I'm fine. I just have a\nbit of\nheartburn.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It happens now and again after I eat\nsweet things.\nHaha... Urgh.",
+            "name": "Фудзи Кисэки"
+        }
+    ]
+}

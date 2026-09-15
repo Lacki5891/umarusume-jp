@@ -1,0 +1,252 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after Найс Нэйчер has a number\nof\nvictories under her belt...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Тренер? Do you have a minute?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Do you remember when we won that hot\nspring\nvacation coupon? Whatever\nhappened to it?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She's talking about the grand-prize we\nwon\ntogether in a raffle. Technically, she\ngave it to me\nto use, but I've been\nholding on to it.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I still have it."
+            ]
+        },
+        {
+            "text": "Really? Then... would it be okay if I use\nit?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You know, it's kinda sad that I can't go\neven\nthough I won the coupon too.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I like hot springs, after all. In fact, I love\nhot\nsprings! I thought it'd be nice to\nrelax a bit, you\nknow what I mean?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So... can I?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Wooh—er, great. Thank you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, then we should sort out\nscheduling now.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "So who are you going with?"
+            ]
+        },
+        {
+            "text": "...Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "With you, of course! Hello?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Finally.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That was a long trip."
+            ]
+        },
+        {
+            "text": "After some planning and travel time, we\n\neventually find ourselves at the hot\nspring\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер is acting a bit awkward. It\nmight be\nbecause I initially didn't realize\nshe was inviting\nme here.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sooo...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Apparently this hot spring has lots of\nhealth\nbenefits. Why don't we go for a\nsoak real quick?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "After getting out of the hot spring, I'm\nrelaxing in\nmy room, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Knock, knock.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's me. Can I come in?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sure thing."
+            ]
+        },
+        {
+            "text": "Ummm... The water was really nice,\nwasn't it?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Do you feel rejuvenated?"
+            ]
+        },
+        {
+            "text": "Of course I do! It soothed me down to\nmy core.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All the pent-up stress in my shoulders\nand back?\nGone, just like that!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...How about you?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah, I feel well-rested!"
+            ]
+        },
+        {
+            "text": "That's good. It's a good thing we came\nhere...\nright?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah. Thank you for inviting me."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Don't say it like that.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "You could just say you wanted to come\nhere with\nme too.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You could just say you wanted to come\nhere with\nme too.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "\"Thank you for inviting me\" sounds like\nyou don't\nreally care if we came\ntogether or not.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Like... I'm the only one who cares.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That's not what I meant..."
+            ]
+        },
+        {
+            "text": "I don't knoooow. You're avoiding eye\ncontact.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Whatever. I'm being weirdly clingy\nright now. I\nwouldn't blame you if you\nthink I'm annoyi—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That's absolutely not the case!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...If you say sooo.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What should I do to make you believe me?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Trophy.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "I'd like a floppy trophy.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, it's supposed to be reward for\nhard work,\nright? I just thought it'd be\nnice to have one for a\ngeneral job\nwell-done...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So... make one right here, right now. You\nhave a\nnotepad or some paper, right?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "In front of you?!"
+            ]
+        },
+        {
+            "text": "Where else?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It's kind of embarrassing..."
+            ]
+        },
+        {
+            "text": "Oh yeah? That makes me want to see it\neven\nmore!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm always the one who showing my\nvulnerable\nside. Don't you think it's a bit\nunfair?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Fine..."
+            ]
+        },
+        {
+            "text": "Thank you. Hehe.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well then, I'll sit next to you and watch.\nI hope\nyou're ready to make a\nmasterpiece.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "With the occasional interruption from\nNice\nNature, I make her requested\ntrophy and present\nit to her. As for the\nquality... Well, it made her\nlaugh, so I'll\nconsider it a success.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I sense that Найс Нэйчер and I have\nformed an\nirreplaceable bond during our\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

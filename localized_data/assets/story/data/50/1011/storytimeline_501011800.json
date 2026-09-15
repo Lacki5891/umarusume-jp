@@ -1,0 +1,174 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I'm walking around the\nacademy after\nclass has let out...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, hello there, Trainer. Good\nafternoon.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What's with the outfit?"
+            ]
+        },
+        {
+            "text": "I'm on my way to the cafeteria for a\ncostume\nparty.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I wanted to do something from a fantasy\nworld,\nso I decided to dress up as a\ncleric.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ahhh! Grass, you look wonderful! It suits\nyou so\nwell!",
+            "name": "Bespectacled Underclassman"
+        },
+        {
+            "text": "Oh my... Hehe, thank you. I'm glad that I\ncould do\nthis costume justice.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And being a cleric with healing powers is\njust\nperfect for you, too!",
+            "name": "Underclassman with Braids",
+            "choice_data_list": [
+                "You do have that calming vibe about you."
+            ]
+        },
+        {
+            "text": "My, I'm honored...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yes, but I don't just mean her vibe.\nThere was this\none time, back when we\nfirst enrolled...",
+            "name": "Bespectacled Underclassman"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> Oh, this is no good... No\nmatter how\nhard I train, I keep falling\nbehind...",
+            "name": "Underclassman with Braids"
+        },
+        {
+            "text": "The standards at Tracen really are crazy\nhigh...",
+            "name": "Bespectacled Underclassman"
+        },
+        {
+            "text": "You're right... It's like there's no point in\neven\ntrying anymore.",
+            "name": "Underclassman with Braids"
+        },
+        {
+            "text": "Huuuh?! You're gonna do more, Grass?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But you just finished healing from your\nlast injury.\nI know tryouts are coming up,\nbut if you push\nyourself too hard...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Don't worry. I'm doing the rest of today's\ntraining\nin the pool, to avoid straining\nmy body too much.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Besides...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I have to do everything I possibly can. I\ndon't\nwant to have any regrets.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "If I tread too gingerly around minor\nsetbacks, I\nwill never achieve the growth\nI desire.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...!",
+            "name": "Underclassmen"
+        },
+        {
+            "text": "Whoa... Okay! Then I won't lose, either!\nTime\nt'get serious!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehehe. ♪ Why don't you join me for\nthat swim,\nthen?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Whenever we're about to lose heart... we\n\nremember those words and press on!",
+            "name": "Bespectacled Underclassman"
+        },
+        {
+            "text": "Your magical words of courage healed\nus, in a\nway. You gave us the courage we\nlost!",
+            "name": "Underclassman with Braids"
+        },
+        {
+            "text": "I gave you... courage?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Now that does sound like your kind of magic."
+            ]
+        },
+        {
+            "text": "While I'm grateful to my fans for their\nsupport... I\nalways run purely for my own\nsake.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...I never thought my efforts would\ninspire\nsomeone else.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I suppose a cleric's healing magic can\ncome in\nmany forms.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You'll have to run your best to inspire the rest.",
+                "You should use your magic on me next time."
+            ]
+        },
+        {
+            "text": "I suppose a cleric's healing magic can\ncome in\nmany forms.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You'll have to run your best to inspire the rest.",
+                "You should use your magic on me next time."
+            ]
+        },
+        {
+            "text": "Yes. In fact, the thought is raising my\nspirits\nalready. It makes me want to start\nrunning at\nonce.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As luck would have it, the party won't\nstart for a\nlittle while yet. A quick run\nshouldn't pose a\nproblem.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "U-um! May we join you? We promise we\nwon't get\nin the way!",
+            "name": "Underclassmen"
+        },
+        {
+            "text": "Of course. Just to be clear, I won't be\nholding\nback.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "No problem at all. Let's see... does it go\nlike this?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Swoosh! ♪ I cast Heal!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Whoa! Us, too, please!",
+            "name": "Underclassmen"
+        },
+        {
+            "text": "Dear me. Then I'll cast magic on all of\nyou at\nonce... Nature's Blessing! ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As I watch Грасс Вандер cast her magic,\njust\nseeing the smile on her face is\nuplifting on its\nown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Грасс Вандер's stride is more powerful\nthan ever\nafter making this new\ndiscovery.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Bzzzt...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's up?"
+            ]
+        },
+        {
+            "text": "I received a message from my mother.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She says, \"Never in my wildest dreams\ndid I think\nmy own daughter would run\nin the Japanese\nDerby.\"",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"My only wish is for you to achieve\nresults you can\nbe satisfied with.\"",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"Gib dein Bestes!\" That means \"Do your\nbest.\"",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I hope we can live up to her expectations."
+            ]
+        },
+        {
+            "text": "Hm...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Flash?"
+            ]
+        },
+        {
+            "text": "It's nothing. All races are the same.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "All that's required of me is to do what\nmust be\ndone as always, and achieve the\nproper results.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Are you feeling nervous?"
+            ]
+        },
+        {
+            "text": "Nervous isn't the correct word. I'm not\nsure what\nis though...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But I will still do what needs to be done.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now, I'll be off.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(So this is the Derby... The audience's\ncheering is\nso loud, the very ground is\ntrembling.)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(...Why am I suddenly shaking?)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Is this nervousness? Anxiety? No, this\nfeeling...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(It's similar to how I felt when C.B.\nsurpassed me.)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The trick to winning the Derby is telling\nyourself\nthat you'll win.",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "Channel your hunger to win into energy!\nDevour\nthe roar of the crowd, your\nopponents, your\nlimits, and your luck\ntoo!",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(I'm going... to win.)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(I'm going to win. I will win. I will\nabsolutely win...)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I want to win!",
+            "name": "Racer"
+        },
+        {
+            "text": "...?!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I refuse to lose... I will be the Derby\nchampion!",
+            "name": "Racer"
+        },
+        {
+            "text": "Good luck, everybody! Give it all you've\ngot!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(I feel everyone's expectations,\nexcitement,\nworries, and fighting spirit\nso keenly, it's making\nme tremble.)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(My body is trying to take it all in.)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(I see... This is neither nerves nor\nanxiety.)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(This is exaltation. I'm gearing myself up\nto win!)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This is it. I won't settle for anything less\nthan\nSieg—victory.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Toi, toi, toi...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The one who should become Derby\nchampion...\nNo, the one who <i>will</i> claim\nthat title...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Is me!",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

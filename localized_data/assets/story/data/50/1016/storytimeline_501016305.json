@@ -1,0 +1,132 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's Narita! Narita is in the lead! Narita\nBrian has\ncrossed the finish line!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Cheers and cries of joy shake the venue.\nEven\nthough it's only the first race of the\nClassic Triple\nCrown, there's an\nunprecedented sense of\nexcitement in\nthe air.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...What an amazing runner! I can't\nbelieve she's\nour competition this year!",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "She made the other racers look like\namateurs.\nShe's just on a whole other\nlevel...",
+            "name": "Репортёр"
+        },
+        {
+            "text": "There's no doubt about it... She's going\nto be the\nTriple Crown Champion!",
+            "name": "Photographer"
+        },
+        {
+            "text": "...I'm going ahead. I'll be in the waiting\nroom.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Yeah, leave this to me."
+            ]
+        },
+        {
+            "text": "...Okay.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Please wait! Нарита Брайан! At least a few\nwords,\nplease!",
+            "name": "Репортёр",
+            "choice_data_list": [
+                "Excuse me! Over here!"
+            ]
+        },
+        {
+            "text": "W-wait just a moment! One shot! Just\none shot!",
+            "name": "Photographer"
+        },
+        {
+            "text": "<i>Chatter, chatter.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Heh.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I handle the press at the entrance to\navoid\ncausing a commotion in the\nrunners' tunnel.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...Done, at last."
+            ]
+        },
+        {
+            "text": "I should hurry up and head to Narita\nBrian. She\nprobably wants to discuss our\nupcoming schedule\nas well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, did you see that one racer? She\nwas a total\nbeast on that final stretch.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "You mean Brian, right? I wonder if she'll\nbe at the\nDerby too. I just messaged my\ntrainer that we\nneed to talk about it.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "<i>Sigh...</i> Нарита Брайан...",
+            "name": "Both"
+        },
+        {
+            "text": "Apparently, today's race made quite an\n\nimpact—not only on the spectators and\nreporters,\nbut on everyone present.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Took you long enough.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Sorry to keep you waiting."
+            ]
+        },
+        {
+            "text": "Tch... I didn't want you to apologize.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The Japanese Derby is going to be here\nbefore\nwe know it, so let's hurry up and\ntalk.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Will I be competing against the same\nrunners as\ntoday's Satsuki Sho?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You want to race against them again?"
+            ]
+        },
+        {
+            "text": "Hah, what are you even saying?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Of course! No matter what others may\nsay, not a\nsingle person looked down\nduring that race.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The exhilaration of that race can only be\n\nunderstood by those who were on the\nturf. This is\nthe Classic Triple Crown—the\ncompetition of my\ngeneration.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I take back what I said before the race.\nI'm going\nto enjoy this year to the\nfullest!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "In this moment, Нарита Брайан seems to\npossess a\npassion altogether apart from\nthose around her.",
+            "name": "Монолог"
+        }
+    ]
+}

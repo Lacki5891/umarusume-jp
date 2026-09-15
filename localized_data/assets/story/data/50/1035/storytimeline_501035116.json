@@ -1,0 +1,134 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On our day off, Уиннинг Тикит invites\nme to\nwatch a race together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Watching broadcasts in my room is great\ntoo, but\nthere's something special about\nthe atmosphere\nat a racecourse!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So let's watch an exciting race today and\nget\nreally fired up!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "A hundred meters to go! And here\ncomes number\ntwelve from the outside!\nShe's closing in... she's\nalmost got them...\nshe takes the win!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Whoaaa! That was a great race! So\nawesoooome!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That Umamusume was amazing!",
+            "name": "Fan A"
+        },
+        {
+            "text": "I heard her trainer is retiring, so I bet she\nwanted\nto send them off with a win.",
+            "name": "Fan B"
+        },
+        {
+            "text": "So that's why she was so intense...\n\nCongratulations! You did great out\nthere!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Oh, wooow! She won the race for her\ntrainer! Isn't\nthat the most beautiful\nthing?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Didja hear that just now, Тренер?! It's\ngotta be\nthe sweetest thing ever!\nWaaaahhh!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Yeah, what a great race."
+            ]
+        },
+        {
+            "text": "Uh-huh! For real!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, look! The winner's crying... Nooo,\nyou'll make\nme start bawling again!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I... wanna run... <i>sniff...</i> a race full of that\nmuch\npassion tooooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "In the midst of all her tears, Winning\nTicket finds\nnew resolution.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But contrary to her positive spirit, her\ngrowth still\nshows little progress...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... huff...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm not even close to Taishin and\nHayahide's\ntimes... Uuughhh...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "They must be working even harder than I\nthought!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Trainer, Trainer! Can I practice a little\nlonger\ntoday again?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "That'd be too much."
+            ]
+        },
+        {
+            "text": "But at this rate, I'll be left behind! I\nwon't be able\nto run an exciting race!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She's right. Нарита Таисин and Biwa\nHayahide\nhave shown astonishing\nprogress recently.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But forcing herself to train an unhealthy\namount\nisn't going to help close that\ngap. So there's only\none thing to do...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Save that motivation for tomorrow's session!"
+            ]
+        },
+        {
+            "text": "Tomorrow?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, I get it! I'm hitting the same problem\nas\nbefore the Derby—getting too\ndesperate for\nresults!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Can't rush! Need to focus! I need\nSTRONG\nmotivation!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll break my record tomorrow so I can\nshow\neveryone an unforgettable race!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right, that's it for today! Thanks,\nTrainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "There's no issue with Ticket's motivation,\nnor with\nthe content of her practice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's why we don't need to rush.\nSometimes it\ntakes time for hard work to\npay off, that's all.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although I do have to hope she'll start\ngaining\nground soon...",
+            "name": "Монолог"
+        }
+    ]
+}

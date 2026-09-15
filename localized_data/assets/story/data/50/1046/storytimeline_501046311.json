@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wooooo!",
+            "name": "Spectators"
+        },
+        {
+            "text": "It's just like you said! One race down!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Good luck at the next one! I'll be\nwatching!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Things are off to a great start, and the\ncrowd is\ncertainly pleased. But as for\nSmart Falcon\nherself..."
+        },
+        {
+            "text": "<i>Phew...</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Okay!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Looks like our next race is the Teio Sho\nin June!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "2,000 meters... It's a little on the long\nside, so we\nneed a strategy, stat!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "R-right."
+            ]
+        },
+        {
+            "text": "Смарт Фалкон is not exactly wild with\nexcitement,\ndespite securing a fantastic\nfirst win."
+        },
+        {
+            "text": "Instead, she's already looking ahead,\neyeing her\nnext win."
+        },
+        {
+            "text": "Yoohoo, you okay? Come on, let's head\nback to\nthe academy!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Quick as lightning! ☆ In a flash! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "She's at least acting like her usual self,\nso I can't\nbring myself to say anything to\nher. For now, I\nswitch gears to focus on\nthe Teio Sho."
+        }
+    ]
+}

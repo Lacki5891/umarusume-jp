@@ -1,0 +1,91 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At last, the Sprinters Stakes is here!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohohoho! Look, Trainer!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Look how proudly my visage is depicted\non the\nposter over there!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But... it's a bit crooked. I'm going to go\nfix it.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hey! Is Кинг Хало really in the venue?!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Ah! There she is! Over there! Get her on\ncamera,\nquick!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Oh, I've been spotted.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Looks that way."
+            ]
+        },
+        {
+            "text": "Hehe, I shouldn't be surprised.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It can be inconvenient, but my majestic\nfirst-rate\naura never fails to shine\nthrough even the thickest\ncrowds.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Come, Trainer! Let's go!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, is that King? Man, celebs like her\ndefinitely\nget the crowds going.",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Haha! As they should! Hey, Kiiing! Give\nus a killer\nwin out there!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "You bet I will! Leave it to me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "We hurry to the waiting room.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Welcome all! We're finally here to\ndecide who will\nbe crowned victorious\nthis fall for the sprint!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Here comes the racer we've all got our\neyes on,\nthe one who dominated earlier\nthis year in spring!\nThe quee—I mean,\nKing!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Ohohoho! That's right! All the attention\nrightfully\nbelongs to me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало, the first-rate Umamusume!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Get out there and win!"
+            ]
+        },
+        {
+            "text": "Of course! My victory is certain!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "We might as well enjoy ourselves and\nbathe in the\ncrowd's cheer and praises.",
+            "name": "Кинг Хало"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh, nice, City! Now, for the next one, I\nwant you\nto relax...",
+            "name": "Photographer"
+        },
+        {
+            "text": "That's it! A glimpse of the real you as\nyou spend\nyour day at school... That's\nperfect!",
+            "name": "Photographer"
+        },
+        {
+            "text": "Okay, I'm going to look over what we've\ngot so\nfar. You can all take a break!",
+            "name": "Photographer"
+        },
+        {
+            "text": "Okay.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Good work, City."
+            ]
+        },
+        {
+            "text": "You too. It's not often you come along\nwith me to\nmy shoots. So, what do you\nthink?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "It feels so professional!"
+            ]
+        },
+        {
+            "text": "Well, we are pros.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Although it feels a bit weird having a\nshoot at the\nschool I go to every day.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It all started a few days ago. Голд Сити\nasked me\nfor help getting permission to\ndo a photo shoot\nat the academy."
+        },
+        {
+            "text": "It's for the magazine I'm a resident\nmodel for.\nThey're doing a feature about\nmy debut.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So they want some photos showing me\nat the\nacademy—you know, to get a\nsense of my\neveryday life.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Sure, I'll ask!"
+            ]
+        },
+        {
+            "text": "Thanks. I'll contact the editor to have\nthem reach\nout.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If you're interested, you can come see\nthe shoot.\nIt's literally just taking\npictures, though.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I was interested to see what she's like at\nwork,\nso... here I am."
+        },
+        {
+            "text": "Trainer! We really appreciate you setting\nthis all\nup for us! Thanks to your help,\nthis is going to be\na great feature for\nsure!",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "I think your presence helped City relax\nmore than\nnormal, as well!",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "That's not true. Trainer's got nothing to\ndo with\nthat—seriously.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You shot that down quick! Listen, I've\nbeen\nworking with you since you were a\nchild, and I've\nnever seen you act so\nkind and gentle before.",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "As a regular model for this magazine,\nGold City\nseems to get along well with\nall the staff at the\nshoot."
+        },
+        {
+            "text": "But..."
+        },
+        {
+            "text": "You're seriously amazing, City.",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "Huh? How so?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "To think you're already a successful\nmodel, but\nthen you want to run in the\nTwinkle Series on top\nof that!",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "I wonder if that unrelenting ambition of\nyours is\nthe real key to your beauty.",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Everyone in the editorial department\nrespects\nyou. Despite your popularity,\nyour self-discipline\nkeeps you striving to\nimprove yourself.",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "Thank you... But self improvement isn't\nthe reason\nwhy I run.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I know. I haven't forgotten what you said\nabout\nwanting to keep some distance\nfrom your identity\nas a model.",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "But that means you want to refine your\nimage\neven further, right? It's almost like\nyou're a monk\nseeking enlightenment!",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "I'm sure you'll be able to use what you\ngain from\nracing to benefit you in the\nfuture. I'm rooting for\nyou!",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "That's not it. The reason why I run is...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hm?",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "Never mind, I was just thinking about\nyour\ncompliment.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It made me... happy. Hehe...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "(Her voice sounds a little shaky...)"
+            ]
+        },
+        {
+            "text": "Is it frustration or disappointment?\nPerhaps she's\nhurt that her serious\nattempt at running is being\ntreated as a\nmere accessory."
+        },
+        {
+            "text": "Realizing this, I decide I can't keep\nquiet.",
+            "choice_data_list": [
+                "I hope you'll pay attention to her running."
+            ]
+        },
+        {
+            "text": "Huh? ...Тренер?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "The reason City runs is for the \"now.\""
+            ]
+        },
+        {
+            "text": "Um... Okay?",
+            "name": "Photo Shoot Staff",
+            "choice_data_list": [
+                "You'll understand if you watch her race. So\nplease, come and watch!"
+            ]
+        },
+        {
+            "text": "Um, of course, the editorial team is\ngoing to\ncome, but...",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "Uh... let's resume shooting, shall we?\nWe're\ncutting it a bit close for time. Are\nyou ready,\nCity?",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "Yes, I can go.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay. Trainer, please stay and watch!",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "Did I... touch on something I shouldn't\nhave?",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "No...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay, good work today! Look forward to\nits\nprinting in the magazine!",
+            "name": "Photo Shoot Staff"
+        },
+        {
+            "text": "Thank you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Trainer, about what you said during the\nbreak...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I should've minded my own business."
+            ]
+        },
+        {
+            "text": "I'm glad you realize that. My coworkers\nare all\nreally good people, so just be\ncareful.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "But I didn't want to see you forcing a smile."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So... you noticed.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I know they have nothing but good\nintentions. I\nknow they genuinely\nrespect me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Considering my track record, it's only\nnatural they\nconsider racing as my side\nhustle.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm already aware of all that, so I can do\nwithout\nthe forced help.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Or at least, I should be able to. But\nyou're right...\nit <i>was</i> shocking to hear.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Especially from someone who's been\naround me\nsince I was little...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's like they just don't know how I feel.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Then communicate it to them through your\nrunning."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "That's what I'm trying to do. Don't need\nyou to\ntell me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Still... you already get me, don't you?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Nothing. Let's go practice!",
+            "name": "Голд Сити"
+        }
+    ]
+}

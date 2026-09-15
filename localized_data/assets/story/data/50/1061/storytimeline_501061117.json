@@ -1,0 +1,221 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few weeks after the autumn Tenno\nSho...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало summons me to meet her at\nthe\nracecourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's been a while since we've been here.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "It's only been a few weeks..."
+            ]
+        },
+        {
+            "text": "No! That's not what I'm talking about!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "About a year ago, we came here for a\nparticular\npurpose, remember?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "There you are, Trainer. Are you\nprepared yet?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "We're about to go on a journey worthy\nof a king,\none which ends in becoming\nfirst-rate.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I said those words a year ago, right\nbefore I set\noff on a path completely of\nmy own making.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Not a path to gain everyone's approval,\nbut a\npath for me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And I've continued down it as a first-rate\n\nUmamusume.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "There's still more to come."
+            ]
+        },
+        {
+            "text": "Hehe, that's right.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But still... recently, something has been\nbothering\nme.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "It's this.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ever since she stepped out, the crowd\nhas been\ngoing wild! A fitting show of\nenthusiasm for this\nyear's champion of\nthe Classics!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Isn't everyone a little too excited?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "They were just as excited when it was you out\nthere."
+            ]
+        },
+        {
+            "text": "Don't say that! That just makes it worse!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>I'm</i> the one who won the\nTakamatsunomiya Kinen,\nthe Sprinters\nStakes, and the autumn Tenno Sho\nthis\nyear.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm this year's star! I'm the one at the\ncenter of\npeople's attention! <i>I</i> should be\nthe one being\npraised and worshiped by\neveryone!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So, in short...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You want even more attention?"
+            ]
+        },
+        {
+            "text": "No! Not more, I want it <i>always!</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm Кинг Хало, the first-rate\nUmamusume! The\nonly one playing the\nleading role in my world\nshould be me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "For as long as I continue on this path,\nthe\nspotlight should be on me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I have no intention on giving it up, not\neven to\nthose who come after me!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "In that case, we need to go out and win more!"
+            ]
+        },
+        {
+            "text": "Yeah! Let's show everyone my\nfirst-rate—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Grrrr! You dummies! Don't interrupt me\nwith your\ncheers!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ughhh... I don't care who these new\nracers are! I'll\nbeat them all!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "To start, I'll win the Arima Kinen, and\nthen—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hey, I wonder who will be the\nUmamusume of the\nYear.",
+            "name": "Umamusume from the Race"
+        },
+        {
+            "text": "Oh, me too! I also want to know who'll\nbe this\nyear's Decorated Umamusume.",
+            "name": "Excited Umamusume"
+        },
+        {
+            "text": "I see...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, I just had a great idea. If I'm not\nmistaken...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hey, Trainer. Did you hear?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "My mother announced her interest in\ndesigning\nsignature racewear for future\nURA Decorated\nUmamusume.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But for me, something like that is\nnothing more\nthan a checkpoint down\nthe path I walk.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I have what it takes to receive that title\nbecause\nI'm a first-rate Umamusume!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "A Decorated Umamusume, huh?"
+            ]
+        },
+        {
+            "text": "It's a title given to Umamusume who\nhave\ncontributed most to the Twinkle\nSeries.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's counted among the greatest honors\nan\nUmamusume can receive.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Think you can keep it up till the end of your\ncareer?"
+            ]
+        },
+        {
+            "text": "The end of my career?! Why would you\nsay\nsomething so stupid?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm going to remain active my entire life!\nDon't be\na simpleton!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It sounds like Кинг Хало has no intention\nof ever\nretiring.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In that case, she has a lifetime ahead of\nher\nbefore she earns that title.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe I should run in the Arima Kinen\nafter all.\nHmm... If I do, then...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'd basically have to come up from the\nbottom! In\nfact, I think \"Кинг Хало\nMakes the Impossible\nPossible\" would\nbe a perfect headline!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Trainer! If we're going to do this, I'll\nneed to start\npracticing my dash!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, she really should focus on her\nupcoming\nraces first, rather than those in\nthe distant future.",
+            "name": "Монолог"
+        }
+    ]
+}

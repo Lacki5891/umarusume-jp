@@ -1,0 +1,41 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Таисин and I are in the middle of\ntraining\nwhen she has a small outburst."
+        },
+        {
+            "text": "<i>Huff... huff...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Dammit! How am I already out of\nbreath?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Maybe you're still tired from your last race."
+            ]
+        },
+        {
+            "text": "As if!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm totally fine, and I'm gonna run in the\nnext race\ntoo, so—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ack!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I really think you should rest..."
+            ]
+        },
+        {
+            "text": "I told you I'm <i>fine!</i> Let's get back to\ntraining.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All those back-to-back races have\nclearly\nexhausted her. I should rethink\nher upcoming\nschedule."
+        }
+    ]
+}

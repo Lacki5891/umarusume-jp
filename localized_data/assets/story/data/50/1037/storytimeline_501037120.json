@@ -1,0 +1,139 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I have to commit the sight of Эйсин Флэш\nrunning\nto my mind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I silently begin to do so as the final\nsummer camp\nbegins, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Let's take a ten-minute break."
+            ]
+        },
+        {
+            "text": "Sure. I have a question, though...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Trainer, are you watching me?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Of course. I'm your trainer, aren't I?"
+            ]
+        },
+        {
+            "text": "No, not in that sense. There is clearly\nsomething\nbothering you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "If something is concerning you, please\ntell me as\nit is.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And just like that, she's seen right\nthrough me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You wish to imprint the sight of me\nrunning into\nyour memory? But why?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Because I like the way you run."
+            ]
+        },
+        {
+            "text": "The sight of her running was what made\nme want\nto be her trainer in the first\nplace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell her how watching her run made me\nwant to\nsupport her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But why is that?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I don't believe my running style is\nparticularly\noutstanding compared to\nanyone else's.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I'm not sure myself."
+            ]
+        },
+        {
+            "text": "You don't know the reason?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Call it intuition."
+            ]
+        },
+        {
+            "text": "Intuition, is it?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You've come a long way on nothing but\na\nbaseless feeling, haven't you?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "But my gut was right."
+            ]
+        },
+        {
+            "text": "Everything I've felt on this journey with\nher has\ndone nothing but reassure me\nthat becoming her\ntrainer that day was\nmy own \"right\" decision.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You were brilliant at the Osaka Hai and the\nSpring Tenno Sho."
+            ]
+        },
+        {
+            "text": "I'm not sure how valid that statement is,\nbut... I\nam confident that I ran well in\nthem.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I might have completely fallen apart on\nmy own.\nIt was thanks to you that I was\nable to see my\nschedule to the end.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "That's not true."
+            ]
+        },
+        {
+            "text": "...?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "We've come this far on the right path <i>together.</i>"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Is it not too early to say such a thing?\nYou speak\nas if everything is coming to\nan end—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...Ah.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "...Let's get back to training."
+            ]
+        },
+        {
+            "text": "...Thank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "To make a schedule is to create a\ndefinitive end\nto something.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That is decided from the start. So why\nam I...",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

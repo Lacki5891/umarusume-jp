@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Hm? Oh, no, it's nothing. I just haven't\nbeen\nsleeping well of late.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Марузенски found me taking a nap the\nother day.\nShe says I was talking in my\nsleep about student\ncouncil business.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Even in my dreams, I have no respite\nfrom my\nduties, it seems.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Perhaps that's why I feel as though I've\nhardly\nslept at all. Frankly, I struggle to\ndiscern whether\nI'm dreaming or awake.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It sounds like Симболи Рудольф's lack of\nproper\nsleep is becoming a real\nproblem...",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! I did it, I did it! I won against\nTaishin!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Yeah, you did great!"
+            ]
+        },
+        {
+            "text": "Wow, that was a thrill! Racing her is\ntough, so it\ngets me nervous.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ahhh... I'm so happy... <i>Sniffle...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh? Whoaaaa! Taishin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Um, today's race was... well, really great!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Great? As in, \"Well done, you tried\"? Is\nthat what\nyou mean?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ugh, don't give me that!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No, no, no!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Even before we left the gates, I could\nfeel this\nforce coming from you—it was\nyour drive to win!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Actually, I was kinda scared. You looked\nreally\nbig in the moment—like, HUGE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But... that's why I knew I reaaaally didn't\nwant to\nlose, either!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I got super fired up during this race.\nThat's why it\nwas really, <i>really</i> great!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Нарита Таисин's eyes flicker when she\nhears\nУиннинг Тикит's passionate\nexplanation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Right.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, I won't let you win next time. The\nSatsuki\nSho's mine!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yeah... Same here!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Haha!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Heh.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Уиннинг Тикит won against Narita\nTaishin this\ntime.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next race will be the Satsuki\nSho—it's time for\nBNW to start\npreparing!",
+            "name": "Монолог"
+        }
+    ]
+}

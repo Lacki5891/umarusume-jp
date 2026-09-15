@@ -1,0 +1,100 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yes! Now I'm a real runner!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Congratulations on your debut, City! It\nwas a\nfantastic run!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "...Thank you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The fans are all wondering about your\nfuture!\nWhat kind of agenda do you\nhave in mind?!",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Will you set your eyes on the G1 races?\nThe\nHanshin Juvenile Fillies, perhaps?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "The glamor of the race would suit you!\nPlus it's an\nimportant one leading up to\nthe Tiara tour!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "The Tiara tour...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "If you want to ask more questions, I'll have to\nask you to schedule an interview."
+            ]
+        },
+        {
+            "text": "Ah—just one last thing! Your fans are\neager to see\nmore of your eye-catching\nrunning!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "A few days after Голд Сити's successful\ndebut, I\ncall her over to decide her next\ngoal.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'm thinking the Asahi Hai F.S. or Hanshin J.F."
+            ]
+        },
+        {
+            "text": "The Asahi Hai F.S. tends to attract\nrunners aiming\nfor the Classic Triple\nCrown tour, while the\nHanshin J.F. is for\nthe Tiara tour.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Both the Classic Triple Crown and Triple\nTiara are\ntop class series.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "As a real runner... that's the kind of glory\nI have\nto strive for.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Either way is a great path."
+            ]
+        },
+        {
+            "text": "I think... the Hanshin J.F. might suit me\nbest.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "text": "It seems like my fans really want to see\nme wear\nthe Triple Tiara.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The Triple Tiara consists of the Oka Sho,\n\nJapanese Oaks, and Shuka Sho—three\nraces\nfamed for their glamorous\nspectacle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's like that reporter said, everyone's\nlooking for\nan eye-catching performance\nfrom me, aren't\nthey?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If that's the case, I should give them\nwhat they\nwant!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Then we're headed for the Hanshin J.F.!"
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Голд Сити"
+        }
+    ]
+}

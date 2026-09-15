@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with Gold\nCity...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, so those are the Cuties I've heard so\nmuch\nabout.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити is looking at a claw machine\nfilled with\nUmamusume plushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Only runners with high promise get to\nhave Cuties\nmade after them, you know.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So... Yeah, I'm probably not in there.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You don't know that!"
+            ]
+        },
+        {
+            "text": "You're far too positive.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm not against checking it out, though. I\nheard\nCuties are pretty high quality for\nbeing plushies.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Then let's get one to see for ourselves."
+            ]
+        },
+        {
+            "text": "Huh? Why do you have your wallet out?\nWait,\ndon't tell me...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

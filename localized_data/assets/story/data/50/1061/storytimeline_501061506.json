@@ -1,0 +1,141 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I head to the dance studio at Кинг Хало's\nrequest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today, you shall have the privilege of\nwatching\nmy royal dance lesson.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You'll see first-rate dancing up close and\n\npersonal, so you better appreciate it!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "One, two, three! ♪ One, two, three! ♪",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You're supposed to chant \"King\" here,\nokay?\nAaaaand, go!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Not \"huh\"! Do the chant!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "A first-rate chant helps liven up the\nwhole\naudience at a concert.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It doesn't matter if we're just\npracticing—I want it\nto feel like the real\nthing!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Otherwise, this is a waste of time.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I see what you mean, but it might be a little\ndifficult..."
+            ]
+        },
+        {
+            "text": "Well, I suppose it is unreasonable to\nexpect you\nto create the atmosphere of\na concert all by\nyourself.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I wonder if we should invite some\nyounger\nstudents to help set the right\nmood...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Then it would be just like the real thing!",
+                "Don't worry. I can belt out that chant with the\npower of an entire audience!"
+            ]
+        },
+        {
+            "text": "That settles it. The more cheers there\nare, the\nmore exciting it will be!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "One, two, three! ♪ One, two, three! ♪",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King! ♪ King! ♪",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Ohohoho! That's more like it!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now to show you a first-rate dance!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wooooo! ☆ King is number one!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Now, everyone join in and make it even\nmore\nexciting!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You've been granted the privilege of\ndancing\nbeside your king! Come forth!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Yaaay! ♪",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Hehe, that's the spirit!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now then, let's push this dance to the\nlimit!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "One, two, three! ♪ One, two, three! ♪",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Time for the chant!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "King! King!"
+            ]
+        },
+        {
+            "text": "Once more, with more gusto! Stay in\ntime with the\nbeat!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "King! ♪ King! ♪"
+            ]
+        },
+        {
+            "text": "Yes, that's it!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm speeding up the tempo now, so make\nsure to\nkeep up!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohohohoho! Feast your eyes on this\nfirst-rate\ndance!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало's dance is truly a lively and\nenergizing\nexperience.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Before I know it, the dance lesson\nbecomes a\ndance party, but it's effective\nnonetheless.",
+            "name": "Монолог"
+        }
+    ]
+}

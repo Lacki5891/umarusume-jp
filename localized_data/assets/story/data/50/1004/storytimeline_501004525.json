@@ -1,0 +1,148 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I head up to the roof to have a lunch\nmeeting\nwith Марузенски. Suddenly, we\nhear a small cry\nnearby.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? What's that voice?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What are you doing there, Rice?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Oh, um, well... I'm the last robber, you\nsee...",
+            "name": "Райс Шоуэр",
+            "choice_data_list": [
+                "The last robber?"
+            ]
+        },
+        {
+            "text": "When I ask her about it, she tells us that\nshe's\nplaying cops and robbers with her\nfriends, and\nshe's the last robber left.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If I go to help, I might get caught! But I\ndon't\nwant to let my team down since\nthey invited me\nto play...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Ahh, I see. So you're worried you might\nlose.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски looks down at what appears\nto be\nthe \"jail\" near the center of the\ncourtyard.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Rice, how many cops are there?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Umm... I think there's only one...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Oh, perfect! Let an old hand give you a\nsurefire\nstrategy, then! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Would you prefer the more physical Plan\nA or the\nstrategic Plan B?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I-I have to choose?! Err... well...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Um, which do you think is better?",
+            "name": "Райс Шоуэр",
+            "choice_data_list": [
+                "Plan A, the physical game!",
+                "Plan B, the thinking game!"
+            ]
+        },
+        {
+            "text": "All righty, then! ♪ Let's go with Plan A!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Keep the cop right on your tail, and\nmake them\nchase you until they run out\nof energy!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Do you think I'll be able to m-manage\nthat?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "I'm sure you can! I know how strong you\nare, Rice.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're a hard worker, and I'm really\nproud of your\nperseverance.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "With the Maruzen seal of approval, rest\nassured\nyou've got this in the bag!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Your seal of approval...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Okay! I'll... I'll do it!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Heehee! This game gives me an idea for\nsome\ngood stamina training! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All righty, then! ♪ Let's go with the\nmore tactical\nPlan B!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Lure the cop toward the school\nbuildings, then\nlose them in a dead end!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "D-do you really think I can do that?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Sure you can! You're great at planning\nand\nstrategy, aren't you?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "As she says this, Марузенски holds Rice\nShower's\nhands tightly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's going to be fine if you keep a cool\nhead and\nthink things through, okay?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Okay! I'll... I'll do it!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Hehe! I should probably follow my own\nadvice\nnow that I've said it, huh?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Afterward, we watch from the rooftop as\nRice\nShower successfully saves her\nfriends.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Afterward, we watch from the rooftop as\nRice\nShower successfully saves her\nfriends.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With that, Маяно Топ Ган has\nsuccessfully\nmade her debut.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmmm... Mmm...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hmm?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She's been acting strange for a while...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Something the matter?"
+            ]
+        },
+        {
+            "text": "Hm... Nothing's really the matter... It's\njust that\nit's over!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Is this it?! Is my debut really finished?\nJust like\nthat?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You're not hiding anything from me, are\nyou?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She says that, but a debut match is\nsomething\nthat can only be experienced\nonce.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are you sure?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She doesn't seem the slightest bit\nsatisfied.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Should we run in more races?"
+            ]
+        },
+        {
+            "text": "Hmmm...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Yeah, let's do that.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I mean, I've finally debuted. I've come\nall this\nway.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The Twinkle Series...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's something that's supposed to make\nyou\nexcited—make you twinkle.",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

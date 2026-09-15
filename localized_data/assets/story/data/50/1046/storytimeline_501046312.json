@@ -1,0 +1,176 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Whoa! She came in first again!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Yeeeaaah! You're the best, Falco! The\ngreatest\nUmadol there is!",
+            "name": "Falco Fan A"
+        },
+        {
+            "text": "She might actually win every race!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Woohoo! Goooo, Falcooooo!",
+            "name": "Falco Fan A"
+        },
+        {
+            "text": "Goooo, Falco!",
+            "name": "Spectators A and B"
+        },
+        {
+            "text": "...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "The crowd is going wild!"
+            ]
+        },
+        {
+            "text": "Oh... Yeah.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But it's not enough. It doesn't feel\nanything like that\nday...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "There's got to be a way to make the\nconcerts even\nbetter...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Aren't you happy?"
+            ]
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Your face is pretty grim."
+            ]
+        },
+        {
+            "text": "Oh.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Well...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ah! It's just, I can't afford to sit back and\nrelax\njust yet.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "There are still more races out there I\nhave to win!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Next up is the JBC Classic. I imagine\nrivals are\ngoing to start showing up\nlooking to take me\ndown soon enough.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But I won't go down without a fight!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As soon as she says that, an unexpected\nvisitor\nappears.",
+            "name": "Монолог"
+        },
+        {
+            "text": "W-wait, aren't you...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The student council president?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон, please pardon the\nintrusion. I know\nyou've just finished\nrunning.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It's Симболи Рудольф, the student council\npresident\nof Академия Тайсен. With a\nwhopping seven\ncrowns under her belt,\nshe will certainly go down\nin history.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, is something the matter? I'm not in\ntrouble...\nam I?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Is this about me passing out flyers from\nthe rooftop? Or\nperforming in the staff\nroom? Oh no, I don't even know\nwhere\nto start...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Haha, there's no need to be concerned.\nAs a\nmatter of fact, I am here to applaud\nyour efforts.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "First, I would like to give you my\ncongratulations.\nFollowed by... my\nheartfelt appreciation.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Huh?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As president of the student council, I've\nbeen\nalerted to your rising popularity.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The dirt scene has been abuzz since you\nmade\nyour announcement. Attendance,\nengagement...\nAll the figures have been\non the rise.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "As someone who deeply wishes for the\nprosperity\nof all Umamusume, and as an\nUmamusume\nmyself...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I would like to express my sincerest\ngratitude for\nall your hard work. I'm\nlooking forward to even\nmore\nexceptional performances.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I-I'll do my best!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I can't believe it... The president herself\nthanked\nme personally...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "That's proof of how successful you've been."
+            ]
+        },
+        {
+            "text": "Huh... I guess so.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "If so, that only means more work for me!\nI want to\nlive up to her expectations!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон is brimming with positivity\nafter\nreceiving Симболи Рудольф's\ncompliments.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But it's not enough. It doesn't feel\nanything like that\nday...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The race has left her a little too worked\nup for my\nliking, but now's not the time\nto put a damper on\nthings. With that in\nmind...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's win the JBC Classic next!"
+            ]
+        },
+        {
+            "text": "That goes without saying! ☆ I don't have\nany\nother choice!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm gonna give it my all! Wooo! ☆",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

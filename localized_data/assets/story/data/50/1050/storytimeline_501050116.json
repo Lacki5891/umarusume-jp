@@ -1,0 +1,381 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Таисин isn't here today either."
+        },
+        {
+            "text": "I hear that she hasn't been seen around\nthe\nacademy for some time."
+        },
+        {
+            "text": "While I'm worried about her, she's still\nthe only\none who can decide whether\nshe'll continue to\nrace or not."
+        },
+        {
+            "text": "So...",
+            "choice_data_list": [
+                "(I'm going to wait here for you.)"
+            ]
+        },
+        {
+            "text": "I always have and always will believe in\nher."
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(What should I do now?)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh... Taishiiiin! You have a visitor!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "TAISHIN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket... What's gotten into—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Come with me! Now!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The heck? You want me to watch a\nbasketball\ngame?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I suuure do!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "There's a player I've been following\nlately, and\nshe's in the starting five in\ntoday's game! It's been\nages since she\nstarted!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I mean, I know you like sports, but did\nyou have\nto drag me into this?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I get really energized when I watch\nsports. Like\nall, \"Yaaah!\" Fired up,\ny'know what I mean?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So, well... I figured if you watched too...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You could feel like me and get all...\nYAAAH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah, yeah. Okay, I get you.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'll watch the game, so stop yelling\nalready.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yay, Taishin! Hehe! I'll turn on the TV!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hm?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(I'm pretty sure I've seen that player with\nthe red\nhair before.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Count that basket! With her eleventh\n\nthree-pointer, she nails the\nbuzzer-beater and\nclinches the game for\nher team!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Whoooaaa! That was so, so, <i>so</i> amazing!\n\nWoooow!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Did you see that, Taishin?! The girl with\nthe red\nhair was incredible, right?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She didn't seem to be doing well last\nyear, but\nthen she suddenly got super\ngood this spring!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "(This spring?)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I mean, come on! No one's rooting for\nyou! No\none thinks you can win!",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "Doesn't that make you want to give up?\nMost\npeople would...",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "Oh! It's the postgame interview—they're\ngonna\ntalk to her!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You were amazing on the court!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Thank you! I'm glad my training paid off.",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "We heard that you'd been struggling for\nsome\ntime—did something snap you out\nof it?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Well, I'm a basketball player, but I\nwasn't blessed\nwith height, as you can\nsee.",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I was getting left behind because of my\nstature,\nand I was in a pretty bad place\nthis spring.",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "I wanted to give it all up since I figured\nno one\nexpected anything of me, but...",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "Someone gave me the courage not to\ngive up.\nHer way of thinking's a bit odd,\nbut she's not a\nquitter. She's stronger\nthan anyone I know.",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "(It's her...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We don't play the same sport, but she's\nthe\nathlete I admire the most.",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "That's why I decided to show the world\nwho I\nreally am—no matter how weak or\npathetic they\nmight see me!",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "I want to be proud to show everyone the\nreal me!",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "Waaah! That's sooo touching!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What is that? Some passive-aggressive\njab at me?\n\"Ooh, look at her! She's so\nsmall, but she's trying!\nWhat an\ninspiration!\" Ugh.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You're wrong!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You refuse to lose even when the odds\nare\nagainst you, and you never give up\nno matter how\ntough things are!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Your determination is what makes you so\ncool!\nYou really inspire and encourage\nme!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "At least, that's what I've always thought\nabout\nyou, Taishin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You're not my rival because you're small!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You're my rival because you're <i>you!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I can't even count the number of times\nI've\nflip-flopped between leaving or\nwaiting a little\nlonger for Нарита Таисин."
+        },
+        {
+            "text": "But just as the sun begins to set... she\nappears."
+        },
+        {
+            "text": "Have you been here this whole time?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "...Yeah."
+            ]
+        },
+        {
+            "text": "You mean, like, every day?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "text": "Why do you have so much faith in me?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You've been like that ever since you\nscouted me,\neven though I don't have\nthe slightest bit of faith\nin myself.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I just don't know what to do anymore. I...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Do you want to quit?"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Choosing not to race is a noble choice too."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No! I don't want to give up! As if I'd do\nthat right\nnow!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But I don't know what to do! I'm not\nproud of who\nI am! I just see someone\nrevoltingly pathetic!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "How am I supposed to believe that I'm\nfine the\nway I am—that I can continue to\nrace like this?\nThere's no way!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "If you can't believe in yourself, then I'll just\ndouble my faith in you!"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Lay all your insecurities on <i>me!</i>"
+            ]
+        },
+        {
+            "text": "A-all of them?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'll keep reassuring you until you believe in\nyourself!"
+            ]
+        },
+        {
+            "text": "Seriously, what the heck? What are you\neven\nsaying right now...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Look, I've come this far, but my mindset\nhasn't\nchanged at all.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Why would you double your faith to\ncover for\nme? What if you're stuck with\nthat crap forever?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I don't care how long it takes!"
+            ]
+        },
+        {
+            "text": "What if it takes your entire lifetime,\nstupid?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'd still do it!"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Pfft.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Heh... Hahaha!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I can't believe you'd agree to believe in\nme for\nyour entire life.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You really are an idiot.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин says that she'll try running\na little\nmore."
+        },
+        {
+            "text": "Her decision made, we begin to talk\nabout our\nnext race."
+        },
+        {
+            "text": "There's one I want to suggest that might\nhelp her\ngain a more positive outlook on\nthings."
+        },
+        {
+            "text": "The Nikkei Sho?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "It's held at Nakayama Racecourse, just like the\nSatsuki Sho."
+            ]
+        },
+        {
+            "text": "The Satsuki Sho is where Нарита Таисин\nleft her\nmark on the world—where\neveryone finally\nrecognized her abilities."
+        },
+        {
+            "text": "I put forward the idea of racing again at\nthe place\nshe had her major turning\npoint."
+        },
+        {
+            "text": "Okay, I'll give it a shot.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Really?"
+            ]
+        },
+        {
+            "text": "Yeah.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'll go with you again... and try.",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One morning during Tracen's summer\ncamp, I notice Мэдзиро Райан\nwalking toward\nme, stretching her arms.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Morning, Trainer! Looking forward to\nanother great workout!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Energetic as always, I see."
+            ]
+        },
+        {
+            "text": "Oh yeah, my engines are rearing to go!\nYour training might have\nsomething to do\nwith that. Ah, right, the morning meeting!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "One after the other, trainees congregate\nin the lobby of the camp\ndorm. The head\ntrainer then steps forward.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We've reached the halfway point of the\nsummer camp, and I'm sure\nyou're starting\nto feel the effects of your training. No\ndoubt you want\nto test out your new skills.",
+            "name": "Head Trainer"
+        },
+        {
+            "text": "Which is why we're holding scrimmages on\nthe last day of the camp! If\nyou're\ninterested, let your trainers know, and\nthey will apply in your\nstead!",
+            "name": "Head Trainer"
+        },
+        {
+            "text": "At the moment, we already have one\nparticipant... Огури Кэп!",
+            "name": "Head Trainer"
+        },
+        {
+            "text": "Wait, you're telling me I could race against\nOguri?!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Are you interested?"
+            ]
+        },
+        {
+            "text": "Yeah, I've had my eyes on Oguri ever since\nshe transferred to this\nschool.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "She doesn't have a fancy family name\nsupporting her. She gets by on\npure\ntalent... She's the real deal.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Trainer... can you sign me up for the\nscrimmages? I want to race\nOguri.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Consider it done!"
+            ]
+        },
+        {
+            "text": "Thanks! I'll show her everything I've got!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Speaking of which... we better come up\nwith a workout routine if we\nwanna beat\nOguri!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oguri's acceleration at the end of the race\nis her secret weapon. She's\na late surger,\njust like me.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But is it a good idea to stick to the same\nstrategy here?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Hmmm... Good question..."
+            ]
+        },
+        {
+            "text": "Two strategies immediately come to mind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We could refine our current strategy and\nface Огури Кэп head-on.\nOr... we could\nsurprise her with a pace chaser strategy\nand try to get\nahead of her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I relay these options to Мэдзиро Райан and\ntell her the choice is hers.\nAfter pondering\nfor a while, she raises her head.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I want to try the pace chaser strategy!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "That's a surprise."
+            ]
+        },
+        {
+            "text": "Yeah. Normally, I'd want to face her\nhead-on—make it a battle of the\nsurgers.\nBut I want to expand my horizons and try\nsomething new!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Her eyes are full of conviction—even more\nso than usual. I can easily\ntell how badly\nshe wants to win this.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "All right, then pace chaser training it is!"
+            ]
+        },
+        {
+            "text": "Yeah, let's do this!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Since our strategy requires keeping a\nsteady pace over a long period,\nwe need\nto work on my stamina!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "A teensy bit of stamina training ain't gonna\ntake me down! Come on,\nmuscles, lemme\nhear you cry out! Your pain, my gain!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "<i>Huff, puff... Wheeze...</i>",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "All right, let's take a break."
+            ]
+        },
+        {
+            "text": "Got it! Thanks!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "We don't have much time, but we should\nbe—huh?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Just then, a sudden gust of wind hits the\ntwo of us. In that moment, I\nsee a white\nblur out of the corner of my eye...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait... Was that Oguri?!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Огури Кэп?"
+            ]
+        },
+        {
+            "text": "Yeah, I'm sure of it! I'd never miss that\nsilvery hair of hers! That\nsprint... She must\nbe training like crazy too.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...Good. I wouldn't wanna fight Oguri if she\nwasn't gonna give it her\nall.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Moved by Огури Кэп's determination,\nМэдзиро Райан softly smiles. As I\nstand by her\nside, I notice a few trainees gossiping\nbehind us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey... Was that Oguri? I thought she was\nin a slump...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Yeah, I bet that's why she's training so\nhard.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "A slump... Sounds like the pace chaser\nstrategy was the right choice.\nWe can\ndefinitely catch her off guard at this rate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Ryan? What's up?"
+            ]
+        },
+        {
+            "text": "It was just for a moment, but I caught a\nglimpse of Oguri's face when\nshe ran by.\nShe looked so determined. No way could\nyou call that a\nslump.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "When you're prepping for a big race,\nyou've gotta believe you can do\nit.\nOtherwise, there's no way you could run\nlike that.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Believing in yourself... In that case...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The day of the scrimmage arrives, and\nfrom what I can tell, Огури Кэп\nis in\ntip-top shape, just like Мэдзиро Райан\npredicted.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, racers, get into position. Ready,\nset... go!",
+            "name": "Head Trainer"
+        },
+        {
+            "text": "Oguri, I've always looked up to you, but\nnow... I'm gonna surpass you!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oguri's in a great position! Ah, but so is\nRyan! Ohhh... I can't wait to\nsee the final\ndash for the finish line!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "This is me... This is how <i>Мэдзиро Райан</i> runs!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oguri's pulled ahead, but Ryan's not far\nbehind! They're doing it!\nThey're facing\neach other head-on!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "They're neck and neck! Who will win?!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe... Rats. Thought I had her there, but\nshe beat me good.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Sorry for changing our strategy midway\nthrough... Seeing Oguri take\nher training\nso seriously made me want to take her on\nas a surger.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Well, did you have fun?"
+            ]
+        },
+        {
+            "text": "You bet! That race was so intense! If I had\njust been a liiiittle bit\nfaster, I bet I\ncould've won!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm disappointed, sure, but I'm not sad at\nall. If anything, I'm proud of\nmyself for\ndoing things my way!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I want to get stronger—strong enough that\nI won't lose to Огури Кэп\nor Mejiro\nMcQueen ever again!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Trainer... Will you... help me get there?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Мэдзиро Райан shows me the brightest smile\nI've ever seen. In that\nmoment, my\nconviction to make her dreams come true\ngrows even\nstronger.",
+            "name": "Монолог"
+        }
+    ]
+}

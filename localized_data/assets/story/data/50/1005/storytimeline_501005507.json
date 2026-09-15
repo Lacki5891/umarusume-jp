@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I walk into my office to find\nFuji Kiseki\nreading some fan letters.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's nothing like receiving a\nhandwritten\nletter. It always brings me\npure joy to read my\nfans' words of\nsupport.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ah, I remember the person who sent me\nthis. They\nalways give me such beautiful\nbouquets after my\nraces.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And this one's from... Oh, yes. One of my\nmost\npassionate fans yet.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Let's see... \"I was sitting on the left side\nat your\nlast concert, but I felt like you\ndidn't look over as\noften as you usually\ndo.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hm... I must've been too caught up in my\n\nperformance and forgot to give the\naudience\nenough attention.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I must be more mindful of that bad\nhabit... I don't\nwant to disappoint my\ndear supporters.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You remember all your fans?"
+            ]
+        },
+        {
+            "text": "But of course. I want each of them to\nfeel equally\nappreciated and seen.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "If my goal was merely to amuse myself, I\nwouldn't\ngo to such lengths, but that's\nnot the level of\nentertainment I aim to\nprovide.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Now then! Time to reply to everyone!\nHm, what\nshould I write back? ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки hums happily to herself as she\ngazes at\nall the letters before her.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I deliver a huge stack of fan letters to\n\nМарузенски.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh my, so many letters! I can totally feel\n\neveryone's support! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, I have some time right now. Can I\nread\nthem?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Of course, that's why I brought them."
+            ]
+        },
+        {
+            "text": "Thanks! Okay, let me take a look...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "\"You burn up the track like a hot rod!\nYou're the\nbest!\" Aww, how nice! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "\"I'm so looking forward to your next\nrace!\" Then\nI'll give you a run to\nremember!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hm, what's this one say? \"I love your\nsinging,\nМарузенски! You are my fire!\"",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's like they're saying I'm their one\ndesire! ♪ I'm\nso happy they enjoyed my\nconcert!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Phew... I think that's everything. That\nwas so much\nfun! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All of these letters are so full of\nemotion... It\nreally makes me realize how\nmuch support I have.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I want to run not only for myself, but for\n\neveryone's enjoyment...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It really seems like my feelings are\nreaching\npeople.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You think so too, don't you, Тренер?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "You think so too, don't you, Тренер?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "That's why I'll kick it into high gear again\nfor my\nnext race.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll be happy to run, sing, and dance...\nThey'll fall\neven more head over heels\nfor me!",
+            "name": "Марузенски"
+        }
+    ]
+}

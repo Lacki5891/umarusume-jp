@@ -1,0 +1,184 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After having watched a scrimmage\ntogether,\nMayano Top Gun and I head\nback home, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Maya! Did you come to the race to\nsupport\nme?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Yep! Nice hustle out there, Urara. ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe, thanks!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Today was super fun! I may have come in\ndead\nlast, but I still got to run a lot. ♪",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Cool! You're so positive! I always sulk\nwhen I\nlose! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I think racing is fun no matter what! I just\nlove\nrunning!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "But... winning is really hard! How do you\ndo it?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Me?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yeah! You're always super fast—like a\njet!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I think if I were as fast as you, I'd totally\nwin too!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "How about you join us for practice?"
+            ]
+        },
+        {
+            "text": "Good idea! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "If you practice with me, I'm sure you'll\nwin next\ntime!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Welcome to Maya & Trainer's Special\nLecture\nSeries! ☆ You'll be our one and\nonly student for\ntoday! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yep, yep! Urara, reporting for duty!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Not a second to waste! Let's get started!\nFirst, a\nquestion for Trainer! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What does Urara need to win?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Stamina to keep her from wearing herself out!",
+                "A trick for overtaking her rivals!"
+            ]
+        },
+        {
+            "text": "That's right! ☆ I'd expect nothing less of\nmy\ntrainer! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahem! Now then, Хару Урара!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "To put it simply... you totally ran out of\nfuel\nmid-flight in your last race!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I totally did! It was so fun, but I was\nsuper beat!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "If you can improve your stamina, you\nshould be\nable to run without tiring\nyourself out. ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Makes sense! You're so smart, Maya! ♪",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Cool your jets for a sec! I'm your teacher\ntoday,\nso call me Miss Maya!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yes, Miss Maya!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Whoa! ☆ Are you reading my mind?! I\nwas\nthinking the same thing! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey, Urara, how do you usually run?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Usually? I just run with everything I've\ngot!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Hmm, I see... Is there anything you're\nhaving\ntrouble with?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Um, I just can't seem to get ahead! I\nalways think\nthat I'll smack into someone\nand start panicking!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Oho! I see!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Let's try this. Next time you run, only\nlook\nstraight ahead.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Keep gazing ahead, and then when no\none's in\nfront of you...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's when you blast forward! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And so Хару Урара's training with <i>Miss</i>\nMayano\nTop Gun begins.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Got it! I'll give it a try! ♪",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Hey, you'll never guess what! I passed\nsomeone!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Yay, you did it! You passed someo—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Some<i>one?</i> Just one person?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe! I'll just keep passing people one\nby one\nuntil I get first! ♪",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Nice! Keep that up and you'll definitely\nmake it to\nfirst one day!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yeah!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "It seems helping out Хару Урара has\nbeen a\npositive experience for Mayano\nTop Gun.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I placed...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Even in this mood, I managed to hit the\nboard\nsomehow.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Thank all the work you put in.",
+                "Approach the next one with your head held a\nbit higher."
+            ]
+        },
+        {
+            "text": "What, you're saying I have this super\nsolid\nfoundation or whatever?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, a whole lot of good it's done me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But, well...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wow, why didn't I think of that? Look, if\nyou\nactually want me to be more\noptimistic or\nwhatever...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "City?"
+            ]
+        },
+        {
+            "text": "I know... I know I need to better my\nattitude.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Maybe you have a point.",
+            "name": "Голд Сити"
+        }
+    ]
+}

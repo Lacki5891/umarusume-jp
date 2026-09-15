@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "W-well then, if you'll excuse me!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "T-Тренер?! I-i-it's nothing, I assure you!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Everyone in the classroom was telling\ns-scary\nstories, so I ran—er, I mean...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I had some urgent business to attend to\nthat\ncouldn't possibly wait, so I took my\nleave!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "What a shame! I so wanted to hear more\nof those\nscary stories!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "...Are you trying to act tough?"
+            ]
+        },
+        {
+            "text": "I-I am doing no such thing! I'm\ncompletely calm\nand collected!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "She swears she's just fine, but seems to\nbe out of\nit for quite a while after.",
+            "name": "Монолог"
+        }
+    ]
+}

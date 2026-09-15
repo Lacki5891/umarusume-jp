@@ -1,0 +1,94 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While I'm out shopping, I see Biko\nPegasus\npatrolling the district... with\nШинко Винди\nsecretly trailing behind\nher.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What're you doing?"
+            ]
+        },
+        {
+            "text": "Gah! Ya really wanna know what my plan\nis? All\nright, you've backed me into a\ncorner, so I'll tell\nya!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I'm gonna steal all the glory of Biko's\npatrol! I call\nit... Operation: Justice\nExtermination!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "She's so full of herself! I asked her to\nplay tag, but\nshe turned me down to do\nthis stupid patrol!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I even tried waiting till she was done to\nask again,\nbut she just went back to her\ndorm...",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "So this is my plan! If anything bad\nhappens, I'll\nswoop in and save the day\nfirst so she won't be\nable to—",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "See you later, granny! Take care to\nwatch your\nstep now!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "What?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Hey, Biko! Did you just help someone?! I\nwas\nsupposed to do that and get all the\nglory!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Glory? Oh, are you offering to help?\nThanks!\nThere's always so much\nhappening around here\nthat I'll take all\nthe help I can get!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "You got it all wrong! I'm not offering to\nhelp!\nUgh, why would you even ask me\nto do something\nso draining?",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "Just tell her the truth!",
+                "Come on, help lessen her burden."
+            ]
+        },
+        {
+            "text": "Huh?! I-I have no idea what you're\ntalking about!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "The truth? Is there something you want\nto say to\nme? It's okay! Lay it on me!",
+            "name": "Бико Пегасус",
+            "choice_data_list": [
+                "Come on. Be brave."
+            ]
+        },
+        {
+            "text": "Nngh... Nnnngh... No! Just shut up! I hate\nall of\nyou!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I point out that Бико Пегасус might be\ndeclining\nher offers to play tag because\nshe's too tired from\nher patrols.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If I help her, does that mean she'll still\nhave\nenough energy to play tag with me\nafter she's\ndone?!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "Yep!"
+            ]
+        },
+        {
+            "text": "F-fine! I'll help out! You'd better be\ngrateful,\nBiko!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "So the pair patrol together... and peace\nonce\nagain prevails in the shopping\ndistrict.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Шинко Винди turns beet-red and blurts\nout her\nwords hastily before sprinting\naway as fast as she\ncan.",
+            "name": "Монолог"
+        }
+    ]
+}

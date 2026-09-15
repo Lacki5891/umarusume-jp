@@ -1,0 +1,303 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйсин Флэш and I are walking around the\n\nacademy after training when we happen\nto spot a\nsuspicious figure stumbling\nabout.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Unngh... Aaagh... Nnghhh!",
+            "name": "Suspicious Person"
+        },
+        {
+            "text": "I wonder what's wrong with that person?\nPerhaps\nthey don't feel well.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "No, that's not it. Their movements are\ntoo erratic\nfor someone who is unwell...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The figure sways to-and-fro, shoulders\nslumped\nand arms hanging limp as they\nwalk. In fact...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "They look like a zombie..."
+            ]
+        },
+        {
+            "text": "What?! Trainer, please do not say such\n\nnonsensical things.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Unngh... Braaains!",
+            "name": "Suspicious Person",
+            "choice_data_list": [
+                "I think they just said \"brains\"..."
+            ]
+        },
+        {
+            "text": "N-no... They're probably just hungry.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "At any rate, we should see if they're all\nright. If\nthey're not well, they may need\nhelp.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Um... are you okay? If you're feeling\npoorly—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Uuungh... NRAAAGH!",
+            "name": "Suspicious Person"
+        },
+        {
+            "text": "EEEEEK!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "R-run!"
+            ]
+        },
+        {
+            "text": "One look at the person's terrifying face\nas they\nlunge at us and there's no\nmistaking it—they\nreally <i>are</i> a zombie!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant! Pant!</i> How can this be?!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "It's a real zombie!"
+            ]
+        },
+        {
+            "text": "But that's impossible! I admit their\nunpredictable\nmovements resemble\nthose of a zombie...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But I cannot accept that such\nunscientific,\nirrational phenomena exist\nin this wo—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Graaah!",
+            "name": "Zombie"
+        },
+        {
+            "text": "EEEEEK!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Run for your life!",
+                "We have to stand and fight..."
+            ]
+        },
+        {
+            "text": "I-I... won't believe it! Zombies cannot\nphysically\nexist!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Run!"
+            ]
+        },
+        {
+            "text": "R-right!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Urraaagh!",
+            "name": "Zombie"
+        },
+        {
+            "text": "...?!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "M-my legs w-won't move! I-I'm too\nscared!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Urgh... Urgh! Mragh nngh gaaah!",
+            "name": "Zombie"
+        },
+        {
+            "text": "I-I'm done for! Save yourself!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Take my hand!"
+            ]
+        },
+        {
+            "text": "O-okay!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Uraaaaagh! Nnngh hraaah grrr!",
+            "name": "Zombie"
+        },
+        {
+            "text": "Thankfully, the zombie is slow, so I\nmanage to\npull Эйсин Флэш out of there\nand make a clean\ngetaway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... huff...</i> D-did we... make it out\nalive?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "We're safe now."
+            ]
+        },
+        {
+            "text": "Th-thank... Thank goodness...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Um, a-apologies... for my earlier\nbehavior and...\nf-for grabbing your hand\nlike that...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "A-anyways! Thank you for saving me.\nHad you not\nbeen so quick to take\naction, I would not have\nbeen able to\nescape.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "From... From the bottom of my heart,\nthank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...Oh. I'd better return to the dorm. It's\ngetting\nlate.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I'll walk you back."
+            ]
+        },
+        {
+            "text": "Oh, thank you! You have done so much\nfor me as\nit is...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "To be honest, I was very frightened\nearli—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Pheeew! Man, it's hard to breathe in\nthese\nfull-face masks.",
+            "name": "Zombie(?)"
+        },
+        {
+            "text": "But I managed a full thirty minutes in it! I\nfeel\nsooooo much better now.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hehehe! Nothing makes you appreciate\nbeing\nalive more than a good ol' zombie\nroutine!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "B-be that as it may, I don't know of any\n\ncountermeasures against a zombie!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Do you have any talismans or charms?!"
+            ]
+        },
+        {
+            "text": "Charms?! Y-yes, I do! I-I have this one\nfor transit\nsafety!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Take this!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Aaagh? Tch, tch.",
+            "name": "Zombie"
+        },
+        {
+            "text": "I-it didn't work! Wh-wh-what do we do\nnow?!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Pray!"
+            ]
+        },
+        {
+            "text": "O-okay... Oh, higher power above!\nVanquish this\nimpure soul!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Cast them into the furthest reaches of...\nuh,\nanywhere but here! Please! I beg of\nyou!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ho, ho, ho, ho!",
+            "name": "Zombie"
+        },
+        {
+            "text": "Wha... Why is it squat dancing?! It's no\nuse! Our\nprayers didn't work either!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now what? Is all hope lost?!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "How about a warding spell?!"
+            ]
+        },
+        {
+            "text": "A warding spell! That's it! I'm sure it'll\nwork on\nsuch an evil spirit!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Toi, toi, toi... Toi, toi, toi, toi, toi, toi!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...Raaaaagh!",
+            "name": "Zombie"
+        },
+        {
+            "text": "I-it's working! Toi, toi, toi, toi, toi!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Toi, toi, toi!"
+            ]
+        },
+        {
+            "text": "URAAAAAGH!",
+            "name": "Zombie"
+        },
+        {
+            "text": "W-we did it! We defeated the zombie!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But the instant the zombie falls to the\nground, a\nfull-face mask slips off its\nhead.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew, that was thirty minutes on the\nnose! As\nthey say, it's best to be left\nwanting a little more.",
+            "name": "Zombie(?)"
+        },
+        {
+            "text": "Pardon me, Golshi, but what exactly\nwere you\ndoing?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Huh? I was doing a zombie routine to\nappreciate\nbeing alive, obviously. You\nmean you don't?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...Ah, cheeseburgers!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's almost time for my <i>Rickshaw Drift:\nWooden\nWheels of Fury</i> routine!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "...There she goes."
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> I have no words. I'm just so very\nrelieved it\nwas not a real zombie...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After learning the truth, Эйсин Флэш\nwould glare\nat Голд Шипп for the next\nthree days with eyes\ncold enough to\nfreeze the Arctic twice over\nwhenever\nthey crossed paths...",
+            "name": "Монолог"
+        }
+    ]
+}

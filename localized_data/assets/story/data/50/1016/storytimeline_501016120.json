@@ -1,0 +1,290 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Chatter, chatter...</i>"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, is that true?! Бива Хаяхидэ's\nquitting\nrunning because of her injury\nfrom the Tenno Sho\nlast fall?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "That's what I heard. <i>Sigh...</i> It's a real\nshame. I\nloved watching Hayahide run.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "No kidding. I really wanted to see her\nface off\nagainst Brian too.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Say, Brian. How about a scrimmage?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm looking forward to the day I can face\noff\nagainst you as a rival. I still can't do\nthe distance\nof a regular race, but\nperhaps if it was shor—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Brian, just keep on running ahead. Don't\nlook\nback.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Why'd she say it wasn't possible back\nthen?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What did she mean by \"don't look\nback\"?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан tackles her training with a\nghastly\nvigor in preparation for her next\nbig race—the\nJapan Cup."
+        },
+        {
+            "text": "<i>Gasp... Huff... Gasp... Huff</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Huff...</i> One more time... Trainer!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Catch your breath first!"
+            ]
+        },
+        {
+            "text": "Tch...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ah, Нарита Брайан! Can I get an interview?\nEven just\na few words will do!",
+            "name": "Репортёр",
+            "choice_data_list": [
+                "We're in the middle of training..."
+            ]
+        },
+        {
+            "text": "Just excuse me for a few seconds! With\nBiwa\nHayahide's return to the Twinkle\nSeries being\nruled hopeless, what do\nyou—",
+            "name": "Репортёр"
+        },
+        {
+            "text": "...Cut it out.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Huh?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Stop talking about my sister!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The air goes ice cold in an instant. Her\nvoice is\nfilled with an astonishing anger."
+        },
+        {
+            "text": "...Ugh!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Brian!"
+            ]
+        },
+        {
+            "text": "I spare one last glance for the reporter,\nwhose\nface is pale and stricken, and\nthen run after\nНарита Брайан."
+        },
+        {
+            "text": "Tch! What do you do when your dream\nturns out\nto be an illusion you can never\ncatch?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All these idiots blabbing nonsense about\nmy\nsister—",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What exactly is going on?"
+            ]
+        },
+        {
+            "text": "...Trainer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Sorry for the outburst. I'll go back to the\ntraining\ntrack later.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Just leave me alone for now. Go on and\nget out\nof here.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I can't do that!"
+            ]
+        },
+        {
+            "text": "First there was the news after the\nautumn Tenno\nSho a few days ago. And\nnow, the reporter's\nquestions today..."
+        },
+        {
+            "text": "Нарита Брайан seems to have a\ndisproportionately\nstrong reaction\nwhenever her sister, Biwa\nHayahide, is\nbrought up.",
+            "choice_data_list": [
+                "Are you worried about your sister?"
+            ]
+        },
+        {
+            "text": "Stop!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Just... stop talking about her. Please.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "My sister...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hurry up, Brian!",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "She was always ahead of me...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm not going to give up on that race so\neasily!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "...Brian."
+            ]
+        },
+        {
+            "text": "...Just leave me alone already.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I get it. Even without my sister, there are\nstill\nhordes of strong opponents to face\nin the Twinkle\nSeries.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This is a place where only the most\ndauntless\nremain, after all. It's hardly\nsurprising that some\nwould be cast aside.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Even if it's Sis...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Do you actually believe that?"
+            ]
+        },
+        {
+            "text": "...She's not coming back. That's the\nreality of it.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Reality and feelings are different."
+            ]
+        },
+        {
+            "text": "!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The thought of hurting someone else just\nby\nexisting is... scary, sad, and really\nawful. But...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "But I don't want to give up on running...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "You were always up ahead, out of reach.\nThen,\nbefore I knew it, it was over. ...But\nthen again,\nthis is what usually happens.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "But I'll catch up for sure next time!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "The racer called the Sable Assassin..."
+        },
+        {
+            "text": "And the one that everyone thinks can't\nwin."
+        },
+        {
+            "text": "Both have feelings that differ from the\nreality that\nothers see.",
+            "choice_data_list": [
+                "The Twinkle Series is full of strong racers."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I think your sister is strong too."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "How about you?"
+            ]
+        },
+        {
+            "text": "That's...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Of course she's strong! She's my sister!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "In an effort not to disturb her, I gently\nclose my\neyes and turn the other way."
+        },
+        {
+            "text": "But I can hear her choked sobs behind\nme."
+        },
+        {
+            "text": "...Ah.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hayahide? What's up?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...I'm wondering if she's still doing her\nbest right\nnow.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hehe. But we're not about to lose either!\nAre you\nready, Ticket?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You bet! Hey, Doc!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yes, sorry to keep you waiting! Today's\nrehab is\ngoing to be especially difficult.",
+            "name": "Physical Therapist"
+        },
+        {
+            "text": "I'm counting on it!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hehe, your spirits haven't fallen at all\nsince last\nyear. You're both very\nimpressive.",
+            "name": "Physical Therapist"
+        },
+        {
+            "text": "Naturally. I want to get back to the\nTwinkle Series\nas soon as possible.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...There's no need to waste time worrying\nover\nme. I'm Нарита Брайан's big sis, after\nall.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

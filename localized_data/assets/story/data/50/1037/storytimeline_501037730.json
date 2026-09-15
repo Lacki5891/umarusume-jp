@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Thank you. I'm overjoyed to receive so\nmany.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'll decorate my room with them and\nsend my\nparents a picture. Hehe! I have\nso many new\nfriends.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That said, I haven't the space for this\nmany\nplushies in my room.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Will you be all right?"
+            ]
+        },
+        {
+            "text": "They should fit if I rearrange my\nfurniture and\nmake more efficient use of\nthe room's space.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I must return home and take\nmeasurements. This\nwill be fun.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

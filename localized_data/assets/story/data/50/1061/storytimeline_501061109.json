@@ -1,0 +1,198 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is a holiday, and I'm really\nfortunate to\nhave it off. I'm intent on\ntaking it easy, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Trainer. Won't you grab the chicken\nfor me?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And that bottle of soda while you're at\nit! Thanks!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Sky! Only <i>I</i> get to order my trainer\naround",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Come on, it's fine! Just for a little bit.\nYou don't\nmind, do you, Тренер?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "King! The pizza place just called! They'll\nbe here\nsoon!",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "And, um... they mentioned that it's for\n\"fifty\npeople\" or something...",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "<i>Fifty?!</i> Not five?! Who ordered all that\npizza?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I did! Think about it, this way we can\neach have at\nleast five pizzas!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "What? Huh?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "My office has been completely\ntransformed into\nКинг Хало and her\nfriends' party venue.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It sure is lively."
+            ]
+        },
+        {
+            "text": "Too lively... I know I'm the one who\ninvited\neveryone, but...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Viva la pizza!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...El?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Howdy. Your pizza's all ready. I've also\ngot your\nthirty orders of fries right here\ntoo.",
+            "name": "Pizza Delivery"
+        },
+        {
+            "text": "Wow! Thank you so much! ♪",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hey, you guys! Aren't you going a bit\noverboard?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "All right, everything's all cleaned up!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That was pretty fun. I'm looking forward\nto next\nyear.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Next year? You want me to host another\nparty\nlike this?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hahaha! No, no, no.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I'm talking about our races next year!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Geez... What is it with her?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "It seems like you're getting along with\neveryone."
+            ]
+        },
+        {
+            "text": "Hmph! Says you!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Every year, they always include me in\ntheir\nholiday plans without consulting\nme ahead of\ntime! It's not normal!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "(That just means they like you.)"
+            ]
+        },
+        {
+            "text": "Every year, they always include me in\ntheir\nholiday plans without consulting\nme ahead of\ntime! It's not normal!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "(That just means they like you.)"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> Well, starting next year you'll be\n\nparticipating too, so we'll be able to put\ntogether\nsomething even more\nextravagant.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Maybe you can rent out a hotel floor for\nus next\nyear? I want a lavish party fit for\na king!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "\"Participating?\" You're just trying to use me!"
+            ]
+        },
+        {
+            "text": "Hm? I don't see any problem with\nputting you to\nwork a little.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You <i>are</i> my trainer, after all.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Seeing how things have gone this year, it\nseems\nfitting that you stay along for the\nride.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Here's to another fun year, Trainer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Sigh...</i> Well, starting next year you'll be\n\nparticipating too, so we'll be able to put\ntogether\nsomething even more\nextravagant.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Next year too?"
+            ]
+        },
+        {
+            "text": "That's right. And the year after that. And\nevery\nyear after that.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm allowing you the honor of continuing\nto be of\nuse to me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That includes holiday parties like today,\nNew\nYear's events, and the races I'll be\nrunning over\nthe next few years.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why <i>shouldn't</i> I give you the right to\ncontinue\naccompanying me?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Is it not the greatest gift you could have\nasked\nfor? Hehe.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Gift?"
+            ]
+        },
+        {
+            "text": "Yes, you heard me. It's from yours truly.\nNow\nshow some appreciation!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Ah!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Look, Trainer, it's snowing! Hey, have\nyou ever\nbuilt a snowman?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Guess I can look forward to another year\nof being\nbossed around.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, Кинг Хало promises to keep\nputting me\nto work.",
+            "name": "Монолог"
+        }
+    ]
+}

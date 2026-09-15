@@ -1,0 +1,58 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Right before summer camp ends, I'm\nlooking for\nНайс Нэйчер, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature!"
+            ]
+        },
+        {
+            "text": "Oh, Trainer...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Were you watching the ocean?"
+            ]
+        },
+        {
+            "text": "Yeah. I won't be able to see this for a\nwhile...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And I wanted to reflect on some stuff.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm... stronger than I was before summer\ncamp,\nright?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Phew...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Doesn't just being by the sea make you\n\nemotional? There's a reason it's a primo\ndate\nspot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, I guess I'll go back. I've got my\nmind all\nready now.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ready for the autumn Tenno Sho.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And with that, Найс Нэйчер's summer\ncamp comes\nto an end.",
+            "name": "Монолог"
+        }
+    ]
+}

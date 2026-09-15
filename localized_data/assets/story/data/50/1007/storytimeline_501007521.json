@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Шипп seems to be looking for\nsomething in\nthe plaza.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> Ugh, I should've known trying to\ncapitalize\non random bursts of energy at\nnight was a bad\nidea...",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What are you looking for?"
+            ]
+        },
+        {
+            "text": "I was going to send McQueen on a\nscavenger\nhunt, so I spent the whole\nnight hiding coupons\nfor a cake shop all\nover the place.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But halfway through, I realized I'd been\nhiding\nstickerback Голд Шипп photocards\ninstead.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "These puppies are supposed to be\npresents for\nmy fans around the galaxy,\nso I can't just leave\nthem lying around\nfor any old Joe to find, right?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That's why I've been toiling all night to\npick them\nall up.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, you pitch in and help too! You're\nmy trainer,\nafter all!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We manage to find all the photos, but\nГолд Шип\nends up exhausted after\npulling an intense\nall-nighter.",
+            "name": "Монолог"
+        }
+    ]
+}

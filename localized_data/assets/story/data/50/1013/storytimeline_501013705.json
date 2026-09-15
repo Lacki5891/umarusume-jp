@@ -1,0 +1,123 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back to the academy after a\nday out,\nthe sound of lively voices lures\nus to the shopping\ndistrict.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My goodness... a flea market? I see, so\nthat's why\nso many people are here.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Huh? Is that—",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Called it! I thought I recognized you\ntwo!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Ines! Hello. Are you shopping today?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh, no, no. I'm helping out at the\nmarket!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "There's a lot of stuff here, plenty of\nbargains to\nfind.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "My... There really are a lot of items for\nsale here.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Picture books, dolls, accessories... Hehe,\nI feel as\nthough I'm a child in a toy store!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Since we're here, why don't we take a look?"
+            ]
+        },
+        {
+            "text": "Is that all right with you? Then yes, by\nall means!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Okay! Take your time. If you find\nanything you\nlike, feel free to let me\nknow!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Hmm. Everything is wonderful. I just\ncan't choose.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "What do you think, Тренер? Has\nanything caught\nyour eye?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Maybe this book of prized recipes from\nthree-star restaurants.",
+                "Maybe this piece of colored paper with Gold\nShip's autograph on it."
+            ]
+        },
+        {
+            "text": "My! I had my eye on that book as well.\nEvery dish\nlooks exquisite.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Were you thinking of making something\nfrom\nthis?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Would you try it if I did?"
+            ]
+        },
+        {
+            "text": "Yes, it would be no trouble at all! You\nshould be\naware, however—I'm a bit\nharsh when it comes to\njudging flavor.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh! Did you decide what to buy?",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Yes, we found something wonderful!\nCould we get\na bag for it as well?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Bwah?! Where did they get such a\nthing?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ah! That's our last one! It's really\npopular among\nfamilies with kids.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Believe me, though, I was shocked\nmyself when\nГолд Шип came in to offer\nthem. Haha.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "You... have my sympathies.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "So? Should I ring you up?",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "...Тренер? May I have a word with you?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I want you to think this over\nthoroughly...\ncarefully...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hehe. ♪ A flea market is certainly\nnothing to\nsneeze at!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Pressured by Мэдзиро МакКуин, I\nabandon the\nidea of buying the\nautograph.",
+            "name": "Монолог"
+        }
+    ]
+}

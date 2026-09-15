@@ -1,0 +1,251 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While training with Сайленс Судзука...",
+            "name": "Монолог"
+        },
+        {
+            "text": "There you are, Suzuka.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, Эйр Грув. Is something wrong?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Well, the student council is conducting\nan\norientation for our newest students...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And they wouldn't stop asking if they\ncould meet\nyou just once.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Behind Эйр Грув, a number of younger\nstudents\nare staring at Сайленс Судзука.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Omigosh! It's really Suzuka!",
+            "name": "Young Student A"
+        },
+        {
+            "text": "She's that \"runaway superstar,\" right?\nShe's so\ncoooool!",
+            "name": "Young Student B"
+        },
+        {
+            "text": "Oh? Th-they all know me?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Of course they do. You've garnered\nquite a few\nfollowers among the younger\nstudents as of late.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hey, Suzuka! Um, would it be all right if\nwe ran\ntogether?",
+            "name": "Young Student A"
+        },
+        {
+            "text": "Hey! No fair! I want Suzuka to teach me\nher\nrunning style too!",
+            "name": "Young Student B"
+        },
+        {
+            "text": "Now, hold on a second. Can't you see\nSuzuka's in\nthe middle of her training?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'm sure she can spare some time."
+            ]
+        },
+        {
+            "text": "Hmmm...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I explain to Сайленс Судзука how\ninstructing the\nyounger students can also\nbenefit her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right... I'm not sure I'm quite up to\nthe task\nthough...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But... Uh, Тренер? How should I even\nbegin?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "How about you run alongside them?",
+                "Why don't you teach them about your running\nstyle?"
+            ]
+        },
+        {
+            "text": "Run with them... Okay! Running <i>is</i> my\nspecialty.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Really?! Yippeee! I'm so excited!",
+            "name": "Young Student A"
+        },
+        {
+            "text": "...Suzuka. I'll say this as a precaution.\nDon't go\noverboard.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I really mean it. Do you understand me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We'll be all right. We're only running\nafter all.\nThere's nothing to worry about.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You \"only running\" is precisely what I'm\nworried\nabout.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...At any rate, I'll leave them in your\nhands for\nnow.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Okay, everyone. Ready... go!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Pheeew!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...Hey, Suzuka!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yes? Do you want to run too?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Sigh..</i> No. I want to know why you're\nrunning laps\nall by yourself when you\nshould be running with\nthe students I\nleft you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Didn't I explicitly tell you not to go\noverboard?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's okay! I'm super happy I got to see\nSuzuka run\nup close!",
+            "name": "Young Student A"
+        },
+        {
+            "text": "That's right! We wanna do our best to\nkeep up! So\nplease, keep going!",
+            "name": "Young Student B"
+        },
+        {
+            "text": "Really?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh... Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What should I do, Эйр Грув?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Well, if they say it's all right, then...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wow! Can you believe it? Suzuka's\nteaching <i>us?!</i>",
+            "name": "Young Student B"
+        },
+        {
+            "text": "Hmm... I don't know if I'd call it a <i>lesson</i>\nper se...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Just take it step by step, Suzuka. For\nexample,\nwhat goes through your mind\nright before the\nstart of a race?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ummm... I just think about enjoying\nrunning.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...All right. And after that?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Mmm... Then I run. And then I run more.\nAnd I\nkeep running until I reach the\nfinish line.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I see... In hindsight, I shouldn't have\nbothered\nasking you to explain.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Huh? Wh-why?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Listen up! Once she's taken the lead, she\nuses her\nposition to control the pace,\nand—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wow... That sounds so complicated.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This is <i>your</i> strategy!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Thank you so much! We'll put what\nwe've learned\nto use the next chance we\nget!",
+            "name": "Young Student B"
+        },
+        {
+            "text": "That was so easy to understand. You're\namazing,\nЭйр Грув.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Please. You've certainly heard as much\nin your\nracing tactics class.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And regardless of whether you adopt it\nor not, it\nwouldn't hurt to commit the\ntheorem to memory.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Because you never know when you'll be\nin a\nposition in which you must teach\nsomeone else.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You're right... So, um, Эйр Грув.\nWould you be\nall right with teaching me\nagain sometime?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Oh?</i> Are you ready for that?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, then. Seeing as your grades could\nuse the\nhelp, I suppose we'll have to\norganize an <i>intensive</i>\nstudy session soon.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "That would be much appreciated."
+            ]
+        },
+        {
+            "text": "Huh? Wait, Trainer...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I watch over Сайленс Судзука as she\ninstructs the\neager young students.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A few days later, it seems as though\nSilence\nSuzuka's grades have gone up\nthanks to Air\nGroove's instruction.",
+            "name": "Монолог"
+        }
+    ]
+}

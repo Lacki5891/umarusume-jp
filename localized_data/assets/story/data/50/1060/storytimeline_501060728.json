@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Whoooa. I'll admit it, I'm impressed.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Here you go."
+            ]
+        },
+        {
+            "text": "Huh? Really? But I'm sure there are\nothers who\nwould appreciate this gift\nmore...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I just want to see you smile."
+            ]
+        },
+        {
+            "text": "Umm... As I said, plushies aren't my style.\nThat\nsaid... I do appreciate it, though.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, give 'em here. Thanks.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That went pretty well!",
+            "name": "Монолог"
+        }
+    ]
+}

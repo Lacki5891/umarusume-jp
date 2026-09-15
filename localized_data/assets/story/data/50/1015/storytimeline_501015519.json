@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Т.М. Опера О and I are training outside,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me... You're Т.М. Опера О, aren't\nyou? I'm\na huge fan!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Well, now! You must have an eye for\naesthetics!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I shall reward it with a special copy of\nmy new\nheadshot I took just yesterday.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Hm? ...Hmmm?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Not a single one! Where could they have\nall\ngone?!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Didn't you just pass out a big stack of them?"
+            ]
+        },
+        {
+            "text": "Ahh, what have I done?! That was the\nentire\nstock?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I'm terribly sorry. Please, would you\naccept my\nautograph for now?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "The fan looks overjoyed to get an\nautograph, but\nOpera O is in utter\ndespair.",
+            "name": "Монолог"
+        }
+    ]
+}

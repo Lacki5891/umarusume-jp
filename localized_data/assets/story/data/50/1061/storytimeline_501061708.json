@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ohohoho! I appear before you cloaked\nin\ntriumph!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now, revere me without restraint! Lavish\nme with\npraise worthy of a winner!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'd expect nothing less from a first-rate\nUmamusume!",
+                "There's still a ways to go!"
+            ]
+        },
+        {
+            "text": "Yes, yes! Excellent! That's the spirit! ♪",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But one round of praise won't do! ♪\nLet's do it\nagain! Ready?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You're first-rate!"
+            ]
+        },
+        {
+            "text": "Ohohoho! Music to my ears!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, while you're at it, why not praise\nme once\nmore? We've still got plenty of\ntime, right? Come\non!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Yes, that's right! There's still a ways to\ngo...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "With the way you give praise! What's\nwrong with\nyou?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Very well, then. Why don't you\nprepare some\nraces more fitting for\nyours truly?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I only say this because...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You must be convinced that races of this\ncaliber\nare beneath me, yes?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "In that case, we can set aside the matter\nof praise\nuntil you prepare some worthy\ncompetition.\nOhohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I continue to shower Кинг Хало with\npraise until\nshe's satisfied.",
+            "name": "Монолог"
+        }
+    ]
+}

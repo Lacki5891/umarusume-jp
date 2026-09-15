@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон's remarkable resilience\nduring the Battle of the Dorms\nsticks in my\nmind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Curious how her running ability compares,\nI make my way to the track\nin hopes of\nobserving her performance в тренировке.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, lookin' good! But I know you've\ngot more where that came\nfrom!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You mentioned before about a rival you\nwanna defeat, right?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Then let that fire inside you burn even\nbrighter!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Yes, ma'am! Will do!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "I arrive to see her training alongside one of\nthe younger students.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good, then it's time for another lap! Let's\ndo this!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Amazon's footwork is dynamic and\npowerful as she speeds around the\ntrack.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Go, go, gooo!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Although her positioning leaves something\nto be desired, she\nmanages to seize the\nlead by sheer force of will.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I find myself drawn to her fearless style of\nrunning, which seems to be\na direct\nreflection of her personality itself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you <i>so</i> much, Hishiama! I can't wait\nto train with you again!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "You bet! Must be dog-tired, huh? Make\nsure to eat a good meal, and\ntake a nice,\nhot bath afterwards.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Yes, ma'am! See you next time!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Careful, now! Don't want any tumbles!\n\nHeh... Her expression's really toughened\nup.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "At this rate, it won't be long before she\nturns into a formidable rival in\nher own\nright!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Sounds like you're having fun."
+            ]
+        },
+        {
+            "text": "Huh? Who're you?\nOh, a badge. So you're\na trainer at the school?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And I don't just <i>sound</i> like it—I <i>am</i> having\nfun! There's nothin' better\nthan seeing the\nyoungsters get stronger right before my\neyes!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "After all, that just means I'll have my pick\nof opponents to race\none-on-one!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I see your point."
+            ]
+        },
+        {
+            "text": "Hoo boy, this is exactly why Tracen\nAcademy is the <i>best!</i> There are\nsuper\nstrong Umamusume everywhere you look!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And I'm gonna take 'em all on and get\neven stronger myself! I'll go\none-on-one\nagainst everyone in the Twinkle Series if I\nhave to!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's just how I roll!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "True to her words, Amazon spends her\ndays competing against\npractically every\nUmamusume she crosses paths with.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time for a one-on-one, Fuji! This time,\nlet's see who can hold their\nbreath longer\nunderwater!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hmm, that sounds like a rather risky\nendeavor... Hey, I know! What\nsay we\ninclude a rule that you're allowed to make\nyour opponent\nlaugh?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You little trickster... But sure, I'm cool with\nit! You know me—I never\nshy away from a\nchallenge!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Cough, cough! Huff, puff...</i>\nDamn you, Fuji!\nResorting to tickling? That's playin' dirty!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hahaha! Your sides are too easy a target\nto resist.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Huh? Hold up, Biko. Think you could\nrepeat that?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I said—let's have a hero pose showdown,\nHishiama! We'll see which of\nus is more\nlike an ally of justice!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Huh... Not sure I get it, but if we're talkin'\na one-on-one, then I'm all\nin!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Like this? Hup! Hngh! Haaah!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Whew... Oh, fancy seeing you again.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Somebody's working hard."
+            ]
+        },
+        {
+            "text": "Well, tryouts are just around the corner. I\ncan't be lazing around when\nmy big\ndebut's on the line.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I gotta show off my skills during the race\nand get myself a trainer with\na fiery spirit!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Like I said before, it's not enough going\none-on-one with students\nhere at the\nschool. I gotta throw down with the\nTwinkle Series crowd\ntoo!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You must really like competing."
+            ]
+        },
+        {
+            "text": "Hahaha! Well, can you blame me at a\nschool like this?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But I guess I kinda get it from my mom too.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Did your mother used to race?"
+            ]
+        },
+        {
+            "text": "Sure did! She only ever competed overseas\nthough. Yep, that's\nright—you wouldn't\nknow it, but I used to live abroad too!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "My mom was pretty big over there, I'll\nhave you know. I really looked\nup to\nher—that's part of what got me into racing.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But the first time I experienced a race\nfirsthand was when I came to\nJapan to\nwatch the Twinkle Series.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'll never forget the thrill of watching those\ncrazy speed demons\nbattle it out!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I was all, \"Whoa, <i>awesome!</i> Lemme at 'em!\nI wanna go one-on-one\nwith those\nbadasses!\" And I leapt right out of my seat!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Like, over the rail?!"
+            ]
+        },
+        {
+            "text": "Haha! Nah, my mom grabbed me by the\nscruff of the neck and sat me\nright back\ndown.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Boy, was she pissed. It's fun thinking back\non the race and all, but I'd\nrather not\nremember <i>that</i> part.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It seems the excitement and longing for\nthe world of competition that\nshe felt back\nthen made Amazon who she is today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, what's this? Didja fall prey to my wily\ncharms just now, hmm?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But I've got bad news for ya! I'm not gonna\nlet myself be scouted 'til\nafter tryouts.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's no rule against it or anything, but\nthat's what I've decided. I\nwant you and\nthe other trainers to witness what I can do\nin a <i>real</i> race.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Mark my words—you're gonna see\nsomethin' real special!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What sort of running will this go-getter\nshow us at tryouts? I can't wait\nto find out.",
+            "name": "Монолог"
+        }
+    ]
+}

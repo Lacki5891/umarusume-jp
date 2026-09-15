@@ -1,0 +1,313 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One morning, during the New Year's\nholiday,\nGold City and I come to the\nshrine thinking it\nwould be a nice change\nof scenery. However..."
+        },
+        {
+            "text": "Actually, I should go back.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You don't want to make a wish?"
+            ]
+        },
+        {
+            "text": "Nope. No wishes here.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wishes won't do a thing for what I lack\nin skill.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Also, quit trying to do so much for me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's not like stuff like this helps me feel\nbetter.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You're worried I'll be trash in the Osaka\nHai,\nright?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You should just pull me out. If we quit\nnow,\nthen—",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're not pulling out of the Osaka Hai."
+            ]
+        },
+        {
+            "text": "Then... I don't get it.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let's try something other than running today."
+            ]
+        },
+        {
+            "text": "I figure forgetting about the race for a\nmoment\nmight help flip her mood.\nHowever..."
+        },
+        {
+            "text": "Something other than running...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "City?"
+            ]
+        },
+        {
+            "text": "...I can't think of anything.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I just realized I don't have any particular\nhobbies.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити falls silent. I should offer an\nidea\ninstead...",
+            "choice_data_list": [
+                "Why don't we go lie down at the park?",
+                "You want to play some video games?",
+                "Want to know what it's like to be on the other\nside of the lens?"
+            ]
+        },
+        {
+            "text": "Ew, what?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "It'd be relaxing."
+            ]
+        },
+        {
+            "text": "Sure then, I guess... It's not like there's\nanything\nelse I want to do.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Ah.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "I was just thinking how nice it feels\nunder the sun.\nComing out here to lie\ndown might not be so bad\nan idea, after\nall...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "After saying this, Голд Сити carefully sits\nherself\ndown. And then, in the blink of\nan eye..."
+        },
+        {
+            "text": "<i>Zzz... zzz...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Hey, sleepyhead."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...I had a dream.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What kind?"
+            ]
+        },
+        {
+            "text": "I was running in an empty meadow.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I gotta... get back to it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Like?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Music games, racing games, fighting\ngames...\nThey've got everything.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's all a different world to me, but it\nmight be\nnice to try out a new hobby.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Does anything here interest you?"
+            ]
+        },
+        {
+            "text": "Hmm... Oh.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "How about a dance game? I can use my\nwhole\nbody, so maybe it'll help with my\nrunning.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Like, it could be a pretty good workout\nif you do\nit seriously. You might even\ngain some muscle.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Uh-oh.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Well, it's still technically not running, so..."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Actually, let's try the racing game! Here,\nlet's go\nagainst each other.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You mean, like, me taking photos of\nyou?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What?! No, like... scenery and stuff."
+            ]
+        },
+        {
+            "text": "Right. Yeah, of course. Still, me as a\n\nphotographer, huh...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, shall we go for a walk and try it\nout then?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити and I decide to take a walk,\nwith\nphones in hand."
+        },
+        {
+            "text": "No, you're gonna catch me! Hahaha!",
+            "name": "Children"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Are they playing tag?"
+            ]
+        },
+        {
+            "text": "Looks like it. Seems fun.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Do you want to join them?"
+            ]
+        },
+        {
+            "text": "What?! No way.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Whoa, you're so pretty!",
+            "name": "Children"
+        },
+        {
+            "text": "Huh?! When did you all get here?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You want to play with us? That's okay!",
+            "name": "Child A"
+        },
+        {
+            "text": "Wait, hold on!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's your turn to run from all of us! You\nbetter\nhurry! We're coming!",
+            "name": "Child B"
+        },
+        {
+            "text": "All of you?! That's not how tag is\nplayed—wait! I\ndidn't agree to this!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ooooh, she's so fast! Come on,\neveryone! Catch\nher!",
+            "name": "Children"
+        },
+        {
+            "text": "Can you stop chasing me?! Noooo!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Click!</i>"
+        },
+        {
+            "text": "Голд Сити closes her eyes and sleeps for\na bit\nlonger."
+        },
+        {
+            "text": "We enjoy a few games together, steering\nclear\nfrom the dance ones."
+        },
+        {
+            "text": "I manage to get a nice photo at the end."
+        },
+        {
+            "text": "Well, thanks for walking me back.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Were you able to clear your head?"
+            ]
+        },
+        {
+            "text": "A little. It's not like it'll change anything,\n\nthough...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Still...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If nothing will change, then I might as\nwell run in\nthe Osaka Hai.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "You seem so eager to make me enter.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And I don't want to make a fool of\nmyself, since\neveryone will be watching.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let's train harder this year!"
+            ]
+        },
+        {
+            "text": "Sure, but could you quit it with the extra\n\nenthusiasm already?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Anyway, today was...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Never mind.",
+            "name": "Голд Сити"
+        }
+    ]
+}

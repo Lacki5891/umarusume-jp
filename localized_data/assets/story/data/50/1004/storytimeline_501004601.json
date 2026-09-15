@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm going to put all my energy into it\ntoday!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Last time, I let you and the cute,\nyounger\nstudents down...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Last time, I let you and the cute,\nyounger\nstudents down...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But in this race, I'm going to run so fast\nthat\neveryone's going to wig out!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You've got this!"
+            ]
+        },
+        {
+            "text": "Thanks, Trainer! All right, here I go!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thanks, Trainer! All right, here I go!",
+            "name": "Марузенски"
+        }
+    ]
+}

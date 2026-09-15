@@ -1,0 +1,86 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're here, Trainer! We're really here!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A once-in-a-lifetime test of fate! An epic\nrace!\nWinner takes all!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I gotta go in with everything I've got!\nAfter all, I'm\ntaking on Grass and Suzuka\nhere!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The crowd is totally packed. The fans\nare so\nenthusiastic, you wouldn't believe\nit was a G2.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let me hear it, Trainer! Who's the\nnumber one\nUmamusume?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Эль Кондор Паса!"
+            ]
+        },
+        {
+            "text": "Who's gonna win?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Эль Кондор Паса!"
+            ]
+        },
+        {
+            "text": "Who's gonna blow Suzuka out of the\nwater and\nadvance to the Japan Cup?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Эль Кондор Паса!"
+            ]
+        },
+        {
+            "text": "Bueno! I'm off to the paddock!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Let's have a good race today, Suzuka! I...\nI'm...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm aiming high enough to see the whole\nworld! So\nwhatever it is you're aiming\nfor, I plan to go\nhigher!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I see... Well, let's do our best. But...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm not really aiming for anything. I just\nwant to\nsee a view with no one else in\nsight...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Suzuka...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "El, she's our competitor. We are looking\nat things\nfrom a different perspective.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Despite each racer having different\ngoals, the\ncourse and distance that lay\nbefore them remains\nthe same. Only one\ncan claim victory!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Congratulations, City! You looked so\nbeautiful on\nthe track!",
+            "name": "Fan A"
+        },
+        {
+            "text": "I'll never forget today's race—never!",
+            "name": "Fan B"
+        },
+        {
+            "text": "City! You're the most beautiful\nUmamusume ever!\n<i>Sniffle...</i>",
+            "name": "Fan B"
+        },
+        {
+            "text": "Wow, they're crying. My running made\nthem cry.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "\"Everything's packed into that word,\"\nhuh...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "City! You were so beautiful!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You don't say.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Aaaaahhh!",
+            "name": "Spectators",
+            "choice_data_list": [
+                "City!"
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Did you give it your all?"
+            ]
+        },
+        {
+            "text": "Of course. Couldn't you tell by\nwatching?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, go ahead... Tell me.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "I ran and ran like hell, and now I'm here,\n\nvictorious.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "How do I look, in your eyes?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "So incredibly beautiful!"
+            ]
+        },
+        {
+            "text": "Haha... thank you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You know what? I'm going to keep\nrunning.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I don't care what people say, or how\nthey look at\nme.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yes, I'm pretty, and no, I'm not going to\nstop\nrunning.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Because as long as I'm running, I'm being\ntrue to\nmyself!",
+            "name": "Голд Сити"
+        }
+    ]
+}

@@ -1,0 +1,361 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm on my way back to campus with Fuji\nKiseki\nwhen I realize something terrible."
+        },
+        {
+            "text": "You lost your phone?!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I empty my bag and pockets, but my\nphone is\nnowhere to be seen."
+        },
+        {
+            "text": "My blood runs cold when I remember all\nthe\nconfidential information from Tracen\nthat's stored\nin it.",
+            "choice_data_list": [
+                "I'll be in big trouble if that information leaks!"
+            ]
+        },
+        {
+            "text": "I bet... We'd better find it, and fast!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hang on, don't you have a tablet that's\nsynced to\nyour phone?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "There's an app you can use to track\ndown your\nlost phone if you're logged\ninto the same account\non both devices!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "As I have my tablet with me, I take it out\nof my\nbag, download the app in\nquestion, and enter my\ninformation."
+        },
+        {
+            "text": "Oh! The map's loaded!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It looks like your phone's in a park...\nmaybe? It\nseems to be moving around...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "I squint at the screen and, sure enough,\nthe dot\nindicating my phone's location is\nmoving about."
+        },
+        {
+            "text": "Maybe someone's picked it up. But it\ndoesn't look\nlike they're taking it to a\npolice station or a lost\nand found...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We might have to chase them down if\nthey're\nsome baddie trying to steal your\nphone. Hang on,\nI'll get changed!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "There's no need for that."
+            ]
+        },
+        {
+            "text": "Au contraire! It's always better to be\nsafe than\nsorry! Let's head over once I've\nchanged!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Right, we're here! But... I don't see\nanyone who\nlooks like a dastardly thief.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I suppose the only thing we can do now\nis ask\naround.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Meeeow.",
+            "name": "Cat"
+        },
+        {
+            "text": "Why, hello! What a darling kitty! Say,\nhave you\nseen a smartphone lying about\nanywh—",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Huh?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Nothing, just... look at what it's dragging\naround.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Sure enough, there's a very familiar\nphone on a\nvery familiar lanyard in its\nmouth.",
+            "choice_data_list": [
+                "My phone!"
+            ]
+        },
+        {
+            "text": "So it <i>is</i> yours! I thought I'd seen it\nbefore.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ahaha! I can't believe it, but our phone\nthief is a\ncat! I've never seen a more\nadorable thief!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But there's no time to sit around and\nlaugh. I'll be\nright back!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She's off after the cat and out of sight\nbefore I\ncan respond."
+        },
+        {
+            "text": "A considerable amount of time later, I\nspot her\nsprinting back toward me."
+        },
+        {
+            "text": "<i>Huff! Huff!</i> Sorry for the wait, but I got\nyour\nphone back!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки is sopping wet, with a puddle\nof water\ngrowing at her feet.",
+            "choice_data_list": [
+                "What happened?!"
+            ]
+        },
+        {
+            "text": "Ahaha. Sorry for alarming you. It's kind\nof a long\nstory, but...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Huff! Puff...</i> My word, you are one\nnimble cat,\naren't you?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Watch out, kitty! There's a lake over\nthere!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Plop!</i>"
+        },
+        {
+            "text": "Did you... Did you just drop the phone in\nthere?!\nYou might be cute, but you sure\nare trouble!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ack, I'd better fish out the phone before\nit's a\ngoner!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "So that's the long and short of it. But\ndon't worry!\nI'm not as drenched as I\nappear. My undershirt is\nstill bone dry!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She flashes me a disarming smile, but the\nsweat\non her forehead tells me just how\ndaunting her\nchase was.",
+            "choice_data_list": [
+                "Give her a drink.",
+                "Give her a towel.",
+                "Hurry and buy her a change of clothes."
+            ]
+        },
+        {
+            "text": "It's okay! You don't have to give me a\ndrink! I\nwent looking for it because I\nwanted to, that's all!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Even so, you did a lot and need to stay\nhydrated."
+            ]
+        },
+        {
+            "text": "That's a good point... Haha. I didn't\nrealize it till\nnow, but I'm parched!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Phew! Thank you! It was very refreshing.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "And thank <i>you</i> for going to such lengths for me."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Your clothes are all dirty because of that wild\ncat chase."
+            ]
+        },
+        {
+            "text": "Whoa, you're right! I'm covered in mud...\nWhat a\nstate I'm in.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I was so focused on getting your phone\nback that\nI got total tunnel vision.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I must look pretty pathetic right now,\nhuh?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Not at all. I'm grateful for your help."
+            ]
+        },
+        {
+            "text": "To think Фудзи Кисэки, who's usually so\nwell put\ntogether, would literally crawl\nthrough the mud\nfor me... It's just too\ntouching."
+        },
+        {
+            "text": "You are? Somehow, it's embarrassing\nhearing you\nsay that.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But... yeah, it makes sense.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's strange, but I always want to look my\nbest in\nfront of you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But since it brought back your beautiful\nsmile, I'll\ngladly wear this bedraggled\nlook like a badge of\nhonor.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "For your smile is my treasure.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Are you sure I can use this? I'm covered\nin mud,\nyou know.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Of course I'm sure! That's what it's for!"
+            ]
+        },
+        {
+            "text": "Okay... Then, thank you! I'll return it\ntomorrow\nafter I wash it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Phew! That feels so much better. I love\nhow fluffy\nyour towel is.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It smells nice too... The scent is so gentle\nand\ncalming.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Really?"
+            ]
+        },
+        {
+            "text": "Hehe. I guess you don't notice since\nyou're used\nto it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Speaking of, I heard that you're more\ngenetically\ncompatible with people\nwhose scent you like.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I think it might be true.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I did dive headfirst into a murky lake for\nyou\nwithout hesitation, after all.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "When I think about it that way... you\nmay be even\nmore important to me than\nI imagined.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Hehe. No need to get so embarrassed.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Say, Trainer... What am I to you?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Do you find my scent pleasing as well?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You're gonna go <i>buy</i> some for me?! It's\nall right!\nYou don't have to go out of\nyour way to do that!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Really, I'm fine. I'll be dry again in no\ntime.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Despite her reassurances, I'd still hate\nfor her to\ncatch a cold.",
+            "choice_data_list": [
+                "I'll be right back, so wait here!"
+            ]
+        },
+        {
+            "text": "I run to the nearest convenience store\nand hurry\nback, only to find..."
+        },
+        {
+            "text": "<i>Zzz...</i>",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "(She's asleep!)"
+            ]
+        },
+        {
+            "text": "I obviously can't change her clothes\nmyself, but I\ncan't just leave her there\neither. I also wouldn't\nwant to wake her\nup."
+        },
+        {
+            "text": "I decide to carry her home on my back."
+        },
+        {
+            "text": "...Wha?! T-Тренер?!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Good morning."
+            ]
+        },
+        {
+            "text": "Oh... Sorry. I must've fallen asleep while\nI was\nwaiting.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I felt someone picking me up, but in my\n\nhalf-asleep state, I thought it was my\nmother.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Your mother?"
+            ]
+        },
+        {
+            "text": "Yes. Your back felt so sturdy and warm...\nIt\nreminded me of a time my mother\ncarried me,\nlong ago.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I must've mistaken you for her because\nyou're just\nas important to me as she is...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Sorry. That was weird, wasn't it. I must\nstill be\nmuddled with sleЭпизод",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Anyway, we'd better hurry home. Get it\ntogether,\nFuji!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "That's the wrong way."
+            ]
+        },
+        {
+            "text": "...Please pretend that didn't happen.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки is unsteady on her feet, so I\nsupport\nher all the way back to the\nacademy."
+        },
+        {
+            "text": "She smiles at me, soft and warm, and we\nadmire\nthe sunset in amiable silence."
+        },
+        {
+            "text": "The next day, I find my towel waiting for\nme in my\noffice, folded up nice and\nneat."
+        }
+    ]
+}

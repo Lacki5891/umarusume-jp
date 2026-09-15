@@ -1,0 +1,236 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Найс Нэйчер has been acting strange all\nday...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Like when I passed the academy gates\non my way\ninto work...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait. This is not a good idea.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Isn't waiting at the gate in the morning a\nbit\nmuch?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "My easy plan is backfiring... I guess I\nhave to—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature?"
+            ]
+        },
+        {
+            "text": "Whoa?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, heeey, Trainer...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What a coincidence meeting you here...\nSeriously,\nwhat are the odds?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Umm, we have training this evening,\nright? See\nyou then!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Let's get it! ...What am I saying? Haha...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Then, she abruptly came into my office\nat lunch...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, so, uh... here's the thing.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Um... I have something I'd like to give\nyou...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Really?"
+            ]
+        },
+        {
+            "text": "Yes. It's... it's...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's fried chicken!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The butcher at the shopping district\ngave me\nsome extra.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's the perfect snack to go with a drink,\nright?\nYou should take some home.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Thanks."
+            ]
+        },
+        {
+            "text": "Okay, I'll give it to you later...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's okay, I still have time. Just keep it\nsimple...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Then, while we were taking a break\nduring\ntraining...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Wait, not in a tracksuit. Never mind.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm gonna get some water...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And now...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here's okay. Thanks for your hard work\ntoday.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You too."
+            ]
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "All right, see you tomorrow."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "W-waaaait!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay, so...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You forgot your chicken!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The chicken I was supposed to give you!\nOne sec,\nI'll go get it!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Gah! I'm such a coward!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Haven't you forgot something?!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Oh, the fried chicken?"
+            ]
+        },
+        {
+            "text": "No, not... I mean, you're not wrong,\nbut...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean... Urghhhhh!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Here...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I don't know if they're any good but...\nhere.\nValentine's Day chocolate.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Nothing weird about this, right?! I'm just\n\nexpressing my gratitude to my trainer!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Everyone's always taught me that\nshowing\ngratitude is important.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So even though they're just normal\nchocolates, I\nstill figured I should—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "No... I <i>want</i> to give you these. That's why\nI made\nthem.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, I say that, but all I did was cut\nup some\nchocolate and melt it!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You probably aren't too excited to get\nthem from\nme, though...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "C-come on! Why are you quiet?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're making me look stupid... Come\non, say\nsomething...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm... so happy. Thank you."
+            ]
+        },
+        {
+            "text": "Do you really mean that?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're not just saying it to make me feel\nbetter?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I really mean it."
+            ]
+        },
+        {
+            "text": "Hm...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I'm glad.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The chocolates Найс Нэйчер gave me\ntaste extra\nsweet.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later, Найс Нэйчер gives me some fried\nchicken,\nbut it also comes with a pack of\nhomemade\nchocolates labeled \"A\nspecial bonus.\"",
+            "name": "Монолог"
+        }
+    ]
+}

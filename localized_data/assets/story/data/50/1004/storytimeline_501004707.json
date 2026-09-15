@@ -1,0 +1,68 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ahhh... The air is always so nice and\npeacesful at\nshrines, don't you think?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Is that why you wanted to come here?"
+            ]
+        },
+        {
+            "text": "You know the saying \"sickness starts in\nthe mind,\"\nright? I thought I'd try to\nchase off some bad\nfeelings! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We'll be done in a jiffy!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Whew, I feel so refreshed! This is great!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now I can party all night at the disco!\nHehe,\npsych! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's get back to the academy at Mach\nfive! I've\ngot training to do!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to burn up the track today!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, that's it for the shrine! Let's get\nback to the\nacademy right away!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...H-huh?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, no! Tata's keys are missing! I put\nthem in my\npocket, but they're not there\nanymore...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heinous! Where did you go, my little\nkeys?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We came all the way to the shrine, but I\nstill have\nbad luck. This is totally wack...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Perhaps because of the unfortunate turn\nof\nevents, Марузенски's condition does\nnot improve.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She really seems to get her groove back\nafter\npraying at the shrine. Even her\ndriving is sharper\nthan usual.",
+            "name": "Монолог"
+        }
+    ]
+}

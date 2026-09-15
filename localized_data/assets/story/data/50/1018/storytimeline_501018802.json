@@ -1,0 +1,276 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While walking with Эйр Грув in the\ncentral\nplaza, I hear a loud voice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Talk to ya later, mom! Love ya lots!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Oh! Howdy, Эйр Грув!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I should have guessed it was you. Was\nthat your\nmother on the line?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You betcha! Just puttin' in a request for\nsome\nsnacks!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "There's this snack that they don't sell\nhere!\nBarbecue-flavored carrot chips!\nYum!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "S-seriously? Don't you think it's a bit\n\npresumptuous to expect that of her?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Nah, she's pleased as punch to do it! She\ngets the\nbiggest smile whenever I ask for\nanythin'.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Are you sayin' your mom <i>doesn't</i> spoil\nyou, Air\nGroove?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "My mother is very busy. She doesn't\nhave time to\nwaste on such things.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What in tarnation?! Moms <i>gotta</i> spoil\ntheir kids!\nIt's in the constitution!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "You're sayin' she doesn't get on your\ncase about\nhow much you call? Or send\ncare packages you\ndidn't even ask for?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Ngh... Well, sometimes...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I knew it! Sheesh! I bet she's just waitin'\nfor ya to\nask her for some love!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hurry up and give her a call, why don't\nya!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Ugh... Why do your wild claims sound so\noddly\npersuasive?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But I've never done anything like that\nbefore. I\nwouldn't know what to say...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Just say you want to hear her voice.",
+                "Isn't there anything you'd like her to send?"
+            ]
+        },
+        {
+            "text": "But I've never done anything like that\nbefore. I\nwouldn't know what to say...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Just say you want to hear her voice.",
+                "Isn't there anything you'd like her to send?"
+            ]
+        },
+        {
+            "text": "I... guess I could do that...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "There ya go! Sounds like a fine idea to\nme! I know\nI give my mom a ring just to\nhear her voice\nsometimes.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "...All right. I'll go call her.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What're we doin' just standin' around\nfor? We're\ngettin' after her, ain't we?",
+            "name": "Тайки Шаттл",
+            "choice_data_list": [
+                "Let's get to it!"
+            ]
+        },
+        {
+            "text": "Well, I... I was wondering how you were.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Is everything all right?! What\nhappened?!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "No, nothing. I'm fine. I just... wanted to\nhear your\nvoice.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Something <i>has</i> happened, hasn't it? This\nis so\nunlike you...",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "N-no, I said I'm fine! I really just wanted\nto talk\nwith you!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "One of the other students said that\nmothers get\nworried if their daughters\ndon't ask for their help\nfrom time to\ntime...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Ahahahaha!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "I'm sorry, I'm sorry. Oh, Эйр Грув, I\ntake it\nback—this is <i>exactly</i> like you.",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "I appreciate the gesture, dear. You do\nwhatever\nit is <i>you</i> want to do though,\nokay?",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Thank you. I promise to keep doing my\nbest over\nhere.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув! Aren't you just as cute as a\nbutton?!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Wh-where did you come from?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I swear, if you ain't just the sweetest\nlittle bundle\nof cute when you're talkin'\nwith your mom!",
+            "name": "Тайки Шаттл",
+            "choice_data_list": [
+                "Hey, we said we wouldn't—"
+            ]
+        },
+        {
+            "text": "Aha! I see what's going on!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You two are about to receive a lesson in\nwhat\nhappens when you eavesdrop on\npeople! And you\ncan believe that's a\nmistake you won't be making\nagain!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Come on, I'm not a child.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Not even a little gift?"
+            ]
+        },
+        {
+            "text": "Yeah! Like snacks!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Don't lump me in with you! Snacks!\nGood grief...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ah... Hold on... I've thought of\nsomething. I'll go\ncall her.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All right, let's get after her!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Hello, Mother. Do you remember those\ncookies\nyou used to make when I was\nyounger?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I've been trying to recreate them from\nmemory,\nbut it's not going so well.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Want me to send you the recipe?",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "Actually, I was... wondering if you might\nbe willing\nto... Instead of the recipe...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This ain't going so hot! Wait here a tick!",
+            "name": "Тайки Шаттл",
+            "choice_data_list": [
+                "Wait! Wh-what are you..."
+            ]
+        },
+        {
+            "text": "No, no, no, darling! If you want some of\nmom's\ncookies, you can't beat around\nthe bush!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Huh?! Taiki?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hahahaha! Oh, I see! Эйр Грув, you\nwere always\nso indirect!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "I-I'm sorry...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Is that Taiki there with you? Hi! Take\ngood care\nof Эйр Грув, please!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "You got it, boss!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Mother, please...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll bake a batch of cookies and send\nthem as\nsoon as I can! I'll be sure to send\nenough for your\nfriends, so give some to\nTaiki too!",
+            "name": "Эйр Грув's Mother"
+        },
+        {
+            "text": "<i>...So.</i> Do you two have anything to say\nfor\nyourselves?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'm happy she got the message!"
+            ]
+        },
+        {
+            "text": "Yup! Everyone's happy!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "You fools! That is <i>not</i> what I'm referring\nto!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And so, Эйр Грув gives us an earful...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув gives us quite the earful, but\nit does\nseem somewhat shorter than her\nusual lectures.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A few days later, I find some cookies on\nmy desk.\nThey have a refined flavor and\na certain warmth\nthat lingers on the\ntongue. Absolutely delicious.",
+            "name": "Монолог"
+        }
+    ]
+}

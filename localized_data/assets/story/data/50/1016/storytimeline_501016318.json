@@ -1,0 +1,147 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're so cool, Brian! Ahhh, look over\nhere!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...If we leave now, we can probably\ncatch an\nearlier bullet train.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, Trainer! Hurry it up.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'm ready!"
+            ]
+        },
+        {
+            "text": "Despite her attitude, Нарита Брайан has\nanother\namazing race today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If she keeps it up, she'll likely do well at\nthe\nspring Tenno Sho as well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Sorry, I was just thin—"
+            ]
+        },
+        {
+            "text": "Hey, it's Нарита Брайан!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Tch... This is <i>your</i> fault.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ahhh! Today's race was so good! Hey,\nare you\ngoing to race in the spring\nTenno Sho?",
+            "name": "Spectator B"
+        },
+        {
+            "text": "The spring Tenno Sho...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh! I heard a rumor that the Sable\nAssassin is\ngoing to be there! The racer\nwith black hair and a\nblue rose—Rice\nShower!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Is she strong or something?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "She's been an obstacle for both Mihono\nBourbon\nand Мэдзиро МакКуин, so, yeah,\nI'd say she's\npretty strong!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "But we're rooting for you, so take her\ndown for us!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "...Райс Шоуэр, huh?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Trainer, I know training resumes\ntomorrow, but I'd\nlike you to make some\nadjustments for the spring\nTenno Sho.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You want to enter the spring Tenno Sho?"
+            ]
+        },
+        {
+            "text": "Yeah. If there's someone strong enough\nto be\ncalled \"the assassin,\" then I\ndefinitely want to see\nwhat she's got.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No, I don't just want to see what she's\ngot. I want\nto beat her.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "text": "All right. Then...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Whew!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Water... Need... water.",
+            "name": "Райс Шоуэр",
+            "choice_data_list": [
+                "Hey, aren't you..."
+            ]
+        },
+        {
+            "text": "Gyaaah!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Black hair and a blue rose... There's no\nmistaking\nthat she matches the\ncharacteristics of the Sable\nAssassin\nwe've heard rumors of.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Райс Шоуэр?"
+            ]
+        },
+        {
+            "text": "E-eek!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Ah... U-um... E-excuse me!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>...That's</i> the Assassin?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's true, \"Sable Assassin\" hardly seems\nlike a\nfitting name for such a petite and\ndainty girl.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But it won't be until the spring Tenno\nSho that\nwe'll be able to see her\nstrength with our own\neyes.",
+            "name": "Монолог"
+        }
+    ]
+}

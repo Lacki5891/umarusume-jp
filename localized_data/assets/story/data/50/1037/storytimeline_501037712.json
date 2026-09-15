@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйсин Флэш still hasn't arrived for our\ntraining\nsession. Just when I start to\nthink she might not\ncome at all...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! I'm so very sorry! I did not mean\nto be an\nhour and thirty-four minutes\nlate.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Hey, what's wrong?"
+            ]
+        },
+        {
+            "text": "Well, I ate off campus today because\nthe\ncafeteria is closed...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But my order took so long to come out, I\nalmost\ncanceled it altogether.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "When it arrived, I ate as quickly as I\ncould and\ntried to race back here, but I\nhad to stop because\nmy stomach was\nhurting too badly...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "That would explain it..."
+            ]
+        },
+        {
+            "text": "But it does not excuse my tardiness. I\nshall reduce\nmy break time to\ncompensate for every minute of\ntime\nlost.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I can tell she's sincerely sorry for being\nlate, so I\nlet her off with a light warning.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Брайан is selected to be\nUmamusume of the\nYear."
+        },
+        {
+            "text": "Past winners will also be at the award\nceremony.\nIt could be good to speak\nwith such seasoned\nracers, but maybe\nit's still too early for her..."
+        },
+        {
+            "text": "Should we look to rub shoulders with the\n\nstrongest racers or not? This important\ndecision\nwill affect her future.",
+            "choice_data_list": [
+                "You want to face off with the best, so let's\nattend!",
+                "Maybe it's a little too soon."
+            ]
+        },
+        {
+            "text": "We decide to attend. Together, we head\nto the\narena where the strongest gather!"
+        },
+        {
+            "text": "We decide not to attend. She claims she\nis still\njust a competitor, so we fix our\nsights solely on\nhelping her become a\nstronger runner."
+        }
+    ]
+}

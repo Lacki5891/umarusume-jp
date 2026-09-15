@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The results last time could've been\nbetter, but\nthis time will be different!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I promise I'll repay all of the hard work\nyou've put\nin, so be sure to watch me\nrun today, okay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll make sure to put a huge smile on\nyour face.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I'll be waiting for you at the finish line!"
+            ]
+        },
+        {
+            "text": "Right! I'll be back in no time! Be sure to\ngreet me\nwith your sparkling smile! ♪",
+            "name": "Супер Крик"
+        }
+    ]
+}

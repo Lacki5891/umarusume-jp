@@ -1,0 +1,226 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as the autumn Tenno Sho is\n\napproaching, I'm getting ready to go\nhome after\nwork when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Knock, knock!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hi, Trainer! What's the haps?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Just finishing up. What brings you here so late?"
+            ]
+        },
+        {
+            "text": "Hi, Trainer! What's the haps?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Just finishing up. What brings you here so late?"
+            ]
+        },
+        {
+            "text": "You can't tell from my outfit? I'm going\nto do\nsome training!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Senior-year racers are as fast as they\ncome, and\nsome super-talented newer\nstudents will be\nentering too...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So I'm mega-ultra eager to get to\nwork. ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You certainly do look happy!"
+            ]
+        },
+        {
+            "text": "Teehee, you know me so well. I'm itching\nto get\nout there and run with the little\nones!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But I really am pushing myself hard. I'm\ndoing\neverything I can to ensure this is a\nfun race!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So I was thinking... If it's okay, I was\nhoping you'd\njoin me.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Of course I will."
+            ]
+        },
+        {
+            "text": "Thanks! Let's work up a sweat and get\nthat\ngleaming glow of youth!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "This is a good time for training. It's not\nas hot at\nnight.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Hm? It looks like there's someone else\nhere.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Woo-hoo! I improved my time again!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Okay, one more lap! I need to focus on\nmy pace\nthis time.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I've gotta get... amped to the max!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Spe is training all alone at this hour...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "She looks like she's enjoying her practice."
+            ]
+        },
+        {
+            "text": "Yeah, I can feel how eager she is to run.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, why don't we train somewhere\nelse? I don't\nwant to interrupt her.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm sure we'll run together one day, so\nkeep at it,\nSpe...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A few days later, a press conference is\nheld for\nthe autumn Tenno Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A list of runners has already been\nhanded out\nbefore the conference.\nHowever...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why won't you show me the list?!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I thought it would be more fun this way."
+            ]
+        },
+        {
+            "text": "Hmph... What a meanie...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, I guess I'll find out soon enough\nwhen the\npress conference starts!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The press conference with the\nparticipants of the\nautumn Tenno Sho\nwill now begin.",
+            "name": "MC A"
+        },
+        {
+            "text": "If the first runner could take the stage,\nplease.",
+            "name": "MC A"
+        },
+        {
+            "text": "O-okay! I'm so nervous being the first\none to\nspeak...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Wha?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Um, my name is Спешл Уик! I'm so\nhappy to be\nhere!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "We hear that you've been training\nparticularly\nhard in preparation for the\nrace.",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Yes, but I've been so excited that it\ndidn't really\nfeel like hard work!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Thanks to all of it, I'm in good shape.\nActually,\nI'm feeling the best I've ever\nfelt!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You mentioned being excited. Is there\nanything\nspecial that has you so eager?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Yes! I'm excited because I think it's\ngoing to be\nthe most fun race ever!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I watched Grass—I mean, Grass\nWonder—in the\nYasuda Kinen, and it\nwas so much fun!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It was so exciting to see her run with\neverything\nshe had!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But as much as I enjoyed watching it, I\nwas also\nreally jealous... It looked more\nfun to be a runner\nthan a spectator!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You felt that you wanted to join a race\nlike that?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "I thought I wasn't good enough, and that\nI\nwouldn't be able to make the race\nfun...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But I continued to push myself, because\nthere's\nsomeone I really\nadmire—someone I want to\ncatch up to!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "She taught me the joy of running, and in\nthe\nautumn Tenno Sho, I'll finally be\nable to pass her\non the track.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I will... I will win against Марузенски!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ohhh!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I guess this is why you didn't show me\nthe list of\nparticipants...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски continues to watch as\nСпешл Уик\nspeaks onstage.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, look at her... I'm so excited, I\ncan't stop\ngrinning.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I bet it's going to be a fun race!"
+            ]
+        },
+        {
+            "text": "It sure will... I accept your challenge,\nSpe!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And so, the stage is set for a big\nshowdown with\nСпешл Уик at the\nautumn Tenno Sho!",
+            "name": "Монолог"
+        }
+    ]
+}

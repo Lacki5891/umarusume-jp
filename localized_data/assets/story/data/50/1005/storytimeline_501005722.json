@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, right when lunch is about to\nend, I run\ninto Фудзи Кисэки as she comes\nout of the infirmary."
+        },
+        {
+            "text": "Oh, Trainer! What a coincidence.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What were you doing in the infirmary?"
+            ]
+        },
+        {
+            "text": "Oh, uh... nothing!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Is everything okay?!"
+            ]
+        },
+        {
+            "text": "I-I'm fine! It's nothing serious!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Really, I'm okay!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Plop.</i>"
+        },
+        {
+            "text": "Ah...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "A small blister pack of pills falls from\nFuji Kiseki's\npocket."
+        },
+        {
+            "text": "I have a little headache, so I just\nstopped by for\nsome medicine. That's\nall!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Okay, I'll be going now. Byyyeee!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Aaagh...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Despite her best efforts to hide her\nsymptoms, it\nseems Фудзи Кисэки is\nsuffering from quite the\nmigraine..."
+        }
+    ]
+}

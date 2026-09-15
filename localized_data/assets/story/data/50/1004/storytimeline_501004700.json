@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Good morning, Trainer. <i>Yawn...</i>",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Not enough sleep?"
+            ]
+        },
+        {
+            "text": "Good morning, Trainer. <i>Yawn...</i>",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Not enough sleep?"
+            ]
+        },
+        {
+            "text": "What makes you think that?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's just that, well, I was chatting with a\nfriend\nyesterday, and we got carried\naway...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I dropped her off in Tata just before\ncurfew...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But that was yesterday, and this is today.\nIt's all\ngood in the neighborhood!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Despite what she says, Марузенски\ndefinitely\nneeds some more sleЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

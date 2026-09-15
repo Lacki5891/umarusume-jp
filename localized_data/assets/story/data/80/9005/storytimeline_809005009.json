@@ -1,0 +1,206 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Монолог",
+      "text": "Ever since I became Sasami Anshinzawa's \nacupuncture test dummy, I've grown accustomed\nto playing along with her whims. On one such\nday..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Hey, <username>! Look at\nwhat I've got!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I won this ticket for a hot spring vacation from a\nraffle! This must be some kind of reward for my\nusual good deeds! ♪",
+      "choice_data_list": [
+        "What good deeds? Er, I mean, congratulations."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Gosh, what's with that lukewarm response? You're\ncoming along as well, you know?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "The ticket's for two, and who better to invite\nalong than my trusty partner?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Now enough talking. Off to the hot spring we\ngo! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Wow! ☆ What a luxurious inn! ♪ I'm definitely\ngonna brag about this to my master after I get\nback!",
+      "choice_data_list": [
+        "Are you sure I should be here with you?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Of course! Consider it thanks for always \ncooperating with my acupuncture practice! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh, but don't start thinking that I settled for you\nbecause I had nobody else to invite. I'm not some\nloner without friends, you hear me?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Mmm! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahhh... That felt fantastic! ♪ There's nothing\nmore relaxing than a soak in a hot spring! ☆"
+    },
+    {
+      "name": "Монолог",
+      "text": "After a soothing bath, I happen to bump into\nSasami Anshinzawa in the corridor."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh! Did you just finish bathing as well?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Hot springs sure are amazing! Their restorative\nproperties are on par with those of\nacupuncture! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh, do you want to go explore the souvenir shop\nwith me? You should get something for your\ntrainee there!"
+    },
+    {
+      "name": "Монолог",
+      "text": "Apparently, acupuncture has a big history in the\nlocal area, so we somehow end up buying\nmatching needle keychains..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Sigh...</i> I'm in heaven! What would I give to just\nkick back and relax here for eternity! ♪",
+      "choice_data_list": [
+        "That won't do. You know that."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Yeah, I do... I still have an important duty to\nfulfill, after all!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I'm duty bound to help Umamusume with my\nneedles and relieve them of their worries!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Thanks to your assistance, I'm a much better\nacupuncturist than before! And I'm going to keep\non honing my skills! ♪",
+      "choice_data_list": [
+        "That's the spirit! Let's work on improving your\nsuccess rate!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Yep! With you as my partner, I know I can make it\nbig in the acupuncture world!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Hey, I know! If we're going to do this, why don't\nwe expand overseas?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "We can share the wonders of acupuncture with\npeople all over the world! My little sister's\nwell-informed about global affairs, so I'm sure\nshe'd be happy to lend a hand! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "But wait, there's more! When the time comes—",
+      "choice_data_list": [
+        "...I'm sorry, but I need to be there for my\ntrainee.",
+        "...I'm sorry, but I need to be there for my\ntrainee."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh, you! Did you think I was serious?! I was only\npulling your leg! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I have no intention of getting in between you and\nyour racer! None at all!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "However, my gratitude for you comes from the\nheart! ♪ Master even said I can move on from\nfetching drin—ahem, that I'm allowed to proceed\nto the next step of my training!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "With me on poking duty and you as my backup,\nwe're sure to be on the steadiest road to\nsuccess! ☆",
+      "choice_data_list": [
+        "Sasami..."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Anyway, nothing beats an acupuncture session\nafter a nice relaxing soak! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I prepared some special needles for today! Come\non, get ready to get a few pokes in you! ☆"
+    },
+    {
+      "name": "Монолог",
+      "text": "I already had my suspicions, so I'm not surprised\nthings turned out this way..."
+    },
+    {
+      "name": "Монолог",
+      "text": "But then again, this is just par for the course when\nit comes to the two of us."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Hold still... Annnd poke!"
+    },
+    {
+      "name": "Монолог",
+      "text": "Puncture Perfect!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Well? Am I amazing or what? I practiced my butt\noff for today! ☆"
+    },
+    {
+      "name": "Монолог",
+      "text": "<i>Thud!</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh my! The treatment was successful, so what's\ngoing on?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Was it <i>too</i> effective? Hellooo? Can you hear me?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Dang it! I'll get it perfectly right next time!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "I'm going to look after you so well, you'll regret\never refusing my offer! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "So you'd better have <chrname>'s\nback and support her as best you can, m'kay?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "You sense that you and Sasami Anshinzawa have\nformed an irreplaceable bond during this time \ntogether.",
+      "choice_data_list": [
+        "(Wait, is that something <i>you</i> of all people\nshould be saying?!)"
+      ]
+    },
+    {
+      "name": "Монолог",
+      "text": "Despite my consciousness slipping further and\nfurther away, my indignance still slips through in\none final mental outburst."
+    }
+  ]
+}

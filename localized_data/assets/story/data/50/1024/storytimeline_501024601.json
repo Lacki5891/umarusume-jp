@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Whoa! The race is about to start!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Why is my heart beating so fast?! I've\nalready run\nin tons of races before, so\nwhy can't I calm down?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Your heart will be beating even faster once\nyou're standing in the winner's circle."
+            ]
+        },
+        {
+            "text": "You're right! After all, I'm definitely\ngonna fly the\nhighest this time!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Which means...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm going to make your heart pound too,\n\nTrainer! ♪",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

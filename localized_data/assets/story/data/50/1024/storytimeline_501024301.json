@@ -1,0 +1,79 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Whew. It's finally the last day of summer\ncamp...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heh... My engines were operating at full\n\ncapacity...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "So I'm just gonna... close my eyes... on\nthe bus\nhome...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll wake up... when we get there...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Zzz... zzz...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I let her get some good rest on the bus\nthis year\ntoo.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mnnn... Back already? <i>Yawn...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heehee, I slept like a log on the bus! I\nthink I can\ndo some extra training now...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You still seem pretty sleepy to me."
+            ]
+        },
+        {
+            "text": "Ngh... I'm fine... Hm?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> It's not over yet!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm... not... done!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Trainer, was that—",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "It looked like Нарита Брайан."
+            ]
+        },
+        {
+            "text": "Yeah... I think so too, but...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She was really twinkly—so bright I had\nto squint.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Even brighter... than last time.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I really wanna train now. Can we?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "After rubbing her eyes a few times, she\nruns off to\nthe training center.",
+            "name": "Монолог"
+        }
+    ]
+}

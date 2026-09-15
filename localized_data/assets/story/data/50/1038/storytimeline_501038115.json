@@ -1,0 +1,299 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "\"To my darling Big Bro. I have something\n\nimportant to tell you.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"To my darling Big Sis. I have something\n\nimportant to tell you.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Please see my next message for details.\nI'll be\nwaiting for you at 11 a.m.\ntomorrow. –Curren\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "This message comes in the night with no\nwarning.\nIt has a sense of unusual\ngravitas... I wonder if she\nwants to talk\nabout senior year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No, this is Каррен Тян we're talking\nabout. It\nmight not have anything to do\nwith racing at all.\nUnsure how to feel, I\ngo to meet her the next\nday...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for coming, Big Bro. I said I\nhave\nsomething important to tell you, so\nlet's just get\nright to it...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Thank you for coming, Big Sis. I said I\nhave\nsomething important to tell you, so\nlet's just get\nright to it...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I've figured out who my senior-year rivals\nwill\nmost likely be, so I'd like to report\nthem to you.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "(So she wants to talk about racing, after all!)"
+            ]
+        },
+        {
+            "text": "Каррен Тян's demeanor is much more\nserious\nthan usual. Understanding the\nneed to be\nprofessional and pay close\nattention, I sit up\nstraight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, here's the information I gathered.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Let me know right away if anything\ncatches your\nattention, 'kay? Here it\ngoes...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Let me know right away if anything\ncatches your\nattention, 'kay? Here it\ngoes...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян places what looks like her\npersonal\ntablet on the table and plays a\nvideo she seems\nto have edited herself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Hyaaah!\"",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "\"With the flame of justice in my heart, I\nrush to\nthe scene to destroy any and all\nevil! I am... Biko\nPegasus!\"",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "That's Бико Пегасус. From what I've\ngathered,\nshe's thinking about running in\nnext year's\nTakamatsunomiya Kinen.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "In other words, I'll be up against her\nsoon. Not\nonly that, but...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"Okay, everybody! Let's have a good\ntime and...\"",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "\"Look out for more of my Umatoks!\"",
+            "name": "Бико Пегасус",
+            "choice_data_list": [
+                "(...?!)"
+            ]
+        },
+        {
+            "text": "YЭпизод Biko's big on UmaTok. She makes\nshort\nvideos heavily inspired by\nsuperhero shows, so\nkids and superhero\nfans are really into her.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I guess you could call her a superhero\nUmaToker.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"...Is it recording? Oh!\"",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "\"Every day is buono! The bigger and\ntastier, the\nbetter. ♪ I'm Hishi\nAkebonooo! ♪\"",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "That's Хиши Акэбоно. She's my friend\nand a really\ngood cook. She uses that\nskill to...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"I got a request to make a cake with\ncute flowers\non it, so on today's\nUmastagram Live, that's just\nwhat I'm\ngonna do! ♪\"",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "She's cute and tall but also uploads\nvideos of her\nmaking delicately designed\ncakes and other\ndishes. She's a huge hit!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Flower, who I ran with before,\nspecializes in\nlunches, but Akebono\ndoesn't box herself into to\na single\ngenre.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She helped pioneer the food\nUmastagrammer\ntrend. Next up is...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "W-whoa, hold on!"
+            ]
+        },
+        {
+            "text": "Got it! And... pause!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What's up?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What exactly is this?"
+            ]
+        },
+        {
+            "text": "I thought I told you before, these are my\nfuture\nrivals.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She did say that... but it just looks like\nshe's\nshowing me all the Umamusume at\nTracen\nAcademy who are popular on\nsocial media.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, if that's all, I'm gonna press\nplay. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"Howdy, y'all! It's me, Тайки Шаттл!\"",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "That's Тайки Шаттл. She's a super\ncheerful daily\nvlogger on UmaTube.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"Today, I'm fixin' to have a good ol'\nfashioned\nbarbeque!\"",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "\"My folks sent me a buncha giiinormous\nsteaks,\nand we got a beeea-utiful blue\nsky today, so I\nreckon it's time to fire up\nthe grill!\"",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "She's got a huge personality, she's\ndynamic, and\nshe uploads, like, her\nentire life onto UmaTube.\nEveryone\nloves her.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"Taiiikiii! How many times must I tell you\nnot to\ngrill on school grounds?!\"",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "\"Well, if it isn't our first guest! Y'all know\nher\nalready—it's Эйр Грув!\"",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "\"Don't make me your guest!\"",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "\"So, uhhh... Don't! Break! Academy!\nRules!\nM'kay?!\"",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "\"BOOM! Posted! AH-HAHAHA!\nPerfection!\"",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "\"I really am the best class representative!\nI never\nget tired of the day-to-day of\nclass rep life...\"",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "\"I mean, I'm posting academy rules to\nUmatter\n<i>every day!</i> Go me! I'm awesome!\nThe incredible\nclass rep!\"",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "She basically explained it already, but\nthat's the\nСакура Бакушин-О, the class\nrepresentative.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "(<i>That's</i> the class representative?)"
+            ]
+        },
+        {
+            "text": "\"...Oh, a notification already! Maybe it's\na student\ncomplimenting me on a job\nwell done!\"",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "\"WHAT?! My post says \"<i>do</i> break\nacademy\nrules\"?! I posted the wrong\nthing?!\"",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Сакура Бакушин-О is getting big on\nUmatter\nbecause of all her random posts\nand the terrifying\namount of typos they\ncontain.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Well, that's about it. Those are my\nrivals.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I think my biggest competition is\nAkebono since\nshe's an Umastagrammer\ntoo.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "Uh, Big Bro?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What about <i>racing?!</i>"
+            ]
+        },
+        {
+            "text": "Uh, Big Sis?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What about <i>racing?!</i>"
+            ]
+        },
+        {
+            "text": "Huh? You haven't realized?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Huh? You haven't realized?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Come on. Even after seeing them all\nlined up like\nthis... you didn't notice\nanything?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Бико Пегасус, Хиши Акэбоно, Taiki\nShuttle, and\nСакура Бакушин-О. The\nthing they all have in\ncommon is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "They're all sprinters!"
+            ]
+        },
+        {
+            "text": "That's right! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It's super convenient for me, don't you\nthink? The\nstars of Umastagram,\nUmatter, and UmaTok are\nall sprinters!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Throw me into the mix and we might\neven be able\nto get more attention than\nthe Derby or the\nTenno Sho... or even\nthe Arima Kinen.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "No, not just \"might.\" I'm gonna make it\nhappen!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Whoever wins the biggest race... will\ntotally be\nthe cutest runner. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "In other words..."
+            ]
+        },
+        {
+            "text": "I'm taking them all on next year!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm taking them all on next year!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm still ironing out all the details! Just\nlook\nforward to a bunch of fun stuff\nsenior year. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян's planning something...\nToday's\nevents tell me that I need to\nprepare myself for\nwhatever happens.",
+            "name": "Монолог"
+        }
+    ]
+}

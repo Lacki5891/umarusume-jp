@@ -1,0 +1,143 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The stands of Hanshin Racecourse are\nfilled with\nlively discussion after the\nAsahi Hai F.S. ends.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Was Фудзи Кисэки incredible or what? I\nthink she\nmight be the best in her\ngeneration!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "No doubt about it. All eyes'll be on her\nonce she\nstarts her classic year!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "I really hope she manages to become a\nTriple\nCrown Champion!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Once Фудзи Кисэки finishes changing, I\ncheck the\nlocation of our\naccommodations, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Miss Фудзи Кисэки, congratulations on your\n\nexcellent performance today!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "An eager-looking reporter runs up to us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We can't wait to see how you'll do in the\nfuture!\nCould I get a few comments from\nyou?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "It's great that she's so excited, but I\ndon't want\nher to stress out Фудзи Кисэки\nwith her sudden\nquestions.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'm sorry, but please arrange any interviews\nthrough the school fir—"
+            ]
+        },
+        {
+            "text": "Hold on, Trainer. There's something I\nactually\nwant to say to the world.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Thank you! I'm all ears!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "\"If upon receiving unconditional love\none's heart\nis freed from its shell, then\nthey will strive\ntirelessly to become\nothers' light.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Someone told me that long ago, and it\ncame to\nmind during today's race.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I heard everyone's cheers of support.\nThey\nallowed me to aim for victory,\nwholeheartedly\nand single-mindedly.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Thank you for your love. Please look\nforward to\nthe moment I claim the\nClassic Triple Crown!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "How was that? Good enough for an\narticle, I\nhope?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That was perfect! Thank you!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Thank you! I'm excited to see what you'll\nwrite.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Also, I can't always take impromptu\ninterviews\nlike this, so please seek\npermission from my\nschool first next\ntime, okay?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "O-oh! Right, of course!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Good! Take care now.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки's gentle gaze must be too\npotent for\nher because the reporter\nturns bright red before\nrunning off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next morning, while we're en route\nto the\nacademy...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa, there are already articles about\nme! They\nmust have really fast writers.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The articles she finds online are\naccompanied by\nexpertly shot pictures\nof her and rather\npassionate reports of\nher race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's see... \"Фудзи Кисэки Charms Crowd\nwith\nStupendous Performance at Asahi\nHai F.S. and\nForges On with Gratitude.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "\"Next Year's Star Confirmed.\" Ahaha!\nThey made\nme sound so cool! This is\ngreat!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "A lot of people in the comments have\nhigh\nexpectations for me as well! How\nwonderful!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "So, what race should we tackle next?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "How do you feel about the Yayoi Sho?"
+            ]
+        },
+        {
+            "text": "Great, considering I was going to\nsuggest the\nsame!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I was hoping to prepare for the Satsuki\nSho by\nrunning a 2,000-meter race on\nthe big stage, you\nsee.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки was able to show the world\njust what\nshe's made of in the Asahi Hai\nF.S.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But I want her to aim even higher and\nrun even\nharder at the Yayoi Sho.",
+            "name": "Монолог"
+        }
+    ]
+}

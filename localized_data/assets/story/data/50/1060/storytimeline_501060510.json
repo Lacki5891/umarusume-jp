@@ -1,0 +1,226 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After class, the previously clear skies\nturn into\nheavy rain.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh no, it's pouring.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What?! No waaay!",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "I was going to eat sooo many marvelous\nsundaes\ntoday!",
+            "name": "Marvelous Sunday",
+            "choice_data_list": [
+                "Marvelous... sundae..."
+            ]
+        },
+        {
+            "text": "Pffft. What the heck? That's so dum—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Huh? Did I say something weird?",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Oops... N-no, it was nothing. Just ignore\nus.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, by the way, my trainer said there's\nsomething\nmore exciting than sundaes!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I did?!"
+            ]
+        },
+        {
+            "text": "Really?! What is it? Tell meee!",
+            "name": "Marvelous Sunday",
+            "choice_data_list": [
+                "Uh... a game we can all play together?",
+                "Uh... Tag?"
+            ]
+        },
+        {
+            "text": "Games? I don't think we have any just\nlying\narou—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh. Hold on.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер gets some milk caps and\nputs them\non the floor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's an oldie, so I don't know if you'll like\nit.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What's thiiis? ☆ I've never seen anything\nlike\nthem! How marvelous! ★",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Hahaha, I suppose a whippersnapper\nlike you\nwouldn't know about this game.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's called milk caps. See, you stack them\nup and\nslam them like this!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Whoa! They flipped!",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Just like that, you keep flipping the caps\non the\nfloor.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Super-duper marvelous! ☆ It'd be so\nmuch fun to\nplay with everyone!",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Everyone?! Wait! ...And she's gone.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ahhh, so this is the game you were\ntalking about!\nThese milk caps are so\ncute! They look like\npins! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey! There's one with Carrot Ranger on\nit too!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Well then. Now that everyone has a milk\ncap,\nshall we begin?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yeahhh!",
+            "name": "Everyone"
+        },
+        {
+            "text": "Under the guidance of Найс Нэйчер,\neveryone has\nfun playing milk caps.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The game is simple, but the surprising\namount of\nstrategy involved captivates\neveryone.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uuuggh... The stack is so small now! I\ncan't flip\nany!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Heh, here's a pro tip. You can just aim at\nthe\nstack like so, and...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Whoa! You're a pro, Nature! You flipped\nall of\nthem!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I didn't expect this to turn into such a\nbig event...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But sometimes it's fun to get everyone\ntogether.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ummm, what? That sounds like a little\ntoo much\nfor my ol' body, so I'll pa—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's it!",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Let's go to the gym, you two! ☆ We can\ninvite\neveryone and play tag there! ★",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "W-wait, quit pulling me! I said I'm not\ngoing!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "This is so fun! ☆ One more round! ★",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Waaaait! You seriously wanna keep\ngoing?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Of course! ♪ I'm nowhere neeear done!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I won't lose this time! I'll use my Pegasus\nMach\nStrike so no one can catch me!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Ughhh... How are none of you tired?!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I can't... breathe..."
+            ]
+        },
+        {
+            "text": "I'm glad I'm not the only one.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I have a suggestion. How 'bout we sneak\nout of\nthis war zone?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All righty, I'll leave you young'uns to it!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Heeey! Nature and her trainer are\nrunning away!",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Oooh, they must be expanding the\ngame's\nboundaries to cover the entire\nacademy! How\nexciting! ☆",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "I'm gonna get you! ☆",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Huh?! I didn't say that!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Get 'emmm!",
+            "name": "Everyone"
+        },
+        {
+            "text": "Oh, come <i>ooon!</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They continue chasing us. Even though\nwe're\nexhausted, it seems to be a good\nworkout for\nНайс Нэйчер.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Milk caps is the biggest game on campus\nfor a\nwhile after.",
+            "name": "Монолог"
+        }
+    ]
+}

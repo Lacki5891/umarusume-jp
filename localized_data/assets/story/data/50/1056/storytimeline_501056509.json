@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I happen to hear a gloomy voice coming\nfrom the\nback of the school building as\nI'm walking by.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've... reached my limit.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Wh-what do you mean?"
+            ]
+        },
+        {
+            "text": "Hoho? Hehe... are you in need of\n\nMati-kan't-get-any-luck-itaru?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You heard that right... I've got a new\nname. My\nmotivation, my energy, my\nluck... it's all gone...",
+            "name": "Mati-kan't-get-any-luck-itaru(?)"
+        },
+        {
+            "text": "The great Shiraoki did say, \"The more\nyou run,\nthe more possibilities will come\nupon you.\" But...\nall this running has only\nmade me all weak and\nfloppy.",
+            "name": "Mati-kan't-get-any-luck-itaru(?)"
+        },
+        {
+            "text": "None of my spells or prayers are\nworking. I don't\nknow what to do\nanymore...",
+            "name": "Mati-kan't-get-any-luck-itaru(?)"
+        },
+        {
+            "text": "Running back-to-back races recently is\ntaking its\ntoll on her. I'd better adjust\nher race schedule...",
+            "name": "Монолог"
+        }
+    ]
+}

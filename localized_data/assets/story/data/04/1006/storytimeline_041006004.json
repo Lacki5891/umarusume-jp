@@ -1,0 +1,248 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Five days left until tryouts...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The shoes I ordered—ones durable enough\nto withstand Огури Кэп's\ndevastating\npower—finally arrived, so I head over to\ngive them to her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "New shoes? For me?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...But why? I'm not even your trainee yet.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I tell her about the conversation I had with\nТамамо Кросс and how\ntryouts are where\na student proves her true worth by giving\nit her all.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tama said that? I see. So that's how\ntryouts work.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Got it. Thanks for the shoes. I'll break\nthem in as I practice for the\nrace.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп accepts the shoes, after which I\ndecide to keep an eye on\nher as she takes\nthem for a spin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i> <i>Huff, huff...</i> Haha... Hahahaha!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "This is amazing! My legs... are light as\nfeathers!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Thank you again for the shoes.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "They're... absolutely perfect. I'll take good\ncare of them.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "I'm just glad to see you running so happily."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "H-huh? What—?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "text": "It's no big deal... I think. It's just... Uh...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "What you said. It felt really... familiar...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Familiar?"
+            ]
+        },
+        {
+            "text": "It's nothing. Don't worry about it.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "In any case, thank you one last time for\nthe shoes. I promise to pull\nout all the\nstops come tryouts.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Five days pass, and the time for tryouts\nfinally arrives.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Running today is not only Огури Кэп but\nalso another student\nrumored to be just as\nfast and skilled—Супер Крик.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The podiums are absolutely buzzing with\nexcitement.  If I didn't know\nany better, I'd\nthink this is a G1 race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow. There sure are a lot of people here\ntoday.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You're right. Are tryouts always like this?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "No, actually. It's quite unusual to have this\nlarge of an audience... I\nwonder if there's\nsome celebrity here today.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "A celebrity? That would explain the\ncrowd.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Супер Крик, please get ready for the\nrace!",
+            "name": "Tryouts Staff A"
+        },
+        {
+            "text": "Yes, ma'am! I'll be right there! I have to go\nnow.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "See ya.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Wait, who even was that?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The two are completely oblivious to all the\nattention they're\ngarnering. Although\nmaybe in this case, ignorance is bliss...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Not that it matters. Once they start racing,\nthe crowd roars with\nexcitement, and it's\nclear why everyone's here today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Огури Кэп is closing the gap! She isn't\nwasting a single second!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Almost there! She's taking the lead! But\nwait! Creek is speeding up!\nWill she be\nable to lose Oguri?! It's gonna be a close\nmatch! Who will\nwin?! Oguri or Creek?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Oguri ends up in second place behind\nSuper Creek, who won by a\nmere fraction\nof a second.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Second place... Huh...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I got brand-new shoes... and ran as fast as I\ncould... But I still got\nsecond...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "This place really is something else. Once I\ndebut, I'll be able to race\neven more rivals\nlike Tama and Creek...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "This is awesome... and exciting!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Nice job, Огури Кэп! You were amazing!",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Indeed. Very impressive. I'm currently\nlooking to recruit more talented\nrunners to\ntrain under my tutelage, if you're\ninterested...",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Ah, right... I need to get scouted before I\ncan make my debut...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Thanks, but... Sorry, I'll have to decline.\nExcuse me.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп awkwardly wades through the\ncrowd and makes her way\ntowards me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Did you watch the race?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Yep! You were amazing!"
+            ]
+        },
+        {
+            "text": "Th-thanks.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Um... yeah, it has to be you.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I have a favor to ask. Would you be my\nТренер?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The guidance you gave and your words of\nsupport... They felt\ngenuine.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Praise or criticism, you're genuine like the\nfolks back home. It feels\nnice. Really takes\nme back.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Even though I'm far from home, as long as\nyou're my trainer, I feel like\nI can ease my\nmind and put my all into running.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "So... how about it? Would you please be\nmy Тренер?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Yeah! Let's make everyone back home proud!"
+            ]
+        },
+        {
+            "text": "...Of course! I wouldn't want anything less.\nLet's do it!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "All right. First things first...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "<i>Growl...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Let's grab something to eat.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "With nothing other than food on her mind,\nwe depart in search of\nsustenance. My\ndays of training Огури Кэп have only just\nbegun!",
+            "name": "Монолог"
+        }
+    ]
+}

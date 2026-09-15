@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today marks the end of summer camp,\nand many\nof the Umamusume seem\ndown as they board the\nbus to return\nhome.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah-ha! I found you!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Ah... Yes, you did..."
+            ]
+        },
+        {
+            "text": "Why do you try to get on the bus every\nyear? No\ntrainer of mine is going home\nthat way!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Why do you try to get on the bus every\nyear? No\ntrainer of mine is going home\nthat way!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You'd miss out on the extreme breeze as\nwe ride\nTata back home!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "C'mon, if we don't hurry, we'll be late!\nWe can't\nlet the bus beat us!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And so, this year's summer camp\nconcludes safely.\n(But I suppose that\nremains to be seen for me...)",
+            "name": "Монолог"
+        }
+    ]
+}

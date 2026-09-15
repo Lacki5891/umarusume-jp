@@ -1,0 +1,246 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Here I GOOO! RAAAAAGH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's summer camp, and Уиннинг Тикит is\ncharging ahead from morning\nto night.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I won't quit either!"
+            ]
+        },
+        {
+            "text": "Wow! Trainer... You're geared up!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Boooom! Well, I'm burning with energy\ntoo! Like the sun! Today we\nsee who's got\nthe most poweeer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Gah... <i>Huff, puff...</i> Y-you... okay?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "We... tried... too hard..."
+            ]
+        },
+        {
+            "text": "Y-yeah! Our pacing... needs work!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But... Hahaha! I feel... so good right now!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "As soon as you went, \"aaagh!,\" I got all,\nlike, \"raaaaagh!\"",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Like, charged beyond charged! Past the\nmax!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "We've got good synergy."
+            ]
+        },
+        {
+            "text": "Synner-gee! Yeah, yeah... Sounds strong! I\nlike it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Full power and full synergy. If we can\ncombine the two, it might be\nthe perfect\ntraining for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "During our next session...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Joint training?! Whoooa, amazing! WOW!\nI'm... getting... puuumped!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yesterday, I burned like the sun! Today,\nI'll... uhhh... burn like a super\nsuuun!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's so hot, I'm sweating already... To be\nhonest, I just wanna take it\neasy, ya know?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Same here... Well, it's just one day, right?\nLet's get it over with.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Long-distance swimming? Sure, I'm a\npretty good swimmer. How does,\nsay,\nabout 3,000 meters sound?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "I know! We'll swim to that little island over\nthere and back! Some\nfront crawl!\nButterfly! Finish with a tail propeller!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Huh?! That island's, like, 5,000 meters\nfrom here... Hey, wait! Hold\non!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Geez! I won't be left behind! I told you, I'm\ngood at swimming!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "The tire pull, huh? No problem. Power's\nmy specialty. I can even\nhandle two of\nTracen's super heavyweight tires.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "<i>Huff, wheeze.</i> I brought us some super\nheavyweight tires.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Nice, thanks—hey, wait! You brought four\neach?! I was just telling you\ntwo is my limit!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Right! Exactly why I gotta pull four!\nAnyway, off I gooooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hrnnngh! HEEEAVE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Tch, four is no joke! Not bad. But I'm not\ngonna lose in a battle of\nstrength!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "She really got one over on us.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "We wound up doing some intense training,\nhuh. But...",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Our times are getting better!",
+            "name": "The Two"
+        },
+        {
+            "text": "While weary from the exhausting training,\nthe two Umamusume are\nsatisfied to see\ntheir hidden potential unleashed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "However, the biggest gainer from today's\npractice is...",
+            "name": "Монолог"
+        },
+        {
+            "text": "T-T-T-T-Traineeer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Look! My time! I'm getting <i>WAAAY</i> faster!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Operation Synergy was a success!"
+            ]
+        },
+        {
+            "text": "Oooh, so this was that synner-gee thing!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's pretty amazing! Like, wow! And you're\namazing too, Trainer!\nSuper, super special!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Thanks for a great day of training!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Nice work out there, Ticket."
+            ]
+        },
+        {
+            "text": "Yeah, it was nice! Tiring... but it felt really\ngreat!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! Time to hit the sack and\nsnooooze till tomorrow—",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaait! I TOTALLY FOR-GOT!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Whoa, what is it?"
+            ]
+        },
+        {
+            "text": "It's today! It's happening right now... The\nfestival!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Barely made it! Festivals mean it's time to\nhave fun, fun, fun, and more\nfun! Right?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "We'll conquer all the yummy food stalls!\nJoin the festival dance! And,\nand...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ah! Look, Trainer! In the sky!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh... Wooooow! Fireworks! All booming\nand sparklyyy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "They're beautiful.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ahhh... Those fireworks were something!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hey, you know what... The fireworks went\nfull power too. I felt it.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "\"I'm the most dazzling!\" \"No, me!\" I could\nsee them bursting in a bright\nbattle with\neach other!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Just like you and the others today."
+            ]
+        },
+        {
+            "text": "Ahaha! Hey, maybe you're right!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She's running! I'm running! We're all\nrunning! An explosion of\n\n\"I'm-not-gonna-lose\" synner-gee for ya!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I... I'm going to be the biggest,\nbrightest explosion of them all!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "In training, in races, and, most of all, in the\nDerby!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The strongest Umamusume pitting their\nfullest power against each\nother! No\nmatter how many other racers rise up from\nthat synner-gee...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll show everyone how my full power can\nsurpass them all... And we'll\nwin the Derby\ntogether!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит's vow is so powerful, it\nfeels like her dreams can\npropel her far off\ninto the distance, past even the horizon.",
+            "name": "Монолог"
+        }
+    ]
+}

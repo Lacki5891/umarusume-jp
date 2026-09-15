@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I spot Эйр Грув looking a bit down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh. Why didn't I notice it sooner?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Did something bad happen?"
+            ]
+        },
+        {
+            "text": "Yes... I made quite the fool of myself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The president kept saying things like\n\"That's the\nlast straw\" and \"I'm clutching\nat straws\" during\nlunch today.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I knew she must have been driving at a\npun of\nsome kind, but I couldn't figure\nout what it was\nfor the life of me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But I just realized—I was drinking\nsparkling water\nwith a <i>straw</i> the entire\ntime!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The answer was right there in front of\nme! Ugh...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I try to cheer her up, despite her...\nunique reason\nfor being upset.",
+            "name": "Монолог"
+        }
+    ]
+}

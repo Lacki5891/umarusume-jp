@@ -1,0 +1,34 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hm... It's still sold out.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What is?"
+            ]
+        },
+        {
+            "text": "Oh, just one of my favorite hand creams.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's not particularly popular, but I\nhaven't been\nable to get another since it\nwent out of stock last\nweek.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I recommended the same product to a\ndarling\npony last week. I wonder if she\nmanaged to buy\none.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Maybe it's sold out <i>because</i> you recommended\nit to her."
+            ]
+        },
+        {
+            "text": "Haha! Inconceivable!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But indeed, that was why. All of Fuji\nKiseki's fans\nrushed to buy the same\nhand cream, leaving her\nhands dry and\nflaky for a while."
+        }
+    ]
+}

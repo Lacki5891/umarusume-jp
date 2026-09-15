@@ -1,0 +1,326 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back from our outing,\nУиннинг Тикит\nand I stop at a bookstore\nin town.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Whoaaaa! This is... No waaaay!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She seems to be totally absorbed in a\nnovel she\npicked up. Later on...",
+            "name": "Монолог"
+        },
+        {
+            "text": "HEEEEY! Taishiiiin! Hayahideeee!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Back at the academy, she runs at full\npelt over to\nher two friends, Narita\nTaishin and Biwa\nHayahide.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The three of us are inseparable! We\nwere born in\ndifferent places, but from\nnow on, we're brothers!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Brothers?! What're you going on about?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hmm. Ticket, tell me. Have you perhaps\nrecently\nread \"Romance of the Three\nKingdoms\"?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah, that's <i>totally</i> right! I read it at a\nbookstore\njust now, and it was so\nmoving!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's why I wanna be your\nbrother-in-arms! Who\nwould you wanna\nplay? Which character?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm out.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh? Whyyyy?! Come on, if you don't\ndo it, I'll\nhave to find someone else!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Pleeease, I really wanna be your brother,\nTaishin!\nIt wouldn't be the same with\nanyone else!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh, I said I don't want to. It's so\nchildish.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I get how you feel, but you know Ticket\nis never\ngoing to give up.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Besides, with her enthusiasm, she might\nrope in\nthe entire academy into playing\na \"Romance of\nthe Three Kingdoms\"\ngame.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That sounds terrifying... Fine, I'll do it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Good. Now, shall we get this over with?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The Oath of the Peach Garden... If I\nwere to\nchoose one out of the three\nwarriors in this scene,\nI'd be...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Guan Yu. I swear on my Green Dragon\nCrescent\nBlade and, er, beard to fight\nfor salvation!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "How's that? I suppose I'm the wise\ngeneral. You're\nup next.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Okay, okay... Uh... I don't wanna be a\nmusclebrain\nlike Zhang Fei, so...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey. I'm Liu Bei, and as the oldest, I'll\nset the\nworld straight. Or something like\nthat.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All right, next. Finish the oath.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "My name is Tickezo! Thank you for\njoining me,\nbrothers!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Tickezo's not part of the story! Didn't\nyou say you\nloved the book? You forgot\nyour character\nalready!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "There wasn't a Tickezo? Aww... In that\ncase...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "My name is Ticketarooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "This is nuts. \"Ticketaro\" doesn't even\nsound\nChinese. Geez...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hehe, but I'm glad she at least read a\nhistorical\nnovel. We can learn a lot from\nthe past.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Agreed."
+            ]
+        },
+        {
+            "text": "Hmm, it seems you're somewhat\nknowledgeable\ntoo.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There are so many historical novels.\nWhich one\ndo you think would be most\nuseful for Winning\nTicket to experience?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "<i>The Three Musketeers</i>.",
+                "Stories from the Sengoku period."
+            ]
+        },
+        {
+            "text": "Ah, <i>The Three Musketeers</i> —the famous\nFrench\ntale. A story from a country that\nloves racing\nwould certainly be useful.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hm... Oh, I've heard of that one.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Okay! Then let's do that too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Only for a little while. Now let's see...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "My name is Athos. I will lead you to\nhonorable\nvictory!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm Aramis. I focus on being flashy for\nthe ladies,\nbut well, who cares.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "My name is TICKEZOOO! I'm all for you,\nmy\nbrothers!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Stop that! Pick either Porthos or\nD'Artagnan, and\nstop inserting yourself!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Okay! My name is D'a... D'al...\nDALMATIAN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's a dog... But at least you're on the\nright\ntrack.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Now, it would be a poor lesson if we\nstopped at\nintroductions alone—we\nshould delve a little\nfurther into French\nculture. There's ballroom\ndancing, or...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ballroom dancing?! All riiight, that's it!\nLet's get\ndancing!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Come on, you two! Dance like nobody's\nwatching!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hmm, I suppose dancing <i>would</i> be more\n\nproductive than playing a character.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Yeah, yeah. I'm stuck on wherever this\nride\ngoes, I guess.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The three of them practice dancing until\nthey're\ndrenched in sweat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wooow, so this is the world of <i>The Three\n\nMusketeers!</i> It's <i>so</i> incredible!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm not sure the musketeers did any\ndancing.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Did you see, Тренер? Isn't this neat?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "New, heart-touching experiences can\nhelp me\ngrow! They'll make me stronger!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The excitement of races is great, but\nlet's look for\neven more cool and\nexciting things!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "S-sure..."
+            ]
+        },
+        {
+            "text": "All right, let's gooo! YEAH! I'M\nDALMATIAN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ahh, the Sengoku period... It <i>is</i>\nimportant to\nstudy the history of one's\nown country.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Sengoku! I know a little about that!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Speaking of... Taishin, wasn't there\nsomeone\nimportant in history with your\nname?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I dunno, was there a warlord called\nTaishin?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yeah, let me remember. His name was...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Taika no Taishin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoaaaa! Isn't that cool? You share a\nname with\nsomeone super famous!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's not a person! You're thinking of\nTaika no\n<i>Kaishin.</i> I'm not a reformation\nperiod!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I think there was a Hayahide too. Uh,\nwhat was he\ncalled... Kobayakawa\nHayahide?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeeeaah! I put my trust in you,\nHayahideee!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wrong—that's Kobayakawa Hideaki.\nAnd don't\ntrust him. He's got red flags of\nbetrayal all over\nhis history.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "All riiight! The battle is about to begin!\nEveryone,\nto waaaarrr!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sigh...</i> She certainly keeps us busy. But I\nguess\nrunning around is more effective\nthan fooling\naround.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, if we're gonna run, I don't mind so\nmuch.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The three of them wildly dash around\nlike the\nwarlords of old.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This... this is truly the Sengoku period!\nWaaaah!\nI'm really feeling it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Haha, we didn't go to war or anything. It\nwas just\ntraining like usual.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Did you see, Тренер? Isn't this neat?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "New, heart-touching experiences can\nhelp me\ngrow! They'll make me stronger!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The excitement of races is great, but\nlet's look for\neven more cool and\nexciting things!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "S-sure..."
+            ]
+        },
+        {
+            "text": "All riiight! Let's go! I will unite this land\ninto a\nwondrous country! To Honno-ji\nTemple!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And so, the dalmatian—I mean, Winning\n\nTicket—starts looking for all kinds of\nemotionally\ntouching moments.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm not sure how it worked out, but she's\nin high\nspirits. That's how Уиннинг Тикит\nstarts looking\nfor all kinds of emotionally\ntouching moments.",
+            "name": "Монолог"
+        }
+    ]
+}

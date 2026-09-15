@@ -1,0 +1,189 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I see Голд Сити talking with\nDirector\nAkikawa in the central plaza.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Many thanks! I apologize for being so\nabrupt, but\nin order to accommodate\nthe delivery date...",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "I understand. You can leave it to me.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What was that about?"
+            ]
+        },
+        {
+            "text": "They're planning a photo shoot for the\nwelcome\nbrochure to give to new\nstudents. I was asked to\nsub in for the\nmodel.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ahhh... I'm sorry! <i>Hic...</i> Why did I have to\ncatch a\ncold now of all times?",
+            "name": "Umamusume on the Phone"
+        },
+        {
+            "text": "Wh-whoa, please don't cry! We all come\ndown\nwith a cold from time to time.",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "Excuse me... Could I talk to her?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "No need to cry. I'll be covering for you,\nokay?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Sniffle...</i> I'm s-sorry I'm such a burden to\n\neveryone...",
+            "name": "Umamusume on the Phone"
+        },
+        {
+            "text": "Come on, you know that's not true. All\nyou need\nto focus on now is getting\nbetter!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Eat something nutritious and get some\nrest! That's\nall I have to say, okay?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "O-okay!",
+            "name": "Umamusume on the Phone"
+        },
+        {
+            "text": "Good answer. If you can give that good\nof a\nresponse, you'll be landing another\njob in no\ntime.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay, let's get started. I'll be needing\nmy\nsignature racewear in addition to our\nuniform,\nright?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Let's start with some shots of you coming\nto\nschool!",
+            "name": "Photographer"
+        },
+        {
+            "text": "Okay, let's move inside the school\ngrounds! That's\nit! I like that face!",
+            "name": "Photographer"
+        },
+        {
+            "text": "All right, let's get into that signature\nracewear\nnow. Whoa, that's very cool!\nGive me one more!",
+            "name": "Photographer"
+        },
+        {
+            "text": "All right. Now, some running shots to\nwrap up.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Amazing... She knows just what we're\nlooking for.\nSo glad we're working with a\npro.",
+            "name": "Photo Shoot Staff A"
+        },
+        {
+            "text": "I know. She's amazing. The shoot's going\nso\nsmoothly we'll probably be done an\nhour early.",
+            "name": "Photo Shoot Staff B"
+        },
+        {
+            "text": "The staff is right—Голд Сити has been\nnothing but\nprofessional during the\nshoot.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She looks different from when she\nusually runs.\nHer radiance makes her\nappear... distant.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We've got just a few shots left, so show\nme your\ntop asset!",
+            "name": "Photographer"
+        },
+        {
+            "text": "My top asset...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey, Trainer. Can I talk to you for a\nsecond?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "Yes, you. What do you think is my best\nasset?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "The willpower to push forward.",
+                "Your gritty personality?"
+            ]
+        },
+        {
+            "text": "Huh, I didn't know you thought that\nabout my\nrunning.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Pfft.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Haha, you're sending me. I'm \"gritty,\"\nhuh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Heh... A bit overdramatic, but thanks.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hehe. You're pretty much the only one\nwho'd tell\nme something like that.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Afterwards, Голд Сити goes to take her\nlast few\nshots.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks, guys.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Man, that was fantastic. You really\nshowed off\nyour own unique spark in\nthose last running shots.",
+            "name": "Photo Shoot Staff B"
+        },
+        {
+            "text": "The staff is right—she was perfect all\nthroughout\nthe photo shoot. But then,\nwhy did she...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? What's up, Тренер?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Why did you ask me what your asset was?"
+            ]
+        },
+        {
+            "text": "She should've already known the answer\nto that.\nWhy would she need to go out\nof her way to ask\nme?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look, modeling is all about giving the\nclient what\nthey want.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So I asked for your input. They wanted\nmy top\nasset, and you know what that is\nbetter than\nanyone—even myself.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Because, well... you're my trainer.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Under the light of the setting sun, I see\nin her\nexpression not the pro model from\nthe photo\nshoot just now, but a student\nof Академия Тайсен.",
+            "name": "Монолог"
+        }
+    ]
+}

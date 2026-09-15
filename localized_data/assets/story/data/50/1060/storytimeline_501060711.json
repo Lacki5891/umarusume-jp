@@ -1,0 +1,105 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I lost... again...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I don't even know how I'm supposed to\nface\neveryone now...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All those people cheered for someone\nlike me...\nfor nothing.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Maybe this truly is as good as I'll ever\nbe.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Don't worry. You can get better.",
+                "Do you wanna give up?"
+            ]
+        },
+        {
+            "text": "Maybe this truly is as good as I'll ever\nbe.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Don't worry. You can get better.",
+                "Do you wanna give up?"
+            ]
+        },
+        {
+            "text": "...Do you really believe that?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Setting unrealistic expectations won't do\neither of\nus any good.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Even so... do you <i>truly</i> think that this\nloser can\nimprove?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yup, I do!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Then... make me stronger.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Take responsibility and train me. I'll\nendure it,\nhowever hard it may be.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Can you help me become someone\nworth\nbelieving in?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Urk! I... I...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You can't, right?"
+            ]
+        },
+        {
+            "text": "Yeah, you're right...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry... I'm such a helpless idiot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I've known that all along, but still... I just\ncan't\ngive up...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Trainer... I want another chance.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "'Cause I don't think I can just give up\nyet!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Let's keep moving forward, one step at a time!"
+            ]
+        },
+        {
+            "text": "Okay!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay... Thank you. I won't forget what\nyou just\nsaid.",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

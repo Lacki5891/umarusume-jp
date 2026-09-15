@@ -1,0 +1,158 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Уиннинг Тикит's been struggling lately,\nso we go\nto pray at a shrine... where for\nsome reason we're\njoined by Biwa\nHayahide.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Wait, why's Hayahide here?"
+            ]
+        },
+        {
+            "text": "Well, you know, these places have all\nsorts of\nrules, and I'm not great with\nsmartsy stuff like\nthat...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But Hayahide's super smart, so I figured\nif we\nbring her along, I can just do\neverything exactly\nas she says!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Besides, she was the one who suggested\nI go pray\nat the shrine in the first place!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "If it were me, I doubt praying would\nhave any\neffect. However, it's a fact that\nissues with\nphysical performance are\nclosely linked to\npsychological factors.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Given Ticket's naive mindset, it's quite\npossible\nthat such methods will be...\nwell, I'm sure you get\nmy drift.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "text": "Good. Let's try it out then. Ticket, just\ndo as I\ntaught you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "ALL RIIIGHT! First, I throw the coin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит hurls the coin with all her\nmight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wh-wha?! Strength is not a necessity\nhere, Ticket!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Next, I ring the big bell!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>CLATTER! CLANG! CLATTER!</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "My ears..."
+            ]
+        },
+        {
+            "text": "C-come now, Ticket! That's far too loud!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's fine, it's fine! I gotta give it a good\nring, or the\ngods in the sky won't hear\nme!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And lastly! My prayer to the god of the\nshrine!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>CLAP, CLAP, CLAP, CLAP!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "RAAAGH! Please listen to MEEE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hrrngh! You there, god? Please, please,\n<i>please</i>\nlet me get out of my slump!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket... Hey, Ticket!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "How long are you going to stand there?\nThat's\nenough praying.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Huh? Oh, it is? Did every last bit of my\nwish make\nit up there?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yes, it's sufficient. I'm sure the god is\nsick of—I\nmean, satisfied with your\nprayer.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hehe, that's good. Then I'm sure I'll be\ndoing\nbetter in no time!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hey, you know what?! I already feel like\na weight\nlifted off me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's not possible. It's far too soon—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm better! I'm sure of it! HOORAY! The\ngod here\nis <i>amazing!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I did it, I did it! I'm full of energy and\npoweeer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It appears that she really has recovered.\nThere's\nsome truth to mind over matter\nafter all, I\nsuppose...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hngh... Hnnngh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Go, wishes, GO! Make it all the way to\nthe god of\nthe shrine!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sigh...</i> She's not listening to me at all.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Huff... huff...</i> I'm feeling kinda hot... And\nlike, all\ndizzy...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Are you developing a fever from\nconcentrating\ntoo hard? How is that\neven possible?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Sway... sway...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Because she focused so much energy on\npraying,\nУиннинг Тикит ultimately fails\nto get out of her\nslump.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whether the result of prayer or because\nof her\nearnest personality, Winning\nTicket manages to\nbreak out of her\nslump.",
+            "name": "Монолог"
+        }
+    ]
+}

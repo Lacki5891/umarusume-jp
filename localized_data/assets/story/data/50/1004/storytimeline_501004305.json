@@ -1,0 +1,114 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ah, Trainer.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Great work today."
+            ]
+        },
+        {
+            "text": "Ah, Trainer.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Great work today."
+            ]
+        },
+        {
+            "text": "Yeah, I'm <i>exhausted</i>... Shower me with a\nlittle\nmore praise, will you?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe, just kidding! I've got an interview\ncoming\nup, so I've still got to push\nmyself a little longer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "And next up is the Satsuki Sho!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "...Марузенски?"
+            ]
+        },
+        {
+            "text": "Oh, snap! Yeah, that's right!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's a doozy of a race—it'll be so\nexciting! Let's do\neverything we can to\nprepare for the Satsuki Sho!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay then, I'm off to the interview.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And so, the Spring Stakes, the prelude\nto the\nClassics, comes to an end.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That night...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is that... Марузенски's Тренер?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Wow, you're working so late! You must\nbe tired!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "You're training pretty late yourself."
+            ]
+        },
+        {
+            "text": "...Ack! Oh, no—that was supposed to be\nsecret!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You didn't see anything, okay? I'll get in\ntrouble\nif anyone finds out I've been\nrunning this late!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Don't push yourself too hard, okay?"
+            ]
+        },
+        {
+            "text": "O-okay! Thank you!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ehehe... I really do enjoy running. Little\nby little, I\nreally feel like I'm getting\nbetter.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm even getting closer to running with\nsomeone\nlike Марузенски...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Next up is the Satsuki Sho, isn't it? I'm\nsure it's\ngoing to be an incredible race!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Grass and I are looking forward to\nwatching\nМарузенски run, so please tell\nher to really go for\nit!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "I will!"
+            ]
+        },
+        {
+            "text": "Great! Okay, good night!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "The young student, chasing after her\nrole model...",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seems so happy as she walks away.\nIt's a stark\ncontrast to how Марузенски\nhas been recently...",
+            "name": "Монолог"
+        }
+    ]
+}

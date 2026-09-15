@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's been raining since early this morning.\nThe\ntrack is a complete mess, however...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...It's all right. I'm perfectly calm.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Neither the condition of the track nor\nthe\nlooming eyes of the audience will\nfaze me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "All the effort we've poured into this...\nAll the\nexperience I've attained\ncompeting with my\nrivals...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "They give me strength and push me\nforward.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(My competition with Ryan at the\nTakarazuka\nKinen stands out as a special\nmoment.)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(Thanks to her fierce resolve, I am\ndetermined\nand ready!)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(I'll be the first of the Mejiro family to\nclaim\nconsecutive victories in the spring\nand autumn\nTenno Sho!)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The determination welling up in Mejiro\n\nMcQueen's eyes begins to dance like a\nblazing\nfire!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'm looking forward to your victory!"
+            ]
+        },
+        {
+            "text": "Yes. And I shall attain it with confidence\nand\nease.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I shall live up to your expectations with\nall my\nspirit and might.",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

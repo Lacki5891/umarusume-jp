@@ -1,0 +1,93 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "в тренировке, Грасс Вандер seems to\nbe\nsuffering from the heat.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Yes... I can manage. Just give me a\nmoment to\ncool off, and I should be\nback on my feet in no\ntime.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm sorry to have forced this pause on\nour training\nsession.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I wish my body would adapt to summer\nbetter.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Not a fan of the heat?"
+            ]
+        },
+        {
+            "text": "I suppose not. Cold weather doesn't\nbother me,\nbut sweltering heat like this\nis a different matter...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "If only there were a good way to\novercome it...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "If you clear your mind, even fire will feel cool!",
+                "There are traditional ways to beat the heat!"
+            ]
+        },
+        {
+            "text": "That's... a Japanese saying, isn't it?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "If I cool my thoughts, the heat can't\nbother me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I see. This type of mentality might be\nwhat I need\nright now.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Let's see whose focus can outlast the other's!"
+            ]
+        },
+        {
+            "text": "Oh... Is that a challenge? You know I\ncan't back\ndown from that, right? ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Very well, Trainer. I accept, and I won't\nlose. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's true. Off the top of my head,\nthere are\nhand fans, wind chimes,\nwatermelons... Or\nperhaps a splash of\nwater.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Eheh—you know, I feel cooler already\njust saying\nthose words. So... which do\nyou think we should\ntry, Тренер?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Let's try them all!"
+            ]
+        },
+        {
+            "text": "Oh, my... Ambitious, aren't you?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "However... so am I. ♪ Let's make\npreparations at\nonce.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "A quest to beat the heat together...\nHehe, I can\nhardly wait. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Today's session was a bit rough on her,\nbut it\nseems like Грасс Вандер has\ngotten the hang of\ndealing with hot\nweather.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today's session was a bit rough on her,\nbut it\nseems like Грасс Вандер has\nlearned how to\nenjoy hot weather.",
+            "name": "Монолог"
+        }
+    ]
+}

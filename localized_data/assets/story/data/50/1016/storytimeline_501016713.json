@@ -1,0 +1,94 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Брайан suffers a minor injury during\npractice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This isn't even a graze.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You worry too much.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Are you sure you're okay?",
+                "Do you want to continue practice?"
+            ]
+        },
+        {
+            "text": "You worry too much.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Are you sure you're okay?",
+                "Do you want to continue practice?"
+            ]
+        },
+        {
+            "text": "Like I said, I'm fi—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oof...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Here, let's get you patched up."
+            ]
+        },
+        {
+            "text": "...Tch! What are you, my mother?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yeah, I can start again in just a second.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All something like this needs to heal is a\nbit of\nspit and—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "It hurts, doesn't it?"
+            ]
+        },
+        {
+            "text": "...Damn. And I'm already short on time.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This is no time for resting!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Of course. I was never planning on\nstopping.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "All right, at least let me patch you up."
+            ]
+        },
+        {
+            "text": "...Fine. ...Geez.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But as soon as you're done wrapping me\nup, I'm\nrunning. Got it?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "With her training cut short, Нарита Брайан\ncan't hide\nher disappointment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems the proper treatment helped.\nShe\ncontinues training after with no\nissue.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан tries to continue despite her\ninjury,\nbut I gently convince her to pause\nher training.",
+            "name": "Монолог"
+        }
+    ]
+}

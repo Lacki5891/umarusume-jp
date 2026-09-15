@@ -1,0 +1,68 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We've arrived at long last.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Give me a minute to put my luggage in\nmy room,\nthen we can begin discussing—",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yo! Found you, Grass! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ah, Maruzen! Is your injury all better?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yep! ♪ Back to being the bomb!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe... You're not doing half bad these\ndays\nyourself, Grass.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Why, thank you for the compliment.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I have my sights set on a goal, so I must\nkeep\nworking hard until I reach it.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "YЭпизод I love that fire in your eyes. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, gotta bounce. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "See you on the flip side!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...And off she goes.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Maruzen... She looms as large as ever.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "But you won't be overshadowed anymore!"
+            ]
+        },
+        {
+            "text": "Very true!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "With that, Grass kicks off the summer\ncamp\nstronger than she was last year!",
+            "name": "Монолог"
+        }
+    ]
+}

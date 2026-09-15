@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> What happened?!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You beat her!"
+            ]
+        },
+        {
+            "text": "So I did it... I actually beat Sis!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well done, Brian. You're extraordinary.\nYou\noutran reason and logic.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Sis.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I never imagined you'd compete in the\n\nTakarazuka Kinen in your classic year.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And the raw talent you displayed tells\nme you still\nhave the potential for\nfurther growth.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's truly frightening to think of where\nyou'll be by\nthe end of summer. It seems\nthat you're out ahead\nof me for good.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...But this isn't the end, you know.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I want to race at least one more time. If\nit's as\nheart-pounding as today, then...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Heh, very well.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This is the Twinkle Series, where every\nracer\npushes forward and aims for the\ntop.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's race again. Next time, I'll be the\none\nshowing you my back!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Deal. I'll beat you next time too!",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

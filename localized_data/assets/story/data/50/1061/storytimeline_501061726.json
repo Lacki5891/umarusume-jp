@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with King\nHalo...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait, are those...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Look! Those cute plushies look as\nthough they're\nsending me their praises!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало points toward a claw machine\nfilled\nwith Umamusume plushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, wouldn't it be stellar to add them\nto my\never-growing support group, the\nHalo Army?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's decided! I'm granting you the right to\nwin and\ncollect those plushies for me!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What? Me?"
+            ]
+        },
+        {
+            "text": "Of course, you! Isn't that part of your job\nas my\nТренер?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now, go be a good first-rate trainer and\nshow off\nthose claw machine skills!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Don't worry, I'll be with you the entire\ntime! Give\nit your all!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

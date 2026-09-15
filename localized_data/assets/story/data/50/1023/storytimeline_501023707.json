@@ -1,0 +1,152 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew... Thanks for inviting me out here. I\nneeded\na break.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I've had so much on my mind recently\nthat it's\nbeen affecting my performance.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Really? What's weighing on you?"
+            ]
+        },
+        {
+            "text": "Things like the most effective way to\nprepare for\nmy next race or if I'm\nworking hard enough on my\nwinning\nequation...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Speaking of equations, I wonder if\nTicket was\nable to use the one I taught\nher the other day.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And where's that Taishin? I haven't seen\nher this\nmorning. Oh, I hope she isn't laid\nup in bed\nbecause she overworked\nherself!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Well, I'm sure she's fine."
+            ]
+        },
+        {
+            "text": "Anxious as ever, I see.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian! What are you doing here?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If you think I'm playing hooky, I'm not.\nI'm just\ntaking a breather before the\nstudent council\nmeeting starts.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What a coincidence. We came here to\ntake a\nbreak too.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Why don't we all pay a visit to the shrine\ntogether?"
+            ]
+        },
+        {
+            "text": "That would be wonder—oh, but Brian\nhas a\nmeeting soon. Maybe we shouldn't\nbother her...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's no skin off my back. I still have time\nbefore I\nhave to go.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Really? Thanks so much, you two. This\nwill be a\nnice little break.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The three of us pray at the shrine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What's so funny?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Nothing... Praying here with you just\nreminds me\nof that one time when we\nwere younger.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What did you pray for this year, Brian?",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "I prayed to become as fast as you!\nWhat'd you\npray for?",
+            "name": "Young Brian"
+        },
+        {
+            "text": "Hehe... I prayed that we'll always be\nable to race\ntogether.",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "That was forever ago. I don't remember\nanything\nlike that.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hehe... I still remember like it was\nyesterday.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "This was a nice breather."
+            ]
+        },
+        {
+            "text": "It was. I'm glad I was able to remember\nmy wish\ntoo.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You're so simple sometimes.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Urgh... This is no good. The more I try\nnot to\nthink about it, the more I do!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Uh, are you okay?"
+            ]
+        },
+        {
+            "text": "Don't waste your breath. There's no\nstopping her\nonce she starts spiraling.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian! I worry about you too, you know!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ugh.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I constantly worry about how you're\ndoing in\nschool and if you're eating and\nresting properl—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hey! Don't you run away! You come\nback here\nand listen to me!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm not trying to run away! I have a\nstudent\ncouncil meeting, remember?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This shrine visit doesn't end up helping\nBiwa\nHayahide relax at all...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems that with this little outing, Biwa\n\nHayahide is feeling better than ever!",
+            "name": "Монолог"
+        }
+    ]
+}

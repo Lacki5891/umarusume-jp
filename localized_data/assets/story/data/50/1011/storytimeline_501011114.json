@@ -1,0 +1,206 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Japanese Derby will soon be upon\nus.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today, the racers have been gathered\nfor a press\nconference about the\nchallenge before them.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahahahah! What am I expectin' from the\nDerby?\nDo ya even have to ask?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Victory! Triumph! Conquest! What else\ncould\nthere be?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Who's the world's strongest racer?! The\nDerby is\nwhere that question will be\nanswered!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Easy now, easy. Keep going on like that\nand you'll\ntire yourself out before the\nrace even starts.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Me, on the other hand, I'll be taking it\nslow like\nalways.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "If you wanna know more, you'll just have\nto check\nout the main event.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "M-my m-motivation?! My motivation is,\num... um!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I-I want my moms and everyone back\nhome to,\num, see me become number\none in Japan, so...\nUmm...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'll give it my all!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Эль Кондор Паса... Сэйун Скай... Special\nWeek...",
+            "name": "Монолог"
+        },
+        {
+            "text": "This year's Japanese Derby is stacked\nwith a\nfearsome lineup of\nracers—Umamusume who were\nturning\nheads before they even debuted.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With precious little time remaining until\nthe big\nevent, the atmosphere among\nthe racers is\nelectric, and yet...",
+            "name": "Монолог"
+        },
+        {
+            "text": "My name is Грасс Вандер. It's a pleasure\nto make\nyour acquaintance.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, she's here—the Beast's Successor!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Excuse me! May I ask a question,\nplease?!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Go right ahead.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "After your impressive achievements in\nyour junior\nyear, there are a lot of hopes\nriding on you. Are\nyou feeling any of\nthat pressure now?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Well, I would be lying to say I haven't\nnoticed the\npressure at all. However...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I will nonetheless face this challenge\nwith a clear\nmind and steady\npreparations. After all, luck\nfavors the\nbrave.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And they do say the luckiest\nUmamusume wins\nthe Japanese Derby,\nyes?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Wow, talk about having a cool head!\nNext\nquestion...",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Thank you for waiting, Trainer. I finished\nthe\ninterview without a hitch.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Good job!"
+            ]
+        },
+        {
+            "text": "Hehe. As I still have plenty of energy\nleft, I'd like\nto get right into some trai—",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "GRAAAAASS! Stop, stop! Stop it right\nthere!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Whoa?!"
+            ]
+        },
+        {
+            "text": "The Phantom Bird appears outta the\nvoid!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh... Is something the matter?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Nothin' much! Just droppin' by to remind\nya: This!\nIs! War!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Over the top as usual, I see.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Didn't we both already voice our\nambitions in the\npress conference?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Nuh-uh!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I heard you talkin', and it was a bunch of\n\ngoodie-two-shoes baloney!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I know you've got more fire hidden\nunder the prim\nlittle Nadeshiko act.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So that's why I'm here to talk to the <i>real</i>\nyou,\nGrass!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "To tell you how super, mega, ultra\npsyched I am\nto face you, frente a\nfrente, in an all-out clash!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The race to decide who is la primera!\nWho is at\nthe top of the world! Here we\ngoooo!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My, my.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер stands there silently for a\nmoment\nbefore finally saying with a\ngentle smile...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Consider it a match.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That little run-in with El cost us time.\nShall we\nmake up for it, Тренер?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You seem really motivated."
+            ]
+        },
+        {
+            "text": "Well, yes...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "After all, each Classic race is a\nonce-in-a-lifetime\nopportunity.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "El, Sei, Spe... They're going to do\neverything in\ntheir power to emerge\nvictorious in this race.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But I will not allow them to pass me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "For a far greater shadow looms... further\ndown\nthe path I tread.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The seconds are ticking down to the day\nof the\nJapanese Derby.",
+            "name": "Монолог"
+        }
+    ]
+}

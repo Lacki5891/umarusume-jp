@@ -1,0 +1,152 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Fsshhh... Fsshhh...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "A gentle breeze swirls by the beach at\nnight, and\nthe air is awash with the\nsoothing lull of the\nwaves...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The tranquility is far removed from the\nchaos of\nthe city. What in the world am I\ndoing here?",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's the... OCEEEAAAN!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, hey, hey! This is no time to be a\nzombie,\nTrainer!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Aaaaah!"
+            ]
+        },
+        {
+            "text": "All right! On your feet! The time for you\nto\nawaken has come!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Wh-what's going on?!"
+            ]
+        },
+        {
+            "text": "What? Seriously? You don't remember?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "One fateful day, the sky turned black,\nand all\nhope disappeared from the\nworld... or did it?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Fortunately, the universe has me, the\ngreat savior\nof the world, Голд Шип, on\ntheir side!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I've crossed oceans and climbed\nmountains in\nsearch of Eden, all so I\ncould save the world!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hearing the word \"Eden\" brings back\nsome hazy\nmemories...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...That's right. It all started a few days\nago.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I was walking along thinking about the\nupcoming\nTwinkle Series when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer! Lend me an ear!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I was digging in a field to investigate the\nbedrock\nwhen guess what?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I found the Book of Secrets!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "\"The land of Eden is a utopia that can\nonly be\nreached by the Umamusume who\nwields the\nultimate power...\"",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "\"I call on thee, O Голд Шип, to seek out\nEden!\nYours truly, the Book of Secrets.\"",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "This means I'm the chosen Umamusume,\nright?\nRight?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oooh! I'm pumped!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Wait, would the real Book of Secrets\nsign off with\na \"yours truly\"?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Seems fishy..."
+            ]
+        },
+        {
+            "text": "You're doubting the veracity of this\nbook?! The\nvery land of Eden yearns for\nme! Clearly, you\ndon't understand how\nimportant I am!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I didn't want to get rough, but you leave\nme no\nchoice...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "In you go!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Gaaah! Somebody, help!"
+            ]
+        },
+        {
+            "text": "There, there. You're okay. It's not like\nI'm gonna\nchop you up and make a\ncroquette out of you or\nanything.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I must have been dragged off to this\nplace after\nthat...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Anyway. Now that we're here, let's go\nover what\nwe have to do.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Say, you wouldn't happen to have a\ncompass on\nyou, would you?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "...Come again?"
+            ]
+        },
+        {
+            "text": "I mean, we lost everything from our\nphones to our\nfood while swimming here.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So now I don't even know which way\nhome is,\nmuch less Eden.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Not gonna lie—I'm not super pumped\nabout living\nthe rest of our lives here.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "How did things come to this?!",
+            "name": "Монолог"
+        }
+    ]
+}

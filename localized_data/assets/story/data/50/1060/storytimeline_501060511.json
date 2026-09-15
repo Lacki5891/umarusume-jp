@@ -1,0 +1,227 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "My favorite clothing store is having a\nsale, so I\ndecide to drop by.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This one is so cuuuute! I saw it in a\nmagazine!",
+            "name": "Fashionable Umamusume"
+        },
+        {
+            "text": "What do you think, Nature? I think\nyou'd look\ngood in this color.",
+            "name": "Trend-chasing Umamusume"
+        },
+        {
+            "text": "Nah, I'm okay. This kind of stuff isn't my\nstyle,\nanyway.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Shut up! You could <i>totally</i> pull it off!",
+            "name": "Fashionable Umamusume"
+        },
+        {
+            "text": "We're going to try these on. You really\nshould try\none too!",
+            "name": "Trend-chasing Umamusume"
+        },
+        {
+            "text": "Okay, okay. If the feeling strikes me,\nthen maybe.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, heya, Trainer. What a coincidence\nmeeting\nyou here. Are you buying some\nnew clothes too?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah, thought I'd stock up while they're on sale."
+            ]
+        },
+        {
+            "text": "I see. So... why's your shopping cart\nempty then?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "There are too many options. I can't decide..."
+            ]
+        },
+        {
+            "text": "Huh... Why not leave it to me? I'll fill\nyour cart in\nno time.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm more curious about the clothes you were\nlooking at.",
+                "Sounds amazing! But what about your friends?"
+            ]
+        },
+        {
+            "text": "Huh... Why not leave it to me? I'll fill\nyour cart in\nno time.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm more curious about the clothes you were\nlooking at.",
+                "Sounds amazing! But what about your friends?"
+            ]
+        },
+        {
+            "text": "Ah... this?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They told me it would look good on me,\nbut ruffly\nclothes just aren't my style.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm more of a plain clothes kinda gal,\nyou know?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I think it'd look great on you!"
+            ]
+        },
+        {
+            "text": "Okay, okay, enough flattery.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're here to buy clothes for yourself,\nright?\nWhy don't you go ahead and pick\nsomething.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You can pout all you want, but I am <i>not</i>\nwearing\nthis.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But I really do think it'd look good on you..."
+            ]
+        },
+        {
+            "text": "C'mon, don't be like that. You're old\nenough to\nknow when to give up, right?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "F-fine. If you insist, I guess I can at least\nhold it\nup in front of me so you can get\nan idea.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm gonna go really fast, so don't blink.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Done. That's it.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What?! That's it?!"
+            ]
+        },
+        {
+            "text": "I said that's it, so that's it! No matter\nwhat you\nsay!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I was right! It looked really good on you!"
+            ]
+        },
+        {
+            "text": "...Right.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ughhh... Show's over! Now skedaddle!\nBetter yet,\nI'll skedaddle!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Goodbye, Trainer! Make sure to delete\nthat\nimage from your memory too!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "As soon as she finishes speaking, Nice\nNature runs\noff...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm just here because they wanted to\ncome here.\nBesides, they told me I don't\nhave to stick\naround.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Can you wait here for a second? I'll go\ntell them.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay. Shall we start?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Now what you would look good in...\nNever really\nseen you in flashy clothes,\nbut maybe it could be\nyour new thing.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You seem like you're having fun."
+            ]
+        },
+        {
+            "text": "I like choosing clothes for other people.\nJust not\nthe other way around.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Especially when they pick something\ncutesy. I just\nfeel bad because I know it\nwon't look good on\nme.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I think you would look good in something like\nthat."
+            ]
+        },
+        {
+            "text": "Please. Not you too.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We're here to pick out clothes for you.\nForget\nabout me!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Thanks to Найс Нэйчер, I find a lot of\ngood\nclothes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although, that means that I've got my\nwork cut\nout lugging it all home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, well, well. You've got one heck of\na haul\nthere.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "All thanks to your sharp stylist instincts."
+            ]
+        },
+        {
+            "text": "Well, you <i>are</i> my trainer, after all.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I care about you, even if it doesn't seem\nthat way.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Speaking of, let me carry some of that\nstuff for\nyou.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Your arms are shaking, and I can't bear\nto watch\nanymore.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "Don't be stubborn now! You're not a\nchild!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oof, there we go! Okay, we're off!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Seeing as my arms are at their limit, I\n\nbegrudgingly hand Найс Нэйчер a few\nbags, and\nwe make our way back to\ncampus.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...With the clothes we were just talking\nabout still\nin hand.",
+            "name": "Монолог"
+        }
+    ]
+}

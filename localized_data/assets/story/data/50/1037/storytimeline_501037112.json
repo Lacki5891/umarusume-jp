@@ -1,0 +1,179 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after Эйсин Флэш has a number\nof\nvictories under her belt...",
+            "name": "Монолог"
+        },
+        {
+            "text": "A hot spring getaway?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Yup."
+            ]
+        },
+        {
+            "text": "I've held onto the ticket ever since Eishin\nFlash\nwon it at the raffle. I suggest now\nis a good time\nto use it since her\nschedule's calmed down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That is a valid point. Let's add the\nvacation into\nthe schedule, then.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'll have to rearrange all my plans to\nwork around\nthis, so I'll have to think\nabout when would be\nbest to—",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "How about going on your day off next week?"
+            ]
+        },
+        {
+            "text": "But... I have already allocated that day\nto do\nsome film study.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "But you haven't written a location, right?"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It does not, no. I did not indicate where,\nexactly,\nI should do my film study.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Very well. Let's go to the hot spring on\nthat day!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And now...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Sorry. Were you waiting for me?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I had planned on doing few\nhundred-second dips\nin the water, but I\nthink I soaked for too long.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Sounds like you enjoyed it then."
+            ]
+        },
+        {
+            "text": "I did. I had forgotten how hot Japanese\nhot\nsprings are...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Could we step outside for a moment to\ncool off?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The night air is so crisp...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Are you cold?"
+            ]
+        },
+        {
+            "text": "No. In fact, I feel very comfortable.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hier bin ich Mensch, hier darf ich's sein...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's that you're singing?"
+            ]
+        },
+        {
+            "text": "A famous poem from Germany. I felt a\nsudden\nurge to recite it.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I seem to be in a sentimental mood. The\nheat\nfrom the bath still has me feeling a\nlittle\nlight-headed.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "What's worse is that I feel lax moments\nlike this\nare actually... acceptable.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "They are, once in a while."
+            ]
+        },
+        {
+            "text": "Would it be all right if I have you listen,\nwithout\nany judgment?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "Then please indulge me for a little\nlonger.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will continue striving to become the\nright,\nperfect version of myself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, it will most likely take my\nentire life to\nachieve that state of\nperfection...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I cannot accept this flawed,\nyet-in-progress\nversion of myself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Which is why I wish for you to be at my\nside.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I am my own harshest critic. However, if\nyou are\nthere to validate my progress...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I can move forward.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You're always doing great in my eyes."
+            ]
+        },
+        {
+            "text": "...Thank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The day we first met, I had pushed\nmyself too\nhard and failed.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But even that had meaning.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After all, it was because I overexerted\nmyself for\nthe sake of reaching\nperfection that I came to\nmeet you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This time spent together feels like a safe\nhaven\nwe built—just for us.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I sense that Эйсин Флэш and I have\nformed an\nirreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

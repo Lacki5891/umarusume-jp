@@ -1,0 +1,264 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The holidays are here, but that isn't the\nonly thing\non our minds. This is also a\ncrucial time to make\nfinal preparations\nfor the Arima Kinen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But that doesn't mean Nature should\nwear herself\nthin. I decide to come up\nwith a way for her to\nrelax.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant... Pant...</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...You got this, Nature... You got this,\nNature...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Alll right! Trainer, I'll do one more lap!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Seeing Найс Нэйчер training with such\n\ndetermination today, I can't bring myself\nto tell\nher about my R&R plan.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew! That's a wrap! I was so focused\ntoday.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Anyway, I've got plans after this, so I\nbetter\nskedaddle!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I wasn't able to invite her out after all.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Then, later that night...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Bzzzzzt!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer. It's me, Найс Нэйчер.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Um... Can you come out for a second?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, there you are. Over here!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You changed?"
+            ]
+        },
+        {
+            "text": "Yeah, well, I wanted to dress better than\na\ntracksuit or school uniform tonight.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's the holidays, right? Sooo...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Here. I got this for you!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's nothing impressive, but... I hope it's\nnot too\nboring either...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Inside the box is a hand-knitted scarf\nwith a\nsimple design. Its soft fibers put\nmy heart at ease.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I had my mom teach me how to knit, so\nit should\nbe pretty sturdy.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But I really don't have an eye for design.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I didn't want it to be so tacky that you\ncan't wear\nit outside, but I wanted it to\nhave enough\ncharacter to not look lame.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "After thinking for some time... it ended\nup having\nno pattern or decoration.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Sorry I couldn't make it cute.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I really like it!"
+            ]
+        },
+        {
+            "text": "Do you really mean that?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's pretty plain, you know. The only\nthing going\nfor it is its sturdiness... You\nstill like it?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "...I see.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I guess my all-nighter paid off, then!\nGood, good!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ah, by the way...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The folks at the shopping district are\nhaving a hot\npot party tonight.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "With each shop bringing their own\ningredients,\nthe hot pot is guaranteed to\nbe good.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What do you think? Wanna go?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sounds good!"
+            ]
+        },
+        {
+            "text": "Now we're talking!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It'll be good to see people there and lift\nmy\nspirits before the race too.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well then, let's go!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Um... So, after this...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ah-choo!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "I would like to say I'm okay, but... it's\npretty cold.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I can't believe I forgot to bring my coat!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The all-nighter might have been pushing\nit...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Should I take you back to your dorm?"
+            ]
+        },
+        {
+            "text": "No way! I don't wanna waste my courage!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I mean, I went through all the trouble\nof getting\npermission to leave campus!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Let's slow down a bit... How about a\nwalk?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "This might be our last opportunity to\ntake time\nand talk like this before the\nArima Kinen.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So... please?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "text": "Okay!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But you have to wear my coat."
+            ]
+        },
+        {
+            "text": "But you'll be cold...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Actually, I'll borrow it. I shouldn't be\nrisking\ngetting sick.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "In exchange, <i>you</i> need to wear the scarf\nI gave\nyou.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I nod and take the scarf before wrapping\nit\naround my neck.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, it suits you. I sure know what color\nlooks best\non you, huh!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Don't lose it, okay?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Anyway, I'll go ahead and borrow that\ncoat, then.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Fwip!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> Nice and toastyyy. Thanks a ton.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's really warm... Hehe.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "After that, Найс Нэйчер and I spend a\nnice night\ntogether, taking in the festive\natmosphere as we\nstroll along.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Afterward, Найс Нэйчер and I enjoy some\n\ndelicious hot pot in the shopping\ndistrict.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This year's Arima Kinen is almost upon\nus.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In preparation, I've been staying up late\nevery\nnight fine-tuning training routines\nand\nformulating race strategies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Rrruuumble!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Brum-brum-brum-brum!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>CRRRASH!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Suddenly, the still night air is torn apart\nby\ndeafening crashes and bangs!",
+            "name": "Монолог"
+        },
+        {
+            "text": "What the heck is going on?!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm in!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Голд Шип?!"
+            ]
+        },
+        {
+            "text": "Hey, keep it down! You want me to get\nbusted or\nsomething?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What are you doing?!"
+            ]
+        },
+        {
+            "text": "Just a little breaking and entering. Had\nto use a\nfile, drill, and a chainsaw to get\nthrough the wall,\nbut I did it!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I might've irreversibly broken a thing or\ntwo along\nthe way, but hey, it's nothing\nto worry about.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What has she done to my wall?\n...Actually, I don't\nwant to know.",
+            "name": "Монолог"
+        },
+        {
+            "text": "FYI, it's your fault for not having a\nchimney I\ncould shimmy down. You\ncould afford to reel in\nthat shocked\nattitude of yours too.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What're you so scared about, anyway?\nYou\nshould be over the moon that\nsomeone as lovely\nas me is paying you a\nclandestine visit, armed\nwith a bunch of\ncool tools.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Every part of that sentence is terrifying..."
+            ]
+        },
+        {
+            "text": "Yeesh, people nowadays have such weak\nhearts.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Here, gifts from Santa Golshi. Toughen\nup a bit,\nwill ya?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "She plops something heavy into my\nhands.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What is this exactly?"
+            ]
+        },
+        {
+            "text": "High-quality steel, perfect for making\nweaponry.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I know you've been feeling weak, but\nthat'll all\nchange once you steelify your\nbody with swords\nand armor.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Well, I'm off. Happy holidays.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'm not sure how to take this turn of\nevents, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're just living the life, huh? So many\npeople\nwould weep in envy if they found\nout you got\nsuch a gorgeous gift.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I really don't think anyone would weep\nover the\nhunk of metal I got. At least not\nin envy...",
+            "name": "Монолог"
+        },
+        {
+            "text": "But enough of that. Who lives above\nyou?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Why do you ask?"
+            ]
+        },
+        {
+            "text": "Eh, I was just wondering if anyone lives\nabove\nyou. If someone does, we miiight\nhave a problem.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Like, if they don't get out of the way\nwhen I drill\nthe hole in the ceiling for\nthis fir tree, they're\ngonna be collateral\ndamage.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "When you do <i>what?!</i>"
+            ]
+        },
+        {
+            "text": "Just a lil' decorating. I brought a massive\nfir tree\nwith me, but it's so tall I'll need\nto make some\nspace for it through the\nceiling.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Enough with the drilling!"
+            ]
+        },
+        {
+            "text": "The tree Голд Шипп brought is over thirty\nmeters\ntall...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I still can't get over the chainsaw\nmassacre that\nhappened to my wall...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I politely decline putting it up in my\nroom and\ndonate it to the academy for\nan outdoor holiday\nevent instead.",
+            "name": "Монолог"
+        }
+    ]
+}

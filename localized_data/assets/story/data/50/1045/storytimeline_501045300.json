@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp is coming to an end.\nWe've become\na truly formidable team\nas we relaxed over the\nsummer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I nervously check in on Супер Крик. I\nwonder\nhow she feels now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm, I can't quite explain it... I feel\nlike... a\nbone's been dislodged.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "A bone?"
+            ]
+        },
+        {
+            "text": "Yeah! Like a fish bone that's been stuck\nin your\nthroat for who knows how long.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And with the bone now gone, I feel\namazing.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I think I'll be okay, but even if I'm not...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I have my loyal trainer here to support\nme!\nHehe! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It looks like everything's worked out.\nShe might\nbe in tip-top shape again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Shall we go back then, Тренер?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "To Академия Тайсен?"
+            ]
+        },
+        {
+            "text": "No, to our former selves when we\ndebuted\ntogether—to when we didn't\nhave a care in the\nworld.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "The Classics... They're still out there,\nwaiting to\nbe conquered, right?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "She's right. We still have time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As long as we can make the Kikuka Sho,\nI know\nthat Супер Крик can prove to\neveryone what\nshe's truly made of.",
+            "name": "Монолог"
+        }
+    ]
+}

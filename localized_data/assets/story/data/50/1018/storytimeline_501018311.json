@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйр Грув put her best foot forward in\nthe\nOsaka Hai. Afterwards, in the\nwaiting room...",
+            "name": "Монолог"
+        },
+        {
+            "text": "This race was another step towards\ntaking on\nSuzuka. The question is, where\nwill she be next?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Someone of Сайленс Судзука's talents\nwould\nprobably run in...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "The Takarazuka Kinen."
+            ]
+        },
+        {
+            "text": "Agreed. There's no doubt in my mind\nthat's where\nshe'll choose to run next.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We'll do even better in the Takarazuka Kinen\nthan today."
+            ]
+        },
+        {
+            "text": "That we will. I'll definitely defeat\nSuzuka.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "After all, if I don't...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Never mind. Let's go.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув begins to pack her things,\nbut\nsomething seems off about her...",
+            "name": "Монолог"
+        }
+    ]
+}

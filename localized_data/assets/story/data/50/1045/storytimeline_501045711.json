@@ -1,0 +1,57 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ah... Where do I even begin?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I was so determined to make you smile\nthis time\naround, but I keep getting\nthese sorts of results...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If this keeps up, I'll just be dragging you\ndown...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "There's no need to get so worked up.",
+                "You? Drag me down? Impossible!"
+            ]
+        },
+        {
+            "text": "If this keeps up, I'll just be dragging you\ndown...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "There's no need to get so worked up.",
+                "You? Drag me down? Impossible!"
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You're right. If I give up now, then all of\nyour\nhard work will go to waste.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Trainer... How are you always so kind?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I bet it's the strength of your spirit that\nallows you\nto be so nice.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe... How is it that someone so cute\ncan guide\nme with such confidence?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "That's one thing I will never do. Mark my\nwords.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I promise to repay you for your goodwill.\nI'll get\nfirst place... for you.",
+            "name": "Супер Крик"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I go up to the roof during lunch, where I\nfind\nМэйсё Дото."
+        },
+        {
+            "text": "Guh... Th-this drink should help get rid\nof my\nfatigue...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Doto?"
+            ]
+        },
+        {
+            "text": "Yes! T-Тренер?! I'm just drinking a\nwellness shot.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "That's a sports drink you're holding."
+            ]
+        },
+        {
+            "text": "Oh... R-reeeaaally?! I couldn't tell at all,\nand I've\nalready had so much of it!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The fatigue must have dulled her senses.\nThe\nrooftop is littered with her empty\nplastic bottles. I\nprobably should rework\nour future race schedule."
+        }
+    ]
+}

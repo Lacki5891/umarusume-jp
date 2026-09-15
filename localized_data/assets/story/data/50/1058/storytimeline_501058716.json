@@ -1,0 +1,45 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэйсё Дото asks me to review her diet\nresults\nafter dealing with a slow\nmetabolism."
+        },
+        {
+            "text": "<i>Huff... Huff...</i> Sorry for the wait...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Have a... look at this... My weight is\nnearly what it\nwas before.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Why do you look so exhausted?!"
+            ]
+        },
+        {
+            "text": "Oh, I'm just... a little hungry... but my\nbody feels\nso empty and light.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I guess this is the result of diligent\nfasting...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You're depriving yourself of essential nutrients!"
+            ]
+        },
+        {
+            "text": "You might be onto something... Instead\nof feeling\nlight, I... think I'm feeling\nweak.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh no, did I make another mistake?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Trainer, is there any hope for me?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото rebalances her diet with\nproper\nnutrition and a fitness regime to\nget back in good\nshape."
+        }
+    ]
+}

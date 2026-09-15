@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The time has come! Among the abundant\nshrines\nand temples of Kyoto, we face\nthe grand trial for\nthe Kikuka crown!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "We worked so hard to get here, I can\nalmost see\nmy life passing before my\neyes...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'm going into the light...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I don't think it's your time to go just yet..."
+            ]
+        },
+        {
+            "text": "<i>Gasp!</i> You're right! This is still only the\nbeginning!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The Kikuka Sho is a fiendishly long\n3,000 meters.\nI've never raced such a\ndistance before...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But with all this luck I've scraped\ntogether, I'm\nsure we'll make it through\nsomehow!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Go forth, my little lucky charms! Crush\nmy\ncompetition! And maybe level off the\ndreaded\nYodo Hill while you're at it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'll just sit back and see how it goes...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You better put in some effort too!"
+            ]
+        },
+        {
+            "text": "Yeah, yeah, I know! I'm doing my part. I\ndrank my\nlucky milk today to keep my\nenergy up.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "If we get through this, no one will be\nable to\nstand against my faith. O gods,\nlet them see the\npower of unparalleled\nluck!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

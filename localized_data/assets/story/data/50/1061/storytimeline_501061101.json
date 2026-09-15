@@ -1,0 +1,263 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Happy New Year, Trainer. This year,\nwe're finally\nin the Classics...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But what's with this room?! It's the\nholiday season,\nyet it looks so bleak in\nhere.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "It's the same as usual."
+            ]
+        },
+        {
+            "text": "That's precisely the point, you dummy!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Good grief! Just wait here a moment!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King, are these window decorations\nokay?",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Yes, they're perfect! You all sure do\nknow how to\nplease! ♪",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Now this is craftsmanship!"
+            ]
+        },
+        {
+            "text": "Ohohoho! Give them more praise! ♪\nThey <i>are</i> my\ncompanions, after all!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Knock, knock!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! It looks like the New Year's meal I\nordered\nhas arrived! All right, everyone,\nwait right here!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thank you for today."
+            ]
+        },
+        {
+            "text": "Oh! No, we should be thanking you!\nWe're just\nhappy we're able to spend\nNew Year's again with\nKing this year.",
+            "name": "Cat-eyed Umamusume",
+            "choice_data_list": [
+                "Are you always together for New Year's?"
+            ]
+        },
+        {
+            "text": "Yeah, we don't go home for the\nholidays.",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "I don't get along with my parents so\nwell. When I\nfirst came here, I just holed\nup in my room during\nthe holidays.",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "But then I met King...",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "Ohohoho! A little bird told me that\nthere's a pair\nof younger students having\nthe most dreadfully\nboring New Year's\ngathering!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Who are you?! And what are you doing\nbarging\ninto our room?! You older\nstudents think you just\nrun everything,\ndon't you?",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "\"Older student\" barely befits me. You\nwill refer to\nme as Кинг Хало, the\nfirst-rate Umamusume.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now be grateful! I'm going to show you\nthe\nfirst-rate way to spend New Year's!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Come! I'm granting you the right to\nmake mochi\nwith me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Uh... isn't that... a normal rice cooker?",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "Hehe. All mochi is is just balled up rice,\nis it not?\nGo on, take a handful and\npress it together.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But... this is just how you make rice\nballs...",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Pardon?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hey! What are the two of you doing\ntaking up the\nwhole kotatsu?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Move over! Make room for me, otherwise\nforfeit\nyour oranges!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hey! Don't be a meanie!",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "Ohohoho! I'm not being mean—I'm being\nKing!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's always fun spending time with King.\nShe's so\ncheerful and full of confidence.",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "That's why we decided to repay King for\nall she's\ndone for us by helping her out\nthis year.",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "This is the most important year for King.\nIt will be\nthe year she makes her dreams\ncome true.",
+            "name": "Bob-cut Umamusume",
+            "choice_data_list": [
+                "I see.",
+                "It sure is."
+            ]
+        },
+        {
+            "text": "Everyone, the New Year's food has\narrived! It's\ntime to eat and plan for the\ncoming year!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "To a great year!"
+            ]
+        },
+        {
+            "text": "What's this? You can look at me like\nthat all you\nwant. I'm still charging you\nfor your portion of the\nfood.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, the four of us enjoy our New\nYear's meal\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mmm... That was delicious. You ought to\nbe\npraising me for having made a\nreservation six\nmonths in advance.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But that aside, let's turn to the future.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It may be a new year, by my plan\nremains\nunchanged. We proceed to the\nTriple Crown tour.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Then, we force a certain <i>someone</i> to\nrecognize\nme. You understand what I'm\nsaying, Тренер?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "text": "Hehe, very well. Let's start taking action\ntoday.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "As a first-rate trainer, how do you plan\nto train\nthis first-rate Umamusume?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'll keep you on a healthy diet during the\nholiday break.",
+                "I'll make sure you're getting sufficient rest.",
+                "I'm going to make everyone love and adore you."
+            ]
+        },
+        {
+            "text": "Huh? You're one to talk!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You've eaten just as much as I have.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Come on, show me that belly of yours! I\nlook\nperfect by comparison!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Whoa! King! You actually pulled up your\ntrainer's\nshirt!",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "Ohohoho! Well, I'm not the one who\nbrought up\nweight management! Trainer,\nexpect me to\nreadjust your lifestyle\nhabits from here on!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wow, that's a surprisingly reasonable\nthing to\nsay.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, it <i>would</i> be awful for me to get\nsick before\nan important race. I have to\nbe in perfect\ncondition at all times.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Especially in winter. I can't afford to\ncatch a cold.\nHmm...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I wonder if I've been taking in enough\nvitamin C. I\nshould probably eat some\noranges.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What?! That's not a goal at all!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm already loved and adored by\neveryone, and\nexcessively so! What are\nyou even talking about?!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "What's with that face? Do you mean to\ninsinuate\nsomething?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Explain yourself, Trainer. And make it\nshort.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "She continues to pester me on the\nsubject for\nsome time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Since then, Кинг Хало has become the\none\ntraining me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We go on to have oranges for dessert\nand enjoy a\nleisurely New Year's holiday.",
+            "name": "Монолог"
+        }
+    ]
+}

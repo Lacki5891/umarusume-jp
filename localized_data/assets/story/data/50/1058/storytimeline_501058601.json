@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I knew it...  I'm not cut out for this after\nall... I'll\nprobably make another weird\nmistake and lose\nagain...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Lose again... Uugh, I don't want that.\nBecause...\ndespite it all, despite\neverything...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I want to... win.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I know you can do it!"
+            ]
+        },
+        {
+            "text": "Th-thank you, Trainer!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...Okay! I'm g-g-going to win!",
+            "name": "Мэйсё Дото"
+        }
+    ]
+}

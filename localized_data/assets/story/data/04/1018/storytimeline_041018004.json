@@ -1,0 +1,268 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I am the Empress, Эйр Грув. I aim to\nembody the ideals of all\nUmamusume and\nserve as a guiding beacon for all.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "\"Empress\" is more than just a title to Air\nGroove. It's an aspiration.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't claim to fully understand what that\naspiration entails, but I can\ntell I've taken\na step closer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, okay! Thank you for sharing that. I'll\ngive it a try!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "You're right! Thank you, Эйр Грув!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I recall the satisfied looks on her fellow\nstudents' faces, but more\nimportantly, the\ngentle warmth that radiated from her\nown...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems that supporting her fellow\nstudents is very important to Air\nGroove,\nboth through her student council activities\nand her personal\nmentoring.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In that case...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? My training regimen? You'll look\nover it in place of Эйр Грув?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Wow—thank you very much! Oh, so about\nthis part on hamstring\nexercises...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Man, these documents are really giving me\na headache. Maybe I\nshould ask the vice\nprez about them...",
+            "name": "Student Council Member",
+            "choice_data_list": [
+                "I can help you if you'd like."
+            ]
+        },
+        {
+            "text": "Oh, really? You'd be a lifesaver! I wasn't\nsure how to tally up the\nvotes here...",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "Hey. Just what do you think you're doing?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Don't play dumb. Do you think I wouldn't\nnotice that you've been\nsnatching up my\nstudent council tasks and student\nappointments?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What are you trying to say? That I should\njust stay in my lane and\nfocus on racing?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well? Answer me! And if I don't like what I\nhear, our contract is over!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I want to value the same things that you do."
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "And I want to help you out, as your trainer."
+            ]
+        },
+        {
+            "text": "To... help me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I explain that I want her to let me help\nwith her various activities, so\nthat she can\ndevote more time to training without\ngiving up on any of\nthem.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmph. Me, rely on you? You could stand\nto be a little more\ndependable before\nsuggesting such a thing.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "However...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Our contract will remain effective. That is\nall.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A sturdy scepter to support my weight as I\nwalk my royal path...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "So that is a trainer's role...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I continue to take on some of Эйр Грув's\ntasks where I can, and in\nreturn she applies\nherself to her training with greater vigor\nthan ever.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And at last, the day of the maiden race\nthat we have been preparing\nfor arrives.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After a beautiful start, she's pushed all the\nway forward to the front of\nthe pack—it's\ntoday's favorite, Эйр Грув! Can she\nshake off her\ndebut race loss?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Ha!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She's not slowing down! She's fast! Air\nGroove widens her lead! She's\nin a league\nof her own!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "What a finish! Our winner comes in at an\noverwhelming five lengths\nahead of her\ncompetition!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "The curtains are rising on the legendary\nreign of the Empress, Air\nGroove!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "The day after her stunning victory, I\nreceive a text from Эйр Грув\nletting me\nknow that she needs my help with\nsomething.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(She <i>wants</i> my help?!)"
+            ]
+        },
+        {
+            "text": "I grab my things in a rush and head over.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There you are. Wait... Why on earth are\nyou so out of breath?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, whatever. The seeds I ordered have\nfinally arrived, so let's get\nstarted.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Seeds? What kind of seeds?"
+            ]
+        },
+        {
+            "text": "Flower seeds.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The seeds, it turns out, are destined for\nthe flower beds behind the\nmain school\nbuilding. We begin the task of planting\nthem.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, how many times do I have to tell\nyou?! You're covering those\nseeds with\nway too much soil!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Take your time and do each step properly.\nThese seeds are way too\nfragile for you to\nbe rushing through this.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "After a few mishaps and a fair bit of\nscolding, we just about manage\nto wrap up\nthe planting before sundown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, that should do. I'm looking\nforward to seeing them bloom.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Did you always like flowers?"
+            ]
+        },
+        {
+            "text": "What, are you trying to say that's\nunexpected of me or something? It's\n\nwritten all over your face.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "When given the care and attention that\nthey need, the buds emerge\nstrong and go\non to bloom beautifully.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The cycle repeats as new buds grow—a\ntestament to perseverance\nand aspiration.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It was the sight of my own mother running\non the turf that allowed me\nto bloom into\nwho I am.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The winner of the G1 Japanese Oaks\ninherits the title of \"Queen of\nthe Oaks.\"",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "My mother was able to rise above the rest\nand ascend the throne as a\nqueen.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "When I learned about that legendary race\nand just how hard she\nfought for the title...\nI was shaken to my very core. The seeds of\n\naspiration were sown.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I dreamt of following in her footsteps—of\nsurpassing my limits, setting\nfoot into the\nworld of racing, and claiming victory.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And more than anything, I knew I wanted\nto continue the cycle and\ninspire others,\njust as she inspired me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's why I chose to embrace the title of\n\"Empress.\" I wish to become\none who is\nlooked upon by all Umamusume as an\nideal to strive for.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "To be as one like my very own mother—to\nbloom mightily and\nelegantly as a sign of\nhope for the future.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And for that, simply winning races won't\nsuffice. I need to prepare the\nsoil of this\nacademy well, so that the seeds that\nfollow after me may\ngrow strong.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If my trainers see no value in those seeds,\nthen I have no need for a\ntrainer—or so I\nthought...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But you... well. I suppose you may have\nearned a little—just a tiny bit,\nmind\nyou—of my t-trust...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I have a green thumb, after all!"
+            ]
+        },
+        {
+            "text": "Oh, shut it! You've got to be the worst\ngardener I've ever met!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Geez, I was entirely too quick to bring up\nthis metaphor.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Okay. I won't be \"green\" at this for long!"
+            ]
+        },
+        {
+            "text": "Knock it off with the tomfoolery!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Despite her harsh words, I get the feeling\nher attitude toward me has\nchanged, if\nonly slightly.",
+            "name": "Монолог"
+        }
+    ]
+}

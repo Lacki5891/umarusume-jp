@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Сайленс Судзука and I have come to the\nriverside\nto run.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What great weather. The sun is shining\nso bright—",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh no. My sunscreen...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "text": "Oh, it's nothing.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Эйр Грув gave me some sunscreen the\nother\nday because she said my skin\nlooked a little\nagitated.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I should go back home to get it. <i>Sigh...</i> If\nonly the\nweather wasn't so nice, then I\nwouldn't need it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But wait... If the weather were bad, then\nit\nwouldn't feel good to run anyway...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It doesn't take too long for Silence\nSuzuka to\nreturn from her room, but she\nseems a little down\nabout losing some\nrunning time.",
+            "name": "Монолог"
+        }
+    ]
+}

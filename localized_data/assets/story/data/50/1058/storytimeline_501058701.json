@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hmm-hm-hmmm! ♪",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Morning. It's rare to catch you humming."
+            ]
+        },
+        {
+            "text": "Eek! T-Тренер?! I-I-I guess I was just\nreminiscing\non some memories...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You see, I happened to bump into\nOpera O at the\npark yesterday.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And wouldn't you know? I was granted a\n\nfront-row seat to her performance, <i>The\nOpera\nOverlord: Five-Hour Edition!</i>",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Reminiscing on that wonderful voice of\nhers\nbrings me courage. I'll probably get\nthrough\ntoday without making a single\nmistake!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It sounds like she had herself an exciting\nday off!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After training, Уиннинг Тикит grabs\nBiwa\nHayahide, insisting we go to a\nrestaurant near the\nacademy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yum! That's GOOD!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The portion's so big! The hamburger\nsteak's so\njuicy! This is what I really\nwanted to sink my teeth\ninto!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "After full-power practicing, some\nfull-power\neating is the best!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Um, Ticket? You should eat more slowly.\nIt won't\nbe \"the best\" at all if you choke\non your food.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Also, you must take care not to overeat.\nIf you\ngain weight, it will impact your\nrace results.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Whoa, really?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hmm... but I still wanna eat lots and\nlots...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Moderation is important.",
+                "Let's eat at full power until we feel full!"
+            ]
+        },
+        {
+            "text": "Hmm... but I still wanna eat lots and\nlots...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Moderation is important.",
+                "Let's eat at full power until we feel full!"
+            ]
+        },
+        {
+            "text": "Moderation? Moderate... So, like, how\nmuch is\nmoderate?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Well, it might differ a little by person,\nbut\ngenerally for food, you could say it's\ngood to\nstop before you find yourself\nfeeling full.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ahh, I getcha! So...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's kinda like the middle between being\nstarved\nand about to explode! Makes\nsense!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Okay! I'm gonna go moderate—at full\npower!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah! You're totally right! My trainer\nknows best!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm gonna eat with all my might until I'm\nabout to\nexplode. That'll definitely\nmake me happy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hmm, interesting... If freedom is the\ndirection you\nchoose, then I'll refrain\nfrom interfering.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ticket, I see now that your trainer has a\ngreater\ncapacity than most.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Huh? I think my trainer eats the same\namount of\nfood as any regular person.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I was referring to the capacity to put up\nwith your\nantics...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Dear me... You certainly have a unique\nway of\nlooking at things.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

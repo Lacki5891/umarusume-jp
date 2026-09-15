@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with\nSymboli\nRudolf...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look there, Trainer. Do you see that?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She points towards a claw machine. The\nprizes\nseem to be plushies shaped like\nUmamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What a marvelous variety of designs.\nRather\ncharming, wouldn't you agree?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "They would look perfect in the student\ncouncil\noffice... Hmmm, what to do...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф falls silent as she stares\nat the\nplushies.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "I'm rather unused to these amusement\ncenters.\nTruth be told, I've never played\na claw machine\nbefore.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Want me to do it?"
+            ]
+        },
+        {
+            "text": "Part of leading is choosing the right\nperson for\nthe job. I would be a fool to\nrefuse.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I eagerly await your success, Trainer.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I pass by the dance studio, I'm\nsurprised to\nhear Уиннинг Тикит's voice\nfrom inside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yo! Hah! YAAAH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket, how many times must I say that\nyou waste\ntoo much effort with your\nmoves?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You don't always have to use \"full\npower.\" Try to\npace yourself a little.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Hey, what are you guys doing?"
+            ]
+        },
+        {
+            "text": "Oh, hello. I'd normally say it should be\nobvious,\nbut perhaps that's not the case.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "When I first saw her engaged in this\nactivity, I\nthought she was practicing\nkarate chops.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Huh?! What do you mean? I'm <i>clearly</i>\ndoing\ndance moves!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Her words, not mine.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I got some advice from Hayahide, but\nit's not\nreally going so well.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Especially the final twirl! No matter how\nmuch I\ntry, I always lose my balance!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, oh, Trainer! You gotta have some\nadvice for\nme too, right?!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Well, I'm not a dance instructor, so..."
+            ]
+        },
+        {
+            "text": "Actually, your insight may be valuable\nprecisely\n<i>because</i> this isn't your area of\nexpertise.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If this goes on, I'm gonna make a fool of\nmyself at\nthe winning concert for sure!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Come ooon! Please! I need your help!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You need to amp yourself up more.",
+                "You're using too much power."
+            ]
+        },
+        {
+            "text": "Come ooon! Please! I need your help!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You need to amp yourself up more.",
+                "You're using too much power."
+            ]
+        },
+        {
+            "text": "Amp myself up? Riiight, that's gotta be\nit!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "First I'll get motivated... YAAAAH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "ALL RIGHT! LET'S GOOO!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hehe... Instead of reason, you go with\n\nmotivation? You two are well matched.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "We are?"
+            ]
+        },
+        {
+            "text": "I suspect you may understand Ticket\nmore\nthoroughly than I do.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We match well? Like, we make a good\npair?\nW-wow!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm kinda embarrassed! But that makes\nme happy\ntoo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Okay, one more time! Watch me closely,\nTrainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Really? That's weird, I thought I was\nusing the\nright amount...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I told you it was too much. That's why\nyour\nmovement isn't clean.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "At the very least, there's no need to give\nthose\ndeafening yells with every move\nyou make.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ohhh, okay! You both have some good\nadvice. I'll\ngive it another go!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Still a little too strong, I think.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Even less than that?! Okay, okay...\nRelax... relax...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Wobble...</i> Aaaah...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Wh-why'd you slump onto the floor? Are you\nokay?"
+            ]
+        },
+        {
+            "text": "Huh? I just tried to relax my entire body.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Now you're not using enough power.\nHow do you\nplan to dance like this?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Y-you're right! Wow, Hayahide, you're\nso smart!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You must have studied so much...\n<i>sniffle...</i> to\nbecome that smart!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaah! Hayahide! You're great!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yes, yes, I understand... Let's continue\nyour\ndance lesson.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Sob...</i> Okaaay!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket fires herself up even more and\nmanages to\nnail the final twirl\nbeautifully.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After a thorough lesson on the value of\nrelaxing\nher muscles, Уиннинг Тикит\nends up a little\nbetter prepared for her\nfuture dancing endeavors.",
+            "name": "Монолог"
+        }
+    ]
+}

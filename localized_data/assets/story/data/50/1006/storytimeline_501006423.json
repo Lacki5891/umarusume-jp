@@ -1,0 +1,21 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Cheers from the crowd echo throughout the \npaddock, but Tamamo Cross and Super Creek \naren't the only names they're calling out."
+        },
+        {
+            "name": "Monologue",
+            "text": "They're also cheering for Oguri Cap, the beast \nfrom the boonies, and she's filled with a renewed \nsense of determination.",
+            "color_text_info_list": [
+                "beast"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The climactic showdown is about to commence, \nand everyone's hopes are on the line."
+        }
+    ],
+    "title": "Before the Arima Kinen"
+}

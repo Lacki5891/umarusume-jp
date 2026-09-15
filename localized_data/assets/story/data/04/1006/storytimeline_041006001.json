@@ -1,0 +1,224 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Having made a name for herself back\nhome, Огури Кэп transfers to\nthe\nacclaimed Академия Тайсен.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Word of her arrival travels quickly\nbetween the trainers, and they\ngather\naround the campus training course to\nwatch her in action.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Thanks for running with me, Огури Кэп.\nPffft, hahaha!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Hm? Why are you laughing?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Ah, my apologies, I did not intend to\noffend. It has been a long while\nsince my\ntime has been spent so productively.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I've heard many a tall tale about your\namazing feats racing in your\nregional\ncourse, but I only now realize just how true\nthey were.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You are second to none, Огури Кэп. I truly\nlook forward to competing\nwith you on the\nturf.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I see. Then how about a race next time?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Impressive. So that is the renowned Oguri\nCap. It's not easy keeping\nup with the\nEmperor herself—and with such a cool\nhead too.",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "And to so boldly challenge her to a race.\nShe must truly be confident\nin her abilities.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Well, I must get going. There's a meet-up I\nneed to attend.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Let's do this again sometime, Огури Кэп.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "All right, then...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I wonder where she's headed? Perhaps\nshe's going somewhere else to\ntrain in\nsecret.",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Could that be the key to her agility? If so,\nI most certainly need to\nwatch this secret\npractice of hers.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Oh? Are you also interested in seeing\nOguri's training? Why don't we\nall go and\nwatch her together?",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Curious to figure out where Огури Кэп was\nheaded, I decide to stick\nwith the other\ntrainers and go after her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Hm?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Is she not going to start training?",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "This is Огури Кэп we're talking about. I'm\nsure there's some meaning\nbehind her\nactions... or inaction, in this case.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Hmmm...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "She's back! But why?!",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "What a peculiar girl...",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Hmmmmmm...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "What in the world is going on in that head\nof hers? That's the fourth\ntime she's circled\naround the same area...",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Is this girl really second to none? I guess\nwe'll have to see... Let's\ncome back\nanother day.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Bewildered by Огури Кэп's perplexing\nconduct, the trainers slowly\nbegin to take\ntheir leave.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ummm...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Worried about Огури Кэп's strange\nbehavior, I walk over to check on\nher.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "text": "I'm not sure. I keep walking and walking,\nyet I end up at the same\nplace.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Does this academy really have four\nidentical locations?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Maybe you just got lost?"
+            ]
+        },
+        {
+            "text": "Lost, you say... Perhaps so.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Who are you, anyway? I've never seen you\naround these parts.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "I'm a trainer here at the Academy."
+            ]
+        },
+        {
+            "text": "A trainer here... Could you show me where\nto go?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'm trying to get back to my dorm room. I\nwould appreciate the\nassistance.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I give the lost Oguri directions back to her\ndorm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So that's where it is. Got it. Thanks for\nyour help. See ya.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "A few minutes after seeing off Огури Кэп,\nshe reappears from a\ndifferent direction.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?! I just saw a trainer who looks exactly\nlike you! Are you some\nkinda\ndoppelganger?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "You're just back where you started!"
+            ]
+        },
+        {
+            "text": "...So it appears. Now that you mention it,\neverything else is the same\ntoo.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's a challenge telling what's what in the\ncity. The buildings are all so\nclose\ntogether, not to mention they look the\nsame. Things were much\nsimpler back\nhome.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I knew my way around town. Turn right at\nTome's field, and you could\nclearly see my\nschool. The bus stop was to the left of\nShige's large\nwarehouse. So easy.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Whenever I passed by, Tome would give\nme some mandarins to\nmunch on. They\nwere the absolute sweetest. Really takes\nme back...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Feeling homesick?"
+            ]
+        },
+        {
+            "text": "Sometimes, I guess. But I can't go back just\nyet.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Tome, Shige, Chiyo, and Yoshi... They all\nhelped me get to\ncentral—to race with the\nbest.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Everyone back home is cheering me on.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I cannot—<i>will</i> not—let them down.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп gazes on, finishing her little\nspeech with a fierce yet\nforlorn expression\nacross her face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm... It's about time I head back. The\ndorm was this way, right? I'm\nsure it's this\nway...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Concerned that Огури Кэп would spend\nthe rest of the night\nendlessly wandering\nabout the campus, I accompanied her back\nto\nher dorm entrance.",
+            "name": "Монолог"
+        }
+    ]
+}

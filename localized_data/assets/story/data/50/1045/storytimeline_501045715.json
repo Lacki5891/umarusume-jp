@@ -1,0 +1,96 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew... Great job, Trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You must also be tired. Let's take it easy\ntoday,\nand—",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Huff... puff... phew...</i>",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, Oguri! Are you on your way home\nfrom\ntraining too?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hey, Creek. No, I'm just on my way to\nget a quick\nsnack before heading back\nout.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It'll be evening soon... Does that mean\nyou'll be\nrunning after dark?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Isn't it dangerous to run on your own at night?"
+            ]
+        },
+        {
+            "text": "It's fine. I'll keep an eye out for cars.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "That doesn't make me feel any less\nworried...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Trainer, do you mind if I join Oguri?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If anything happens, it'll be easier to\nhandle if she\nhas someone with her.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I'll join you two.",
+                "You can't see where you're running in the dark..."
+            ]
+        },
+        {
+            "text": "If anything happens, it'll be easier to\nhandle if she\nhas someone with her.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I'll join you two.",
+                "You can't see where you're running in the dark..."
+            ]
+        },
+        {
+            "text": "Goodness me. Thank you, Trainer! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Sorry to make you go out of your way...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "No problem! We're friends, after all! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But a quick run wouldn't hurt...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh... But if something were to happen to\nyou\nwhile running in the dark, I... I...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Sob...</i> I'd bawl my eyes out!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Urk! S-sorry! I'll skip my run tonight, so\nplease\ndon't cry...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Супер Крик joins Огури Кэп later on for\na\nnighttime training session.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик smiles with relief as Oguri\nCap\nstands there flustered.",
+            "name": "Монолог"
+        }
+    ]
+}

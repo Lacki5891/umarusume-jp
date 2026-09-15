@@ -1,0 +1,222 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today's the day for tryouts. The academy's\nup-and-coming runners\nparticipate in\norder to prove their skills to the\nprospective trainers\nwho've come to watch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wondering what this fresh batch of\nnewcomers has to show, I also\nmake my\nway to the racetrack.",
+            "name": "Монолог"
+        },
+        {
+            "text": "C'mooon! I wanna run too! Let me gooo\niiin!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган, please behave yourself.\nYou can't just run onto the\ntrack without\npermission! Goodness, you're too fast for\nyour own\ngood...",
+            "name": "Tryouts Staff A"
+        },
+        {
+            "text": "I don't caaare! I wanna race toooo!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "A short distance away from the track, I\nspot Маяно Топ Ган and the\nrace\nattendant butting heads.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thbbft! Catch me if you can! ...Bwah?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Attempting to flee, Маяно Топ Ган\ndashes away, bumping into me\nin the\nprocess. Without so much as a second\nthought, I catch her\nmid-fall.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Uhhhh, sorry! Are you okay?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'm fine. How about you?"
+            ]
+        },
+        {
+            "text": "I-I'm okay... since you caught me and\neverything.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe... You're actually pretty nice! You a\nnew Тренер? My name's\nMayano Top Gun!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ah, perfect timing. Would you mind\nwatching her and making sure she\ndoesn't\nrun off onto the racetrack? I'd really\nappreciate it.",
+            "name": "Tryouts Staff A",
+            "choice_data_list": [
+                "Sure thing."
+            ]
+        },
+        {
+            "text": "Wait, whaaat? What'd you say yes for?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I thought you were a <i>nice</i> trainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What's with the commotion?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Runners, it's time. Please prepare\nyourselves for the race!",
+            "name": "Tryouts Staff A"
+        },
+        {
+            "text": "Hm... it's time.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Though the whining and nagging\ncontinues, Маяно Топ Ган is\nunable to\nget her way, and the race proceeds\nwithout her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The racers are off to a fantastic start! All\neyes are on Нарита Брайан!\nWhat kind of\nperformance can we expect to see from\nher today?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Too slow.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Look at her go! Нарита Брайан is closing in on\nthe front!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Awww, must be nice to be able to race... I\nwanted to run toooo! This\nis so boooring!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey, could we at least chat about\nsomething? Do you have any funny\n\nstories?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган continues to pester me,\nbut she suddenly shifts her\ngaze in the\ndirection of the course and mutters\nsomething under her\nbreath.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh man, that scary-looking girl looks like\nshe's about to go <i>whoosh.</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's over!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Just as Маяно Топ Ган predicted, Narita\nBrian picks up her pace\nand bolts forward.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's like she knew what was going to\nhappen next.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Was it coincidence? Or is it something else\nentirely?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан is flying ahead! She's weaving\nher way through the other\nracers! Her eyes\nare set on first place!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wow, she's good!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wait, that racer in second place...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I hear Маяно Топ Ган, and without\nthinking, turn my attention\ntoward the\nsecond place runner.",
+            "name": "Монолог"
+        },
+        {
+            "text": "From her current position, as long as she\ntimes it right, she could\nprevent Narita\nBrian from overtaking.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If executed successfully, she will even gain\nan open path into the\nhomestretch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If she goes for it like <i>bam</i> at the right time,\nthen all she has to do is\ngo <i>zoom</i> until she\nreaches the finish line!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The right time is... ah, now!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Outta my way!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Wah! No waaay!",
+            "name": "Second-place Umamusume"
+        },
+        {
+            "text": "Aw, maaan. She totally blew it.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Although the other Umamusume has lost\nher chance to maintain her\nlead, Mayano\nTop Gun's read of the situation was\nimpeccable.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If she had been the one out there running,\nthen perhaps the outcome\nwould've been\ndifferent...",
+            "name": "Монолог"
+        },
+        {
+            "text": "C'mon, why couldn't <i>I</i> run in today's race?!\nThis sucks!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Just who exactly are you?"
+            ]
+        },
+        {
+            "text": "Huh? What's up with you? Why are you\nstaring at me like that?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Don't tell me... Have you fallen head over\nheels for me?! Oh my gosh,\nI really <i>am</i> that\ncute! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The race ended in a resounding victory for\nНарита Брайан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All the trainers are clamoring around her in\nhopes of scouting such a\npromising talent.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I, on the other hand, have something else\non my mind...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh man, that scary-looking girl looks like\nshe's about to go <i>whoosh.</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "If she goes for it like <i>bam</i> at the right time,\nthen all she has to do is\ngo <i>zoom</i> until she\nreaches the finish line!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Although Маяно Топ Ган may lack\neloquence, the young racer's\n\nunderstanding of the race and its\ncompetitors was on another level.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't help but feel like I have only caught\na glimpse of the raw\npotential she\npossesses...",
+            "name": "Монолог"
+        }
+    ]
+}

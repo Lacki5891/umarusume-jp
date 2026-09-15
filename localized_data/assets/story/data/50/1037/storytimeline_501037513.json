@@ -1,0 +1,278 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйсин Флэш has asked me for special\ntraining,\nwhich I'm more than happy to\nprepare for her, but\nwhen I arrive at the\ngrounds...",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're finally here. I've prepared myself\nboth\nmentally and physically for your\narrival.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now, let us advance along the route to\nperfect\nvictory.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш greets me like a knight\nready for\nbattle. She's even wearing her\nsignature\nracewear... but why?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Wha... Why are you dressed like that?"
+            ]
+        },
+        {
+            "text": "Do I look... strange?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Well, no, but..."
+            ]
+        },
+        {
+            "text": "I knew it! I shouldn't have done this!\nExcuse me!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Apologies for running off so abruptly...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What happened? That wasn't like you."
+            ]
+        },
+        {
+            "text": "Well... The embarrassment became too\nmuch for\nme to bear when I thought\nabout how\nincompetent I must still seem\nin your eyes, so...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Wait, what made you think that?"
+            ]
+        },
+        {
+            "text": "To be truthful, I have been concerned\nabout my\nsignature racewear...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "During its creation phase, I asked for it\nto be\ndesigned to reflect my home\ncountry.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And when it was completed, it was\nevident that\nthe meister's spirit resided\nwithin every stitch. The\ncraftsmanship\nleft me in awe.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The outfit is magnificent, but it feels so\nheavy...\nLike I might get crushed\nbeneath it...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "When I don this outfit, it is not only\nfabric that\nrests upon my shoulders, but\nthe weight of my\nhomeland's pride and\ntraditions too.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My mother must have felt this very same\nweight\nand pressure when she raced in\nGermany.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But I don't know if I'm truly worthy of\nwearing\nthese clothes and representing\nall they signify.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...I wanted you to help me determine\nthat today.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "So that's why you're in your signature\nracewear..."
+            ]
+        },
+        {
+            "text": "Yes. It is also why I greeted you like that\nearlier.\nUnfortunately, I seem to have\nacted carelessly...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now that I finally have a handle on the\nsituation, I\nthink I know what she needs\nright now.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's have you run in it so you can get used to\nit.",
+                "I think you're due a baking session!"
+            ]
+        },
+        {
+            "text": "Yes, that's a good idea. I too believe\nthat would\nbe the best remedy.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And so, Эйсин Флэш participates in her\nnext\nscrimmage in her signature\nracewear. As for how\nshe does...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant!</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Despite seeming a little ill at ease, she\nmanages\nto place first in the end!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have returned.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You look kind of troubled. What's wrong?"
+            ]
+        },
+        {
+            "text": "I stopped thinking about whether I'm\nworthy of\ncarrying my country's pride on\nmy back and\nrepresenting my people\nhalfway through the\nrace...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I became so absorbed in running as fast\nas I could\nthat I forgot all about it.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "At this rate, I won't simply be unworthy\nof my\noutfit—I'll be doing a disservice to\nmy fellow\ncompetitors.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The least I can do right now is to thank\nthem for\ntoday.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Everyone, allow me to extend my\nheartfelt thanks\nfor today's race.\nFurthermore, I must apologize\nfor how\nI—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh! Hi, Flash! That was a great race! I'm\nglad we\ngot to run together!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...Huh? B-but—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Honestly, it stinks that I lost, but\nwhenever I'm up\nagainst you, it makes\nme wanna try even harder.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Same here! Running with you really is\nfun. I always\nknow you're giving it your\nall and offering us an\nhonest race.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "I mean, you always thank us after each\nrace too.\nYou're so thoughtful and\npolite, it makes me want\nto polish up my\nmanners!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Whoops, sorry for droning on and on!\nAnyway,\nI'm going to work on getting\nfaster, so let's race\nagain sometime!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "It'd be my pleasure! I will face you with\nevery fiber\nof my being next time too.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Trainer, I...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Seems you <i>are</i> worthy of that racewear!"
+            ]
+        },
+        {
+            "text": "...Do you truly think so? Do you truly\nbelieve I\nconduct myself in a manner\nworthy of it?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Hehe. Thank you. I feel as though a\nweight has\nbeen lifted from me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Huh? Uh... Why?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Pastry-making runs in her blood, and I'm\nsure\nshe'll feel more confident once she\nrealizes how\ndeeply connected she\nalready is to her home\ncountry.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I suppose baking is a kind of traditional\nart that\nhas been refined through\ngenerations of meisters.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Very well. I shall attempt to bake\nsomething my\nparents taught me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Specifically, a German cake called\nFrankfurter\nKranz.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After reserving the dorm kitchen for her,\nI decide\nto wait in my office until she's\ndone baking.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Next, the sugar. And then I have to mix\nin the\nbutter...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There, the batter is now complete. All\nthat\nremains is...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(Strange. My body is carrying out all the\nproper\nsteps without any conscious\nthought...)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(Everything I measure is correct down to\nthe gram\ntoo... It's as though the process\nhas been instilled\nwithin me.)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(Oh... I see now. This must mean I'm\nalready...)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I apologize for the wait.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Here you go. Guten Appetit.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Thanks! I can't wait to taste it."
+            ]
+        },
+        {
+            "text": "...How is it?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "It's delicious!"
+            ]
+        },
+        {
+            "text": "Thank you. I'm so very happy to hear\nthat.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I actually tried some of it before coming\nhere.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The taste reminded me of my\nhomeland... It tastes\njust like the cakes I\ngrew up eating. It's a recipe\nI've known\nfor so long...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I realized there was never a need for me\nto try to\nembody my country's values.\nMy homeland's\ntraditions are already\npart of my very core.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There was nothing to it at all. Eishin\nFlash has\nbeen worthy of carrying her\ncountry's pride all\nalong.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for helping me realize this.\nMy heart\nand mind feel much clearer\nnow.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

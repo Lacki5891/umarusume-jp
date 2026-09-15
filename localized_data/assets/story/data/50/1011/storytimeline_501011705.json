@@ -1,0 +1,134 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back to the academy,\nsomething\ncatches Грасс Вандер's\nattention.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Is that...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Whoa, look't these... They're all so\npretty!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Spe! What's that you're looking at?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh—hi, Grass! And... hello, Trainer! How\nare you\nthis evening?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I was just looking at the kimonos over in\nthat\nshop window! Look, aren't they\npretty?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, they're gorgeous... and all made\nfrom a\nhigh-end hemp fabric, it seems.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "A what?  Y-you must know a lot about\nclothes!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "You're an expert, Grass."
+            ]
+        },
+        {
+            "text": "Hehe. I dabble a little, is all.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Aw, I'm jealous. I bet you're used to\nwearing\nkimonos like these, huh?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I only got to wear one for Shichi-Go-San\nwhen I\nwas little. My mom got it for me.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Actually, that makes me envious of you,\nSpe. I\nnever got to celebrate\nShichi-Go-San when I was\ngrowing up.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Huh? Oh, that's right. You were in\nAmerica,\nweren't you?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yes. Out of everyone I knew, I was the\nonly one\nwith my own kimono.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Sometimes, I wished I could dress up\ntogether\nwith girls my age.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Without losing her usual smile, Grass\nWonder\ngazes distantly into the shop\nwindow.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why don't you two dress up now, then?",
+                "How about we hold a race in kimonos?"
+            ]
+        },
+        {
+            "text": "Now as in... right now?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ah! Look at the sign, Grass! It says we\ncan try\nthem on!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, my... Hehe. So <i>that's</i> what you were\nreferring\nto.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So you... don't mind if we take this small\ndetour?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Go for it!"
+            ]
+        },
+        {
+            "text": "Thank you. Hehe. Now, which to put\non... ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Goodness. Hehe. That sounds like a\nblast.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Wha—?! But I, uh... I don't know how to\nput it on!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "There's no need to fret, Spe. I'll help\nyou out. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And of course, you'll be joining us as\nwell,\nTrainer.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I will?"
+            ]
+        },
+        {
+            "text": "By all means. One of these days, we\nshould go\nkimono shopping for you as\nwell.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehehe. I wonder what design would suit\nyou\nbest. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер tries on kimonos with\nSpecial\nWeek, looking as happy as can\nbe.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Грасс Вандер appears to have\nthoroughly\nenjoyed herself today.",
+            "name": "Монолог"
+        }
+    ]
+}

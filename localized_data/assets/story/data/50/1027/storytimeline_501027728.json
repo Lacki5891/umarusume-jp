@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow, amazing! You got one!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Thank you, Trainer!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "It's no big deal."
+            ]
+        },
+        {
+            "text": "Hey, no need to be humble! You won it\nfor me,\ndidn't you?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm really happy! I'm gonna treasure this\nplushie\nforever.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That went pretty well!",
+            "name": "Монолог"
+        }
+    ]
+}

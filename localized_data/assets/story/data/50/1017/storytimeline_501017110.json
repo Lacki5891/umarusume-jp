@@ -1,0 +1,66 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Симболи Рудольф has made her mark on\nthe Twinkle\nSeries, just as she always\nhoped.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Together, we've successfully navigated\nthe crucial\nfirst three years of her career.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And now that we're moving on to the\nnext stage\nof our lives, I find myself\ntaking a moment to\nreflect.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As much as I hate to disturb you,\nTrainer, it's\nabout time we faced the\npress.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Hm? Have you been here long?"
+            ]
+        },
+        {
+            "text": "A little while. I meant to get your\nattention, but\nyou seemed lost in\nthought.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If it's important, I can give you a\nmoment.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I was just looking back on the past three years."
+            ]
+        },
+        {
+            "text": "Ah... I see.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "They passed us by in an instant, didn't\nthey? Time\ntruly does fly like an arrow.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But let's not be so hasty as to sink into\n\nmelancholy.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The media awaits us. The eyes of the\nworld are\nstill on us.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You wouldn't abandon my dream at this\nlate\nhour, would you?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You know I wouldn't."
+            ]
+        },
+        {
+            "text": "A fine answer, and just the one I had\nhoped for.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Come, Trainer. Let us set out once more.\nOur\njourney is far from over.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

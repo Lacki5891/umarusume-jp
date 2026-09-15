@@ -1,0 +1,16 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... huff... huff...</i>",
+            "name": "Дайва Скарлет",
+            "choice_data_list": [
+                "Great work out there!"
+            ]
+        },
+        {
+            "text": "Hmph... This is hardly enough to satisfy\n\nme. I need more if I'm going to become\n\nnumber one!",
+            "name": "Дайва Скарлет"
+        }
+    ]
+}

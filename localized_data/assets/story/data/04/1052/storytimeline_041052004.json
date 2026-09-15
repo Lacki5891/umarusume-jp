@@ -1,0 +1,218 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the day of tryouts...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today's the day! I just <i>know</i> I'm gonna win\nthis time!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Someone's in a good mood."
+            ]
+        },
+        {
+            "text": "Well, yeah! I've trained <i>so</i> hard, and eaten\n<i>so</i> many carrots, how could\nI <i>not</i> be?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Although, I might've had a few too many\ncarrots, hehe. I'm sure it's\nfine!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "So this is where you've been.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "We're here to cheer you on, Urara!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "King! Spe! Thanks for coming, guys!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "You trained with the mighty Кинг Хало\nherself, you only have to go\nout there and\nwin now.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Yeah, no problem! I'm definitely winning\nthis!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I know you can do it! Just remember your\ntraining, and you'll soar\ndown the track!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Remember my training... Okay!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I'll just think of all the times you stuffed\nyour face with snacks! Or the\ntime you\ntripped and got covered in mud!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Y-you don't have to remember <i>those</i> parts\nof training!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "The third tryout race will begin shortly.\nRunners, please make your\nway to the\nstarting gate.",
+            "name": "Announcer"
+        },
+        {
+            "text": "Ah, that's me! I better get going!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Good luck!"
+            ]
+        },
+        {
+            "text": "Thanks! Don't take your eyes off me,\nokay? See you after the race!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "At last, Хару Урара's tryout race begins.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The runners are racing through the dirt\ncourse, no doubt with the\nTwinkle Series\non their minds!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Now who's this bringing up the rear? Why,\nit's Хару Урара!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Could she be conserving her energy...\ndoesn't look like it! She's giving\nit her all,\nbut she's still trailing behind the pack!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "You can do it, Urara!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Give it everything you've got!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Go, Urara, go!",
+            "name": "Farmer"
+        },
+        {
+            "text": "Show them what you're made of!",
+            "name": "Neighbor Lady",
+            "choice_data_list": [
+                "Go, Urara!"
+            ]
+        },
+        {
+            "text": "Everyone who has had their spirits lifted by\nHaru Urara's infectious\noptimism has\ngathered to cheer her on.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As the race reaches its conclusion...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...And across the line! Our winner has\nfinished, followed shortly by the\nrest of\nthe pack!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Will the ever-upbeat racer's hard work pay\noff at long last? Haru\nUrara's final\nplacement is...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Woohoo! Ninth place! I've never done that\nwell before!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Congratulations, Urara! That was an\namazing race.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Indeed. You gave it your all, right up to\nthe very end.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I guess that's the exciting thing about\nraces. You never know what's\ngonna\nhappen!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Good job today, Urara. Here, these carrots\nare on the house!",
+            "name": "Farmer"
+        },
+        {
+            "text": "Really?! Yippee! This is just what I need to\nprepare for the next race!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "And so, Хару Урара finishes ninth out of\nten runners.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, that takes care of the tryouts. What\na blast!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Your hard work paid off."
+            ]
+        },
+        {
+            "text": "Ehehe, I still can't believe it. Ninth place!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "But I just <i>know</i> I'll take first place next\ntime! I can't wait until the next\ntryouts...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Being so optimistic in the face of defeat\nisn't as simple as she makes\nit look.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe that's what makes Хару Урара so\ncompelling to the people\naround her...\nincluding me.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Then do you want to aim for first place with\nme?"
+            ]
+        },
+        {
+            "text": "Wow! You're really gonna help me train\nsome more?!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "That's why I'm scouting you!"
+            ]
+        },
+        {
+            "text": "Scouting me...?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "What?! You want to recruit <i>ME?!</i>\nSeriously?!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Seriously."
+            ]
+        },
+        {
+            "text": "Yippee! Then that means I can run in the\nTwinkle Series!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "If I make my debut there, I'll be able to\nrun in all sorts of races!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "And I'll get first place in every single one!\nOooh, I can't wait!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Thanks for scouting me! I'll make it worth\nyour while and win lots and\nlots of races!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "With that decree, my journey with the\nendlessly optimistic Хару Урара\nbegins.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Finish! ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Trainer, I ran so well today, all the way\nto the\nfinish line!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Congratulations on beating Т.М. Опера О!"
+            ]
+        },
+        {
+            "text": "Thank you. I only got there first because\nof your\nhelp.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "W-waaait?! Is this really okay? Shouldn't\nvictory\ngo to the main character instead?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Drat! I foiled myself! Was I too\nconcerned with\nrunning in my Overlord\npomp?! Just when did\nyou—",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "They both seem appalled. However, a\nrace is a\nrace—and a win is a win."
+        },
+        {
+            "text": "The results surprised me, but...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Even though it was just a fluke, I feel a\nlittle more\nconfident knowing that I <i>can</i>\nbeat Opera O.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll be okay, Trainer! I can handle any\ndistance,\nand any senior G1 race!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The spring Tenno Sho plaque imbues\nconfidence\nin Мэйсё Дото."
+        }
+    ]
+}

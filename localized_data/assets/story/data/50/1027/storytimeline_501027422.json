@@ -1,0 +1,21 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The race is over... Мэдзиро Райан's\nimpassioned\nshouts of victory echo\nthroughout the course.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Despite having lost, Мэдзиро МакКуин\n\ncompliments Ryan on her win, declaring\nthis the\nbeginning of a golden age for\nthe Mejiro family.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With this great achievement, the Kikuka\nSho\ndraws to a close.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our next race is the Arima Kinen. Mejiro\nRyan\nmust now prepare for a race where\nmany new,\nstrong opponents await.",
+            "name": "Монолог"
+        }
+    ]
+}

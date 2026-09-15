@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After her day off, I greet Уиннинг Тикит\nin the\ncentral plaza...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> Oh, hey, Trainer... good\nmorning...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You look sleepy. What did you do yesterday?"
+            ]
+        },
+        {
+            "text": "Well, I enjoyed my day off as much as I\ncould.\nAnd I had looots of things I\nwanted to do...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So I did all those things in a single day!\nReading\nmanga, watching movies, eating\ntasty food, going\ncycling—everything!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It was sooo much fun. But then...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Before I knew it, it was morning again...\n<i>Yawn...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It looks like Ticket really enjoyed her\ntime off—so\nmuch that she didn't get a\nsingle wink of sleЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

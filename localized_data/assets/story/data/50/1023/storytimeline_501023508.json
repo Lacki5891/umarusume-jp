@@ -1,0 +1,26 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I've been so absorbed in my work that I\nlose track\nof time. As I rush back home, I\nrun into someone\nfamiliar..."
+        },
+        {
+            "text": "Oh? What are you still doing here,\nТренер?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Don't tell me you've been out here training this\nwhole time."
+            ]
+        },
+        {
+            "text": "I just can't stop thinking about the race...\nI\nthought running would take my mind\noff of it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But... no such luck. I'm not sure what else\nto try...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She seems exhausted from her race... It\nmight be\ntime to adjust her schedule so\nshe can take a\nbreak."
+        }
+    ]
+}

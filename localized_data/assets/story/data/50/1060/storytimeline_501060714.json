@@ -1,0 +1,113 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ooouch...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Haha, looks like I messed up pretty\nbadly. The\ndoctor was impressed I wasn't\ncrying from the\npain.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, if I was gonna cry, the doctor's\nscary face\nwas waaay more likely to\nmake that happen.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Bwahaha... haha, ha...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Umm... You were supposed to laugh at\nthat.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sorry... It's my fault you got hurt..."
+            ]
+        },
+        {
+            "text": "Come on, Trainer. Is your overwhelming\npositivity\non vacation?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...We have another race coming up too.\nIf I don't\npush myself here, then where\nelse?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You know what we have to do now,\nright?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Everything possible to help you heal!",
+                "Can you... really keep going?"
+            ]
+        },
+        {
+            "text": "You know what we have to do now,\nright?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Everything possible to help you heal!",
+                "Can you... really keep going?"
+            ]
+        },
+        {
+            "text": "What? No, I'm saying I should push\nmysel—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Not with an injury like that, you're not!"
+            ]
+        },
+        {
+            "text": "A-all right, all right! Fine! No need to go\nall angry\nparent on me!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ughhh, it wasn't supposed to be like\nthis... I said\nway too many things that are\nout of character.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Of course! I'll be right as rain.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ngh! O-ow!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Right as rain, my foot!"
+            ]
+        },
+        {
+            "text": "Haha... Why does it have to hurt now? I\nlook so\nlame.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "If I stop here, it'll just push my goals\neven further\naway.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "We'll get back on track when you recover."
+            ]
+        },
+        {
+            "text": "Heh, there's the confidence I'm used to.\nI'm glad\nyou're back to your usual self.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All righty then! Let's quickly get this\ninjury healed.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "With renewed motivation, Найс Нэйчер\nworks on\nher recovery. Soon after, she\ngets back to\ntraining.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Найс Нэйчер's injury is serious, so I\ndecide that she\nshouldn't push herself\nright now and make her\ntake some time\noff.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although she seems unhappy with the\ndecision,\nНайс Нэйчер gives in and\ndecides to focus on her\nrecovery.",
+            "name": "Монолог"
+        }
+    ]
+}

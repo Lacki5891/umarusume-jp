@@ -1,0 +1,105 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I escort Мэйсё Дото to the infirmary\nafter she\nsuffers an injury в тренировке.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sorry! I'm so sorry! I'm always causing\nyou\ntrouble... Oogh.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I promise I'll be back to training as soon\n\nas—Ouch!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "If you're in pain, let's call it a day."
+            ]
+        },
+        {
+            "text": "B-but... I won't have any confidence to\nspare if I\nstop now...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I can still keep going! This injury won't\nh-hold me\ndown!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'd rather see you rest right now.",
+                "Do you want to try heading back for training?"
+            ]
+        },
+        {
+            "text": "I can still keep going! This injury won't\nh-hold me\nback!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'd rather see you rest right now.",
+                "Do you want to try heading back for training?"
+            ]
+        },
+        {
+            "text": "But, I really can't stand to stay put... If\nthe pain\ngets too bad, I'll stop. So,\nplease!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Training now might slow down the healing\nprocess."
+            ]
+        },
+        {
+            "text": "W-well...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "All right... I'll get some rest.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Guh... I've made a big mess of things\nwith this\ninjury... I'm so sorry.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Y-yes, of course! Thank you so much,\nTrainer!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Promise me you won't push yourself."
+            ]
+        },
+        {
+            "text": "I p-promise! I'll stop if the pain gets too\nmuch!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Careful now... It should be fine if I don't\nuse too\nmuch strength.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "O-owowowwww!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "That was a fraction of my strength... Urk,\nI can't\nwalk like this.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh... I... think I can manage still. With\njust a bit\nmore effort, maybe—",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I want you to take it easy!"
+            ]
+        },
+        {
+            "text": "Y-yes! That's right. I have that... promise\nto keep!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Exerting any level of force seems to be a\ntaxing\nendeavor, and her injury only\nworsens.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэйсё Дото swallows her\ndisappointment,\nchoosing to rest until\nshe's fully healed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэйсё Дото keeps her strength in\ncheck,\nsuccessfully returning to practice!",
+            "name": "Монолог"
+        }
+    ]
+}

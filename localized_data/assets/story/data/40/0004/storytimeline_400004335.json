@@ -1,0 +1,198 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "After class, I spot Эйшин Флэш and Daiwa Scarlet\nin front of the school building. They seem\nperturbed."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nooo... It looks like it's about to rain any second,\nFlash."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "This is concerning. If we go looking for umbrellas\nnow, we'll be late by more than five minutes.",
+      "choice_data_list": [
+        "You can use this umbrella if you like."
+      ]
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Huh?"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "I appreciate your generous offer... but won't you\nget soaked by the rain instead?",
+      "choice_data_list": [
+        "I've got a folding umbrella with me too.",
+        "I've got a folding umbrella with me too."
+      ]
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Then I suppose I have no reason to refuse. Thank\nyou for this."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "If you're free, would you like to come along and\nwatch the tryouts with us?",
+      "choice_data_list": [
+        "You're going to the tryouts?"
+      ]
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Yes. I have an important matter scheduled for\ntoday. Come, let's go to the racecourse."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh no! It started raining!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Move in closer, Scarlet. Otherwise your shoulder\nwill get wet."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, um... Thank you."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hehe... Sharing an umbrella like this feels a little\nembarrassing."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Scarlet, your shoulder is still protruding beyond\nthe umbrella by three centimeters. Please come\ncloser to me."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "O-okay... Ahaha... Is it hot today or is it just me?"
+    },
+    {
+      "name": "Monologue",
+      "text": "The two of them draw close under the umbrella\nand begin stepping in unison."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "The rain has eased up. Thank goodness it was\nonly a passing shower."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah! The race is about to start, Flash!",
+      "choice_data_list": [
+        "So, what was that important matter you\nmentioned?"
+      ]
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "One of the younger students that Scarlet and I\nhave grown close to is competing in today's\ntryouts."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "She's quite dear to us, so we came to support her.",
+      "choice_data_list": [
+        "That really is important!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I wonder if she'll be okay... Do you think she's\nnervous?!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "The only thing we can do at this point is cheer her\non. Let's have faith in her."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah! This is it!\nDo your best out there!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, the race begins."
+    },
+    {
+      "name": "Monologue",
+      "text": "Even beneath the overcast sky, the atmosphere is\ncrackling with energy. Sparks fly as the talented\nyoung racers bolt down the turf."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Work those legs! Focus on your lap time! Maintain\nyour pace!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Stay aware of your surroundings! Come on! Don't\ngive in! Run with all you've got!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The racer they're cheering for reaches the front of\nthe pack early on and maintains a steady pace\nthroughout."
+    },
+    {
+      "name": "Monologue",
+      "text": "And in the end..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hooray! She did it! She won!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Fantastic! She was amazing! That race played out\nperfectly for her!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Woo! She really pulled it off! This calls for a\ncelebration!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Эйшин Флэш and Daiwa Scarlet are so overjoyed\nit's as if they won the race themselves."
+    },
+    {
+      "name": "Monologue",
+      "text": "I sense an irreplaceable bond in the feelings they\nshare for the young Umamusume.",
+      "choice_data_list": [
+        "Congratulations!"
+      ]
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Hehe... Thank you! However, those words would\nbe better directed at our young victor.",
+      "choice_data_list": [
+        "Looks like you've got yourself a new rival!",
+        "Looks like you've got yourself a new rival!",
+        "Let's arrange a big celebration for today."
+      ]
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Hehe... Thank you! However, those words would\nbe better directed at our young victor.",
+      "choice_data_list": [
+        "Looks like you've got yourself a new rival!",
+        "Looks like you've got yourself a new rival!",
+        "Let's arrange a big celebration for today."
+      ]
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "So it seems. We'll have to stay on our toes once\nshe has a trainer of her own."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I won't lose! Not to her, or to you, Flash!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Yes, you're right. I'll have to cook up all of her\nfavorite food."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I'll help out, too! Oh, why don't we bake a cake\ntogether? I'm sure she'd love it!"
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Hehe. I look forward to the day we can all race\ntogether on the track."
+    },
+    {
+      "name": "Эйшин Флэш",
+      "text": "Hehe. Let's bake the most delicious treat we\npossibly can."
+    }
+  ]
+}

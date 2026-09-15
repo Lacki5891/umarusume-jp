@@ -1,0 +1,220 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the day before the Satsuki Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> Phew.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yeah. My legs feel nice and light.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Seems like the regimen Trainer's put\ntogether is\ndoing me good. Probably.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(I could do without all the damn\nnagging,\nthough.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All right, all that's left is a quick\ncooldown and...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Scratch that. I think I'm overdue for a\nvisit to my\nfavorite spot.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Phew...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(This place is always so peaceful... It\nnever fails to\ncalm me down.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Maybe 'cause no one's here. All people\never do\nis make fun of me.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Short, spineless, and weak they'd say.\nNot a\nsingle redeeming feature. Like I\nwas practically\nwearing a sign telling\npeople to bully me.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(It doesn't even matter if I'm on the turf\nor not.\nNo one lets me just live my life.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Enough about that. They can go ahead\nand say\nwhatever they want.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(I'll make them eat their words once they\nsee what\nI'm capable of.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I should head home and take a break. I'll\nneed the\nrest so I can win tomorrow.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(No... I <i>will</i> win. I have to.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(The only way I can get people to\nrespect me is\nthrough racing!)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Um, excuse me...",
+            "name": "???"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "A voice suddenly calls out to Narita\nTaishin, and\nshe spins around in surprise.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're Нарита Таисин, right? The one\nrunning in\nall those races...",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "A redheaded girl, as small as Narita\nTaishin,\nstands before her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yeah, what of it?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The G1 race tomorrow... What's it called\nagain?\nThe Satsuki Sho? You're running\nin it, aren't you?",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "You're still doing it even though the top\ntwo are\ngoing to be there. And they're\nstronger and have\nbetter physiques.",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "Excuse you? What are you getting at?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Nothing. I'm just stating the obvious.",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "I mean, come on! No one's rooting for\nyou! No\none thinks you can win!",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "Doesn't that make you want to give up?\nMost\npeople would...",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "Not really?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No one's ever expected me to win. Not\neven\nonce.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I just want to make everyone regret how\nthey've\ntreated me. Everyone else has a\n\"dream\" or\nwhatever, but me? Mine's\npractically revenge.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But who cares? Even if I'm being driven\nby petty\nrevenge, why should I give up\non my goal?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm going to see this through. I'm going\nto show\nthem what I can do. That's it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...!",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "The red-haired girl bites her lip, glares\nat Narita\nTaishin, and runs off. Her legs\nare wrapped tightly\nin braces meant for\nsports.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm going to win. I have to.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(She looks more determined than ever!)"
+            ]
+        },
+        {
+            "text": "Нарита Таисин's fighting spirit is burning\nfiercely.\nShe's ready.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here I go.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ticket! Let's see that amazing final dash\nof yours\ntoday!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Бива Хаяхидэ! I came to see you wiiiin!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Can you hear that, folks? Just the sight\nof them is\nmaking the crowd go wild!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "This is it. Everyone at the Satsuki Sho\nhas their\neyes on the showdown between\nthe top two,\nУиннинг Тикит and Biwa\nHayahide!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Listen to those idiots making a huge fuss\nover\nnothing...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, I'll show them all what <i>I'm</i> made of!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...!",
+            "name": "The Two"
+        },
+        {
+            "text": "Are you feeling it too, Ticket?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah! I'm all jittery and tingly!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "They call us the top two, but we know\nbetter than\nanyone that that's not\naccurate.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Taishin! I'm not gonna lose! I'm gonna\ngive it all\nI've got!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And thus begins the Satsuki Sho!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Well, I placed. I guess my hard work <i>did</i>\npay off,\nbut...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Is it too ambitious of me to have wanted\nfirst? Be\nhonest, what do you think\nabout today's result?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Placing is an impressive feat too!",
+                "Let's make sure we get first place next time!"
+            ]
+        },
+        {
+            "text": "Is it too ambitious of me to have wanted\nfirst? Be\nhonest, what do you think\nabout today's result?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Placing is an impressive feat too!",
+                "Let's make sure we get first place next time!"
+            ]
+        },
+        {
+            "text": "Are you being serious? I'm kinda pissed I\ndidn't\nwin, not gonna lie.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "We'll win next time!"
+            ]
+        },
+        {
+            "text": "Haha, you sound way too confident, but\nI'm glad\nyou have so much trust in me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You're right, the way I ran today made\nme feel\nlike I can actually do better.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Whoa, don't yell like that.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I'm relieved. You think I can do\nbetter too.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I can't be satisfied with just placing. I\nwant\neveryone to see me as a strong\nrunner.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Then we'd better get straight back to\npracticing!"
+            ]
+        },
+        {
+            "text": "There's that mad enthusiasm again... But\nyou're\nright. I'm going to keep on, no\nmatter how\ngrueling the fight.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Soon enough, I'll be an even better\nversion of\nmyself!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay! Now I'm pumped. I'll get it next\ntime!",
+            "name": "Голд Сити"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as I approach the front gate of\nthe\nacademy, I catch a glimpse of\nsomeone rushing\ninto a taxi and\nspeeding away.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i> Hey, you! Have you seen a\nreporter\npass by?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Someone was hurrying away in a taxi."
+            ]
+        },
+        {
+            "text": "Grrr, so they've escaped...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What happened?"
+            ]
+        },
+        {
+            "text": "That reporter was here to photograph\nour\ntraining, but the fool used the flash!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I explicitly forbade its usage before we\nstarted.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hmph. I'll call the publisher later and file\na\ncomplaint.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "After chasing down that reporter, Air\nGroove\nlooks a bit worn out.",
+            "name": "Монолог"
+        }
+    ]
+}

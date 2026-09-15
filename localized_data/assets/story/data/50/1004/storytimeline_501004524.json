@@ -1,0 +1,169 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At the end of training one day, Special\nWeek\ncomes to Марузенски to learn how\nto cook.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why hello there, Spe! I'm so happy to\nsee you,\nbut what brings you here all of\na sudden?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Actually, Tazuna recently showed me a\npicture of\nsome food you made!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It looked soooo delicious, I couldn't get\nit out of\nmy mind...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I want to make wonderful dishes like\nthat, too!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Heehee, so that's it. Well, you certainly\ndo\nappreciate good food, Spe! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, leave it to me. I'll drop some\nknowledge on\nyou!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now, what shall we make...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Maybe a wholesome, filling soup that\ncan be\nmade in a jiffy on a busy\nmorning...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Or how about a slow-cooked, savory\nstew?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Those both sound amazing! I can't\ndecide!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Why don't <i>you</i> decide, Тренер? I'll even\nlet you\nhave some when it's done! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "A filling soup that can be made in a jiffy!",
+                "A slow-cooked stew!"
+            ]
+        },
+        {
+            "text": "Why don't <i>you</i> decide, Тренер? I'll even\nlet you\nhave some when it's done! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "A filling soup that can be made in a jiffy!",
+                "A slow-cooked stew!"
+            ]
+        },
+        {
+            "text": "All righty, then! Let's learn to whip this\nthing up in\nfive minutes! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "F-five minutes?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Okay! I'll do my best!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Add broth and water to the pot and\nthen chop\nthe other ingredients before it\ncomes to a boil!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All of them?! The carrots, onions,\nmushrooms,\n<i>and</i> celery?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It takes about two and a half minutes to\nboil, so\nlet's see those slice and dice\nskills!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh gosh!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Soon, the colorful vegetable soup is\nready!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well done! You managed to do it within\nfive\nminutes! Great work, Spe!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yaaay, I did it! And it smells so good!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ehehe, I guess I've become a little like\n\nМарузенски now... ♪",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe! Thanks, Spe! I feel like teaching\nyou helped\nme improve too! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Right on! Let's cook a savory stew slowly\nover five\nhours!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Five hours?! O-okay! I'll do my best!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Let it simmer ever so slowly over low\nheat. And\nmake sure to skim off any fat\nthat bubbles up to\nthe top.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Slowly... Ever so slowly... I'm getting\npretty\nhungry.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Heehee! You have to resist the\ntemptation to turn\nup the heat. A\ndelicious stew can't be rushed!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wow, it smells so good! Isn't it almost\nready?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, it <i>is</i> about time! ♪ Now that\neverything's\nbeen cooked, switch pots\nand add water and\nseasonings...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Then put the lid on and let it simmer for\nanother\ntwo hours!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Two more hours?!</i> I can't wait that long!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Eventually, the flavors mix and deepen,\nand the\nscrumptious stew is ready!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mmm! It smells so good! I wanna eat it\nright now!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Heehee! I don't think I can resist any\nlonger,\nmyself. Let's chow down! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The slow stew that Марузенски shows\nSpecial\nWeek ends up being luscious\nand full of flavor!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The quick soup that Марузенски shows\nSpecial\nWeek ends up being very\nnutritious and tasty!",
+            "name": "Монолог"
+        }
+    ]
+}

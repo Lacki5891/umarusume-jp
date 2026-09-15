@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey... there...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп doesn't seem like herself\ntoday.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "text": "You'll never believe this...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Mystery Adventures</i> got canceled! It was\nmy\nfavorite show!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now they'll never feature me as one of\nthe seven\nwonders of the world...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп takes a while to recover from\nthe\ndevastating news.",
+            "name": "Монолог"
+        }
+    ]
+}

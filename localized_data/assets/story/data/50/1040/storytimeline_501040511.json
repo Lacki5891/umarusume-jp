@@ -1,0 +1,193 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way to lunch with Голд Сити, we\nmeet\nЮкино Бидзин in the hallway."
+        },
+        {
+            "text": "<i>Grrrumble!</i>"
+        },
+        {
+            "text": "Gosh, I'm starv'n...",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "That was quite a stomach growl."
+            ]
+        },
+        {
+            "text": "What's wrong, haven't you had lunch?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, you see... The other day, I went to\na sweets\nbuffet with a friend...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "After we finished, my friend said she ate\na bit too\nmuch, so she started this diet.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Then I noticed my skirt was feeling a\nlittle tight,\nso I figured I should join\nher... Hehe.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I see. But that doesn't mean you should\nskip\nmeals.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "In fact, you came just at the right time,\nYukino.\nFollow me!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So, are there any types of food you\ndon't like?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Not particularly, but... um, City? This is\nthe\ncafeteria...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "That's right. Trainer and I were just\nabout to eat\nlunch, so you should join us\ntoo.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "B-but...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Eat a balanced meal and you'll be fine.\nFirst up,\nyou should include some\nfiber-rich vegetables...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, and soy products are good too. Do\nyou like\ntofu and natto?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Y-yeah, I like 'em both!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Oh, there's grilled fish on today's menu.\nDo you\nlike fish?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I love fish!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "But, um, do you really think I should be\neating\nthis?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "It's fine. Oh, you should eat your\nvegetables first.\nIt'll slow down the\ndigestion and absorption\nprocess.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You know, skipping meals tends to\nbackfire—you\nend up eating even more\nlater to compensate for\nthe lack of\nenergy.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Plus, if you don't get enough nutrients,\nit's going\nto affect your skin too.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Your skin is so beautiful and smooth, it\nwould be\na shame if you started\nbreaking out. Got it?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ahhh! I-I'll do m'best!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Okay, I'm gonna eat well as I can!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I'm always impressed by the beauty\nperspective\nthat Голд Сити brings."
+        },
+        {
+            "text": "Maybe she can help me out with some of\nmy own\nbeauty troubles...",
+            "choice_data_list": [
+                "You know... I'm actually trying to build more\nmuscle...",
+                "Do you know what I can eat to feel full?"
+            ]
+        },
+        {
+            "text": "Huh? You care about that kind of thing\ntoo?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Well, I want to look good for those interviews!"
+            ]
+        },
+        {
+            "text": "Hmm, I see. Let me think...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay—how's this for an idea? Just for\ntoday, I'll\nbe your trainer and you can be\nthe trainee.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Now give me ten more! Don't give\nup—you got\nthis!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Raaagh!"
+            ]
+        },
+        {
+            "text": "Strengthening the lats will improve your\nposture,\nwhich, of course, will make you\nlook better in\nphotos.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But you know all that already. You're a\ntrainer\nafter all.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "O-of course!"
+            ]
+        },
+        {
+            "text": "Guess I can just watch, then.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...This is so weird. A trainer being trained\nby an\nUmamusume.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, I'd like to know that too!",
+            "name": "Юкино Бидзин",
+            "choice_data_list": [
+                "I tend to get kind of hungry really often..."
+            ]
+        },
+        {
+            "text": "Well, my usual tactic is to snack on nuts\nif I get\nhungry...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But tell you what—I'll make a list to give\nboth of\nyou later. I got it from an\nexperienced model\nwhen I was first\nstarting out.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "A diet list for professional models?!"
+            ]
+        },
+        {
+            "text": "Whoooa, but isn't that classified\ninformation?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "It's not that special. You can find the\ninformation\non the list just about\nanywhere.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Since I don't have the list to give you\nboth now...\nwell, I'll just have to pick\nyour foods for you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Thanks to the very satisfying menu she\nserved me,\nI manage to get my\nafternoon's work done\nsmoothly."
+        },
+        {
+            "text": "Over the following months, Голд Сити\nhelps me\nstick to the regimen until I start\nto see results."
+        }
+    ]
+}

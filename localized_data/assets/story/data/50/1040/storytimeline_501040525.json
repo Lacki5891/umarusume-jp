@@ -1,0 +1,65 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The other day, Голд Сити's manager and\nI got\ntogether to coordinate her\nschedule. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Lately, Голд Сити has been busy every\nsecond of\nthe day. I imagine it's\nphysically taxing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sorry, Trainer! I overslept! It's already\npast my\nreserved time on the machine,\nbut maybe we can\nstill get a spot?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let's hurry and check!"
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well... so much for that idea. There are\nno time\nslots left.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm sorry. Here I am, making you waste\nyour time\ntoo.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're probably just exhausted from all the\nrecent work."
+            ]
+        },
+        {
+            "text": "Yeah, but I'm losing out. It's me who\ndecided I\ncould do all this—running and\nmodeling.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Literally, how can I not even take proper\ncare of\nmyself? I <i>have</i> to get over this\nfatigue!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Don't be so hard on yourself. You'll just wind up\nmore exhausted."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Besides, after that extra rest, you'll be able to\nwork harder в тренировке!"
+            ]
+        },
+        {
+            "text": "You're right. I'll only be wasting time if I\nspend it\nfeeling sorry for myself.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay. I'm back on my feet. What have\nyou got for\nme today, Тренер?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Shortly after, we manage to find an open\ntraining\nfacility to use.",
+            "name": "Монолог"
+        }
+    ]
+}

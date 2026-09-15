@@ -1,0 +1,93 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A pile of letters arrive for Каррен Тян.\nThey\nappear to all be fan letters.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! These are all for me? I'm so\nhappy! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hey, Big Bro. Is it okay if I read my\nletters here?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hey, Big Sis. Is it okay if I read my\nletters here?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I think there might be a few too many to\nbring\nback to my room.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I imagine three boxes full of fan letters\nwould\nindeed take up a bit of space in\nher dorm.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "Thanks. ♪ Then I'll take my time and\nread them\none by one. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "There are so many letters. Reading them\nall is\ngoing to take some time. I should\nget her a drink.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I boil water and make her some tea.\nWhen I try to\ngive it to her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "All of the fan letters are here in this\nroom, right?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "text": "All of the fan letters are here in this\nroom, right?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "text": "Okay. I guess that's the last one, then.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You already read all of them?!"
+            ]
+        },
+        {
+            "text": "Yeah. They're letters from my fans, after\nall.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "If I were my fan, I'd want my letter read\nas soon as\npossible.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hehe. I should make an Umastagram\npost saying\nthat I've read them all. Hm...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"#ReplyPost #ThankYouEveryone\"\n\n\"#HarukosMom #IllTryThatMassage\"\n\n\"#MrsSeisei\n#YouChangedYourPenColorLolol\"",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And so, Каррен Тян replies to her fans\nwith great\nspeed and detail.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I feel like I'm starting to understand why\nher fans\nlove her so much.",
+            "name": "Монолог"
+        }
+    ]
+}

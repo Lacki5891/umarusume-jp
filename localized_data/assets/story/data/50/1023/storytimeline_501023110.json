@@ -1,0 +1,110 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "My first three years with Бива Хаяхидэ\nhave\ncome to a close.",
+            "name": "Монолог"
+        },
+        {
+            "text": "These first three are crucial for an\nUmamusume.\nAs for how she's doing now\nthat the Arima Kinen\nis over...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's work on identifying my current\nproblems,\nTrainer.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Frankly, I need more experience. The\nsenior\nracers showed amazing\nresourcefulness during\nraces, and\nconsidering how intuition is derived\nfrom\nexperience...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "(She's still working on her calculations!)"
+            ]
+        },
+        {
+            "text": "Тренер? Are you listening?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Just because our first three years are\nover doesn't\nmean there won't be any\nmore races!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I can't exactly call this my \"winning\nequation\"\nuntil I can win every single\nrace I enter, after all.\nDon't you agree?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "She folds her arms calmly and stares at\nme. The\nway she carries herself is\nformidable indeed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is something wrong?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Let's move forward and keep winning more\nraces!"
+            ]
+        },
+        {
+            "text": "Heh... That goes without saying!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ and I are going over our\nplans for\nfuture training when someone\napproaches us...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Big Sis.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Brian.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I just came to tell you one thing. Next\ntime, I'll\nbeat you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And what if I don't let you?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'll do it anyway.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Mhm. I wouldn't expect anything less\nfrom you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, Sis.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "See you on the track.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yes, I'm looking forward to racing you\nagain!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The exchange between the two sisters is\n\nawkward... but their smiles sure do look\nalike.",
+            "name": "Монолог"
+        }
+    ]
+}

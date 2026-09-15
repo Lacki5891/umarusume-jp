@@ -1,0 +1,338 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm out to meet up with\nMatikanefukukitaru on\nmy day off,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gyahhhhh!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "F-finally! It really happened! I got ten\n\"great\nfortunes\" in a row from my fortune\nslip key chain!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "This racewear must be boosting my good\nluck! No\ndoubt about it!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You think your racewear helped?"
+            ]
+        },
+        {
+            "text": "Of course! With all these four-leaf\nclovers,\namulets, and good-luck charms,\nthis racewear is\npacked with fortune!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I was going to give it a spin around town\nto test\nout its power, but I think it's\nalready good to go!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'd like to put this overwhelming\nabundance of\nluck to good use today!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Maybe you could help someone out?",
+                "Give me some of that luck, please!"
+            ]
+        },
+        {
+            "text": "I'd like to put this overwhelming\nabundance of\nluck to good use today!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Maybe you could help someone out?",
+                "Give me some of that luck, please!"
+            ]
+        },
+        {
+            "text": "Ooh, that's a great idea! Now to find\nsomeone in\nneed of some help...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Sniffle...</i> Wh-what should I do?!",
+            "name": "Young Girl"
+        },
+        {
+            "text": "Whoa! I didn't think it'd be that easy!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Sob!</i> Where did he go?! Lucky! Where\nare you?!",
+            "name": "Young Girl"
+        },
+        {
+            "text": "After asking the young girl a few\nquestions, we\nlearn that she accidentally\nlet go of her pet dog's\nleash during their\nwalk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With a name like <i>Lucky,</i> this can only be\nthe work\nof fate!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "This definitely sounds like a job for you."
+            ]
+        },
+        {
+            "text": "Yeah! Матиканэфукукитару is on the job!\nI'll find\nyour little Lucky in no time!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "R-really?!",
+            "name": "Young Girl"
+        },
+        {
+            "text": "You can count on it! Luck follows me\nwherever I\ngo, so little Lucky should be\nno different!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Dogs get along with other dogs, and I\njust happen\nto have a lion-dog charm in\nmy bag! You know,\nlike the statues you\nsee at all the shrines!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Now to commence the divination! I'll just\nput this\nhere, and... Woof, woof! Bow\nwow! Shiba Inu,\nChow Chow!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Pitter, patter... Chomp!</i>",
+            "name": "Shiba Inu"
+        },
+        {
+            "text": "Gyahhhhh! Hey, gimme back my\nlion-dog!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "A Shiba Inu suddenly runs up, snatches\nup the\nlion-dog charm, and scampers\noff.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Wait! That dog has a leash on it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What if that's Lucky?! Let's hurry and\nfind out!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "We give chase, following Lucky until he\nplants\nhimself down just outside of a\nshopping mall.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... If we get any closer, Lucky might\nrun into\nthe mall and cause a scene...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Do you have any animal-summoning charms?"
+            ]
+        },
+        {
+            "text": "Hmmm... I have a spell that can project\nmy\nthoughts telepathically, but I've\nnever tried it on\na dog before...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I know you can make it work with all that lucky\npower you have!"
+            ]
+        },
+        {
+            "text": "Th-that's right! All the luck in the\nuniverse is with\nme!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hnnngh! Doberoo, mastifoo, malamoo,\nho...\nLabradoo, rottweiloo, spanieloo,\ngo!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I can't say if the telepathy worked, but\nabout ten\nminutes later, Lucky walks\nclose enough for us to\ngrab hold of his\nleash.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Whine...</i>",
+            "name": "Lucky"
+        },
+        {
+            "text": "Lucky! You're back! Thank you so much\nfor the\nhelp!",
+            "name": "Young Girl"
+        },
+        {
+            "text": "You're welcome. Hehe, guess we were\nquite lucky\nin finding him, huh?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You are the Umamusume goddess of luck, after\nall."
+            ]
+        },
+        {
+            "text": "Really?! That's so cool!",
+            "name": "Young Girl"
+        },
+        {
+            "text": "Uh, well... Heh, hehehe! I wouldn't go\nthat far...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Praise be to the great Fukukitaru!"
+            ]
+        },
+        {
+            "text": "Praise be! Umm... Fukukitaru!",
+            "name": "Young Girl"
+        },
+        {
+            "text": "Hehe! Well, if you ever need any more\nhelp, leave\nit to me and my super-lucky\npowers to work\nthings out!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Maybe I went a little too far with that\nbit... How\nembarrassing...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's just... I was so happy hearing all\nthose\ncompliments. Hehe.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Anyway, I'd say this outfit's lucky powers\nare now\nofficially certified! It's definitely\ncoming with me\nfor my next race!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What?! You want some of my power?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Please, I beg you! Just a smidge!"
+            ]
+        },
+        {
+            "text": "Hm... Even if you beg, I don't really\nknow...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I beseech thee, Goddess Матиканэфукукитару!"
+            ]
+        },
+        {
+            "text": "Hehe... Now, how could I say no to\nthat?! Your\nwish is my command!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Okay! I'll just sprinkle a little bit of my\npower on\nthis charm...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Nom, nom, hum, hum, doopee-dee!\nThere you go!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "This charm here is a special one. With\nthis, you'll\nalways end up with a\nraffle-winning popsicle stick\nafter\nfinishing your icy treat!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What an oddly specific power.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...All the same, I take my newly imbued\ncharm for\na test-drive and buy myself a\npopsicle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You won! Congratulations! Hehe, looks\nlike my\ncharm's working just as\nadvertised, huh?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Woo! Another winner!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "And... another one?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "There's no way we only have winners...\nThat would\nbe crazy...",
+            "name": "Staff"
+        },
+        {
+            "text": "Amid the confusion, a man wobbles into\nthe store\non the verge of collapse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Please... give me... a popsicle...",
+            "name": "Man in Ragged Clothes"
+        },
+        {
+            "text": "Uh-oh... I'm sorry, but... we kinda just\nbought all\nof the popsicles...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You what?! Gyahhh! <i>Thud.</i>",
+            "name": "Man in Ragged Clothes"
+        },
+        {
+            "text": "Eek! A-are you okay?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Trainer! Hurry, give him one of your\npopsicles!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Phew... I thought I was a goner. Please,\nlet me\nrepay your kindness...",
+            "name": "Man in Ragged Clothes"
+        },
+        {
+            "text": "In return for a popsicle... Yes, this will\ndo.",
+            "name": "Man in Ragged Clothes"
+        },
+        {
+            "text": "Here, take this box. Thank you, and\nfarewell.",
+            "name": "Man in Ragged Clothes"
+        },
+        {
+            "text": "There he goes... What do you think is\ninside?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Let's open it and see."
+            ]
+        },
+        {
+            "text": "Wait a second, Trainer! What if this is a\ntrap?!\nLike a Pandora's box situation!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "No way! A shiny blue smartphone?! And\nit's\nunopened!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Whaaat?! I-it's the newest model too!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Don't tell me... The charm isn't limited to\njust\npopsicles, but anything that begins\nwith the letter\n<i>p,</i> like \"phone\"!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, there is more to be done!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "It only took one charm to get all this!\nJust\nimagine what would happen with\ntwo charms, or\neven three!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "This is a huge chance for us! Let's get a\nwhole\nboatload of charms for you!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's see... If you have this charm, you'll\nnever\nmisplace your loose change! And\nthis one helps\nyou split disposable\nchopsticks perfectly!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Ugh, this is way too much trouble! Let's\njust get\n'em all!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I trudge through town like some kind of\n\ndecorated officer, covered head-to-toe\nin lucky\ncharms. I'm not quite sure what\nmy\naccomplishments are, however.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You never know, maybe we'll meet that\ngirl there!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

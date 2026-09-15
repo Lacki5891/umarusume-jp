@@ -1,0 +1,166 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "And the victor is none other than Narita\nBrian!\nAgain, that's Нарита Брайан, the\nBeast!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "text": "Хиши Амадзон really ran her heart out.",
+            "name": "Fan A"
+        },
+        {
+            "text": "Yeah, but still... Нарита Брайан is on a\ncompletely\ndifferent level.",
+            "name": "Fan B"
+        },
+        {
+            "text": "If that was the best Хиши Амадзон could\ndo after\nthat whole speech about being\n\"ready,\" I dunno if\nshe'll ever overtake\nBrian.",
+            "name": "Fan B"
+        },
+        {
+            "text": "Hmm...",
+            "name": "Fan A"
+        },
+        {
+            "text": "Dang it!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I gave it my best shot! My runnin' was\nnothing\nshort of perfect! And yet...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Argh! This sucks!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "In stark contrast to the Shuka Sho, Hishi\nAmazon\nleaves the track without any\npost-race interviews."
+        },
+        {
+            "text": "She tells me she's going to pack her stuff\nand\nhead back early, and then she's\ngone."
+        },
+        {
+            "text": "Хиши Амадзон is tough, but still..."
+        },
+        {
+            "text": "I know how long she waited for this\nrace... and\nhow high the stakes were.",
+            "choice_data_list": [
+                "(Will she be okay?)"
+            ]
+        },
+        {
+            "text": "My worries get the better of me, and I\nrush back\nto the academy to go find her."
+        },
+        {
+            "text": "Grrraaaah!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm greeted by the sound of a familiar\nvoice the\nmoment I reach campus."
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "(It's Хиши Амадзон!)"
+            ]
+        },
+        {
+            "text": "I still don't have what it takes! And so\nwhat?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'll keep tryin' to catch up to her! I won't\nstop until\nI get to her level!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You never know how a race'll turn out\ntill you run\nit!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She charges up the incline, shouting\nwords of\nencouragement to herself.",
+            "choice_data_list": [
+                "(These words ring a bell...)"
+            ]
+        },
+        {
+            "text": "Nothing out there is impossible right\nfrom the\nget-go!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You never know the outcome of a match\ntill you\ngive it a try!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Wheeze... Pant...</i> Phew!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She said those very same things to me\nbefore I\nscouted her. It was her\nstraightforward honesty\nthat won me\nover.",
+            "choice_data_list": [
+                "(She hasn't changed a bit.)"
+            ]
+        },
+        {
+            "text": "No matter how many hurdles she faces or\nlosses\nshe suffers, she stays determined\nand unfettered\nby the fear of failure."
+        },
+        {
+            "text": "There's only one thing I can say to\nsomeone as\nstrong as her."
+        },
+        {
+            "text": "Okay, one more time!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Хиши Амадзон!"
+            ]
+        },
+        {
+            "text": "Wha?! Teach, when did you get here?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Let's get her next year!"
+            ]
+        },
+        {
+            "text": "Нарита Брайан is sure to show up at the\nArima Kinen\nnext year."
+        },
+        {
+            "text": "I tell Хиши Амадзон that we'll win next\ntime, for\nsure. If anyone can do it, it's\nher!"
+        },
+        {
+            "text": "Teach, you...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hehe... Yeah! Thanks!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Afterwards, we discuss our next steps.\n\nConsidering the aptitude she showed for\nmiles\nand medium-distance races during\nthe Tiara\ntour..."
+        },
+        {
+            "text": "We decide to make our next goal the\nOsaka Hai,\nfollowed by the Yasuda\nKinen!"
+        },
+        {
+            "text": "Hey, Teach? This could be my ego\ntalking, but...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna get first place in both of 'em. I\nwon't\nsettle for less!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "I've gotta step up to the challenge.\nOtherwise, I\nwon't have a chance against\nНарита Брайан. She's\none heck of a beast.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Together, we vow to win first place in\nboth races!"
+        }
+    ]
+}

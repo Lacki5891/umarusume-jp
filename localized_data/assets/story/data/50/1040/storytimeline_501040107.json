@@ -1,0 +1,206 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is Valentine's Day. For Голд Сити,\nbeing as\npopular as she is, it might be\nthe toughest day of\nthe entire year. Just\nin case, I decide to check in\non her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Trainer. What are you doing here?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're empty-handed?"
+            ]
+        },
+        {
+            "text": "What? Am I supposed to be carrying\nsomething?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I thought you'd have received some chocolates\nby now."
+            ]
+        },
+        {
+            "text": "...Ah, I see. For Valentine's Day.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I have. In the form of words—\"Happy\nValentine's\nDay.\"",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Words?"
+            ]
+        },
+        {
+            "text": "Yup. I told everyone not to give me any\nphysical\ngifts this year, even the\nstudents here.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Every year prior, I'd be bombarded with\ninsane\namounts of stuff combined with\nwhat I get from\nfans.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "A lot of people were thoughtful enough\nto give\nme stuff besides food, like\naccessories and\ncosmetics, but still, it\nwas just too much.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So for this year...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Happy Valentine's Day, City!",
+            "name": "Younger Student"
+        },
+        {
+            "text": "Thanks. I appreciate your\nthoughtfulness. Happy\nValentine's Day\nto you too.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Eep! Th-thank you so much!",
+            "name": "Younger Student"
+        },
+        {
+            "text": "How's that for an example? Words—just\nlike I\nasked.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Getting to see them and talk face to\nface makes\nme happier than any old gift.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "text": "Anyway, you giving me anything or\nwhat?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "If you're just here to waste time, I'd\nrather get\ngoing.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "...H-happy Valentine's Day?"
+            ]
+        },
+        {
+            "text": "Huh... It actually feels weird to hear it\nfrom you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Do you even, like, mean it? You know\nit's\nsupposed to be a gift, right?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Do I... mean it?"
+            ]
+        },
+        {
+            "text": "I mean... if that's all you got, it's fine.\nNot like you\ncan force someone into\nbeing thoughtful.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah, forget it. I'm just buzzing from all\nthe\nword-gifts I've already gotten today.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "HAPPY VALENTINE'S DAY!"
+            ]
+        },
+        {
+            "text": "Geez, way to blow my eardrums out.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Did that feel sincere?"
+            ]
+        },
+        {
+            "text": "Sure, maybe... but not because you were\nloud.\nThis isn't some yelling contest.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Anyway... I guess it's my turn then.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So... did you really just come here to\nbother me\nor what?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Bother you? I was just worried."
+            ]
+        },
+        {
+            "text": "About Valentine's Day? You mean it\nhasn't\noccurred to you I might be used\nto all this?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're right. You didn't need any help."
+            ]
+        },
+        {
+            "text": "That said... you came at the right time,\nactually.\nHere.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Happy Valentine's Day.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "For all the things you do for me.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Th-thanks!"
+            ]
+        },
+        {
+            "text": "What—are you nervous? Either way, it's\na skin\ncare set inside.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I put in a variety of brands for you to try,\nso let\nme know which one works best.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Afterwards, I'll send you a set of that\nbrand. I can\ncheck it for you too.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "...Thank you!"
+            ]
+        },
+        {
+            "text": "Why are you acting so shy all of a\nsudden? Is it so\nweird for me to give you\nstuff?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "No, it's not! I really like it."
+            ]
+        },
+        {
+            "text": "Good to hear, then.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "As I said, you do a lot for me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And I make you worry a bunch, so I don't\nreally\nthink this is enough to repay you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But... you know, it's the least I can do.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Try them, okay? I'll be able to tell if\nyou're not\nusing them.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Okay!"
+            ]
+        },
+        {
+            "text": "We'll see if you're as serious as you\nsound.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Happy Valentine's Day, Trainer.",
+            "name": "Голд Сити"
+        }
+    ]
+}

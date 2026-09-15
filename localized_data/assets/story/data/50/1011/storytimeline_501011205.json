@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Takarazuka Kinen is finally here.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems a great many people have\nturned out to\nroot for me today.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And that reporter who often writes\nabout me is\namong them.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Go show them the new you!"
+            ]
+        },
+        {
+            "text": "Yes, I am prepared.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "My determination and steadfast\nprogress... I'll\nshow them all what I can\ndo!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ready to go, Грасс Вандер leaves the\nwaiting\nroom beaming with energy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Urgh... I'm so, so nervous!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Spe. Let's have a good race today.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ah... Grass!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I-I'm so glad I ran into you before the\nrace!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, wow... Spe, you're stiff as a board.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Remember, only those recognized and\nelected by\nthe fans are able to run in the\nTakarazuka Kinen.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Plenty of people have come here to\nsupport you\ntoday, so why not take\npride in that?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ha ha... Yeah, I do really appreciate\ntheir\nsupport.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But, with you and the others here, I feel\nlike I'm\nso, so out of my league.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, it's that time already! We have to\ngo!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yes. Let's both go out there and give it\nour all.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You can accomplish anything if you put\nyour mind\nto it. But you'll accomplish\nnothing if you don't\ntry.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "My path is set!",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ohhh... I can't believe I hurt myself...\nThis is my\nbiggest Falco Fail ever! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "At this rate, I won't be able to race or\nperform...\nWhat do I do?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Well, I suppose maybe a <i>little</i> practice\nwon't\nhurt... ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Just some veeeery gentle choreography\npractice.\nThat'll be fine, right? Don't you\nthink, Тренер? ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You should take a break. Think of your fans.",
+                "Yeah, you can tough it out!"
+            ]
+        },
+        {
+            "text": "Oof... That's true... If my injury gets\nworse, my\nfans might be pretty sad...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Okay, point taken! I wasn't thinking\nenough like\nan Umadol. ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "<i>...Groan.</i> ☆ But still! I can't just sit\nhere! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's what I wanted to hear! ☆ Let's get\nto the\nstudio! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Wait—owww! That hurts... ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...Th-this injury might be more serious\nthan I\nthought! This could be really bad!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I knew you'd understand! ♪ That's why\nyou're my\ntrainer! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "One, two! ♪ One, two! ♪ Yep, lookin'\ngood! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm gonna keep on racing as an\nUmadol! ♪\nThere's no way I can let\nmyself stop! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "While Смарт Фалкон seems to understand\nthe\nsituation, she's still restless. I try my\nbest to calm\nher down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't allow Falcon to push herself too\nhard, so\nwe decide she needs to take\nsome time off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm relieved to see Смарт Фалкон already\nback on\nher feet and practicing her\ndance steps.",
+            "name": "Монолог"
+        }
+    ]
+}

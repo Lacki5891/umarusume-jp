@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I managed to run the entire race,\nTrainer!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You did it!"
+            ]
+        },
+        {
+            "text": "Now there is no doubt that I've returned\nto full\nhealth. All that remains is...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "To show everyone that I can run the\nJapan Cup\nperfectly.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Let's start getting ready for it!"
+            ]
+        },
+        {
+            "text": "Let's!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Flash? What's wrong?"
+            ]
+        },
+        {
+            "text": "This is the last of the Classic Triple\nCrown races...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I've seen firsthand how determined other\nracers\nare and learned about my\npersonal shortcomings.\nThese past six\nmonths have taught me a lot.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "That will all help you as you move forward."
+            ]
+        },
+        {
+            "text": "...Yes. That is the only thing we can\ndo—move\nforward.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

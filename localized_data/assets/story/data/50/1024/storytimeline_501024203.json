@@ -1,0 +1,96 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the Hanshin Daishoten has\narrived.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Let's go, Trainer.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm ready! My engines are fully revved!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Go and show them!"
+            ]
+        },
+        {
+            "text": "I will!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...You're finally here.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yeah, I am.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heehee. I'm a good girl who always\nkeeps my\npromises.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...You're a brat.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What?! You're so mean! How could you\nsay that\nto me?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You behave like a brat, so you're a brat.\nTch...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Later.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "W-wait!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You got more to say?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "As a matter of fact, I do!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Give it all you've got today!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "No holding back! I wanna beat you while\nyou're\nrunning as fast as you can.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's the best way for me to twinkle.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "As fast as I can, huh?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Cut the crap.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, that was totally uncalled for! I'm\nbeing\nserious!",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

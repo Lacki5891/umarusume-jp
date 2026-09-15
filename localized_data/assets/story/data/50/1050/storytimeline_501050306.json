@@ -1,0 +1,90 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Dammit!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Freaking hell! I can't believe I <i>lost!</i>\nArrrgh!)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishiiin!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin! You were amazing!",
+            "name": "Spectators"
+        },
+        {
+            "text": "We love youuu! You'll win next time!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "(They...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(They were watching me...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Sigh.</i> Happy-go-lucky dummies.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Phew...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Welcome back, Taishin!"
+            ]
+        },
+        {
+            "text": "Hmph. This isn't good enough for me. I\ncan't let\nthings end like this.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "Glad you're on board. Let's go back.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We need to double our efforts for the\nJapanese\nDerby!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "All right!"
+            ]
+        },
+        {
+            "text": "Taishin...",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "You were so amazing! If you can do it,\nthen\nmaybe... just maybe...",
+            "name": "Red-haired Girl"
+        },
+        {
+            "text": "Oh my! Are you all right? Why are you\ncrying?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Though she didn't win, Нарита Таисин's\npowerful\ndisplay seems to have won the\nhearts of many.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With the Satsuki Sho over, it's time for\nus to focus\non the Japanese Derby!",
+            "name": "Монолог"
+        }
+    ]
+}

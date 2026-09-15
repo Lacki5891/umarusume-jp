@@ -1,0 +1,207 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Сайленс Судзука shows up to\npractice\nwith someone at her side.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, Trainer. Spe was wondering if she\ncould train\nwith me.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That's right! I'm shadowing Suzuka to\ndiscover the\nsecret of her running\ntechnique!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "So, if it's okay, I'd like to join today's\ntraining\nsession! Pleeease!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "I don't see why not."
+            ]
+        },
+        {
+            "text": "Really?! Yes! Yaaay!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe, are you really that excited?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Wow Suzuka, that was awesome! You\nwere all,\n<i>fwoosh!</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "W-was I really?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oops! Sorry! Maybe I'm not explaining it\nwell\nenough...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "No, it's okay. It was very like you.\n<i>Fwoosh,</i> right?\nHehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Anyway, let's go for another run. Are\nyou still up\nfor it, Spe?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Of course I am!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "<I>Huff... Puff...</I>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Come on, Spe. I can still keep—",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You two realize it's already nighttime, right?"
+            ]
+        },
+        {
+            "text": "<i>Gasp!</i> Wh-when did it...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Um, Trainer. Can we run one last drill?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "One last sprint down a stretch, or maybe\none\ncounterclockwise lap around the\ntrack. Just one is\nenough, so please!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "All right, one stretch.",
+                "All right, one counterclockwise lap."
+            ]
+        },
+        {
+            "text": "Understood.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "All right, Spe. Let's give this last one our\nall.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh, you wanna go all out?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Now I'm feeling the rush! I won't let you\npull away\nthis time!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "And so, the two begin their serious\nmatch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<I>Huff... Huff... Huff... Huff...</I> Gyah!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Although Спешл Уик desperately\nfights to\nkeep up, in the end, Silence\nSuzuka comes out\nthe winner.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<I>Huff... Puff...</I> I... I knew you were strong,\nbut...\nthere's just no way I can compete...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That's not true, Spe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I felt your presence behind me the entire\ntime. I\ncouldn't shake you off at all.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You ran with all your might and pushed\nme to the\nlimit too.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you, Spe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Suzuka...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "All right! Let's do it.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm super excited I get to see your\namazing\nrunaway style from this close\nup!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe, you're making too big a deal of it.\nLet's\nenjoy our last bit of training for the\nday.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Phew. Thank you for everything today!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I should be thanking you. By the way,\nSpe, were\nyou able to discover the\nsecret of my running\ntechnique?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Huh? ...Secret?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ohhh, right! I was so absorbed in running\nwith\nyou, I completely forgot!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe. Oh, Spe...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I guess that means we have to do this\nagain\nanother time.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "R-really?! Please! Invite me to train\nanytime!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "And I really mean anytime! Even if I'm in\nclass!\nEven if I'm eating!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh! But I don't want to get in your way.\nYou\nprobably want to run on your own...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You don't have to worry, Spe. If I want\nto run\nalone, I'll run alone.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "In any case, we're roommates, aren't we?\nAfter all\nthis time, I couldn't turn you\ndown now.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Th-that makes me so happy!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It seems her relationship with Special\nWeek is\nhaving a good effect on Silence\nSuzuka.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems training with Спешл Уик has\nbeen a\ngood experience for Silence\nSuzuka.",
+            "name": "Монолог"
+        }
+    ]
+}

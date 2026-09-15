@@ -1,0 +1,390 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after training and picking up a\nfew\nthings in the shopping district...",
+            "name": "Монолог"
+        },
+        {
+            "text": "There appears to be a raffle stand over\nhere.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "I didn't expect to receive a raffle ticket\nalong\nwith my notebook purchase...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Do you have time in your schedule?"
+            ]
+        },
+        {
+            "text": "If we increase our walking speed back\nhome,\nthere should be no problem.\nAbove all...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I cannot miss this opportunity for an\ninteresting\nstory to tell my parents.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm excited to see what this Japanese\nway of\ntesting luck in a raffle has in store\nfor me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "What's got your eye, young lady?",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "If we consider what prize would be\nequivalent in\nvalue with my notebook,\nthen I suppose it would\nbe the single\ncarrot.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Really?! I don't see many folks like you,\nthat's for\nsure!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "I believe luck tests like this are more\nabout\nenjoying the experience than the\nprize. Now, here\nI go.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш gives the tumbler a spin with\na tense\nexpression on her face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The hot spring vacation!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wahnsinn!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "Thank you... But is this acceptable?\nShould I\nreally take it?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm sure that luck smiled on you today\nbecause\nyou're so humble. Don't just\nthrow that luck away!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "You're right. I gratefully accept this,\nthen.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hehe. Hot springs...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You like them?"
+            ]
+        },
+        {
+            "text": "I do. In fact, Germany is just as\nrenowned for its\nhot springs as Japan.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I had no idea!"
+            ]
+        },
+        {
+            "text": "The temperature is lower than those\nhere, so it's\npossible to spend an entire\nday relaxing in the\nbath.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Unfortunately, I haven't had an\nopportunity to\nvisit one since arriving in\nJapan.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So... I'm genuinely happy for this.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "It'll be nice to take it easy and soak in one,\nthen."
+            ]
+        },
+        {
+            "text": "Take it easy...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Trainer, may I entrust you with the\ncoupon?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why is that?"
+            ]
+        },
+        {
+            "text": "Alas, there is no room in my schedule for\na hot\nspring getaway at present.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Let me think... After everything is\nfinished next\nyear, I should have enough\nleeway to go.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That said, I cannot write it into my\nschedule in\norange ink as I am now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Therefore, could you give it back to me\nonce\neverything has concluded?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "text": "And that's how the hot spring vacation\nticket\ncame into my possession.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "By the way, why orange ink specifically?"
+            ]
+        },
+        {
+            "text": "When it is for something I am looking\nforward to\nin my schedule, I write it in\norange.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Is that part of German culture?"
+            ]
+        },
+        {
+            "text": "No, it is but a habit of mine from early\nchildhood.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "text": "I can tell you are laughing. Is orange a\nstrange\ncolor?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "No, I just think it's cute how you color code\nyour schedule."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Please give it a try for yourself\nsometime. You'll\ncome to understand\nhow rational this conscious\ndecision is\nonce you do.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You must understand—schedules are\nmeant to be\nwritten in minute detail. By\ncategorizing\neverything with colors, the\ninformation—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looks more delicious than I expected...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Do you like hamburger steaks?"
+            ]
+        },
+        {
+            "text": "But of course. The dish originated from\nGermany,\nafter all!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Therefore, I feel entitled to critique the\nflavor.\nLet's find out if it is worthy of\nbeing called a\n\"deluxe\" hamburger\nsteak.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "A few days later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Munch, munch...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...It <i>is</i> delicious!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...This is truth in advertising, I see. How\nmany\nkilograms is this, exactly?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Beats me... All I know is the box is\njam-packed, so\nyour guess is as good as\nmine.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "They completely disregarded their profit\nmargins\nwith these prizes. Well, I must\nreciprocate that\ngoodwill.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I know just what to do. I shall make\nRüblitorte\nwith these.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's Rüblitorte?"
+            ]
+        },
+        {
+            "text": "A delicious Swiss carrot cake. The flavor\nof carrot\nin it is rich and scrumptious.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My parents taught me a recipe for it\nwhich\ndoesn't require butter.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, we cannot possibly eat it all\nourselves.\nSo to remedy that...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Flash, the oven's all ready! ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "The batter is also complete. Let's bake\nfour whole\ncakes at a time.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just what I wanted. What a great result.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You sure are one in a million, young\nlady...",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Excuse me, but do you know any good\nrecipes for\nthis carrot?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "At the moment, I cannot think of one\nwhich would\nuse it in its entirety.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh! My ma will know for sure! HEEEY,\nMAAA!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "What? Please, you needn't go so far—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh, I heard your question, no worries!\nYou want\nto whip up something nice\nwith that carrot, don't\nyou?",
+            "name": "Female Raffle Clerk"
+        },
+        {
+            "text": "I just happened to have put a little\nsomething\ntogether earlier, so why don't\nyou come on back\nand have a taste of\nit?",
+            "name": "Female Raffle Clerk"
+        },
+        {
+            "text": "Wh-what?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "As they say, experience is the best\nteacher.\nRight? Hahaha!",
+            "name": "Female Raffle Clerk"
+        },
+        {
+            "text": "What should I do, Тренер?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Take her up on it."
+            ]
+        },
+        {
+            "text": "...Very well. I look forward to your...\nlesson?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "What a Pechvogel I am...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What does that mean?"
+            ]
+        },
+        {
+            "text": "It means \"an unlucky person.\"",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Winning a consolation prize was well\nwithin the\nrealm of possibility.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Yet despite understanding that fully...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And so, Эйсин Флэш receives a heartfelt\ncooking\nlesson from the nice lady.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She gives Japan's hamburger steaks a\nperfect\nscore.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Эйсин Флэш's lecture on the finer\npoints of\nschedule-making lasts all the\nway home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Understanding something and accepting\n\nsomething is very different. Эйсин Флэш\nis clearly\ndisappointed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sometime later, Эйсин Флэш bakes and\nshares a\nbunch of cakes with her\ndormmates—and they\nrave about it for\ndays afterward.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ah, the moment is almost upon us.\nHehe, I can't\nwait to see how this race\nwill turn out.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You sound sure of yourself."
+            ]
+        },
+        {
+            "text": "Yes. I always aim to keep my usual\ncomposure.\nFretting won't lead to good\nresults.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Though I hope you won't take that to\nmean that\nI'm lacking drive.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The drive that propels me isn't meant to\nbe seen.\nIt stays hidden, a quiet flame in\nmy heart.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm fully prepared. All that remains is to\ncalmly go\nout there and win. ♪",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

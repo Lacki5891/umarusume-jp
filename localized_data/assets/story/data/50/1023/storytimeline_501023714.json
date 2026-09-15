@@ -1,0 +1,116 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ has a severe injury, so I\ncancel\npractice and go visit her to drop\nsome things off."
+        },
+        {
+            "text": "Hello! If you're looking for Hayahide,\nshe left for\nthe gym a little while ago.",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "<i>Pant... pant...</i> I didn't think... this injury\nwould...\naffect me so much...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What are you doing?!"
+            ]
+        },
+        {
+            "text": "Trainer!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I know. I'm sorry, but please, don't\nworry.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I suffered a major injury as a child, so I\nknow what\na setback it can be.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's why I don't want to waste any\ntime. I want\nto continue refining my\nequations instead.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'll pay close attention to my injury while\nstill\ncarrying out my calculations, so\nplease...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Please don't stop me from progressing!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "We need to go back to the infirmary.",
+                "If you're so intent on doing this... then we'll do\nit together!"
+            ]
+        },
+        {
+            "text": "...I see. So I have no choice but to stand\nstill as\neveryone sprints on ahead again...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "If your injury gets worse, you'll <i>never</i> catch up\nto them."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You're right. I know that... Intellectually,\nanyway.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I know I can't make the same mistake I\ndid in the\npast. But...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "No, never mind. I'll do as you say.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Thank you... Thank you for\nunderstanding. Let's\nget started!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ah!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Thud!</i>",
+            "choice_data_list": [
+                "Hayahide?!"
+            ]
+        },
+        {
+            "text": "I-I'm fine... I just... I just tripped.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "After that, I start working with her on\ntesting out\nher calculations."
+        },
+        {
+            "text": "I see... According to this heart rate... the\namount\nof muscular exertion decreased,\njust as I\npredicted.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Phew...</i> Well, that was productive. I even\nlearned\nabout things unrelated to my\ncalculations.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "I realized that I have other advantages\nbesides\nmy analytical skills. I have\nsomeone beside me,\nwilling to go over\ntheories and calculations\ntogether, all\nfor the sake of improvement.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ struggles mightily with\nher fears of\nfalling behind, but agrees to\nrest and recuperate."
+        },
+        {
+            "text": "Бива Хаяхидэ is so overwrought by her\nfirst\ninjury that she ends up giving\nherself another. It'll\ntake even longer for\nher to heal now..."
+        },
+        {
+            "text": "What I'm saying is... that you're\nincredibly\nimportant to me. I can't wait\nto start training\nagain.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

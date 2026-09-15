@@ -1,0 +1,66 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm out on a nice walk in the evening one\nday\nwhen I suddenly run into a very\nsweaty Фудзи Кисэки."
+        },
+        {
+            "text": "Тренер?!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "text": "Um, well... I was, uh...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Running off extra calories...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Did you have a big meal or something?"
+            ]
+        },
+        {
+            "text": "I've been so busy with dorm duties lately\nthat I\nhaven't been keeping regular\nmealtimes, you\nsee...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I got too cavalier with my diet, so when I\nweighed\nmyself the other day, well...\nAhaha...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Why didn't you tell me?"
+            ]
+        },
+        {
+            "text": "I don't want my fans to know I've been\ntraining\nextra.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "So I didn't say anything so they wouldn't\nfind\nout... I'm sorry.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "So, please, don't tell anyone about this!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I won't!"
+            ]
+        },
+        {
+            "text": "Okay! I'm going to run up and down the\nstairs five\nmore times! Let's do it\ntogether!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I have to do it too?!"
+            ]
+        },
+        {
+            "text": "Yup! You're keeping my secret now, so\nyou're\npractically my partner in crime! ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I join in on the rest of her exercises and\nhelp Fuji\nKiseki get back into her regular\nweight range!"
+        }
+    ]
+}

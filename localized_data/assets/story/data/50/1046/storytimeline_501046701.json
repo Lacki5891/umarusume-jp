@@ -1,0 +1,27 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Woo! ♪ Morning, Trainer!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Did you get a lot of rest?"
+            ]
+        },
+        {
+            "text": "Yeah! I had a great day off!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Flash gave me some of her stollen cake,\nand we\nate it while watching my favorite\nperformer on\nUMATV!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm super-charged! Next stop, top\nUmadol! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон seems fully recharged after\na good\nrest."
+        }
+    ]
+}

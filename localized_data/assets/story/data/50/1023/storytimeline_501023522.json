@@ -1,0 +1,41 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day в тренировке, Бива Хаяхидэ\nseems\nrather preoccupied with her hand."
+        },
+        {
+            "text": "Ngh... Not another hangnail...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Does it hurt?"
+            ]
+        },
+        {
+            "text": "No, it's fine. I just ran out of hand cream.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I chose it specifically because the\ningredients are\nperfect for my skin, but\nthere's a shortage right\nnow, so my\nhands are rougher than usual.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This is quite the predicament...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Why don't we look for some other hand cream\nfor you?"
+            ]
+        },
+        {
+            "text": "What? Oh no, I'm fine! I'm sure my usual\nhand\ncream will be back in stock soon.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Er, this has nothing to do with my\nrunning, so you\ndon't have to check my\nhands or anything, right?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ seems rather abashed by\nthe\ncondition of her skin."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while preparing to head home\nafter\ntraining...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, Тренер?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Look. The stars are so pretty.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The breeze is so refreshing, and there's\nno one\nelse on the track.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So... Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Would it be all right if I continued\nrunning a\nlittle?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Go take in the night scenery.",
+                "It's pretty close to curfew, you know."
+            ]
+        },
+        {
+            "text": "Would it be all right if I continued\nrunning a\nlittle?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Go take in the night scenery.",
+                "It's pretty close to curfew, you know."
+            ]
+        },
+        {
+            "text": "R-right!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Such a wonderful view... How could I\nnot?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Huh? I-is it that time already?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll have to run home—Oh, well, I\nsuppose I get to\nrun either way...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука rushes off back to the\ndorms.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Сайленс Судзука spends the remainder of\nher\navailable time running around the\ntrack beneath\nthe starlit sky.",
+            "name": "Монолог"
+        }
+    ]
+}

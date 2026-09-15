@@ -1,0 +1,260 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Famished after work, I head over to the\nshopping\ndistrict to grab a bite to eat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Before long, I find a promising\nhole-in-the-wall\nramen shop. I step\ninside, only to find a familiar\nface.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Welcome! C'mon in!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Голд Шип?!"
+            ]
+        },
+        {
+            "text": "Oh, hey, Trainer! Finished for the day?\nGood for\nyou!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What are you doing here?"
+            ]
+        },
+        {
+            "text": "Well, you see, the ramen broth\nslumbering in my\nveins suddenly awoke\nwith a vengeance...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I was overcome with a burning desire to\ncraft\ndelicious ramen... so I got myself a\npart-time gig\nhere.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Here, feel free to snack on some\nappetizers...\nwhile I tell you a tale of the\npast.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...It was a freezing winter day.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I was out on the streets, selling metal\nbats in\norder to support my folks' screw\nproduction\nfactory.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But it was just so cold that day. The\nbitter chill\nseeped into my very bones,\nfreezing me to the\ncore.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "All I could do was weep all by my\nlonesome.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I swallow the incredulous questions\nbubbling up\nabout the story's setting\nand quietly continue\nlistening.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's when an Umamusume appeared\nbefore me\nand changed my life forever.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "An Umamusume?"
+            ]
+        },
+        {
+            "text": "That's right. From what I could tell, she\nwas\nprobably a few years older than me.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Without saying a word, she held out a\nbowl of\npiping hot ramen.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "(Who carries around hot ramen?!)"
+            ]
+        },
+        {
+            "text": "Her story seems too outlandish to\nbelieve, but\nГолд Шип keeps talking\nwith utmost sincerity.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I thanked her once I thawed out, but she\nlooked\nat me with a hint of sadness.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "She said, \"I'm an Umamusume, but I'm\nnot good\nat running.\"",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "\"That's why I want to open my own\nramen shop.\nYou should choose the\nfuture that's right for you\ntoo.\"",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Those words shook my entire world... I\nmean, until\nthen, nobody'd ever told me\nI could make my own\nlife decisions.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That's when I realized my future wasn't\nshackled\nto my family's screw production\nfactory. I could\ndo what was right for me.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "So that's what happened..."
+            ]
+        },
+        {
+            "text": "It's a strange story to wrap my head\naround, but I\nstill find it touching.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Knowing that she shook off the\ncircumstances of\nher birth to create her\nown path in life... It's\ninspiring.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe! Sorry for talking your ear off.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But you'd get all fired up to make some\nramen\ntoo if that memory came back to\nyou, right?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I wonder what that Umamusume is up to\nnow. I'd\nlove to see her again, but I\nhaven't got a clue how\nto find her...",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Why not try recreating her soup?",
+                "How about going back to where you met?"
+            ]
+        },
+        {
+            "text": "Recreate her soup? I don't even know if I\ncan...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But I can't quit before I try! I've grown\nup since\nthen, so I bet I can do it!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That settles it! If I remember right, it had\nenough\ngarlic in it to off an elephant!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And... done!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шип's masterpiece is a garlic\nlover's dream...\nIn fact, there's more\ngarlic in it than noodles and\nbroth\ncombined!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aw yeah, I've nailed it! This garlicky,\n\nsinus-obliterating aroma sure takes me\nback!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Here, you can have some too! All right,\ndown the\nhatch...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Together, we taste the freshly made\nramen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It burns! It buuurns! My tongue! It's on\nfiiiiire!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The garlic is so overwhelming, it's\ninedible!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh, now that I think of it, garlic's\nsupposed to\npromote blood flow, right?\nI guess that's why it\nwarms your body\nup...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Maybe I only liked it because I was\nliterally frozen\nthat day... Nobody'd\nwant to sit down and eat\nthis normally!\n<i>Cough!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Although Голд Шипп isn't any closer to\ntracking\ndown that Umamusume, she\nsure got one garlicky\nblast from the\npast...",
+            "name": "Монолог"
+        },
+        {
+            "text": "You mean, back to that fateful riverside\nlane?\n...Yeah, okay. It's probably worth a\nshot.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Wow, there's literally not a soul around.\nWelp,\nmakes sense, considering it's\nnight.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh well. No point in sticking around.\nLet's call it a\nday and—huh?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Whoaaa! Suzuka?! Is that you?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Um? Well, yes...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Wait, wait, wait! Don't tell me <i>you</i> were\nthe\nUmamusume I met all those years\nago!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Wh-what are you talking about?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I can't just let you go now that I know\nwho you\nare! You're comin' with me!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Eep! What's going on?!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Don't you go running away from me now!\nLet's\ntake a stroll down memory lane!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "According to Голд Шип's story, the\nUmamusume\nwho saved her was\napparently a few years older\nthan her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If that's the case, even assuming this\nmystery\nsavior really exists, Silence\nSuzuka is an unlikely\ncandidate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day, just when I thought I'd\nforgotten that\nlittle episode, something\nstrange happens.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day, just when I thought I'd\nforgotten that\nlittle episode, something\nstrange happens.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As I sift through a stack of fan mail, one\n\nparticular letter catches my eye. I can't\nhelp but\nread it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"It seems you've been living life on your\nown\nterms ever since the day we met. I'll\ncontinue to\nwatch over you as you forge\nyour own path.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "...That's it. There's no name to be found\non it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Does this mean the Umamusume in\nГолд Шип's\nstory actually exists?",
+            "name": "Монолог"
+        }
+    ]
+}

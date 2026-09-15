@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I find Кинг Хало grumbling about\nsomething when\nI walk into the cafeteria.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Urk... I simply cannot gain any more\nweight!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "In order to maintain my first-rate beauty,\nI need\nto refrain from eating sweets for\nthe time being...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer. Well... I was thinking about\ngoing on\na diet.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "After all, physique is really important for\nan\nUmamusume. Don't you agree?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "We need to be strong and limber in\nraces, yet\nalso elegant and light on our\nfeet at winning\nconcerts.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "To be first-rate, I must enchant everyone\nwith my\nperformance both on the stage\nand on the track.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So, as my trainer, please give me your\nfull\nsupport!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What kind of support?"
+            ]
+        },
+        {
+            "text": "I'll need you to accompany me on my\nearly\nmorning runs, track my calorie\nintake for me,\nand...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll need your careful discretion every\nday to\nmaintain my first-rate beauty!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, I work with Кинг Хало to help\nher stay in\npeak condition.",
+            "name": "Монолог"
+        }
+    ]
+}

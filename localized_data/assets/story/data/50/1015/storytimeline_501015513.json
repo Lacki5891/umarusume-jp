@@ -1,0 +1,194 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Т.М. Опера О often makes a dramatic\nentrance,\neven if its just to a training\nsession.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today, I'm awaiting her lively arrival,\nwondering\nwhether she'll be dancing or\nsinging, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good day, Trainer! And what a fine day\nit is!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "She's decided to wear her signature\nracewear.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ensnared by my charm, are you? I\ncertainly can't\nblame you for that.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Not after I spent the past two hours\nadmiring my\nregal self in the mirror.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Huh... So why'd you choose your racewear to\ntrain in?"
+            ]
+        },
+        {
+            "text": "For the sake of all involved in the race,\nof course!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I am far too dangerous when racing in\nthese\nclothes, for those who gaze upon\nme become lost\nin a labyrinth of allure.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Like moths to the flame, my sweet fans\nare\ninevitably drawn to tragedy—only\nonce I have\ncrossed the finish line do\nthey awaken.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "As such, <i>what</i> is there to be done? The\nanswer is\nsimple!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Before the race takes place, I shall allow\nthem the\nchance to grow accustomed to\nthis visage!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh, I assure you, it <i>can</i> be done. After\nall, I am\nthe culmination of all forms of\nbeauty the world\nover!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "This doesn't precisely explain why she's\nwearing\nher racewear today, but I put\nthat aside for the\nmoment.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You sure like your signature racewear."
+            ]
+        },
+        {
+            "text": "But of course! This ensemble befits my\nsplendor!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I'll show you... This way, Trainer!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Т.М. Опера О suddenly sprints away,\nand I follow\nafter her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Behold! These golden accessories—do\nthey not\nglisten in the sunlight?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Heh! My royal mantle, boldly fluttering\nin the\nwind!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Wait for it!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I am eternal beauty, the light of the\nworld, the\nmajesty of outer space...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I am the enrapturer of all—the Centurial\n\nOverlord!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Has more perfect attire ever existed?\nNay, this is\na revolution! <i>I</i> have become a\nliving piece of\ndesign history!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And though this racewear's form is\nexquisite, one\nmustn't forget what lies at\nits source—a fabulous\nconcept, that <i>I</i>\ncreated!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "You always know what you want."
+            ]
+        },
+        {
+            "text": "Yes, yes... It is a well-known fact that I\nmake\nevery style look great.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "This one was designed to be most\nsuitable for me.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Do you know why that is?",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "It carries the air of the Overlord.",
+                "It depicts the strength to meet expectations."
+            ]
+        },
+        {
+            "text": "Exactly! The same holds true of my\nnoble mantle\nand adornments! They\ncomprise my throne when I\nrace!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Those who behold me striding down the\nturf do\nnot gaze in fear of my power. No!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "They gaze with envy and admiration!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "They may close their eyes, but I will still\nbe\nthere—my burning figure afire in their\nhearts.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "However! Even if it brings them to their\nknees, I\nonly wish for my brilliance to\nleave them\nreassured.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I will extend a hand of invitation to\nthem—to walk\ntogether toward a stage\nworthy of the Centurial\nOverlord!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ah, yes, Trainer! You are but one of\nmany with\ngreat expectations of me.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Nay, to say \"many\" is an understatement.\nIs it not\nobvious the entire world\nanticipates my coming\nexcellence?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Thus, I hereby declare, that I shall never\nbetray\ntheir expectations!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "This attire comprises my throne when I\nrace! The\nmasses shall come to seek my\nbeauty.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I say to them, come to the G1 caroling\nmy name!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Come, and I shall greet you with more\nradiance\nyet!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "For that is my duty—as the one who\nwalks the\nOverlord's path!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Her enthusiasm is palpable. As her\ntrainer, I'll do\neverything I can to help\nmake that dream come\ntrue.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've got it! I shall gift you an outfit as\nwell, so you\nmight stand beside me!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Neither the sun nor moon can rise\nwithout the sky.\nThus, that is what you\nshall become! First, your\nfull body\nshould have a base of sky blue...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I get the sense we're walking into\ndangerous\nterritory. I'd better stop her\nwhile we're ahead!",
+            "name": "Монолог"
+        },
+        {
+            "text": "With how particular she is in her design,\nit's\nobvious how strongly Opera O feels\nabout her\nracewear.",
+            "name": "Монолог"
+        }
+    ]
+}

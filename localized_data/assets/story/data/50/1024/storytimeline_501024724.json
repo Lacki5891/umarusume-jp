@@ -1,0 +1,49 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm back, Trainer.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган managed to pull off an\n\nincredible victory, but she seems sort of\ndown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I did it. Go ahead, shower me with\npraise.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Good job.",
+                "Did you have fun?"
+            ]
+        },
+        {
+            "text": "Aah... I love it when you praise me.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe! Keep it coming, please.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Sure.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But who cares about that?! Go ahead\nand praise\nme! Say I did a good job!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I won't take a single step until my tanks\nare\ntopped up with your love!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "She seems to be pouting, so I go ahead\nand\ncomfort her for a while.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her spirits seem to have picked back up\na bit.",
+            "name": "Монолог"
+        }
+    ]
+}

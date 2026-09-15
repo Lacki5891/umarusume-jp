@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Hanshin J.F. is about to begin, and\nI'm\nstarting to feel the pressure...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But Эйр Грув, for her part, seems even\nmore\nfocused than ever.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You never fail to impress me."
+            ]
+        },
+        {
+            "text": "You fool. You're only supposed to praise\nme <i>after</i>\na successful race.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You just sit back and watch.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll show you a race worthy of the title\n\"Empress.\"",
+            "name": "Эйр Грув"
+        }
+    ]
+}

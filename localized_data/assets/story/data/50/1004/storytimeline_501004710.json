@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Aww, phooey...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Sorry, Trainer. I wanted to look cool for\n\neveryone, but I majorly failed...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'm sure you'll do great next time!",
+                "There's no point in being bummed out!"
+            ]
+        },
+        {
+            "text": "Sorry, Trainer. I wanted to look cool for\n\neveryone, but I majorly failed...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'm sure you'll do great next time!",
+                "There's no point in being bummed out!"
+            ]
+        },
+        {
+            "text": "You're so kind, Trainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're so kind, Trainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, I'm going to run home at Mach\nfive and get\nto training!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...You're right. Moping about it won't\nmake me\nany faster.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yeah! I have to learn from Tata.\nSometimes she\nbreaks down, but she\nstarts right back up after\nsome\nmaintenance!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Next time, I'll show everyone how great I\ncan\nreally be! Hehe! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, I'm done with my repairs! Now I've\njust got\nto put some gas in my tank and\nput the pedal to\nthe metal!",
+            "name": "Марузенски"
+        }
+    ]
+}

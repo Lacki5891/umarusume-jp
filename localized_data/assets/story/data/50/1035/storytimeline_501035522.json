@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Уиннинг Тикит seems to be worried\nabout\nsomething...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmmm... My skin feels so dry.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "How'd this happen? Hey, Trainer, what\ndo you\nthink?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Maybe you're not getting enough nutrition?"
+            ]
+        },
+        {
+            "text": "Heh, I'm eating plenty! If I don't eat\nenough, I\ncan't be at my full strength!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Lately, I've been really into sweet snacks\ntoo!\nThey're tasty and give lots of\nenergy—nothing\nbeats 'em!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "With super sweets, training goes super\nsmooth! I\nthink!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Even yesterday, I had sweet stuff with\nmy\nbreakfast, lunch, <i>and</i> dinner! A super\nslam!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So why is my skin so rough? <i>Sigh...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит doesn't seem to realize,\nbut the\nimbalance in her food intake is\nlikely the cause of\nher poor skin...",
+            "name": "Монолог"
+        }
+    ]
+}

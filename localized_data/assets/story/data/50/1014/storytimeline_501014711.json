@@ -1,0 +1,74 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ugh, I lost again! My comeback was\nunsuccessful,\nineffectual—a total bust...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Sigh...</i> I know I shouldn't be saying\nthings like\nthat, but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm pathetic... I failed to spread my wings\nyet\nagain...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You should take it easy for once.",
+                "Get up, El! Stand up tall!"
+            ]
+        },
+        {
+            "text": "Qué? What do you mean? How can I\ntake it easy\nat a time like this?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The road of a champion is full of thorns\nand\nspikes. Getting through it with force\nalone will\nmake you burn out midway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's why taking time to rest and\nreflect on how\nyou brave that road is\nessential.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I see. Just giving it my all isn't gonna cut\nit!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Good thinking! I'm starting to feel like I\ncan win\nnext time!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's take things slow and steady!"
+            ]
+        },
+        {
+            "text": "Trainer!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "It's not over yet!"
+            ]
+        },
+        {
+            "text": "Sí. No matter how many times I fall, I'll\nkeep\ngettin' back up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "After all, I'm... the Phantom Bird!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And this Phantom Bird is immortal!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You got this, El!"
+            ]
+        },
+        {
+            "text": "Sí! I'm gonna go the distance on my\nvictory road!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Claro! This time, I'm takin' on the world!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

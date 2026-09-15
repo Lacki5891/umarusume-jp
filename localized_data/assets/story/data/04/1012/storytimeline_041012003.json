@@ -1,0 +1,238 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day just before tryouts..."
+        },
+        {
+            "text": "You're leaving the school?! Whaddya\nmean?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hearing Хиши Амадзон's flustered voice\nbooming down from the\nrooftop, I hurry\nupstairs to look into the situation."
+        },
+        {
+            "text": "There, I see Amazon speaking to the\nstudent that she had been\ntraining with\npreviously."
+        },
+        {
+            "text": "Do you know what you're saying right\nnow? You can't be serious...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I am. I can't stick around and pretend any\nlonger.",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "How can you say that?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Remember what you told me? When you\nfirst came to see me in the\ndorm?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You said you had a longtime rival that you\nwanted to beat in the\nTwinkle Series!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What happened to all that fiery passion?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...It's gone.",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Huh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The two of us aren't rivals anymore! The\ngame's already over! She\nwon!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Whaddya mean \"over\"?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Honestly, it'd been nagging at me for a\nwhile. After coming to this\nschool, she just\nkept getting faster. But my improvement\nwas little to\nnone.",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "You were even kind enough to help me\nout... but it was no use.\nYesterday, I lost to\nher by ten lengths.",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Hmm, that is a pretty big margin...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But you never know! In the next race, you\nmight beat <i>her</i> by ten\nlengths!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's impossible, and you know it!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "...!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm sorry for shouting, Hishiama.",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "But some contests are just obvious from\nthe beginning. So I'm putting\nan end to\nthis pointless rivalry between us.",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Well, I need to go. Thank you for\neverything!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Wha—hey! Wait!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "\"Impossible\"? \"Over\"? How can she say\nthat?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "text": "Whoa! Oh, it's you...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hahaha... I really dropped the ball there,\nhuh? Some dorm mom I am,\nnot being able\nto cheer up one of the youngsters.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I know for a fact that her goal's not\nimpossible. But lecturing her isn't\ngonna\nhelp anything.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Argh, dammit! What am I supposed to do\nnow?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Considering Amazon isn't the least bit\nintimidated by competition\nherself, I can\nunderstand how this would be a difficult\nproblem to\nsolve."
+        },
+        {
+            "text": "As she wracks her brain for the answer..."
+        },
+        {
+            "text": "There you are, Hishiama! I've been looking\nall over for you!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Well, if it ain't Biko. What's up?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We're racing on the same day of tryouts,\nright? The groups were just\nannounced, so\nI thought I'd let you know the big news!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Get this—you're in the same group as\nBrian!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "What?!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "(<i>The</i> Нарита Брайан?!)"
+            ]
+        },
+        {
+            "text": "She's a powerful Umamusume who has\nalready caught the attention of\nevery\ntrainer around."
+        },
+        {
+            "text": "Her older sister, Biwa Hiyahide, has been\ntearing up the track since\nher own debut,\nbut Brian is said to possess even greater\npotential.",
+            "choice_data_list": [
+                "(What an opponent to go up against...)"
+            ]
+        },
+        {
+            "text": "I brace myself, fully expecting Amazon to\nbe shaken to the core.\nHowever..."
+        },
+        {
+            "text": "Got it. Thanks, Biko.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Talk about perfect timing!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "With a fearless grin, she dashes off at full\nspeed."
+        },
+        {
+            "text": "I hurry after her, only to find..."
+        },
+        {
+            "text": "Hnghyaaah!\n<i>Huff, puff...</i>",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Huh? Did you follow me here?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Wh-what are you doing?"
+            ]
+        },
+        {
+            "text": "What's it look like? I'm training! Guess I\noughta start out with fifty or\nso hill sprints.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Actually, maybe that's not enough. I mean,\nthis is Brian we're talkin'\nabout. I'll have to\ntrain like hell to go one-on-one against\nher!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You're not the least bit scared?"
+            ]
+        },
+        {
+            "text": "Course I'm not! Who do you think I am?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Besides... I'm not good with words like Fuji.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So the best I can do for somebody in a\nfunk... is just to show 'em how\nit's done.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But even so, I'm gonna pull out all the\nstops.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Nothing out there is impossible right from\nthe get-go! You never\nknow the outcome\nof a match 'til you give it a try!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Amazon makes a deeply heartfelt\ndeclaration, her eyes burning with\nresolve."
+        },
+        {
+            "text": "I find myself wanting to catch a glimpse of\nthe future that she is so\nintently focused\non...",
+            "choice_data_list": [
+                "Mind if I help you train?"
+            ]
+        },
+        {
+            "text": "Wait, really? You sure? Haha, but you're\nnot even my trainer, ya big\nweirdo!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I don't mind one bit—in fact, that'd be a\nhuge help. Go ahead and\nwhip me into\nshape!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Thus, we agree for me to oversee Hishi\nAmazon's training sessions\nuntil tryouts."
+        }
+    ]
+}

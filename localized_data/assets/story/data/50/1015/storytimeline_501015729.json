@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hmm. And so, the rescue scene ends in\nfailure!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Sorry!"
+            ]
+        },
+        {
+            "text": "Heh heh heh! Ah, yes, I knew it. I knew it\nall\nalong!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "A theatrical twist! You desired to\ncompose a\ntragedy!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "You've flown too close to the sun that is\nI and,\nthus, have lost your wings! A\nbrilliant metaphor!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Alas, you poor souls behind this glass!\nForgive my\ncorruptible radiance!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

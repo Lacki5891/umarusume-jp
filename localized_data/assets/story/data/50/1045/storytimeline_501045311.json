@@ -1,0 +1,67 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew! That takes care of our first goal of\nthe year.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "How did you find it, Тренер?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I wasn't worried in the slightest."
+            ]
+        },
+        {
+            "text": "Hehe, thank you. I guess this is what\nthey call\n\"smooth sailing.\"",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Now I can take on the Takarazuka Kinen\nwith my\nhead held high.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Ya already forgot the Spring-Ten?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Oh, Tamtam! Thank you for coming to\ncheer me\non!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Well, I <i>am</i> your bestie. But friendship\nand races\nare two different things, ya\nhear?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Heh, I saw your—no, both you and your\ntrainer's\nweakness real clear today.",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "Huh? Our weakness?"
+            ]
+        },
+        {
+            "text": "Yup! And you're not gonna get any\nbetter if ya\ndon't realize it!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Goodness! Will you tell me, Tamtam?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Say what?! Who just asks outta the blue\nlike\nthat?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Eh, whatevs. I'll show ya next time, right\nin front\nof all your fans.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "A storm's brewin', so you better bring\nyour\numbrella! ...Not, like, a <i>real</i> storm,\nbut...\nWhatever.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Тамамо Кросс leaves in an intimidating\nhuff.\nWhat could our weakness be?",
+            "name": "Монолог"
+        }
+    ]
+}

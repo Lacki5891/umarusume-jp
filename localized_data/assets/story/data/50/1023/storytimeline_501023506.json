@@ -1,0 +1,182 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my way home from shopping with\nBiwa\nHayahide, we hear lively singing\ncoming from\nsomewhere.",
+            "choice_data_list": [
+                "I wonder what's going on?"
+            ]
+        },
+        {
+            "text": "Judging by the poster over there, it\nlooks like a\nconcert's being held nearby.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Woohoo! Flying in from out of nowhere,\nit's\nTokaaai Teiooo!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Wooo! Everyone's so hyped up!\nWe're\nnot losing to you, though! ♪",
+            "name": "Idols"
+        },
+        {
+            "text": "T-Teio? What is she doing up there,\ndancing with\nthose idols?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Did you see how she moved? She was so\nelegant\nand expressive... She fits right in\nwith the other\nprofessionals on stage.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "She was definitely pretty into it."
+            ]
+        },
+        {
+            "text": "Ngh... I feel so ashamed of myself.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Compared to her, I'm stiff as a board\nwhen I\ndance. There's no way my clumsy\nmoves are\nconveying my gratitude to the\nfans...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There must be some trick to being able\nto dance\nso well.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Why don't you ask her?",
+                "Why don't you try dancing with her?"
+            ]
+        },
+        {
+            "text": "Of course! That's a great idea!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Your performance was superb, Teio. I\nenjoyed it\nimmensely.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh, thank you! Hehe! Seeing them\ndance made\nme all giddy, so I decided\nto jump on up there!",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "You looked like a pro!"
+            ]
+        },
+        {
+            "text": "You truly did! I was wondering if—no,\nwait. I need\nto approach this more\nrespectfully...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Miss Teio, would you please teach me\nthe secret\nto dancing confidently?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "\"Miss Teio\"?! Aw, gosh, you don't have\nto be <i>that</i>\nrespectful! But I guess I am a\npretty good\ndancer...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Please, I implore you! You must teach\nme how to\ndance without looking like\nI'm made out of wood!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You're not... really made out of wood,\nare you?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I don't really get it, but whatever! For\nstarters,\nwhy don't you show me some\nmoves?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Uh... Right here?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah! I'm your teacher now, so you gotta\nlisten to\nme! Come on, copy my steps!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "A-am I doing this correctly?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, look at you! You definitely seem\nlike the\nreal deal to me! Your height\nmakes your moves\nsuper dynamic too!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You've got a lot going for you, so don't\nworry! As\nyour teacher, I think you'll be\nfine as long as you\npolish up those skills\nof yours!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I understand now... So I have my very\nown way of\nexpressing myself!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ooh, you want to go up and dance too?\n\nNice! Go ahead! You can do it!",
+            "name": "Spectators"
+        },
+        {
+            "text": "W-wait, I never said I wanted to—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hey, Hayahide! Let me guess. You can't\nresist the\nbeat either, huh?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Yay! Come on, show us your moves!\nGet\nover here and let's gooo!",
+            "name": "Idols"
+        },
+        {
+            "text": "Gah! How did this happen?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah! My heart is filled with so much\nlove, love,\nlooove!\nAll for you, you,\nyouuu! Woo! ♪",
+            "name": "Idols"
+        },
+        {
+            "text": "W-woo...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Awww, you're sooo cute! C'mon, you've\ngotta\ndance with everyone!\nEncore!\nEncore!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Ahh, that was fun! Nothing relaxes me\nlike a good\ndance sesh!",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "You were both fantastic up there."
+            ]
+        },
+        {
+            "text": "<i>Pant... Pant...</i> You really... think so? I\nactually\ngot... pretty absorbed in it,\nmyself...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You were perfect! All the fans loved\nyou! Dancing\nis all about <i>feeling!</i>",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Think about it—the reason why we\ndance at our\nwinning concerts is because\nwe want to make our\nfans happy, right?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Ah! Yes, now that you mention it...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hm... I guess the secret to dancing\nconfidently\nwas inside me the whole\ntime.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Thanks to Токай Тэйо's encouragement\nand help,\nBiwa Hayahide's dance moves\nimprove greatly!"
+        },
+        {
+            "text": "Бива Хаяхидэ's worries melt away, and\nher dance\nmoves improve greatly."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow! That was incredible! You were like\na claw\nmachine master!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I can't believe how many plushies you\nmanaged to\nget! Hehe!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If I had this many when I was little,\nmaybe I\nwouldn't have been so stingy\nwith Brian about\nthem.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "It's not too late."
+            ]
+        },
+        {
+            "text": "Really? I'm not so sure about us having\nmatching\nplushies at our age...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But then again, it might be kind of fun.\nHehe, I'll\nmention it the next time I see\nher.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

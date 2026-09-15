@@ -1,0 +1,60 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Even though I got caught up in Gold\nShip's quest\nto find Eden...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I somehow still managed to get her\nready for her\ndebut.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If I'm worried about anything right now,\nit's about\nhow Голд Шипп is feeling. She,\nhowever...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, good job! Yes, come on! Keep it up!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now it's just a matter of when to shake!\nD'aww, I\njust can't stop watching!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Watching what?"
+            ]
+        },
+        {
+            "text": "I'm watching that chihuahua over there\nthrough\nthis stick of chikuwa.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "There are some things that are only\n\ncomprehensible when seen through the\nsmall hole\nof a chikuwa.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That chihuahua must be thinking hard\nabout the\nbest time to hold out its paw\nfor a shake, no\ndoubt.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's the same focus we Umamusume have\nwhen\nwe're thinking about the best time\nto make our\nmove during a race.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Her comparison is hard to follow, but I\nguess\nГолд Шип must be thinking about\nthe next race...\nin her own unique way.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah! It's made its move!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What?! Why is it lying down now of all\ntimes?!\nThat was obviously the moment\nto do a paw\nshake!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "In any case, I just have to pray she gives\nit her all\nout on the racecourse!",
+            "name": "Монолог"
+        }
+    ]
+}

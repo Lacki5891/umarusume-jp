@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Now that's what I call first-rate skill! Nice\njob,\nTrainer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe. Look at the new recruits to my\nHalo Army!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'm glad you're happy."
+            ]
+        },
+        {
+            "text": "Of course I'm happy! Here, I'll grant you\nthe right\nto receive my compliments!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now, let's make our triumphant return!\nOhohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

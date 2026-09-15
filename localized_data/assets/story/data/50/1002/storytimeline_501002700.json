@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You seem pretty tired considering you had the\nday off yesterday."
+            ]
+        },
+        {
+            "text": "...I was up all night trying to complete a\njigsaw\npuzzle.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I suppose that's what happens when\nthere are a\nthousand pieces...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But the final picture is supposed to be a\nbeautiful\nsnowy landscape, so I was so\ndetermined to finish\nit.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. I can't wait until it's done.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems Сайленс Судзука is a bit sleep\ndeprived\nafter spending all night\nimmersed in her jigsaw\npuzzle.",
+            "name": "Монолог"
+        }
+    ]
+}

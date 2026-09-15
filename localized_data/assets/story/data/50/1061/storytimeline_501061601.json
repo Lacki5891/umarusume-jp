@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ohohoho! Time to race!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The one who brings home the glory\ntoday shall be\nthat most first-rate of\nUmamusume...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Кинг Хало!"
+            ]
+        },
+        {
+            "text": "Precisely! As expected of my trainer!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now I'm off to the red carpet that awaits\nme—the\npath of a shining King!",
+            "name": "Кинг Хало"
+        }
+    ]
+}

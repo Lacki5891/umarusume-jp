@@ -1,0 +1,179 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ and I have been out\nwalking for\nquite a while."
+        },
+        {
+            "text": "We've gone a pretty long way. You must\nbe tired.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Since we still have plenty of time, why\ndon't we\ntake a break and have some\ntea before heading\nback?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Good idea."
+            ]
+        },
+        {
+            "text": "One of my favorite cafes is around here,\nso let's\ngo there.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She leads the way to our destination."
+        },
+        {
+            "text": "It's just past that corner over there.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Huh? That's strange...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "They're closed, though they're usually\nopen at\nthis time...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Maybe they're taking a day off."
+            ]
+        },
+        {
+            "text": "Perhaps. Well, let's try somewhere else.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I heard a nice outdoor cafe just opened\ndown the\nstreet.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I haven't been there yet, but this is the\nperfect\nopportunity to try it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We arrive at a very fancy cafe with a sign\n\ndeclaring it to be owned and managed\nby a\ncelebrity barista."
+        },
+        {
+            "text": "Wow, a celebrity barista runs it? It's no\nwonder\nthis menu is so elaborate.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This seems like a place for the younger\ncrowd.\nThere are dozens of drinks to\nchoose from, and\nthe selection of\ndesserts is just as varied."
+        },
+        {
+            "text": "This is nothing like the establishments I\nusually\nfrequent, but it's the perfect\nplace to bring a\nfriend.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It deserves a spot on my list, for sure.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "With a highly skilled hand, Biwa\nHayahide writes\ndown the cafe's name.",
+            "choice_data_list": [
+                "Do you go to cafes often?"
+            ]
+        },
+        {
+            "text": "Yes, sometimes with friends, and\nsometimes just\nby myself.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "They're the perfect place to read a book\non a\nrainy day.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "That does sound nice.",
+                "Can you recommend any other places?"
+            ]
+        },
+        {
+            "text": "They're the perfect place to read a book\non a\nrainy day.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "That does sound nice.",
+                "Can you recommend any other places?"
+            ]
+        },
+        {
+            "text": "At first, I was merely looking for a nice\nspot to\nread at, but now it's become\nsomething of a\nhabit.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh. Speaking of books, there's one I'd\nlike to\nrecommend to you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's an autobiography by a legendary\n\nUmamusume...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She takes the book out from her bag\nalmost <i>too</i>\nnonchalantly.",
+            "choice_data_list": [
+                "...Do you always walk around with books in your\nbag?"
+            ]
+        },
+        {
+            "text": "Yes. I know it's rare in this age of\ndigitization,\nbut...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I think I've just gotten used to having\nbooks in my\nbag. It helps me feel at\npeace.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I see."
+            ]
+        },
+        {
+            "text": "...Anyway, this book is <i>quite</i> interesting.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I think you could learn a lot from it as a\ntrainer.\nWhy don't you give it a try?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Thanks! I think I will!"
+            ]
+        },
+        {
+            "text": "I spend some time reading with Biwa\nHayahide..."
+        },
+        {
+            "text": "Of course.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But first, I need to know your criteria.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Criteria?"
+            ]
+        },
+        {
+            "text": "Yes. For example, do you plan to go on\na\nweekday or the weekend? And will\nyou be there\nin the morning, afternoon,\nor evening?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Do you plan to go by yourself or with\nothers?\nAdditionally, are you looking for\nsomewhere that\nspecializes in food or in\ndrink?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Of course, there are also the issues of\nlocation\nand how far you are willing to\ntravel.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The more information you can give me,\nthe more\nwell-equipped I'll be to\nrecommend you a place.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "For a moment, I feel like I'm talking with\na real\nestate agent because of how\ndetailed her\ninquiries are."
+        },
+        {
+            "text": "While I'm at it, I gain some direct insight\ninto how\nshe hones her intellect on a\ndaily basis."
+        },
+        {
+            "text": "But with her quick thinking and\nanalytical skills,\nshe really is able to\nmake the best possible\nrecommendation\nfor me."
+        }
+    ]
+}

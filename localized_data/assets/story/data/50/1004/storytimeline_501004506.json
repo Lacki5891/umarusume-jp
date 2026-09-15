@@ -1,0 +1,173 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Марузенски asks me to accompany her\nto her\ndance lesson.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks for coming, Trainer! Hehe, I'm\nreally\nhappy you're here! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thanks for coming, Trainer! Hehe, I'm\nreally\nhappy you're here! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll show you that running isn't my only\nweapon!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll show you that running isn't my only\nweapon!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to get jiggy to the <i>max!</i> ♪ Just\nyou\nwatch!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to get jiggy to the <i>max!</i> ♪ Just\nyou\nwatch!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "One, two, three, four! Yeah, yeah! ♪\nWoo,\nwoo! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You're really getting into it."
+            ]
+        },
+        {
+            "text": "I know, right? I'm in the groove!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But I have to admit... I think the dance is\nstill\nmissing a certain something.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "What's that?"
+            ]
+        },
+        {
+            "text": "You know, that <i>thing.</i> What's it called?\nThe\nfolding fan with fluffy feathers on it.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If I had one of those, that would be\nsuper hype\nfor my dances!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I've never heard of it.",
+                "That really takes me back."
+            ]
+        },
+        {
+            "text": "If I had one of those, that would be\nsuper hype\nfor my dances!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I've never heard of it.",
+                "That really takes me back."
+            ]
+        },
+        {
+            "text": "Oh? It's apparently all the rage in the\ncity, but I\nguess you never came across\nit.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh? It's apparently all the rage in the\ncity, but I\nguess you never came across\nit.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "In that case, let's try something a little\ndifferent\nwith today's lesson...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to teach you the latest dance\nmoves! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to teach you the latest dance\nmoves! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I mean, you're always the one teaching\nme things,\nright?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I mean, you're always the one teaching\nme things,\nright?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So today, it's <i>my</i> turn to teach <i>you.</i>\nHehe, this is\ngoing to be great! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, let's continue the dance lesson.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to pick up the pace. Don't\nblink, or\nyou'll miss it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "After that, Марузенски shows me a\nnumber of her\nliveliest dance moves.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Woo-hoo! ♪ Pump it up! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Takes you back? Wh-what do you\nmean?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Young people these days are getting\njiggy like\nthis, aren't they?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That's what my mom told me. She said\nthis is the\nbig thing in the city...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Besides, I saw a movie that had a scene\nwhere\neveryone was doing this dance\ntogether!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Maybe that movie was old to begin with..."
+            ]
+        },
+        {
+            "text": "What?! That can't be true! It was a very\npopular\nVHS!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If that isn't trendy, then what in the\nworld <i>is?</i>",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Maybe try watching the latest shows on your\nsmartphone?"
+            ]
+        },
+        {
+            "text": "You can do that with a phone?! I had no\nidea...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heh... To be honest, I'm not very good\nat using\nmine yet...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But just you wait and see! I'll figure out\nthat\ngadget one of these days!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "For the trends!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски's moves somehow remind me\nof\nschool dances when I was younger,\nbut she looks\nso happy...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The road is still long, but Марузенски's\n\ndetermination remains firm...",
+            "name": "Монолог"
+        }
+    ]
+}

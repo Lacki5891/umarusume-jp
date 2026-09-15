@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It is finally my turn to race. Are you\nready?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Indeed. I'd expect nothing less of my—I\nmean... of\nthe trainer to an Umamusume\nfrom the esteemed\nMejiro family.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hehe! I'm getting all fired up! This is just\nthe\namount of tension I need.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "For the dream I must fulfill... Here I go!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

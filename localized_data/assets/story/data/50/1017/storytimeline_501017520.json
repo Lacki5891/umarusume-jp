@@ -1,0 +1,156 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, an unexpected cloudburst\nassails the\nacademy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Like cats and dogs, indeed. What to do,\nwhat to\ndo...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I bump into Симболи Рудольф, who seems\nto be\ndeep in thought.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is everything all right?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Yes, quite all right, thank you. Only,\nwell... It\nseems I have some free time on\nmy hands.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I had student council business outdoors\ntoday,\nbut it's been postponed due to\nthe rain.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I went to see what other duties I could\ntake care\nof, but I found that Эйр Грув\nhad beaten me to\nthe punch.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She already had everything squared\nfirmly away.\nSometimes I feel like she\ncould run this council on\nher own...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "In any case, as you can see, I am now at\na loss for\nwhat to do with myself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "A failing on my behalf, I suppose. I've\ngrown too\naccustomed to having a full\nschedule.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That's what you're worried about? But\nthat's\nsimple!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, hello, Марузенски.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Heya! You looked a little down in the\ndumps, so I\nthought I'd listen in! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I might have guessed. You have a nose\nfor drama.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "At any rate, what exactly is so simple?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Duh! I mean what you should do with\nyour free\ntime! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Look, if you don't know where to start,\njust do\nwhatever pops into your head!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I see... So spontaneity is vital. The\nwillingness to\nbe carried away by a\nwhim.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Um... I guess? You don't have to make\neverything\nsound so serious.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Anyway, if you can't think of any ideas...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Why don't you ask someone close by for\na\nhelping hand? ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Anyway, that's all for the drive-by help\nsesh! I'm\nsure you whippersnappers can\nfigure out the rest.\nBye-bye now! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Whippersnappers? We're in the same\nschool\nyear...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "All the same, I see what she's getting at.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It appears I must once again seek your\ncounsel,\nTrainer.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What should I do with this abundance of\ntime\nthrust upon me?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "A comedy workshop.",
+                "Rainy weather race research."
+            ]
+        },
+        {
+            "text": "An intriguing idea. I certainly wouldn't\nwant to\nsquander this opportunity...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I hesitate to impose on you further, but\ncould I\nask you to assist me?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I have some truly excellent material in\nmy\nnotebook that I would like your\nopinion on.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I want you to be as frank as possible, so\nplease\ndon't hold back!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "For the rest of the afternoon, Symboli\nRudolf\nunleashes a barrage of jokes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Research, you say? I certainly can't fault\nyour\ndiligent attitude.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, I can hardly let your enthusiasm go\n\nunanswered, can I?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Shall we make our way to your office?\nThere\nshould be some footage of past\nraces there that\nwe can watch.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф and I spend the rest of\nthe\nafternoon watching all of the wet\nweather race\nvideos we can find.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's an experience too bizarre to\ndescribe, but she\nseems satisfied by the\nresults.",
+            "name": "Монолог"
+        }
+    ]
+}

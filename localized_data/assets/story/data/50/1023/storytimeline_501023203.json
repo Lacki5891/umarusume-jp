@@ -1,0 +1,104 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the Japanese Derby, and tens\nof\nthousands of fans have packed into\nthe Tokyo\nRacecourse for this event."
+        },
+        {
+            "text": "They're all here to see last month's top\nthree of\nthe Satsuki Sho—the so-called\n\"BNW.\""
+        },
+        {
+            "text": "\"From two major prospects to three,\nBiwa\nHayahide, Нарита Таисин, and\nУиннинг Тикит\nhave entered the hearts\nof many as fan favorites.\"",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Wow, they even gave us an acronym.\n\"BNW,\"\nhuh?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You've got a lot of eyes on you now."
+            ]
+        },
+        {
+            "text": "Hm, there certainly were more reporters\nthan\nusual at last week's public training\nsession, but...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hey, didja hear about Tickezo?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Yeah! She's been turning down\ninterviews and\nrefusing to talk with fans,\nright?",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "It's weird. She's not acting like the\nTickezo we all\nknow and love.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Hayahide?"
+            ]
+        },
+        {
+            "text": "What is it?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "If you're worried about something, talk to me."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's nothing serious. I just feel nervous,\nlike when\nI'm waiting for my test to be\nhanded back.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's like when you don't know the right\nanswer to a\nquestion and you can't stop\nthinking about it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But I <i>know</i> my winning equation must\nlead to a\nsolution. And I intend to find\nthe best answer that\nI can in this race.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(The strange feeling I had at the Satsuki\nSho...)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "(The strange feeling I've had <i>since</i> the\nSatsuki\nSho...)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(Does it mean anything? Or perhaps...)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You can do it, Ticket! I know you can\nbecome the\nDerby Champion!",
+            "name": "Spectator"
+        },
+        {
+            "text": "Got that right! Just you watch me win\nthis!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "(...I'd better focus on the race right\nnow.)",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

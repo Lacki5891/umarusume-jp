@@ -1,0 +1,229 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's been a busy few days, but it's finally\nover...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Deciding to treat myself, I drag my tired\nbody to\nthe shopping district.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey there, Trainer! Wait up!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature?"
+            ]
+        },
+        {
+            "text": "I knew you were busy, but I didn't\nexpect you to\npush yourself this hard.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I can't stand seeing you like this, so\nhere, let me\ntreat you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The shop's not open yet, so there aren't\nany\ncustomers. Why don't you wait in\nthe karaoke\nsection in the back?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер brings me to the corner of a\nbar.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Where are we?"
+            ]
+        },
+        {
+            "text": "I know the lady who owns this place. She\nsaid we\ncould use this space after I\nexplained the\nsituation.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'll go make something simple... I can't\nguarantee\nit'll be good, though.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A few minutes later, Найс Нэйчер comes\nback with\nsome fried rice.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "All of this, for me?"
+            ]
+        },
+        {
+            "text": "She said I should feed you as much as\nyou need.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Go ahead and start eating before it gets\ncold.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Whoa! You could totally open a restaurant!"
+            ]
+        },
+        {
+            "text": "The fried rice not only looks\nprofessionally\nprepared, but it tastes\nlike it too! I can't stop\neating.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're so dramatic. It's just something I\npicked up\nfrom when I used to help my\nmo—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Holy cow! You've already finished?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It was just that good."
+            ]
+        },
+        {
+            "text": "No need for flattery. You must've been\nstarving.\nHere, give me the plate.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I watch her as she leaves.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe it's because I just ate so much,\nbut I start\nto drift off...",
+            "name": "Монолог"
+        },
+        {
+            "text": "La... la la... ♪",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...La la la... ♪",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh? Did I wake you up?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What were you singing?"
+            ]
+        },
+        {
+            "text": "It's a song my mom used to sing at the\ncounter. I\ndon't really know much\nbeyond the melody\nthough.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I was thinking about those times and just\nstarted\nsinging... Sorry.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Actually, I wanted to hear more."
+            ]
+        },
+        {
+            "text": "You and your flattery again. It's not\nnecessary,\nyou know.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I really do like your singing.",
+                "If you sing like that at concerts, it'll be perfect!"
+            ]
+        },
+        {
+            "text": "You and your flattery again. It's not\nnecessary,\nyou know.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I really do like your singing.",
+                "If you sing like that at concerts, it'll be perfect!"
+            ]
+        },
+        {
+            "text": "O-okay, if you say so. You really are\nstrange...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But I'm relieved that you said you liked\nit, instead\nof saying my singing is \"good.\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That kind of pressure really gets to me,\nyou\nknow? It makes it all the worse when\nI end up not\nliving up to such praise.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature..."
+            ]
+        },
+        {
+            "text": "Haha, sorry for getting serious.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I like it when you share your serious thoughts\ntoo."
+            ]
+        },
+        {
+            "text": "What... You're crazy...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You keep saying things like that, and\nit'll lose its\nmeaning.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Are you all done, Natie?",
+            "name": "Bar Owner"
+        },
+        {
+            "text": "Thanks for letting us use the bar. It was a\nhuge\nhelp.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You must be the trainer Natie's been\ntalking\nabout. She's told me so much\nab—",
+            "name": "Bar Owner"
+        },
+        {
+            "text": "Oookay! That's enough! Let's go,\nTrainer!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "So you've been talking about me?"
+            ]
+        },
+        {
+            "text": "We're. Done. Here!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wow... You're still thinking about\nwinning\nconcerts even after working so\nmuch?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "This has been on my mind for a while\nnow, but...\naren't you pushing yourself a\nlittle too hard?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I feel like you'll burn out if I don't keep\nmy eye on\nyou.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That won't happen."
+            ]
+        },
+        {
+            "text": "I beg to differ.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "One sec. I'll go make you a rice ball for\nlater.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're just going to continue working\nwhen you\nget home, right?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You know me too well."
+            ]
+        },
+        {
+            "text": "Hey! At least pretend like you won't!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The owner watches us warmly as we take\noff.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I leave the bar with a loving lecture and\na\nlate-night snack from Найс Нэйчер.",
+            "name": "Монолог"
+        }
+    ]
+}

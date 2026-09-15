@@ -1,0 +1,180 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the Tokyo Daishoten is here,\nand Oi\nRacecourse is looking livelier\nthan usual!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Смарт Фалкон has really caught my eye!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Same. This is my first dirt race. Wonder\nhow she\nlooks when she's running. I\nalready know she's\nsuper cute onstage!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Hey, it's Falco! Good luck!",
+            "name": "Falco Fan A"
+        },
+        {
+            "text": "I'm cheering for you! And I can't wait to\nsee you\nsing!",
+            "name": "Falco Fan B"
+        },
+        {
+            "text": "...Thanks so much, you guys! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Follow me until the very end and\nbeyond. ☆\nSmart Falcon, taking\nflight! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Wooo!",
+            "name": "Fans"
+        },
+        {
+            "text": "I thought she would be over the moon\nseeing all\nthis hype before the race,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон seems to be struggling to\n\nconcentrate. Her chitchat lacks its usual\nzing.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is something on your mind?"
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oh, it's nothing! It's not like I'm worried\nabout\nanything...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's just... More people are coming,\nright?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "It's still early, so... I'm sure there'll be\nmore\npeople coming later.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "There's a lot more people here than usual."
+            ]
+        },
+        {
+            "text": "Смарт Фалкон's growing popularity is\nhaving an\neffect on the popularity of dirt\nraces as a whole.\nIn other words...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Your hard work is paying off."
+            ]
+        },
+        {
+            "text": "...Haha, I'd sure be happy if that were\nthe case. ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "At least... we did everything we could\npossibly do.\nNo stone unturned.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's almost time for the race to start, and\nSmart\nFalcon is looking increasingly\nnervous.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer. How many people are\nthere now?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "It's looking to be over thirty thousand now."
+            ]
+        },
+        {
+            "text": "Seeing how fixated Смарт Фалкон has\nbeen on the\naudience numbers, I\nchecked them with the\norganizers. I tell\nher how delighted the staff were.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thirty thousand... That's unreal. And...\nhow many\nwere at the Arima Kinen? Just\nout of curiosity.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Around a hundred and ten thousand, I think."
+            ]
+        },
+        {
+            "text": "One hundred and... Th-that many?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I get it now. Those numbers are like...\nday and\nnight.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The Tokyo Daishoten is the final race of\nthe year.\nIt gets a lot more attention\nthan the other dirt\nraces.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Plus, a bunch of my fans are here to see\nme this\nyear.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yet, despite all of that... it just doesn't\ncompare.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I suppose she feels a little disappointed\nin the\nturnout, having just experienced\nthe immense\nscale of the Arima Kinen\nfirsthand.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I think you should stop focusing on the\nnumbers."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You can't afford to be distracted during the\nrace."
+            ]
+        },
+        {
+            "text": "The Tokyo Daishoten hosts the strongest\nrunners\nregardless of age. Смарт Фалкон\nwon't be able to\nwin if her eyes aren't\nfixed firmly on the prize.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Yeah, you're right.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Sorry about that! I guess I'm just\nstressing myself\nout.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I've done everything I can. There's no\nchanging\nthings now.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I need to kick these thoughts to the curb\nand aim\nfor center stage!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...Don't you worry! There's nothing on my\nmind\nnow except the center!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Let's finish this year on a high note!"
+            ]
+        },
+        {
+            "text": "Right!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

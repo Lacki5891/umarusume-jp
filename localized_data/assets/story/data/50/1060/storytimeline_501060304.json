@@ -1,0 +1,201 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I... won? Against Teio? Me?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Haha, hahaha...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I don't believe it... Did I... really?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Awww, I lost!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Teio... I—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You just inspired me!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "This is proof that I can get even faster!\nHehe, I'm\nalready excited!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I wonder how much farther I have to go\ntill I hit\nmy peak... Time to step it up and\nget there in a\nflash!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Wait...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That was too close. I almost got cocky.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wake up, Nature. You just... got lucky.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Because, I mean... there's no way that...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I could shine brighter than she does.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Congrats, Nature!"
+            ]
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Aren't you happy?"
+            ]
+        },
+        {
+            "text": "I was when I won, of course. But...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "This can't be anything but luck. I don't\nhave what\nit takes to be a winner.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Why would you say that?"
+            ]
+        },
+        {
+            "text": "I mean, it makes no sense. There's no\nway I'm\nactually faster than Teio.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "There's nothing about me that shines\nabove the\npack. Something must have\ngone wrong.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "There's no way I would win in a test of\nskill. If we\nrace again... I'll definitely\nlose.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Gaaah! I can't believe I thought I had\nactual\ntalent for a second there! I want\nto crawl into a\nhole!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But Найс Нэйчер <i>did</i> win, and it <i>was</i> her\nown\nabilities that brought about that\nvictory. And\nyet...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gosh, that's embarrassing.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Her lack of confidence in her abilities\nhas caused\nher to doubt her\nachievements and react as if she\nlost\ntoday. In this case, what she needs is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Nature, do you wanna go on a little trip?"
+            ]
+        },
+        {
+            "text": "A trip? But why now?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Let's go get a win this summer."
+            ]
+        },
+        {
+            "text": "It's a risky gamble to ask her to compete\nin the\nClassics right now. She could lose\nwhat little\nconfidence she has.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Winning at local races and steadily\naccumulating\nwins will be better for her\noverall growth.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are you saying... I'm not going to be\ncompeting in\nthe Satsuki Sho or\nJapanese Derby?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Because I'm not good enough?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Right now, we should focus on building your\nconfidence in your skills."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're right. Right now, even if I won\nthose races,\nI wouldn't accept it.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "After this summer, you'll be even faster."
+            ]
+        },
+        {
+            "text": "I hope that's the case.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Phew...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay, then! Touring in a caravan is more\nmy style,\nanyway.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But we're not actually doing that, are\nwe?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What kind of race are you thinking of?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "How about the Kokura Kinen?"
+            ]
+        },
+        {
+            "text": "A graded race that takes place in\nKokura... the\nperfect race for Nice\nNature to gain some\nconfidence.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh, that one is the same distance as\nWakagoma,\nright? I think that's a good\nidea.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But summer in Kokura... Yay... I love\nsweating...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And so, we decide to aim for the Kokura\nKinen\nnext!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After a day out...",
+            "choice_data_list": [
+                "This time I'll make sure you have fun!"
+            ]
+        },
+        {
+            "text": "<i>...Sigh.</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Look, I didn't have <i>any</i> fun the last time\nyou tried\nto play a game with me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Stop with the kiddy games. It's not\ngonna happen.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Sure—last time ended in failure—but\ntoday, I\nhave an ace up my sleeve. I\nknow all about the\ngame she's been\nobsessed with recently.",
+            "choice_data_list": [
+                "Let's play RDLI!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "RDLI is a PvP FPS developed overseas.\nWhat\nmakes it fun is the wide arsenal of\nweapons\nplayers can use to outwit their\nopponents."
+        },
+        {
+            "text": "I thought I was the only one around here\nwho\nplays it...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I heard from Супер Крик that Narita\nTaishin's\nbeen grumbling about not\nhaving anyone to play\nwith."
+        },
+        {
+            "text": "I stand little chance of beating an\nexperienced\nplayer like her, but she'll\nprobably enjoy it if I put\nup a good\nenough fight.",
+            "choice_data_list": [
+                "Let's battle!"
+            ]
+        },
+        {
+            "text": "Fine. I accept your challenge.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm a little unsettled by how readily she\naccepts\nmy offer, but I charge into\nbattle nevertheless,\nready to give the\nfight of my life."
+        },
+        {
+            "text": "YOU LOSE."
+        },
+        {
+            "text": "That's another win for me. I'm five for\nfive now.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Y-you're so good at this!"
+            ]
+        },
+        {
+            "text": "Yeah? I mean, I do play a lot.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Anyway, you had a lot of nerve\nchallenging me\ndespite being trash at\nthe game.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You choose terrible weapons and stages,\nand you\nsuck at using the NPCs. Did you\neven change the\nsettings to match your\nplay style?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "This is my first time playing PvP mode,\nso I was\nlooking forward to it, but\nplaying against you is\ndisappointing as\nhell.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин is rarely this chatty. She\nseems to\nbe in a good mood now that\nshe's found someone\nto wipe the floor\nwith."
+        },
+        {
+            "text": "It's no fun like this... Want me to make\nthings\neasier for you?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Please!",
+                "Not yet!"
+            ]
+        },
+        {
+            "text": "Wow, no hesitation. Don't you have any\npride?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I just want to keep hanging out with you."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "If I keep losing so easily, she's going to\nget bored.\nI'll gladly throw away my\npride to give her a\nbetter match."
+        },
+        {
+            "text": "Do you hear yourself? You are seriously\nhave no\nshame at all.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'll only use the default weapons, and\nyou can\nborrow one of my SSRs. If you\nstill can't win, then\nyou're a lost cause.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Thanks!"
+            ]
+        },
+        {
+            "text": "Hmph, whatever.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "YOU LOSE."
+        },
+        {
+            "text": "I knew you couldn't do it.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "...I give up."
+            ]
+        },
+        {
+            "text": "Even after countless rematches, I just\ncan't win\nagainst her. I try to apologize\nfor being a terrible\npartner, but she cuts\nme off."
+        },
+        {
+            "text": "It's fine. We can play again some other\ntime.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Wait... Really?"
+            ]
+        },
+        {
+            "text": "The rewards they give out for winning\nPvP\nmatches are pretty good. Plus,\ncrushing you is\nkinda fun.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hmm? You really think you can beat me\nwithout\nany boosts?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Not really..."
+            ]
+        },
+        {
+            "text": "Then you should just ask for a handicap.\nIt'll even\nthe playing field.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "This game is super fun, so I want to try winning\nby myself."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I thought you were gonna complain\nabout being\nbad at strategizing, not\ngetting the controls, or\nthat the game's\ntoo violent and scary.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "That's what makes it fun!"
+            ]
+        },
+        {
+            "text": "If you say so. Give me your best.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She seems to be in an even better mood,\nbut..."
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Huh? I missed the landing."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Uh... What does this item do again?"
+            ]
+        },
+        {
+            "text": "Ugggh! Stop!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm getting ticked off just watching you\nplay! You\nshould use that item you got\nearlier and...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "See? Now you get more health back.\nRestoration\nitems are vital to winning.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I see now! You're incredible, Taishin!"
+            ]
+        },
+        {
+            "text": "...This is, like, the most basic of basic\nknowledge.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whatever. Agh, look at the time! I've\nwasted the\nwhole day with you!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Thanks for teaching me so much, Taishin!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't need your thanks! I'm leaving!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She leaves in a huff, but I'm glad I got to\nplay so\nmany rounds against her."
+        },
+        {
+            "text": "Her words are harsh, but at least she's\ngiving me a\nchance."
+        }
+    ]
+}

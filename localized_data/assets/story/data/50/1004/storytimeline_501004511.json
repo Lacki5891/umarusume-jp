@@ -1,0 +1,207 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while stopping by the\nshopping center...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, Tazuna, what do you think?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Um, well, I appreciate the invitation...",
+            "name": "Тазуна Хаякава",
+            "choice_data_list": [
+                "What are you two up to?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer! Good timing!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, Trainer! Good timing!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Can you please help me entice Tazuna?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Entice?"
+            ]
+        },
+        {
+            "text": "Yeah! We ran into each other just as she\nwas\nfinishing an errand for the director.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So I thought we could hang out together\nand\nchillax! But she isn't playing along...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The director is waiting for me. I have to\ngo back\nsoon.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "You're always so serious! Let your hair\ndown every\nonce in a while!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It seems Марузенски and Tazuna get\nalong quite\nwell, despite their\nrelationship as student and\ndirector's\nassistant.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You've been working nonstop lately.\nEveryone is\nworried about you!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Even so...",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "C'mon, use that newfangled phone of\nyours to\ncall the director up real\nquick! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Just repeat after me, \"I shall return\nposthaste\nafter enjoying a lemonade at a\ncafe with\nМарузенски!\" ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A lemonade at a cafe... does sound\nrather\nwonderful...",
+            "name": "Тазуна Хаякава",
+            "choice_data_list": [
+                "(It's actually working.)"
+            ]
+        },
+        {
+            "text": "Hey, Trainer, don't you think she should\nhave a\nlittle fun?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, Trainer, don't you think she should\nhave a\nlittle fun?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски comes on strong, but her\nheart is in\nthe right place. However, I\nalso know that Tazuna\nis very serious\nabout her work...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We could take a leisurely stroll back to the\nacademy.",
+                "I think it's okay to have a little fun sometimes."
+            ]
+        },
+        {
+            "text": "Oh, that's an interesting idea. Any\nparticular\nreason?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "A friendly chat can be pretty refreshing, don't\nyou think?"
+            ]
+        },
+        {
+            "text": "That's true... Chatting with friends can\nput some\npep in your stЭпизод",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well said, Trainer! Let's make our way\nback, then.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Hey, you say that like your bacon just\ngot saved!\nRude...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe... I know you're just worried about\nme,\nMaruzen. And I do appreciate the\nconcern.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Eh, it's no biggie. Anyway, enough of\nthe boring\nchitchat...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Trainer! Wait until you hear this juicy\nsecret about\nTazuna! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Trainer! Wait until you hear this juicy\nsecret about\nTazuna! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What?! What are you talking about?!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "The other day, I went to her room\nunannounced,\nand when I opened that\ncreaky closet of hers—",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Ehehe, only joshing ya! Let's head\nback! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "See! It's agreed!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "See! It's agreed!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Why resist the inevitable? Have some\nfun with\nme!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, very well. Only for ten minutes,\nokay?",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Yaaay! You're mine now, Tazuna! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Of course, your attendance will also be\nrequired,\nTrainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I had a feeling you'd say that."
+            ]
+        },
+        {
+            "text": "Of course, your attendance will also be\nrequired,\nTrainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I had a feeling you'd say that."
+            ]
+        },
+        {
+            "text": "Oh, you saw that coming, did you? You\nknow me\ntoo well! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, you saw that coming, did you? You\nknow me\ntoo well! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right, let's start with a little\nshopping! And\naway we gooo! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey! Wait for us!",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Hehe... As spirited as ever.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "We don't end up discussing any secrets,\nbut I get\na glimpse of just how close the\ntwo of them are as\nwe walk home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The three of us end up walking around\nthe mall.\nAlthough it's a little\nexhausting, it's also a nice\nbreak.",
+            "name": "Монолог"
+        }
+    ]
+}

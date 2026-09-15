@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Okay, I think I'll get going.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What did you three talk about?"
+            ]
+        },
+        {
+            "text": "Nothing important. I think the last time\nwe met\nwas when we ate together a\ncouple of days ago.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We didn't talk about anything special\nthen either.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Just how awful Ticket's test scores were\nand how\nannoyed Hayahide was with\nBrian. Y'know, that\nkinda stuff.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But I'm fine with that. I've never been\ngood at\nmaking conversation anyway.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I prefer to race.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Interesting!"
+            ]
+        },
+        {
+            "text": "Anyway, later.",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

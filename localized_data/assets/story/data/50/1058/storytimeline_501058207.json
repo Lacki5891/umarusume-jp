@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the day of the autumn Tenno Sho.\nWe're\nslated to race against T.M. Opera\nO once again,\nbut Мэйсё Дото has\nanother objective at heart..."
+        },
+        {
+            "text": "Т.М. Опера О finally acknowledged my\nskills at\nthe Takarazuka Kinen. So this\ntime...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'd like today to be the day she\nconsiders me her\npartner. I, too, will\nshine bright just like her.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I see... Go for it!"
+            ]
+        },
+        {
+            "text": "I cheerfully see Мэйсё Дото off. After\nthat..."
+        },
+        {
+            "text": "So, any luck finding a way to break past\nthe\nceiling?",
+            "name": "Air Shakur",
+            "choice_data_list": [
+                "Not yet, but we're gonna see the answer today."
+            ]
+        },
+        {
+            "text": "Hah! That's a tight deadline you're\nsetting. But, if\nyou happen to figure it\nout...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Well, I think <i>I'm</i> onto something.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Huh? You're... Адмайр Вега...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "I won't pretend to understand complex\nstats,\nbut...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "If there is a ceiling hampering Doto's\n\ngrowth—casting a shadow over her\n\npotential—then I know the cause.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I think we've both known deep down,\nthis whole\ntime. Right, Тренер?",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I gulp down some air, having been called\nout.\nSomething might become unveiled\nduring this fall\nseason race."
+        }
+    ]
+}

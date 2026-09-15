@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The cherry blossoms are in full bloom for\nthis\nyear's Oka Sho!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Who will win the tiara today? Only time\nwill tell!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Хиши Амадзон... She ran in the Hanshin\nJ.F., right?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Apparently. I heard she's a strong\ncontender for\nthe Triple Tiara this year.",
+            "name": "Fan B"
+        },
+        {
+            "text": "There's quite a number of spectators in\nthe stands\nwho are looking forward to\nseeing Хиши Амадзон\nrace."
+        },
+        {
+            "text": "Meanwhile, Хиши Амадзон herself is a\nlittle\ndistracted."
+        },
+        {
+            "text": "...",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "Ack! Sorry about that. I just zoned out\nfor a\nsecond!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "That's not like you."
+            ]
+        },
+        {
+            "text": "Well... Don't laugh at what I'm about to\ntell you,\nokay?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I know I chose the Tiara to prove I was\nworthy of\nchallenging Brian and all,\nbut...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Now that I've come all this way, it feels\nlike...\nI'unno.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I kinda feel like I was meant for this\npath—that\nthis is the start of a whole\nnew me.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "text": "Man, what am I even saying?! Forget all\nof that!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I've gotta focus on winning this first!\nHere I go,\nfull steam ahead!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон heads into the Oka Sho\nwith a\nwide, courageous grin!"
+        }
+    ]
+}

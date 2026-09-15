@@ -1,0 +1,182 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm visiting a racecourse today to inspect\nit for\n<chrname>.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've heard the good news, Oguri! Looks\nlike\nthey're having an event to mark the\nrelease of\nyour plushie! Congratulations!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Th-thank you.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Your family must be so proud of their\nlittle star!\nI'd love to get the scoop on\ntheir heartwarming\nreaction. When are\nthey available for an\ninterview?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Well, my parents are back in my\nhometown, so—",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, I don't mind talking over the phone!\nSooo, if\nyou would just tell me your\nfamily's phone\nnumber...",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Th-their number? Um, it's zero—",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Interview or not, asking for personal\ninformation\nis unacceptable. As a\nmember of the academy, I\ncan't stand\nidly by.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Please contact the academy if you have any\nfurther questions."
+            ]
+        },
+        {
+            "text": "Huh, and who might you be? Th-that\nbadge...\nHaha, you must be from the\nacademy, eh? Well,\nI'll be on my way,\nthen!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Thanks for saving me. I had a feeling\nthat\nreporter didn't have good\nintentions.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "You should turn reporters down the second you\nthink it's suspicious."
+            ]
+        },
+        {
+            "text": "Yeah, I know...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "But that reporter called me a star.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "And he told me that stars have an\nobligation to\nrespond because that's\nwhat their fans would\nwant.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I thought if I refused to answer...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Maybe I'd be letting everyone down. Is\nthat not\ntrue?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's clear she regards her fans highly...\nbut that\nmakes what I'm about to say all\nthe more\nimportant.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You need to be firm in turning them down."
+            ]
+        },
+        {
+            "text": "But...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Your true fans care about <i>you</i> as well."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "You're right... Tome and Shige used to\nalways tell\nme I was their treasure.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I guess that means I should protect\nmyself... so I\ncan protect their treasure.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Okay, I see where you're coming from.\nI'll make\nsure to refuse next time.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...I wonder if I'll really be able to do it\nproperly,\nthough.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "If you can't do it yourself, ask an adult for help.",
+                "I'll teach you a special phrase."
+            ]
+        },
+        {
+            "text": "...Okay, I'll do that.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Then I'll be counting on you when the\ntime comes.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "Yes. The way you handled the\nconversation\nearlier was very impressive.\nPlus, you just happen\nto be from the\nacademy.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "So... Could I ask for your help again?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'm taken aback by her frank request.\nEverything\nshe said is true, but...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're really straightforward... almost to a fault."
+            ]
+        },
+        {
+            "text": "Yeah, I've heard. My mom often praised\nme for it.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...A special phrase?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Please contact the academy."
+            ]
+        },
+        {
+            "text": "That's... exactly what you told the\nreporter!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "And the reporter ran off the second they\nheard\nthose words. Hmmm...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Just as she finishes speaking, a woman\nruns over\nto us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, there you are, Oguri! About the\nplushie—",
+            "name": "Staff"
+        },
+        {
+            "text": "Please contact the academy regarding\nthat\nquestion!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh. Wait, what?! Weren't we scheduled\nto have a\nmeeting about manufacturing\nyour plushie today?",
+            "name": "Staff"
+        },
+        {
+            "text": "Oh. Yes, that's right... S-sorry.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Seems like it'll take a little more work\nbefore she\ncan use her special phrase\nproperly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later on, I see Огури Кэп candidly\nasking other\nadults in the academy\nvarious questions.",
+            "name": "Монолог"
+        }
+    ]
+}

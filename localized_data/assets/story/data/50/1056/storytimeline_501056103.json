@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp is here. With the Kikuka\nSho on the\nhorizon, this summer will put\nus to the test.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The wheels of fortune go round and\nround! All\naboard, we're heading\nsouthward!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Summer camp is finally here, Trainer.\nLet's make it\none to remember!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "And do know that our fate is at stake\nhere. If we\ndon't find ourselves in the\nillumination of great\nhope, only darkness\nawaits. We either find\nhappiness or we\ndie!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "That's a bit of an exaggeration..."
+            ]
+        },
+        {
+            "text": "M-maybe. But now you know how\ndetermined I\nreally am.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Now then, according to my lucky map...\nour\ntraining camp is just up ahead.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Egads, the direction we're heading in\nnow is very\nauspicious! Northeast, the\ndirection of the ox!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's keep on pushing! The farther we\ngo, the\nmore good fortune will come our\nway!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wait! We've gone past the central point\non my\nmap... That can only mean...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ack?! We're going in the least\nauspicious\ndirection possible! Bad luck is\nupon us! STOP THE\nBUS!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "They're not going to stop the bus..."
+            ]
+        },
+        {
+            "text": "Uuugh, I guess you're right... I just knew\nthis\nsummer wasn't going to be that\nsimple...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But that's why I have to fight back with\neverything\nI've got. Come at me, endless\nsea of challenges!\nYou'll have to get\nthrough Trainer first!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...I think I'll let her fend for herself. This\nis bound\nto be one fiery summer.",
+            "name": "Монолог"
+        }
+    ]
+}

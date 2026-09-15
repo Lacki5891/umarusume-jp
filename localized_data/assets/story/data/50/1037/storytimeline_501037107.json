@@ -1,0 +1,228 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Since Valentine's Day is coming up,\nEishin Flash\nand I visit a chocolate shop\nto see what's popular\nthis year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me! I was in line first! Hey, quit\nshoving!",
+            "name": "Customers"
+        },
+        {
+            "text": "Would all customers interested in\npurchasing\nchocolates please line up\nhere—in an <i>orderly</i>\nmanner, please!",
+            "name": "Employees"
+        },
+        {
+            "text": "What chaos...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Yeah..."
+            ]
+        },
+        {
+            "text": "It doesn't look like we'll be able to\nbrowse at our\nleisure. What a shame...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I've already purchased what I wanted\nonline, so\nlet's go back.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I have witnessed that same scene many\ntimes\nsince my arrival in Japan, but I still\nfind it curious.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why so? Are things different in Germany?"
+            ]
+        },
+        {
+            "text": "We celebrate Valentine's Day as well,\nbut flowers\nare the primary gift of\nchoice.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Also, only partners give and receive\ngifts... The\ncustom of giving \"obligatory\nchocolates\" does not\nexist.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My father would gift roses to my mother\nevery\nyear without fail.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "So the idea of giving a gift to someone special\nis the same."
+            ]
+        },
+        {
+            "text": "It's a little different, I think. In Germany,\nthe gift\nis not given as a love confession.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Come to think of it, why do people\nconfess their\nlove to another on\nValentine's Day in the first\nplace?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Maybe because the day itself makes it easier."
+            ]
+        },
+        {
+            "text": "I explain how it's easier to prepare\nyourself when\nyou've chosen a date to\nconfess, especially on\nValentine's\nDay—the day of love.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm, so it essentially creates a\npretext... I think I\nhave a general grasp\non the idea now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, a confession of love would\nirreversibly\nchange the established\nstatus quo between two\npeople.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "As such, it would be more considerate to\nexpress\nyour appreciation to someone\nregularly instead\nof making a\nspontaneous show of affection.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "For example?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...I do not have any examples as of now.\nMay I\nplease have a little time to think\nupon it?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Oh, you don't have to think about it that hard..."
+            ]
+        },
+        {
+            "text": "No, but I wish to think it through myself.\n...At any\nrate, let's return home for now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And so, Valentine's Day arrives.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Please accept this. It's a chocolate cake.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Oh. Thank you?"
+            ]
+        },
+        {
+            "text": "Why was that phrased as a question?\nThis is a\nperfectly standard Valentine's\nDay gift.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "But you said giving obligatory gifts isn't\ncustomary for you..."
+            ]
+        },
+        {
+            "text": "I have put a great deal of thought into\nthe matter\nsince then and realized gift\ngiving is an easy\nmethod to express\none's feelings.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ergo, I decided to partake in the custom.\n\nHowever, this is meant to convey my\ngratitude for\nyou and not a confession\nby any means.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I've come to realize why people give\neach other\nchocolate on Valentine's\nDay, however.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "And why's that?"
+            ]
+        },
+        {
+            "text": "Because they want to see how surprised\ntheir\nrecipient will be as well as how\ntroubled they\nbecome over the gift's\nintention.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Trainer. My homeroom teacher wishes to\nspeak\nwith you. Are you available right\nnow?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I am!"
+            ]
+        },
+        {
+            "text": "Then I shall wait here and review my\ntraining\nschedule while you two speak.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Her homeroom teacher makes small talk\nwith me\nabout how wonderful a student\nFlash is.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good. All looks well.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ah, welcome back.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will be going now. I'll see you again\ntomorrow at\nnine o'clock to discuss my\nschedule.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Sure! See you then."
+            ]
+        },
+        {
+            "text": "Um...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Do you recall the discussion we had\npreviously\nabout expressing your\nappreciation to someone\non a regular\nbasis?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Oh, the one we had on Valentine's Day?"
+            ]
+        },
+        {
+            "text": "In the end, I think it might be best to\nshow your\nfeelings to them directly.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, simply being kind will not\nsuffice. You\nmust impart them with\nsomething.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "For example, let's say you give a flower\nto\nsomeone who doesn't normally keep\nthem in their\nhouse.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That flower will become part of their\ndaily life\nbut, inevitably, will wilt and be\nthrown out at\nsome point.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "At that point, the person will become\naware of a\nnew potential lifestyle—one\nwith flowers.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And maybe, just maybe... they will think\nof the\nperson who gave them that\nflower, too.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...That is all. Please excuse me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After Эйсин Флэш leaves, I notice a\nsweet floral\nscent in the air.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(A single rose?)"
+            ]
+        },
+        {
+            "text": "I jest, of course. Hehe.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Its deep crimson petals look as smooth\nas velvet\nas it sways in the breeze.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On our way back from a training session\nat a track\nin the city...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Hm?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф comes to a halt in front\nof a\ndisplay window.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have been sleepwalking into disaster, it\nseems...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "The fruits of my indolence are beginning\nto show.\nI have put on weight.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You look the same to me."
+            ]
+        },
+        {
+            "text": "Don't be ridiculous. Can't you see how\nthe seams\nof my skirt strain?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It appears the student council's clerical\nduties\nhave done me no favors...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But I must set an example for my fellow\nstudents\nin both action <i>and</i> appearance.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I must redress this as quickly as possible,\nand I am\nafraid you will have to assist\nme.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "After that, we work together on a diet\nprogram\nuntil Симболи Рудольф regains a\nracing physique she\nis satisfied with.",
+            "name": "Монолог"
+        }
+    ]
+}

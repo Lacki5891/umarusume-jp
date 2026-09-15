@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During a training session with Meisho\nDoto, three\nstudents grab our attention.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me, but would you let Meisho\nDoto go\npartner running with us?",
+            "name": "Student A",
+            "choice_data_list": [
+                "I'm fine with it... but what do you think?"
+            ]
+        },
+        {
+            "text": "Eek?! Um, huh?! Well, th-the thing is...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...I'm really happy you asked, but are\nyou sure\nyou want someone like me?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "We totally wanna run against you! I\nwanna learn\nfrom that go-getter attitude\nof yours!",
+            "name": "Student B"
+        },
+        {
+            "text": "B-but, I haven't done anything special to\nwarrant\nthis praise...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "That's not true! I've seen the way you\nalways hold\non towards the end of the\nrace. Just when you're\nsurrounded on all\nsides, you give it one final spurt\nto break\nfree... it's really something!",
+            "name": "Student C"
+        },
+        {
+            "text": "Eep! Oh, th-thank you very much!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Well, if you don't mind having me,\nthen... I would\nbe happy to join you!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Yesss! I'll go get ready, okay?!",
+            "name": "Student A"
+        },
+        {
+            "text": "To be invited on a partner run is like a\ndream\ncome true... And it's all thanks to\nyou, Trainer...\nhehe.",
+            "name": "Мэйсё Дото"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A fan letter arrives for Уиннинг Тикит.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoaaaa! For me? A fan letter?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That means there's someone out there\ngiving me\ntheir support!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's so... so...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I mean, I'm so... <i>Sniff...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'b SOOOO HABBYYYYY! <i>Sniffle!</i>",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Wh-where are you going?!"
+            ]
+        },
+        {
+            "text": "Sorry—I just don't know how to put this\nfeeling\ninto words!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So I guess my body kinda started\nexpressing itself\non its own!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Trainer, I'll work even harder now! I need\nto, for\nthe people out there putting their\nhope in me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I <i>promise</i> I'll give them something back!\nI'll do it\nby winning races!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And to do that, I'll have to...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Practice! MORE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! I'm gonna go run!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "But it's pretty late already—"
+            ]
+        },
+        {
+            "text": "WOO HOO! I'm gonna run my socks off!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Before I can stop her, she dashes out\ntoward the\ntwilit track.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "An eating contest is being held at the academy. I \nspot Oguri Cap among the contestants.",
+            "choice_data_list": [
+                "Hold on, Oguri! You're going to gain weight \nagain!",
+                "Hold on, Oguri! You're going to gain weight \nagain!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't get in my way! Now's not the time! I <i>have</i> to \nwin this contest."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The winner gets a coupon for a supersize bowl of \nramen!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She has her mind set on this. There's only thing I \ncan say...",
+            "choice_data_list": [
+                "Give it all you've got!",
+                "Give it all you've got!",
+                "Don't overdo it.",
+                "Wipe that plate clean!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She has her mind set on this. There's only thing I \ncan say...",
+            "choice_data_list": [
+                "Give it all you've got!",
+                "Give it all you've got!",
+                "Don't overdo it.",
+                "Wipe that plate clean!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Thanks. You just sit right back and watch."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm gonna do whatever it takes to win that \nsupersize ramen coupon!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She speaks with bold, unwavering conviction. \nSeeing her like this reminds me of when she's \nracing."
+        },
+        {
+            "name": "Host",
+            "text": "Oguri Cap wins! Congratulations!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yes, I did it! The prize is mine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap's smile is even brighter than usual."
+        },
+        {
+            "name": "Host",
+            "text": "Would you believe it? We have two \nwinners—Oguri Cap and Special Week!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Argh, I tied with Special Week. I hope we both \nstill get the prize..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap seems a little frustrated, but before I \ncan console her, I need to come up with some \nhealthy meal options to offset this major \ndisruption to her usual diet."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But this is an eating contest. You <i>have</i> to overdo \nit if you want a chance at winning.",
+            "choice_data_list": [
+                "I can buy you some ramen if you want it that \nbadly.",
+                "I can buy you some ramen if you want it that \nbadly."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Fine... I'll do what I can."
+        },
+        {
+            "name": "Host",
+            "text": "And the winner is Special Week! Congratulations!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I lost... But I guess it doesn't matter. You're \ntreating me to some ramen anyway, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap fixes me with a resolute stare. I make a \nmental note to find a place that serves healthy \nramen."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Mm... You mean I shouldn't leave even a spot of \nsauce behind?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Now that you mention it, I'm sure that would \nplease the people who made the food too. I'll do \nmy best."
+        },
+        {
+            "name": "Host",
+            "text": "For the next round, our contestants have to \ndevour a pile of fried chicken the size of Mount \nFuji! I expect that even the most confident \ngluttons will be calling it quits!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "It's no good! I can't fit in even one more bite!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't worry. I'll finish it for you."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "What? B-but why?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Phew... Not a crumb left. What a meal!"
+        },
+        {
+            "name": "Host",
+            "text": "We have a winner! Oguri Cap—who, for some \nreason, even volunteered to eat another \ncompetitor's food! She's on a whole other level!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Completely unrivaled, Oguri Cap has redefined \nwhat it means to win an eating contest... at the \ncost of a substantial caloric intake."
+        }
+    ],
+    "title": "Oguri's Gluttony Championship"
+}

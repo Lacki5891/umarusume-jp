@@ -1,0 +1,254 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's Valentine's Day, and the academy is\nhumming\nwith anticipation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "While other students typically hesitate\nto\napproach members of the student\ncouncil, more\nthan a few seem to have\nbeen emboldened by the\noccasion.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Their gifts are piled high by the wall of\nthe\nstudent council office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now there's a familiar sight. Already that\ntime of\nyear again, is it?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Is all that Valentine's Day chocolate?"
+            ]
+        },
+        {
+            "text": "Technically speaking, not all of it is\nchocolate.\nThere are other kinds of\nconfections, too, and\nsome assorted\nknickknacks...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But in the sense you mean, yes. They are\nall gifts\nfor the student council.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You sure are popular..."
+            ]
+        },
+        {
+            "text": "We are well known. The higher our\nprofile among\nthe students, the larger\nour pool of potential\nadmirers.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I expect their admiration is more akin to\nthat for\ncelebrities than anything else.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Besides, at their age, the younger\nstudents desire\nsomeone to look up to.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And who could fit that role better than\nthe\nEmperor?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You're impressively objective about it all."
+            ]
+        },
+        {
+            "text": "On the contrary, I am a young\nUmamusume like\nany other. I might try\nto take a neutral view, but I\ncannot help\nbut be flattered.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I should add, all of these gifts were left\nin front of\nthe student council office\nrather than placed in\nour hands directly.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Those who left them might have been\ntoo\nintimidated to address us directly,\nbut that only\nmakes their courage all the\nmore admirable.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "They are pure and earnest to the core.\nOne\ncannot help but feel affection.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You're smiling from ear to ear."
+            ]
+        },
+        {
+            "text": "But of course. How could I not, when\nspeaking of\nour precious students?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Now, I must see to sorting through these\n\nchocolates.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "This may take some time. You might\nwant to\ncome back later...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I can give you a hand."
+            ]
+        },
+        {
+            "text": "No, I couldn't possibly...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Well, you <i>are</i> my confidant. I suppose\nno one\nwould mind.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Very well—your aid is much appreciated.\nShall we\nbegin?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "First, we'll arrange the store-bought\ngoods by\nsell-by date. These boxes\nshould come in useful...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, I think that just about does it.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Thank you. With your help, it took\nalmost no time\nat all.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Let's take a break, shall we? Would you\nopen that\ndrawer over there?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Uh, sure..."
+            ]
+        },
+        {
+            "text": "I open the drawer to find a rectangular\nbox\nnestled within. It appears to contain\na bar of\nchocolate.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's this?"
+            ]
+        },
+        {
+            "text": "A token of my appreciation. I believe it\nshould go\nwell with coffee.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Not to boast, but I have seen more\nValentine's\nDay gifts than anyone else in\nthe academy.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I have become familiar with enough\nbrands of\nchocolate to choose one that\nbest suits your\ntastes.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Why not try it now? I can vouch for its\nquality.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I take a bite and the rich flavor of cocoa\nfills my\nmouth.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Still, this does pose a quandary.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "You've done so much to help me today,\nbut I\nhave nothing to offer you in return.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Like the telephone said to the angry\nruler... this\ncalls for drastic measures.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "(I've got a bad feeling about this.)"
+            ]
+        },
+        {
+            "text": "I am left with no choice but to confess\nmy\ndeepest secret.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You might find this difficult to believe,\nbut... I can\ndo magic.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "...Come again?"
+            ]
+        },
+        {
+            "text": "You might think I've gone mad, but it's\nthe truth.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Royal blood can grant magical powers.\nI'm sure\nyou've heard the stories.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What if I said my family was one such\nline?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф's eyes are too intense for\nthis to\nbe a joke.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let me prove my powers to you now.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Close your eyes and hold out your hand.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Yes, good. Just like that. Now...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>Plop.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "You may open your eyes.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "A present adorned with a golden ribbon\nsits in my\npalm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Happy Valentine's Day, Trainer.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "This chocolate is my gift to you. I hope\nyou find it\nto your liking.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Heh. Perhaps that was a little too\ntheatrical.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm used to receiving chocolate, but far\nless\naccustomed to giving it.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I fear I got a little carried away...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "So you were lying about the magic?"
+            ]
+        },
+        {
+            "text": "Not at all. I cast a spell on the\nchocolate.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "A spell of good cheer for you to enjoy as\nyou\ntake a bite.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Sure enough, when I take a bite, I can't\nhelp\nbreaking into a smile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Only later, when I try to track down the\nbrand\nmyself, do I learn just how\nexpensive it is...",
+            "name": "Монолог"
+        }
+    ]
+}

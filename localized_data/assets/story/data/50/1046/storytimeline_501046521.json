@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yawn...</i> Morning, Trainer...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Someone looks sleepy."
+            ]
+        },
+        {
+            "text": "Ehe. I accidentally stayed up late\nwatching a\nmusic show. You know, it's\nway better watching\nlive than a\nrecording.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Staying up juuust a little bit for the sake\nof\nUmadol research is fine, right? ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Despite the upbeat attitude, Smart\nFalcon seems\nextremely sleep\ndeprived...",
+            "name": "Монолог"
+        }
+    ]
+}

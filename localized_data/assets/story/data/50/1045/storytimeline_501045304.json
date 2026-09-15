@@ -1,0 +1,152 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Despite not feeling her best, Super\nCreek\nachieves a great result. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, huff, wheeze...</i>",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Супер Крик!"
+            ]
+        },
+        {
+            "text": "I'm fine, really... So please... There's no\nneed to\nlook so worried... okay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's nothing... But I'm... a bad Creek... for\nmaking...\nyou worry.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Urk!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "We're going to get you checked out!"
+            ]
+        },
+        {
+            "text": "After her emergency checkup, Super\nCreek is\nprescribed bed rest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After sleeping for a while...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, sorry for causing you so much\ntrouble...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Are you feeling better now?"
+            ]
+        },
+        {
+            "text": "Yeah. As long as I rest up, I should be\nfine. But...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I feel like there's this strange heaviness\ninside my\nbody.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I looked into it but was unable to\npinpoint the\ncause.",
+            "name": "Doctor"
+        },
+        {
+            "text": "You don't know what's wrong? What\ndoes that\nmean?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "She has a light case of bad circulation,\nand it's\nlikely to reoccur.",
+            "name": "Doctor"
+        },
+        {
+            "text": "It's hard to pinpoint the cause, however.",
+            "name": "Doctor"
+        },
+        {
+            "text": "There's still so much we don't know\nabout\nUmamusume physiology, and\nthere aren't many\ncase studies for us to\nuse as reference.",
+            "name": "Doctor"
+        },
+        {
+            "text": "Goodness...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Is there anything we can do, Doctor?"
+            ]
+        },
+        {
+            "text": "For now, just make sure not to push her\ntoo hard.\nWithout knowing the cause of\nher ailment, I'm\nafraid we can't come up\nwith a treatment plan.",
+            "name": "Doctor"
+        },
+        {
+            "text": "Tracking down the cause... is your job,\nTrainer.",
+            "name": "Doctor",
+            "choice_data_list": [
+                "My job?"
+            ]
+        },
+        {
+            "text": "Yes. Since you're the one who observes\nher on a\ndaily basis, it's up to you to\ndiscern the cause of\nher condition and\nattempt to neutralize it.",
+            "name": "Doctor"
+        },
+        {
+            "text": "You'll also need to pay extra careful\nattention to\nher race schedule for the\ntime being.",
+            "name": "Doctor"
+        },
+        {
+            "text": "For the time being?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Yes. To give you a rough estimate, I'd\nsay...",
+            "name": "Doctor"
+        },
+        {
+            "text": "About half a year—until the fall.",
+            "name": "Doctor"
+        },
+        {
+            "text": "Fall? No way... What about the Classics?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I wouldn't say it's out of the question,\nbut\ncommon sense would dictate that it's\nin your best\ninterest to forgo them.",
+            "name": "Doctor"
+        },
+        {
+            "text": "...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I decide to let Супер Крик rest in the\ninfirmary\nand make my way home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As I'm leaving, I suddenly sense a\npresence in the\ncourtyard. I turn to\nlook...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sob...</i> You only get one chance... I\nwanted to win\nthe Satsuki Sho and the\nDerby for you...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Three... I promised to win all three...\n<i>Sniffle...</i>",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Waaahhh!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "She bursts into tears, bawling like a\nchild. It\nbreaks my heart to know that\nthere's little I can\ndo to comfort her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Given the current situation, we shift our\nnext goal\nto the Kikuka Sho. Will I be\nable to... determine\nthe cause of her\ncondition?",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while passing by the fields at\nthe\nacademy..."
+        },
+        {
+            "text": "Hm, there aren't any here either...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, hey Teach! Sorry to spring this on\nyou, but do\nyou know anything about\nwild vegetables?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Wild vegetables?"
+            ]
+        },
+        {
+            "text": "Yeah, one of my dorm residents is feelin'\n\nhomesick, so I thought I'd cheer her up\nby making\nher a dish from her\nhometown.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Except I can't find the necessary veggies\n\nanywhere. I checked a whole bunch of\ngrocers\nand supermarkets, but it was no\ngood.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And then it hit me—I should just forage\nfor them\nin the mountains myself! Come\nand help me out,\nTeach!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We head out of town to look for the\nvegetables\nin question, but we still don't\nmanage to find any."
+        },
+        {
+            "text": "Maybe they grow closer to the\nmountain? Let's\ntake a look!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We make our ascent up the trail, but..."
+        },
+        {
+            "text": "Hold up—there's a fallen tree blocking\nour path!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'll get this twig out of the way, no\nproblem! Stay\nback, Teach!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Grrr... Hi-yaaah!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Maybe we'll find somethin' if we head\ndown some\nanimal trails. Let's go! I'll\nclear out a path for us,\nso don't worry!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Follow my lead! Graaahhh!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Maybe they grow at a higher elevation.\nLet's try\nclimbing that cliff!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Yaaaah! Behold the fruits of my daily\ntraining!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон scales the cliff like it's\nnothing with\nher rock climbing skills..."
+        },
+        {
+            "text": "Whoa! Took us long enough!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "At last, we find the wild vegetables just\nas the sun\nis setting."
+        },
+        {
+            "text": "Thanks for taggin' along, Teach! I\ncouldn't have\ndone it without you!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh hey, that's her—the student I was\ntelling you\nabout who's feelin' homesick.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, hello, Hishiama...",
+            "name": "Miho Student A"
+        },
+        {
+            "text": "Guess what! I'm puttin' your hometown\ndishes on\nthe breakfast menu tomorrow,\nso hang in there,\nall right?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What? Wait, did you forage all of those\nyourself?",
+            "name": "Miho Student A"
+        },
+        {
+            "text": "But they only grow way up in the\nmountains! I\ncan't believe you'd do all\nthat for me...",
+            "name": "Miho Student A",
+            "choice_data_list": [
+                "They don't call her the best cook in Miho\nDormitory for nothing.",
+                "We tried our best to find them before sunset."
+            ]
+        },
+        {
+            "text": "But they only grow way up in the\nmountains! I\ncan't believe you'd do all\nthat for me...",
+            "name": "Miho Student A",
+            "choice_data_list": [
+                "They don't call her the best cook in Miho\nDormitory for nothing.",
+                "We tried our best to find them before sunset."
+            ]
+        },
+        {
+            "text": "Heh, I doubt I could beat her mom's\ncooking,\nthough.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But that's not gonna stop me from\ntrying! I'm\ngonna rock your taste buds!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, Hishiama... <i>Sniff...</i> Thank you so\nmuch!",
+            "name": "Miho Student A"
+        },
+        {
+            "text": "Come on, don't start with the\nwaterworks! I'm\ntryin' to cheer you up\nhere!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Heh! It was nothing for the leader of\nMiho Dorm!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's no mountain too high to climb or\nwild\nvegetable too obscure to find! I'll\ndo anything\nand everything for my dorm\nresidents!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "In fact, it doubled as a pretty good hike!\nRight,\nTeach?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Thank you... both of you! <i>Sniff!</i> Thank\nyou, thank\nyou so much!",
+            "name": "Miho Student A"
+        },
+        {
+            "text": "Ack, don't cry now! I did this to cheer\nyou up,\nremember?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The following morning, the dorm\nresident in\nquestion is feeling much\nbetter and helps herself\nto seconds and\nthirds of the dish Хиши Амадзон\nmakes."
+        },
+        {
+            "text": "The following morning, Хиши Амадзон\nmanages to\ncure her dorm resident's\nhomesickness with her\nhomemade meal."
+        }
+    ]
+}

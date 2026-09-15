@@ -1,0 +1,275 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the day Каррен Тян starts\nseriously\ntraining for the Twinkle Series.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yaaaaah!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян is a top sprinter, and her\nstrength\nshines brightest at 1,200\nmeters.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Big Bro! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Big Sis! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "How'd I do? I ran as fast as I could!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "That was great!"
+            ]
+        },
+        {
+            "text": "Yay! ♪ Keep the praise coming!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I'm looking forward to seeing you grow!"
+            ]
+        },
+        {
+            "text": "If she really continues to work hard at\nsprints, I'm\nsure she could be a top-level\nsprinter. But...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I need a pic to commemorate the\noccasion! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Take it for me!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Ah, sure..."
+            ]
+        },
+        {
+            "text": "Take it for me!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Ah, sure..."
+            ]
+        },
+        {
+            "text": "<i>Flash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks! Send it to me, okay? I wanna\nupload it to\nUmastagram!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"My real training starts now! #DoMyBest\n\n#CheerForMe #CuteCurrenChan\"",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "The key is figuring out how to handle\nthis social\nmedia queen who has\nmastered the art of making\neveryone\nmarch to the beat of her drum.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Curren. After this, let's—"
+            ]
+        },
+        {
+            "text": "Oh! It's Curren! She really is a cutie!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Hey, she's training. You shouldn't bother\nher.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Haha! It's okay! Thanks for saying hi! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Yay! You said hi back! But aren't we\ndisturbing\nyour training?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Don't worry! I'm almost done for the day.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It's my first day, so we just wanted to do\nsome\nbasics and see where I'm at. Right,\nBig Bro?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I suppose..."
+            ]
+        },
+        {
+            "text": "It's my first day, so we just wanted to do\nsome\nbasics and see where I'm at. Right,\nBig Sis?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I suppose..."
+            ]
+        },
+        {
+            "text": "See? No problem. Ask me anything you\nwant. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Squeal!</i> Thank you! I-I always look at\nyour\nUmastagram, and...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "I wanted to have a meeting about her\nfuture\nplans, but with the fans here\nlooking so happy, I\nsuppose it will have\nto wait.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Because of this, I tell Каррен Тян a few\ndays\nlater that I have something\nimportant to talk to\nher about.\nHowever...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here you go! Our brand new Mega\nFluffy French\nToast!",
+            "name": "Staff"
+        },
+        {
+            "text": "It's heeere! It's exactly what I wanted!\nIt's so\ncute! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "A selfie with aaall this whipped cream is\ngonna\nlook so good. I just know it'll be a\nbig hit, so I had\nto get my hands on one!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "That's why you wanted to come here?"
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You said you wanted to talk about\nsomething\nimportant, but you didn't say\nit was a secret or\nanything, so I figured\nit'd be okay!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I try not to pay any mind to our\nsurroundings. In\norder to decide how we\ntackle the future, the first\nthing we need\nto discuss is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'd like to know what your dream is."
+            ]
+        },
+        {
+            "text": "Sure! I want everyone to know about\nCute\nCurren! ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I-I was thinking more along the lines of a racing\ngoal..."
+            ]
+        },
+        {
+            "text": "Oh, a racing goal? Hmmm... I don't really\nhave\none!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "Don't look so surprised! Your eyes look\nlike\nthey're gonna pop out!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh, but... there is something I'm kinda\ninterested\nin.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "The Triple Tiara sounds really fancy and\ncute.\nDon't you think it would suit me\nperfectly?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "The Triple Tiara?!"
+            ]
+        },
+        {
+            "text": "Runners have to win three particular G1\n\nraces—the Oka Sho, the Japanese Oaks,\nand the\nShuka Sho—in order to claim the\nTriple Tiara.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a huge honor, but the shortest race,\nthe Oka\nSho, is still 1,600 meters. That's\npretty tough for\na sprinter like Curren.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell her as much.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For now, maybe we just see how much\nwe can\nincrease my distance?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "We've only just started training, so I\nthink it's too\nearly to decide what\ndirection I should go in.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Okay..."
+            ]
+        },
+        {
+            "text": "I'm great with 1,200 meters, so next is\n1,400. If I\ncan do that, then we can\nmove up to 1,600 and\njust keep\nextending little by little. Whaddya\n\nthink?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "If we do as she says and get results, we\nmight be\nable to try the Triple Tiara.\nPlus—",
+            "name": "Монолог"
+        },
+        {
+            "text": "If we're gonna go for it, we may as well\ngo big. ♪\nWouldn't you agree?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "If we're gonna go for it, we may as well\ngo big. ♪\nWouldn't you agree?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "—if she has a dream, I want to do my\nbest to\nsupport her as her trainer!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Okay. Let's see how things go."
+            ]
+        },
+        {
+            "text": "Yay! ♪ We got this!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Yay! ♪ We got this!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян seems to be really\nmotivated. I try to\nask her about a\nshort-term plan, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, Big Bro. ♪ Squeeze in and say\ncheese!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Okay, Big Sis. ♪ Squeeze in and say\ncheese!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Click! Click, click, click!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm... That's not a very good angle. Let's\ntry it\nagain, but put your hand on your\ncheek like this...\nCute! Stay right where\nyou are! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hm... That's not a very good angle. Let's\ntry it\nagain, but put your hand on your\ncheek like this...\nCute! Stay right where\nyou are! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And just like that, she takes over the\nrest of the\nmeeting! My days of chasing\ncuteness with Curren\nChan begin here!",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"#MegaFluffyFrenchToast #with\n\n#CuteCurrenChan #and #MyTrainer ♪\"",
+            "name": "Каррен Тян"
+        }
+    ]
+}

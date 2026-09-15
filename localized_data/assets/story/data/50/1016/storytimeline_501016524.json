@@ -1,0 +1,317 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Брайан and I head to the cafeteria\nto get\nsome food.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm going to go order.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You've already decided?"
+            ]
+        },
+        {
+            "text": "I've been wanting a thick-cut steak since\nmorning.\nI won't accept anything else.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "One mega-thick steak, please!",
+            "name": "Brian and Amazon"
+        },
+        {
+            "text": "Fancy seein' you here. And ordering the\nsame\nthing, no less.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm sorry, girls. There's only one left.",
+            "name": "Cafeteria Lady"
+        },
+        {
+            "text": "...I ordered first. Give it here, please.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What are you talking about?! We\nordered at the\nsame time!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I've been wanting steak all day, so\nthere's no way\nI'm giving up.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I've been talking about steak all day! I\nwon't let\nyou have it!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We'll settle this with a\none-on-one—winner takes\nthe steak!\nHow's that sound?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Tch... Fine.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "As for what kind of competition...You!\nBrian's\ntrainer. You decide, to keep\nthings fair.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "How about we forget the competition and just\neat something else?",
+                "Speed battle! Let's see who can eat a habanero\nbun the fastest!",
+                "Stamina battle! Let's see who can dance the\nlongest!",
+                "Power battle! Let's have a ruthless game of milk\ncaps!"
+            ]
+        },
+        {
+            "text": "Hey! I told you I was in the mood for\nthick-cut\nmeat. Are you even listening?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "There's other kinds of meat!"
+            ]
+        },
+        {
+            "text": "No way. I need something I can really\nsink my\nteeth into.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What about this fried pork steak? Thick\nenough?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Fried pork steak... doesn't sound bad,\nactually.\nMaybe I'll go with that.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right! The time has come for the fried\npork\nsteak showdown!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Why? I gave up on the regular steak, so\nyou can\njust have it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Huh? Oh, right! There's no reason to\nbattle\nanymore!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ugh, I got into battle mode for nothin',\nthen!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Sounds interesting! You got any\ncomplaints,\nBrian?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Not at all. Let's do it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hehe. Within these buns lies an\nexcruciatingly\nspicy habanero pepper!\nJust a whiff of one of\nthese beauties is\nenough to set off your internal\nfire\nalarm!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'll just finish it before I have time to\ntaste it.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Ready... Set... Go!"
+            ]
+        },
+        {
+            "text": "<i>Chomp, chomp.</i> Now, that is... S-SPICY!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I just have to leave my taste buds in the\ndust!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What the—that's so fast! How can you\nchew so\nfast?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "No thinking, no feeling! Just chew it all\nup and\ngulp it down!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Da shtake ij mine. Shorry.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You wanted to win so bad you injured\nyour own\nthroat?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Haha, you're really somethin'! The\nmega-thick\nsteak belongs to you!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'll just finish it before I have time to\ntaste it.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Ready... Set... Go!"
+            ]
+        },
+        {
+            "text": "<i>Chomp chomp chomp...</i> Augh!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...That's hot! Am I not eating fast\nenough?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oho, looks like you're slowin' down!\nTime to finish\nyou off!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It feels like my tongue is on fire! Ugh... I\ncan't\ntake any more...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Heh heh heh! Da shteak ij mine!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Tch... At least wait for your mouth to\ncool off\nbefore you eat it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ahhh. Instead of crushin' our opponents,\nwe have\nto battle ourselves!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "This is going to kick up some dust, so let's move\nsomewhere else."
+            ]
+        },
+        {
+            "text": "This looks like a good spot! All right, on\nyour\nsignal!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Let the dance battle... begin!"
+            ]
+        },
+        {
+            "text": "Tch... You sure picked an annoying way\nto settle\nthis.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Okay, Brian! Let's dance till we drop!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And so begins the fierce battle for the\nsteak!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Had enough yet? You can give up\nanytime!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Don't be stupid. I'm just getting warmed\nup!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Huh, you serious?! Now <i>that's</i> heart!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ahh, I can't go on! I can't even lift a\nfinger...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Done already? Looks like the steak is\nmine.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tch... Wh-what?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "My body isn't doing what I'm telling it\nto!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Hehe, that was close for me too, but a\nwin's a\nwin!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Huff...</i> Damn... Take it, then.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Just subdue your opponent by force,\nhuh? Very\ngood. Perfect for a steak\nprize.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hmph. That steak is mine!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right, let's get this started already.\nStandard\nrules, you know the drill.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Yaaah!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You managed to flip two. Not bad... <i>but!</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'll finish this in one shot!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Th-they all went flyin'! It was like an\neruption!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's pointless to continue. Victory is mine.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hehe, that was quite the showing!\nYou've proven\nyourself worthy of the\nmega-thick steak!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Hmph!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Nice effort, but nothing budged. Put\nmore power\ninto it!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Tch... This isn't going well...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан loses the dance battle and\nher\nchance to eat the steak.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Basking in the afterglow of victory,\nНарита Брайан\nenjoys her mega-thick steak!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан can't seem to flip any milk\ncaps, no\nmatter how many times she\ntries. Victory escapes\nher grasp,",
+            "name": "Монолог"
+        },
+        {
+            "text": "Having achieved total victory, Narita\nBrian\nthoroughly enjoys her mega-thick\nsteak!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The battle is lost, and so is Нарита Брайан's\nchance\nto eat steak today...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан digs into the steak despite\nher\ninjuries.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан looks totally satisfied as she\neats her\npork steak.",
+            "name": "Монолог"
+        }
+    ]
+}

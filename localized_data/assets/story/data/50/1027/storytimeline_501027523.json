@@ -1,0 +1,81 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Мэдзиро Райан drags me out to\nan\nunpopulated island.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! Take a look at that awesome\nrock wall!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "This island is a pretty well-known natural\nrock\nclimbing spot.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Rock climbing?!"
+            ]
+        },
+        {
+            "text": "Yep, I'm gonna climb up! Wait for me up\ntop,\nokay?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Sure... Uh, good luck!"
+            ]
+        },
+        {
+            "text": "Ryan heads off to climb the cliff, and I\nstart to\nwalk up the slope that leads to\nits summit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She keeps climbing, relying only on raw\nphysical\nstrength, until she's finally close\nto the top.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But her endurance is reaching its limit!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Just a little more, almost\nthere...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Grab my hand!"
+            ]
+        },
+        {
+            "text": "Gnh, Trainer...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I came this far... I have to make it to the\ntop!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Muscle through it!"
+            ]
+        },
+        {
+            "text": "One... last... PUUUUSH!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Whew! I made it! This exhaustion feels\ngreat!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hey, thanks for reaching out to me!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It feels like my entire body got stronger.\nMy arms,\nshoulders, back, legs...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "In fact, I bet I could run any race I want\nto right\nnow! Yeah!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан seems to have grown\nstronger after\novercoming her rocky\nascent.",
+            "name": "Монолог"
+        }
+    ]
+}

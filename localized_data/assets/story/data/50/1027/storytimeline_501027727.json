@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow! Thank you, Trainer!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hehe, the main character in the book\ngot a lot of\nplushies too!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Did I go a little overboard?"
+            ]
+        },
+        {
+            "text": "No, not at all! It's like my dream came\ntrue! I'm\nreally happy!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And if I manage to carry all these back\nhome\nwithout dropping one...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Think of the effect it'll have on my core\nmuscles!\nTalk about two birds with one\nstone!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

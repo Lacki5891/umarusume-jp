@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Thanks for waiting! Here you are! The\nSpecial\nStamina Sanzoku Fried Chicken\nSet with five\nextra pieces and side of\nginger pork!",
+            "name": "Cafe Lady"
+        },
+        {
+            "text": "Thanks.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I find Нарита Брайан in the cafeteria with a\nmeal\nresembling something out of a food\nchallenge.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's with that lunch?!"
+            ]
+        },
+        {
+            "text": "Ah... I feel a bit off at the moment.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I've learned from experience that\nwhenever I'm\ntired, meat's the way to go.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Once I eat meat, that usually fixes\nwhatever's\nwrong.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I wonder if this wild form of self-care\nreally will\nmake her feel better.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I may want to rethink her race\nschedule...",
+            "name": "Монолог"
+        }
+    ]
+}

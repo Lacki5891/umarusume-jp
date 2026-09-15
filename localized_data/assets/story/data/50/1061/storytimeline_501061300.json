@@ -1,0 +1,58 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The last morning of summer camp is\nhere.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All the Umamusume are boarding the\nbus back to\nTracen Academy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's no time left until the Kikuka\nSho...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "...King?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "King!"
+            ]
+        },
+        {
+            "text": "Huh?! That's right! I'm the first-rate\nUmamusume,\nКинг Хало!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Who's the smartest of them all?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Wait a second! This is no time for a call\nand\nresponse! Don't distract me!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "(Well, excuse me...)"
+            ]
+        },
+        {
+            "text": "I swear, keep your jokes in moderation.\nWe don't\nhave the time right now...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "As soon as summer is over, we have the\nKikuka\nSho—the last race of the Triple\nCrown tour!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's a 3,000-meter long-distance race on\nturf. It'll\nbe challenging, but I must\nprevail...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало stares out the window on the\nbus ride\nback to the academy, lost in\nthought.",
+            "name": "Монолог"
+        }
+    ]
+}

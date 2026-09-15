@@ -1,0 +1,118 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Найс Нэйчер and I come to the shrine to\nwish for\nsuccess in her upcoming senior\nyear.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, let's write that thingy—the one\nyou hang\non the rack.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's important to write wishes down. You\ndon't\nwant to get in a divine argument\nabout what you\nsaid and what you\ndidn't.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I do as she suggests and write my wish\ndown. My\nwish is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "For Найс Нэйчер to stay healthy.",
+                "For Найс Нэйчер to grow even more as a racer.",
+                "For Найс Нэйчер to learn a new skill."
+            ]
+        },
+        {
+            "text": "She still needs to be stronger to make\nher dreams\ncome true. I wish for the\nfuture she desires to\nhave.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Under any circumstances, health is\nwealth. I wish\nfor Найс Нэйчер's good\nhealth so that she can run\nthroughout\nthe year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Найс Нэйчер has become capable of so\nmany\nthings now. I wish for her further\ngrowth.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You sure took your time writing that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I get it, you're at the age where you start\nto have\nmany concerns.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I bet you wished for your back pain to\ndisappear\nor for better sleep, right?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "No, I didn't."
+            ]
+        },
+        {
+            "text": "Then... for a bigger paycheck? For a\nhouse? What\nwas it?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It was about you."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Your wish was about me? Uhhhh...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You don't... have to care so much about\nme on\nholidays.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You have your own life too.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Right now, your success is my top priority!"
+            ]
+        },
+        {
+            "text": "T-top priority?! Me?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You always do this... I bet you don't\neven care\nhow I feel hearing that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay! My success, huh? All right! That's\na pretty\nhefty demand, but I'll try!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "We have another big goal too."
+            ]
+        },
+        {
+            "text": "Ah! Right. The Arima Kinen...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yeah, that's... another hefty goal. I really\ndo need\nto work hard.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...At some point, we should visit the\nMejiros.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Just then, I remember Найс Нэйчер was\ntalking to\ntwo members of the Mejiro\nfamily after the Arima\nKinen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We'll show you something more\naffirmative than\nwords. That will\nprobably be all you need.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I think that \"something\" is the clue for\nwhat will\nmake me faster.",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

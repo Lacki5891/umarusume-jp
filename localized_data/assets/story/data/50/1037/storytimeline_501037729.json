@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hmm... What an unruly machine, indeed.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Please do not blame yourself for these\nresults. I\nbelieve luck was simply not on\nyour side this time.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Let me try one more time!"
+            ]
+        },
+        {
+            "text": "Don't do it. Giving in to the impulse to\ntry \"one\nmore time\" will lead you quickly\ntoward the sunk\ncost fallacy and ruin our\nplans.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, I am grateful you are so\nmotivated to\nwin a plushie for me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Well, that was disappointing...",
+            "name": "Монолог"
+        }
+    ]
+}

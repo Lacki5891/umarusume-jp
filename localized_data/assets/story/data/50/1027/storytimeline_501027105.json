@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The time for summer camp has arrived\nagain. For\nМэдзиро Райан, it's a time for\nboth resting and\ntaking it to the next\nlevel.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, her journey from \"young woman\"\nto\n\"suave lady\" continues!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't believe it's already summer again!\nI dunno\nif I can do this—I stumbled hard\nright at the start\nlast year!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "How can I become a lady when my\nromantic\nexperience is the same as a\ngym newbie who's\nhittin' the weights for\nthe first time?!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Well, you never know. Um..."
+            ]
+        },
+        {
+            "text": "That's all I can think to say.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If you really believe it'll happen for me, I\nguess I\ncan hope everything turns out\nokay...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "R-right. I'm not the same person I was\nbefore. I'm\npretty popular now!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My muscles are super jacked, and I don't\nslip up\nduring conversations anymore!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But, T-T-Trainer... m-my legs are\nt-trembling...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "She may be strong, but her muscles are\nwavering.\nIt feels like the whole cabin is\nshaking along with\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe if she can gain some romantic\nconfidence,\nthese little earthquakes will\nstop too.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Uugh... I'm finished. I don't have the\nright to enter\nin any more races.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm hurting your reputation as a trainer\ntoo.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ngh... Uugh. I'm so sorry, I really am!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll completely understand if you want to\nabandon\nme—I'm an absolute failure,\nanyway!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "We'll keep trying together!",
+                "You need to abandon that negativity!"
+            ]
+        },
+        {
+            "text": "Uugh... Are you really sure you don't\nmind dealing\nwith someone like me?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Things will turn out okay, don't worry."
+            ]
+        },
+        {
+            "text": "Wow... Thank you for treating me so\nkindly... I\ndon't deserve it...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Don't worry. Don't... worry...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Abandon... my negativity...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Don't lose to your emotions!"
+            ]
+        },
+        {
+            "text": "O-okay! If I'm not supposed to give up...\nthen I\nwon't be beat!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I want to win... Trainer, I want to win!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll stop my whining! I ask that you work\nout a\ns-s-strict training regimen for me,\nplease!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Okay... I'll do my best, o-one step at a\ntime. Just\nyou wait and see, Trainer!",
+            "name": "Мэйсё Дото"
+        }
+    ]
+}

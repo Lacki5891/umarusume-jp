@@ -1,0 +1,268 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out for lunch, I come\nacross King\nHalo and her friends.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohohoho! I always have the most perfect\nlunch!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Which is why you, Sky, must hand over\nthat last\nplate of Kyoto salad!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Are you serious? Just go get a different\nsalad!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Excuuuuse me?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hey! What's so funny?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Huh? Oh, nothing. I'm just kinda happy\nthings feel\nthe same as always.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You're here, Sei's here, and we're all\neating\ntogether.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I almost feel like our debut the other\nday was just\na dream. But...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I know what you mean. Next year, we'll\nall be\ndoing the Classics together.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Except <i>I'll</i> be the one to take the throne.\nHey,\nSky, pass me the soy sauce.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Get it yourself.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Ugh! I swear!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh my. Everyone's lively today.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh! It's Grass and El!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehehe. It sounded like you all were\nhaving fun,\nso I decided to come say\nhello.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I feel the same way about having\ndebuted. It's\nalmost surreal.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And now, we're officially competing with\neach\nother.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehehehe... Winners and losers are both\nborn at\nthe sound of the starting gong!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "By the way, I came across some\ninteresting news!\nTake a look at this\narticle!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hmm... \"The Golden Generation\nApproaches\nTheir Classic Year.\"",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Whoa! Everyone's names and photos are\nhere!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "And look! King's even got her own\nspecial feature!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It's the treatment I deserve.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm certain the public is dying to witness\nmy\nascent to the forefront of our\ngeneration.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Pshhh...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "What?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I wonder what the public would think if\nyou were\nto suddenly \"descend\"\ninstead?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "That's funny, because I was wondering\nwhat they\nwould think if I made <i>you</i>\ndescend!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Nyahaha! You're scary.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "The Classics... The Triple Crown tour...\nThe\nJapanese Derby too...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Um, hey, King!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yes, Спешл Уик?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Are you planning to run in the Derby?\nTo become\nthe best in Japan?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Yes, I am. I <i>must</i> win that G1 race.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh... I see...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Hello there!"
+            ]
+        },
+        {
+            "text": "Oh, Trainer! Perfect timing!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Do you think you could go a little harder\non me\nfor today's session?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Why the sudden request?"
+            ]
+        },
+        {
+            "text": "I wouldn't call it sudden. I'm just trying\nto be the\nbest Umamusume of my\ngeneration.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm Кинг Хало. I have to win, no matter\nwho I face.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I need to achieve results worthy of\nrecognition.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Recognition, huh?"
+            ]
+        },
+        {
+            "text": "That's right. So, if you understand, let's\nget sta—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "W-w-wooow! King!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "...?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "(If I remember correctly, this is\nKawakami\nPrincess. Many of the trainers\nregard her as quite\nthe go-getter.)",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, if it isn't Kawakami. What's the\nmatter? You\nlook like you've choked on\na cherry tomato.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Look! Look! There's a special feature\nabout you!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "O-oh, that's right. There is.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's awesome! The way you talked about\nhow you\nwouldn't give up no matter\nwhat reminds me of\nPrincess Fighter!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Princess Fighter?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oops, I guess you don't know her. She's\nthe\nsuper-strong main character of this\nshow that I\nreally love!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Oh wait, hang on. That's not what I'm\nhere for.",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Ah! I remembered! I wanted to tell you\nsomething!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "I'm going to be rooting for you in the\nClassics!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Well, she blew through like a storm."
+            ]
+        },
+        {
+            "text": "Y-yeah. That was certainly a new type of\n\nencounter for me.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "She seems to really like you, though."
+            ]
+        },
+        {
+            "text": "I... can't refute that.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe. But I won't content myself having\ngained\nonly one die-hard fan. I want the\nentire world to\nrecognize my talent.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The real competition is ahead. We must\nstay\nfocused, Trainer.",
+            "name": "Кинг Хало"
+        }
+    ]
+}

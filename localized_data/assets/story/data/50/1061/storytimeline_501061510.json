@@ -1,0 +1,146 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, in front of the station...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, if it isn't my trainer!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So it is. Hey there.",
+            "name": "Сэйун Скай",
+            "choice_data_list": [
+                "Are you two shopping together?"
+            ]
+        },
+        {
+            "text": "Close. We came to rent a DVD.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The forecast said this weekend would be\ngloomy,\nso we thought we'd watch a\nmovie in my room.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Lazing around, eating snacks, and\nwatching\nmovies... Best combo in the\nworld.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Excuse me! Who said <i>I</i> was going to be\nlazing\naround?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Yes, films are entertainment, but they're\nalso full\nof lessons.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why, just the other day, a film taught\nme all\nabout the beauty of humility.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Are you sure you actually understood\nit?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Just what is <i>that</i> supposed to mean?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "More importantly, which film should we\nrent? I've\nseen most of the new releases.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'd prefer something with a valuable\nlearning\nexperience. Do you have any\nrecommendations,\nТренер?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "How about this horror movie to inspire some\nbravery?",
+                "What about this TV drama that talks about the\nintricacies of relationships?"
+            ]
+        },
+        {
+            "text": "...Huh? H-horror?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oooh, I like that sound of that. It's fun\nto watch\nintense stuff from time to time.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "N-now, hold on! That doesn't suit me at\nall!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wouldn't you learn more from it <i>because</i>\nit's not\nyour thing?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Ohhh... Don't tell me, you're...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Ohohoho! Me, afraid? Of course not!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, the following week, after\ntraining...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Shuffle, shuffle.</i>",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What are you on the lookout for?"
+            ]
+        },
+        {
+            "text": "I-I'm not on the lookout for anything! It's\nnot like\nI'm worried about monsters\nshowing up!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, I'm off now! Thanks for today's\nsession!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I see. Learning about how the characters\nlive their\nlives...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But we can't marathon a whole show in\none day,\ncan we?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "We can split it up. I'm intrigued to find\nout what\nwill happen.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And then, during the following week's\nfirst\ntraining session...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...S-so... Shall we begin our training?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Are you okay? You seem kind of exhausted."
+            ]
+        },
+        {
+            "text": "I couldn't resist. I watched all fifty-two\nepisodes\nin one go. Sky left partway\nthrough,\nunfortunately.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I believe I did a splendid job of getting\nthrough\nit, if I do say so myself...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Turns out, Кинг Хало <i>did</i> learn\nsomething from\nthe movie she watched\nover the weekend—ways\nto escape\nmonsters.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although she was supposed to study\n\ninterpersonal relationships, Кинг Хало\nends up\nenhancing her endurance\ninstead.",
+            "name": "Монолог"
+        }
+    ]
+}

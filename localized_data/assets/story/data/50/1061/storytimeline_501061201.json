@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Hopeful Stakes is one of the major\nraces for\ndetermining who will become\nthe junior year\nchampion.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I will use this G1 race to rise to even\ngreater\nheights.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You know what that means, right,\nТренер?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "This is a checkpoint of sorts."
+            ]
+        },
+        {
+            "text": "Correct. In other words, I will put on my\nbest and\nmost beautiful display yet.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Here I go!",
+            "name": "Кинг Хало"
+        }
+    ]
+}

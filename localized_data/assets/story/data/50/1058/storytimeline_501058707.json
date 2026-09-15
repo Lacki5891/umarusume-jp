@@ -1,0 +1,120 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэйсё Дото hasn't been in the best\ncondition as\nof late, so we head to the\nshrine for a breather."
+        },
+        {
+            "text": "I haven't been feeling well recently, so\nI'm going\nto go pray about it.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I won't be too long!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "All right, time to put in my shrine\noffering...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Eep?!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "I put my wallet in the box by mistake! I\nneed to\nf-fish it out!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I see youuuu! Stay right where you are,\nshrine\nburglar!",
+            "name": "Shrine Owner"
+        },
+        {
+            "text": "Waaagh! You've got it wrong! I dropped\nmy\nwallet... Wait! My hand is stuck!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Yes, I'm free...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Aaagh?! The world is turning upside\ndown!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "text": "Мэйсё Дото pulls her hand out of the\noffertory\nbox with enough force that she\nbacks into a\nlion-dog statue."
+        },
+        {
+            "text": "So, that's what happened—how\nunfortunate. I am\nrelieved to see your\nwallet is back in your hands,\nthough.",
+            "name": "Shrine Owner"
+        },
+        {
+            "text": "I apologize for causing so much trouble!\nThank\nyou for reuniting me with my\nwallet!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Not to change the subject, but have you\noffered\na prayer to the sacred tree? I\nbelieve you would\ncertainly receive its\ndivine protection.",
+            "name": "Shrine Owner",
+            "choice_data_list": [
+                "Let's go now!"
+            ]
+        },
+        {
+            "text": "Yes! I'll pray from the bottom of my\nheart!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Wh-what a beautiful tree. This is sure to\nbring me\ngreat blessings!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm a big klutz, but I promise to do my\nbest... so\nplease bestow your power unto\nme! Please!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Phew... Do you think this will be\nenough?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The wind feels so nice. Maybe the tree\nheard my\nprayer.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "The sacred tree's blessing is with you."
+            ]
+        },
+        {
+            "text": "Hehe, you're right. My heart feels a little\nlighter\nnow.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Nnngh! Please help me, please!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Thunk!</i>"
+        },
+        {
+            "text": "Ouch... my head. I was too into the\nmoment and\nbumped my head...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Aaaagh?! Why are there so many strange\nbugs on\nthe ground?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Waaah! Please, grant me salvation!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото encounters misfortune at\nevery\ncorner, unable to regain her\nenergy."
+        },
+        {
+            "text": "With her spirits lifted, Мэйсё Дото\nregains her\nenergy!"
+        }
+    ]
+}

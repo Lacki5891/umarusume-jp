@@ -1,0 +1,108 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I messed up...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But a minor injury like this'll heal up in a\njiffy!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You should get some proper rest, even if it is\nminor.",
+                "There's that youthful resilience! Let's get back\nto training!"
+            ]
+        },
+        {
+            "text": "You're such a worrywart, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're such a worrywart, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But that just shows how much you care.\nAnd here I\ngo, making you worry again...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "It's okay."
+            ]
+        },
+        {
+            "text": "No, it's not okay! I don't want to stress\nyou out.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "From the very bottom of my young,\ntrendy\nheart—my bad.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You better believe it! ♪ Lay some more\npep talk\non me, Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Марузенски, the most bodacious Umamusume\non the planet, doesn't even have the word\n\"tired\" in her dictionary!"
+            ]
+        },
+        {
+            "text": "Oh my goodness, Trainer! You\nsweet-talking\nflatterer, you! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh my goodness, Trainer! You\nsweet-talking\nflatterer, you! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee, now you've got me all fired up.\nTime to\nget back to training!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll show you my best, fastest, most <i>fresh</i>\nrun ever!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ugh, ow ow ow!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Марузенски?!"
+            ]
+        },
+        {
+            "text": "One, two, three, four! This is easy, give\nme\nmore! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Five, six, seven, eight! I'm good to go, I\njust can't\nwait! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What do you think, Тренер?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You're out of sight!"
+            ]
+        },
+        {
+            "text": "What do you think, Тренер?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You're out of sight!"
+            ]
+        },
+        {
+            "text": "Riiight?! And here's an even more\nslammin' stride\njust for you! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски looks happy as she\ncontinues\njogging.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her symptons having worsened, we\ndecide that\nshe should rest until her\ninjury heals.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Worn out from all the emotions,\nМарузенски gets\nsome rest so she can be\nready for the next race.",
+            "name": "Монолог"
+        }
+    ]
+}

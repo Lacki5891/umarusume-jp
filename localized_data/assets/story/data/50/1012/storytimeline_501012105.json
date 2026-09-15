@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the start of summer camp,\nwhere racers\ntrain to improve their skills."
+        },
+        {
+            "text": "Wow, I can't believe it's been a whole\nyear! Man,\nthis place sure brings back\nmemories.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Remember how panicked you were\nabout me last\nyear? Hahaha!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Yeah, I remember..."
+            ]
+        },
+        {
+            "text": "I'm just messin' with ya. Honestly, now\nthat I think\nof it, that was probably my\nfault.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I hadn't done enough to make sure you\nhad full\nfaith in me then.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "How are you feeling now, though? You\naren't\nfeelin' anxious or anything, are\nyou?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Not at all!"
+            ]
+        },
+        {
+            "text": "Хиши Амадзон's skills are nothing short of\n\namazing. Her performance at the Osaka\nHai and\nthe Yasuda Kinen completely\nastounded me."
+        },
+        {
+            "text": "Hehe, well that's good to hear!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And so, Хиши Амадзон's blazing summer\ncamp\nbegins!"
+        }
+    ]
+}

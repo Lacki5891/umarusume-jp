@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Oh, it's nothing. I just have a little\nheadache.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "They say that beauty brings misfortune,\nand that\nhas me worried...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee! Psych! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Nngh, ouch...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски tries to play it off, but it's\nclear that\nthe headache is really\nbothering her.",
+            "name": "Монолог"
+        }
+    ]
+}

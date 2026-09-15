@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I placed in the top three...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I couldn't sink my teeth into the lead...\nEven\nthough I've been sharpening them\nprecisely for\nthis day.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I've got it. Next time.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "There's no point in hunting prey that\ncan't put up\na fight.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "The tougher they are, the more exciting the\nfight!",
+                "Let's think about what we need to win!"
+            ]
+        },
+        {
+            "text": "There's no point in hunting prey that\ncan't put up\na fight.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "The tougher they are, the more exciting the\nfight!",
+                "Let's think about what we need to win!"
+            ]
+        },
+        {
+            "text": "Yeah, now you're talking.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "One more stЭпизод If I can take just one\nmore stЭпизод..",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What we need... You mean, something\nthat I'm\ncurrently lacking?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I think I know what it is. You do too,\nright?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "text": "Then it's settled. We've just got to focus\non it in\ntraining.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let's go. Time to the start the\ncounterattack!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right. I'm definitely going to get it\nnext time.",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

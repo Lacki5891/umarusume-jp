@@ -1,0 +1,83 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm searching for a seat during lunch one\nday\nwhen I see Мэдзиро Райан with her\nhead tilted down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm, what should I do... This might be\ntoo\nmuch...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Oh, hey, Trainer!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I was planning on resting my muscles\ntoday, but I\nended up taking the same\namount of food as I\nusually do on a\nworkout day.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Carbs are an essential source of energy,\nso I make\nsure to eat lots of 'em on\nworkout days...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But on rest days like today, eating this\nmuch will\nhave the opposite effect!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Want me to take half?",
+                "You should eat what you put on your plate."
+            ]
+        },
+        {
+            "text": "But on rest days like today, eating this\nmuch will\nhave the opposite effect!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Want me to take half?",
+                "You should eat what you put on your plate."
+            ]
+        },
+        {
+            "text": "Whoa, would you do that for me? That'd\nbe such\na help!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, but you've got your own food!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "No worries, I can handle a little more!"
+            ]
+        },
+        {
+            "text": "For real?! But an unbalanced diet gives\nyou\nunbalanced muscles!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I know! How 'bout <i>you</i> do a workout\nafter lunch?\nI'll spot you!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Urgh, y-you’re right... It'd be super\nwasteful to\nthrow away food.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Okay... I put it on my plate, so now I\ngotta put it\nin my belly.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Time to chow down!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "After eating a lot, but not too much, I\nhead for a\nworkout with Мэдзиро Райан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро Райан is happy to eat her fill and\nthen\nsome... but she ends up regretting\nit the next day.",
+            "name": "Монолог"
+        }
+    ]
+}

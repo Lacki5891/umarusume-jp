@@ -1,0 +1,191 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Dash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm going to get stroooong! Bit by biiiit!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Phew... How was that,\nТренер?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "That was a great run, Мэйсё Дото!"
+            ]
+        },
+        {
+            "text": "She's yet to have entered her growth\nperiod, but\nshe's steadily showing signs\nof improvement. If we\nkeep this up...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I just have to become race-ready now...\nDo you\nthink... do you think Opera O\nwill approve of me\nby spring?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'm sure she will."
+            ]
+        },
+        {
+            "text": "Ehehe... Please wait for me, Opera O...\nI'll be at\nyour side soon...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The winner of next year's Classic races is\nstill a\ntoss-up. If her form develops in\ntime, catching up\nwith Т.М. Опера О\ncould be possible.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Doto! Trainer!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Fukukitaru? What's the matter?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I've got a message for you! I read your\nhoroscope,\nbut the result was incredibly\nunfortunate.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Look to the sky and be in awe—in the\nwest is born\na new star. Though it is one,\nit appears as two, a\nmysterious double\nstar!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That new star will outshine the golden\nstar,\nposing a threat to you and many\nother\nUmamusume!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "New star... double star? What does...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Meanwhile, at Hanshin Racecourse...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Victory goes to Адмайр Вега, the\nbrilliant star of\nhope! She bursts past the\ncompetition,\ndominating the graded\nraces!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Another candidate joins the running to\nbe\ncrowned the leading act of the\nClassics! Where\nwill we see that solemn,\nstoic run of hers next?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "I've yet... to fulfill my promise. I must\ngo...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "East, to the skies of Fuchu.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "A few days later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, no, no, no, class is about to start! I\nneed to\nhurry up!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Thud!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gyaah?! I'm so sorry! I'm always running\ninto\npeople...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "(Huh, they're perfectly... fine? Usually\nwhen I\ncrash into someone, they go\nflying into a wall.)",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "(Wait... I know who that is!)",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Just... pay better attention to what's in\nfront of\nyou.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Y-y-yes! Sorry about that, Admire\nVega... I\nmean... Ayabe.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Um... I s-saw you running on UmaTube\nthe other\nday. You were so cool and...\nterrifyingly fast!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I'm not here to have fun.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Huh?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm not running for the fun of it. That's\nprobably\nwhy you found me scary.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I can't... afford to lose. Bye.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Oh, okay...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Doto! Are you well?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh, Opera O, Trainer!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "That was Адмайр Вега just now... or\nAyabe. She's\nour peer—and a very\nstrong racer.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ah yes, I do remember seeing her name\non my\ncasting list. My Overlord radar\nwas rung by her\npresence in a race not\nlong ago.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I'm positive that in time our paths will\ncross on\nthe big stage. O, Ayabe,\nAyabe! Wherefore art\nthou Ayabe?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Um, Trainer... I'd like to talk to you\nabout\nsomething.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I bumped into Ayabe earlier, but she\ndidn't budge\nan inch, despite how slim\nshe is.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Instead, I'm the one who went tumbling.\nIf that's\nwhat it means to have a strong\nbody, I have a\nlong way to go...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Адмайр Вега—Calm and collected in her\nsolitude,\nshe's a new star who takes\npride in her swift stЭпизод",
+            "name": "Монолог"
+        },
+        {
+            "text": "A strong rival has appeared on the\nscene, shaking\nthings up for Meisho\nDoto and T.M. Opera.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally the day of the Tokyo\nDaishoten.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No way...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's so many people... And they're all\nhere to\nwatch the Tokyo Daishoten?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "That's right."
+            ]
+        },
+        {
+            "text": "But where did they all come from? It's\nnot like I\nadvertised it much.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "It's because your fans put in a lot of work for\nyou."
+            ]
+        },
+        {
+            "text": "My fans? What do you mean?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон opened up to her fans at\nthe\nholiday handshake event.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Those very same fans went on to spread\nthe word\nabout the Tokyo Daishoten\nthemselves,\ndetermined to make it the\nbiggest ever.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My fans... did that?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "They all understand how you feel."
+            ]
+        },
+        {
+            "text": "Ahaha, well, this is a problem. Right\nbefore the\nbig race and I'm getting all\nemotional.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But I wasn't wrong. I'm glad I continued\nrunning.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "My fans are all with me, giving me so\nmuch\nsupport.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As an Umadol, I couldn't be happier!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Sure you could!"
+            ]
+        },
+        {
+            "text": "How?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "By shining on the biggest stage there is."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hahaha, you're right. How could I\nforget? ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "My happiness comes from standing on\nthe stage!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm gonna get out there in front of\neveryone, and\nI'm gonna win! After that,\nI'm gonna sing and\ndance and convey my\nfeelings to everyone!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Because today's the day I become a top\nUmadol\nand shine like a star!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

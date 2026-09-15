@@ -1,0 +1,88 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Эйр Грув and I are visiting the\nshrine for\na change of pace. Or so I\nthought...",
+            "name": "Монолог"
+        },
+        {
+            "text": "After one look at the long staircase\nleading to\nthe shrine, Эйр Грув has\ndecided she wants to\nuse it for training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "First off, we should pay our respects.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Wait, weren't you going to train?"
+            ]
+        },
+        {
+            "text": "Yes, and that's why we need to pay our\nrespects.\nI'll be using those steps leading\nup to the shrine,\nafter all.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's only right to give thanks to the\nresident god\nbefore I begin.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Speaking of which, watch where you're\nstanding!\nThat's where the god walks!\nMove over to the\nside.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Did no one teach you the basics of how\nto visit a\nshrine?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now, come on. Let's go.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Clear your heart and offer a prayer. That\nis how\nyou show respect to the god.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "<i>Clap! Clap!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have thanked the god for allowing us\nto use the\nshrine grounds for my training.\nNow I can use\nthose steps without worry.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hmm? My body feels awfully light...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I suppose my prayer had an effect.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's like my mind and body have been\ninextricably\nlinked, and both have been\nhoned to a fine\nedge...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All right! Let's hurry up and get to those\nsteps.\nCome along!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Okay, time for training.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We attempt to do some training on the\nsteps, but\nЭйр Грув struggles to\nachieve her usual good\nform.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ngh, this must be punishment for my\nimmaturity...\nHow could I shame myself\nlike this before a god?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Soon after incorporating the steps into\nher\ntraining, Эйр Грув manages to\nachieve an\nincredible lap time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No matter. I have to be more diligent so\nthis\ndoesn't happen again.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

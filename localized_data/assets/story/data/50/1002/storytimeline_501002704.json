@@ -1,0 +1,206 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back to the academy with\nSilence\nSuzuka...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It feels like she's been looking over my\nway a lot...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is everything all right?"
+            ]
+        },
+        {
+            "text": "Um, Trainer. Can you stop by the\ntrainer's office?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Yeah, we can stop on the way."
+            ]
+        },
+        {
+            "text": "Oh... Um... I meant, like... just you, by\nyourself...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll... catch up with you afterwards. If you\ndon't\nmind.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I head to the trainer's office and wait for\nher, just\nas she asked.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just a second. Don't turn around yet.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Okay, you can look.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I turn around to find...",
+            "name": "Монолог"
+        },
+        {
+            "text": "A snow globe identical to the one\nСайленс Судзука\ngot from the arcade the\nother day sits on my\ndesk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I managed to get this one all by myself.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's the same snowy landscape that I love\nso much.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And when you hit this switch, it lights up\nand the\nsnow swirls around. It's really\npretty...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It looks just like the place where I grew\nup.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So... Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What do you think?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm really happy. Thank you.",
+                "The snow in your hometown must also be very\npretty then.",
+                "Can I switch it on?"
+            ]
+        },
+        {
+            "text": "What do you think?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm really happy. Thank you.",
+                "The snow in your hometown must also be very\npretty then.",
+                "Can I switch it on?"
+            ]
+        },
+        {
+            "text": "I'm so relieved...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's like... an actual weight has been\nlifted off my\nshoulders.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You know...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I could break into a run right this instant.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I take a long look at the matching snow\nglobe\nСайленс Судзука brought me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yes! That's right.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's so peaceful with the snow piled up\n\neverywhere. It feels like you've been\nsucked into\na new world.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Running there feels amazing... like you\ncould go\nanywhere.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And just keep running forever... You\nbegin to wish\nthe scenery would never\nend.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'd like to see it one day."
+            ]
+        },
+        {
+            "text": "Definitely. I'm sure the scenery would\nlook even\nmore beautiful with you by my\nside.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yes, of course.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Click...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The snow globe lights up as powdered\nflakes\ndance around the two snowmen\ninside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Isn't it pretty?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "One of the little snowmen tips over\nsuddenly and\nends up leaning against\nthe other.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It fell over.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm sorry. And you worked so hard to get it."
+            ]
+        },
+        {
+            "text": "Um, why don't we trade snow globes?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "I'm sure.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Besides, I like this one. The little\nsnowman isn't\nlonely with his friend so\nclose.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Afterwards, Сайленс Судзука and I trade\nsnow\nglobes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seems very content as she returns\nhome with\nthe globe, the snowmen\nnestled close together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Сайленс Судзука describes her hometown\nwhile\ngazing down at the miniature\nwinter landscape.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'll be sure to display the small piece of\nwinter\nscenery in a prominent position in\nmy room.",
+            "name": "Монолог"
+        }
+    ]
+}

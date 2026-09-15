@@ -1,0 +1,78 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Uugh... I'm really, really, really sorry! I\nlost the\nrace...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I g-gave it my best shot, but I couldn't\nmove the\nway I wanted.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It was only for a second, but... I thought\nthis was\nthe end for me.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You know what you have to do."
+            ]
+        },
+        {
+            "text": "I do... the fact I was about to lose hope\nis what I\nhate more than anything!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "If I want to run properly... I need to get...\n\nstronger.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I don't want to give up like this! I... <i>Sniff!</i>\nI!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Your persistence is one of your strengths.",
+                "Crying won't make you any stronger!"
+            ]
+        },
+        {
+            "text": "I don't want to give up like this! I... <i>Sniff!</i>\nI!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Your persistence is one of your strengths.",
+                "Crying won't make you any stronger!"
+            ]
+        },
+        {
+            "text": "R-really?! If that's true, that makes me...\nhappy...\nNgh!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Sniffle!</i> Guh, T-Trainer! I won't give up, I\n\np-pwomise!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Ngh... Okay, I won't cry!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm a total klutz, always making\nmistakes, but I\nstill want to win!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll train more, and after that, I'll... I'll...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "The training won't be easy."
+            ]
+        },
+        {
+            "text": "I u-understand, I won't give in halfway!\nPlease,\nd-do your worst!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Yes! I promise I'll work even harder!",
+            "name": "Мэйсё Дото"
+        }
+    ]
+}

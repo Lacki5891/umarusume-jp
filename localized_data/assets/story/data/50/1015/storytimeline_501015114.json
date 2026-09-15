@@ -1,0 +1,207 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Т.М. Опера О is in search of a rival\nbefore the\nSatsuki Sho comes.\nHowever...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Alas, how can this be? Why will no one\ntake on\nthe role of my rival?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Worthy adversaries are vital to a good\nopera!\nTruly, does no one wish to\nbecome my Count\nFriedrich and try to\ndefeat me?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "What reason is there to refuse? \"Death\nby\nembarrassment,\" I'm told, but such is\nthe price of\nstanding before my\nradiance!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "It's incomprehensible! Do you not agree,\nТренер?",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Uh, yeah, sure!"
+            ]
+        },
+        {
+            "text": "I try my best to sound convincing, but\nI'm certain\nthey all just don't want to\ndeal with Opera O.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Opera O... I'm, er, sorry...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Really, Doto? No luck?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I tried to speak with everyone who might\nrace in\nthe Satsuki Sho... to ask them to\nbe your rival,\nbut...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "They were all so intimidating... I couldn't\nwork up\nthe courage to talk.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "What?! You surrendered before\nextending the\ninvitation?! Humility is not\n<i>that</i> virtuous, Doto!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Things are looking bleak..."
+            ]
+        },
+        {
+            "text": "Wait, Trainer. One Umamusume with the\nskill to\nenter the Satsuki Sho yet\nremains.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "But for whatever reason, I cannot seem\nto find\nsaid candidate. Why will she not\nshow her face?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "There... Made it out without a hitch.\nNow, while\nit's still early...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "...?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "...!",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "O-oooh! Finally!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "You are the one I've been looking for!\nAlso...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "You are the devoted fan who attended\nmy dinner\nshow at my last year-end\nparty!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "B-be serious... I just happened by...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Word has reached my ears. Apparently,\nyou are\nalmost certain to run in the\nSatsuki Sho, yes?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Perfect! Would you like to skip three\nlevels of\nfandom and become my rival?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "You are the only one left capable of the\nrole of\nmy adversary, o beautiful Admire\nVega!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I wouldn't say I'm beautiful...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I feel somehow connected to you! That's\nwhy I\nmust somehow settle this score!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Geez. All you do is push and nag.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Opera O doesn't let up the pressure.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, to confer the honor of being\nselected as my\nrival.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Read my lips... N-O. Now leave me\nalone.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Ah, I see, dear rival of mine. Or, ma\nrivale, if you\nprefer French.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I couldn't care less, and I'm not doing it\neither\nway.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Umm... Opera O? I think Ayabe might be\nserious.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hahaha, however do you mean, Doto?\nSurely you\nonly observe with your eyes.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Close them—and plug your ears as well.\nReach\nout with your <i>heart.</i> Then it will\nbecome clear as\nday that she is\noverjoyed.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Or you could just listen to me!",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Адмайр Вега fails to get through to\nOpera O who\ninsists the conversation go\nin one direction.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But... why don't you understand? You\nmight say\nthis and that, but at the end\nof the day, you will\nstill race in the\nSatsuki Sho.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "In which case, you will be running\nagainst me.\nDoes that not already make\nyou my rival?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Or... could it be? Are you planning to\nwithdraw?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I, well... Ngh...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I'm... going to run. I have my own goal\nI'm\nchasing.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Ah, splendid! Then we do, in fact, have\na rivalry!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "May it be a fruitful one, dear Admire\nVega—no...\nAyabe!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Haaah ha ha ha!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ngh... I avoided her for so long... only to\nget\ncaught at the very end.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "And that is how Адмайр Вега is,\nreluctantly, cast\nas the rival for the\nSatsuki Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Having acquired the competition she\nwanted,\nТ.М. Опера О's motivation\nskyrockets!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Your ability to twist an arm is amazing,\nOpera\nO...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But... I wonder if you went too far.",
+            "name": "Мэйсё Дото"
+        }
+    ]
+}

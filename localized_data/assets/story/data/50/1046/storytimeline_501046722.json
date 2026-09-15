@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Смарт Фалкон comes to my office one\nday with a\nhand on her forehead...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Groan...</i> Um, Trainer... Can you tell me\nthat I'm\ncute?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "What's this all of a sudden?"
+            ]
+        },
+        {
+            "text": "My head hurts... I got some rest and\ntook some\nmedicine, but...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Nothing worked at all! So there's only\none thing\nleft to try—the \"cutie cure\"!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You know how plants grow better when\npeople\ntalk to them? I thought that if\nyou told me I'm\ncute...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Maybe I'd be so happy that my\nheadache just\ndisappears! Sooo...\nPlease?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You're the cutest, Falco!"
+            ]
+        },
+        {
+            "text": "Ehehe, yaaay! ☆ And as for my\nheadache...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It hasn't improved at all! Waaaahhhh!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I spend the rest of the day trying to\ncheer up\nSmart Falcon, but her\nheadache doesn't subside.",
+            "name": "Монолог"
+        }
+    ]
+}

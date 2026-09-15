@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Супер Крик is looking over at me with a\nsleepy\nexpression...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mmm... Oh, Trainer, you're such a sweet\nlittle\ncutie-pie...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Um... Creek?"
+            ]
+        },
+        {
+            "text": "...H-huh?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh my, I'm sorry. It seems I had my head\nin the\nclouds for a bit there...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I need to get myself together.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You work so hard to pick all these races\nfor me... I\nneed to try harder... to win\nthem...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик mumbles before slipping\nback into\nher drowsy reverie.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Have I put too much on her plate? I\nmight need\nto rethink her race schedule.",
+            "name": "Монолог"
+        }
+    ]
+}

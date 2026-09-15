@@ -1,0 +1,181 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I know this is a little sudden, but I have\nsomething\nto ask you, Trainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I want you to go to the NHK Mile Cup\nwith me!\nNot just to watch! I want you to\nrun with me!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Uhhh, that's not gonna happen..."
+            ]
+        },
+        {
+            "text": "Whaaat?! Why not?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "At this rate... I'll...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Can you come with me to the training\ntrack for a\nsec?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Surprised by her odd request, I\nnevertheless\nfollow her to the training\ntrack.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There we find...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Graaaagh! I'm not gonna lose, Sei!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Then keep up with me... Push yourself to\nthe limit!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "<i>Huff, huff...</i> I was so close...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "<i>Huff, puff...</i> I win!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "<i>Wheeze, wheeze...</i> That's right—I'll train\nuntil I\ndrop! This is all for my first-rate\ncomeback at the\nSatsuki Sho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, there's still a lot of work to be\ndone until\nthen.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Her rivals are all working hard together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look at them! The passion! The nobility!\nThe witty\ncomebacks and friendly\nteasing!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Just watching them makes my blood\ntingle! I want\nrivals like that!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You mean they're not your rivals?"
+            ]
+        },
+        {
+            "text": "Of course, they're my rivals. But they're\nall on the\nTriple Crown tour, and I'm on\nmy own path.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My papa told me that when luchadors\nuse\njumping techniques...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Each one tries to fly higher than the\nothers. They\nuse that passion to make\neven better techniques.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But I don't have anyone to compete\nwith...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "How can I go on like this? Can this even\nbe called\nwrestling?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "It's <i>not</i> wrestling. It's racing..."
+            ]
+        },
+        {
+            "text": "So how about it, Тренер? Will you run\nwith me?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Sorry, but no."
+            ]
+        },
+        {
+            "text": "Then what about a winning wrestling\nmatch at\nleast?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "I don't really know what to say..."
+            ]
+        },
+        {
+            "text": "Then, what should I do?! Look at me!\nLook at\nthese balled fists, clenched like\niron!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса seems sad that she\ndoesn't have\nany rivals to go toe-to-toe\nwith.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As far as solutions, only one comes to\nmind...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you want to change to the Triple Crown\ntour?"
+            ]
+        },
+        {
+            "text": "Qué? N-no, that's out of the question.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My goal is and always has been to win\nthe Japan\nCup in my classic year!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The dreams of the world's wild condor\nwill never\nwaver!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But... I do also want to run with my rivals!\nWhat\nshould I do...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Is there any reason you can't run with them next\nyear?"
+            ]
+        },
+        {
+            "text": "Oh, that's true! There's always next\nyear...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ughhh, but that's too far away! I wanna\nrace them\nas soon as possible.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh, I've got it! In that case...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "King! King! Wanna go to the NHK Mile\nCup with\nme?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You know, just for a laugh... Really kill\nsome time!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Whaaat?! Don't be ridiculous!\nAbsolutely not!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Эль Кондор Паса's hot young blood is\nlooking for a\nchallenge. I could try and\ntell her not to be\nunreasonable, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is what she wants, and who am I to\nsay no? I\nwonder if there's way she can\ntest her strength\nagainst her classmates,\nat least once.",
+            "name": "Монолог"
+        }
+    ]
+}

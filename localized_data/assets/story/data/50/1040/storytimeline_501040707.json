@@ -1,0 +1,96 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm visiting a shrine with Голд Сити, who\nhas been\nstuck in a slump as of late.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I never considered a shrine a place for\nrelaxation,\nbut... I guess it's not so bad.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's quiet, and there's not many people\naround.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Interesting how different it is from when\nI'm here\non the job.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You modeled at a shrine?"
+            ]
+        },
+        {
+            "text": "Not exactly. Before shooting a major\ncollection or\nfilming a new TV show, we\nattend a prayer\nceremony.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "A bunch of us all get in a line, then the\npriest\nwaves that white thing around.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Not that that doesn't have its own vibe\nto it, but\nyou know, it's work, so\neveryone's just on edge.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I guess whether you're amped up or in\nthe\ntrenches, once you've done all you\ncan do, there's\nnothing left but to pray\nto the gods.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Well, let's get to it, yeah?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Clang, clang!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "(Um... Hey there, gods. If you're\nlistening, I've just\nbeen in sort of a rut\nlately, and I want to do\nsomething about\nit.)",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "(I'm not asking you to make me faster.\nJust,\nwhether I win or lose, I want it to\nbe based on my\nskill.)",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Sigh...</i> Well, that's done. I guess it might\nbring me\npeace of mind...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah. Actually, I think I'm already\nstarting to feel\nbetter!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Maybe I was feeling panicked, thinking I\ndidn't\nhave enough time?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay, let's go, Trainer. I feel like this\nwill help me\nconcentrate on my practice\ntomorrow!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh, a message from my manager.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What, an urgent job? She's coming to\npick me up\nnow?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Are you kidding me? I thought I finally\nhad a\nchance to rest...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Just gonna do me dirty like that, huh?\nThanks,\ngods. Thanks a lot...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "She swiftly struts off into the distance.\nWith the\nsun shining behind her back, it\nlooks as though\nshe's walking down a\nrunway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With her wishes going unanswered, Gold\nCity's\nmood doesn't seem to improve.",
+            "name": "Монолог"
+        }
+    ]
+}

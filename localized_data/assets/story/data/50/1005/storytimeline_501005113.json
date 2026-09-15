@@ -1,0 +1,376 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As days go by, I remain unsure if Fuji\nKiseki\nshould continue the Triple Crown\ntour or change\ngears to the mile tour.\nThen, one morning..."
+        },
+        {
+            "text": "Here, sip this slowly. Are you okay?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I come across Фудзи Кисэки gently rubbing\nthe back\nof a younger student."
+        },
+        {
+            "text": "You're usually so sensible and collected.\nIt's not\nlike you to act so irresponsibly.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...What are you trying to say?",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "If something's bothering you, tell me. I'll\ngladly\nlend you an ear.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You've been pushing yourself past your\nlimits\nevery morning lately, haven't you?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The younger student looks away from\nFuji Kiseki's\nsteady gaze and begins\nspeaking quietly."
+        },
+        {
+            "text": "...Okay, I won't hold anything back.",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "You're... You're lucky. You have what it\ntakes to\nconquer the Derby.",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "You have no idea how much it hurts to\nhave to\ngive up even <i>trying</i> to take on a\nrace before you\nrun it!",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "...!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I wanted to run in the Japanese Derby\ntoo.",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "But... I can't finish running an entire\n2,400\nmeters. My legs can't handle it.",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "I know that there are other great races\noutside of\nthe Derby...",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "I know I can choose to take on races I\ncan handle,\nlike miles. But still!",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "I dreamed of becoming a Derby\nchampion ever\nsince I was a child. I\npromised my family I would\nbecome one\nsomeday!",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...That's why I've been pushing myself so\nhard.",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "Her final words fall from her lips like\npebbles into\na still pond, and she runs\noff as if she's fleeing."
+        },
+        {
+            "text": "...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, Trainer. I didn't mean for you to see\nall that.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You all right?"
+            ]
+        },
+        {
+            "text": "Yeah, I'm fine. Thanks for asking.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The poor thing must be feeling so\nstressed right\nnow. I'll try to find the\nright time to talk to her.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Look at me, pretending like I know what\nto do.\nWell, stress stump, what <i>should</i> I\ndo?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "(I couldn't offer her a single word of\ncomfort...\nAnd how could I have when\nshe sounded so\ncrushed?)",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The Japanese Derby is a blindingly\nbright stage.\nEveryone knows of it,\nyearns for it, and runs it\nwith all their\nheart and soul.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Still, just because one can't take aim for\nthat\nsummit doesn't mean they lack\npotential. But\nstill...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's impossible to put into words the\nfrustration\nand despair that comes from\nthe inability to even\n<i>reach</i> for something\nyou so achingly want.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "However, even she has a path that only\nshe can\ntake.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "There's a path out there she can run\ndown proudly\nwith her heart dancing\nand full belief in her\nfuture. I know there\nis.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "There's always more than one path in\nlife. You\nhave to broaden your view.",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "Set your eyes on a destination that you\nand only\nyou can reach.",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "(I know exactly how you felt back then,\nMother.\nPainfully so.)",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...Right.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Time to make a decision, Фудзи Кисэки!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "A few days after that incident..."
+        },
+        {
+            "text": "Do you have a moment? I want to talk to\nyou\nabout something!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Remember when we talked about\nwhether I\nshould continue on the Triple\nCrown tour or go\nfor the mile tour?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I want to add one more super important\ncaveat to\nthe decision-making process!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "And that would be?"
+            ]
+        },
+        {
+            "text": "Do you remember the student from the\nother\nday? The pony who ran off crying,\nI mean.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "As you're aware, a runner's distance\naptitude can\nbe a big issue. Many even\nhave their dreams\ncrushed because of it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm not well-suited for long distances\neither, so I\nunderstand how she feels.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And because of that, maybe I can carry\nher future\ntoo at the Japanese Derby\nand Kikuka Sho!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "If I continue with the Triple Crown tour,\nmaybe\nshe too will find the courage to\ntake on the\nDerby!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "If I take on the mile tour, maybe she'll\nfeel better\nabout running mile races too!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I just want to give her a beacon of hope\nto look\ntoward!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll use my miracle to abolish everyone's\nfear of\nthe future and the\ndisappointment they feel from\nhaving\ntheir dreams crushed!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Please, don't say it's too reckless.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "As Фудзи Кисэки the entertainer, I can't let\neven a\nsingle tear from my ponies go\nunaddressed.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Her tone may be light, but the stalwart\n\ndetermination in her is palpable!"
+        },
+        {
+            "text": "The stage is set. It's time to decide\nwhich path I\nshould take.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "This is no time to be indecisive. We must\nmake\nthe decision! If we're going to do\nthis, then it\nmust be...",
+            "choice_data_list": [
+                "The Triple Crown tour.",
+                "The mile tour."
+            ]
+        },
+        {
+            "text": "Our next race is the Japanese Derby."
+        },
+        {
+            "text": "Hehe, got it! Thank you for believing in\nme.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Let's arrange for a press conference right\naway!\nWe have to make sure the stands\nare filled when\nthe time comes, eh?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "When Фудзи Кисэки formally announces her\n\ninaptitude for long-distance races,\neveryone in\nthe conference is shocked."
+        },
+        {
+            "text": "Does this mean it will be difficult for you\nto run in the\nJapanese Derby and Kikuka\nSho? Are you planning to\nchange your\ntrajectory?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Guess that means the battle for the\nClassic Triple Crown\nwill be without a\nmain star. Things are going to get\nreally\nmessy...",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "On the contrary, the main star isn't going\n\nanywhere.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки's voice rings clear and bold\nover the\nchaotic din."
+        },
+        {
+            "text": "It's <i>because</i> I'm not geared toward\nlonger races\nthat I want to continue the\nTriple Crown tour. I'll\ndemonstrate that\nthese legs of mine can take on\nthose\nremaining 2,400 and 3,000 meters!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I know this might be foolish. Even if I can\nmanage\n2,400 meters, I probably won't\nbe much of a\nthreat in a 3,000-meter\nrace.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But that's <i>why</i> things will be so\ninteresting!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "People will be watching me with\nunblinking eyes,\nwondering if I'll be able\nto fully complete a race\nof such epic\nproportions!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Now more than ever, I have a request for\n\neveryone—keep your eyes on me, and\ndon't you\ndare look away!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "This show, this challenge, this wager\nupon my\nvery own dignity... It's all for\nyou, as well as a\nbeloved schoolmate of\nmine.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The details of Фудзи Кисэки's press\nconference\nspread like wildfire."
+        },
+        {
+            "text": "Did you see the press conference? It's\nwild how\nshe's purposefully gunning for\nraces she knows\nshe's not suited for.",
+            "name": "Passerby A"
+        },
+        {
+            "text": "Right? But it feels like, if anyone can\nsucceed\neven with the odds stacked\nagainst them, it's Fuji\nKiseki.",
+            "name": "Passerby B"
+        },
+        {
+            "text": "...",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "Our next race is the NHK Mile Cup."
+        },
+        {
+            "text": "Hehe, okay! I won't betray your faith in\nme.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Let's arrange for a press conference right\naway! I\nwonder how I should break the\nnews on such a\nshocking development?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "When Фудзи Кисэки formally announces her\n\ninaptitude for long-distance races,\neveryone in\nthe conference is shocked."
+        },
+        {
+            "text": "Does this mean you're giving up on the\nJapanese\nDerby? What a shame... I was\nlooking forward to seeing\nyou there.",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Guess that means the battle for the\nClassic Triple Crown\nwill be without a\nmain star. Things are going to get\nreally\nmessy...",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "And to make up for that, I'll put on a\ntruly\ndazzling show for everyone on the\nmile tour!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Murmur, murmur...</i>"
+        },
+        {
+            "text": "Фудзи Кисэки's voice rings clear and bold\nover the\nchaotic din."
+        },
+        {
+            "text": "Any performance can be made\ninteresting\ndepending on the actors that\ntake the stage!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "In other words, no matter the race, it's\nthose\nracing who create the spectacle!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Even if a race doesn't offer great honor\nin victory,\nour radiance will be more than\nenough to\nenrapture the audience!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I hope you're all excited for the tale I'll\ncreate\nwith my journey on the mile tour!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The moment she finishes her speech, a\nbillow of\nsmoke shrouds her form."
+        },
+        {
+            "text": "(?!)"
+        },
+        {
+            "text": "When the smoke clears, Фудзи Кисэки is\ngone."
+        },
+        {
+            "text": "The details of the press conference\nturned magic\nshow spread like wildfire."
+        },
+        {
+            "text": "Did you see the press conference where\nFuji\ndisappeared at the end?! She said\nshe's switching\ntours!",
+            "name": "Fuji Fan Club Member A"
+        },
+        {
+            "text": "I did! I was surprised, but this means\nwe'll be able\nto see her true potential\nnow!",
+            "name": "Fuji Fan Club Member B"
+        },
+        {
+            "text": "Yesss, you're so right! Ugh, I can't wait\nto see her\nrun!",
+            "name": "Fuji Fan Club Member A"
+        },
+        {
+            "text": "...",
+            "name": "Dark-haired Umamusume"
+        },
+        {
+            "text": "The racing world is about to get shaken\nup big\ntime! Next on our schedule is the\nNHK Mile Cup!"
+        },
+        {
+            "text": "The racing world is about to get shaken\nup big\ntime! Next on our schedule is the\nJapanese Derby!"
+        }
+    ]
+}

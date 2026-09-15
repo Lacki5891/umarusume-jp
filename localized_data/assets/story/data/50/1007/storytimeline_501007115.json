@@ -1,0 +1,267 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A new year has dawned, and with it, the\nworld of\nsenior races opens up before us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In fact, some big races like the spring\nTenno Sho\nand Takarazuka Kinen are\nright around the\ncorner.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I hope Голд Шипп can keep going strong this\nyear!)"
+            ]
+        },
+        {
+            "text": "With my hopes high for the future, I\nbegin\nprepping a training session for\nГолд Шип... but\nshe doesn't show up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have no choice but to search the\nacademy for\nher. After some time...",
+            "name": "Монолог"
+        },
+        {
+            "text": "So I've got a question for you, Tickezo.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Even though we're students now, we've\ngot to go\nout into the real world\nsomeday. What do you\nthink we'll need\nwhen the time comes?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Good question. Hmmmmm... I dunno.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The answer's simple: we'll need normie\npower!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What?! What's \"normie power\"?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll tell you! It's the ability to fit into\nsociety like a\ngear and get down to work\nlickety-split...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You can't go rocking the boat, y'know?\nYou\ngotta do what floats people's goats.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That makes sense! We wouldn't wanna\nsink any\ngoats!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Exactly. Now that the preface's outta the\nway, I\nwanna test out my own normie\npower.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Time to get my lickety-split on!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Quick, come with me!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I can't let Голд Шипп out of my sight, so I\ndo my\nbest to keep up with them.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Behold, a train station. The battlefield\nof the\nnormies.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "B-battlefield?! How so?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Isn't it obvious? There are rules for\nriding trains.\nNo matter what befalls you\nwithin those walls,\nyou can't make a\nscene.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You may be starving or get the sudden\nurge to\nwhistle, but you have to endure\nthat suffering.\nThat's what normies do.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Wow! Normies sure have it rough!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Today, we walk in their shoes. It's time\nto prove\nwe can fit into society.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I challenge you to see who can stay\nquiet the\nlongest on the train!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Y-you're on! Sounds hard, but I'll do my\nbest!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And you, Trainer! Don't think I didn't\nnotice you\nstanding there, spying on us\nthe whole time!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Busted!"
+            ]
+        },
+        {
+            "text": "It's on you to see this battle to the end!\n\nDetermine the winner of our contest,\nand\ntherefore who fits into society\nbetter!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And that's how I got roped into\noverseeing Gold\nShip's battle with\nУиннинг Тикит.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Click clack... Click clack...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Fifteen seconds in...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I-I have to focus... Crab, shrimp, squid,\n\noctopus...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ngggh... I'm a normie! I'm a normie!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Thirty seconds in...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Scallop, sea bream, shrimp, dolphin...\nCrap!\nDolphins are mammals!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Normies don't panic. Play it cool, nice\nand easy,\nsmooth and steady!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Forty-five seconds in...",
+            "name": "Монолог"
+        },
+        {
+            "text": "How could a self-proclaimed marine\nbiology\nexpert like myself make such a\nrookie mistake?!\nThe shame! The\nshaaammme...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I gotta hold still! Hold still, hold still,\n<i>hold still!</i>\nNrghhh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Finally, after just one minute...",
+            "name": "Монолог"
+        },
+        {
+            "text": "GAAAAAH!\nI can't take it anymooore!",
+            "name": "Голд Шипп and Уиннинг Тикит"
+        },
+        {
+            "text": "The doors have hardly begun to open\nbefore\nthey're squeezing themselves out\nonto the\nplatform.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Wheeze... Wheeze...</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Huff... huff...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I-I couldn't <i>breathe</i> in there! I thought I\nwas a\ngoner for suuure!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah, I'll never take breathing for\ngranted ever\nagain!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And if there's just one more thing that'll\nstick with\nme after today...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's that dolphins are mammals! That's\none mix-up\nI won't be making again!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The competition is over before I can\ndeclare a\nwinner...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп vs. Уиннинг Тикит: draw! (To\nbe\ncontinued...)",
+            "name": "Монолог"
+        },
+        {
+            "text": "That night, Голд Шипп has yet another\nstrange\ndream.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Ship of gold, resting beneath the\nwaves...\"",
+            "name": "???"
+        },
+        {
+            "text": "\"Your quarry draws near... Radiant,\nuncharted\nterritory awaits your arrival...\"",
+            "name": "???"
+        },
+        {
+            "text": "Mmm... What was that?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh, I know. It was probably another\ndream about\nthat Eden thingy.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But man, I know I've heard that voice\n\nsomewhere...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hmm... It makes me feel weirdly\nnostalgic...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Good morning, Голд Шип. Quite late to\nrise\ntoday, aren't we?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Morni―hm?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "(Funny... McQueen makes me feel the\nsame sense\nof nostalgia as my dream...)",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's just like the smell of the tatami mats\nat my\ngramps's place...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I beg your pardon?! I hope you're not\nspeaking\nabout <i>me!</i>",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(No, hang on. McQueen smells slightly\n\ndifferent...)",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "(If I had to say, my dream reminded me\nmore of\nlike... the smell of dirty socks\nafter a hard day's\nwork.)",
+            "name": "Голд Шип"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yawn...</i> Aye, aye, sir...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Oh... Trainer... It's you. Perfect timing...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "How about some hot-off-the-press\ndivination,\nready to go? I spent my\nwhole day off thinking it\nup. I didn't get\na wink of sleep!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "First, you make a peace sign like this,\nokay? And\nthen you...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Yawn...</i> I forget...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It looks like Матиканэфукукитару hasn't\nrested at\nall...",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After a day out together...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "On our way home, Мэдзиро Райан stops\nand stares\nat a display window with\neager eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Ryan and her trainer! What a\ncoincidence!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hey, hey! Ryan!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Huh?! Wh-what is it?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh! When did you get here, Ines?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You really didn't notice me? I swear...",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "I wonder what's caught your attention.\nLet's see,\nlet's see...",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Oooh! That's a cute dress! It's kind of\nlike a maid\noutfit.",
+            "name": "Ines Fujin",
+            "choice_data_list": [
+                "Got your eye on that dress?"
+            ]
+        },
+        {
+            "text": "Huh? N-no, not one bit! I didn't even\nnotice it\nthere!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But you were staring at it like you found\na new\ngym or something.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Hey, wait... Did you change your hair?",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Gaaah! You noticed?!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You changed something?"
+            ]
+        },
+        {
+            "text": "Well... since we had plans to go out\ntoday, I\nthought I'd style it a little\ndifferently.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ahh, I get it now. You were just\nchecking out your\nhair in the window.",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Yeah... I keep worrying that it won't stay\n\ntogether...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "So I've been restless this whole time. I\ncan't seem\nto relax at all.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Don't worry. You look great.",
+                "I'm sorry I didn't notice."
+            ]
+        },
+        {
+            "text": "Wow... D-do I?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You <i>really</i> should've said so sooner!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Then Ryan wouldn't have been so\nself-conscious\nthis whole time!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "You're her trainer! You need to pay\nmore\nattention!",
+            "name": "Ines Fujin",
+            "choice_data_list": [
+                "I understand. I'll be more attentive from here on\nout."
+            ]
+        },
+        {
+            "text": "More attentive... That'd make me even\n<i>more</i>\nnervous!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Huh?! O-oh, no need to apologize! I\nonly changed\nit up a tiny bit—barely\nenough to notice!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "In that case... next time you should go\nfor a\nbigger, BOLDER change!",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "How about wearing an outfit like the\none in this\nwindow?",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "Uh?! S-something cute like that? No\nway!\nAbsolutely not!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Really? I think it'd suit you...",
+            "name": "Ines Fujin"
+        },
+        {
+            "text": "With a new understanding of Ryan's\nefforts, we all\nhead back to the academy\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The three of us continue our lively\nconversation\nas we make our way back\nto the academy.",
+            "name": "Монолог"
+        }
+    ]
+}

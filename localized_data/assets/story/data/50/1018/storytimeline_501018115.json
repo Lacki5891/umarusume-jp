@@ -1,0 +1,324 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Having reached the end of her Tiara\ntour, Air\nGroove has earned significant\nrenown as the\nEmpress, and the public\nwatches her with fervor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "However, she's not alone in the\nlimelight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Сайленс Судзука is in the lead! Silence\nSuzuka is in\nthe lead!",
+            "name": "TV Комментатор"
+        },
+        {
+            "text": "And she crosses the finishing line in first!\nNobody\ncan take that lead from her!\nShe's incredible!",
+            "name": "TV Комментатор"
+        },
+        {
+            "text": "The other racer making waves is an\nUmamusume\nknown as the Otherworldly\nFront-Runner—Silence\nSuzuka.",
+            "name": "Монолог"
+        },
+        {
+            "text": "When considering Эйр Грув's future\nchallenges,\nСайленс Судзука is someone\nwho can't be ignored.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув's senior year is almost upon\nus. I need\nto talk to her about our plans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The student council is holding a\nlarge-scale\nscrimmage event today to\nhelp everyone improve\ntheir skills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Naturally, Эйр Грув is helping\norganize, so I\ndecide to lend a hand as\nwell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look, look! Isn't that Сайленс Судзука?",
+            "name": "Umamusume Наблюдатель A"
+        },
+        {
+            "text": "Whoa! Yeah, it is! I didn't know she was\nrunning in\nthe scrimmages today!",
+            "name": "Umamusume Spectator B"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We're so lucky! How many chances do\nyou get to\ngo all out with Silence\nSuzuka?!",
+            "name": "Participating Умамусумэ А"
+        },
+        {
+            "text": "Spectators and participants alike are\nexcited by\nСайленс Судзука's presence.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is that... Suzuka?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув is also looking at Silence\nSuzuka, a\nlook of astonishment visible\nupon her face.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "text": "You may not be aware of this, but\nSuzuka and I\nare already acquainted\nwith one another.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We've practiced together a number of\ntimes. I\nthought I was well aware of her\npotential.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "However...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Something's happened to her. She's\nnothing like\nshe was before.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What's different about her?"
+            ]
+        },
+        {
+            "text": "In simple terms... She has a completely\ndifferent\nair about her.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Since beginning our Twinkle Series\ncareers, we\nmay have run into each other\nnow and then at the\nacademy, but we\nhaven't actually met on the\ntrack.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I've seen footage of her running, of\ncourse, but I\nhad no idea she had come\n<i>this</i> far...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As a highly talented Umamusume\nherself, Air\nGroove must be able to\nsense something in\nСайленс Судзука that I\ncan't.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She keeps her gaze fixed on Suzuka for\na few\nexcruciating seconds, until...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I need to find out for myself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She dashes off without warning, and I\nchase after\nher in a fluster.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Things seem to be progressing without\nissue. The\nnext group is—",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув? Is there an issue in the\nstands?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "No, there's no issue. I have a personal\nrequest.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And what might that be?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I am fully aware that this is out of line,\nbut I want\nto ask if I can race against\nSuzuka.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's rare for you to ask something of me. I\nwould\nhappily oblige, but the\nallocations for Silence\nSuzuka's group\nare already—",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I would like to make the same request.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Suzuka!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You wish to race against Эйр Грув?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I do. I'm also curious to see how she has\nchanged\nsince we last ran together.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Эйр Грув is gonna race against Silence\nSuzuka?!",
+            "name": "Umamusume Spectator B"
+        },
+        {
+            "text": "Omigosh, no way! We've gotta see this!",
+            "name": "Umamusume Наблюдатель A"
+        },
+        {
+            "text": "The Umamusume nearby perk up at the\npotential\nmatchup and word begins to\nspread.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My goodness. I can't exactly say no now,\ncan I?\nYou have my consent. I'll sort out\nthe\narrangements.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Thank you very much for your\nmagnanimity.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "True to her word, Rudolf quickly\norganizes a\nscrimmage between Air\nGroove and Silence\nSuzuka, and soon\nenough...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff, huff!</i>",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Сайленс Судзука races ahead and takes\nthe lead,\nwith Эйр Грув giving chase.\nSo far, the scene on\nthe track is playing\nout just as everyone expects.",
+            "name": "Монолог"
+        },
+        {
+            "text": "(Ngh... What incredible speed! She's\nalways been\na front runner, but this is on\nan entirely different\nlevel!)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(But I haven't let her slip out of my\nrange yet... I\n<i>will</i> snatch that lead from\nher!)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As the race reaches the final turn, Air\nGroove\nattempts to surge forward, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hahhh!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(What the—?!)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Сайленс Судзука picks up her pace. Try as\nshe\nmight to close in, Эйр Грув finds\nherself only\nfalling even farther behind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "(There's no way...)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув finishes the race without\neven\nmanaging to catch Сайленс Судзука's\nshadow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "D-did you see that?! She was in front the\nwhole\ntime, but somehow she still\nzoomed ahead at the\nend! Talk about\nwild!",
+            "name": "Umamusume Наблюдатель A"
+        },
+        {
+            "text": "She managed to stay ahead of Air\nGroove!\nThat's... unbelievable.",
+            "name": "Umamusume Spectator B"
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Эйр Грув..."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Good race, Эйр Грув.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Y-yeah... Congratulations.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You were magnificent, Suzuka. I'm glad I\nwas able\nto race you today.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Me too. I look forward to facing you in a\nproper\nmatch.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yes... As do I.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well then, until we meet again.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ngh...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That night in my office, I think back on\nAir\nGroove and Сайленс Судзука's race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I thought you might be here.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I have something to discuss with you. Or\nrather, I\nhave a request.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I want you to enter me in a race where\nI'm likely\nto go up against Suzuka.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You saw what happened today. She\ncompletely\noutclassed me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In the challenges that lie ahead, Suzuka\npresents\nan obstacle that I will need to\novercome.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Then let's aim for the Osaka Hai."
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Of all our options in the near future, this\nis the\nrace where Сайленс Судзука is most\nlikely to show.\nIf we want to face her, it\nhas to be our best bet.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's take down Сайленс Судзука together."
+            ]
+        },
+        {
+            "text": "...Thank you for indulging my selfish\nrequest. I\npromise you, this time I won't\nlose.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And so, we make beating Сайленс Судзука\nour next\ngoal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our next race is the Osaka Hai! We can't\nleave\nthings as they stand now!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Ooooohh...</i> I really thought I could win.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I feel like I'm not being perceptive\nenough...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm sure if I can fix that, things will turn\nout\ndifferently. So...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "For all of the hard work you've put in for\nme, I'm\ngoing to work even harder in\nreturn!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You didn't win, but it was still a great race!",
+                "Let's use this as motivation for next time!"
+            ]
+        },
+        {
+            "text": "You're always looking at me with those\nsparkling\neyes of yours—no matter how\nthings turn out.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I wonder how you'll look at me when I\nnab first\nplace.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Trainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You're right. Next time, I'll run even\nfaster and\nmake sure to take first place.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll tackle any training you bring just to\nmake you\nhappy! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe. I'll work hard to win next time so I\nget to\nsee that amazing smile.",
+            "name": "Супер Крик"
+        }
+    ]
+}

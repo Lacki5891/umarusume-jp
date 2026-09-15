@@ -1,0 +1,139 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Сити's running today. I can't wait to\nsee how\nshe does against the senior\nracers.",
+            "name": "Fan A"
+        },
+        {
+            "text": "Oh please, you're just here to ogle at\nher pretty\nface, aren't you?",
+            "name": "Fan B",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Is it that obvious? I'm excited to see how\nshe\ndoes, but really I just wanted to see\nher in person.\nSame for you, right?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Nah, I'm cheering for Тамамо Кросс. Did\nyou see\nthat race she won by a huge\nmargin?",
+            "name": "Fan B"
+        },
+        {
+            "text": "Yeah! She's so good, it's scary! I wonder\nhow she'll\ndo today?",
+            "name": "Fan A",
+            "choice_data_list": [
+                "Keep an eye on City's running too!"
+            ]
+        },
+        {
+            "text": "Whoa, who are you?! Wait... Голд Сити?!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Wow, she's just so pretty...",
+            "name": "Fan B"
+        },
+        {
+            "text": "Thank you. That's enough, Trainer. Let's\ngo.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "But!"
+            ]
+        },
+        {
+            "text": "I said let's go.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So Tamamo got past her wall then. Good\nfor her.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But for me, it's still all about my looks...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "City..."
+            ]
+        },
+        {
+            "text": "I'm fine. Need to concentrate on my\nrunning.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So just... don't say anything.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The comments she heard aren't the\nwhole picture.\nThe fans are excited to\nsee her running, too. But\nhearing that\nwouldn't be much comfort to her\nright\nnow, so instead...",
+            "choice_data_list": [
+                "Just keep your head up and run like yourself."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I've been waitin' for this, City! We finally\nget to\nrace each other!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "This moment's been a long time comin'.\nYou've\nhad a lotta success gettin' here,\nbut that all ends\ntoday.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "It's my job to knock ya back to reality!\nDon't go\ncryin' 'cause I'm too strong\nwhen dis is over!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "As if I'd cry...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I dunno if somethin' happened, but ya\nseem\npretty unmotivated for someone\ngettin' ready to\nrace.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Somethin' goin' on? Is it just me?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Hey! Stop lookin' so grim!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "You better not half-ass it out there,\n'kay? And\ndon't get in my way either!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I wouldn't go out there if it was just to\nmake a\nfool of myself.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If there's still a chance...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Then I have to.",
+            "name": "Голд Сити"
+        }
+    ]
+}

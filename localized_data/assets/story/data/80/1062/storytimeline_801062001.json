@@ -1,0 +1,127 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I hear someone talking rather animatedly\nfrom\nthe training track's stands and head\nover to check\nthings out...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohhh, I see, I see! I gotta save that move\nfor\nlater...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Oh, wow! Look at her run! She's just\nincredible!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I wonder if she used her pivot foot to do\nthat?\nOoh, she broke away from the\npack so cleanly...",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "You sure are enjoying yourself."
+            ]
+        },
+        {
+            "text": "Oh, hello! Are you here to watch the\nothers as\nthey train too?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Everyone here really is amazing. It's like,\nthey're\nnot Tracen students for nothing,\nyou know?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "The way that racer accelerates in the\nfinal stretch\nis so awesome.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "The timing of her last spurt was\nunbelievable too!\nI should really ask how\nshe does it.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Also, the racer over there has an\nincredible\namount of stamina!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Oh right, she's the one that always eats\nmountains\nof food at lunch. That must\nbe the key, huh?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Not to mention Ikuno Dictus over there\ndoing\nsome solo training.",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "Your observational skills are astounding."
+            ]
+        },
+        {
+            "text": "Huh? I think they're pretty average,\nactually.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I really don't have any special skills of\nmy own, so\nwatching everyone closely is\nthe least I can do.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "That's why I always get so excited\nwhenever I\ndiscover someone new and\namazing.",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "You catch on to their styles so fast.",
+                "You have a very special power."
+            ]
+        },
+        {
+            "text": "That's why I always get so excited\nwhenever I\ndiscover someone new and\namazing.",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "You catch on to their styles so fast.",
+                "You have a very special power."
+            ]
+        },
+        {
+            "text": "Aw, you flatterer! Praising me will get\nyou\nnowhere, you know!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "'Sides, I know better than anyone else\nhow\naverage I—",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "...Wait a minute. Why is Ikuno using her\nlegs like\nthat? That's different than what\nshe usually\ndoes...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Could it be? Is she trying out a new\nform? Ooh,\nwhat could it be?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Sorry, but I really gotta find out! Hey,\nIkuno!\nHeeeey!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Whaaat?! Don't flatter me like that!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I really am just a very average\nUmamusume... Oh,\nhold on. Has Ikuno\nfinished training already?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Sorry, but I want to go over there and\nhelp her\nout.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "She used a lot of equipment, so I'm sure\nshe'll\nneed a hand putting everything\naway!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I don't think I'll actually be of much\nhelp, but\ncleanup will still be faster with\ntwo people than\none.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Матиканэтангейзер runs off at a speed\nthat can\nhardly be considered \"average.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "Матиканэтангейзер helps clean up with\nway\nmore than average strength, and the\ntask is done\nin the blink of an eye.",
+            "name": "Монолог"
+        }
+    ]
+}

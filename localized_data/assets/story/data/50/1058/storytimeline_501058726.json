@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, on an outing with Meisho\nDoto..."
+        },
+        {
+            "text": "Oooh...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh! Sorry...s-sorry for stopping so\nsuddenly!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото points toward a claw\nmachine filled\nwith Umamusume\nplushies.",
+            "choice_data_list": [
+                "Do you want one?"
+            ]
+        },
+        {
+            "text": "I d-do! They have Opera O and so many\nother\ntalented racers... So...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "If I had one for myself, maybe their\nconfidence\nwould rub off on me...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But I'm horrible at these games... Even if\nI do\nmanage to pick one up with the\nclaw, it always\nfalls right out... <i>Sniffle!</i>",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Do you want me to win you one?"
+            ]
+        },
+        {
+            "text": "What?! No, th-that would be a t-terrible\nburden...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Even though... it would be make me very\nhappy.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!"
+        }
+    ]
+}

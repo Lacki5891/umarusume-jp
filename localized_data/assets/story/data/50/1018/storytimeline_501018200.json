@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the day of Эйр Грув's debut\nrace!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I head out early to get to Sapporo\nRacecourse in\ngood time, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "My apologies—go on ahead of me.\nThere's\nsomething I need to take care of.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув walks off alone.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I didn't realize you were coming, Dober.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Y-yeah, I wanted to come cheer you on.\nIt's your\ndebut race, after all.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Мэдзиро Добер is an Umamusume from the\nnoble\nMejiro family.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The Mejiro family is home to the\nbrightest, most\ntalented Umamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Among their ranks is the lauded stayer\nMejiro\nMcQueen, as well as the powerful\nМэдзиро Райан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро Добер is no exception—she, too,\n\nshoulders huge expectations from those\naround\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And it isn't just me. Everyone who\nbenefits from\nall your hard work is here\nas well... to support\nyou.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "So... show them your stuff today, Air\nGroove!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Thank you. I promise to live up to your\n\nexpectations.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Watching from a distance, I can see Air\nGroove\ntalking to Мэдзиро Добер. She\nmust have noticed\nher in the stands and\ngone over to greet her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After their brief exchange, it feels as\nthough Air\nGroove's aura takes on a new\nintensity.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "text": "Of course I am—but that's something\nthat comes\nwith the responsibility of\nbeing Empress.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The weight of expectation and the\npressure to\nproduce results are burdens I\nmust bear for those\nwho support me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Just relax and keep your eyes on me\nwhile I'm out\nthere. Witness the start of\nthe Empress's legacy.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

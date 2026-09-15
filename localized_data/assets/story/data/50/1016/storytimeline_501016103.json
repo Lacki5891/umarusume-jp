@@ -1,0 +1,127 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the first day of summer camp!\nIt's a\nperiod of intense training where\nracers can\nimprove their skills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As Нарита Брайан and the other students\nall board\nthe bus...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан! After achieving huge\nsuccess in the\nClassic Triple Crown tour,\ncould you please share\na few words?",
+            "name": "Magazine Репортёр"
+        },
+        {
+            "text": "I take it you're aware of the Triple\nCrown\nChampion Симболи Рудольф.",
+            "name": "Newspaper Репортёр"
+        },
+        {
+            "text": "Do you think you'll able to surpass the\nformidable\nbar set by the Emperor in\nterms of G1 wins?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "People's enthusiasm for Нарита Брайан\nshows no\nsigns of cooling as she faces\noff in the Classic\nTriple Crown. Rather,\ntheir expectations have\ngrown even\nmore.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You go ahead and get on the bus."
+            ]
+        },
+        {
+            "text": "...Okay.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Wait! Brian? Brian!",
+            "name": "Magazine Репортёр",
+            "choice_data_list": [
+                "Please direct any questions you have this way!"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Haha, it's quite a spectacle out there.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Rudolf.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You okay? How're things going as\npresident?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I also tried to get out in front and deal\nwith the\npress head on at first.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Эйр Грув did not approve, however.\nShe said\nthings would only get more\nheated.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Hmph. They did all keep mentioning\nyour name\nfor some reason.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yes, well... there are those who would\nlike to\ncompare the two of us.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Perhaps we actually should compare\nourselves.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tch! So that's your style, eh? Dangling\nbait in\nfront of me?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I told you I'd accept your challenge back\nwhen\nyou dragged me into the student\ncouncil, yet you\nnever compete with me.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're also in the Twinkle Series, yet\nyou always\nkeep your distance.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I've yet to see any real hunger in your\neyes.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Is that so?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But when I finally line up next to you,\nthere will\nbe no escape.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'll be sure to drag you into a real\ncontest one of\nthese days.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Heh. Well then, I'll bear that in mind.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Inside the bus, the curtains are closed to\nblock\nout the sun, which is blazing\nhotter than usual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It is on that cool, shaded bus that the\ntwo racers\npledge to face each other.",
+            "name": "Монолог"
+        }
+    ]
+}

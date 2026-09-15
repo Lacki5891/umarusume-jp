@@ -1,0 +1,187 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I'm discussing the day's training\nschedule with\nКинг Хало, a sudden noise\ninterrupts me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Thunk!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "OUCH!!! Geez, that hurt!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Having banged her own head on the\ndesk, King\nHalo appears angry at\nherself.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Dozing off?"
+            ]
+        },
+        {
+            "text": "O-of course not! I was just practicing\n\nheadbutting!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Anyway, we need to be focusing on\ntoday's\ntraining plan!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...So where were we again?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I knew it. She fell asleep in the middle of\nour\nconversation.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You seem pretty tired."
+            ]
+        },
+        {
+            "text": "Gosh, there's no need for your concern.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, I <i>did</i> add a little bit of personal\ntraining to\nmy schedule...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But only second-rates would admit\ndefeat this\nearly!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I shall endure the pain, overcome the\nhardships,\nand better myself! Ohohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Seeing as you're my trainer, I expect you\nto be on\nthe same page. Now then, let's\nget to training!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Goodbye to the old me, hello to the\nnew me!\nVictory is calling my name!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now, what kind of training will it be\ntoday? Let's\ngo over it one more time!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Today's plan is to take a nap on the grass.",
+                "We're doing some light training today."
+            ]
+        },
+        {
+            "text": "Excuse me? I believe I told you that this\nlevel of\nfatigue is no problem at all.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Shh, just come with me for a minute."
+            ]
+        },
+        {
+            "text": "Oh, come on! I've already prepared\nmyself to\nstart running!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You want me to lie down here and take\na nap?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Very well, then. I suppose even if I don't\nactually\nfall asleep, relaxing still has its\nbenefits.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll resume training after the short break,\n\nunderstood?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Sigh...</i> But I suppose it's not so bad lying\ndown\nand gazing at the sky like this.\nHehe...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Zzz... Zzz...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ah!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I-I wasn't sleeping, you know! I was just\nrelaxing!\nFor an extended period of\ntime!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Tomorrow, I'm going all out! I need to\nmake up\nfor today's lost time!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What?! Didn't I just say that only\nsecond-rates\ngive up this early?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Being first-rate means never giving up! It\nmeans\nmoving forward even when the\ngoing gets tough!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I understand, but let's try it and see how it\ngoes."
+            ]
+        },
+        {
+            "text": "<i>Sigh.</i> Fine, but if I feel this isn't enough,\nthen I'm\ntaking matters into my own\nhands.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "This should feel... far less strenuous...\nthan usual...\nbut my body won't move...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "This is just right, considering how tired you are."
+            ]
+        },
+        {
+            "text": "Ugh!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I mean, ohohoho! Don't go getting the\nwrong\nidea about all this!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "This was a test! That's right, a test! To\nmake sure\nyou won't let your trainee\nbehave recklessly!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You assigned me training that was\nappropriate\nfor my condition... Quite a\nfine response. I\npresent you with a\npassing grade!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'm glad I passed."
+            ]
+        },
+        {
+            "text": "Ohohoho! And with that, I am done for\nthe day!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Phew. I'm quite ready for a rest...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "This light dose of training proved to be\nmore than\nenough for Кинг Хало today.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Following her deep sleep, Кинг Хало is\nbrimming\nwith energy and motivation.",
+            "name": "Монолог"
+        }
+    ]
+}

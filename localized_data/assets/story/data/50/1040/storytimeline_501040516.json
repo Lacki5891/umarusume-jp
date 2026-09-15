@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At lunchtime, I spot Голд Сити and Oguri\nCap in\nthe cafeteria. On their table they\nhave lined up a\nton of bags packed with\nfancy sweets.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here, Oguri. As promised.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Thank you... What was it again you\npromised?\nFarm equipment?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "What? No! Gifts I got from a modeling\ngig. You\ntold me you'd take extras if I\ncouldn't eat them\nall.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, right! I couldn't imagine not being\nable to\nfinish eating something, so I\nforgot about it.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I made sure to keep the ones I got from\nmy fans\nseparate, so you're welcome to\neat all of them.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh? You're not going to have any? You\nknow,\nTama says eating with someone\nelse is the best\nseasoning.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, uh... I gotta watch my calories.\nReally\ntempting offer, though.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, hey Trainer, were you listening? Can\nyou\nexplain to her why I can't eat any?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Moderation is the key to winning!",
+                "Calories are the key to winning!"
+            ]
+        },
+        {
+            "text": "Right? Not like that's news to anyone\nhere.\nAlthough... they did mix in a few\ntreats from my\nfavorite store...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're allowed one bite though."
+            ]
+        },
+        {
+            "text": "Wait, I am?! T-true, I do have training\nafter this,\nso one bite can't hurt, can it?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You're not serious! B-but, you're right\nabout\nneeding the energy to perform\nwell.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hnnghh... Okay, just for today! Oguri, I\nhighly\nrecommend that chocolate\nterrine.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Terrine... I thought it was a cake. Then\nwhat's in\nthis tin over here?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "And so, Голд Сити enjoys just a tiny bit\nof the\ntasty sweets.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Opening one bag after another, Gold\nCity enjoys\nas many sweets as she can\nmanage with Oguri\nCap.",
+            "name": "Монолог"
+        }
+    ]
+}

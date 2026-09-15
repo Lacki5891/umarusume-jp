@@ -1,0 +1,207 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as Сайленс Судзука is finishing\nup her\ntraining...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for today. By the way, about\n\ntomorrow's training session...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ohhh! Look, it's Suzuka! Let's nab this\ncutie, eh,\nBourbon? ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Understood, Falcon. Now commencing\ncapture\nprocedure.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Huh? Wait a—Bourbon!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "In the blink of an eye, Сайленс Судзука is\nswept\naway by the two Umamusume. I\nrush frantically\nafter them...",
+            "name": "Монолог"
+        },
+        {
+            "text": "One, two, smile! Pose! One, two, pose!\nThat's\nit! ☆ All right, now, all\ntogether! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "One, two, smile. Pose. One, two, pose.\nAll\ncommands executed successfully.",
+            "name": "Михоно Бурбон",
+            "choice_data_list": [
+                "What's going on here?"
+            ]
+        },
+        {
+            "text": "Well... I've been invited to dance\nlessons. I'm not\nvery good at saying no...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's 'cause you and Bourbon are totes\nUmadol\nmaterial!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Materials are irrelevant. These lessons\nare\nvaluable.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Falcon excels in emotional expression.\nThere is\nmuch to be learned by\nreferencing her speech and\nconduct.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "All right, let's give it our all! We've got a\nfan\nwatching today! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Fan? You mean me?"
+            ]
+        },
+        {
+            "text": "Thank you for coming. The presence of a\nthird\nparty is important for improving our\nperformance.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "You're so right! Well then, let's start the\nmusic!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I stick around a while and watch the\nthree\npractice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Next, let's rehearse some call and\nresponse! I'll\ngive an example.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "All right, you over there! When I give\nyou the\nsignal, you scream out,\n\"FAAALCOOO!\" Okay?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oh... Now you're getting dragged into\nthis too...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Are you're reeeadyyy?! Fa-fa-fa...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Falco?"
+            ]
+        },
+        {
+            "text": "It needs a little more oomph, like\n\n\"FAAALCOOO!\" ☆ Okaaay, let's do\nBourbon\nnext!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Understood. Commencing operation.\n\nBour-Bour-Bour...",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "BOURBON!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "...BOURBON!"
+            ]
+        },
+        {
+            "text": "Ah! Perfection! ♪ Just what I expected\nfrom\nSuzuka's trainer!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And now for the headliner! Aaah! I can't\nwait! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Umm... What do I do?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Amp it up!",
+                "D-do whatever seems right?"
+            ]
+        },
+        {
+            "text": "Easier said than done...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You never know if you don't try, Suzuka!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "A good concert relies on the full effort\nof both\nthe Umadols and their fans!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You can do it, Suzuka!"
+            ]
+        },
+        {
+            "text": "Um... Uh... I still don't... Maybe,\nsomething like—",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "S-suzu-suzu-suzu...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "SU-ZU-KAAA!"
+            ]
+        },
+        {
+            "text": "You were perfectly synchronized with\nyour fan.\nThis performance is a verified\nsuccess.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Totally! You're really coming into your\nown as an\nUmadol, Suzuka!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The three Umadols are bursting with\nmotivation. I\nlook forward to seeing\nwhere they go from here!",
+            "name": "Монолог"
+        },
+        {
+            "text": "B-but what if nothing feels right? Um...\nUh...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I-I'm Сайленс Судзука! ...Yaaay!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um... I just did what seemed right...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "No...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "WAY! Suzuka! That was amazing! Like,\nso cute! So\nadorbs!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Really?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Intriguing. A display of shyness can\nprove quite\neffective. I will remember\nthis.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "I knew I was right about you, Suzuka!\nYou have\nwhat it takes!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Huh? ...Huh?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um... You can stop us at any point...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems Сайленс Судзука is making big\nstrides as\nan Umadol! I think!",
+            "name": "Монолог"
+        }
+    ]
+}

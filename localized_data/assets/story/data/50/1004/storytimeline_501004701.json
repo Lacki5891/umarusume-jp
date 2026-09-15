@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Yoo-hoo! Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You look like you're in a good mood."
+            ]
+        },
+        {
+            "text": "Yoo-hoo! Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You look like you're in a good mood."
+            ]
+        },
+        {
+            "text": "Absitively posolutely! I slept really well\nlast night.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I even woke up early and went for a\ndrive! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The nice morning breeze was so\nrefreshing! Now\nI'm ready to rock and\nroll!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm kicking it into high gear today!",
+            "name": "Марузенски"
+        }
+    ]
+}

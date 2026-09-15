@@ -1,0 +1,149 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "While passing through the busy area in front of\nthe station..."
+    },
+    {
+      "name": "Young Girl",
+      "text": "<i>Sob...</i> Mommy... Where are you?"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "What's the matter? Did you get separated from\nyour mom?"
+    },
+    {
+      "name": "Young Girl",
+      "text": "Yeah..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Worry not! We'll find her for you at once!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Hey, is anyone this girl's mommy?! Anyoooone?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Despite the determined calls, no one steps out\nfrom the bustling crowd to answer their pleas..."
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Hmm... Oh, I've got it! ♪ Sorry, I'm just going to\nlift you up for a bit!"
+    },
+    {
+      "name": "Young Girl",
+      "text": "Huh?"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Up you go! So, can you see your mom from up\nthere?"
+    },
+    {
+      "name": "Young Girl",
+      "text": "...Oh! I can! She's near the karaoke sign!"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "The lady in the white outfit! Oh no, she's heading\naway from us!"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Phew... We found your mom, but moving through\nthis crowd is going to be tough..."
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Which means you're up, Biko!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Leave it to me! I'll fetch your mom right over!\nBono, you provide backup via your comms\ndevice!"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Call you with updates, right? ♪ Gotcha!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Biko Pegasus makes deft use of her small frame to\nweave swiftly through the large crowd."
+    },
+    {
+      "name": "Young Girl",
+      "text": "She's so fast!"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Hello? Biko? The girl's mom is currently moving\ntoward the beef bowl restaurant!"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Keep going straight! That's her! The lady with the\nlong black hair and white clothes!"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Hooray! Biko finally caught up with your mom!"
+    },
+    {
+      "name": "Young Girl",
+      "text": "Yay! Mommy!"
+    },
+    {
+      "name": "Young Girl's Mother",
+      "text": "Thank you so much! I don't know what I would've\ndone without your help."
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "It was nothing! You're very welcome."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Isn't it great that we found your mom?"
+    },
+    {
+      "name": "Young Girl",
+      "text": "Yeah! Thank you both! Bye-bye!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The girl and her mom smile and wave as they\nleave.",
+      "choice_data_list": [
+        "You two did really great.",
+        "You two did really great."
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Hm? You saw us teaming up?",
+      "choice_data_list": [
+        "You made a perfect pair.",
+        "You were like superheroes."
+      ]
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "It's all thanks to Biko chasing after the girl's mom."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "But I couldn't have found her without your help\ntracking her, Bono!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Really?!"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "For sure! It was so cool how you weaved your way\nthrough that crowd!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "You too, Bono! You were like a hero giving me\norders from our tactical base!"
+    },
+    {
+      "name": "Хиши Акэбоно",
+      "text": "Hehe, we make a pretty good duo!"
+    }
+  ]
+}

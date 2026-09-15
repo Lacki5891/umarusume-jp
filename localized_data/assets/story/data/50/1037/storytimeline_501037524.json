@@ -1,0 +1,146 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Эйсин Флэш comes up to me\nafter our\ntraining session.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There is something I'd like to talk to you\nabout.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "You have been rather unfocused for the\npast five\ndays. Is it possible you're\nfeeling fatigued?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Come to think of it, I have been putting\nin a lot\nof overtime lately.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You hit the nail on the head."
+            ]
+        },
+        {
+            "text": "I see. If I may make a suggestion...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Why don't I create the plan for our next\ntraining\nsession?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "That way, you could use the time\nnormally\noccupied by schedule planning\nto rest instead.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I've been thinking about revising my solo\ntraining\nlessons anyway.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I believe this would be a win-win\narrangement.\nWhat do you think?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I really appreciate her offer, but still,\nmaking\ntraining plans is my job as a\ntrainer. Hm... What\nshould I say?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You know what? Go for it!",
+                "I'll have to decline."
+            ]
+        },
+        {
+            "text": "...Very well then.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I shall bring a detailed training plan to\nyour office\nat 8:00 a.m. tomorrow\nmorning.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Good morning, Trainer.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This booklet contains today's training\nplan.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Taking my current abilities into account,\nI\nconcluded that focusing on speed\ntraining would\nlead to optimal results.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I included a detailed timetable as well.\nWhat do\nyou think?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Taking my current abilities into account,\nI\nconcluded that focusing on stamina\ntraining\nwould lead to optimal results.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I included a detailed timetable as well.\nWhat do\nyou think?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Taking my current abilities into account,\nI\nconcluded that focusing on power\ntraining would\nlead to optimal results.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I included a detailed timetable as well.\nWhat do\nyou think?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Taking my current abilities into account,\nI\nconcluded that focusing on guts\ntraining would\nlead to optimal results.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I included a detailed timetable as well.\nWhat do\nyou think?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Taking my current abilities into account,\nI\nconcluded that focusing on increasing\nmy\nknowledge would lead to optimal\nresults.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I included a detailed timetable as well.\nWhat do\nyou think?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "If you say so, then there must be nothing\nto worry\nabout.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Very well. We can carry on our training\nsessions\nas usual, then.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There are a few details I would change,\nbut it's\nclear she put a ton of effort into\nthis.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There are a few details I would change,\nbut it's\nclear she put a ton of effort into\nthis.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There are a few details I would change,\nbut it's\nclear she put a ton of effort into\nthis.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There are a few details I would change,\nbut it's\nclear she put a ton of effort into\nthis.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйсин Флэш never really brings up the\nidea of\ncreating her own training\nsessions again after\nthat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There are a few details I would change,\nbut it's\nclear she put a ton of effort into\nthis.",
+            "name": "Монолог"
+        }
+    ]
+}

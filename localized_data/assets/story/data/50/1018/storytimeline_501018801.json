@@ -1,0 +1,190 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While Эйр Грув and I are on our way\nto\ntraining..."
+        },
+        {
+            "text": "...Yes, but you know Эйр Грув. She\nwould\nnever...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Yup... And the racewear...",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "What's all this about me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, Эйр Грув!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Um... Well...",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "If you have something to say, just say it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, you see...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "We were just saying how pretty your new\n\nracewear was.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "It's very elegant! And you wear it so\nwell.",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "So we were just chatting about wanting\nto see it\nup close.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I see. If that's the case, then I'm honored\nto hear\nit.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Why don't you give them a little fashion show?"
+            ]
+        },
+        {
+            "text": "Why? We have training to get to.\nThere's no time\nfor that.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yeah, that's what I figured...",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "S-sorry to bother you...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "<i>Sigh...</i> Very well. Just this once.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Really?!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Yay!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Well, here I am.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ooh! Thank you so much!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Wow... With racewear this good, it's like\na work\nof art even when you're just\nstanding there...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "That’s not true.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Simply wearing signature racewear is not\nthe end\nof it. Rather, it's merely the\nbeginning.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The beauty of the racewear lies in how it\n\ncomplements a well-trained body, fit to\nperform\non the track.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In other words, the design of the\nclothing means\nlittle on its own. It can\nonly truly shine if you put\nin the effort to\nbecome worthy of it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm still... not all the way there myself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's not true!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "You're first-rate in our eyes, Эйр Грув!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "You two...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We need to keep on improving ourselves.",
+                "You're first-rate to me too!"
+            ]
+        },
+        {
+            "text": "You two...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We need to keep on improving ourselves.",
+                "You're first-rate to me too!"
+            ]
+        },
+        {
+            "text": "Naturally, that is my intention. Becoming\nworthy\nof one's racewear is a journey\nwithout end.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If you wish to wear it, you must be\nconstantly\nimproving yourself. Unlike a\nrace, this path has no\nfinish line.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No finish line? Sounds exhausting...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "But therein lies its true worth. At least, I\nthink so.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now, we really do have to get to our\ntraining.\nPlease excuse us.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "With that, we head off to training."
+        },
+        {
+            "text": "Not you too...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "But honestly, you're dazzling."
+            ]
+        },
+        {
+            "text": "Oh, fine. I accept your praise.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "However, I personally am not satisfied\nwith where\nI am. I'll continue to polish\nmy skills and seek to\nshine ever brighter.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'm with you."
+            ]
+        },
+        {
+            "text": "Scarlet, Dober, I expect you two to hone\n\nyourselves as well.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hone yourselves until you shine brighter\nthan\nanyone else.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Their glittering eyes watch us the whole\nway."
+        },
+        {
+            "text": "Эйр Грув and I head to training,\nleaving the\npair awestruck behind us."
+        }
+    ]
+}

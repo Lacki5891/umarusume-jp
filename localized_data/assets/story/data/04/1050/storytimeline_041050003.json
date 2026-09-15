@@ -1,0 +1,247 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Таисин has a short stride, but the\nrush she gets in the\nhomestretch is fierce.\nMore than anything else, she longs to win."
+        },
+        {
+            "text": "A bit of searching reveals a video of a race\nshe ran before applying to\nTracen."
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Her expression has no hint of impatience.\nShe's running comfortably\nin the back,\ncalm and controlled."
+        },
+        {
+            "text": "She takes it slow. Usually, letting the\nfrontrunners save their energy\nfor the final\nsprint would be a mistake."
+        },
+        {
+            "text": "But in one beautiful stroke, she flips those\nodds around."
+        },
+        {
+            "text": "Gaaaaagh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "With a burst of fearsome strength, she\ntears away from the pack."
+        },
+        {
+            "text": "She rages forward like a storm, and takes\nthe win!"
+        },
+        {
+            "text": "I scramble through Taishin's portfolio to\ncheck the times. Her speed in\nthe first half\nisn't anything special, but the <i>second</i>\nhalf..."
+        },
+        {
+            "text": "The last three furlongs are incredibly fast\nfor this type of race!",
+            "choice_data_list": [
+                "(That's her real strength!)"
+            ]
+        },
+        {
+            "text": "She got impatient at the tryouts and\nwasted her energy early on, so\nshe didn't\nhave enough to sustain her last spurt.",
+            "choice_data_list": [
+                "(If she saves her stamina, she can do it!)"
+            ]
+        },
+        {
+            "text": "It's early to be thinking strategy, but I\ncan't help tracking Taishin\ndown."
+        },
+        {
+            "text": "You're the trainer from yesterday...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh! You're the trainer who was with\nTaishin last night! Could this be\nwhat I\nthink it is?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You're here to scout her?!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Exactly!"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The hell does that mean? I flipped out on\nyou last night. Why would...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She looks at me perplexed, and I tell her\nabout the race footage I\nwatched.",
+            "choice_data_list": [
+                "Your final sprint is amazing!"
+            ]
+        },
+        {
+            "text": "Uh huh... So?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I want us to seize victory together!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm so...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh no...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I-I'm, I'm... I'm sho touuuched!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Let's gooo! This trainer's got the stuff!\nTaishin, this one's speciaaal!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Please... You think everyone's special.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "So?! Are you gonna accept?! Are you\ngonna team up?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wh-why would I pair up with this weirdo?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "A shame. All would have sailed smoothly if\nonly you were on board.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Wha?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Sorry to intrude. I have a pressing matter\nat hand, and I need your\nassistance, Narita\nTaishin.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Pre... President?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "To cut straight to the point, I have\nreceived multiple reports that you\nare\nunfit for Академия Тайсен.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The reasons are many: your recent\nlackluster results, concerns for your\n\nwellbeing, and—however noble the\nintention—your repeated\ndisregard for\ncurfew.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I presented counterarguments on your\nbehalf, but as matters stand... I\nmust ask\nyou to aid me yourself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "My... self?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yes. You see, the concerns about you were\nvoiced predominantly by\nacademy faculty.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The simplest way to convince them is to\noffer proof of your abilities.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Please, endeavor to dispel the accusations\nagainst you, Narita\nTaishin.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "(\"Dispel the accusations,\" she says... How\nthe hell am I supposed to\npull that off?)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "NOOOOO! We can't let them expel you,\nTaishiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "T-Ticket, you... Don't tell me you were\neavesdropping!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'd NEVER! I was just listening intently!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's exactly what eavesdropping is...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Indeed. But the situation is more dire than\nI expected.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hayahide?! Not you too!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What should we do?!"
+            ]
+        },
+        {
+            "text": "I'm surrounded...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Now, if we are to achieve what the\npresident indicated, there is but\none path\navailable.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Whoa, there's a way?! You're amazing,\nHayahideee! Just say the word!\nHow can\nwe help?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I really don't see why you're so worked up\nabout this.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "If we are to inspire high expectations of\nyour racing potential, it\nfollows that we\nmust demonstrate it on the track.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We need to gather people for a\nscrimmage. The two of us will join as\nwell.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeeeah! That's perfect! Let's do this,\nTaishin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You think I need your pity? That I need\nyou to throw a race just to get\na win?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Not for a second. Putting me aside, you\nshould know well that there's\none racer\nhere who doesn't know the meaning of\nholding back.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well... I guess...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The reason we are trying to help is quite\nsimple. Though that which is\nsimple is\noften difficult to put in words.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "So forget it. I look forward to seeing you\nat the scrimmage, Taishin.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

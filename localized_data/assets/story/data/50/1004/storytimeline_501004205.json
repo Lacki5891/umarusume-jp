@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After blasting through the Classics,\nМарузенски\ntakes on the last big race of\nthe year, the Arima\nKinen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is where the best of the best in the\nclassic\nand senior years come together in\none place.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's going to be so much fun! I can't wait\nto get\nstarted!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Watch, I'm going to be running at the\nhead of the\npack against the top racers\naround!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Time for you to become a Grand Prix champion!"
+            ]
+        },
+        {
+            "text": "You know it! Standing on that podium is\ngoing to\nbe so rad!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Whoa! Even the paddock is packed with\n\nspectators!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски! Show us another\nout-of-this-world\nrun!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Good luck! We'll be rooting for you!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Teehee! Leave it to me! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "M-Марузенски!",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "...Oh! You ran with me in the Asahi Hai.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm... just a spectator today... B-but...",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "I'll run with you again someday! I'm\ngonna catch\nup to you!",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "...!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll be cheering for you, so you'd better\nwin,\nokay?!",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "You will? ...Yeah! You got it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll give you a race to admire!",
+            "name": "Марузенски"
+        }
+    ]
+}

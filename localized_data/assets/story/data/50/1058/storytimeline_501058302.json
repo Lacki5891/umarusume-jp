@@ -1,0 +1,298 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While out walking with Мэйсё Дото, we\nstop by\nthe shopping district..."
+        },
+        {
+            "text": "Huh? There's quite a crowd here.\nSh-should we...\nmake our escape?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Don't be ridiculous."
+            ]
+        },
+        {
+            "text": "There's no need to up and run away. I go\nand\nhave a look for myself..."
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nYou there,\nthe Umamusume hiding in the\nback! Care to give\nit a try?",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Oh, it's a raffle... But what's inside?\nThinking\nabout it makes m-m-m-meee...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It's not like anything bad is in there. We\ngive the\nraffle a go, using our one ticket."
+        },
+        {
+            "text": "So, this is a raffle machine... I'll try not to\ngrip the\nlever too hard so it doesn't snap\nand break off.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Don't break. Don't break... Yah!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "As she repeats her funny wish, we gently\nturn the\nlever!"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening..."
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Whaaaat?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "No doubt about it. She's blacked out."
+        },
+        {
+            "text": "I can't possibly accept something like\nthis!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You don't want to go to the hot springs?"
+            ]
+        },
+        {
+            "text": "I can't. I can't, I can't, I caaan't. Besides...\nI have\nso so many races to run, and...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "How am I supposed to accept something\nso\nwonderful?! I'm a walking disaster,\nalways messing\nthings up.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And, I promise there's a good reason\nwhy I really\ncan't go.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I know I'll misplace the ticket if I hold\nonto it. I\ncould lose it today, even.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...She's not wrong about that. It's very\npossible\nshe'd lose the ticket before our\nschedule simmers\ndown.",
+            "choice_data_list": [
+                "Would you like me to keep it safe?"
+            ]
+        },
+        {
+            "text": "Huh, you... would?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Okay. I know it'll be safe in your hands,\nunlike in\nmine.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "So... Um... I'll entrust it to you. Or...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I don't mind if you end up using it,\neither. It's too\nmuch of a luxury for me,\nanyway.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm happy enough just having pulled it.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "A d-d-d-d-<i>deluxe</i> carrot hamburger\nsteak?! We\ngot an amazing pull!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Trainer, I could just... I!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Phew... I'm stuffed...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You haven't even had your first bite?!"
+            ]
+        },
+        {
+            "text": "Well, it's like... I'm satisfied from this\nwonderful\nresult alone.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hehe, it's great to have tried out a raffle\nwith\nsomeone. I don't think doing it\nalone would be\nthis fun.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It sounds like Мэйсё Дото doesn't have\nmuch\nluck with raffles."
+        },
+        {
+            "text": "Um... would you let me have this\nhamburger steak\nafter our outing?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "Oh wow... <i>And</i> I get to eat something\ndelicious.\nThis makes me so happy.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "How nice... I'm really so glad I could go\nout\ntogether with you, Trainer. ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Wow... Look, Trainer, there's lots and\nlots of\ncarrots. ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "We should be just fine with this many!\nHow\nreassuring.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Reassuring?"
+            ]
+        },
+        {
+            "text": "Huh? Ummm, I don't mean anything big\nby it...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "If you have a lot of something, you can\nalways\nredo things when you mess up.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Although, it's not like I have anything\nspecial in\nmind to use them for.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "From the looks of it, Мэйсё Дото feels\nmore at\nease having many things as\nopposed to one."
+        },
+        {
+            "text": "Ehehe, but maybe this is a good\nopportunity to\ntry something that\nnormally scares me.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I could peel them or chop them finely\nfor a\nsalad. ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "One carrot... Ngh, I'm so sorry, Trainer.\nThis is all\nmy fault.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "If I wasn't so clumsy and had just a bit\nmore luck\nto my name...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "We would have two carrots instead!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "That's Мэйсё Дото, always setting the\nbar low.\nHowever..."
+        },
+        {
+            "text": "Missy, I don't have a prize for two\ncarrots. The\nprize grade above yours\noffers much, much more.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Wh-what? Much, much more?! Is that\ntrue?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I don't stand a chance as I am now.\nUugh, I'll\ncome try again when I'm ready.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>"
+        },
+        {
+            "text": "Tissues, tough luck... consolation prize...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Phew... I'm disappointed, but kind of\nrelieved at\nthe same time.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Relieved?"
+            ]
+        },
+        {
+            "text": "Well, yes... I must have been feeling this\nwas the\nbest I could do, more or less.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm a little at ease, seeing that things\nturned out\nas usual.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But, but... I really shouldn't feel this way,\nright?\nThis isn't like before my debut.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I have to show my disappointment. Next\ntime... I'll\nget it next time.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото and I split the carrot in half\nand\nnibble on it all the way home."
+        },
+        {
+            "text": "Мэйсё Дото and I try a number of\ndifferent ways\nto prepare the carrots.\nAfterwards, we enjoy the\nmany dishes\nwe made."
+        },
+        {
+            "text": "Of course, she shouldn't be indifferent\nto drawing\nthe shortest straw. Let's take\nthis disappointment\nin stride."
+        },
+        {
+            "text": "In the end, we split the delicious\nhamburger\nsteak, sharing a wonderful\nmoment together."
+        },
+        {
+            "text": "I can't use this ticket in good faith. I'll\nsave it as a\nlittle present for Meisho\nDoto."
+        }
+    ]
+}

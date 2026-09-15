@@ -1,0 +1,248 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm taking a walk around the academy\ngrounds to\nget some fresh air, when\nsuddenly...",
+            "name": "Монолог"
+        },
+        {
+            "text": "BWAAAHAHAHA!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Obnoxiously loud laughter comes out of\nnowhere!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What the..."
+            ]
+        },
+        {
+            "text": "Startled, I look every which way, until\nfinally I\nspot the culprit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well met, traveler.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I am the the lurker in the trees... The\nguardian of\nthis realm.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп suddenly leaps down out of\nthe\nbranches. I wonder how long she's\nbeen hiding up\nthere.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Answer me this, traveler.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Was it a super heavy plate of fake jumbo\nshrimp\nthat you dropped in the forest?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Or was it a feather-light, ultra-fast 7G\n\nsmartphone?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I give my pockets a once-over, but\nnothing seems\nto be missing.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I haven't dropped anything."
+            ]
+        },
+        {
+            "text": "Oho? Nothing, you say?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Mm-hm."
+            ]
+        },
+        {
+            "text": "Really? Are you <i>absolutely</i> sure?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "YЭпизод"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Get with the program, geez! At least <i>try</i>\nto play\nalong!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It doesn't seem like I can back out of\nthis one. I'll\ngo with...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "The super heavy fake jumbo shrimp.",
+                "The ultra-fast 7G smart phone."
+            ]
+        },
+        {
+            "text": "Bwahahaha! A fine answer, traveler.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "An honest soul such as yourself may take\nthe\nshrimp with you. Wait but a moment.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Nrggh... Hrauggghhh!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "A series of grunts issues from within the\ntrees.\nThat shrimp must be <i>really</i> jumbo.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Was it always this honkin' heavy?\nNrgghh,\nhrauggghhh... Uh-oh.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Crap! It's stuck! The shrimp tails got\nhitched on\nsomething!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I could've sworn I heard voices. Is\nsomething\ngoing on?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ah! Ryan! Perfect timing! Gimme a hand\nhere!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Whew... Thanks. That shrimp nearly\nended up lost\nto the trees...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ahaha... Glad I could help.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But you've gotta train up if you wanna\nlift weights\nthis heavy, or you're just\ngonna get yourself hurt.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I know! Why don't we hit the gym\ntogether? Like,\nright now?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I can give you pointers on what muscles\nto build\nup!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "(Urk! Ryan's workouts are a boot camp\nfrom hell!)",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Nah, my muscles aren't really up for\npumping iron\ntoda―",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "No sweat! I'm the best spotter around!\nC'mon,\nlet's go!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Waaaaaahhh!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Swept up in Мэдзиро Райан's enthusiasm,\nГолд Шип\ngets whisked off to the gym...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yeah, look at those glutes work! Let's hit\nfifty\nmore reps! Keep up the pace!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Mrrgh! Keep up... the pace!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Bwahahaha! A fine answer, traveler.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "An honest soul such as yourself may take\nthe\nultra-fast 7G smart phone. Here it\ncomes...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп lifts the phone high over her\nhead, and\nthen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Swoosh!</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "She threw it?!"
+            ]
+        },
+        {
+            "text": "Bwahahaha! Ultra-fast, no? That's the\nspeed of\n7G! Or seven gazelles, to be\nprecise.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Better get a move on, or it's going to hit\nthe\nground.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Belatedly, I realize I'd better start\nrunning. But\njust as I set off...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hyooo?! Is that a bird? Is it a plane? No,\nit's a\nphone... And is that the scent of an\nUmamusume I\nsmell?",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "Oh crap!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I shouldn't have used my own phone!\nChange of\nplans! Trainer, I'm going\nall-out!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "If <i>she</i> gets to my phone first, there's no\ntelling\nwhat'll happen!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп takes off at breakneck speed\nwith pure\ndesperation in her eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "HRAAAAAH!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "MY PHOOOOONE!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hyoooueee?! A-an Umamusume's\nchasing meee?!",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "<i>Huff... huff... huff...</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Got it back, safe and sound... And I\nlearned a\nvaluable lesson too.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Uhuhu! She caught up to me! That! Was!\n\nAwesome!",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "Never hurl your phone into the\nstratosphere,\n'cause you never know\nwhat kinda weirdo might\nbe waiting to\ncatch it.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп seems a little more buff than\nusual\nafter the workout... but also a little\nexhausted.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way home from an outing with\nNarita\nBrian..."
+        },
+        {
+            "text": "N-no one's looking, right?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "<i>Groan.</i> Sorry... It's just a bit... Just a\nteensy little\nbit!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "What the heck is she doing?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We see Райс Шоуэр again in a park a\nlittle later."
+        },
+        {
+            "text": "Ugh, my stomach... I-I just need one\nmore...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Oh, so you were buying taiyaki earlier?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Eeek! B-B-Brian?!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Uhhh, please d-d-don't tell me...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "You saw me eat all ten of those taiyaki?!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "...Ten?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ten taiyaki... is a bit of an overkill, isn't\nit?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oof! Sorry, I'm sorry! I was just really,\nreally\nhungry!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Ugh... And Hishiama just warned me not\nto eat\ntoo much!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Rice, you idiot! Why can't you control\nyourself?!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "...Hey.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ah! Sorry!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Stop apologizing. Though... hiding out\nand\nstuffing your face is probably\nsomething you\nshould reconsider.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Y-yeah, you're right... I'm really a\n\ngood-for-nothing. I'm sorry, and I'm\nsorry to\nHishiama too—",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "No, you got it wrong. Amazon wasn't\ntrying to tell\nyou <i>not</i> to eat.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "She was just... worried. About you.\nAbout your\nhealth.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "M-my... health?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Eating junk food in secret and not\ngetting proper\nnutrition is the opposite\nof what she wanted for\nyou.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If you feel like you're not getting\nenough to eat,\njust tell Amazon.\nKnowing her, I'm sure she'll\nlisten to you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh... u-uhhh...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Waaah! I'm... I'm... I'm sorry!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "H-hey, why are you crying?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ah, damn it... Trainer, you figure this\nout.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "M-me?!"
+            ]
+        },
+        {
+            "text": "It's a trainer's job to cheer us up, isn't it?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Let's run off what you ate!",
+                "We'll go with you to apologize."
+            ]
+        },
+        {
+            "text": "It's a trainer's job to cheer us up, isn't it?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Let's run off what you ate!",
+                "We'll go with you to apologize."
+            ]
+        },
+        {
+            "text": "<i>Sniffle...</i> Run?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Good idea. That's what I'd do.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If I run... I can work off what I ate...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "All right! I'm going to run! And after\nthat... I'll\napologize to Hishiama!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Wait, you mean right now? If you run\nright after\neating all that—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "She's not even listening.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Heh. So this must be how Amazon\nalways feels.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We'll do what?! Why the heck should I\nhave to sit\nthrough a lecture too?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ohhh... A l-lecture...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "...Hey, don't you start getting freaked\nout now.\nLike I said, she's just worried\nabout you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "How do you know so much about\nHishiama?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "None of your business.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан mutters at Райс Шоуэр's\nback as she\nruns off at full speed."
+        },
+        {
+            "text": "In the end, Нарита Брайан ends up going\nalong with\nРайс Шоуэр to see Hishi\nAmazon."
+        }
+    ]
+}

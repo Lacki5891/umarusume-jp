@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the last day of summer camp. I'm just\nfinishing\nup training with Нарита Брайан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Can we do one more?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "We still have time."
+            ]
+        },
+        {
+            "text": "Okay. Let me get a drink of water first.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You seem to be exerting yourself, Brian.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Rudolf.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You look as strong as ever. What do you\nthink?\nShall we race each other?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If I'm going to race you, I'd rather do it\nin a G1\nthan a place like this.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let's settle this in a formal setting where\nwe can\nbring out each other's max\npotential. I want to\ngive it everything\nI've got.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...You're probably right. You regard me\nas a\nworthy opponent.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Since that's the case, I'll respect your\nwishes.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Get stronger, Brian. I see a bright future\nin you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Tch!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The last day of summer camp comes to\nan end\nunder the watchful eye of\nСимболи Рудольф.",
+            "name": "Монолог"
+        }
+    ]
+}

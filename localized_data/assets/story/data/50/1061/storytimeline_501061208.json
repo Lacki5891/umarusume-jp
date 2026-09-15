@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The autumn Tenno Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a yearly grand event where\nUmamusume of\nthe classic and senior\nyears compete for the\ntime-honored\nAutumn Shield.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But for the racers, the honor of winning\nsuch a\nrace goes beyond simply\nobtaining the trophy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looks like it's about time.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm off to the paddock. Why don't you\nhead to\nthe staff seating?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I think I'll watch from the paddock."
+            ]
+        },
+        {
+            "text": "Okay, then make sure you stand tall and\nwith\npurpose.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That way you'll be easy to spot from the\n\npaddock.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, I see some familiar faces.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I mean, there aren't many races I could\ncall this\ninteresting.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "The Golden Generation looks set and\nready to\ngo! Which one of them will win\nthis year's shield?",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Whoever wins the shield will be the star\nof this\ngeneration.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Nyahaha! You're scary, King.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Oh, please. Your intent to win has been\noozing\nthrough that easy-going facade\nof yours.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Is that right?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Haha, well, I guess we're all here to win,\naren't\nwe?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Yeah, I want to beat everyone too. No—I\n<i>will</i>\nbeat everyone!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Well then, you better not hold back. I\nwant to see\nyou both run at your best.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Show me what you two are made of!",
+            "name": "Кинг Хало"
+        }
+    ]
+}

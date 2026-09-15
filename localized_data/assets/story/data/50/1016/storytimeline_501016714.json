@@ -1,0 +1,98 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ouch!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I screwed up... I think I twisted my\nankle...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I check the swollen area and find it\nhotter than\nexpected. This may warrant\nextra caution.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Don't get any ideas! I can still run.\nBelieve me.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Let's take it easy for a while.",
+                "I'll do my best to patch you up."
+            ]
+        },
+        {
+            "text": "For a <i>while...</i> Hey, how long is that?!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Until the swelling goes down..."
+            ]
+        },
+        {
+            "text": "We don't have that kind of time. It's\nfine, so let's\njust hurry up and—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I explain that running while trying to\nbear the\npain may lead to unwanted\nchanges in her running\nform.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Tch! Fine. You have a point.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Okay, thanks.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Agh!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан grimaces the moment I start\npatching\nher up.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I think we need to take the day off, after all."
+            ]
+        },
+        {
+            "text": "Hey, this is noth—ouch!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Tch! Fine. If that's what you think is\nbest.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right, thanks. I want to get back to\ntraining as\nsoon as you're done wrapping\nme up.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'm not gonna let you overdo things."
+            ]
+        },
+        {
+            "text": "Hmph, overdo it? You're a trainer, aren't\nyou?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Whatever happens, you know how to\nbandage\nand apply ice. And I know\nyou'll take care of me\nproperly.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Hey, what's with the grin? Just take\ncare of it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The treatment is effective and Narita\nBrian\novercomes her injury.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'll hold off for now...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Forced to take a break, Нарита Брайан\ndoesn't look\nhappy when she leaves the\ninfirmary.",
+            "name": "Монолог"
+        }
+    ]
+}

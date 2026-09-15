@@ -1,0 +1,34 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Guh... <i>Huff... puff...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap doesn't seem to be feeling very well. \nHer face looks a little pale.",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Mm... Tama and I went to this dessert cafe with an \nearly bird menu..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Then, on our way back, we were on this packed \ntrain."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The dense crowd and stuffy air left me feeling \nunwell..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's quite out of it today. It seems the stress has \nreally gotten to her."
+        }
+    ],
+    "title": "City Shock"
+}

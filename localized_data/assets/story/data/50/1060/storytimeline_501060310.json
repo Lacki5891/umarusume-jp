@@ -1,0 +1,312 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Heh... I did it, Trainer.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I got results!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You did great out there!"
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Natiiiie! Can you hear us?!",
+            "name": "Kokura Fish Shop Owner"
+        },
+        {
+            "text": "You did sooo weeelll!",
+            "name": "People of Kokura"
+        },
+        {
+            "text": "Heeey! I can hear you! Thank yoooou!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Haha, you go, Natureee!",
+            "name": "People of Kokura"
+        },
+        {
+            "text": "Heh, do you see them? People from the\nKokura\nshopping district came to cheer.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We've only talked a little bit, and they\nmust be\nbusy too. I can't believe they\nshowed up.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...When people cheer me on like that, it\nmakes\nme feel like maybe—just\nmaybe—I'm doing all\nright.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I just have to be me and keep moving\nforward,\nstep by stЭпизод",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Even if I don't know if I will ever reach\nmy goal...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...You know what? I'm going to ask\nsomething a\nlittle embarrassing now.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "...Can I win against Teio?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Just joking! Forget that I said anyth—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course you can."
+            ]
+        },
+        {
+            "text": "...Oh no... Ummm...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yup, I knew you would say that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm a coward for asking you that despite\nknowing\nyour answer, but...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I need that push to go forward.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Teio... is currently taking on the Classics,\nwhich\nmeans that next, she'll be at...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The Kikuka Sho.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So I want to run the Kikuka Sho next\ntoo.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What... do you think?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It'll be a lot longer of a race. That's not a\nproblem, is it?"
+            ]
+        },
+        {
+            "text": "The Kikuka Sho is 3,000 meters, 1,000\nmeters\nlonger than the Kokura Kinen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It may be an uphill battle for Nice\nNature. But if\nshe has made up her mind,\nthen I'll support her!",
+            "name": "Монолог"
+        },
+        {
+            "text": "You kidding? It's a <i>huge</i> problem. I'm\nprobably\nnot cut out for long-distance\nraces.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But... I just don't feel like giving up.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Let's run the Kikuka Sho!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "<i>Siiiigh...</i> That's done. The decision has\nbeen\nmade.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "There's no turning back now, Nature.\nHead on to\nthe big race.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But... yeah. It's not a bad thing...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She seems to have regained a little\nconfidence,\nbut she could probably use\na little more of a\nboost for the Kikuka\nSho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thinking that, I remember something...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Everyone is happy for me, no matter how\nI do.\nThey smile and tell me I did a great\njob.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But by myself, I feel so lost. I can't help\nbut\nwonder if I really did my best.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, with first place, it's easy to tell,\nright?\nYou get a trophy, or in the case of\nthe Tenno\nSho, a shield-like plaque.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Those trophies are proof you've done\nyour best,\nbut you only get that with\nfirst place.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Maybe there's something I can do!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next day, on the way back from\nKokura...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Trainer, can I have that snack I left\nwith you?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You know, the sweets that the folks in\nKokura\ngave me. I thought I'd nibble on\nthem on the\ntrain.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "text": "<i>Rustle... Plop...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh, something fell out.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's an... origami... trophy? It looks kinda\nfloppy.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "...I made it."
+            ]
+        },
+        {
+            "text": "You did, did you? Huh, I didn't expect\nyou to\nhave such a cute hobby.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I was going to give it to you."
+            ]
+        },
+        {
+            "text": "Oh...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wait, what?! Me? But why?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I wanted to boost your confidence."
+            ]
+        },
+        {
+            "text": "My confidence?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I understand how it can be hard to have\n\nconfidence even when you're doing well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell her that I thought maybe having\nsomething\ntangible to show for her\naccomplishments might\ngive her that\nextra confidence.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You did this... for me...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You, an adult, were trying to make this\norigami\ntrophy in the hotel room?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm not five, you know.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah..."
+            ]
+        },
+        {
+            "text": "I realized after I made it that she might\ntake it as\nme treating her like a child, so\nI've been hesitant\nto give it to her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay, you silly. I'll graciously accept this\naward.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What..."
+            ]
+        },
+        {
+            "text": "What are you surprised about? You\nmade this for\nme, right?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So come on, hand it over. Or I'm not\ngoing home.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You'll really take it?"
+            ]
+        },
+        {
+            "text": "...Think about it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A floppy origami trophy is perfect for\nme.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The gold foil reminiscent of thin metallic\nplating,\nthe crumpled edges.... It's all\nvery... me, isn't it?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I guess it feels... familiar? What I'm\nsaying is...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Thank you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I hope the next one will be a bit\nbetter, though.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Next one?!"
+            ]
+        },
+        {
+            "text": "There will be more races, right? I can't\nbe the only\none working hard!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'll do my best, so I expect more origami\ntrophies.",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

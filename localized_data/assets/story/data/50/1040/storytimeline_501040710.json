@@ -1,0 +1,57 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Damn it! Why?! I was so convinced I\ncould win.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "My legs just like... wouldn't listen to me.\nDon't tell\nme I've hit my limit already.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let today's result motivate you for next time.",
+                "Don't sell yourself short!"
+            ]
+        },
+        {
+            "text": "My legs just like... wouldn't listen to me.\nDon't tell\nme I've hit my limit already.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let today's result motivate you for next time.",
+                "Don't sell yourself short!"
+            ]
+        },
+        {
+            "text": "Next time... huh. You're right, this loss\nisn't the\nend.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "There's a lot we'll have to review, like\nhow I\napproach turns, or my initial\nmomentum...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's just like modeling. You get better\nstep by\nstep, then eventually you start\ngetting bigger\nprojects.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh? You think I really believed that?\nLike hell\nI've hit my limit!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I mean, like, in modeling, I get gigs that\nseem out\nof my league all the time, but I\nmake it work.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wait, so why am I yelling at you then? I\ndon't\nknow... Sorry about that.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "All right, no more moping. I need to\naccept the\nresults and move on!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I should take action before I start\ncomplaining.\nJust watch, Trainer—the\nnext race is mine!",
+            "name": "Голд Сити"
+        }
+    ]
+}

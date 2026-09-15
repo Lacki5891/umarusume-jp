@@ -1,0 +1,260 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the academy's annual summer training\ncamp, and Эйр Грув has\nbeen spending\nthe bulk of her training time running on\nthe beach.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew. Twenty kilometers already?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I don't tire out on the sand as easily as I\nused to. When it comes to\nimproving\nstamina and core strength, there's truly no\nbetter place\nthan the beach.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Not to mention its utility as an analogue to\ndirt courses. I'm in better\nform than\never—right now, I don't think I could lose\nto anyone. ...Hm?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Dear me. Is it already time for the festival\nto begin?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Come to think of it, she did mention she\nwould be patrolling the\nfestival on behalf\nof the student council tonight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Students tend to get much too excited at\nthe festival every year.\nSomeone has to\nkeep an eye on them for their own safety; I\nshould\ngo.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'll tag along as well."
+            ]
+        },
+        {
+            "text": "Very well... as long as you understand that\nwe're going for work and\n<i>not</i> to fool\naround.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If you can promise me that, then sure,\ncome along.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Cotton candy, takoyaki, candied carrots...\nAll these sweets can't\npossibly be doing\nanything positive for the students' training.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Let me get you a little something!"
+            ]
+        },
+        {
+            "text": "I seem to recall telling you that we aren't\nhere to fool around. Did the\nsummer sun\nfry your brain or something?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Really, what am I supposed to do with\nyou... Hm?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Eek! S-stop that, please!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "I just need a few shots! You're all Tracen\nstudents, right? You're\npractically\nguaranteed to be future stars!",
+            "name": "Journalist"
+        },
+        {
+            "text": "A man who appears to be a tabloid writer\nis is taking photos of\nstudents against their\nwill.",
+            "name": "Монолог"
+        },
+        {
+            "text": "How impudent...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув looks like she's about to blow a\ngasket. I step forward to\ndo something\nabout it.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'll handle this!"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i>\nNo, I'll go.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Please keep watch from here.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув approaches the scene at a\ndetermined pace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me. Did you mention that you were\na journalist?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Huh? W-wait... You're the Empress... Air\nGroove!",
+            "name": "Journalist"
+        },
+        {
+            "text": "I'm not sure which publication you\nrepresent, but our school requires\nall\nreporters to obtain permission before\ntalking to students.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This measure is in place for the protection\nof students' privacy. I trust\nyou understand\nthat?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, um... I'm sorry. I'm an\nUmamusume-centric reporter, you see...",
+            "name": "Journalist"
+        },
+        {
+            "text": "Racing has been a passion of mine since I\nwas young, and I guess I\nkind of lose\ncontrol when I see the runners I admire up\nclose...",
+            "name": "Journalist"
+        },
+        {
+            "text": "Please do know that we are honored to\nencounter our fans.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But we would all appreciate if you could\nadhere to proper etiquette.\nSchedule\nsomething official, and you won't\nencounter any problems.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The reporter is easily swayed by Air\nGroove's polite admonishing and\nquickly\nleaves the scene.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I recall Эйр Грув's falling-out with her\nprevious trainer. Would the\nЭйр Грув\nfrom back then have handled this situation\nso calmly?",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, that marks the end of my shift,\nand everything's in order.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I suppose we could return to the lodge\nnow, but...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ah... Are those fireworks?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In that case, come with me. I know a good\nspot.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The shrine commands a panoramic night\nview of the city. Away from\nthe hustle and\nbustle of the festival, only the sound of\nfireworks can\nbe heard.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just like flowers, fireworks are the product\nof much hard work and\nattention. No\nwonder they're a sight to see in full bloom.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I bet there'll be fireworks blooming for you one\nday."
+            ]
+        },
+        {
+            "text": "Planting a garden in the sky... It wouldn't\nbe a simple task, but\nsomeday...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wow... They really are beautiful.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The reflections from the blooms dazzle in\nher eyes.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Yes... they really are."
+            ]
+        },
+        {
+            "text": "Heh, what are you looking at?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hey, what's with the sappy expression?\nHave you no shame?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The show's finished. Let's head back for\nreal this time.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She begins to hasten off, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oof.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The uneven stone surface causes Air\nGroove to tumble onto the\nground.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "Hmph. It'll take more than a silly stumble\nto...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Actually... Strike that.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Will you help me with this shoe?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "I pick up her stray high heel and kneel\nbefore her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "text": "While you're doing that... answer me one\nquestion.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In your eyes... How do you perceive me?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "As a true empress."
+            ]
+        },
+        {
+            "text": "I see. Then I've been cultivating my own\nbloom effectively.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm still not fully convinced of... what was\nthat? The greenness of your\nthumb?\n...Well, maybe you'll get there eventually.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Continue to work hard, and perhaps you\nreally can produce a\nwonderful crown of\nflowers for me, just as I will lead you to\nglory.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But first, could you please put on my\nshoe?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув emanates an even more\nbeautiful air of regality than when\nwe first\ncrossed paths.",
+            "name": "Монолог"
+        }
+    ]
+}

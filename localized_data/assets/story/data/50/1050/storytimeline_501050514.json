@@ -1,0 +1,282 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my day off, I notice Нарита Таисин\nnear the\nstation. She must've just\nfinished something,\nbecause she's\nheading back to the academy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hang on, isn't there supposed to be a\n\nlimited-edition <i>Animal Hunt</i> character\nthat\nspawns around here?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I might as well catch it while I have the\nchance.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't see it on the radar—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Bwah?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What the—?! \"Wet concrete. Please\nwatch your\nstep\"?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Sorry, miss. I think your boot's done for.\nSuch a\nshame.",
+            "name": "Construction Worker"
+        },
+        {
+            "text": "...Oops.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Great, now I only have one boot. How\nam I\nsupposed to get home barefoot?)",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin? Is that you?"
+            ]
+        },
+        {
+            "text": "...Ugh.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, do you know this little lady? She\nstuck her\nfoot straight into the wet\nconcrete.",
+            "name": "Construction Worker"
+        },
+        {
+            "text": "Good thing your friend's here now, miss!\nTake\ncare getting home!",
+            "name": "Construction Worker"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин is bright red with\nembarrassment as\nthe construction\nworker waves goodbye and\nleaves.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's not like I need help or anything.\nLeave me\nalone.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Despite what she says, it's clear that\nshe'll have\ntrouble getting back to her\ndorm on her own.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Hang on, I'll buy you some shoes.",
+                "Let me get you to a shoe shop. You can lean on\nmy shoulder."
+            ]
+        },
+        {
+            "text": "Despite what she says, it's clear that\nshe'll have\ntrouble getting back to her\ndorm on her own.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Hang on, I'll buy you some shoes.",
+                "Let me get you to a shoe shop. You can lean on\nmy shoulder."
+            ]
+        },
+        {
+            "text": "You got wax in your ears? I said I don't\nneed your\nhelp.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Should I give your dorm a call instead, then?"
+            ]
+        },
+        {
+            "text": "N-no! That'll just make things worse!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Sigh.</i> Fine. Here, take this money and\nget me new\nshoes.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Since I got her permission, I bring her to\na nearby\npark to wait for me, then rush\nto a shoe shop.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Young people these days love this style!\nThey're\nalso great to run in, so I highly\nrecommend them!",
+            "name": "Shoe Store Employee"
+        },
+        {
+            "text": "And since you mentioned it earlier,\nthese shoes\ngo great with street fashion\ntoo!",
+            "name": "Shoe Store Employee",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "text": "I figure I can't go wrong with shoes that\nhave the\nemployee's seal of approval, so\nI buy the pair she\nrecommends.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, I run back to Нарита Таисин\nand show\nher the new shoes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, thanks. You're a lifesav—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What the hell's with this cutesy\nnonsense?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "These aren't my style at all! You should\nknow\nbetter!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But the clerk said they go well with street\nfashion."
+            ]
+        },
+        {
+            "text": "Now you're just admitting you got\nconned by a\nsales pitch. Ugh, whatever. I\nguess I'll put them\non.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Huh... These actually don't feel so bad\nonce you\nput them on.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...Urgh.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "They look great on you, Taishin!"
+            ]
+        },
+        {
+            "text": "I-I don't need your flattery. As long as\nthey don't\nlook weird, they're fine.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин seems indifferent about\nher new\nshoes, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Taishin? Heading out somewhere?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Looks like you really like those new\nshoes of\nyours! ♪ They look amazing\nwith your outfit\ntoday!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Y-you think?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Absolutely not! I'd rather hop there on\nmy own\nthan lean on you!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hup... Gah!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин attempts to hop her way\nover but\nloses balance after a few\nbounds.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're going to hurt yourself! Come on, hold\nonto me!"
+            ]
+        },
+        {
+            "text": "...Ugh, fine.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She reluctantly grabs hold of my\nshoulder.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After walking for a while together, we\ncome\nacross a park and decide to rest on\na bench.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "So, what were you doing around there?"
+            ]
+        },
+        {
+            "text": "...Playing a game. One of those\nlocation-based\nones.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The game involves finding and capturing\n\ncharacters that are projected into the\nreal world\nvia augmented reality.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She had been trying to catch a\nlimited-edition\ncharacter when I saw her\nin front of the station.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Maybe we'll find the character while we're\nwalking."
+            ]
+        },
+        {
+            "text": "As if it'd be that—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No way! There's a blip on the radar!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Apparently, the character she's after has\nactually\nappeared. She tells me its\ncoordinates, which\narne't too far from\nwhere we are now.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's close by. Let's go!"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You gotta let off some steam after that whole\nshoe fiasco!"
+            ]
+        },
+        {
+            "text": "Hm...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's not a bad way to look at it. It'd\nsuck to go\nback with a bad taste in my\nmouth because of\nthat.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All right. I'm definitely gonna catch it!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин nods, and I lend her my\nshoulder\nagain. We head off to where\nthe character has\nappeared.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our teamwork pays off, and Narita\nTaishin\nmanages to capture the\nlimited-edition character.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Congrats, Taishin!"
+            ]
+        },
+        {
+            "text": "Yeah, thanks. I guess I do feel a little\nbetter.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Having finally arrived at a shop, Narita\nTaishin\nbuys new shoes. She seems to be\nin a better mood\nwhen we part.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, yeah... I guess they do.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I feel like I've grown a little closer to\nNarita\nTaishin after working together\nwith her.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ahh...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I'm sorry I couldn't win."
+            ]
+        },
+        {
+            "text": "Please, don't let it bother you. It is a\nshame,\nthough.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "S-still, it's the thought that counts. I\nreally\nappreciate the attempt.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

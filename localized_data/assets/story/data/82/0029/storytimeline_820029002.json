@@ -1,0 +1,139 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I head to the shopping district on my\nday off.\nWhile there, I hear some kind of\ncommotion\nunfolding.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't believe I made such a huge error...\nThere's\nno way I'll be able to use up all\nthis rice! What\nshould I do?!",
+            "name": "Bento Store Owner"
+        },
+        {
+            "text": "Oh dear, that sounds tough. But don't\nbeat\nyourself up. Everyone makes\nmistakes, you know.",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "We just need to think outside the box!\nAnd I\nknow just the thing!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "First, we put up a poster... Okay, there\nwe go!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Greetings! Get your boxed lunches here!\nOnly\n500 yen! And for just 100 yen\nmore, you'll get\ndouble the rice!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "And there's nothing wrong with it, by\nthe way!\nYou can eat it with total peace\nof mind! ♪",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Oh, isn't that Pearl over there? She's\nselling...\nbentos?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wow, we get that much for that price?\nWhat a\ndeal! ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Bueno! We were just thinking of having\nlunch!\nSuper size me, por favor!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Thank you! ♪ One super size bento,\ncoming right\nup!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Wow. I can't believe how much rice the\n\nUmamusume students are buying!",
+            "name": "Bento Store Owner"
+        },
+        {
+            "text": "Hehe, broadening your horizons opens\nup all\nkinds of possibilities. Never give\nup!",
+            "name": "Сикинг зе Пёрл",
+            "choice_data_list": [
+                "(There's something beautiful about this scene.)"
+            ]
+        },
+        {
+            "text": "I leave the shopping district, touched by\nwhat I've\nseen. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later on, as I arrive at the shopping mall,\nI notice\nan incredibly detailed\nmannequin. It almost looks\nalive...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "It... even breathes? I do a double take,\nand then I\nrealize...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(That's Сикинг зе Пёрл!)"
+            ]
+        },
+        {
+            "text": "Qué?! Pearl?! What are you doing here?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Th-that was... quite the shock.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ho, ho, ho. ♪ We meet again.",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Actually, my friend working in retail\naccidentally\nbroke a mannequin, so now\nI'm working part-time\nas a temporary\nmannequin.",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "You can do that?! I've never heard of a\njob like\nthat!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The world works in mysterious ways. Ah,\nbut since\nI'm a mannequin, I should\nreally stay quiet. ♪",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "...",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Sh-she really is quiet.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Um, well, we don't want to get in your\nway, so\nwe'll be leaving now. See you,\nPearl.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Pearl, you were so amazing today! Do\nyou always\nspend your days off like\nthat?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yes, I do. You see, I don't want anyone\nto\nsquander their potential.",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "That's why I lead through action. \"As\nlong as you\ndon't give up, a path will\nreveal itself.\" That's my\nmotto!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Hehe, I just can't help buying into\neverything\nPearl says.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, I've received thank-you messages\nfrom the\ntwo people I helped today.\nHow sweet! ♪",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Сикинг зе Пёрл believes in the power\nof never\ngiving up. And it looks like she\nholds herself to\nthat principle too.",
+            "name": "Монолог"
+        }
+    ]
+}

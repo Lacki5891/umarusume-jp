@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day has finally come, Trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "This is your debut race. My heart feels\nlike it\nmight just burst!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If anything, we should be calling this\nSuper\nCreek's debut race...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do you have your handkerchief? What\nabout\ntissues? Don't you go forgetting\nthings, now.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I made sure to iron your clothes\nperfectly\nyesterday. Okay, time to head\nout...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, the crowd's cheers are so loud\nthat we can\nhear them from in here. So\nthis is what a\nracecourse is like...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh, are you okay? Please don't be\nafraid.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "There's nothing to be scared of, see? If\nyou stay\ncalm, then I'm sure your\nabilities will shine...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You're the one running, Creek."
+            ]
+        },
+        {
+            "text": "Oh, uh, right... That's true. I'll be the one\nrunning\nin the middle of all these loud\ncheers...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "My heart's pounding all of a sudden.\nWhat should\nI do?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Remember that I'm looking forward to seeing\nyou run!"
+            ]
+        },
+        {
+            "text": "Oh my... Just seeing your sparkling eyes\nas you\nsay that reminds me...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll just have to do my best. I can't let\nyou down.",
+            "name": "Супер Крик"
+        }
+    ]
+}

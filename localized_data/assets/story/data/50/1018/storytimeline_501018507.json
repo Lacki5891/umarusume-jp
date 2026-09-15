@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Some fan mail has arrived for Air\nGroove. I try to\ngive it to her before our\nmeeting, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Leave it over there, please.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now then, about today's schedule...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You're not happy to get fan mail?"
+            ]
+        },
+        {
+            "text": "You fool. Why wouldn't I be happy?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But that's all the more reason I must\ntemper my\nreactions.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "People don't wish to see me titter with\n\nappreciation. Their desire is to watch me\npreside\nas the Empress.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The best way to repay my fans is to\nuphold that\nideal.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's why I must remain disciplined as I\ngo about\nmy day.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...I expect those who work with me to act\n\naccordingly.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "text": "Hmph. Now then, shall we start the\nmeeting?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "For the rest of the day, I sense that Air\nGroove\nbehaves in an even more refined\nmanner than\nusual.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "To be honest, the last loss really ticked\nme off.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I asked myself, could all my hard work\nand\ntraining really just amount to that?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I don't want to have that feeling ever\nagain.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let's show everyone what you're capable of!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Right. I can do this!",
+            "name": "Голд Сити"
+        }
+    ]
+}

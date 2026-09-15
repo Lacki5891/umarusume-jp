@@ -1,0 +1,269 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Смарт Фалкон and I begin our\nchallenge of\ncompeting in the Twinkle\nSeries at last.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a stunningly fine day, perfect for new\n\nbeginnings. I take my time getting ready\nand am\nabout to head out, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Ding dong!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Ding dong! Ding dong! Ding dong!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good morning, Trainer! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Смарт Фалкон?!"
+            ]
+        },
+        {
+            "text": "No, no, no! ☆ Don't tell me you forgot\nthe chant!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Smart and stunning no matter how fast\nshe\nflies! ☆ It's everyone's\nfavorite—Faaalco! ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "What are you doing here?"
+            ]
+        },
+        {
+            "text": "We're starting training today, aren't we?\nI was so\nexcited, I couldn't sit still! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Let's go already, Trainer! ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "...Go where?!"
+            ]
+        },
+        {
+            "text": "There's only one place for an Umadol to\ngo! And\nthat is...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Good morning! ☆ Good morning!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "My Umadol performance is about to\nbegin! How\nabout a shot of Umadol\nenergy to start your day\noff on the right\nfoot? ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон has led me down to the\nriver, where\nit appears she performs\ndaily.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's an... \"Umadol\"?",
+            "name": "Passerby A"
+        },
+        {
+            "text": "Beats me...",
+            "name": "Passerby B"
+        },
+        {
+            "text": "That's a fantastic question!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Huh?!",
+            "name": "Passersby"
+        },
+        {
+            "text": "An Umadol is a brand-new type of idol!\nA\ndazzlingly brilliant Umamusume who\nshines\nbrightly on the stage <i>and</i> the\nracecourse! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I sing here every day 'cause I'm aiming to\nbe a top\nUmadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "O-oh, I see...",
+            "name": "Passerby A"
+        },
+        {
+            "text": "Stick around and listen if you can! The\nbest seats\nin the house are yours for the\ntaking—",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Squeee! ♪",
+            "name": "???"
+        },
+        {
+            "text": "Wh-what was that?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Водка, go away! You're attracting too\nmuch\nattention!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Huhhh?! Why don't <i>you</i> go away? I'm\njust getting\nsome coffee!",
+            "name": "Водка"
+        },
+        {
+            "text": "Don't try and act all cool! You can't\neven drink\ncoffee!",
+            "name": "Дайва Скарлет"
+        },
+        {
+            "text": "Wh-whaaat?! O-of course I can! In fact, I\neven\ndrink it black!",
+            "name": "Водка"
+        },
+        {
+            "text": "Oh my gosh! Дайва Скарлет and Водка\nare\nbickering again!\nAwww, they're so\ncute! ♪",
+            "name": "Fans"
+        },
+        {
+            "text": "Hey, did you hear that? Водка and\nДайва Скарлет\nare having one of their\nfamous fights! Let's check\nit out!",
+            "name": "Passerby A"
+        },
+        {
+            "text": "Hey! W-wait, don't leave!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "No way... ☆ Their argument attracted\nmore\nattention than my performance...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "They <i>are</i> both very popular..."
+            ]
+        },
+        {
+            "text": "I remind her that Дайва Скарлет and\nВодка are\ntwo of the favorites to do\nwell in the Classics this\nyear. It's\ninevitable that they draw attention.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The Classics... G1 races, all on <i>turf...</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's all the more reason why I can't\nlose!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "We're continuing the performance! Even\nif\nnobody listens...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I just know that my song will reach their\nhearts! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Lalalaaa! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The sight of her singing all alone\nreminds me of\nwhen I first met her.\nSinging her heart out as if to\nyell \"look\nat me!\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "She looked as if she was shining.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> Nobody showed up today either...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "How are you feeling?"
+            ]
+        },
+        {
+            "text": "Honestly, a little disappointed... But it's\nno\nbiggie!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm actually feeling motivated! An\nUmadol shines\nbrightest under pressure!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And the more hurdles I have to clear,\nthe brighter\nI'll shine!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And besides—there's no way I can let\nmyself get\ndown at this stage! Not when\nI remember my\ndream!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "To become dirt racing's top Umadol!"
+            ]
+        },
+        {
+            "text": "Yeah! I'll start by making dirt races the\ngreatest in\nthe world!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The Classics, the Arima Kinen, the Japan\nCup, the\nTenno Sho... All the biggest\nraces are held on\nturf.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The raw power on display in dirt races\nstill draws\nmany fans, but to a much\nlesser extent. Out of all\nthe central G1\nraces, only two are on dirt.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It won't be easy to outshine all the turf\nrunners\nand become a top Umadol\nthrough dirt racing\nalone.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But I'm already committed! I'm gonna\nkeep my\neyes on the road ahead and run\ntill I reach the\ntop! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Plus, my first fan will always be here by\nmy side,\nright? ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Just as we're reaffirming Смарт Фалкон's\ndream of\nbecoming a top Umadol\nthrough dirt racing...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait, is the performance over?",
+            "name": "Girl with Pigtails"
+        },
+        {
+            "text": "Hm? Are you...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You're the one who always sings here,\nright? I'm\nalways cheering for you!",
+            "name": "Girl with Pigtails"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I had some time today, so I came to\nwatch you!\nBut... are you already done?",
+            "name": "Girl with Pigtails"
+        },
+        {
+            "text": "T-Trainer!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "There's still time for an encore, don't you think?"
+            ]
+        },
+        {
+            "text": "There sure is! ☆ We're not done yet! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Let's sing one more song! This one goes\nout to\nyou, my special fan! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "So begins Смарт Фалкон's dream of\nbecoming a\ntop Umadol—a dream which\nmay one day become\nlegend.",
+            "name": "Монолог"
+        }
+    ]
+}

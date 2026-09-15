@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This morning, I awoke with the sunrise,\nso I decide\nto head to the academy\nearly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good morning, Trainer. It really is a\nlovely day,\ndon't you think? ♪",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Morning! You seem to be in a good mood."
+            ]
+        },
+        {
+            "text": "Well, I had a wonderful koto lesson on\nmy day off\nyesterday.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's such a rewarding feeling—producing\nbeautiful\ntones with your own two hands.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Now I'm ready to hop right back on the\npath to\nthe top at full strength. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It sounds like Грасс Вандер was able to\nrest well\nduring her day off.",
+            "name": "Монолог"
+        }
+    ]
+}

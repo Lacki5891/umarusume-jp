@@ -1,0 +1,410 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey, you wanna play RDLI again?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Absolutely!"
+            ]
+        },
+        {
+            "text": "After that one day we hung out, Narita\nTaishin\nand I have been battling each\nother on RDLI\nregularly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm getting bored beating you every\ntime. It's\ngotten to the point where I\nthink I'm kind of done\nwith this game\nentirely...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Fine, this'll be our last match, but I'm not losing!"
+            ]
+        },
+        {
+            "text": "You seem pretty sure of yourself.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whatever. Let's finish this for good,\nthen.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "There's a reason I'm so confident, and\nthat's\nbecause I met up with one of her\nclose friends for\nadvice on how to win.\nThat person was...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Уиннинг Тикит.",
+                "Бива Хаяхидэ.",
+                "Супер Крик."
+            ]
+        },
+        {
+            "text": "The way to beat Taishin is...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Just trying really, <i>really</i> hard!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "That's it?!"
+            ]
+        },
+        {
+            "text": "Yep! The key to anything is having the\nright\nmindset!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Taishin's not the most open person in\nthe world,\nwhich can be tough...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But she's not a bad person either! So all\nyou gotta\ndo is be persistent!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Oookay..."
+            ]
+        },
+        {
+            "text": "But wow, I'm so glad Taishin has you as\nher\ntrainer! You really care about her so\nmuch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ooooh! I'm sooo <i>happy!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I know this might be a tall ask, but\nplease take\ngood care of her!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Please, oh please, <i>oh pleeeaaase!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Now that I think about it, we really\ndidn't talk\nmuch about the game itself.\nWhat's important is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I have to try!)"
+            ]
+        },
+        {
+            "text": "Uh, you ready? Let's start.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And the final result of our fierce match\nis...",
+            "name": "Монолог"
+        },
+        {
+            "text": "YOU LOSE.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, you still suck.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "My final game against Нарита Таисин is a\n\none-sided stomp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It looked like you had some kind of\nstrategy, but\nyou still lost... What were\nyou doing anyway?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I was trying really hard!"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "The secret to victory is willpower, so I just tried\nreally hard to win!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Pfft. The heck are you on about? You\nsound just\nlike Ticket—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "—I mean...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Was that a chuckle I heard from you?"
+            ]
+        },
+        {
+            "text": "N-no! You heard wrong!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ugh! I'm leaving.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I expect her to storm off after her mood\nworsens,\nbut instead, she stands there\nand stares at me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What are you just standing there for?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, you play games with Taishin—it all\nmakes\nsense now. I've been wondering\nwhy she's been in\nsuch a good...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oops, don't mind me. Sorry, I'd love to\ngive you\nadvice on how to beat her, but\ngaming is\nunfortunately outside my area\nof expertise.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Oh..."
+            ]
+        },
+        {
+            "text": "However, I can give you information on\nTaishin\nherself.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You can?"
+            ]
+        },
+        {
+            "text": "Hehe. There's nothing stopping you from\n\nemploying some tricks outside the game\nin order\nto win.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Still, it won't be as easy as I make it out\nto be.\nThis is between you and me, but\nTaishin...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "After stubbornly refusing to lose\nmultiple battles,\nwe're thrown into\nsudden death. I can finally put\nBiwa\nHayahide's tip to use.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Grr, you just won't die, will you? Give up\nalready.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Tch!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(Now!)"
+            ]
+        },
+        {
+            "text": "Бива Хаяхидэ told me that Narita\nTaishin clicks\nher tongue when she's\nimpatient, and that's when\nI should\nstrike if I want to win!",
+            "name": "Монолог"
+        },
+        {
+            "text": "What? Hey! What are you—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "YOU WIN!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I beat you!"
+            ]
+        },
+        {
+            "text": "...No way.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You won? Against <i>me?!</i> Did I seriously\njust lose to\na low-rank noob like you?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She mumbles to herself in disbelief,\napparently\nvery shocked by her loss.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thanks for playing with me one last time."
+            ]
+        },
+        {
+            "text": "What do you mean? Oh, right. I did say\nthat...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Well, see you."
+            ]
+        },
+        {
+            "text": "...Wait.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That was a fluke. You only won because\nI messed\nup, and I'm not gonna let\nthings end like this.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I challenge you to a rematch!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But you said that was the last time..."
+            ]
+        },
+        {
+            "text": "You want to entertain me, right? Then\nkeep\ngaming with me.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "So you <i>are</i> having fun!"
+            ]
+        },
+        {
+            "text": "Ngh! That's not what I said! Come on,\nlet's play\nalready!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "This isn't exactly how I thought things\nwould go,\nbut I feel a little closer to\nНарита Таисин.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm not gonna let the score end this way!\nNo more\nholding back—you're dead!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, wow! So you're trying to entertain\nher with\nsome fun playtime?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "What a nice trainer you are! Oh,\nyes-you-are!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Um, I..."
+            ]
+        },
+        {
+            "text": "Oh, that Taishin can be just a little—and\nI do\nmean just a <i>tiny bit</i>—difficult to\nhandle, but that's\nwhat makes her so\ncharming!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You're right, but that's not what I wanted to\ntalk abo—"
+            ]
+        },
+        {
+            "text": "Ah! Where are my manners? You wait\nright here,\nand I'll go make us some tea.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I hardly ever get the chance to talk to\nsomeone\nelse about little Taishin after\nall.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You really don't have to—"
+            ]
+        },
+        {
+            "text": "No need to be polite! You just sit back\nand relax.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "There, there! You're such a nice\ntrainer! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Now that I think about it, I didn't learn\nanything\nat all from Супер Крик!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why are you sweating bullets out of\nnowhere?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whatever. Let's just start.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Swish! Slash, slash! Pow!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Heh.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин is on fire, and I can't think\nof any\ncountermeasures to stave her off.\nI'm fighting for\nmy life!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Just when I think I'm doomed to lose,\nthe screen\ndisplays a message.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Dang it. Time's up.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Time runs out, and we end in a draw.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why didn't you finish me?"
+            ]
+        },
+        {
+            "text": "Usually, she's all about going on the\noffensive,\nbut this time, she mostly\nobserved and hardly\nattacked.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I just wanted to see what you were up\nto.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "You seemed so sure of yourself, so I\nwanted to\nsee what kind of strategy you\nhad up your\nsleeves.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The fact that she purposefully held back\nto give\nme a chance to win really\ntouches me. Without\nrealizing, I\nsuddenly blurt out...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're such a nice kid."
+            ]
+        },
+        {
+            "text": "Excuse you?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Nice? <i>Kid?</i> Are you joking?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(Oh no, Супер Крик's way of talking rubbed off\non me!)"
+            ]
+        },
+        {
+            "text": "I brace myself for the barrage of angry\ninsults\nheaded my way... but they never\ncome.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Don't treat me like a child. Sheesh.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(Huh?)"
+            ]
+        },
+        {
+            "text": "Her words are harsh, but she doesn't\nseem angry.\nNormally, she hates being\ntreated like a kid...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look, if you didn't get to do your\nstrategy, we\ncan play again.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "For some reason, she's a lot nicer than\nnormal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It hits me that she's waiting for me so we\ncan\nleave together. I've never felt closer\nto Narita\nTaishin than I do in that\nmoment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "At least, I think we're closer?",
+            "name": "Монолог"
+        }
+    ]
+}

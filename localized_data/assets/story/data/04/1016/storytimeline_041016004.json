@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the day of Бива Хаяхидэ's race, I take\nНарита Брайан to the\nHanshin Racecourse to\nsee her sister's debut."
+        },
+        {
+            "text": "You'd better have been telling the truth\nthis morning.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "About what?"
+            ]
+        },
+        {
+            "text": "Don't play dumb. I won't let you back out\nof your promise after\ncoming this far.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tch... You just don't quit! Why in the world\nwould I go with you?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I really think you need to see this!"
+            ]
+        },
+        {
+            "text": "Fine, but you'll promise to never come\nsniffing around me again.\nWait, that's not\nenough—turn in your trainer's badge too!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Deal!"
+            ]
+        },
+        {
+            "text": "...Hmm.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "(What did I just promise?!)"
+            ]
+        },
+        {
+            "text": "Well, she's here, so it worked at least. All\nthat's left is..."
+        },
+        {
+            "text": "It's time for the Junior Make Debut! Who\nwill shine as our victor\ntoday?",
+            "name": "Комментатор"
+        },
+        {
+            "text": "She's next.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(Are you watching, Brian?)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(You've always loved running more than\nanyone. It's only natural for\nyou to crave a\nworthy opponent.)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(But you're simply too talented, so your\nhopes were always dashed...\nThat's why\nyou're so quick to give up on others.)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(But you must learn, Brian, that a worthy\nopponent can come from\nanywhere—even\nfrom the depths of failure!)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Haaaaah!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ's in the lead! She's way\nahead of the pack! She's two,\nno, three\nlengths—wait, this is turning into a\nlandslide victory!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "What is this? Since when could she run like\nthat? It's as if she's on the\nhunt and all she\ncan see is the finish line...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tch!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Brian?"
+            ]
+        },
+        {
+            "text": "Sis! Why have you been hiding that\namazing skill all this time?! Why\nhaven't\nyou ever asked me to race you?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I see you made it, Brian... And you too.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's go over to the stands, shall we?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Huh? I'm trying to talk to you here—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "text": "Huh?! What's with that cheering? It's even\nlouder than when you\nraced...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's loud indeed. However good a race I\nran, it was merely a debut. It\npales in\ncomparison to the main event.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Do not underestimate others, Brian. There\nare racers here far greater\nthan me.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's finally time for the main race of the\nday! Among all these amazing\nathletes,\nwho will break ahead and achieve glory?",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Who do you think will win this race?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "To be honest, I don't care. All I want is to\nrace you—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I think it will be her.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hraaaaagh!",
+            "name": "Senior Umamusume"
+        },
+        {
+            "text": "Wait, that voice...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That was no win! I should never... have\ngone up against a beast like\nthat!",
+            "name": "Senior Umamusume"
+        },
+        {
+            "text": "You're kidding me. She was nothing like\nthis when I raced her. She\ndidn't even have\nthe drive to win!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "She told me something... \"I don't care how\nfar ahead Brian is—I'll\ndefeat her.\" She\neven started training from scratch to face\nyou again\none day.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But she said she's going to win this race\nfirst.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This is the Twinkle Series, Brian. Everyone\nhere struggles until the\nvery end to\nachieve a spot at the top.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This world is where you belong. But you've\nyet to take your first step\ninto it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "When you do, I'll be there waiting—at the\npinnacle of racing, the G1\nlevel.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I swallow and make an audible gulp, but\nthe sound is completely\ndrowned out..."
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "text": "The applause at the Twinkle Series grows\neven louder, with an energy\ngreat enough\nto capture Нарита Брайан's attention.",
+            "choice_data_list": [
+                "Do you want to race here?"
+            ]
+        },
+        {
+            "text": "Damn right, I do! <i>Tch!</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm changing the terms of your promise.\nYou can keep being a trainer,\nbut on one\ncondition...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Be <i>my</i> trainer... And get me to the Twinkle\nSeries!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "A few days later..."
+        },
+        {
+            "text": "Brian... What race are you goin' for next?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Sigh...</i> Why? It's got nothing to do with\nyou.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yeah, it does, you jerk. I'm gonna put\nmyself through special training\njust for that\nday. And I'm gonna <i>crush</i> you.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You know what one-on-one means? We\nrace until one of us drops.\nAnd I ain't on\nthe ground yet, so don't you dare back out\nnow.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Something tells me she's going to get a lot\nbetter."
+            ]
+        },
+        {
+            "text": "Haha! I get it now—I really was\nunderestimating people. So this is\nwhat\nTracen is all about.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It'll do. I'll stay so I can shred every last\none of them. Let's get to it,\nTrainer!",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

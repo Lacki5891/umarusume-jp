@@ -1,0 +1,152 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Due to scheduled track maintenance, I\nplanned on starting training\nearlier than\nusual... or so I thought.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One! Two! Three!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Pant, pant...</i> It still feels like I'm not hitting\nthat last turn well. Once\nmore, then...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Hey, it's almost time for training though..."
+            ]
+        },
+        {
+            "text": "Ugh, I know, I know. Don't be so\nimpatient. No one likes being\nrushed.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Just let me focus for a bit longer. I\nstumbled in the middle of my last\nwinning\nconcert...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Really? You did?"
+            ]
+        },
+        {
+            "text": "Oh, you didn't see it? Well then, my\nrecovery must've been perfect.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But it doesn't matter if people noticed or\nnot—a failure's a failure. I\nwon't allow\nmyself to make the same mistake twice.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That's what it means to be first-rate.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So please, let me go through it one more\ntime. It's fine if we push\ntraining a bit later.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Fine, but just once more, okay?"
+            ]
+        },
+        {
+            "text": "Indeed. Once more until I'm satisfied with\nmy performance.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "...Wait, what?"
+            ]
+        },
+        {
+            "text": "Hm? Did I stutter? I don't think so.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohohoho! Did you really think I would\nleave a flaw as-is? I won't\nmove on until it's\nperfect!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll give you the honor of starting the\nmusic. Together, we will push my\ndancing\nskills to the highest level!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Okay, let's start training. Are you ready?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "There's not much time left though..."
+            ]
+        },
+        {
+            "text": "What do you mean? Gosh, we're fine.\nRelax a little bit.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Besides, I know the schedule for this\ncourse. I'm positive we've got\nample time\nto spare.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Anyway, that's enough talk for now! Hurry\nup and get ready for\npractice already!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...It's my policy to always give it my all,\nwhether it's dancing or\ntraining. Everything\nmust be perfect—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Ding dong...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Training time has ended. The course will\nnow undergo scheduled\nmaintenance.\nStudents, please collect your belongings\nand exit\nquickly.",
+            "name": "School Announcer"
+        },
+        {
+            "text": "<i>Gasp.</i>",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Did you forget about the maintenance?"
+            ]
+        },
+        {
+            "text": "Ngh... A-as if I'd forget something so\ncrucial! And besides, it's not like\nI have to\npractice at school. I can go run somewhere\nelse.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hmph, you can leave. Training alone isn't a\nbig deal anyway. I'll be\nfine by myself!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "All right, shoo—",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I'll stay with you."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But I'm sure you have other things on your\nto-do list today. You don't\nhave to come\nwith—",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "As your trainer, you're my top priority."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "W-well, you better get ready to stay for\nhours and hours because I'm\ngoing to keep\nrunning until I'm satisfied!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Heh, bring it on!"
+            ]
+        },
+        {
+            "text": "Ohohoho! That's the energy I'm looking\nfor! I hope you're prepared!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "As the sun slips underneath the horizon, I\nkeep Кинг Хало company\nwhile she trains\nto her heart's content.",
+            "name": "Монолог"
+        }
+    ]
+}

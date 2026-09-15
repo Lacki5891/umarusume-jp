@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон has wowed us with an\nexcellent\ndebut!",
+            "name": "Announcer"
+        },
+        {
+            "text": "This new generation is shaping up\nimpressively,\nwith Нарита Брайан being a\nhot contender for the\nClassic Triple\nCrown.",
+            "name": "Announcer"
+        },
+        {
+            "text": "What kind of races can we expect to see\nfrom\nthem both? I can't wait!",
+            "name": "Announcer"
+        },
+        {
+            "text": "Nice! That's my big debut settled,\nTeach!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Great job out there!"
+            ]
+        },
+        {
+            "text": "Thanks! But the real battle starts now.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna have to toughen up good if I\nwant\nsome proper fights in the future!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "If there's one thing Хиши Амадзон never\nlacks, it's\nmotivation. Not wanting it to\ngo to waste, I start\nto think about our\nnext goal immediately.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Since she's looking to challenge the best\nof the\nbest, we should probably aim for\nthe biggest\nevent possible.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about running in the Hanshin Juvenile\nFillies?"
+            ]
+        },
+        {
+            "text": "Wait, isn't that a junior G1 race?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So we're gonna gear up for next year's\nG1 races,\nhuh? I like it! Bring on the\nHanshin J.F.!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I make to leave the Nakayama\nRacecourse behind\nus, but Хиши Амадзон\nstops me and gives me a\nserious look.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "I've debuted, and decided on the next\nrace to\nprepare for.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But before we enter the thick of it, I've\ngotta tell\nyou something.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's someone in particular I wanna\nchallenge\nto a one-on-one in the\nTwinkle Series.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I feel like I know who..."
+            ]
+        },
+        {
+            "text": "Hehe... You know, huh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's right—it's Нарита Брайан!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Нарита Брайан is a runner so strong, she's\nbecome\nquite the topic, even among the\ntrainers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Хиши Амадзон has been watching her for\nquite\nsome time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's a real beast, Teach.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "A... beast?"
+            ]
+        },
+        {
+            "text": "Yup. I challenged her to a one-on-one\nright after\nI came to Tracen, and I didn't\neven come close to\nbeating her.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I was so frustrated at my loss that I kept\ntrying to\ncatch up to her, determined to\nbeat her, but\nduring the process, I\nrealized somethin'.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The reason she runs isn't 'cause she\nwants glory or\n'cause she wants to\ninspire others.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's 'cause she's got a beast inside of her.\nShe runs\nbecause there's no way for her\nto stay put. That's\nwhy she's so strong!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Just the thought of facing off against her\nshakes\nme to my core! I just know a\nbattle with her at a\nbig  race would be\nreal awesome!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I wanna go head-to-head with her\nsomewhere\ndazzling!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон's eyes shine brilliantly with\n\ndetermination.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I don't care what happens, but this\nbattle's <i>gotta</i>\ntake place no matter\nwhat—don't you forget that,\nTeach!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Understood!"
+            ]
+        },
+        {
+            "text": "Out of nowhere...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Oh.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What a coincidence, runnin' into you\nhere today! I\nactually just had my debut\nrace and—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wait, did you come to see me race?!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Tch. I was just passing through.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That can't be true! You just came from\nthe\nentrance!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hehehe! I see what's going on here.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "This was no ordinary race, after all. Of\ncourse\nyou'd get a little curious after\nhearin' that the one\nand only Hishi\nAmazon was debuting!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Still, I didn't think you'd drop by to see\nme!\nThanks a lot, Brian!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Let's give it our all in the Twinkle Series!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Whatever.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Aww, what're you gettin' all shy on me\nfor? Hey,\nyour tape's all crooked!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Bug off.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Got any dinner plans? If not, wanna eat\ntogether?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "(They sure are friendly with each other.)"
+            ]
+        },
+        {
+            "text": "Despite a few bumps along the way,\nHishi\nAmazon's debut race goes well,\nand we've got the\nHanshin J.F. on our\nradar next!",
+            "name": "Монолог"
+        }
+    ]
+}

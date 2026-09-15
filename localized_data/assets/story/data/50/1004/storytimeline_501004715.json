@@ -1,0 +1,88 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, just after training with\nМарузенски, it\nstarts to rain.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer, are you free now?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, Trainer, are you free now?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "One day, as I was driving in the rain, I\nthought\nabout how fun it could be to run\nin weather like\nthat.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The wind must feel so different when\nyou can\nbarely see and water is\nsplashing all around.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "This could make for some tubular\ntraining! It'd be\na bummer to end it\nhere! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You want to keep going?"
+            ]
+        },
+        {
+            "text": "Yeah, it'll feel great to blaze through\nthe pouring\nrain! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It should feel just like a morning shower!\nWell,\nmaybe it's closer to an evening\nshower...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I've still got energy to burn. I'm only just\nstarting\nto show my true colors!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Okay, let's do it.",
+                "We should call it a day."
+            ]
+        },
+        {
+            "text": "That's what I'm talking about! Time to\nlight this\nfuse!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Haha! Even the sky seems to be happy!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's go—into a world where the wind\ncuts\nthrough even the smallest of\nraindrops!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, phooey. It's such a great\nopportunity...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But I guess that's just how it is... It's\nimportant to\ntake care of your health,\nafter all.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If you caught a cold because of me, I\nwould feel\nterrible.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If you caught a cold because of me, I\nwould feel\nterrible.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, let me take you for a drive in the\nrain\ninstead! Just the two of us! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thus, our training carries on into the\npouring rain.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I find the rainy drive a little stressful, but\n\nМарузенски seems to really enjoy it.",
+            "name": "Монолог"
+        }
+    ]
+}

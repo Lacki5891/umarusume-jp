@@ -1,0 +1,229 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! Chorizo!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Uh, \"chorizo\" to you too!"
+            ]
+        },
+        {
+            "text": "Oops, I got ahead of myself!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Trainer, did you hear about the new\nmenu item at\nthe fast food stand?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's called the Ultra Hot & Loaded\nChorizo Burger!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's full of super spicy chorizo! I <i>have</i> to\neat one!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Ultra hot, huh?"
+            ]
+        },
+        {
+            "text": "I just know it's gonna be awesome!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Let's go try it together!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh! Is that Hishiama over there?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh, hey El.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I see... So you two're here to try out the\nnew\nburger?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's right! When I heard how spicy it\nwas, I\ncouldn't resist!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hmm... I thought the burger wasn't half\nbad, but\nit wasn't really that spicy.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'd say the spice level was pretty\naverage,\nactually, so I doubt it'll meet\nyour expectations.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Seriously?! That sucks...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But! Hehehe... I know exactly what to\ndo!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I brought my special hot sauce with me\njust in\ncase something like this\nhappened!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A red hot bottle of salsa roja made with\ntons of\nchiles!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh? Sounds interesting. I'd like to try\nsome too, if\nya don't mind.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Of course!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "What about you, Тренер? My signature\nsalsa roja\nwill light a fire in you!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Sounds pretty spicy.",
+                "It's got a very powerful ring to it."
+            ]
+        },
+        {
+            "text": "What about you, Тренер? My signature\nsalsa roja\nwill light a fire in you!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Sounds pretty spicy.",
+                "It's got a very powerful ring to it."
+            ]
+        },
+        {
+            "text": "That it is! It'll send sweat streaming\ndown your\nbrow while your tongue\nscreams in agony!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's <i>that</i> strong? On second thought...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It'll hike up your metabolism. Add that\nto the\nnutrients from the chorizo, and\nyou've got a\nrecipe for a huge stamina\nboost!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, we can't bring this stuff into the\nrestaurant,\nso let's go eat in the park!\nExcuse me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, let's start with the hot sauce!\nThis is my\nown signature stuff!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Gyah! J-just the smell is making my eyes\nwater!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "C'mon, don't be shy! Open up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "W-wait! Agh! AHHHHH!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hehe! Look how excited she is at all that\nflavor!\nHere, Trainer! Have some too!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "An indescribable pain travels like a\nspark of\nlightning from my mouth\nthrough the rest of my\nbody! Th-this is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Aaaagh!"
+            ]
+        },
+        {
+            "text": "You two all right? You surprised me\nwhen ya\nstarted shakin' outta nowhere!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>I'm</i> the one who's surprised... Ugh, my\nwhole\nmouth is killing me...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I take a drink to relieve some of the\npain. After\nthat, I eat my Ultra Hot\nChorizo Burger, which\nends up tasting\nstrangely sweet in comparison.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Salsa means \"sauce,\" and roja means\n\"red!\"",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Red is the color of passion! And passion\nmeans\npower!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "One taste and you'll be fired up and\nbright red!\nThat's roja for ya!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's <i>that</i> strong? On second thought...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Of course, it's spicy <i>and</i> flavorful!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, we can't bring this stuff into the\nrestaurant,\nso let's go eat in the park!\nExcuse me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, let's start with the hot sauce!\nThis is my\nown signature stuff!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Gyah! J-just the smell is making my eyes\nwater!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "C'mon, don't be shy! Open up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "W-wait! Agh! AHHHHH!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hehe! Look how excited she is at all that\nflavor!\nHere, Trainer! Have some too!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "An indescribable pain travels like a\nspark of\nlightning from my mouth\nthrough the rest of my\nbody! Th-this is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Aaaagh!"
+            ]
+        },
+        {
+            "text": "You two all right? You surprised me\nwhen ya\nstarted shakin' outta nowhere!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>I'm</i> the one who's surprised... Ugh, my\nwhole\nmouth is killing me...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I take a cool drink to relieve some of the\npain.\nAfter that, I eat my Ultra Hot\nChorizo Burger,\nwhich ends up tasting\nstrangely sweet in\ncomparison.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эль Кондор Паса lathers her burger up\nwith her\nsignature sauce and seems to\nenjoy the\nspiciness...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эль Кондор Паса lathers her burger up\nwith her\nsignature sauce and seems to\nenjoy the\nspiciness...",
+            "name": "Монолог"
+        }
+    ]
+}

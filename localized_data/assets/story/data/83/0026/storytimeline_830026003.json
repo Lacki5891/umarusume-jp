@@ -1,0 +1,217 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The cops and robbers tournament,\nsuspended due\nto Твин Турбо's chaotic\ncharge, resumes on\nanother day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Another close contest between the two\nteams\nunfolds beneath a clear blue sky!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> Hehe, I got away again!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Psh! This is sooo easy! They're <i>never</i>\ngonna catch\nme before the time runs\nout!",
+            "name": "Твин Турбо",
+            "choice_data_list": [
+                "The game's almost over."
+            ]
+        },
+        {
+            "text": "Awww, whaaat?! But I've still got gas in\nthe tank!\nI'm gonna win without even\nbreaking a swe—",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Run, Turbo! Run! The cops—they're...",
+            "name": "Robber Team Umamusume"
+        },
+        {
+            "text": "Huh? Whoa! They're behind me!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Now, everyone. Surround them!",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "There won't be time for further\nattempts, but if\nwe can capture the last\ntwo people now, victory\nwill be ours!",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Okayyy! Let's go!",
+            "name": "Cop Team Umamusume"
+        },
+        {
+            "text": "Whoa-ho-ho! They're coming from in\nfront too!\nNice! Now I'm getting fired up!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "C'mon, my little minion! You've gotta\nget away\ntoo!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Ack! Owie!",
+            "name": "Robber Team Umamusume"
+        },
+        {
+            "text": "Miniooooon! Are you okay?!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "S-stay away! Leave me behind and run,\nTurbo!\nYou've gotta win!",
+            "name": "Robber Team Umamusume"
+        },
+        {
+            "text": "...Okay! I'll get away and I'll win! For\nyou!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "This is a straight path hemmed in by\ntrees and a\npond. There is no escape\nroute... You <i>will</i> be\ncaught!",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "No! I've gotta get away for all the other\nrobbers'\nsakes!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "TURBO BOOOOOST! I'm crankin' up the\n\nbackburners!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "She torched everyone chasing her with\nher red\nhot dash! That's Твин Турбо for\nyou!",
+            "name": "Shopkeeper"
+        },
+        {
+            "text": "<i>Huff... Wheeze...</i> I-I've still... got gas\nleft... in the\ntank...",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "It appears she's expended all her\nenergy. Now's\nour chance!",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Noooo! I won't let you get me!",
+            "name": "Твин Турбо",
+            "choice_data_list": [
+                "Go full throttle on that Turbo engine!",
+                "Catch your breath!"
+            ]
+        },
+        {
+            "text": "Urgh! More! FULL TURBO BOOOOOST!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Ahhhhh! GOOOOO! Get away from\nthem, Twin\nTurbo!",
+            "name": "Spectators"
+        },
+        {
+            "text": "You will not... escape! HAAAAAH!",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Ikuno Dictus! You can catch her! Go, go,\ngooo!",
+            "name": "Spectators"
+        },
+        {
+            "text": "You can do it, Turbo!",
+            "name": "Robber Team Umamusume"
+        },
+        {
+            "text": "The tournament comes to an end amidst\nthe\nsounds of thunderous footsteps and\ncheers from\nthe crowd...",
+            "name": "Монолог"
+        },
+        {
+            "text": "And the side that scrapes through to\nvictory is...\nthe robbers!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehehe! What'd I tell ya? We won! Bet\nyou're real\nglad you were a robber!",
+            "name": "Твин Турбо",
+            "choice_data_list": [
+                "I was just keeping an eye on things!"
+            ]
+        },
+        {
+            "text": "I keep tellin' ya not to sweat the small\nstuff! Your\nstrategy was a huge success!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Waaaaah! I can't believe this! I got\ncaught! Ikuno\ncaught meee!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "No. You did not fall victim to me, but to\nthe\ncombined efforts of the whole cop\nteam.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Yaaaaay! You're so cool, Ikuno!",
+            "name": "Cop Team"
+        },
+        {
+            "text": "That was still an amazing run, though!\nGreat job,\nТвин Турбо!",
+            "name": "Shopkeeper",
+            "choice_data_list": [
+                "I'm sure you'll get away next time!"
+            ]
+        },
+        {
+            "text": "<i>Huff, huff, huff, huff, huff, huff, huff,\nhuff!</i>",
+            "name": "Твин Турбо",
+            "choice_data_list": [
+                "Y-you don't have to breathe so fast!"
+            ]
+        },
+        {
+            "text": "It doesn't matter... As long as I run... as\nfast... as I\ncan... till... the... end...",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "...Got you!",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "I won't give up! I WON'T! YAAAAAH!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "<i>Tweeeet!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The whistle signals the end of the game.\nAnd the\nwinner of the final one-on-one\nbout iiis...",
+            "name": "Монолог"
+        },
+        {
+            "text": "AWW YEEEAH! I... won! I got... away!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Ehehe... Didja see me? I'm so strong!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "So close, and yet victory eluded us... It\npains me\nto admit this, but you did well.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "I'm ready to race again whenever you\nare! I'm\nlookin' forward to it!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Твин Турбо beams with pride after using\nher\nsignature turbo boost to seize\nvictory.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The crowd showers the two racers with\napplause\nas they praise each other's\nperformance in the\nclose contest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh! Yes! Next time, I'll <i>definitely</i>\nescape!",
+            "name": "Твин Турбо"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm walking around the campus when I\nhear a\nfamiliar voice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, peace was restored throughout\nthe land.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hmm... The performance still feels a\nlittle too\nby-the-book.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What are you two doing?"
+            ]
+        },
+        {
+            "text": "Ah—Trainer. We've been asked to put\non a play\nfor the local children.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's gonna be a heroic legend, RPG-style!\nWe're\npracticing hella hard!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Since we've been put in charge, I want\nto do a\ngood job, but it seems we've\nplayed it too safe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ooh! Ooh! I know! At the end, I could do\na flyin'\nbody press!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ahaha... I think not, El. Are you trying to\nset a\ndangerous example for the\nchildren?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ow, ow, ow! Okay, okay! I get it already!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The two of them continue their rehearsal\nfor some\ntime after.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew... Writing an entertaining script is\nhard\nwork.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Why don't we simplify the lines a little\nmore?\nLet's start again from the top.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Again?! Nggghhh... You sure are givin' it\nyour all,\nGrass.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Of course. The experiences children\nhave in their\nformative years are\nextremely important.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "When I myself was young, I was always\nmoved\nand inspired by the emphasis on\nprecision within\nJapanese culture.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I want this play of ours to provoke the\nsame type\nof response.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "It will, I'm sure of it!"
+            ]
+        },
+        {
+            "text": "Well, of course I want that too! I wanna\nmake 'em\nfeel like I did seein'\nluchadores when I was little!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehe... Then why don't we do another\n\nread-through? Trainer, if you would play\nthe\nantagonist...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Their rehearsals continue every day until\nthe big\nday of the show is here.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh... They don't call ya the Demon\nLord for\nnothin'... Gotta hand it to ya...\nThat was a good\nhit...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Bwah hah hah! And now, for the final blow!"
+            ]
+        },
+        {
+            "text": "Waaaahhh! Don't give up! Beat that\nDemon Lord\nup!",
+            "name": "Children"
+        },
+        {
+            "text": "Indeed... We cannot afford to lose. Too\nmany\npeople are counting on us.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "This is for them! Angelic Bolt!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hiyaaah! Shrieking Condor Wave!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Gaaaah! I've been defeateeeed!"
+            ]
+        },
+        {
+            "text": "Yaaaay!",
+            "name": "Children"
+        },
+        {
+            "text": "You were so cool! Next time something\nscary\nhappens, I'm gonna be brave too!",
+            "name": "Girl"
+        },
+        {
+            "text": "Me too! I'm gonna be like a hero and\nnever lose!\nMan, I wanna see that play\nagain!",
+            "name": "Boy"
+        },
+        {
+            "text": "Oh, is that so? Hehehe. Thank you. I'm\nglad you\nenjoyed the show.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Looks like your hard work paid off.",
+                "How about an encore?"
+            ]
+        },
+        {
+            "text": "Oh, is that so? Hehehe. Thank you. I'm\nglad you\nenjoyed the show.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Looks like your hard work paid off.",
+                "How about an encore?"
+            ]
+        },
+        {
+            "text": "Yes, and yours as well, Trainer. Thank\nyou.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Not only was your advice invaluable, but\nyour\nperformance as the antagonist is\nwhat made our\nplay such a success.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hey! Hey! Let's do that last part\ntogether!",
+            "name": "Boy"
+        },
+        {
+            "text": "Okay! ...This is for them! Angel Bolt!",
+            "name": "Girl"
+        },
+        {
+            "text": "Hehe. I guess it's our turn to watch.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It can be our quest reward, like in a\nvideo\ngame. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "What? I would understand if this were a\nconcert,\nbut an encore for a play?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Pleeease! Encore! Encore!",
+            "name": "Children"
+        },
+        {
+            "text": "...Hehe. Well, if you're going to insist.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "How about it, Тренер? Shall we finish\nstrong\ntoday?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The children in the audience thoroughly\nenjoyed\nthe play.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We perform the highlights one more\ntime, and the\ncurtain closes on a great\nshow.",
+            "name": "Монолог"
+        }
+    ]
+}

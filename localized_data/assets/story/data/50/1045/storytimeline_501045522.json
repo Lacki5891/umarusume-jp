@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I ask Супер Крик to write her name on a\n\ndocument that needs to be signed...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Sorry, but could you turn the other\nway for a\nbit?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "It's just that, um... my skin's flaring up\nright now.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I've been asked to do a lot of washing\nand\ncleaning lately...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And I guess I've been too busy for\nproper skin\ncare.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Are you okay? Does it hurt?"
+            ]
+        },
+        {
+            "text": "I-I asked you not to look! Bad Trainer!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I try to check but get scolded instead.\nShe pushes\nmy face away, so I stare out\nthe window for a\nwhile...",
+            "name": "Монолог"
+        }
+    ]
+}

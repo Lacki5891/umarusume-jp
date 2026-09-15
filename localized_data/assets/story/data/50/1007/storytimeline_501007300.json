@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Drum roll, please... And ta-DAH!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That comes to an even ninety-nine! The\nquestion\nis, of what?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "No idea."
+            ]
+        },
+        {
+            "text": "The answer is the total number of\ncoconuts I split\nwith my bare hands\nduring summer camp!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And since you got it wrong, your\npunishment is to\nwalk all the way back\nto the academy! See ya!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I race to the bus before it can leave\nwithout me.",
+            "name": "Монолог"
+        }
+    ]
+}

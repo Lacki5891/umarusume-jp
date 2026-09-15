@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day after Грасс Вандер's day off, I\nhead over\nto my office only to find...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Zzz... Zzz...</i>",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Are you asleep?"
+            ]
+        },
+        {
+            "text": "Oh! I-I'm sorry. I only meant to take a\nquick rest\non the sofa.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Did you get enough sleep yesterday?"
+            ]
+        },
+        {
+            "text": "Well, I sort of lost track of time while\ngazing at\nmy moss terrarium last night.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "There is an art to growing moss in a glass\ntank,\nand it brings me joy to observe its\ndaily progress.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But I need to take care not to let it cut\ninto my\nsleep schedule... <i>Yawn...</i>",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It seems Грасс Вандер stayed up late\nrather than\nget a proper night's rest.",
+            "name": "Монолог"
+        }
+    ]
+}

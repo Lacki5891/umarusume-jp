@@ -1,0 +1,80 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp season has come again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Is it that time of year again?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Be sure to take care of your health this time."
+            ]
+        },
+        {
+            "text": "Of course. I don't have time to collapse.\nMore\nimportantly...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm different now than I was then. You're\ndifferent\nthan you were too.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I see. I understand about Biwa\nHayahide. I'll let\nthe president know.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What's up with my sister?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Eek!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, it's just you, Brian. You should know\nbetter\nthan to sneak up on people...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You haven't heard even though she's\nyour sister?\nShe said she'll join us\npartway through camp this\nyear.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It has to do with her comprehensive\nphysical...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Comprehensive physical?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No way...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hm? What is it?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Just forget I said anything. If you\nhaven't heard,\nit probably isn't that\nimportant.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You should just concentrate on summer\ncamp. I'm\nsure that's what your sister\nwants.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...What the hell?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Thus, our senior year summer camp\nbegins.",
+            "name": "Монолог"
+        }
+    ]
+}

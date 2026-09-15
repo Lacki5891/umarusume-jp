@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Amazing! You did it! That was out of\nsight!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thank you, Trainer! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "But... these are so many..."
+            ]
+        },
+        {
+            "text": "Thank you, Trainer! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "But... these are so many..."
+            ]
+        },
+        {
+            "text": "No worries! If I run out of space in my\nroom, I can\nalways use them to decorate\nTata!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "They're presents from you, so I'll take\ngood care\nof all of them!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "They're presents from you, so I'll take\ngood care\nof all of them!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

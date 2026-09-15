@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One morning, I run into Mayano Top\nGun on my\nway to the office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mnnn... <i>Sigh...</i>",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You look sleepy."
+            ]
+        },
+        {
+            "text": "Yeah, there was a character that looked\njust like\nyou in last night's episode of...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wh-whoa! T-Тренер?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Um, I mean! I was watching a show, and\nit was...\nreally good! That's all!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "So what you're saying is you didn't get much\nsleЭпизод"
+            ]
+        },
+        {
+            "text": "Yeah, but... you see... there were lots\nof...\ngrown-up scenes in it.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahh! Just thinking about it makes my\nheart race! I\ndon't think I'll be able to\nsleep tonight either!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I imagine it was just your typical teen TV\nshow,\nbut whatever the reason, it was\nenough to have\nkept Mayano from\nsleeping.",
+            "name": "Монолог"
+        }
+    ]
+}

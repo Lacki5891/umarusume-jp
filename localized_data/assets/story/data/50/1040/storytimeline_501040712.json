@@ -1,0 +1,25 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Сити doesn't show up for training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Umm, sorry, Trainer.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I got a call from a store I'm a regular at,\nsaying\nthey had some new items in...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And, well, I got so excited talking about\noutfits, I\ncompletely lost track of time.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити apologizes again, and I give\nher a firm\nreminder to be careful next\ntime.",
+            "name": "Монолог"
+        }
+    ]
+}

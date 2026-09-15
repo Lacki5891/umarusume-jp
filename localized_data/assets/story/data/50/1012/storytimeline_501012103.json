@@ -1,0 +1,74 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the start of summer camp,\nwhere racers\ntrain to improve their skills!"
+        },
+        {
+            "text": "Okay, is everyone here? You're free to\ndo what\nyou want, but that doesn't mean\nyou can go\nbreaking rules left and right.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Don't do anything that'll cause the staff\nhere any\ntrouble, you hear? If I catch\nany of you—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What do you think you're doing, El?!\nQuit eatin'\nall those snacks before\nmealtime!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But I skipped out on breakfast! I'm\nstaaarving!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, you do need some fuel to start the\nday, but\nsugary snacks won't do the job.\nI've got some rice\nballs here, so eat up!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Bueno! Thanks a bunch, Hishiama!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Geez. Anyway! Make sure to greet your\ncamp\nneighbors in nice, clear voices!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Also—hey, Sky! Stop playing video\ngames on the\nbus! You'll give yourself a\nheadache!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Nooo, leave me alone. I'm so close to\nthe final\nboss... I should be able to catch\nthis whale soon.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "<i>Sigh.</i> Do you have anything for travel\nsickness?\nHere, take this!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ooh, thanks.",
+            "name": "Сэйун Скай",
+            "choice_data_list": [
+                "(They sure are a lot to handle...)"
+            ]
+        },
+        {
+            "text": "This lot is nothing but a bunch of\ntroublemakers, I\nswear!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hehe, they sure are a free-spirited\nbunch. You're\ntoo easy on them,\nHishiama.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Hehe. That's the leader of Miho\nDormitory for\nyou.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "No, no! She's a more like a mom than a\ndorm\nleader!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It takes some time to get everyone\nunder control,\nbut Хиши Амадзон's\nfiery-hot summer camp finally\nkicks off!"
+        }
+    ]
+}

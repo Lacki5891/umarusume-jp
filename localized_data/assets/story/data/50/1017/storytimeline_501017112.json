@@ -1,0 +1,179 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after Симболи Рудольф has a\nnumber of\nvictories under her belt...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I drop by the student council office to\ndiscuss the\nraffle prize we had previously\nwon together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Save it until I have earned the holiday.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "As for when that is, I leave it to your\ndiscretion. I\nknow that you will judge me\nfair and true.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I see... So you believe the time has\ncome.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You've achieved so much during our time\ntogether."
+            ]
+        },
+        {
+            "text": "I know she's still a long way from where\nshe hopes\nto be, but she has more than\nearned a break.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Very well. I trust your judgment.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Would you mind if I invited the other\nstudent\ncouncil members?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If I have been working hard, they have\nbeen\nworking even harder. They too\ndeserve a chance\nto relax.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Don't be ridiculous. How could you\npossibly\nunwind with us around?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We can handle things here just fine\nwhile you're\naway.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Эйр Грув... Brian...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Fortunately, we're through the busy\nseason.\nLeave us to take care of the rest\nand let your hair\ndown a little.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, how could I refuse an offer like\nthat? Thank\nyou, both of you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well then, Trainer... It seems we have a\nrelaxing\nvacation ahead of us.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "With that, we start getting ready for our\ntrip.",
+            "name": "Монолог"
+        },
+        {
+            "text": "(not displayed in-game)",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> That was delightful.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm sorry if I kept you waiting, but I\nrelished every\nmoment of the bath.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "As long as you enjoyed yourself."
+            ]
+        },
+        {
+            "text": "I appreciate that. I must say, these hot\nsprings are\nmarvelous.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Steam does wonders to clear my mind.\nAs my\nthoughts dissolve in the heat,\nunexpected truths\ncome into focus.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It has been a deeply fulfilling\nexperience...\nAlthough, I may have\nstayed in the water a little\n<i>too</i> long.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "It is nothing to worry about. Although I\nwould like\nto rest a little before we eat.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What do you say we head outside to get\nsome\nfresh air?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You're looking a little flushed yourself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What a delightful breeze. Perfect for\ncooling off\nafter a long soak.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "What were you thinking about in there?"
+            ]
+        },
+        {
+            "text": "All manner of things. The mundane and\nthe\nmetaphysical, the meaningful and\nthe trivial...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And I recall coming up with the most\nmarvelous\npuns... or so I thought at the\ntime, at least.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "That's uncharacteristically vague..."
+            ]
+        },
+        {
+            "text": "Thoughts come hazily in the hot springs,\nI've\nfound.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But there is one thing that I remember\nclearly.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The path we have walked shines brightly\nin the\ndark, even when the moon is\nhidden.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "We have certainly faced our fair share of\n\nadversity, but I would not trade it for\nthe world.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I wish for nothing more than to forge\nonward by\nyour side and follow this\nluminescent path far into\nthe distance.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I hope you are prepared to do the same.\nAfter all,\nI have no intention of letting\nyou go.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "...Thank you, Rudolf."
+            ]
+        },
+        {
+            "text": "And the same to you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Haha... With all that said, I feel a little\nflustered.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Could we stay out here a little longer?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "We discuss all sorts of things after that,\nboth\nmeaningful and trivial.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I sense that Симболи Рудольф and I have\nformed an\nirreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

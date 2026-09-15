@@ -1,0 +1,143 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I'm walking back to my office during\nmy lunch\nbreak...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, King's trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, you've come at just the right time.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I know it's lunchtime, but can we borrow\nyour\noffice?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What for?"
+            ]
+        },
+        {
+            "text": "There's a quiz coming up, and we want\nto study\nfor it, but...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Unfortunately, there are no study spaces\n\navailable at the moment.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "For that reason, I hereby grant you the\nright to\nlend your room out to me and\nmy associate!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Excellent, this place is perfect for my\nstudies. A\nsplendid idea, if I do say so\nmyself.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Right then, let's work hard to overcome\nour\nweaker subjects!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Sounds good to me! ♪",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Thank you for looking out for King."
+            ]
+        },
+        {
+            "text": "Ahem! And what do you mean by that?\nYou\nshould be thanking <i>me!</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Grass requested <i>my</i> assistance!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm a little unsure about certain aspects\nof\napplied math, so King is tutoring me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's true that Grass does have excellent\ngrades\nand doesn't seem the type to\nneed tutoring...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But my grades are top class as well! I'm\nfirst-rate\nboth in and out of the\nclassroom!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's true that King is truly a cut above.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She always gets good grades on tests\nand is\nregarded highly by all the\nteachers.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But what's most impressive is her ability\nto meet\ndifficult problems head-on!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ohohoho! You flatter me! But of course,\nit's the\ntruth!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, do you see now? I'm quite capable\nof\nholding my own against Grass!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You two are rivals even when it comes to\nstudying, huh?",
+                "But which one of you is actually the best?"
+            ]
+        },
+        {
+            "text": "Well, do you see now? I'm quite capable\nof\nholding my own against Grass!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You two are rivals even when it comes to\nstudying, huh?",
+                "But which one of you is actually the best?"
+            ]
+        },
+        {
+            "text": "Indeed! Whether it's studying or racing,\nwe're\nopponents who drive each other to\ngreater\nheights!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Come along, Grass! We must set our\nsights on\nbecoming first-rate\nUmamusume together, then\nspread our\nwings as a first-rate duo!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hm? Spread our wings... as a duo?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It'll be fine! We can pioneer an all-new\nact! A\nfirst-rate one, of course!\nOhohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ngh! G-Grass...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Grass may have won this time... But the\nnext quiz\nis mine!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, then I had better not let my guard\ndown.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ohohoho! I'll show you what a royal\ncomeback\nlooks like!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "As respectful rivals, the pair drive each\nother to\nimprove at both racing and\nstudying.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although fiercely competitive, the two\nend up\nbeing splendid study buddies.",
+            "name": "Монолог"
+        }
+    ]
+}

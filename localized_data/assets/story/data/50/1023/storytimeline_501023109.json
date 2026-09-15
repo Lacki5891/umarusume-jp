@@ -1,0 +1,153 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Good. That's a nice time. My accuracy\nhas\nimproved a great deal too.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I think it's about time for a break.\nWhether it's\ntalking or running, we have\nto make sure we have\nenough energy for\nit.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Hm? This <i>is</i> the cafeteria, isn't it? Why\ndoes it\nlook so different?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Maybe they've decorated for the holidays."
+            ]
+        },
+        {
+            "text": "Oh!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Haha! That's right. I didn't even realize it\nwas that\ntime of year already!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It looks like they're serving roast chicken\nand\nseasonal cake. Ooh! Look, they have\npizza over\nthere too!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I don't see any curry, but I suppose that\nmakes\nsense, hehe.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Curry?"
+            ]
+        },
+        {
+            "text": "Um, I know it's not exactly a traditional\ndish for\nthis time of year...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But at my house, we always used to\nmake what\neveryone liked for our\nholiday dinner.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'd ask my mom to make a fruitcake for\nme, and\nBrian would ask me to make\ncurry for her.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Of course, she'd always ask at the last\nminute, but\nthe thing is, it takes hours to\nstew the vegetables\nfor her favorite kind\nof curry.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "(Speaking of which...)"
+            ]
+        },
+        {
+            "text": "If I remember correctly, the Arima Kinen\nfalls on a\nrather special holiday this year.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What kind of present are you going to give\nBrian?"
+            ]
+        },
+        {
+            "text": "Oh...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Haha. Well, let's see... I suppose I'll give\nher the\nbest race ever.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I want to face her in the Twinkle Series\nand run\nagainst her in perfect form.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And I'll prevail with my winning\nequation.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You can't let her win, huh?"
+            ]
+        },
+        {
+            "text": "Of course not. I have my pride to\npreserve as her\nolder sister.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "By the way... what are your favorite\nfoods?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's make the most of today and eat\nour\nfavorites!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ and I have a wonderfully\ncheerful\nmeal together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's so much snow all around. It\nreally makes\nfor the perfect festive\natmosphere.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You're even dressed kind of like Santa."
+            ]
+        },
+        {
+            "text": "Haha, you're right. I fit right in, don't I?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Now then, Trainer, tell Santa what you\nwish for\nthis year. I might just bring it to\nyou!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I wish for you to win!"
+            ]
+        },
+        {
+            "text": "Very well. You'll get your wish soon\nenough.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ and I have a wonderfully\ncheerful\nmeal together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So... Why did you bring me here again?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I thought maybe you'd like a fruitcake."
+            ]
+        },
+        {
+            "text": "Hmm...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You should think about yourself once in\na while\ntoo. You're far too indulgent\nwith me.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's get two cakes and take them home.\nOne for\nme, and one for you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ and I each get a cake\nand enjoy\nthem together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She smiles confidently at me.",
+            "name": "Монолог"
+        }
+    ]
+}

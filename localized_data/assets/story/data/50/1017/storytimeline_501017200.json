@@ -1,0 +1,59 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At long last, Симболи Рудольф's racing\ndebut is\nupon us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Despite the early hour, the venue is\nelectric. The\natmosphere feels more like\na graded race than a\nsimple debut.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hah! The race hasn't even begun, and I\ncan feel\nthe crowd's excitement from\nhere.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You're the one they're waiting for."
+            ]
+        },
+        {
+            "text": "Indeed. All eyes are on me, perhaps\nmore now\nthan there ever will be.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Only today are they free to wonder how\nI\nmeasure up to the title of Emperor.\nOnce I take\nto the track, I'll become a\nknown quantity.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That means my performance today is\ncrucial.\nAnything less than the best will\ndisappoint them.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "That sounds like a lot of pressure."
+            ]
+        },
+        {
+            "text": "Surely you know better than that. Who\ndo you\ntake me for?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If anything, I see this as an opportunity.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If the crowd is this excited before\nthey've even\nseen me run, imagine the\nfame we'll enjoy if I\naccount for myself\nwell.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "So, worry not. Or rather, I should say... I\nwill not\nlet you down.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Today we take the first step on our road\nof\nconquest.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

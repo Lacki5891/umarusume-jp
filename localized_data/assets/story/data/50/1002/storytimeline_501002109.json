@@ -1,0 +1,182 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day during the holiday season, I'm\nhaving a\nmeeting with Сайленс Судзука\nwhen she notices the\nsnow falling\noutside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Gasp!</i> It's snowing!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You like the snow?"
+            ]
+        },
+        {
+            "text": "Yes, it reminds me of home. It snows a\nlot there.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And... I love the way it absorbs sound.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Do you want to go outside?"
+            ]
+        },
+        {
+            "text": "Hehe. Just like I thought, the air is so\nfresh. Ahh,\nit feels like home.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Running in the snow feels so good.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Did you do it a lot?"
+            ]
+        },
+        {
+            "text": "Yes. You know, snow is actually the\nreason I grew\nto love running so much.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "(Snow made her like running?)"
+            ]
+        },
+        {
+            "text": "I ask her to tell me more.",
+            "name": "Монолог"
+        },
+        {
+            "text": "When I was a child, I was enchanted by\nthe\ntranquility of this snowfield and\ndecided to try\nrunning through it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Eventually, all I could hear was the\nsound of my\nown heartbeat. It was so\nquiet, and all I could see\nwas white. I\nwas suddenly struck by the beauty of\nit\nall.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I felt like I had the whole world all to\nmyself.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I think it was then that I became so\ntaken with\nrunning.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Every Umamusume has their own reason\nfor\nrunning, but Сайленс Судзука's feels\nparticularly\nunique.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her desire to take in that scenery is\ngenuine.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's seize that world together, and keep it for\nas long as you want."
+            ]
+        },
+        {
+            "text": "\"Together...\"",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. Yes, let's do it!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We decide to take a walk in the snow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Seeing her staring out into the snow, I\nask her\nwhat's on her mind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All this snow... It's perfect for the\nholidays, don't\nyou think?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Now that you mention it!"
+            ]
+        },
+        {
+            "text": "She seems to consider something after\nhearing my\nanswer. Suddenly, she strides\nout into the snow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, well, 'tis the season.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She crouches down and begins sculpting\na little\nbunny out of snow.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "That's so cute!"
+            ]
+        },
+        {
+            "text": "I used to make these every now and\nthen.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's nothing special, but... please think of\nit as my\npresent to you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Happy holidays, Trainer.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What are you laughing at?"
+            ]
+        },
+        {
+            "text": "I was just thinking that stump over there\nlooks\nlike a log cake.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Hey, you're right!"
+            ]
+        },
+        {
+            "text": "It's that time of year again, isn't it? I\nhaven't\nthought about it until now.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um... Why don't we have some cake to\ncelebrate?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "If you like, maybe we could make a log\ncake\ntogether.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Sounds good to me!"
+            ]
+        },
+        {
+            "text": "We make a trip to the store to buy the\n\ningredients for our cake, and bring\neverything\nback to my office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Does the frosting look like wood to you?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Yeah, you're really good at that!"
+            ]
+        },
+        {
+            "text": "Thank you!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe, that's way too many strawberries.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This special day with Сайленс Судзука has\nturned\nout to be one I'll remember for a\nlong time to\ncome.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This special day with Сайленс Судзука has\nturned\nout to be one I'll remember for a\nlong time to\ncome.",
+            "name": "Монолог"
+        }
+    ]
+}

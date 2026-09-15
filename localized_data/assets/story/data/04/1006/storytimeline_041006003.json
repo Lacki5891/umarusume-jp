@@ -1,0 +1,234 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few days after her scrimmage with Tama\nCross, I come across Oguri\nCap at the\nheight of an intense training session.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Phew...</i> Okay, just one more set!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I watch as her feet gouge the ground,\npropelling her forward. There's\nno doubt\nabout it—those legs are a force to be\nreckoned with.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Engulfed by her zeal for training, I lose\ntrack of time...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Oh, it's you again.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Nice work. Giving it your all, huh?"
+            ]
+        },
+        {
+            "text": "YЭпизод I'm actually gonna be participating in\nthe next tryout.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The deadline to apply for the race had\nalready passed by the time I\nhad\ntransferred in.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "But after the race coordinators saw the\nscrimmage between me and\nTama, they\ndecided to give me special permission to\nrun in the next\ntryout.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "If I do well during tryouts, I'll be one step\ncloser to making my central\ndebut. I need\nto push myself now more than ever before.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh right. Sorry to keep asking you, but\ncould you show me the way\none more\ntime?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Where to this time?"
+            ]
+        },
+        {
+            "text": "Anywhere near the school, as long as\nthere's plenty of nature.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I didn't know there was such a vast forest\nbehind the academy. This is\nperfect. Thank\nyou.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Ahhh, yes. This is it. The forest air out here\nis just right. It cleanses my\nmind and calms\nmy soul.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Back in the day, I'd always find myself\nrunning in these areas.\nEventually, the\nfolks back home started suggesting I run in\nan\nUmamusume race.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "So that's how you started racing..."
+            ]
+        },
+        {
+            "text": "Yeah. It's thanks to everyone back home\nand their support.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I remember when I ran in my first regional\nrace, the townsfolk made\nme a huge\nbanner, even though they were really busy\nworking the\nfields...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Whenever I had a race, everyone would\ngather at the end of the day\nand feast in\nmy name—win or lose.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "\"What an amazing race!\" \"Watching you\nrun is always a treat!\" \"Keep\nat it!\" ...I was\nalways surrounded by words of\nencouragement.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "That's why... I love running so much.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "And I love racing too. The bonds it makes.\nThe joy it brings. I love it\nall.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "You really care about the folks back home,\nhuh?"
+            ]
+        },
+        {
+            "text": "Of course.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Everyone back home always says that\nseeing me race—seeing me run\nso freely\nand happily—means the world to them.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "And my race with Tama was <i>really</i> fun. Just\nthinking about it gets my\nheart racing.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "If debuting means I get to run alongside\nother amazing racers as\nstrong and fast as\nTama, then...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I want to debut as soon as possible.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Even as she reminisces about the past and\ncontemplates her present,\nOguri Cap's\nambitions shine through brilliantly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Anyway, that's enough chitchat for today. I\nshould get back to my\ntraining.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Thanks for bringing me here. I'll come to\nthis forest to run when I\nneed to clear my\nmind and remember my roots.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'll be taking my leave. See you around.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп announces her departure and\nbegins to walk away.\nHowever, as she does\nso—",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "She abruptly stops in her tracks and\ncrouches over.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You okay?!"
+            ]
+        },
+        {
+            "text": "Hm? Why the sudden change of\nexpression?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "I thought you might be hurt..."
+            ]
+        },
+        {
+            "text": "No... I'm fine. I just tore one of my\nshoelaces, that's all.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I glance down at Огури Кэп's shoes, and lo\nand behold, they're worn\ndown to\nbasically nothing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's no big deal. All of my shoes wear out\nquite quickly.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Gotta go buy a new pair again.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп ties the torn laces together and\nonce again sets off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The damage on her shoes was nothing\nshort of abnormal, probably\nbecause she\nruns with such incredible force. Normal\nshoes could never\nwithstand that kind of\nwear and tear.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Огури Кэп won't be able to realize her\nfullest potential if she keeps\nrunning in\nthose.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have to do something about it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm, I see everything's as pricey as ever.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Oh, hey. You're that new trainer, yeah?\nThe one always hangin' 'round\nOguri?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "What's with the long face? Ya tryna find\nsomethin'?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I tell Тамамо Кросс about everything that\nhad happened.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm, I getcha. C'mon, how'd Oguri not\nnotice anything till now? She\nsure can be a\nditz.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Anyway! I'll help ya out. Tryouts are where\nya go all out! It wouldn't\nbe fair to the\ntrainers or herself otherwise!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "A'ight, we're pickin' the toughest shoes for\nher! Go big or go home!",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "Thanks a bunch!"
+            ]
+        },
+        {
+            "text": "No biggie. Always glad to help.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Besides, this isn't just for her. If she doesn't\nhurry up and debut, how\nam I s'posed to\nrace her again?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "C'mon, let's get started! What's your\nbudget lookin' like? Gotta know\nthat\nbefore we can do anythin' else.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "With the help of Тамамо Кросс, I was able\nto pick out a pair of shoes\nthat can\nwithstand Огури Кэп's power.",
+            "name": "Монолог"
+        }
+    ]
+}

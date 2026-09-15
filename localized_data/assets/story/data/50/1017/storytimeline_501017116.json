@@ -1,0 +1,302 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With the end of January approaching,\nthe hustle\nand bustle of the new year\nhas started to settle\ndown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Симболи Рудольф has asked me to meet\nher at the\ndorms so we can hammer out a\ntraining plan.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm so sorry! I can't believe you sent a car\nall the\nway to my house to pick me up...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "It was no trouble at all. I'm simply glad\nto see you\nback at school.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "With your debut on the horizon, please\nknow that\nthe student council stands\nbehind you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If there's anything you need, please\ndon't hesitate\nto call on us.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Thank you, President! That really means\na lot!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "That seems to be the last of them.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Greeting the latecomers?"
+            ]
+        },
+        {
+            "text": "Ah, Trainer. You're already here.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Yes, indeed. That was the last arrival.\nNow the\nstudent body is back up to its\nfull complement.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It's hard to believe that there are still\nstudents\nfiltering back in with January\nending. I shake my\nhead in disbelief.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Often, there are several students who\ndon't come\nback at all.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Just as they encounter the true cruelty\nand\nintensity of racing, they return to\nthe warm\nembrace of their family. One\ncan hardly blame\nthem for wanting to\nstay.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If that is what they truly desire, then I\nwish them\nwell.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But if some piece of their heart remains\non the\nturf...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Don't you think someone should give\nthem the\npush to try again one more\ntime?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Come to think about it, after our New\nYear's\nshrine visit, there was a period of\ntime when\nСимболи Рудольф's phone line\nwas always busy.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Have you been calling them yourself?"
+            ]
+        },
+        {
+            "text": "Perhaps I should leave it to Эйр Грув\nand the\nother student council members\nin the future.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I know that I can be... imposing. They\nwould likely\nbe more sensitive.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But after seeing how exhausted Air\nGroove was at\nthe end of last year, I\ndon't want to impose my\nselfishness on\nher.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Selfishness?"
+            ]
+        },
+        {
+            "text": "Well, do I not seem selfish? And\narrogant besides.\nWhat else would you\ncall an individual who\npresumes to guide\nthe entire student body?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What I'm doing now deviates\nsignificantly from\nmy official student\ncouncil responsibilities.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "So I won't ask anyone else to indulge\nme. Not\neven you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Now, I believe we have some training\nplans to\niron out. We ought to—",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>Buzz, buzz!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me. That's my phone.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Would you mind if I take this? It could\nbe urgent.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф speaking. How can I help\nyou?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Эйр Грув did <i>what?!</i>",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Эйр Грув!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President? Whatever is the matter?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What do you think? I heard you\ncollapsed! Is\neverything all right?!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Not to worry. I've made certain my\nduties won't\nbe affected.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Brian has been coordinating the\nhandover—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's not what I meant. I'm asking about\nyour\ncondition.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Work can wait. I can catch up on any\ndeficit\nafterward.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If there's been a handover, the doctor\nmust have\nordered you to rest.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What's your diagnosis?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Apparently I'm just overworked. I\napologize.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What for?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm the one who owes <i>you</i> an apology.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It's as plain as day that preventing\noverwork falls\non the president's\nshoulders. If I had managed our\n\npersonnel better, this never would have\n\nhappened. Forgive me.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You shouldn't—no, <i>no one</i> should have\nto suffer\nfor my shortcomings.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Such immaturity is... infuriating.\nShameful.\nUnforgivable.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But here and now, I swear that I will\nredouble my\ndedication to the student\ncouncil.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And I will start by taking on a portion of\nthe work\nthat I've left to the rest of you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But, President... with all due respect,\nthat will\ninterfere with your racing.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I've balanced both well enough so far. A\nlittle\nextra weight won't tip the scales.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The Emperor's road is not an easy one,\nPresident.\nAny additional burden—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What good is an Emperor who can't\nprotect her\nsubjects?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You have your own dreams, do you not?\nDreams\nof finding glory as an\nUmamusume.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What would become of those dreams if\nyou work\nyourself to exhaustion? The\nwork of the student\ncouncil can't take\nprecedence.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'll take care of everything myself. You\nfocus on\nresting and recovering.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Are we agreed?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...How <i>dare</i> you look down on me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Is that all we are to you? Dreams for you\nto\nshepherd?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You tell me not to apologize. You say\nit's all your\nfault.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Don't you see? You're treating us like\nchildren!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You've got it all wrong, President. You\ndon't...\nunderstand at all...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I am... <i>We</i> are...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ngh...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув?! What's wrong?!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What are you three doing?! Эйр Грув,\nyou\nshould be resting!",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm sorry to have disturbed you, Air\nGroove. I'll\ncome again some other time.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "With the benefits of rest, Эйр Грув\nquickly\nmakes a full recovery and\napologizes for her\noutburst.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Симболи Рудольф apologizes in kind, and\non the\nface of it, everything seems to\nhave been\nresolved...",
+            "name": "Монолог"
+        },
+        {
+            "text": "But the incident casts a long shadow\nover Symboli\nRudolf's heart.",
+            "name": "Монолог"
+        }
+    ]
+}

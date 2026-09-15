@@ -1,0 +1,151 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally time for Нарита Таисин's debut\nrace!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "However, she seems very uneasy.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Want to do some breathing exercises with me?"
+            ]
+        },
+        {
+            "text": "Bug off. I'm not scared or anything. Got\nit?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But—"
+            ]
+        },
+        {
+            "text": "Нарита Таисин! Please make your way to\nthe\npaddock!",
+            "name": "Race Attendant"
+        },
+        {
+            "text": "Oh... Right, okay.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, see ya later.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "As she leaves, I can see her legs are\ntrembling\never so slightly.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(What can I do to encourage her?)"
+            ]
+        },
+        {
+            "text": "Spectators crowd about, eager to catch\na glimpse\nof the Umamusume in the\npaddock who may one\nday become\nlegends in their own right.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I spot Нарита Таисин standing among her\nfellow\nracers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, what's up with that one over there?\nShe's\npretty darn tiny...",
+            "name": "Fan A"
+        },
+        {
+            "text": "Does she even stand a chance with that\nstature?\nSeems like she could get blown\naway.",
+            "name": "Fan B"
+        },
+        {
+            "text": "I-Is she going to be okay? I hope she\ndoesn't get\nhurt...",
+            "name": "Fan C"
+        },
+        {
+            "text": "Tch.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No one seems to expect much from her.\nShe\nhangs her head down amid the\nmurmuring voices\nwhirling around her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No one can deny that her lack of height\nis a\ndisadvantage when it comes to\nracing.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(But...)"
+            ]
+        },
+        {
+            "text": "\"You're too short!\" \"You're too frail!\"\n\"You're not\ncut out to be a racer!\"",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All that junk—I'm sick and tired of\nhearing it!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Okay?! I don't care what people say! I'm\ngonna\nstay right on the turf! I'll show all\nyou whiny\nmorons!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'll show you exactly where I should be!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And I'll be laughing when I tell you to\nshove it\nfrom the winner's circle!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин is stronger and more\ndetermined to\nwin than anyone, and she\nhas the ability to make\nall her\ndeclarations come true.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As her trainer, I know this better than\nanyone.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Taishiiin!"
+            ]
+        },
+        {
+            "text": "What?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm shouting before I realize what I'm\ndoing.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Taishiiin! You've got thiiis!"
+            ]
+        },
+        {
+            "text": "Hey, stop yelling! Seriously!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Geez, what are we doing? We should be\ncheering\nher on. It's her debut, after all.",
+            "name": "Fan A"
+        },
+        {
+            "text": "Yeah! Go get 'em, Taishin!",
+            "name": "Fan B"
+        },
+        {
+            "text": "We're behind you all the way!",
+            "name": "Fan C"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Look what that idiot started!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "First, I'm going to win, then I'm kicking\nthat\ndoofus to the other side of the\nworld!",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Матиканэфукукитару and I are on our way\nback to\nthe academy after a day out,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Gasp!</i> Graaahhh!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "I've r-really done it now! I stepped\nthrough the\nschool gate with my right\nfoot!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You know the old adage, right? \"When\nye\nentereth a main gate, ye must\nsteppeth leftly. Ye\nwho dareth to\nbreaketh said rule...\" <i>Gulp...</i>",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Shalt reject the companion with whom\nye\nwalked through!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "D-does that mean that you and I are\ngoing to\nhave a falling-out?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I can't let that happen, ever! There's\nonly one\nthing to do!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "And my fortune-telling shall tell us what\nthat is!\nHoppity-rak! Roll on, my little\nfortune-telling\npencil, roll on!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "She takes a pencil out of her pocket and\nhastily\nrolls it on the ground...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's this?! Apparently, a liquid will\nsolve our\nworries!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Liquid... Liquid... Oh! Juice is a liquid!\nWait right\nhere, I'll go buy some!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "She disappears for a moment and comes\nback\nwith a bottle of my favorite juice.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why'd you choose this one?"
+            ]
+        },
+        {
+            "text": "The color of the label happens to be\ntoday's\nlucky color. Plus, it's the one you\nalways get!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "That's very observant of you."
+            ]
+        },
+        {
+            "text": "That's only because you're always going\nout of\nyour way to help me! Knowing\nwhat you like is the\nleast I can do!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hehe, how affable was your reaction just\nnow!\nWe've definitely avoided any\npotential discord!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "That was really thoughtful. Thanks!",
+                "Now, let me buy you one!"
+            ]
+        },
+        {
+            "text": "Hehe, how affable was your reaction just\nnow!\nWe've definitely avoided any\npotential discord!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "That was really thoughtful. Thanks!",
+                "Now, let me buy you one!"
+            ]
+        },
+        {
+            "text": "Huhwha?! There's no need to flatter me\nthat\nmuch!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ehehe, you know what I think? We've\ndefinitely\nstrengthened our friendship!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "We have the fortune-telling pencil to\nthank for\nthat! Praise be to the pencil!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Whaaaaat? You're going to buy me a\ndrink too?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "I was just trying to prevent the\nimpending discord\nbetween us!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But if you insist... Hehe.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "La-di-da! ♪ What a stroke of luck! All\nthanks to\nmy pencil's divine guidance!\nNow, what should I\nchoose?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "After that, Матиканэфукукитару and I\nfrequent the\nvending machine on our\nbreaks more often.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Матиканэфукукитару must have liked the\n\ncompliment. Afterwards, she makes a\nhabit of\nbringing me drinks every once in\na while.",
+            "name": "Монолог"
+        }
+    ]
+}

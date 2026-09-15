@@ -1,0 +1,123 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At last, the Japan Cup is here. We arrive\nat the\ntrack in the morning, focused and\nready.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah... Грасс Вандер and her trainer!\nGood\nmorning!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Oh, good morning. Have you come to\nwatch my\nrace once again?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Of course! I wouldn't dream of missing\nthe Beast's\nSuccessor!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Oh! That reminds me! Have you two seen\nthe\narticle everyone's been talking\nabout online?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Which one, if I may ask?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "After a few quick taps, the reporter\nholds up a\nscreen to show a news site\nknown for its Arima\nKinen predictions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Everyone knows the Arima Kinen is one\nof the\nbiggest races—only the best\nclassic and senior\nyear Umamusume are\nvoted in!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Take a look at their predictions on who\nwill run\nthis year!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Oh, my...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Both Maruzen and myself are on this list.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "(The Arima Kinen!)"
+            ]
+        },
+        {
+            "text": "Грасс Вандер has spent her classic year\nbuilding\nup experience specifically to\nchallenge\nМарузенски.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This might be Grass's big chance to race\nher!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Марузенски and I, on the same track at\nthe Arima\nKinen... Hehe, that <i>would</i> be\nan honor.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yeah! It's because of Марузенски that\nyou've\nbeen gathering so much\nattention! Personally, I\ncan't wait!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Of course, I'm excited to see how you do\ntoday,\nas well! Do your best out there!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "...It's almost time.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Everything is ready. Shall we?"
+            ]
+        },
+        {
+            "text": "Yes. Let's be on our way.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Grass!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If it isn't El. Did you come here to get\nme?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Sí, sí! I've come to be your guide!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I've got a race to win here, and it's\ngonna be\n<i>flashy!</i> Grrrass Wonder, enter\nthe riiiiing!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehe, the ring? Are you sure we're going\nto the\nsame place?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm headed to the track, to take the title\nof\n\"Beast's Successor\"...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And leave it in the dust.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Leave it, eh?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Whatever you say! Now c'mon, Grass! To\nthe\npaddock!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yes. Trainer, I should be off.",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

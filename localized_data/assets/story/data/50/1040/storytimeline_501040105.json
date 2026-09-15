@@ -1,0 +1,38 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's Голд Сити's second summer camp.\nThis time\nlast year, she was feeling\ntense, but now..."
+        },
+        {
+            "text": "Hey, can I go straight to the beach after\nI leave\nmy stuff?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm really itching to go for a run.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "In a good mood?"
+            ]
+        },
+        {
+            "text": "...I guess.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll be up against two insanely fast\nrunners in the\nJapan Cup.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm looking forward to it. I want to\nbecome\nstronger and win.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Just talking about it is giving me a\nserious urge to\nrun. Let's go, Trainer!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It looks like this summer camp is off to a\nblazing\nhot start!"
+        }
+    ]
+}

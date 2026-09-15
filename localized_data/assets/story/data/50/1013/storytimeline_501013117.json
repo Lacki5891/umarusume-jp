@@ -1,0 +1,251 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hurry, Trainer! The cafeteria is about to\nclose!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "After the spring Tenno Sho, Mejiro\nMcQueen is in\ngreat shape.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Training went off without a hitch again\ntoday, so\nwe decided to have a snack in\nthe cafeteria, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Bzzzt, bzzzt.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Oh? A phone call? Who on earth could\nit—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Huff... huff...</i>",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "No, this isn't gonna cut it!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I couldn't hold out in the Tenno Sho!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "McQueen was so amazing right up to the\nend, but\nI...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I couldn't...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hey... don't you think you might be\ntraining a\nlittle too much?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Oh... Dober.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I thought you left awfully early for it\nbeing your\nday off. I can't believe you've\nbeen training by\nyourself all day.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "If you push yourself too hard, your body\nwill\nbreak down. You have a race coming\nup!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "But... I'm still not good enough.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The Mejiro family expected me to win\nthe\nClassics, but... that's not how it\nworked out.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "McQueen flawlessly met everyone's\nexpectations\nin the Tenno Sho, but...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm weak... I'm not nearly good enough.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm not strong enough, not motivated\nenough—I\ndon't have enough of\nanything!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...I know how you feel. I've been by you\nall this\ntime. But wanting to win is all the\nmore reason not\nto push yourself too\nhard.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...All right. Sorry for worrying you. I'll go\nchange\nand then rest.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Truly?! For my accomplishments?! I\nfeel... You\nhave my eternal gratitude for\nthis!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I can tell by her voice, she's talking with\nher\ngrandmother.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I've been watching your endeavors this\nentire\ntime. Know that your hard work is\nwhat merited\nthis recent achievement.",
+            "name": "Grandmother Mejiro"
+        },
+        {
+            "text": "Yes, Grandmother!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Be proud of how radiant you've become.\nAnd one\nmore thing.",
+            "name": "Grandmother Mejiro"
+        },
+        {
+            "text": "I am hoping you will pave a new path for\nour\nlong-established Mejiro family.",
+            "name": "Grandmother Mejiro"
+        },
+        {
+            "text": "What? You want me... to pave a new\npath?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Yes. The task will be difficult, requiring\n\nconsiderable preparation.",
+            "name": "Grandmother Mejiro"
+        },
+        {
+            "text": "But I know that you'll be fine. Go\nforward in your\nown way.",
+            "name": "Grandmother Mejiro"
+        },
+        {
+            "text": "Y-yes...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "So, I'm the one who is to show the\nillustrious\nMejiro family a new path? To\nthink\nGrandmother's entrusted <i>me</i> with\nsuch a task...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You've earned her recognition!"
+            ]
+        },
+        {
+            "text": "Have... Have I really? It doesn't truly\nfeel real yet.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "At that exact moment, I spot someone\ncoming\ntoward us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Was that... Grandmother just now? So,\nshe's\npicked you...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "R-Ryan?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Y-you must have heard it all.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "She really expects that much from you.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm not surprised. You won the Tenno\nSho, and\nyou're always so strong.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You've been like that since we were\nkids.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Um, but I don't really feel that way yet.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hm... You'll be fine, McQueen. I know it!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You've already lived up to everyone's\n\nexpectations and showed us a perfect\nwin at the\nTenno Sho, after all!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That's why I think you're more than\nworthy of\nbeing the family's head. Still!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I wanna get strong too!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I don't want <i>all</i> our family's expectations\nto be on\nyou!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "What do you say, McQueen? We've got\none\nmore!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "One more showdown between us! This\ntime... at\nthe Takarazuka Kinen!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I won't lose this one. I'll win for sure, and\nby doing\nthat...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'll prove that I'm strong enough to bear\nthose\nexpectations with you!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "That's what true resolve sounds like."
+            ]
+        },
+        {
+            "text": "...It seems so.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Apparently, my resolve to shoulder the\n\nresponsibility of the Mejiro family name\nis being\ncalled into question.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ryan said she'll prove that she's strong.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "In that case, I must prove to her how\nstrong <i>I</i> am!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The participants in the Takarazuka Kinen\nare\nselected by fan ballot.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Just to be chosen to compete is a\nprivilege in\nitself. I hope Ryan knows\nthat.",
+            "name": "Мэдзиро Добер"
+        }
+    ]
+}

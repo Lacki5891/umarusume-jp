@@ -1,0 +1,151 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally Friday. I'm finishing up the last\nbit of work and getting\nready for\nafternoon training when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Thump, thump, thump!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Buuuuuenos tardeeesss! How're you doin',\nTrainer!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "I see you're as excited as ever, El."
+            ]
+        },
+        {
+            "text": "Yup, I'm always full of energy! Whether I'm\non the turf or not, I'm\nalways going full\nthrottle!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hm? Are you feelin' a bit under the\nweather, Тренер? But we were just\nabout\nto start training!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "I guess the fatigue is catching up to me..."
+            ]
+        },
+        {
+            "text": "Qué?! How come?! What happened?! The\nsun's out—it's way too early\nto be burning\nout!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "C'mon, aren't we aiming to be the world's\nstrongest?! If we aren't\npeppy, then what\nare we?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Now, suck in your gut! Then, breathe in!\nGet that fresh air into your\nlungs!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Look alive, Trainer—we're goin' on a run!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "A run?! Right now?!"
+            ]
+        },
+        {
+            "text": "Sí! I always run when I'm energetic! Which\nmeans that running makes\nyou energetic!\nC'mon, let's gooooo!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Uno, dos, tres! Raise those thighs! Match\nyour cadence to my rhythm!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Right! Just like that! Next up, fly with me\nthrough the sky!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Shout! Leap! Let the fires of passion burn\nbright! Good, we've only\ngot ten laps to\ngo!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And so, we finish our impromptu training\nsession with El as my trainer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Bueno! I'm glad I picked you as my trainer!\nWe make a good team!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I really felt your passion on that final lap.\nI'm proud of you. You get\nan A+!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Th-thanks..."
+            ]
+        },
+        {
+            "text": "Haaahahaha! You're very welcome! We\nworked up a good sweat,\ndidn't we?\nAnother productive day of training—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Huh? Training?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Trainer! I haven't done any training yet\ntoday!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Quickly, speedily—swiftly! Let us sound\nthe gong! Now's when the\nreal training\nbeg—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Ding-dong, bing-bong...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Qué?! The bell! But that means—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Sigh...</i> This week was a real doozy. Hey,\nwanna hit up the\nconvenience store?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "You know it. I just wanna grab something\nsweet and chill.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Wh-wh-wha?! Everyone's leaving the\ntrack... Don't tell me... Is it\nalready time to\ngo home?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Trainer, does that mean we're finished\ntoo?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "I can keep you company for a bit longer."
+            ]
+        },
+        {
+            "text": "Traaainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Gah, I'm so happy! I'm glad I picked you as\nmy trainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, time to get back into gear and\nstart training! Let's run\ntowards the setting\nsun until that riverbank—no, until the sea!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "...Let's not get too crazy now."
+            ]
+        },
+        {
+            "text": "I know, I know. Don't worry so much!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Training with El is a lot of fun, but I\nwonder if I'll be able to walk\ntomorrow...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What're you spacin' out for, Тренер?! I'll\nleave you behind!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally time for tryouts to begin. It\nlooks like Смарт Фалкон will be\n\nparticipating in the 1,600-meter turf race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> Wait, no. I have to be positive and\nsmile brightly—like a true\nUmadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But still... What if I fail aga—no! I can't let\nmyself think like that! I've\nbeen training\nsuper hard! I'm sure I'll be fine this time!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "She still looks unsure of herself as she\nstarts out the gate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yaaaah!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Although she runs as fast as she can, the\ntrainers watching her remain\nunimpressed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Смарт Фалкон's here again, huh? I get that\nshe's trying her best, but\nthere's something\nmissing from her running...",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "Just like the other trainer says, Smart\nFalcon seems to be struggling\non the\ntrack.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... huff... huff... Sigh...</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Out of the race's twelve contestants, Smart\nFalcon finishes in tenth\nplace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although her placement is less than ideal,\nthe power in her running\nform drew my\nattention. It's not that she's missing\nsomething from her\nrunning, but rather...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, there you are! Aaah, I probably\nlooked super lame back there...\nSorry\nabout that.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But hey, I heard that people like cheering\non the underdog! You\nknow, since it's nice\nto see them grow!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I suppose..."
+            ]
+        },
+        {
+            "text": "I'm beginning to suspect that it isn't a\nmatter of growth, but\ncompatibility. Given\nher style of running, a dirt course might\nsuit her\nbetter...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I'm no good, huh?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "text": "To tell you the truth, it wasn't just today. I\nmessed up all my other\ntryouts too. I don't\nhave anything to show for myself, so\nnobody wants\nto scout me...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I know I don't have a lot going for me, but\nstill... I want to become the\nbest Umadol\never!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's my dream to win races and perform\nwinning concerts on the\nbiggest stages!\nBut I can't do that on my own...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's why... I need you! I need your help\nto reach my goal!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Please, help me! Even a single training\nsession would mean the world\nto me!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Her words are earnest, and I can see that\nshe wants nothing more than\nto achieve\nher dreams. Naturally, as a trainer, I want\nto lend her a\nhand.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...Okay!"
+            ]
+        },
+        {
+            "text": "Huh? Really?! Like, for real?! <i>Phew...</i> I'm so\nglad I asked you!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I can't wait to start training with you! Bring\nit on! Whatever it is, I'll do\nit. No holding\nback, okay?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "For now, I decide to set aside the question\nof whether or not I'll\nbecome Smart\nFalcon's trainer and focus on preparing her\nfor the next\nround of tryouts.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nrgh! Nnnngh! Hrnng! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Wow, look at her doing those leg curls!\nThose weights look <i>super</i>\nheavy! Her\nsmile's kinda creeping me out though...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Okay! I'm ready to run! ☆ Hiyayayayaaah!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I don't see any issues with her weight\nlifting or incline running. If\nanything, she\nseems stronger than the average runner.\nYet...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... huff... huff...</i> H-how's my time?!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Could use some improvement."
+            ]
+        },
+        {
+            "text": "<i>Siiigh...</i> Oof... I'm not getting any better...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Whenever she races on a turf course, her\nresults are always lackluster.\nMy hunch\nseems to be right that it's a compatibility\nissue.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Hey..."
+            ]
+        },
+        {
+            "text": "Ahhhh! Suzuka! Over here!",
+            "name": "Group of Umamusume"
+        },
+        {
+            "text": "Um... Excuse me, but I have to train for\ntomorrow's race.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Surrounded by the cheers of excited\nUmamusume, Сайленс Судзука\nlooks\nsomewhat troubled. Already having made\nher debut, she's been\nputting on an\nimpressive display across many races.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, you guys! ☆ I get that you all are\nhuge fans of hers, but you\ngotta give her\nsome space!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "(How'd she get there so fast?!)"
+            ]
+        },
+        {
+            "text": "Suzuka's getting ready to train so she can\nshine during her next race!\nTrue fans\nshould be patient and wait to watch her\nthen, don't you\nthink?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "She's right...\nSorry for bothering you!",
+            "name": "Group of Umamusume"
+        },
+        {
+            "text": "Thank you, Falcon... I wasn't sure what to\ndo there...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Just call me Falco! ☆ If you're ever in that\nkinda situation again, just\nmake yourself\nclear! They'll listen, I promise! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But I'm sure you know that better than I\ndo...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "(...?)"
+            ]
+        },
+        {
+            "text": "Anyway, you've got practice, right? Good\nluck! ☆ I'll be cheering for\nyou too! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "So... could you explain why we're here at\nthe dirt course?!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I just want to time your running here as well."
+            ]
+        },
+        {
+            "text": "I believe a course that requires power—in\nother words, a dirt\ncourse—might better\nsuit Смарт Фалкон. I tell her how I'd like to\n\nconfirm my suspicions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hrmmm... Got it! But... don't expect too\nmuch from me, okay?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hiyayayayaya!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "(That speed... She's incredible!)"
+            ]
+        },
+        {
+            "text": "I was right. Her time on the dirt course is\nleaps and bounds better.\nShe's met—no,\n<i>exceeded</i> my expectations.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant... pant...</i>",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "That was your best time yet!"
+            ]
+        },
+        {
+            "text": "Everything's falling into place. I now know\nfor certain that running on\na dirt course,\nwhich requires more strength than agility,\nbrings out her\ntrue potential.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But with that, a new question arises. Why\nhaven't her teachers picked\nup on\nsomething as elementary as this and told\nher about it?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You should be running in dirt races."
+            ]
+        },
+        {
+            "text": "Hrk... I thought you'd say that.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But... no! I can't! I can't run on dirt!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "I have to win on turf or this is all pointless!\nI don't have any other\nchoice!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "A-anyway, I have dance practice now, so\nlet's call it here! Thank you\nfor today!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Ah..."
+            ]
+        },
+        {
+            "text": "As I watch Смарт Фалкон dash across the\ndirt at an incredible speed, I\nbegin to\nwonder why she insists on running in turf\nraces. Her reasoning\ncould be a hint to\nhelping her grow.",
+            "name": "Монолог"
+        }
+    ]
+}

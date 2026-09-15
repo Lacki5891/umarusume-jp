@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the final G1 race of spring—the\nTakarazuka\nKinen! Which one of these\nfine competitors will\ncross the finish line\nfirst?",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Each and every one of these\nUmamusume carry\nthe hopes of their\nfans on their shoulders... and\nhere they\ncome to the paddock!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "The venue for the Takarazuka Kinen is\nthe\nHanshin Racecourse, as scheduled.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We have a final meeting in the waiting\nroom to\nwrap up some loose ends before\nthe race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, let's go over some things. Were\nyou able to\nget data on the other\nrunners, Тренер?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You know it!"
+            ]
+        },
+        {
+            "text": "Excellent. Let's look over them while\nwe—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "text": "No, not at all. This is... amazing.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You even have data on their training\nmethods\nhere. Looking at this, it seems\nlike it will be an\nintense race.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hm, the runner-up of the pre-race\nfavorite poll\nwill likely pull away at the\nthird turn, so I should\nbe ready by the\nsecond turn. And...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The data I collected prove helpful, and\nwe have a\nvery productive meeting\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Step, step, stЭпизод..</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "And here comes Бива Хаяхидэ!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Give it up for the grand winner of our\npre-race\nfavorite poll!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "That's right! And I'm about to prove to\neveryone\nwho voted for me that they\npicked the winning\nracer!",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

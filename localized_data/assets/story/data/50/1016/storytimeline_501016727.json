@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...Hey. Don't you think you've won\nenough\nalready?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You wanted me to give it my best."
+            ]
+        },
+        {
+            "text": "Hmph, well there's no questioning your\nskills. So\nthat's how you judge timing,\nhuh?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Anyway, what are we going to do with\nall these?\nMaybe we can give them to\nthe student council?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But then I'd have to carry them over\nthere and\nwalk into the student council\noffice with an armful\nof plushies...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I think they'll be all smiles."
+            ]
+        },
+        {
+            "text": "...You think this is funny, don't you?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

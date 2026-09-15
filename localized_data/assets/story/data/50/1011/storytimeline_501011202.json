@@ -1,0 +1,96 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "There. My preparations are complete.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Trainer... Do you have any concerns?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I was just thinking how you have so many rivals."
+            ]
+        },
+        {
+            "text": "Yes, that's true. Every one of them\npossesses\ngreat speed and strength.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I will push past all of them. That's all\nthere is to it.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "If I don't... defeating the Beast will\nforever be out\nof reach.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's almost time. I must be on my way.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ngh... I'm so nervous...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Are you all right, Spe? Try taking a few\ndeep\nbreaths.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I-I'll try! <i>Inhale... Inhaaale!</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That's right, Spe. Now let it out, slowly.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yeesh, with all these big names around, I\ndoubt\nthere'll be much chance for me to\nshine.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "So yeah, I'm just gonna coast on\nthrough. Don't\nmind me.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Oh? Really?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But alas... As much as I'd love to grant\nthat\nrequest...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm not sure I can ignore someone whose\neyes are\nscreaming, \"I'm gonna win.\"",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...Oops. Shoulda worn my shades.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Grass! Today, let's have the ultimate\nrace!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "We gotta show our fans the race they've\nbeen\ndyin' to see!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I can already see my victory\ncelebration...\nPassion! Applause! The\ncrowd goes wiiiiild!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Are you sure that's how it will turn out?\nHehehe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The Japanese Derby is here at last!",
+            "name": "Монолог"
+        }
+    ]
+}

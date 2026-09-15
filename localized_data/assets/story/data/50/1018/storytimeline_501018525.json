@@ -1,0 +1,163 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I spot Эйр Грув talking to\nboth dorm\nleaders in the cafeteria.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Unfortunately, it isn't realistic for us to\nbe buying\nluxury goods.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But many of the academy students come\nfrom\nwealthy families... What can we do\nto satisfy them\nwithout breaking the\nbank?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Grah, we're not gettin' anywhere! You're\nall\nwastin' way too much time sweatin'\nthe small stuff!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All you gotta do is wash your tail, blow\ndry it, and\nyou're done! It's that simple!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Improper tail care can harm a racer's\n\nperformance. We cannot afford to\nscrimp on such\nvital products.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Are you talking about tail-care products?"
+            ]
+        },
+        {
+            "text": "Eavesdropping, were you?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ah, Trainer. Apologies for keeping Air\nGroove\nfrom you, but we wanted her\nopinion on this\nmatter as the student\ncouncil vice president, you\nsee.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "To fill you in, we've been receiving\nrequests from\nour residents for a greater\nvariety of tail-care\nproducts.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "An Umamusume's tail forms an important\npart of\nher physique. It affects the\nbody's overall\nbalance.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In extreme cases, poor tail care can even\nimpair\nthe movement of the legs.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's especially important for Umamusume\nwho\nrace.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "For this reason, many students bring in\ntheir own\nproducts. However, not\neveryone can afford such\nluxuries.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yeah, I get that we gotta make sure no\nstudent\ngets left behind, no matter their\ncircumstances...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But c'mon! There's <i>way</i> too many to\nchoose from!\nWe can't please everyone!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I'll try and think of something too.",
+                "Wow... What a conundrum."
+            ]
+        },
+        {
+            "text": "But c'mon! There's <i>way</i> too many to\nchoose from!\nWe can't please everyone!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I'll try and think of something too.",
+                "Wow... What a conundrum."
+            ]
+        },
+        {
+            "text": "Am I hearing things? You may not have\nnoticed,\nbut you don't have a tail.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hold on! Input from someone without a\ntail could\nbe just the new perspective we\nneed!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You raise a fair point. I suppose it's true\nthat\ntrainers are well-versed in\nUmamusume affairs.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well. I'll allow it. First, I'll run you\nthrough\nthe opinions we've heard so far.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "With Эйр Грув's approval, I join the\ndiscussion,\ncontributing my own\nthoughts as a trainer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for your help back there in\nthe\ncafeteria. I think we have a better\nidea of what\nnew products to bring in\nnow.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Glad to hear it!"
+            ]
+        },
+        {
+            "text": "Still, it's a little strange to think about.\nHaving a\ntail is so normal for us, yet for\nyou, it's something\nyou've never known.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hmm, I wonder what it'd be like if you\ndid have a\ntail...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "For one, I imagine I'd give you a strict\ntalking-to\nevery morning about proper\ntail care.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We have our own unique problems, and\nyou have\nyours. I suppose there's no\nharm in that.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh, I forgot to ask! What do you use, Air\n\nGroove?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Me? I generally use...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Bar soap.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wha... Seriously?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ahahahahaha! Soap! <i>Bar</i> soap at that!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You, the kinda gal who looks like she'd\nonly use\nhigh-end conditioners! Using\n<i>bar soap!</i> Ahahah!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What are you laughing at?! There's\nnothing funny\nabout using\nnaturally-sourced soap!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Umamusume have to deal with a lot\nmore than I\nhad initially thought. I\npromise myself to do all\nthat I can to\nsupport them.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув smiles ever so slightly as she\nshares\nher words of affection.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I imagine Эйр Грув will be using her\nfavorite bar\nof soap later today in order\nto maintain her tail's\nluster.",
+            "name": "Монолог"
+        }
+    ]
+}

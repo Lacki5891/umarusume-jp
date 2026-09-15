@@ -1,0 +1,254 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On our way home after some errands,\nГолд Шип\ngestures to me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, it's this park! This is where we\nbumped into\nthe princess, remember?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Oh yeah, I remember her."
+            ]
+        },
+        {
+            "text": "Man, that day was so fun! It was the\ntotal\npackage: a tale of love, war, and\ntears!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It sure was a shocker though—hearing\nthat she\ncame from the future to save\nour planet from\nthose green beasties.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Is it just me, or did you change her backstory?"
+            ]
+        },
+        {
+            "text": "Hm?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What are those kids doin' stuck together\nlike a\nflock of sheep?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And hold up... Isn't that the princess in\nthe\nmiddle?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Have you heard the stuff this weirdo's\nalways\nmuttering to herself?",
+            "name": "Boy A"
+        },
+        {
+            "text": "Oh yeah! The other day, I saw her\ndrawing a\nbunch of stuff in the sandbox\nand saying she was\n\"doing magic\"!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "That's sooo weird. Aren't you a little old\nto be\nplaying pretend?",
+            "name": "Girl B"
+        },
+        {
+            "text": "Wh-what do you care, anyway?!",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "She seems to be in a tough spot.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, geez... I swear, kids can be so mean.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Are you going to tell them off?"
+            ]
+        },
+        {
+            "text": "Huh? You mean like march over there\nand tell\nthem to knock it off? That'll just\nmake them act\neven worse.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Anyone sticking their nose in someone\nelse's\nbeeswax like that is just bored,\nguaranteed.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And there's only one way to kick\nboredom in the\nbutt!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Watch and learn!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "One, two...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Suddenly, Голд Шипп leaps up, arcs\nthrough the\nsky, and sticks the landing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "THREEEEE!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ack! What was that?!",
+            "name": "Boy A"
+        },
+        {
+            "text": "Who're you?! An Umamusume?!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "...!",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "Heh... It's been 700 million years since\nwe last\nmet...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I've been hunting you down since the\nSturtian ice\nage, and now you're finally\nwithin my grasp!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Prepare yourself! We end this once and\nfor all,\nhere and now!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп gives me a look, indicating\nthat it's my\nturn to speak. I clear my\nthroat and take up my\nrole.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Bwahaha! I'll devour you all!",
+                "Heh, once I escape to the future, you'll never\ncatch me!"
+            ]
+        },
+        {
+            "text": "Ngh... Hey, brats! What're you standing\naround\nfor?! Run and hide or something!\nGet the heck\noutta here!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Umm? What are you people talking\nabout?",
+            "name": "Children"
+        },
+        {
+            "text": "Oh, for cryin' out loud! Do you <i>want</i> to\nget eaten\nfor dinner?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Look, in like three seconds, this baddie's\nhead is\ngonna pop open and another\nmouth is gonna\nslither out to swallow\nyou whole!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You really gonna stand there to see it\nhappen?\nHere it comes in three! Two!\nOne!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Uh?! R-run awaaay!",
+            "name": "Children"
+        },
+        {
+            "text": "The kids get totally absorbed in Gold\nShip's\nimprovised story and have a blast\nrunning around\nuntil they're exhausted.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> Today... was actually kinda\nfun...",
+            "name": "Boy A"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> Yeah! I haven't run around\nlike that\nin forever!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "Bwahaha! Did you have a good time,\nkiddos?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Look, if the world ever gets too boring\nfor you,\nit's up to you to spice things up!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...!",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "Wait, that was pretty profound, wasn't\nit? Think\nI'll get nominated for a super\nspecial URA\ncommendation for that?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "All right, Trainer! I'm ready for my\nreward! I won't\nask for much, but special\npermission to live on\nMars would be a\ngood start!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I won't let you get away this time! All\nright, then...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, brats! Follow me into the forest!\nThat's\nwhere the baddie's time machine\nis stashed!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Forest? Are you seriously calling the\novergrown\nbushes over there a forest?",
+            "name": "Boy A"
+        },
+        {
+            "text": "Forget that, time machines aren't even\nreal!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "Man, you kids really don't know the\nright way to\nplay in a forest, do you?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Heck, I bet you don't even know how to\nenjoy a\nnice hike in the woods!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Good thing you've got me to teach you\nhow to be\none with nature! Now shush\nand follow me!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Whoa! Look under that tree! Do you see\nthe time\nmachine part buried over there?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Pffft, don't be ridiculous. There's no way\nanything\nis under there.",
+            "name": "Девочка А"
+        },
+        {
+            "text": "Hm? Wait, hang on a second! There\nreally <i>is</i>\nsomething! See?",
+            "name": "Boy A"
+        },
+        {
+            "text": "Ewww! This box smells disgusting!",
+            "name": "Girl B"
+        },
+        {
+            "text": "Whoopsies, my bad. That's the yakisoba\nsammy I\nburied when I was trying to\ngrow a sandwich tree.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yuck! Why's it that color?!",
+            "name": "Children"
+        },
+        {
+            "text": "Hey, no need to get all worked up about\nit. We'll\nfind the treasure buried in these\nwoods for sure!\nThe pirate treasure, that\nis!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Weren't we looking for a time machine?!",
+            "name": "Children"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Mysterious Girl"
+        },
+        {
+            "text": "After that, the kids follow Голд Шип's\n\n(questionable) lead on a grand treasure\nhunt in\nthe woods.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The sun sets on our eventful day with\nГолд Шип's\ngiddy bursts of laughter\nechoing through the air.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I spot Хиши Амадзон and Фудзи Кисэки\nspending their\nlunch break at the\ncafeteria, so I head over to\njoin them."
+        },
+        {
+            "text": "My, my, aren't you a hearty eater. Isn't\nthat your\nfourth slice of cake?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I've gotta fill up 'cause I can't afford to\nfail my\nmake-up exam!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Let me know if you need more. I could\nfetch you\nanother slice or three!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What does cake have to do with your make-up\nexam?"
+            ]
+        },
+        {
+            "text": "Hey, Teach! Glad you asked!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Sugar gets your mind racing, right? With\nthis\nmuch energy, I'm bound to pass the\ntest!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "But won't things backfire if you eat too much?",
+                "Yeah! Chow down and ace that test!"
+            ]
+        },
+        {
+            "text": "Sugar gets your mind racing, right? With\nthis\nmuch energy, I'm bound to pass the\ntest!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "But won't things backfire if you eat too much?",
+                "Yeah! Chow down and ace that test!"
+            ]
+        },
+        {
+            "text": "I dunno, but sweets are like fuel for your\nbrain,\nright?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The way I see it, more power means\nmore\nthinking. Right, Fuji?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I agree—the more fuel, the better.\nAlthough I\nsuppose eating too much\nmight send you into a\nfood coma.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Fuji... You're just egging me on for\ngiggles, aren't\nyou?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Of course not! I believe you capable of\nsurpassing\nany tribulations that may\ncome your way, be it\ndrowsiness or a\nmake-up exam!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Either way, moderation is your best bet."
+            ]
+        },
+        {
+            "text": "Hmm... You'd be the one to know,\nTeach, so I'll\nlay off the cake for now.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Well! You sure trust your trainer's\njudgment a lot.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Yeah, trust comes naturally when we're\nworkin' as\na team.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Here, you can have this last slice, Teach!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Yeah, I've got this! History,\nmath—they're all\ngoing down!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's the spirit! I'll go get more cake for\nyou.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Actually, you know what? I'll just grab\nan entire\ncake! ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Bring it on! I'll stuff myself full and make\nquick\nwork of my exam!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон crams her notes while\nscarfing down\nthe cake, then heads off\nto face her exam..."
+        },
+        {
+            "text": "Having properly moderated her sugar\nintake,\nHishi Amazon goes off to\nconquer her make-up\nexam with gusto."
+        }
+    ]
+}

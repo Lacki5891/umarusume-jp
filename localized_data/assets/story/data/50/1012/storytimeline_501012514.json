@@ -1,0 +1,197 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At the training track, Хиши Амадзон tries\nout her\nsignature racewear to see how\nwell it fits."
+        },
+        {
+            "text": "Nice!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It fits like a glove! No complaints over\nhere,\nTeach.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I'm glad to hear it."
+            ]
+        },
+        {
+            "text": "I ask her if she came up with the design\nall by\nherself."
+        },
+        {
+            "text": "Yeah, but...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Well, there's kind of a backstory to how\nmy\nracewear ended up lookin' like this.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I want it to look like one of those\n\nsailor-esque school uniforms!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Sure, we can base it off a sailor uniform.\nDo you\nhave any additional requests for\nthe design?",
+            "name": "Racewear Designer"
+        },
+        {
+            "text": "I'll let you handle it! I'm pretty sure\nyou've got a\ngood idea of what I want!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "(Yeah! I remember watchin' an action\nmovie on a\nflight to Japan when I was a\nkid...)",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "(The main character of <i>Gangster Girl\nFighter</i> wore\nthis awesome, black school\nuniform with a long\nskirt. That outfit'd\nbe perfect for me!)",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Understood. I'll make sure to turn your\nvision into\na reality.",
+            "name": "Racewear Designer"
+        },
+        {
+            "text": "Heh, looks like it's ready to go. Let's see\nhow it—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What?! This looks nothing like what\ngangster girls\nwear! It looks more like...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So yeah. Instead of getting an edgy\nsailor-type\nschool uniform, I got an\nactual <i>sailor</i> uniform.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm happy all the same, but lookin' back\non it, I\nprobably should've been more\nspecific about\nwhat I wanted.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I'm glad you still like it."
+            ]
+        },
+        {
+            "text": "Yeah! With this on, I'll take on anyone in\na race—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh man, I nearly forgot!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "I've been trying to think of a pose that'll\nmatch\nmy signature racewear!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I've gotta give it everything I've got\nduring\nwinning concerts too, after all.\nAnd it'd be better\nto have a pose for this\noutfit, don'tcha think?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "It would!"
+            ]
+        },
+        {
+            "text": "Great, let's work on it together. Come\nwith me,\nTeach!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон leads me to the outdoor\nstage\nwhere we start an impromptu\nperformance\npractice session."
+        },
+        {
+            "text": "All right! Time to go all out and put a\nbuncha\nposes to the test!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Quick, throw me an idea, Teach! What\ndo you\nthink would look good?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Give a sailor's salute.",
+                "Squat menacingly like a gangster girl."
+            ]
+        },
+        {
+            "text": "Oh, that'd definitely fit the theme of my\n\nracewear.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ahoy there! How's this?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Very cool!"
+            ]
+        },
+        {
+            "text": "Haha, good! Looks like we've got a\nwinner\nalready. ♪",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right! Let me try acting like a full-on\nsailor\nnow!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "You've gotta act the part if you wanna\nplay the\npart, right?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm good at this charades thing—I play it\nwith kids\nall the time! Let me give you a\nlittle taster!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Aircraft carrier JS Teach spotted at two\no'clock!\nMobilize forces, it's time for a\none-on-one battle!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Wait, I'm the enemy?!"
+            ]
+        },
+        {
+            "text": "So you're suggestin' I pose as if I really\nwere\nwearin' a long, black gangster\nuniform instead?\nOkay, then... how\nabout this?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Yeah, this feels good. I've got the squat\ndown, so\nnow I've gotta put on a real\nscary glare, and...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hey! What're you lookin' at? You lookin'\nfor a\nfight or something?! Haha, it'd be\nfunny if I said\nsomething like that too.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Mew...",
+            "name": "Kitten"
+        },
+        {
+            "text": "...Hm?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What's this kitten rubbing all up on me\nfor? Did it\nlose its way or somethin'?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Aren't you scared of this terrifyin' pose\nI'm pulling\noff?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Meeeow. ♪",
+            "name": "Kitten"
+        },
+        {
+            "text": "Tch, you don't know the meaning of\nfear, do you?\nBold of you to be cozyin'\nup to someone who can\nsilence crying\nchildren with a glare!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Well, whatever. Come on, kitty cat! I'll\ncook you\nup a treat if your tummy's\nrumblin'!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And so, Хиши Амадзон goes off to look\nafter the\nkitten."
+        },
+        {
+            "text": "Хиши Амадзон's passionate search for a\nnew pose\ndevolves into a game of\nbattleships."
+        }
+    ]
+}

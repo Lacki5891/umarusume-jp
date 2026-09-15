@@ -1,0 +1,264 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "All right! Time for a one-on-one with the\nsea! Catch ya later, Teach!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "With summer camp in full swing, Hishi\nAmazon wastes no time in\ndiving into the\nsparkling blue waters. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hours later, she still hasn't returned. The\nsky begins to turn bright red\nin the glow of\nthe setting sun, when finally...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, puff...</i>\nI'm back, Teach! It took a\nwhile, but I did it!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I was getting worried. What happened?"
+            ]
+        },
+        {
+            "text": "I got caught in the outgoing tide while I\nwas swimming, and it swept\nme out to sea.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I could've easily swum back by moving out\nof the current, but this was\na challenge\nfrom the ocean to me, y'know?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So I faced it head-on! I swam against the\ncurrent and made it all the\nway back by\nsheer grit! Hah, rip currents ain't got\nnothin' on me!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The phrase, \"Don't try this at home, folks,\"\nunwittingly pops into my\nmind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Anyway, I worked up another good sweat\ntoday. Let's get going,\nTeach.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Just as we're about to leave the beach...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm, what a pickle. We're really getting\ndown to the wire here. I've\ngot to figure\nsomething out...",
+            "name": "Local Resident"
+        },
+        {
+            "text": "Huh, sounds like that guy's in a jam. Must\nbe one of the locals.\nHey, you there.\nSomething wrong?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ah... Well, you see, we're supposed to be\nholding a karaoke contest\nat the summer\nfestival this evening.",
+            "name": "Local Resident"
+        },
+        {
+            "text": "But as it stands now, we simply don't have\nenough participants. I\nguess everyone's\ntoo embarrassed to do karaoke out in the\nopen...",
+            "name": "Local Resident"
+        },
+        {
+            "text": "Ooh, yeah, that sounds like trouble. And I\ncan't ignore a person in\ntrouble. But as\nmuch as I'd like to help...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's probably no point trying to invite\npeople if they're all too shy\nto begin with.\n\nYou got any bright ideas, Teach?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "How about asking the other camp members?"
+            ]
+        },
+        {
+            "text": "Oh, nice one! There'll be plenty of\ncompetition if we all join in\ntogether. I get\nit!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That was some quick thinking, Teach. An\nUmamusume karaoke\ncontest! Just the\nidea is gettin' me all fired up!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Thank you all for cheering me on!",
+            "name": "Entry No. 6"
+        },
+        {
+            "text": "The karaoke contest comes alive with the\npassionate singing and\ndancing of the\nUmamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Not too shabby. Well, just keep the stage\nwarm for me. <i>I'm</i> gonna be\nthe one to take\nthe crown.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You seem confident."
+            ]
+        },
+        {
+            "text": "Course I do. After all, I've got these\npowerful pipes that <i>you</i> helped\nme\nperfect!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "On an outdoor stage, the sky's my only\nlimit. Who could possibly take\nme down?\nAs long as nobody busts out with some\nsecret weapon...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hello, I'm entry number seven! I'll be\nperforming a duet with Kenta, a\nstudent at\nthe local junior high. Hope you enjoy this\nspecial\ncollaboration!",
+            "name": "Entry No. 7"
+        },
+        {
+            "text": "Ooh!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Wh-what? A duet?! Didn't see that one\ncoming...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And the audience is just eatin' it up! You\ngotta be kidding me...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Thank you, thank you! Let's see what we\nscored...",
+            "name": "Entry No. 7"
+        },
+        {
+            "text": "Yay! Ninety-eight points!",
+            "name": "Entry No. 7"
+        },
+        {
+            "text": "Ninety-<i>eight?!</i> Th-th-that's crazy. There's\nno way I can top a duet with\na local if I just\nstick to my usual routine.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So what now? This ain't just about skill\nanymore. I gotta come up with\na game\nplan...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Actually, wait. I'm the absolute worst at\nhashin' out strats...\nAnything pop into your\nmind, Teach?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You know what they say—an eye for an eye!"
+            ]
+        },
+        {
+            "text": "Whaddya mean? An eye for an eye? So,\nlike, a tooth for a tooth... A\nduet for a\nduet...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, so that's what you're gettin' at! If I sing\na duet too, then that\nlevels the playing\nfield. Now I just gotta find the right\npartner!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Maybe a fellow dormmate?"
+            ]
+        },
+        {
+            "text": "Yeah, it'd make sense to team up with\nanother Umamusume since\nconcerts are\nkinda our thing...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But I'm gonna mix things up and go with\nmy gut! My duet partner is\ngonna be...\nyou, Teach!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Me?!"
+            ]
+        },
+        {
+            "text": "That's right. I mean, sure, us Umas sing all\nthe time, so we might have\na slight edge...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But you're pairing up with <i>me</i> here! We\nhave something special\nbetween us that\ngoes beyond comprehension.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Come on, remember our cook-off? The\ntwo of us went pedal to the\nmetal making\ntotally different kinds of grub.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's the feeling I'm gunning for. We were\ndishing it out left and\nright, but it was like\nwe were still a team. That kind of feeling.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I want a one-on-one—in duet form! Where\nwe can tussle and tangle in\nsong and <i>really</i>\nheat things up!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You're the only one who could possibly\nkeep up with me. So whaddya\nsay? Let's\nsing my song—together!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "...Okay, I'm in!"
+            ]
+        },
+        {
+            "text": "Haha, I knew you'd come around! With you\non board, this contest's as\ngood as won!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Let's go, partner!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ladies and gents—it's time for the main\nevent! A tag-team\nperformance is great\nand all, but how 'bout a sizzling hot\nsession for\nthat whole summer vibe?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Here comes a special duel—er, <i>duet</i>—from\nol' Teach here and yours\ntruly! Play that\nmusic loud and proud!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "A toast to our epic win—cheers! Haha, I\nhad no idea you could sing\nlike that,\nTeach!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We fought tooth and nail, and stole that\nsweet summer spotlight!\nGuess our burning\npassion gave us the edge.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "And the power of teamwork."
+            ]
+        },
+        {
+            "text": "Heh. Please, what're you on about? Keep\nspouting crap like that, and\nI'll put ya in a\nheadlock.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "In the end, we couldn't match each\nother—just like always. So we\nboth started\ndoing our own thing, and it turned out\ngreat.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's the path we finally found. One that\nbelongs to us, and us\nalone.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So don't pull your punches, Teach. Keep\ncomin' at me. We'll keep\nserving up those\none-on-ones—together!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We'll lock horns, duke it out, and then\nlaugh when we win after\ncharging in guns\nblazing. So whaddya say? Want a piece of\nthat\naction?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "As many pieces as I can get."
+            ]
+        },
+        {
+            "text": "Teach...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wait, what's with that wording? I think\nmaybe you're getting a little\n<i>too</i> into this.\nBut, well...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Heh. All right—it's a promise! This victory\nis only the beginning!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I won't lose to you, so don't you dare lose\nto me! We're gonna keep\nthis one-on-one\nrollin'! I'll be running at full speed—just try\nto leave\nme in the dust!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Rather than lining up neatly, our footprints\ncontinue to intertwine like\nthey're\ncompeting. Maybe this is what a\nthree-legged race really\nlooks like?",
+            "name": "Монолог"
+        }
+    ]
+}

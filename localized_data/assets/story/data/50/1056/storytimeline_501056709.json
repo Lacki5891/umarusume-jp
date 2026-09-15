@@ -1,0 +1,65 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Gah! I thought this one was in the bag!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That's what you're thinking, right?! But\ndon't you\nfret! I have luck on my side!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "When I saw my time in today's race, my\nlucky\nnumber happened to be there!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Which means I'm definitely going to win\nnext\ntime... In fact, consider it already\nwon!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "That's the spirit!",
+                "Make sure you still give your best at practice."
+            ]
+        },
+        {
+            "text": "Which means I'm definitely going to win\nnext\ntime... In fact, consider it already\nwon!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "That's the spirit!",
+                "Make sure you still give your best at practice."
+            ]
+        },
+        {
+            "text": "Yep! I <i>am</i> the lucky-musume after all!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'm riding on a treasure ship with the\nseven gods\nof fortune, so sit back and\nwatch the luck come\nrolling in!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ah, haha! But of course! I'll give it my all!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "As you can see, I take these things very\nseriously!\nSerious is my middle name!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wait, hold on a minute! Where did my\nleft cleat\ngo?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "No no no... That's my lucky cleat!\nWh-where'd it\ngo?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "More challenges are sure to lie ahead.\nWe resolve\nto work harder to bring more\nfortunate results in\nthe future.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Crash! Splash!</i> More and more treasures,\nriding\nthe waves my way!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

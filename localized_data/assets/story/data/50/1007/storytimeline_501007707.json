@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Голд Шипп and I are visiting a\nshrine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... And up! And down! And left!\nAnd right!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Wh-what are you doing?"
+            ]
+        },
+        {
+            "text": "Dancing, duh! Can't you tell?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Dancing's how we communicate with the\nspirits!\nIt's been that way since ancient\ntimes!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'm practically an oracle, so if I dance,\nthe\nspirits'll probably get their boogie\non too!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So here I am, dancing away! One and\ntwo and\nthree and four and—",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What's that you say, spirits? \"Sleep lots,\neat\nlots\"?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh, I'm an expert at that! No time like\nthe present\nto put that advice into\npractice!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "After all, who am I to disobey the\nspirits?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Whaaat?! \"Listen to your trainer,\" you\nsay?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Well, you heard the spirits."
+            ]
+        },
+        {
+            "text": "Oh, no, no, no! <i>The</i> Golshi doesn't take\norders\nfrom anybody!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That includes all-powerful spirits! Fare\nthee well!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "TO FREEEDOOOOOM!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп follows the spirits' advice to a\ntee, and\nher condition improves quite a\nbit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe it's because she ignored what the\nspirits\nsaid, but Голд Шип's condition\ndoesn't improve\nat all...",
+            "name": "Монолог"
+        }
+    ]
+}

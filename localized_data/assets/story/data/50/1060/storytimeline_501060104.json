@@ -1,0 +1,193 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, в тренировке camp...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, do you have a minute?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Nothing, just... Can I borrow you for a\nsecond?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay, no one is around...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Is there something you want to talk to me\nabout?"
+            ]
+        },
+        {
+            "text": "Um, it's not a big deal, but about our\ntraining...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Tell it to me straight. What do you think\nis\nlacking in my performance?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Don't say \"everything,\" though. That'd\njust make\nme sad.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I want to do some extra training, but\nfirst, I need\nyour expert opinion. So lay\nit on me.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sure, but why all of a sudden?"
+            ]
+        },
+        {
+            "text": "See, I'm behind all the others when it\ncomes to\ntraining and race experience.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But... I'm competing with <i>Teio</i> here,\naren't I?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I know it's going to be super, <i>super</i> hard\ngoing up\nagainst her.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So I want to be as ready as I can be.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Although still anxious about her\nprospects, it's\nclear Найс Нэйчер is\nmotivated. If that's the case,\nwhat I can\nsay to her is...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You should work on your core at the beach.",
+                "Let's do some mental training."
+            ]
+        },
+        {
+            "text": "Huh... And what exactly do you mean?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I suggest that she train on the sand to\nstrengthen\nher core, which can lead to\nmore stability during\nraces.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's true. A strong core is important.\nOkay, I'll\ndo it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, then I'm off to train. See ya\nla—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But I'm not allowing any training by yourself."
+            ]
+        },
+        {
+            "text": "What? Why? You just gave me advice\nfor it.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'll only allow it if I'm there with you."
+            ]
+        },
+        {
+            "text": "Huh? Wait... You want to join me for\nextra\ntraining?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Aw man, are you sure? Sorry... I'm sure\nyou have\nother things you need to do.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nothing is more important than supporting you."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "M-mental training? What do you mean\nby that\nexactly?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I suggest that she add time limits to her\nexercises\nto be more prepared for the\npressure during\nraces.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, I get it now. I'm glad it wasn't some\nextreme\nmethod.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Okay, now that I got the gist of it, I'll\nget starte—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But I'm not allowing any training by yourself."
+            ]
+        },
+        {
+            "text": "What? Why? You just gave me advice\nfor it.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'll only allow it if I'm there with you."
+            ]
+        },
+        {
+            "text": "Huh? Wait... You want to join me for\nextra\ntraining?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Aw man, are you sure? Sorry... I'm sure\nyou have\nother things you need to do.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nothing is more important than supporting you."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You really don't hesitate saying cheesy\nthings like\nthat...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You really don't hesitate saying cheesy\nthings like\nthat...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right! Let's get back to training.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Anyway, sorry to bother you. You can go\nback\nnow if you want.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Why did we have to come all the way over\nhere?"
+            ]
+        },
+        {
+            "text": "Um, well, you know... I just figured this\nisn't\nsomething other people should\nhear.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I wanted to ask you about your top\nsecret\ntraining routine, which I'm sure\nyou don't want\ngetting out.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Plus, I definitely don't want others to\nknow that\nI'm doing this to compete with\nTeio.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It seems Найс Нэйчер still isn't confident\nenough\nto openly compete with such a\nstrong racer.",
+            "name": "Монолог"
+        }
+    ]
+}

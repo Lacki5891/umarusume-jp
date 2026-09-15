@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Raaaagh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "After her day off, Уиннинг Тикит storms\ninto my\noffice with immense fervor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Traineeeerrrr! Goooood morning!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You're really energetic today!"
+            ]
+        },
+        {
+            "text": "Right? I know! Yesterday I ate lots and\nslept even\nmore!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So now I'm totally powered up—FULL\nBLAST!\nLike, I'm in super-duper top\ncondition!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Come on, time to start already! I can do\na million\nlaps! Let's gooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket is brimming with power and spirit\nafter\nthoroughly enjoying her day off.",
+            "name": "Монолог"
+        }
+    ]
+}

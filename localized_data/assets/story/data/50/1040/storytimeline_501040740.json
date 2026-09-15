@@ -1,0 +1,66 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Aaaagh! I can't believe I lost!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I let them catch me and couldn't fight\nback. The\ngap just got wider and wider...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "That's right, let it all out!",
+                "Next time, you'll leave them behind."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "This is seriously the worst! That last part\nkeeps\nplaying back in my head!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You look good right now, though."
+            ]
+        },
+        {
+            "text": "Huh? Are you making fun of me?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You look like someone eager for victory."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I don't want anyone passing me again!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll leave them all in the dust. No one\ngets in the\nway of my running!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Then you have to become a winner."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Someone's talking big. Are you really\nthat\nconfident?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Obviously! I'm not losing ever again!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Then you'd better take on half the\nresponsibility\ntoo. Go ahead and <i>make</i>\nme a winner!",
+            "name": "Голд Сити"
+        }
+    ]
+}

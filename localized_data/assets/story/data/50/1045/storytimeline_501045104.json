@@ -1,0 +1,298 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As Супер Крик struggles with her\nhealth, an\nunexpected savior comes to\nher rescue during\nsummer camp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hahaha! Looks like you're really\nstrugglin' there,\nCreek!",
+            "name": "???"
+        },
+        {
+            "text": "Well, I'm here to give ya a real\nchallenge! That's\nright, I—",
+            "name": "???",
+            "choice_data_list": [
+                "Oh, it's a local child!"
+            ]
+        },
+        {
+            "text": "No I am not! I'm Creek's best pal,\nТамамо Кросс!\nBut ya know, ya got\ngreat comedic timing!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Right! C'mon, Creek. Try and beat me at\na run\nalong the beach!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "<i>Huff... pant...</i> My... legs...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Runnin' on fumes, huh? But you know\nwhat ya\nneed at a time like this?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Drive! Ya got no get up and go 'cause\nyou're all\noutta motivation!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Whatcha gonna do with a feeble drive\nlike that?\nIf ya wanna spoil your trainer,\nthen dig deep!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "For Trainer... For Trainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Gahhh...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Eh? What's all this about?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...I thought this might happen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm, weird. I thought she just needed\nsome\ndrive.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "At this rate, you're never gonna beat me.",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "Got a moment, Creek?"
+            ]
+        },
+        {
+            "text": "<i>Huff... wheeze...</i> I'm sorry... I'm so, so\nsorry...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I want to do my best for you... but I just\ndon't\nhave the energy...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "If you can't do it on your own, why don't we run\nas a team?"
+            ]
+        },
+        {
+            "text": "Huh? As a team?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "What's that now? Are the two of ya\ngonna run a\nrelay?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Weird... I don't see how a trainer's gonna\nbe much\nhelp in an Umamusume race.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "But whatever. I'll give ya a li'l handicap\nthen. Ya\ncan have a head start!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Супер Крик should be the anchor leg,\nso I'll start\nwith an all-out sprint!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whaaa?! You're pretty fast! Not bad!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Since when were you this fit, Тренер?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "My own strength and stamina have\nincreased over\nthe time I've spent with\nSuper Creek—which\nmeans...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa, that'll do for your handicap. If\nyou're\ngonna push that hard, then I'm\ngonna get down to\nbusiness too!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Тамамо Кросс overtakes me in an\ninstant, but I\nstill keep running,\nsqueezing out every last ounce\nof\nenergy I have...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Come on, Trainer! Come to me!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Traaaaineeerrr!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Dazed and winded, I pass the baton to\nSuper\nCreek. At that moment...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just you wait, Tamtam!\nYAAAAAHHHHH!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Whoooa! The heck's up with Creek's\nenergy?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I can win. I'm going to win. I <i>will</i> win!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "With our powers combined, there's\nnothing we\ncan't do!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "By the time I recover, the sun has\nalready set.\nAnd the result?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aww, nuts. Ya beat me, straight up. I\nthought\nyour trainer would just slow ya\ndown for sure...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "The handicap gave you an advantage,\nand your\nenergy was wild, Creek. What\nthe heck\nhappened?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I don't know, but my chest didn't tighten\nup like it\nusually does, and it felt like my\nbody was moving\non its own...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "See, you should let <i>me</i> help <i>you</i> sometimes."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I explain to her that feeling obligated to\nshoulder\neverything on her own is the\ncause of her illness.",
+            "name": "Монолог"
+        },
+        {
+            "text": "When I tell her I want to help by having\nher rely\non me a little more...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohhh... So that's why...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "The idea that I have to work hard on\nyour behalf\nis what caused all this, huh?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I get it now. Guess that means ya were\ntoo\nfocused.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Sounds like Creek to a T. Props to you\nfor figurin'\nit out and helpin' her see.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "You've grown to be so capable, Trainer.\nI can't\nbelieve I didn't even realize that\nmyself...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You're such a good trainer, and I'm such\na bad\nUmamusume... <i>Sniffle...</i>",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Together, we'll become an unstoppable team."
+            ]
+        },
+        {
+            "text": "Of course! Ah, right... There's more I'd\nlike to talk\nto you about, Trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Tell me all about how strong you've\nbecome,\nokay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Mm-hmm, now that's what I like to see.\nHappy for\nya, Creek!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Trainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hey! Are ya even listenin'?! I'm not just\nsome\nbackground character in your\ndramatic scene,\ny'know!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Afterward, I put together a looser\nschedule for\nthe summer so that Super\nCreek can relax.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Several weeks later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, we've been having a blast every\nday. I\nespecially enjoyed feeding each\nother at the\nnight market! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I almost wish this summer camp would\nnever end...\nBut that's the lazy part of\nme talking.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "It's okay to feel that way."
+            ]
+        },
+        {
+            "text": "Thank you. You've given me the\nopportunity to\nreally relax.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It feels like my whole body is slowly\nrecovering...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "She has the same smile as when I first\nmet her. I've\nfinally been able to do\nsomething for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But our summer camp isn't over yet. How\ndo you\nwant to spend the rest of it?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Let's hold a sumo-wrestling tournament.",
+                "Let's go on a ghost hunt."
+            ]
+        },
+        {
+            "text": "A sumo wrestling tournament? You mean\non the\nbeach? Hehe, great idea! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I'm not going to lose! I'll squeeze\nyou tightly\nand roll you onto the ground!\nHehehe!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "A ghost hunt? I don't mind, but I have\npretty slow\nreactions.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Like, it takes me a while to realize\nwhenever a\nghost pops out at me.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Because of that, my screams are always a\nfew\nseconds late, so don't laugh at me,\nokay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "We take it easy for the rest of our time\ntogether.\nSuper Creek builds up her\npower while enjoying\nherself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Afterward, she reacts to all the scares\njust as she\ndescribed. But the more she\nhas fun, the more\ncourageous she\nbecomes.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Although it's time for her training\nsession, Biwa\nHayahide hasn't shown up,\nso I decide to search\nfor her."
+        },
+        {
+            "text": "Hey, Trainer! Perfect timing.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "text": "Hehehe... I'm so glad you asked.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There’s a salon that's holding a special\npromotion\nto help tame \"extremely\nvoluminous hair,\" so I\ntried it out!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I had five millimeters taken off, and it's\nreally\nhelped reduce wind resistance! I'm\nsure today's\ntraining will be—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Um, it's a bit late for that."
+            ]
+        },
+        {
+            "text": "Oh my goodness! When did it get so\nlate?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm sorry! I was so focused on short-term\n\nimprovement that I lost sight of my\n\nresponsibilities!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She seems genuinely sorry, so I tell her\nto take\nthe day off and come back\ntomorrow for training."
+        }
+    ]
+}

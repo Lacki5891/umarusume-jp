@@ -1,0 +1,213 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm eating lunch in the cafeteria, I catch sight of Mejiro McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ugh... this is nowhere near enough..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No, stay strong! You must stick to the plan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's still being too strict about what she eats. I wish I could be of\nsome help..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Not sure what Miss Prim-and-Proper over there's tryna prove. I just\nknow that all she can think about is wolfing down a bunch of those\ncakes she loves.",
+            "choice_data_list": [
+                "Does McQueen like sweet things?",
+                "Does McQueen like sweet things?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, did'ja hear that? Suppose you would, bein' right there and all."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Anyways, yeah! She loves sweets just as much as I love justice and\nliberty!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I thought her reign of terror over the strawberry-flavored realm would\nresume after the tryout race, but I guess not."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, speaking of reigns of terror, it sounds like the denizens of Planet\nThirteen require my strength. See ya nara!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I think she just gave me a valuable hint."
+        },
+        {
+            "name": "Monologue",
+            "text": "I return to my room and spend the rest of the day researching meal\nplans."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh... There you are again.",
+            "choice_data_list": [
+                "Could I get you to take a look at this?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "At... your notebook?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "All right, I'll take a look."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A meal plan... There are so many options that shouldn't cause much\nweight gain... Did you really put this together just for me?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "And it looks like... I can eat certain sweets?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Sweets are on the menu?! Are they really okay to eat?!",
+            "choice_data_list": [
+                "They'll give you more energy to run with all\nyour might!",
+                "They'll give you more energy to run with all\nyour might!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you very much. To think that you'd do so much for my sake,\neven before scouting me."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Would you mind if I borrowed this notebook for a while?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh... One more thing. Would you mind coming to watch me train next\nweek?",
+            "choice_data_list": [
+                "Go ahead, and sure!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Excellent. I look forward to meeting you then."
+        },
+        {
+            "name": "Monologue",
+            "text": "One week later, I come out to the course as promised."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I hope you've had a productive week, Trainer."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Now then, I'll begin running. Please watch."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I observe her training carefully."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, I'm feeling light as a feather!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Each of her strides are powerful and confident. The difference in her\nrun is like night and day!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Phew...</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What did you think?",
+            "choice_data_list": [
+                "Looking good, McQueen!",
+                "Looking good, McQueen!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, I'm honored to hear you say that!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I feel like I can finally exert my full strength thanks to that meal plan."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "When it came to my diet, I thought that trying to eat less was the only\nway to go."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Your meal plan had more nutritients despite lower caloric intake,\nmeaning I could afford to eat more."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To think that sweets could even be factored in... Hehe, I'm feeling so\nmuch better now!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In any case... I believe I've finally shown you exactly what I am\ncapable of.",
+            "choice_data_list": [
+                "I think so too!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you. So allow me to introduce myself once more..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I am a member of the Mejiro family. My name obliges me to run with\nthe utmost of grace, splendor, and perfection."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If you are to insist on being my trainer, then you should also be\nprepared to call yourself a Mejiro Trainer."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What do you say? Are you prepared to shoulder the responsibility\nthat would entail?",
+            "choice_data_list": [
+                "I am!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, I can certainly hear the confidence in your voice!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you very much. Now then, Trainer..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "With your guidance and encouragement, I'm looking forward to\nworking together."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, my days as Mejiro McQueen's trainer begin."
+        }
+    ]
+}

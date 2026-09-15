@@ -1,0 +1,225 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the day.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well then, trainers, let me hear your\nanswers. Why do you wish to be\nmy\nТренер?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'll kick things off. As I said the other day, I\nguarantee you'll become\neven stronger\nunder my tutelage—strong enough to\nstand on that\npodium as a champion.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "This is a three-year training plan. I put all\nthe knowledge and effort I\ncould muster\ninto it.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Superb. Even just glancing at it, I can tell\nthat it's a well thought out\nplan. I'll take a\ncloser look shortly.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Next would be...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Me, yes. It's true that you have boundless\npotential—so much so that\nsome trainers\nare hesitant to work with you.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "But <i>I</i> want to see you fulfill your potential.\nI'm prepared to do\nwhatever it takes to\nguide you to certain victory!",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "I've laid out a report with winning race\nstrategies based on an analysis\nof your\nruns. Please take a look!",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Hmm... Impressive work. I'll look at it in\nmore detail shortly.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And now... Last but not least, I turn to you.\nWhy do you wish to be my\nТренер?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You said you wanted to see more of my\nrunning. In other words, you\nspoke of your\nbelief in my future potential.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Illustrate to me, please, what that would\nentail. What future would\nyou seek for\nme?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "In response to her question, I show her the\nphoto I took yesterday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Is this... a photograph of me? When I\nbrought Грасс Вандер and\nМарузенски\ntogether?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "So this... is the answer you brought for me?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "This is the future I wish to seek with you."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...I see. <i>With</i> me, huh?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "After that, Симболи Рудольф carefully reads\nthe documents put together\nby the other\ntrainers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But ultimately...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sorry to turn you both down like this\nafter you put in so much\nwork.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...A tremendous pity, but I understand.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "We'll leave the rest to you. Help her\nachieve greatness—we're\nholding you to\nthat.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "The two trainers look back regretfully as\nthey make their way off the\ntrack.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They were excellent trainers. Any student\nwould flourish under their\nguidance.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "...Then why?"
+            ]
+        },
+        {
+            "text": "Why did I choose you? Isn't it obvious?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You made an effort to look at the world\nfrom my perspective. And\nthat... made me\nhappier than I expected.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What I aim for, every day of my life, is to\ncreate a world where\nUmamusume can live\nin bliss. That's what I've been running\nfull-speed\ntoward this entire time.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But, well... I think there was a part of\nmyself that considered it a\nnaïve, faraway\ndream.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But you're different! I could tell you were\nwilling to go the extra mile,\nbut I didn't\nexpect someone who shared the same\nvision!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Knowing that brings me so much joy.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Having someone who shares my\naspirations—who would seek this\nfuture\nwith me by my side... it fills my heart with a\nreassuring warmth.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I'm the one who's thrilled to have you by my\nside."
+            ]
+        },
+        {
+            "text": "Turning the tables on me, are you?\nHahaha! I'm flattered that you feel\nthat\nway!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well then—let's make it official, shall we?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I am Симболи Рудольф. I stand here at the\nstarting gate with my eyes on\none goal: a\nworld where all Umamusume can live in\nbliss.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But idle talk won't get me anywhere. I\nmust back my words with deeds\nworthy of\nattention and respect.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That is why I am aiming for the top—so\nthat I may be a ruler worthy of\nher crown.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Much time has passed since I first came to\nthe academy. I spent my\ndays serving as\nthe student council president, but now the\nhour is\nnigh.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Will you help me take the throne, Тренер?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Excellent. That's what I wanted to hear!\nWe'll make the name Symboli\nRudolf one\nto remember.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Both of us, together.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Time passed quickly after that.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soon enough, the day of Симболи Рудольф's\ndebut race is upon us, and\nbefore I know\nit...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for your cheers and well-wishes,\neveryone!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Yeaaaaaah! Woooo!!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Симболи Рудольф—what a powerhouse! Such\nan exceptional\nperformance!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "This victory is surely only the beginning of\nher blazing path to glory!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "...High praise indeed.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Heh, looks like we both have great\nexpectations to live up to!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Her smile spreads to the people in the\nstands, capturing countless\nfans—and this\nis still only the first race of her journey!",
+            "name": "Монолог"
+        },
+        {
+            "text": "S-so cool!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "So that's... Симболи Рудольф!",
+            "name": "Токай Тэйо"
+        }
+    ]
+}

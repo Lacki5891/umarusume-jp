@@ -1,0 +1,262 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Голд Шипп told me she wants to go\nshopping, so\nhere we are in the\nshopping district.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe! I snagged some sesame-miso\nflavored\nspace macarons.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I wanna try the sweet and savory fried\nchicken\nand the boiled egg flavors too,\nso they're on my\nlist for next time.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hm? What's with all the hustle and\nbustle over\nthere?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Did you hear that?! There's a raffle!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Speaking of, I got a piece of paper when\nI bought\nthe macarons. Must be a raffle\nticket.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Want to give it a try?"
+            ]
+        },
+        {
+            "text": "Yeah! Forget going big or going home.\nI'm aiming\nfor the booby prize!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, so you guys got a booby prize for\nlosers\ntoo? What is it? The carrot, or the\nstick? Or\nmaybe even a wrecking ball!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Boldly aiming for the worst prize, Gold\nShip turns\nthe handle!",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I-I got the grand-prize?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Holy beneficial gut bacteria! That's like\nthe polar\nopposite of the booby prize!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I really got the ticket for a hot spring\nvacation...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I was after the booby prize, but hey, this\nis\nawesome!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "A hot spring, huh? They're not fun to go\nto alone,\nthough. Who should I—oh!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "If I just make a shadow clone of myself\nto go with,\nthen all my problems will be\nsolved! Perfect!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Time to try it out! Hiyaaah!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Shadow clooone! SPLIT!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Wheeze... huff... puff...</i> Well, that didn't\nwork.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "How could I, Goddess Golshi the\nAll-Capable, fail\nto make a simple\nshadow clone?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Dang... Welp, you hang onto the ticket\nfor now.\nHere.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Keep it someplace I can't see it until I\nmaster how\nto shadow clone.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "Yeah, otherwise I'll end up using it\nbefore I\nmaster the art!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! A deluxe carrot hamburger\nsteak?! Lucky\nme!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We're having marbled steaks for dinner\ntonight,\nso this'll be perfect for desser―",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hold up a sec. This could be a golden\nopportunity\nto develop a brand-new\nspace macaron flavor!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "text": "First, I eat the deluxe carrot hamburger\nsteak,\nyeah? Then, I write a review,\nyeah?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And then, I send it directly to the big\nshots at the\nspace macaron factory.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "They love the idea, and next thing you\nknow,\nthey're releasing their brand new\ncarrot\nhamburger steak flavor space\nmacarons!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I can see it now! C'mon! We've got a\nfoodie\nreview to write!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa, that's more of a mountain than a\nbushel.\nWhat should I do with all these?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh yeah! Almost forgot. There's an\nintense\ntraining session for hopeful\nrestaurant\nproprietresses coming up\nsoon.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Slicing and dicing these carrots will be\nperfect\npractice!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'll master how to cut them into flowers,\nstars, and\nbutterflies, then move onto\nshaping them like\nGothic architecture...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That'll knock the socks off the current\n\nproprietress for sure!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aw man! Third-prize? And it's just one\ncarrot!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's neither the booby prize nor the\ngrand-prize...\nI don't even know how to\nreact. But!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I turned a piece of paper into a carrot.\nThat's\ngotta be a miracle of some kind,\nright?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Thank you, paper! Thank you, carrot! It\njust goes\nto show that food is precious!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The booby prize! That's what I'm talkin'\nab—",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hold up. A pack of tissues? That's it? So\nmuch for\nthe carrot or the stick, then.\nNot even a little a\nwrecking ball...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "On a side note, do you know what\nhappens when\nyou make a paper\nairplane out of a tissue?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Some say it's shocking how poorly it\nflies, but\nothers say it's so light that it\nnever lands.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Let's go find out who's right!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп pulls the booby prize just as\nshe\nwanted, but unfortunately the item\nitself is not\nwhat she expected.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In order to revolutionize space\nmacarons, we start\nconducting research\non carrot hamburger steaks.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We discuss just how grateful we are for\nthe single\ncarrot the whole way home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After we get back to the dorm, I watch\nГолд Шип\npractice cutting the carrots\ninto decorative\nshapes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm not entirely sure Голд Шипп ever will\nmaster\nshadow cloning, but I do as she\nasks and keep the\nticket for her.",
+            "name": "Монолог"
+        }
+    ]
+}

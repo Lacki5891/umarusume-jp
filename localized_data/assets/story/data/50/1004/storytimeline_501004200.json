@@ -1,0 +1,46 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At last, today is the day Марузенски\nmakes her\ndebut!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh... I'm getting kind of nervous now\nthat the\nday has finally arrived...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hm? Why are you making that face?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I was just wondering if I overlooked anything\nduring your training..."
+            ]
+        },
+        {
+            "text": "Hm? Why are you making that face?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I was just wondering if I overlooked anything\nduring your training..."
+            ]
+        },
+        {
+            "text": "It's fine! You did a primo job training me!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Besides, the journey is more important\nthan the\ndestination. I'm going to have a\ngreat time, so\ndon't you worry!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Run like the wind!"
+            ]
+        },
+        {
+            "text": "I'm all over it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's the Twinkle Series, you know, so I'm\ngoing full\nthrottle!",
+            "name": "Марузенски"
+        }
+    ]
+}

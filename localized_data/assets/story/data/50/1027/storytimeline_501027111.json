@@ -1,0 +1,182 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "My first three years with Мэдзиро Райан\nend with\nresounding success.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now that she's become a superstar racer,\n\neverything around her seems to be\nchanging.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ryan, I wish to speak with you today\nregarding\nthe future of the Mejiro\nfamily.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I've concluded that, for future\ngenerations, we\nshould expand our\nreach to the dirt tour.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "These tracks currently have no prestige.\nBut if we\nMejiro boldly declare our\nintention to enter the\ndirt races, then\npopular opinion will change.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I don't think that'll be the case.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "So you're opposed to it? Because it's\nunlike the\nMejiro family to run on dirt?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "No, it's not that. Dirt races are perfectly\nfine. I\njust think we don't need to\ndeclare it or anything.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "If we just enter the races and have a\ngood time,\npeople will see that and\ncome see us run.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Just doing what's right without being all\nhigh and\nmighty... That'll reach the\npeople's hearts.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And I... like doing things that way\nbetter.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan, you...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "How should I put this? ...You are a true\nMejiro.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Huh? What do you mean?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "While I loudly advocate for the prestige\nthat\ncomes with being a member of the\nMejiro family...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You care little for the name at all—which\nmay be\nmore \"Mejiro\" than anything.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That's mean, McQueen! I <i>do</i> care about\nbeing a\nMejiro, okay?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But I don't understand how me just\nsaying what I\nfeel is considered\nMejiro-like.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Look, it's Мэдзиро Райан! Wow, that\nphysique and\nhow she carries herself...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "No wonder she's the superstar of a\nfamous family.\nShe's, like, the pride of\nthe Mejiros.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Trainer... What's going on?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "As soon as the results of the Twinkle\nSeries came\nin, people started actin' all\nweird.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "No one ever considered me much of a\nMejiro\nbefore that.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It was always McQueen this and\nMcQueen that.\nSomething's different.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You're right..."
+            ]
+        },
+        {
+            "text": "While I do agree with her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, I guess I'll start with some\ndumbbell presses.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I have to focus on each and every rЭпизод\nHere we\ngo...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Nothing's changed in how she handles\nthings, but\nthere's a certain dignity to\nher words and actions.\nIt must be...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Something wrong?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You really are a Mejiro, Ryan."
+            ]
+        },
+        {
+            "text": "N-not you too! What are you talking\nabout?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm nothing like the typical Mejiro! I'm\nno elegant\nlady, and all I like to do is\nget sweaty workin' out!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You're a certified representative of the Mejiro\nname."
+            ]
+        },
+        {
+            "text": "Huh? I am?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I represent the Mejiro family, huh...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan's burly physique has broken the\ntraditional\nnorms of the Mejiro family.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Moving forward, she's going to create\nher own\ntraditions. Her every action will\nbecome\nexemplary of what it means to\nbe a Mejiro.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, Trainer, are you ready? Today\nyou're going\nto meet my grandmother.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "If I'm a representative of the Mejiros,\nthen that\nmeans you're one of us too.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "After all, you're the one who succeeded\nin\ntraining me!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Let's make everyone proud, together\nwith\nMcQueen and Dober.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "All right... Time to open the gate!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "\"The right effort will be rewarded.\"\nМэдзиро Райан's\nwords will become a part\nof the Mejiro family\nlegacy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And the famed family will continue to\ndevelop\nfurther, right along with Ryan\nherself.",
+            "name": "Монолог"
+        }
+    ]
+}

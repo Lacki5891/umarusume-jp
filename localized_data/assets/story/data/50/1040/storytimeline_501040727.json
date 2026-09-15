@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Whoa! How many did you get?!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Check them out. What's your appraisal?"
+            ]
+        },
+        {
+            "text": "No doubt they're cute. The facial\nexpressions are\ncaptured well too, I\nguess.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But probably the best thing I learned\ntoday is\nthat you're pretty good at\ngames.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So, this is just hypothetically speaking,\nbut...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Next time you come here, if they happen\nto have\na new version of me, you need\nto get it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll do my best so they'll <i>have</i> to make a\nCutie of\nme.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

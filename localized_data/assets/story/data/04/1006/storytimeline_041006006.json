@@ -1,0 +1,272 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Огури Кэп stares intensely at a magazine\nin her hands.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow... That sea urchin's glistening like\nliquid gold over a plate of\npasta... It looks\nmore like treasure than it does food...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "And those warm pancakes look like they'd\ngo perfectly with that\nvanilla ice cream...\nNot to mention all the fresh fruit. Such an\n\nexquisite dish...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Anything interesting in there?"
+            ]
+        },
+        {
+            "text": "Ah, it's you.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Actually, I was looking for a place to eat\non my next day off. There\nare so many\noptions though. It took forever for me to\ndecide...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "So you found a place you like?"
+            ]
+        },
+        {
+            "text": "I did. Apparently, it's some small, hidden\ncafe known for its pasta and\npancakes.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's just... The other day, I saw an ad for a\nsimilarly hidden ramen shop\nand thought I\ncould find my way there...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "But I got hopelessly lost, even though I\nused a map and everything. I\ncould've\nsworn I had gotten on the right train...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I guess they aren't called hidden for\nnothing. It's no small feat finding\nyour way\nthere.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Wait... Could it be these shops are\ndisguising themselves and hiding\nfrom\npublic eyes?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Disguising themselves? They're not ninja\nshops..."
+            ]
+        },
+        {
+            "text": "Hmmm... Then why is it that I wasn't able\nto reach my destination?\nTruly a mystery.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Taking a look at the magazine's map, I\nnotice that it's a bit difficult to\nnavigate.\nI'm not sure if Огури Кэп would be able to\nfind her way\nthere by herself...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about I go with you?"
+            ]
+        },
+        {
+            "text": "Really?! You'd do that?!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "With you by my side, I'm sure we'll get\nthere without a problem. I'll\ngladly take\nyou up on that offer, thank you.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Our next day off rolls around, and after a\nshort train ride, we find\nourselves standing\nin front of the tucked-away cafe.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So this is where it is... You sure know your\nway around town. Not even\na single wrong\nturn.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "It's nothing... I just feel a bit out of place...\nI mean, look around you!\nIt's so fancy.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Is it okay for me to be dressed like this? I\nheard some restaurants in\nthe city kick you\nout if you're dressed poorly...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "They don't do that here."
+            ]
+        },
+        {
+            "text": "I see... That's a relief to hear, but... I still\nfeel like I'm somehow\nstanding out...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Are you ready to order?",
+            "name": "Waitress A"
+        },
+        {
+            "text": "Ah, umm... Let's see... What was I gonna\norder, again?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Pasta and pancakes, right?"
+            ]
+        },
+        {
+            "text": "Yeah, that's it. I forgot what they're called\nthough... Some\nhard-to-remember names...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "They were both in French, I think... One of\nthem was a sea urchin\npasta...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "We'll have two plates of sea urchin pasta, thank\nyou."
+            ]
+        },
+        {
+            "text": "Ah, the \"lumière dorèe\" pâtes à la crème.",
+            "name": "Waitress A"
+        },
+        {
+            "text": "So you can order without knowing the\ndish's actual name... I see.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Sorry, but could we also get two servings\nof those pancakes topped\nwith fresh fruit?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Two crêpes aux fruits. Very well.",
+            "name": "Waitress A"
+        },
+        {
+            "text": "Did you see that? I ordered something on\nmy own!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Unaccustomed to fancy eateries, Oguri\nCap seems a bit on edge at\nfirst. Her\nanxiety, however, vanishes along with her\nfood.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That was delicious. So many flavors I didn't\neven know existed. Each\nbite was\nabsolutely divine, but they'd last only a\nsecond...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Hey, I have an idea. Why don't we get\nseconds?!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Our meal ended too soon. I feel like I can\neat some more, and since\nwe're already\nhere...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Let's do it! But how about we try something\nelse?"
+            ]
+        },
+        {
+            "text": "Something... else? Now that you mention\nit, that <i>does</i> sound nice...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The pasta and pancakes were both\namazing. I'm sure everything else\non the\nmenu wouldn't disappoint.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The question is... What do I order next? A\ndilemma more difficult\nthan any school\nexam...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп sits at the table, flipping\nthrough the menu for about half\nan hour.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhh, I can't decide! Everything looks\ngood! Looking at the menu just\nmakes me\nwant to order it all!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Wait... Maybe I'll do exactly that.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Let's order everything on the menu. What\ndo you say?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Isn't that a bit... much?"
+            ]
+        },
+        {
+            "text": "Too much, huh? Then could you at least\norder for me? What are you\nfeeling?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "The hamburger steak pie sounds delicious."
+            ]
+        },
+        {
+            "text": "Hmmm... I've never tried that before.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "All right, sounds good. Might as well try it\nwhile we're here, right? I'll\norder the food.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Bubbling with childlike excitement, Oguri\nCap raises her hand to call\nover the\nwaitress, ordering a \"beef pie thing\" for\nthe two of us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The pie crust is nice and crispy, and the\nbalance of sweetness and\nacidity in the\nberry sauce is perfect! Not to mention the\nsuper juicy\npatty...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'm so happy, I feel like I could be\ndreaming.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I wasn't too sure about eating meat with a\nfruity sauce, but this was\nbetter than I\nimagined.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Thanks for the recommendation. I would\nnever have tried something\nlike this if it\nweren't for you.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's nice to get out of my comfort zone\nonce in a while and eat what\nother people\nlike!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Thank you for today. The food was\nfantastic, and I had a bunch of\nfun.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "So did I!"
+            ]
+        },
+        {
+            "text": "That's good to hear. This day couldn't be\nany better.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "All right. On to our next destination.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "I usually only go to nearby places when I'm\nalone, but since you said\nyou'd show me\naround, I wanna make the most of it.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I highlighted a couple other shops that\ncaught my eye while I was\npreparing for\nthis trip.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It might not be lunchtime anymore, but\njudging by the state of my\nstomach, I\ncould stop by at least 10 more spots.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Since we're going to spend the entire day\ncafe hopping, I'll be\ncounting on you,\nTrainer!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп quickly picks up her pace, and\nwe end up popping into\nevery single cafe\non her list...",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "... ♪",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You look like you had a great vacation!"
+            ]
+        },
+        {
+            "text": "Whoa, it's you. Yeah, I suppose so.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I stopped by a park yesterday, and it\nwas totally\nempty. Man, I had such a\ngreat nap there.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Even makes seeing your twerpy face this\nearly in\nthe morning bearable.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Seems like Нарита Таисин is in the best of\nspirits!",
+            "name": "Монолог"
+        }
+    ]
+}

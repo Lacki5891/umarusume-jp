@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wanting to make some snacks for Super\nCreek to\nhave during her training\nbreaks, I decide to go\nout and shop for\nvarious ingredients.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello, Trainer! Out shopping?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Goodness gracious, look at all of the\nstuff you\nhave... Are you planning a\nparty or something?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I would have cooked for you if you had\njust told\nme. Please remember that you\ncan ask me for\nanything, okay?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I thought you might want something to munch\non during your training breaks."
+            ]
+        },
+        {
+            "text": "I'm sorry? You're saying that's for me?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Nutrient intake в тренировке is\nnecessary to\nimprove strength and\nstamina. And I figured a\ntasty treat\nwouldn't hurt either.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're planning to make the snacks\nyourself\ninstead of just buying nutrition\nbars?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Goodness me! Thank you so much!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm only who I am today because you're\nalways\nworking so hard for my sake.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You study so hard, are super\nconsiderate, and\ngive me tons of energy.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Which means I must find some way to\nrepay you!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "A gift of gratitude full of love to soothe\nyour\nbody and soul... Hehe! ♪",
+            "name": "Супер Крик"
+        }
+    ]
+}

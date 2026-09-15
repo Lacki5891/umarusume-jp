@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The time has come, at long last! My\nspringtime\nhurdle leading to the\nClassics—my Dragon Gate!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...You look confused, Trainer. Do you\nknow the\nstory of the Dragon Gate?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Could you tell me?"
+            ]
+        },
+        {
+            "text": "Of course! Long, long ago, in ancient\nChina, it\nwas said that if a carp could\nleap to the top of\nthis great waterfall, it\nwould transform into a\ndragon.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Which means if I can clear this hurdle, I'll\nturn into\na dragon too!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "So just for today, the name's\nMatikarp-streamer!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Carp streamer, high above the\nrooftops! ♪ A\ngiant carp swimming in a\ncool summer stream! ♪",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Isn't that a Children's Day song? It's only\nMarch..."
+            ]
+        },
+        {
+            "text": "Oh, you're right. Still...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Singing that tune got me pumped up!\nWatch me\nblast my way up that waterfall\nand to the finish\nline!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm about to sit at my desk and get some\nwork\ndone, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "From under the desk comes... Drum roll,\nplease! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган! Surprise!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You scared me!"
+            ]
+        },
+        {
+            "text": "Heh. I wanted to hang out with you, so\nI've been\nwaiting.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Nothing gets my engines going\nlately—not even\nracing or hanging out\nwith my friends...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hmm... Even now, they're barely\npurring...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Sigh...</i> Maybe my engines are broken...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It seems she's still feeling tired. Going\nforward, I\nshould probably reevaluate\nher race schedule to\nensure her best\nperformance.",
+            "name": "Монолог"
+        }
+    ]
+}

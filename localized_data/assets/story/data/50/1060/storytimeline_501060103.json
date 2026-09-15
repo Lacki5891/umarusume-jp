@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the first day of summer camp.\nWe'll be\nstarting a more rigorous routine\nto further\nimprove performance.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sooo hot...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm glad you're doing extra well today,\nMr. Sun.\nIt's getting a bit too bright for a\nshade chaser like\nme, though...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm already wondering if I'll make it out\nalive.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You have the Kokura Kinen coming up too."
+            ]
+        },
+        {
+            "text": "Exactly. The summer camp and the race?\nIt's a lot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Plus, Kokura is so far from here, which\nmeans less\ntime for training.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Those Umamusume are already so much\nbetter\nthan me, and now I feel like I'll be\nlagging further\nbehind.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Then let's sprint aaall the way to Kokura!"
+            ]
+        },
+        {
+            "text": "Ah! Perfect idea! Free transportation and\nI'll get\nsome running in too? Two birds\nwith one stone.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's just about 1,000 kilometers, right?\nThat's\n<i>nothing!</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "NOT! That'd be insane. Don't even joke\nabout\nthat.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're enjoying this, aren't you?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And so, Найс Нэйчер's blazing hot\nsummer camp\nhas begun.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, how about we keep things just\n<i>slightly</i> hot?",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

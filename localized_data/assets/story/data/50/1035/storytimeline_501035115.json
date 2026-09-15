@@ -1,0 +1,287 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We've been training daily in preparation\nfor the\nOsaka Hai.",
+            "name": "Монолог"
+        },
+        {
+            "text": "However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "My time isn't improving!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Why? Why, why, why?! I'm trying so\nhard!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Her time isn't so bad as to raise real\nalarm bells,\nbut it's true that she's not\nmaking great progress.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Maybe we should change your training plan."
+            ]
+        },
+        {
+            "text": "Oh! In that case, I have an idea!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "A type of training that really charges me\nup!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sigh...</i> Of all the things you could have\ncalled us\nhere for...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You want to hold another scrimmage?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The thing is, lately my training hasn't\nbeen going\nso great.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I figure if I can run with you guys\nagain, it'll\nfeel like a real race and I'll do\nbetter!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's like when I was really struggling\nbefore. You\nhelped by running with me,\nright?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, around the time of the Hopeful\nStakes.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah! We did a scrimmage, and it\nhelped me beat\nmy own time!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So I thought maybe that could work\nagain.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That sounds logical. A scrimmage is\ngood practice\nfor me as well.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "How about you, Taishin?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If you're in, I'll do it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's not like I don't know you've\nimproved since\nthe Kikuka Sho.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Heh. In that case, I'll have to put even\nmore effort\nin.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "All riiight! LET'S DO IT!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "As the sound of the gates opening\nechoes under\nthe cloudy sky, the three\nrunners dash off all at\nonce.",
+            "name": "Монолог"
+        },
+        {
+            "text": "GOOOOO!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What's that, a scrimmage? Oh, it's\nTickezo!",
+            "name": "Young Student A"
+        },
+        {
+            "text": "A BNW scrimmage! Those three are so\ncool\ntogether!",
+            "name": "Young Student B"
+        },
+        {
+            "text": "As the other students notice that BNW\nare racing,\na crowd begins to gather.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As expected, the race is a heated affair.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Until...",
+            "name": "Монолог"
+        },
+        {
+            "text": "(Huh? What's happening? They're\npulling farther\nahead...)",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "In the final stretch, Уиннинг Тикит is left\nbehind\nas the other two accelerate at\namazing speeds.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haaaaah!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I won't lose!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "In the end, Бива Хаяхидэ takes first\nplace, with\nНарита Таисин just behind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Уиннинг Тикит ends up five to six\nlengths behind\nthem, and last to finish...",
+            "name": "Монолог"
+        },
+        {
+            "text": "They got away so fast! And my time\nwasn't any\nbetter either!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket droops her shoulders in defeat,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tickezo! That was so close! But it was\nstill a good\nrace!",
+            "name": "Young Student A"
+        },
+        {
+            "text": "I was so happy to see a real race\nbetween BNW!",
+            "name": "Young Student B"
+        },
+        {
+            "text": "Oh, wow! I didn't realize people were\nwatching!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I couldn't even get close to winning, but\n\neveryone's so happy.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I guess that as long as I'm racing my\nrivals, it still\nbecomes an exciting race!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Alrighty, I'll work harder, and next time\nI'll make\nsure the race is even better to\nwatch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hayahide, Taishin! Let's do another one!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Taishin left already.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What?! Why? What's the hurry?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She said she's going to do some runs on\nthe ramp\ntrack.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Awww! I wanted to race together some\nmore!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It seems like losing to me in that final\nstruggle has\ngot her rather worked up.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Huh... Wouldn't scrimmages be more\nuseful than\ntraining on her own though?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I mean, the one we had just now was\nreally great!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh? Was it?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah. The last sprint between you and\nTaishin\nwas such a tough fight!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Everyone said it was a really intense\nrace!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...Did you think so too?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Even though you lost?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Huh? Yeah, I guess I didn't do very well,\nbut you\nknow, I'll do better next time.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll work harder and run an amazing race\nlike at\nthe Derby. I'll show everyone!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "An amazing race... I see.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm sorry, Ticket. I should be going as\nwell. See\nyou.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "O-oh, okay—see you!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hayahide too... What's up with them?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Nghh! I couldn't even improve my time!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Maybe if we did another one, I'd have\nshown\nsome progress...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Let's try again tomorrow."
+            ]
+        },
+        {
+            "text": "Yeah! These kinda things happen!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But seriously, Hayahide and Taishin were\nso\nawesome today!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "They're the toughest rivals! Don't you\nthink? It's\ntoo bad I couldn't keep up.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I'm still one of them. I'm gonna train\nhard so\nwe can have a really intense\nrace, all together!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket is as optimistic as ever, but I have\nthe\nfeeling that something still isn't\nright.",
+            "name": "Монолог"
+        }
+    ]
+}

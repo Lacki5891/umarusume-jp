@@ -1,0 +1,58 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "(Nakayama Racecourse...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Here I am again.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(If I can run like I did at the Satsuki\nSho...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "text": "(But what if things turn out like they did\nat the\nKikuka Sho?)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You'll be fine, Taishin."
+            ]
+        },
+        {
+            "text": "Sure...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You'll definitely be okay!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yeah.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(I honestly don't know how things will\nturn out.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(But there's one thing that's certain.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(At the very least, this bonehead\nbelieves in me.)",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

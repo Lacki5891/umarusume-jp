@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day has finally arrived. Марузенски\nand Grass\nWonder will race against each\nother in the\nYasuda Kinen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Deep breaths, deep breaths...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You're really locked in, huh?"
+            ]
+        },
+        {
+            "text": "Absolutely! Grass may be a cute,\nyounger athlete,\nbut her running ability\nis ferocious.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe! Opponents like that make for a\nfun race,\nthough!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Go show them your stuff!"
+            ]
+        },
+        {
+            "text": "Yeah, I'm going to enjoy bringing home\nthe win!",
+            "name": "Марузенски"
+        }
+    ]
+}

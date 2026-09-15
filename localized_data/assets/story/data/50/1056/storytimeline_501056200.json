@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of Матиканэфукукитару's debut\nhas finally\narrived!",
+            "name": "Монолог"
+        },
+        {
+            "text": "My heart's racing! Wh-wh-what is this\nmassive\npressure I'm feeling?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I haven't been this nervous since I went\nto draw\nmy first fortune slip. I left\nempty-handed because\nI had no money,\nbut still...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I just can't relax, Trainer! I'm so anxious.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I'm sure the gods are with you."
+            ]
+        },
+        {
+            "text": "Y-you're right! I have powerful allies in\nmy corner!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I appreciate those inspiring words!\nThanks to you,\nmy heart's stopped\ncompletely. Well, it's still\npumping, but\nyou know what I mean!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "All right, let me pray before the race\nstarts...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Glory be to the spinach leaf! Glory be to\nthe\nspinach leaf! Your power shall be\nput to the test!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You got that, gods? It's not my skills\nthat are\nbeing tested here, but yours! I\nbeg of thee, help\nme get to the finish\nline!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        }
+    ]
+}

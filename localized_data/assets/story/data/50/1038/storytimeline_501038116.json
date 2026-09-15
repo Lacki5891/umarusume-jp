@@ -1,0 +1,421 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Каррен Тян is training for her second\nSprinters\nStakes, but this time, it's not\nonly the race she's\npreparing for.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Big Bro. About today's training...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You want me to take pictures?"
+            ]
+        },
+        {
+            "text": "Hey, Big Sis. About today's training...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You want me to take pictures?"
+            ]
+        },
+        {
+            "text": "Oh, yeah, that too. But also, is it okay if\nwe end a\nlittle early today?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll make up for the lost time by working\nextra\nhard! Whaddya say?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "That's fine... But why?"
+            ]
+        },
+        {
+            "text": "I've got an UmaTube vid I wanna upload\ntoday,\nbut I'm not done editing it yet.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "This is the price I pay for having so much\nfun with\nlast night's back-to-back\nUmastagram and\nUmatter streams!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She's busy managing all of her different\nsocial\nmedia accounts in preparation for\nthe Cutie ♪\nDerby. I'd love to lighten\nher load, but...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is there anything I can do to help?"
+            ]
+        },
+        {
+            "text": "As long as we can end early, that's all I\nneed!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "With that out of the way, let's get\nstarted with\ntoday's training! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян completes the training we\nhave\nplanned at an alarming pace and\nleaves with a\nsmile on her face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She looks like she's doing fine, but from\nwhat I\ncan tell, she has an awful lot on\nher plate. I hope\nshe really is all right.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day, I get an unexpected visitor...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "(Адмайр Вега. She's a year above Curren\nChan in\nthe Twinkle Series, but she's\nalso her roommate,\nso I hear about her\nfrom time to time.)",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Um... Can I help you?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "It looks like she has something to say,\nbut this\nstrange silence continues... until\nshe seems to\nmake up her mind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I came to complain about Curren.",
+            "name": "Адмайр Вега",
+            "choice_data_list": [
+                "Complain?"
+            ]
+        },
+        {
+            "text": "She's been staying up all night recently,\nand it's\nbothering me.",
+            "name": "Адмайр Вега",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "And it's annoying that she's always on\nher phone\nor computer.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "...It used to be that I couldn't get her to\nshut up,\nbut now she doesn't even say a\nword to me.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Каррен Тян is a perfectionist. She\ndoesn't show\nit on the outside, but it\nseems like she really has\nbeen pushing\nherself too hard...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's your job to manage her, isn't it? Do\nyou call\nthis doing your job? What are\nyou gonna do if she\nworks herself sick\nand collapses?",
+            "name": "Адмайр Вега",
+            "choice_data_list": [
+                "I'm sorry for worrying you."
+            ]
+        },
+        {
+            "text": "Did you hear me?! I'm not\nworried—these are\ncomplaints!",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "...Anyway, as her trainer, you need to\ntake better\ncare of her.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "That's all.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Адмайр Вега walks out... and I spot\nsomething\nshiny on top of the shelf by\nthe door.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...A dorm room key?"
+            ]
+        },
+        {
+            "text": "It probably belongs to Адмайр Вега. I\nhave to go\nafter her!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...In summary, unable to find Ayabe,\nyou've come\nto me, the leader of Rito\nDorm?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Yeah..."
+            ]
+        },
+        {
+            "text": "I believe I grasp the situation. But, you\nknow,\nAyabe's not the type to—",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh! I get it now. That Ayabe is always so\n\nindirect...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "text": "Ahem. Excuse me. I know Curren is your\ntrainee,\nbut you are aware it's against\nthe rules for trainers\nto come into the\ndorm, right?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I know."
+            ]
+        },
+        {
+            "text": "So you realize, then, that there's nothing\nmore I\ncan do for you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...But, y'know, being dorm leader is\nmuch more\ndifficult than people make it\nout to be.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I might even end up nodding off for,\nsay... ten\nminutes.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "...I'm actually worried about Curren too.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll leave this to you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Knock, knock.</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Curren?"
+            ]
+        },
+        {
+            "text": "...I wait, but she doesn't answer. I don't\nhear a\nsingle sound from inside her\nroom...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's your job to manage her, isn't it? Do\nyou call\nthis doing your job? What are\nyou gonna do if she\nworks herself sick\nand collapses?",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Something might have happened to\nКаррен Тян!\nI swing the door open,\nand...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Zzz... Zzz...</i>",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "(Good. She's just sleeping...)"
+            ]
+        },
+        {
+            "text": "...Hm? Someone there?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Hm? Someone there?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wait, Big Bro?! What are you doing\nhere?!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wait, Big Sis?! What are you doing\nhere?!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh... So Ayabe snuck you our dorm key,\nand even\nFuji was worried enough to let\nyou in.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...I'm so lame.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But... I can't believe Ayabe would\npretend to\nforget her key like that.\nWhat a roundabout way\nto go about\nit. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Anyway, I'm sorry for worrying you. I'm\ndoing just\nfine, though!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "Anyway, I'm sorry for worrying you. I'm\ndoing just\nfine, though!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "Looking around her room, I can see that,\nwhile it's\nclean enough at first glance,\nthere are a lot of\nenergy drink and\ncoffee cans hidden out of\nsight...",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's also a pile of cardboard boxes\nlabeled\n\"For Distribution\". It looks like\nshe's doing even\nmore work than I\nthought.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Judging by your face, you want to tell\nme not to\npush myself so hard.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But it's not that big of a deal. I'm just a\nliiittle\nsleepy after staying up late\nediting UmaTube\nvids. That's all.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "At least, that's what I want to say, but...\nmaybe I\nam in a bit over my head.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "This was my plan, but I didn't realize\nhow much\ntime classes, training, and the\nconstant social\nmedia updates would\ntake! I'm worn out!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Well, in that case..."
+            ]
+        },
+        {
+            "text": "But still... Please let me do this.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But still... Please let me do this.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "My goal is still a long, long way off. I\ncan't stop\nuntil I get there.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I refuse to compromise or give up on my\ndream!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Curren..."
+            ]
+        },
+        {
+            "text": "Besides, remember what you told me at\nthe shrine\nback around New Year's?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Besides, remember what you told me at\nthe shrine\nback around New Year's?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You told me you were sure I could be a\nchampion.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Don't worry. I won't let it affect my\nraces. After\nall... this is something I need\nto do for <i>myself.</i> I\nwon't ask you to get\ninvolved.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "So—",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll help!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Really?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I know you can do it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I know you can do it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "This is it—the make-or-break point. So\nplease, let\nme do this!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "...Please?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...Okay!"
+            ]
+        },
+        {
+            "text": "R-really?!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm gonna be reckless. I'm gonna push\nmyself to\nthe brink... But I won't let\nanyone see how much\nit's wearing me\nout.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Are you sure that's okay with you?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Are you sure that's okay with you?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Maybe it's my job as her trainer to stop\nher. If she\nbreaks down here, she'll lose\neverything. On top\nof that, I do really\nwant her to rest from the\nbottom of my\nheart, but...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'll trust in your strength."
+            ]
+        },
+        {
+            "text": "From everything Каррен Тян and I have\nbeen\nthrough together, I know that the\nbest thing I can\ndo to support her is to\nbelieve in her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Thank you, Big Bro. I'll definitely pull\nthis off!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Thank you, Big Sis. I'll definitely pull this\noff!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Big Brooo! How was I?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Perfect!"
+            ]
+        },
+        {
+            "text": "Big Siiis! How was I?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Perfect!"
+            ]
+        },
+        {
+            "text": "Yay! ♪ Keep praising me!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "A few days later, Каррен Тян is running\nat the\ntraining course with a big smile\nand her full\nsharpness on display,\nshowing me that she's\npushed through\nthe worst of it.",
+            "name": "Монолог"
+        }
+    ]
+}

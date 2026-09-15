@@ -1,0 +1,196 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the tryouts finally arrives.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Lotus roots, celery stalks, spinach leaves...\nLotus roots, celery stalks,\nspinach leaves...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Is that some kind of incantation?"
+            ]
+        },
+        {
+            "text": "It's for good luck! This chant will allow me\nto focus my willpower and\nperform to the\nbest of my ability!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I've trained as much as I could! Regardless\nof how this race turns out, I\n<i>will</i> make you\nmy trainer!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Howdy, Fukukitaru! How ya feelin'?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Um... We'd like to watch you run today, if\nyou don't mind.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh! Taiki, Suzuka! Are you here to cheer\nfor me?! It's nice knowing\nthe two of\nyou've got my back!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's been a busy couple of weeks, but I\nthink I'm ready, thanks to you\nguys!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Don't even mention it! Tear up that\nracetrack! Show 'em what you've\ngot!\nDon't worry about Suzuka and me. We'll\nbe making our debut\nsoon enough too!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Sorry for the head start, you two! See you\nat the Twinkle Series!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "All right, then... It's about time I head out.\nI'll try not to lose too hard!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Yeah, give it your—\nWait, what?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Good luck!"
+            ]
+        },
+        {
+            "text": "Thanks! Be back soon!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um... Does she intend on losing or\nsomething?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The race soon commences, and\nMatikanefukukitaru blasts out of the\n\nstarting gate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This much-awaited race is completely\npacked with extremely skilled\nrunners!\nWho will come out on top?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Матиканэфукукитару is falling behind! Are\nthe leading Umamusume too\nfast for her?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Mgrrrgh! They're all... so fast...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That's fine though. I just need to do what I\npromised I would—run!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's goooo! Super Fortune Daaaaash!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The runners have made their final turn and\nare entering the final\nstretch!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Матиканэфукукитару is picking up the pace\nfrom behind! Will she be\nable to close the\ngap?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Yeeeaaah!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Maaan, I thought for a second there that I\ncould overtake them all...\nHow'd I still end\nup in last place?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Eye-opening, right?"
+            ]
+        },
+        {
+            "text": "Still, you were so close... Had you another\nfifty meters, you would've\neasily cleared\nthe whole group.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I know, right?! You might've been last, but\nyou definitely had the\nbiggest impact!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Awww, you guys are being too nice.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ah, Матиканэфукукитару! There you are!\nPlease, let me scout you!",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Huh? You want to... scout me?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "That burst of speed during the last leg of\nthe race was a sight to\nbehold! I'm positive\nthat you and I can accomplish anything\ntogether!",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "No, she needs <i>my</i> guidance! I'll be the one\nto scout her!",
+            "name": "Veteran Trainer B"
+        },
+        {
+            "text": "Waaah! Why are all these people coming\nto me? I was in last place!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Sorry, but destiny has already decided my\ntrainer!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару politely declines the\noffers from the trainers\naround her and\nlooks my way.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her belief in divinations is unrivaled, and it\ngoes without saying she's\na real character.\nYet I can tell she loves running more than\nanything.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ummm... I'm not very good under pressure.\nWhenever I get nervous, I\nfeel like I'll start\nbabbling some random incantation at any\nmoment...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Let's create our own good fortune!"
+            ]
+        },
+        {
+            "text": "Whoa! Now that's more like it! Good\nfortune doesn't just come to\nthose who\nwait around doing nothing! Let's do this!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "With tryouts behind us, I officially take on\nthe role of\nMatikanefukukitaru's trainer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So how about we get started? Not a\nsecond to waste!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hm, actually... Before we begin, could I\nask you one small favor?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I was doing a carrot divination earlier, and\nit said that partner running\nwould be\ntoday's lucky activity. Problem is, Suzuka's\nbusy today...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Could you run with me today?! Please, just\nthis once!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Our paces wouldn't match at all!"
+            ]
+        },
+        {
+            "text": "No worries! If you start falling behind, I'll\njust drag you along! So let's\ngoooo!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Before I can even begin to question my\ndecisions thus far, she takes\noff running,\nleaving me with no choice but to\nfrantically attempt to\nkeep up.",
+            "name": "Монолог"
+        }
+    ]
+}

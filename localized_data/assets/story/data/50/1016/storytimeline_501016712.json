@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Нарита Брайан doesn't show up for training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I go looking for her and find a familiar\nface in a\nnearby bathhouse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahh... The water was great.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "With hot water that good, there's only\none thing\nto pair it with!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Gulp, gulp...</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ahhh!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Heh, that hits the spot—right in my core.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Brian?"
+            ]
+        },
+        {
+            "text": "Тренер? What are you doing here?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You missed training."
+            ]
+        },
+        {
+            "text": "...I guess I soaked too long. ...My bad.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I warn Нарита Брайан to be more careful\nfrom now\non.",
+            "name": "Монолог"
+        }
+    ]
+}

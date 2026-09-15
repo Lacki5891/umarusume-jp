@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Thank you for the day off.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Did you have fun?"
+            ]
+        },
+        {
+            "text": "I did. I went for a nice, long run in a\nplace I had\nbeen meaning to visit for a\nlong while.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That might also be why my legs feel so\nlight\ntoday.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems Сайленс Судзука has managed to\n\nadequately refresh both her body and\nmind.",
+            "name": "Монолог"
+        }
+    ]
+}

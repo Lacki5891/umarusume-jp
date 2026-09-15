@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for the spring Tenno Sho at last.\nThe\nweather is sunny and clear over the\nYodo turf.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Grandfather, Grandmother. The day\nhas finally\ncome.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Please watch me as I run, and watch the\nmoment I\nseize victory!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "All right... I'm ready now. I think I can do\nit!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Go and give it all you've got!"
+            ]
+        },
+        {
+            "text": "I will! Keep your eyes on me, Trainer!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "(<i>Sigh...</i> Calm down, everything is fine...)",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Ah!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, Ryan...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Let's give it our all as members of the\nMejiro\nfamily.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Right!",
+            "name": "Мэдзиро Райан"
+        }
+    ]
+}

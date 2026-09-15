@@ -1,0 +1,292 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With our next objective, the Japanese\nDerby,\ndrawing closer, the focus of\nСимболи Рудольф's\ntraining sessions has\nshifted to ironing out the\ncreases.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Classmate"
+        },
+        {
+            "text": "Another productive session. Thank you\nfor\nagreeing to be my partner.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "N-not at all... Glad to help... Anyway,\num... I\nshould go...",
+            "name": "Classmate"
+        },
+        {
+            "text": "That was... crazy... She's so... fast...",
+            "name": "Classmate"
+        },
+        {
+            "text": "Thank you, Trainer. I apologize for\nputting you\nthrough so much trouble.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "What trouble?"
+            ]
+        },
+        {
+            "text": "I mean in finding me a training partner. I\nexpect it\nwasn't so easy.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She can say that again. When I asked\npeople if\nthey wanted to be running\npartners with the\nEmperor, most of them\nbacked out and said they\nweren't\nqualified.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I had to pull some strings with a fellow\ntrainer to\nfinally secure someone who\nwas willing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I also owe my partner an apology. I\ncould see that\nshe was quite shaken.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I try my best not to intimidate those\naround me,\nbut I can only hold back so\nmuch while on the\ntrack.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Especially with the real thing on the horizon."
+            ]
+        },
+        {
+            "text": "Indeed. I suspect I'm so on edge that I\ndon't even\nrealize it.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "No race symbolizes the dream of all\nracers quite\nlike the Japanese Derby.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It is a prize I must take if I'm to have any\npride as\nEmperor.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "There is little time left until the race. We\nmust\nbuckle down and keep practicing\nas best we can.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф seems fulfilled in mind\nand body\nas she makes progress toward\nthe Japanese\nDerby.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Forgive me for bringing you all the way\nto the\nstudent council office.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "There's something I want to look over\nbefore we\nstart training. Could you wait\nhere? I won't be\nlong.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Are you sure you can't delegate it to anyone?"
+            ]
+        },
+        {
+            "text": "Unfortunately not, I'm afraid.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The last time I stepped back from my\nstudent\ncouncil work, I missed the signs\nthat one of my\nsubordinates was in\ndistress.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I can't let that happen again. The only\nchoice is to\nbalance both duties.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Besides, if this is beyond me, I have no\nchance of\nrealizing my dream.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oh? What's this?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Rudolf comes to a stop in front of the\nstudent\ncouncil office. A sheet of paper\nis affixed to the\ndoor.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "\"President Banned (Today Only)\"?"
+            ]
+        },
+        {
+            "text": "Эйр Грув's work, I suspect.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I do appreciate that she's worried for my\n\nwell-being...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But still, it's unusual for her to resort to\nsuch\ndrastic measures—",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Just then, the door is flung open from\nwithin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, forget this nonsense!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian. Going somewhere?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Funny time for you to drop by, Prez.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm caught in the crossfire between you\nand Air\nGroove.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Would you mind explaining to me what\nis going\non?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I see... So Эйр Грув has been asking\nyou to\nhandle the work that would\notherwise have come\nto me.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The Empress wouldn't take no for an\nanswer on\nthis one. Screwed my\nschedule right up, too.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I can only apologize. I take full\nresponsibility.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If not for my failings, Эйр Грув\nwouldn't have\nfelt the need to increase\nyour burden in order to\nreduce my own.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Once again, this is my fault, not yours.\nI'm sorry.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm not asking for an apology...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Well, whatever. I'm going on patrol.\nThe rest is\nyour problem.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Now, then.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "No, this needs to be revised. We'll have\nto ask\nthem to recalculate it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now, what's next...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President? Aren't you supposed to be\ntraining?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What are you working on?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I was reviewing the council's budget\nproposal for\nthe upcoming academic\nperiod.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That must be a lot of work. Let me lend\na hand.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Absolutely not! I am doing this\n<i>specifically</i> to\nreduce your burden.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This is no time for you to be filing\npaperwork. I'll\ntake care of this while\nyou focus on—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Remind me, Эйр Грув. Which one of us\nis the\npresident?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Delegating the student council's\nworkload is my\njob. You can trust me to\ndo it, no matter what\nelse I might be\ndealing with.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "With all due respect—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Do you truly have so little faith in me?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Do you truly believe I would let my\nstudent\ncouncil activities lead to defeat\non the track?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...No.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Then what's the harm?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...For what it's worth, I do appreciate the\n\nsentiment.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Apologies, Trainer, but I must attend to\nthis. I'll\nbe right with you.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Is there anything I can do?"
+            ]
+        },
+        {
+            "text": "Oh? Well, since you're offering, I\nsuppose there\nis.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm sorry to burden you with busywork,\nbut could\nyou help organize these files?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Thank you for your help.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "More work keeps on popping up, to the\npoint\nwhere our training session ends up\ndelayed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Regardless, Симболи Рудольф insists on\ntraining for\nthe allotted time.",
+            "name": "Монолог"
+        }
+    ]
+}

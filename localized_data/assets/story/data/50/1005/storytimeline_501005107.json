@@ -1,0 +1,218 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Aaaaah!",
+            "name": "Students"
+        },
+        {
+            "text": "Today, Академия Тайсен is filled with the\nechoes\nof high-pitched screaming. The\ncause for all this?\nFuji Kiseki."
+        },
+        {
+            "text": "A long, long line winds around the\ncourtyard like\ntangled yarn."
+        },
+        {
+            "text": "Thank you. I'll savor every bite of this\nchocolate\nyou so kindly made for me.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I-I hope you like it!",
+            "name": "Umamusume Fan A"
+        },
+        {
+            "text": "Okay! Next in line, please!",
+            "name": "Fuji Fan Club Member"
+        },
+        {
+            "text": "I-I always go to your races, Fuji! I'm\ncheering for\nyou!",
+            "name": "Umamusume Fan B"
+        },
+        {
+            "text": "Thank you. I'll keep doing my best to\nmake it\nworth it for you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "O-ooh!",
+            "name": "Umamusume Fan B",
+            "choice_data_list": [
+                "(It must be tough being this popular.)"
+            ]
+        },
+        {
+            "text": "Фудзи Кисэки greets each of her fans with a\nsincere\nsmile and charming\npoliteness—the line never\nseems to get\nany shorter."
+        },
+        {
+            "text": "At night..."
+        },
+        {
+            "text": "Good evening, Trainer!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Thank goodness you're still here! I\nwanted to\ncome see you at lunch, but I\nwas so busy.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Hehe. I just thought you might've been\nexpecting\nsomething from me.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Keep this a secret from everyone, okay?\nHappy\nValentine's Day.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...Huh? Where'd it go?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "text": "I made some chocolate just for you, but\nit's gone!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Could I have misplaced it at lunch? But\nno, I still\nhad it just a moment ago...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки mutters to herself as she\nfrantically\nturns all her pockets out, but\nthe chocolate in\nquestion is nowhere to\nbe found."
+        },
+        {
+            "text": "Oh no, I must've lost it! I'm so sorry...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "It's okay!"
+            ]
+        },
+        {
+            "text": "No, it's n—wait! Can you check your\npockets too?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Huh? Why?"
+            ]
+        },
+        {
+            "text": "Please? Can you just check your right\npocket real\nquick?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "There's no way... I reach into my\npocket... and pull\nout a beautifully\nwrapped chocolate."
+        },
+        {
+            "text": "Hehe, I hope you didn't think that was\ntoo sappy.\nIt's not Valentine's Day every\nday, so I wanted to\nsurprise you.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "text": "No. Thank <i>you.</i> I look forward to our\ncontinued\ncollaboration.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки takes out a gorgeous bouquet\nof\nflowers.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "text": "You're very welcome! Also... I have a\nrequest.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "This might sound strange, but may I have\none of\nthese flowers?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm not sure why she wants one, but I see\nno\nreason to refuse."
+        },
+        {
+            "text": "Thank you! I'm just <i>so</i> hungry.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She brings the bouquet to her lips..."
+        },
+        {
+            "text": "And eats a small rose.",
+            "choice_data_list": [
+                "What the?!"
+            ]
+        },
+        {
+            "text": "Mmm, that was delicious.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I love roses. The thorns can be painful to\neat\nsometimes, but that only adds to the\ntexture.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "My favorite are red roses. Their sweet\nfruitiness\nmakes them extra tasty.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What do you say? Want to try a bite?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She hands me the bouquet, and I hold it\ndumbly,\nunsure what to do."
+        },
+        {
+            "text": "Then, I notice the sweet smell of\ncaramel.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Hehe, have you finally noticed? They're\nactually\nmade of sugar!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "It's impossible to tell they're fake\nwithout getting\na real close look them.\nTheir colors and shapes\nlook just like the\nreal deal."
+        },
+        {
+            "text": "They're pretty well made if I do say so\nmyself. I\npracticed making them just for\ntoday.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I wanted to give you a memorable\npresent. How'd\nI do?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You really surprised me!"
+            ]
+        },
+        {
+            "text": "Ahaha! I'll call it a success, then!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ahem!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "\"Roses are red, violets are blue, sugar is\nsweet,\nbut not as sweet as you.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Here's to more sweet days together, my\ndearest\nTrainer.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки and I spend an unforgettable\n\nValentine's Day together."
+        },
+        {
+            "text": "Фудзи Кисэки and I spend an unforgettable\n\nValentine's Day together."
+        }
+    ]
+}

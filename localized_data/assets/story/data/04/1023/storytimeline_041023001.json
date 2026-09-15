@@ -1,0 +1,235 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ is a racer who loves\nformulating theories on how\nevents will\nplay out. But sometimes, pure chance\ndictates the\noutcome—much like our\nchance meeting."
+        },
+        {
+            "text": "One day, while walking behind the\nschool..."
+        },
+        {
+            "text": "Something falls from above. It glitters in\nthe light, reflecting the\nsetting sun.",
+            "choice_data_list": [
+                "(Glasses?)"
+            ]
+        },
+        {
+            "text": "I'm so sorry! You're not hurt, are you?",
+            "name": "???"
+        },
+        {
+            "text": "I hear a sharp, clear voice overhead.\nLooking up, there's an\nUmamusume poking\nout from a classroom window.",
+            "choice_data_list": [
+                "Are these yours?"
+            ]
+        },
+        {
+            "text": "Yes! My apologies—I was lost in thought,\nand they must've fallen off.",
+            "name": "???",
+            "choice_data_list": [
+                "No problem, I'll bring them up to you!"
+            ]
+        },
+        {
+            "text": "You will? That'd be much appreciated!",
+            "name": "???"
+        },
+        {
+            "text": "I carry the glasses up to the classroom\nwhere the student is waiting."
+        },
+        {
+            "text": "Good... The hinges move without issue.\nAnd the lenses appear to be\nunblemished.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "These are tailor-made for racing.\nNaturally, their material is able to\n\nwithstand quite a bit of wear and tear.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Meaning, in theory, the fall from only a\nsecond-story window should\nnot damage\nthem.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "However, the possibility remained that a\nrunner might inadvertently\ntrample them.\nYour assistance, though, reduced that\nchance to zero.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You have my thanks. Now I will not be\nhindered tomorrow.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What's happening tomorrow?"
+            ]
+        },
+        {
+            "text": "Well, with that badge on your collar, I\nsuspect you're a trainer. Then\nI'm sure you\nare well aware of the tryouts tomorrow.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's where Umamusume aiming to debut\nwill exhibit their abilities\nto trainers in the\nhopes of being scouted.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And in the tenth race, I—Biwa\nHayahide—will be participating.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Rather, I <i>must</i> participate. There is\nsomething I have to accomplish in\nthe\nTwinkle Series.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "So, needless to say, I will seize this\nopportunity for victory—and my\nchance to\nmake my debut.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Although she speaks calmly, I feel her\nunwavering confidence, her\neyes\nsmoldering with iron will."
+        },
+        {
+            "text": "I suppose... I can reveal one thing.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Oh?"
+            ]
+        },
+        {
+            "text": "In tomorrow's race, I'll stay near the lead\nuntil the final corner. The\nfront pack will\nbe tightly grouped together.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Following the last turn, I'll pass them from\noutside.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Then I will gain a lead of no less than ten\nlengths—and place first.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "That is the result I've derived from my\ncalculations. Whether it proves\ntrue or\nnot... you should confirm tomorrow with\nyour own eyes.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ's calculations are both\ncomposed and daring at the\nsame time.\nBut will the outcome really be as she\npredicts?"
+        },
+        {
+            "text": "Having grown curious, I come to see the\ntryouts the next day to see\nhow her races\npan out."
+        },
+        {
+            "text": "The racers are in a heated battle right out\nof the gate! The spotlight's\non Biwa\nHayahide, who's gotten a favorable\nposition in the front!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "All according to my predictions.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The front pack is heading into the third\ncorner! It's a close fight\nbetween the\nleaders!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Three... two... one.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Time to confirm my calculations!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "They're out of the corner and into the final\nstraight! Бива Хаяхидэ\ncomes in from the\noutside! Бива Хаяхидэ takes the lead!\nShe's two\nlengths ahead! Now three!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "And Бива Хаяхидэ places first! She wins it\nby a landslide! What an\noverwhelming\nvictory!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "I feel a chill run down my spine as I watch\nBiwa Hayahide's prediction\nplay out word\nfor word!"
+        },
+        {
+            "text": "Wow, that was some show, Бива Хаяхидэ!\nYou had plenty to\nspare—almost like you\nhad it all planned out.",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "Hm? Hey, look! Is that who I think it is?!",
+            "name": "New Trainer"
+        },
+        {
+            "text": "Such formidable abilities should be getting\nBiwa Hayahide scouting\nrequests from all\nsides. But suddenly, an unexpected visitor\narrives..."
+        },
+        {
+            "text": "Nice run.",
+            "name": "???"
+        },
+        {
+            "text": "Oh, it's you, Brian. Here to spectate?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I was just passing by.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I knew it! It's the Beast, Нарита Брайан! I've\nheard she's pretty elusive,\nbut here she\nis—right in front of me!",
+            "name": "New Trainer"
+        },
+        {
+            "text": "Holy hotcakes, what am I waitin' for! Brian!\nI'd love to have a talk!",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "Tch, the rats are squeaking... Later, Sis.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "One moment, Brian. You appear... thinner\nthan usual.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Are you not meeting your dietary\nrequirements? Is your nutritional\nintake\nsufficient?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Lay off of me. I'm eating just fine.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hm. I think I understand. The recent\nchanges to the cafeteria menu\nare not to\nyour liking.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You've always been far too picky an eater.\nListen, our energy\nconsumption is\nexceptional, and—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ugh! You're so bigheaded about\neverything!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What?! M-my head is NOT large! To the\ncontrary, it is of average\nproportions...\nBrian!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Goodness... She can be so stubborn.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Wait up, Brian! The Triple Crown sure\nwould look glorious on you!\nAnd I can help\nyou get it!",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There is still room to improve my theories.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It turns out that Бива Хаяхидэ, who runs\nwith calculated precision, is\nalso the older\nsister of the racer dubbed the \"Beast.\""
+        },
+        {
+            "text": "Strangely, I find myself drawn to her. I feel\na growing curiosity within\nme, wanting to\nknow more about this intriguing runner."
+        }
+    ]
+}

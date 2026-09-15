@@ -1,0 +1,21 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap manages to secure a place in the \nArima Kinen, an impressive feat for a classic-year \nrunner.",
+            "color_text_info_list": [
+                "classic-year"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Unsurprisingly, she seems a little nervous just \nbefore the race."
+        },
+        {
+            "name": "Monologue",
+            "text": "She remembers the spectators' passion and \nexcitement she witnessed last year. This time, \nshe's determined to be the star of the show."
+        }
+    ],
+    "title": "Before the Arima Kinen"
+}

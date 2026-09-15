@@ -1,0 +1,154 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I beat you, you beat me not! I beat you,\nyou beat\nme not!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I BEAT YOU! Hah! How do ya like that? I\nwon!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I can't believe I lost to a weirdo like you!\nUghhh,\nthis <i>sucks.</i>",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Oh? You mad, bro? Wanna go again?\n'Cause I'm\ndown.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You are literally the worst! This is <i>not</i>\nover!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Next time, I'm gonna take you on in one\nof those\nbig races, and you're gonna be\ntoast.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Oho! One of the big 'uns, huh? Sure,\nyou're on!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It doesn't seem like it'll be long before\nГолд Шип\nand Тосэн Джордан face off\nagain.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And before I forget, here.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Huh? What's this?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Like I know. Someone just told me to\ngive it to\nyou. Later.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Well then, let's have a look-see.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Is that another clue?"
+            ]
+        },
+        {
+            "text": "Yeah. This one says \"QUA.\"",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The paper Flash gave me had \"UM,\" and\nnow I've\ngot \"QUA.\" It's all clear now...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Clear that I've got no clue what this\nmeans, that\nis!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The meaning of the hints might not be\nclear, but\nthere is something that is.\nSince both Эйсин Флэш\nand Tosen\nJordan had a clue...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It must mean someone is orchestrating\nthis and\ngiving them the information.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(But who could it be?)"
+            ]
+        },
+        {
+            "text": "Who's the mastermind behind this\n\"Eden\" Gold\nShip is pursuing, and what\nis their agenda? I can't\nhelp but be\nintrigued.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шип! Congrats on defending the\ntitle!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "I was on the edge of my seat, worried\nyou might\nstumble! But you did it again!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Hey, thanks!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hold on... Again? What did I do again?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "You won the Takarazuka Kinen last year too,\nremember?"
+            ]
+        },
+        {
+            "text": "Huh? Seriously? Wow, I'm actually really\n\nawesome.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Really, really awesome.",
+                "Etched-into-history levels of awesome."
+            ]
+        },
+        {
+            "text": "C'mon now. If you're gonna celebrate\nme,\ncelebrate me like you <i>mean</i> it.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Bwahaha! Etched into history, huh?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What a monumental achievement!\nHahaha!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's official! I flourish when showered with\n\ncompliments!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But you know, when you say it that way,\nit really\nsets my soul on fire!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'll come back burning even hotter next\nyear!\nFrom the second the race\nstarts—no, even better,\nthe second I\nwalk through the gate, I'll unleash my\n\nblazing intensity!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп is already in senior year.\nThere is no\n\"next year\" in her debut\nseries. And besid—",
+            "name": "Монолог"
+        },
+        {
+            "text": "BURN BABY, BUUURN!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I have a feeling she might do something\nrash...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Make sure you really heap 'em on in the\nfuture\ntoo, okay?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'm gonna pick up some red and white\nbean buns.\nYou can have the doughy\npart.",
+            "name": "Голд Шип"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ugh... Gag me with a spoon! I'm done\nfor...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "My skin is a mess. I should just bag my\nface...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Blech! I really need to be more careful\nabout\nsunburn!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I should buy a sun hat, arm covers, and a\nsweet\npair of sunglasses.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Aww, but I wish I could enjoy the nice\nweather\nmore... <i>Sigh...</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски seems to be suffering from\nskin\nproblems.",
+            "name": "Монолог"
+        }
+    ]
+}

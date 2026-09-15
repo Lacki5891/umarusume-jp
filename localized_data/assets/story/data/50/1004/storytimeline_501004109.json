@@ -1,0 +1,295 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the holidays.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And today, Марузенски is holding a\nparty for the\nyounger students.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maruzen! Thank you so much for\npreparing such a\nwonderful party!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Heehee! Are you enjoying yourself?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Totally! Not only is it fun, but the food is\ngreat\ntoo!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You just keep eating nonstop, Spe!\nAren't you\nworried about training\ntomorrow?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's okay! From the moment the party\nstarted, I'd\nalready resigned myself to\nmy fate!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I don't see how that makes it okay, but\nsure...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh, c'mon, it'd be a waste not to enjoy\nourselves\nat a party!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "The best thing to do is have fun and eat\nall the\ngoodies we can! Forget about the\nrest!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Yes... You're right! It would be rude to\nrestrain\noneself.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So get eating, King! We can cry on the\nscale\ntomorrow.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Sky, are you sure your idea of a party\nisn't poking\nfun at me?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehehe, what a wonderful day we're\nhaving. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Thank you so much for today,\nМарузенски!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You're welcome! ♪ I'm so happy\neveryone is\nhaving fun!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Right, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Right, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A few days earlier...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks for helping me carry everything,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thanks for helping me carry everything,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now we're all set to raise the roof with\nthe\nyounger students.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee! I can't wait to see everyone's\nhappy\nfaces!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You're always so considerate of the newer\nstudents."
+            ]
+        },
+        {
+            "text": "It's because they're all so cute!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I just want to watch over them, you\nknow? I want\nto see them happy and\nhealthy.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Don't you know the saying? \"Even\nnaughty kids\ndeserve to grow up strong!\"",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I don't think I've ever heard that one..."
+            ]
+        },
+        {
+            "text": "Huh? My mom says it all the time...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Anyway, I want to reward all of them for\nworking\nso hard this year!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So I hope you'll help me see it through!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Right, let's make it a blast!"
+            ]
+        },
+        {
+            "text": "Yeah! It's going to be off the hook!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ehehe, I'm so happy to have fun with\neveryone\nlike this!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You and your trainer are like our Santa\nClauses!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Teehee, that's right!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I wanted to give presents to all you\ngood little\nponies! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now come on, let's party to the max!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay! I'm gonna stuff myself silly!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I had the best time! ♪ Thanks for all\nyour help,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I had the best time! ♪ Thanks for all\nyour help,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right, I've given out presents, so now\nit's time\nfor Santa to return to the North\nPole! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Shouldn't you get a gift too?"
+            ]
+        },
+        {
+            "text": "As long as everyone is happy, that's all\nthat\nmatters to me!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Besides, do I look like the type to be\nexcited\nabout getting presents?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "But you've been good too, so I want to give you\nsomething!"
+            ]
+        },
+        {
+            "text": "Wow! You really want to give me a\npresent,\nТренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wow! You really want to give me a\npresent,\nТренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee! So I guess that makes you my\nSanta\nClaus, huh?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee! So I guess that makes you my\nSanta\nClaus, huh?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It'd be rude not to accept, so I guess I'll\nlet you\nspoil me a little!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now, what gift would I like... How about\ngoing for\na drive with me?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски, you've been good too,\ny'know!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Me?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I mean, you prepared this whole party\nfor us,\nright?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "So that's why I want to give you a gift\ntoo! What\nwould you like?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It's fine, really! I'm the oldest here, so...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Oh c'mon, just accept the present."
+            ]
+        },
+        {
+            "text": "Well, if even you say so...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, if even you say so...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, I've got it! What if <i>I'm</i> your present?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "My gift is to keep being your running\n\ncompetition!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "And I'll continue running with you as\nwell, just like\nSpe! ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "No fair! I can't let you guys have all the\nfun!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'll be your racing partner too, Maruzen!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Naturally, I'll accept the challenge as\nwell!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...So that's where this is going, huh?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Well... I guess all of us together might\nactually\nmake for one heck of a race...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Starting with Спешл Уик, all of the\nyounger\nstudents then volunteer to be\nrunning partners\nwith Марузенски.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Hehe, I guess <i>everyone</i> is my Santa\nClaus,\ntoday!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, I accept all of your wonderful\ngifts!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So come and get me, everyone!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thus, the holiday party ends with smiles\nall\naround.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, our exciting party continues.",
+            "name": "Монолог"
+        }
+    ]
+}

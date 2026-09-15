@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time to train, but Грасс Вандер is\nnowhere to\nbe seen. I go looking for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, Trainer. Have a look at this book.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's such a popular title, it rarely stays on\nthe shelf\nat the library, but I finally\nmanaged to borrow a\ncopy.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's a lovely piece of literature\nthoroughly\nexplaining the roots of\nJapanese culture.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It even includes seasonal pictures of\nplaces which\nhaven't lost their beauty\neven after a\nmillennium. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Would you like to see them as well,\nТренер?\nYou're sure to find one to your\nliking.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What about training?"
+            ]
+        },
+        {
+            "text": "Oh! I-I'm so sorry. How could I be so\ncareless?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It completely slipped my mind. I promise\nto be\nmore attentive in the future.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She seems genuinely sorry, so I give her\nthe day\noff.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa... Holy smokes! That racer's so\ntiny, but\nshe's good!",
+            "name": "Fan A"
+        },
+        {
+            "text": "No kidding! It was incredible the way she\ncaught\nup with the others! What was her\nname again?",
+            "name": "Fan B"
+        },
+        {
+            "text": "Нарита Таисин!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Нарита Таисин does amazing in the\nchallenging\nG1 race!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Already, the public's opinion of her is\nchanging\nfor the better!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You did it, Taishin!"
+            ]
+        },
+        {
+            "text": "Sure, but this isn't enough for me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "My next race is the real deal.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The Satsuki Sho is the first part of the\nTriple\nCrown tour, and I'm gonna be the\none to win it!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин's fighting spirit burns\nbrightly as we\nhead down the path of\nthe Satsuki Sho!",
+            "name": "Монолог"
+        }
+    ]
+}

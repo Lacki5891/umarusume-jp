@@ -1,0 +1,203 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few days have passed since the\nshocking news\nbroke. It may be due to\nnerves, but Эйсин Флэш\ndoesn't have her\nusual vigor.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Nice running, Flash. But this one's my\nwin!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "I started sprinting five seconds later than\n\nplanned... What a careless mistake.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I was thinking this while we were on the\ntrack, but\nlike... You seem kinda off\ntoday.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "You usually zoom past me like a rocket,\nbut\ntoday you were more like... I dunno,\na can of soda\nfizzing out, I guess?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Like, I can't explain it, but there was no\n<i>whoosh</i>\ngoing on. Y'know, like,\n<i>WHOOSH!</i> ♪",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Thanks for joining us, Jordan."
+            ]
+        },
+        {
+            "text": "No probs.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "She was good."
+            ]
+        },
+        {
+            "text": "And, as a member of the previous\ngeneration, she\nhas a wealth of\nexperience. She took advantage\nof my\ncarelessness with ease.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Should I face a racer with even more\nexperience\nthan Jordan at the autumn\nTenno Sho...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She's probably thinking about the\nrunners on the\nnews. They're a threat for\nsure, but there's\nsomething even more\nworrisome than that.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You'll be fine if you let go of your worries and\nsimply run."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But if I mistime my actions, it'll create a\nchain of\neven worse mistakes.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I can't prevail over the others like that.\nHowever,\nthe same is true if I take no\naction... The\nprobability of reaping\nunsatisfactory results is\nhigh.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "In which case, perhaps the race schedule\nitself\nshould be revised.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why so?"
+            ]
+        },
+        {
+            "text": "The fiercer the competitions I take on,\nthe more\nfatigued I will become.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "For instance, if we remove the G1, which\nwe know\nwill be an intense race, then I\nwould be free to\nfocus entirely on the\nautumn Tenno Sho.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You should be fine as long as you continue to\nimprove, though."
+            ]
+        },
+        {
+            "text": "I wonder about that...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What is it you <i>really</i> want to do?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Pardon me, but please give me a little\ntime to\nthink.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Later that night, Эйсин Флэш sends me a\nmessage\nwith a fully revamped schedule\nattached.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I removed the Osaka Hai and spring\nTenno Sho in\nfavor of G2 and G3 races.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "These changes are to ensure I won't\novertax\nmyself and will be in peak\ncondition for the\nautumn Tenno Sho...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I summon Эйсин Флэш to my office to\ndiscuss the\ndrastic—and frankly\nself-deprecating—changes\nshe made to\nher schedule.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why did you make these changes?"
+            ]
+        },
+        {
+            "text": "I would like to preserve my track record,\nso I\ndecided it would be more prudent\nto pursue a\nconservative path than to\nrisk crushing defeat.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Were I to run against senior opponents\nin the G1,\nI would indubitably become\nburdened with\nexhaustion and become\nmore prone to making\nmistakes.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "As a result, I could perform\ndisappointingly at the\nautumn Tenno\nSho... In front of my parents, no\nless.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And if that is what I'm risking, I'd rather\nbe more\nflexible than stick stubbornly to\nmy original plan.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Just like you.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Meaning?"
+            ]
+        },
+        {
+            "text": "Your flexible ideas were what propelled\nme\nforward both before and after the\nDerby.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It's a positive change. Right now...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This is the most optimal race schedule I\ncan\ndevise for myself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She said it's a \"positive\" change... but all\nit looks\nlike to me is that she's afraid of\nfailure.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What she needs now isn't a schedule\nchange, but\na chance to face herself\nwithout disillusionment.\nTo do that, she\nneeds to clear her mind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So what is it you wanted to ask me\nabout?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I wanted to talk to you about Flash since you\nknow her so well."
+            ]
+        },
+        {
+            "text": "Hmm, I dunno about that. ☆ But! I do\nsee her\nevery day at the dorm!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Which is how I know she's got a lot on\nher plate\nright now.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You know what? What Flash really\nneeds is...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The blue sea and a white, sandy\nbeach! ♪",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

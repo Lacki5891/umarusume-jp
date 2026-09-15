@@ -1,0 +1,253 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Waaaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Riiiing...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Geez, you're loud! Are you <i>trying</i> to\ndestroy my\neardrums?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "B-b-but... I m-mean! <i>Sob...</i> The three of\nus have\nfinally... finally...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "WAAAAAAHHHHH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Calm down, Ticket.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Are you planning to cry out all of the\ncarrot juice\nyou just drank for our toast?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "During lunchtime, my attention is drawn\nto a\nsudden burst of noise and activity. I\nlook over to\nsee Нарита Таисин, Biwa\nHayahide, and Winning\nTicket together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Уиннинг Тикит is honest, full of energy,\nand\nwears her heart on her sleeve. She's\ndetermined\nto become a Derby\nchampion.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Бива Хаяхидэ bases her running on a\nwinning\nequation she personally\ncalculated and boasts an\noverwhelming\nrecord of consecutive victories.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They both appear to be great friends\nwith Narita\nTaishin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But I do understand where your joy is\ncoming\nfrom, Ticket. I'm happy too.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "After all, the three of us have all finally\ndebuted.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Uh-huh! That's right! And I... I...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaah! I want us to keep racing against\neach\nother foreveeerrr!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'd rather not. You're way too noisy.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But come on! You're going for the Triple\nCrown,\nright?! That's my goal too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>I'm</i> gonna be a Derby champiooon!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Heh. While I do understand just how\ncapable you\ntwo are...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I won't let that stop me from emerging\nvictorious.\nI'll be the one who claims the\nthrone of the Triple\nCrown champion.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hah. Says you.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "During afternoon training...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, my ears still hurt... It's all Ticket's\nfault.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You three looked like you were having a blast."
+            ]
+        },
+        {
+            "text": "Huh? You were watching us? Wait, <i>that's</i>\nwhat\nyou think it looked like?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's not like we're good friends or\nanything. It's\njust...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "When you're new at the academy, they\nstart you\ndoing 1,000-meter runs to get\nused to racing.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I didn't have the patience to take it\nslow, so I\ndecided to run 2,400 instead.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But then those two said they'd run the\nsame for\nsome reason.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Anyway, that's how the three of us\nended up as\nrivals.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Haaaaah!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Whoa, Бива Хаяхидэ's moves are timed\nso\nperfectly... It's like she's already\nknows how the\nentire race is going to\nplay out!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Raaaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket's pretty impressive too! Her\nexplosive\npower is out of this world!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "(Ugh, damn those two!)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm not gonna lose to theeem!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Of course, I wasn't used to running the\nclassic\ndistances then, and in normal\ncircumstances, I\nwouldn't have been able\nto put up much of a\nfight.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But for some reason, I managed to\nsummon up\nenough strength.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Dang, it's still too much for me to run\nthe whole\n2,400 meters well...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(But I managed to get a better time than\nusual.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Wow, wow, wow, WOOOOW!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoa! What the hell are you—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Your name's Нарита Таисин, right?! I'm\nWinning\nTicket!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I got all shivery watching your final\nsprint! That\nwas <i>awesome!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You're strong, so I claim you as my rival!\nRun\nanother race with me, pleeeaaase!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Another race? That sounds like an\nentertaining\nidea you have there.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Would it be alright if I join as well?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What the... What's with you two?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ticket's been a pain in the butt since\nthen, and\nHayahide's just kinda been\naround too.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's all.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "So your first race against each other was what\nbrought you together."
+            ]
+        },
+        {
+            "text": "It wasn't the first time I raced one of\nthem,\nthough...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What's that?"
+            ]
+        },
+        {
+            "text": "Nothing. Anyway, the point is that we're\nnot good\nfriends or anything.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But... I do know just how good they are.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That goes for both Ticket and Hayahide.\nI don't\nwanna admit it, but they're really\ngood.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "They're both going for the Triple Crown\ntoo. You\nknow what that means, right?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "There's no way we can lose to them!"
+            ]
+        },
+        {
+            "text": "Glad we're on the same page. Let's get\nto training\nalready.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We dedicate the day to preparing for\nthe\ninevitable battles Нарита Таисин must\nface against\nУиннинг Тикит and Biwa\nHayahide.",
+            "name": "Монолог"
+        }
+    ]
+}

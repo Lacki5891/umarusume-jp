@@ -1,0 +1,327 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the evening, and Бива Хаяхидэ and\nI have\njust finished buying some training\nsupplies. We're\non our way home,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? It looks like something's going on\nover\nthere...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "A raffle, huh? Didn't we get something\nthat\nlooked like a raffle ticket from the\nstore?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Since we have one, why don't you give it\na—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Get out there and win a big one, Hayahide!"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You want <i>me</i> to go up there?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Do you not want to?"
+            ]
+        },
+        {
+            "text": "It's not that! I just... hadn't considered\ngoing\nmyself.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm usually the one watching things\nunfold, not\nthe one participating in the\nactual event...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Did you always let Brian take the spotlight?"
+            ]
+        },
+        {
+            "text": "Well, yes... She was always so sweet\nwhen she won\nsomething.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Back when she was still quiet and shy,\nthe only\ntime she would get excited and\nyell aloud was\nwhen she won something.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Well, today, it's your turn to get excited."
+            ]
+        },
+        {
+            "text": "Um... I'd hate to disappoint you, but I\ndon't think\nthat'll be happening...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ gathers her courage,\nwalks up to\nthe raffle spinner, and gives\nthe handle a crank.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...What?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I won the grand prize?!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "That's awesome!"
+            ]
+        },
+        {
+            "text": "I-indeed...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "text": "I-I'm fine. I'm just still in shock...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The odds seem so impossible. There\nmust be 300\nballs in the machine, and of\nthose, there can't be\nmany for the grand\nprize—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's right! There's only <i>one</i> ball for the\ngrand\nprize!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "We beat 300-to-1 odds on our first try?!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Talk about lucky!"
+            ]
+        },
+        {
+            "text": "I-I guess...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But wow, a voucher for a hot spring\nvacation...\nIt'd be nice to go once things\ncalm down.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Do you want to go?"
+            ]
+        },
+        {
+            "text": "Oh! I'm sorry! This is your prize too, so of\ncourse\nyou're free to invite whoever\nyou'd like. I'm not\nsure why I assumed it\nwould be me.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What was I thinking? I guess I must still\nbe in\nshock.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I don't mind if you want to use it for yourself."
+            ]
+        },
+        {
+            "text": "What?! You're all right letting me have\nit?! Hm...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "All right, how's this? After the Twinkle\nSeries is\nover, we can give more thought\nas to which one\nof us should use it and\nhow.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And if we both happen to be free...\nWell, we can\ncross that bridge when we\nget to it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yay! I won something!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hehe! I can't believe I actually won—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ahem... Yes, well, now I can certainly\nsee how one\nmight get a little excited\nabout winning first\nprize.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We won this with that ticket we got at\nthe\ntraining supply store, so...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I think it's only fair if we split it.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "Of course! But only if you promise not to\ntell\nanyone about my little outburst\nhere.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Ah, so it's a bribe of sorts."
+            ]
+        },
+        {
+            "text": "N-no! Just... please don't let anyone\nknow.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If Brian were to find out I was acting like\na little\nkid over some raffle... Ugh, the\nwhole thing would\nbe far too\nembarrassing...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, this is... a lot of carrots. Well, I\nguess I\nwon't need to buy any for a\nwhile.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Since I have so many, I'd like to give you\nsome as\na small token of my gratitude\nfor all your hard\nwork!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "And what about Ticket and Taishin over there?"
+            ]
+        },
+        {
+            "text": "You read my mind. I was planning to\nshare some\nwith them too.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ticket! Taishin! Over here!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Thank youuu!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hehe! Look out, Trainer. Make sure she\ndoesn't\nknock you over when she comes\nflying over he—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Crash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh my gosh! Are you two okay?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yay!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You did it!"
+            ]
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ahem... Yes, well, winning third prize is\nquite a\nfeat.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "What? I only get a pack of tissues?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "It just wasn't your lucky day."
+            ]
+        },
+        {
+            "text": "I... guess not. But I did learn something.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Brian used to be crushed when she didn't\nwin. I\nthought she was adorable\nwhenever she wilted\nlike that.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But now I understand how disappointing\nit\nactually feels not to win anything.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And that's how we end up sharing a\nwhole bushel\nof carrots with Winning\nTicket and Нарита Таисин.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We decide to split the prize, so we each\nhave half\na carrot.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I promise to take her secret to the grave,\nand we\nenjoy the hamburger steak\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I console Бива Хаяхидэ as we resume\nour walk\nback home...",
+            "name": "Монолог"
+        },
+        {
+            "text": "And with that, Бива Хаяхидэ puts away\nthe\nvoucher very carefully.",
+            "name": "Монолог"
+        }
+    ]
+}

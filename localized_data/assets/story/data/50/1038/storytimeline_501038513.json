@@ -1,0 +1,288 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I come to the station on my day off to\nfind one of\nits corners particularly\ncolorful.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, this is a great angle. ♪ Don't we\nboth just\nlook awesome?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Whoa! ☆ You're a selfie genius,\nCurren! ♪ Next,\nlet's try this pose...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wait... Big Bro? What a coincidence! ♪\nOr is it\nfate?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wait... Big Sis? What a coincidence! ♪\nOr is it\nfate?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Whoooa! It's <i>gotta</i> be fate! ☆ That's\ncrazy!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "What are you two—"
+            ]
+        },
+        {
+            "text": "Hey, Curren! Let's have your trainer hang\nout with\nus too!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Are you sure? Okay, thanks! Come on,\nBig Bro,\nlet's go!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Wait. What?"
+            ]
+        },
+        {
+            "text": "Are you sure? Okay, thanks! Come on,\nBig Sis,\nlet's go!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Wait. What?"
+            ]
+        },
+        {
+            "text": "And before I even know what's\nhappening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm... Which photo booth should we do?\nI don't\nreally know much about this stuff.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I did the one in the back the other day.\nYou\ncouldn't really edit the pics, but the\nphotos had\nso much sparkle!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm okay with whatever, but you wanna\ndo a more\nnatural-looking one, right?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Haha. You really know me. ♪ Let's try\nthat one!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "That phone case is so cute! It's so\nglittery! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's so like you—super flashy! ♪ It'd be\ncool if you\nchanged your case to match\nyour outfit!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I like that! You're a genius. ☆ I'm gonna\nget it! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We keep walking around together and\nend up at\nMayano Top Gun's favorite\nshop.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They have both fashionable designer\nclothes and\neccentric clothes that bring\nout your personality,\nso even just\nlooking around is fun. ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But today, I'm gonna have you try on a\nbunch of\nthings! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Widdle ol' me? Why?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You have your own fashion rules, right?\nIt's cute,\nbut I wanna see you in\nsomething completely\ndifferent too!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Fashion rules?"
+            ]
+        },
+        {
+            "text": "Yeah! ☆ Like something fashion-wise\nyou always\ndo or never ever do.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You know me so well! ♪ I have a few,\nlike how\nmuch skin I show and how I\nalways wear a mini\nskirt.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I do all that to make sure I'm a\nhundred-percent\ncute, so I've never\nreally thought about doing\nsomething\nelse...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hm... But well, if Big Bro begs me to, I\n<i>guess</i> I\ncould give it a try.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Hm... But well, if Big Sis begs me to, I\n<i>guess</i> I\ncould give it a try.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Hooray! ☆ C'mon, tell her to try! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Come oooon.",
+            "name": "Together",
+            "choice_data_list": [
+                "...P-please try something new!"
+            ]
+        },
+        {
+            "text": "Ehehe. Guess I've got no choice. ♪\nSooo...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Would you rather see me in something\nbold or\nsomething super stylish?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Something bold.",
+                "Something stylish."
+            ]
+        },
+        {
+            "text": "Oh? You wanna see me be more bold?\n\nInteresting...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I didn't mean it like that..."
+            ]
+        },
+        {
+            "text": "Oh? You wanna see me be more bold?\n\nInteresting...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I didn't mean it like that..."
+            ]
+        },
+        {
+            "text": "Mhm, sure you didn't. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hm... Something bold... Maybe a harness\nbelt and\nsome fishnet tights?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Maybe. But something tells me my\ntrainer has a\ndifferent kind of boldness\nin mind. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "Maybe. But something tells me my\ntrainer has a\ndifferent kind of boldness\nin mind. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "Really? You mean, like... something\nsee-through?!\nWh-whoa... Now <i>that's</i>\nbold.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You should tell me about more shops\nlike this. ☆ I\nknow you've been looking\nto try a bolder look for\nyourself.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What?! You knew?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Haha. ☆ Wait here, 'kay? I'll go try this\noutfit on\njuuust for you, Big Bro...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Haha. ☆ Wait here, 'kay? I'll go try this\noutfit on\njuuust for you, Big Sis...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Maybe. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh, so you like a more mature look?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "text": "Oh, so you like a more mature look?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "text": "So by \"stylish,\" you mean something\nmore\nmonotone and reserved, right?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Which means... adults prefer mature\nwomen. I\nknew it!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "...All right then, Big Bro. I know what\nyou're\nthinking. In that case...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...All right then, Big Sis. I know what\nyou're\nthinking. In that case...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I guess I've gotta teach you the true\nappeal of\ncuteness.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Wait, what?!"
+            ]
+        },
+        {
+            "text": "I guess I've gotta teach you the true\nappeal of\ncuteness.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Wait, what?!"
+            ]
+        },
+        {
+            "text": "Cuteness is all around us. It is\nall-encompassing.\nCuteness... is life. It\nseems you don't quite get\nthat yet.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Sorry, Maya, we're gonna have to hit\npause on\nthe shopping. My crash course\non cuteness about\nto start! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Copy that! ☆ That sounds fun! I wanna\ntake the\nlesson too!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Каррен Тян starts her lesson. Three,\ntwo,\none—Cute Каррен Тян!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Каррен Тян keeps teasing me as we\ncontinue\nshopping, and it ends up being\na mentally and\nphysically exhausting\nday.",
+            "name": "Монолог"
+        }
+    ]
+}

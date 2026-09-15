@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Arima Kinen is always a big event.\nThe\nentrants are chosen by popular\nvote, so the\nlineup invariably ends up\nbeing a who's who of\nthe best racers of\nthe year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But this year, the atmosphere in the\nstands is a\nlittle different.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Симболи Рудольф is finally taking on\nsenior-year\nracers... I can't wait to see\nhow she does!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Don't get your hopes up. Some of these\nracers are\nalmost finished with their\ncareers. One of them's\ngonna snag the\nwin, I figure.",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Still, she's the Emperor, right? She'll be\ntop three\nfor sure.",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Симболи Рудольф...\nRudolf... That Rudolf...",
+            "name": "Spectators"
+        },
+        {
+            "text": "Ah, you're back. How's the mood out\nthere?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Everyone's talking about you."
+            ]
+        },
+        {
+            "text": "Haha... Are they now? How flattering.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "All eyes are on me. They hope that I will\nmeasure\nup favorably against the\nseniors, as well as the\nmost talented of\nmy contemporaries.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But still, I have yet to capture their\nhearts.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф came second in the fan\nvote,\nlosing out to a senior-year\nUmamusume, and it\nseems to be\nweighing on her mind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A simple poll cannot truly measure the\npeople's\nfaith in me, of course, but the\nresult does\nsymbolize my current\nstanding quite aptly.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Many believe that the seniors'\nexperience\npresents an obstacle that I\ncannot hope to\novercome.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Which means that they doubt my\nabilities. And\nsuch doubts have only one\nremedy.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Let's show them how strong you really are!"
+            ]
+        },
+        {
+            "text": "But of course!",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

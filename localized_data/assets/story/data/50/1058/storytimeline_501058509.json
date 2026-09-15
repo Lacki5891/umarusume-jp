@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During my trip into town, I see Meisho\nDoto\napologetically lowering her head\nto the bronze\nstatue in front of the\nstation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm so sorry about that! Do you have any\ninjuries?\nAre your clothes stained?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "What are you doing?"
+            ]
+        },
+        {
+            "text": "Trainer! So, um, I was walking, and... my\nlegs\nstarted feeling numb, and then I\ntripped, and I\nbumped into this person!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The collision was pretty strong. Look\nhow sickly\ntheir face is... Um, huh?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "This is a br-bronze statue? I'm\napologizing to a\nbronze statue? But\nwhy?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото seems to be dealing with a\nlot of\nfatigue... I may want to rethink her\nrace schedule.",
+            "name": "Монолог"
+        }
+    ]
+}

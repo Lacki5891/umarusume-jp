@@ -1,0 +1,110 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What a fierce contest between these\nfantastic\nsenior racers!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "The winner of today's race is—",
+            "name": "Комментатор"
+        },
+        {
+            "text": "...Good race.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You too. You looked good out there, as\nusual.\nBut...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Things will be different tomorrow. <i>I'll</i> be\ndifferent\ntomorrow. So long as I get\nanother chance, I will\nwin!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Heh... And I'll be right there to take you\non.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm back.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You did great!"
+            ]
+        },
+        {
+            "text": "Thank you. I think so too. I was able to\nrun at my\nvery best today.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "As I see Бива Хаяхидэ smiling proudly,\na sense\nof regret fills me.",
+            "choice_data_list": [
+                "(If only we'd known this race would be at\nHanshin from the beginning...)"
+            ]
+        },
+        {
+            "text": "Then maybe she would've been able to\nput on an\neven better performance. She\nmight've..."
+        },
+        {
+            "text": "This is incredible, folks! Нарита Брайан has\nnot only\nwon the race, she's set a new\nrecord!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "She might've even set a new record..."
+        },
+        {
+            "text": "Earth to Trainer! What are you mulling\nabout so\nseriously?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I was thinking about how you were so close to\nan even better result."
+            ]
+        },
+        {
+            "text": "Oh?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hehe. It's certainly important not to\ngrow\ncomplacent. And I agree—I'm not\nsatisfied with\nmy performance today\neither.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's why I want to test myself at the\nTakarazuka\nKinen next. I must if I'm to\nbe the best of my\ngeneration.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The Takarazuka Kinen... Only the best\nand most\nfamous Umamusume are\ninvited to take part in it.\nNot only that...",
+            "choice_data_list": [
+                "The Takarazuka Kinen is held at Hanshin, right?"
+            ]
+        },
+        {
+            "text": "Right. The length of the race is different,\nbut yes,\nit's also held here at the\nHanshin Racecourse.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Are you still upset about the venue\nchange?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "A little..."
+            ]
+        },
+        {
+            "text": "Goodness. There's no point fussing over\nit. It's not\nas if anything could've been\ndone about it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's just focus on the next race. First,\nwe should\nlook up who I'm most likely to\nbe up against in\nthe Takarazuka Kinen...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I do my best to leave my worries behind\nand\nswitch gears to start preparing for\nthe Takarazuka\nKinen together with Biwa\nHayahide."
+        },
+        {
+            "text": "This time, I'll make sure she can really\nrun at her\nfull potential!"
+        }
+    ]
+}

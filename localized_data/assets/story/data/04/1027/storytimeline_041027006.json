@@ -1,0 +1,255 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I take a short break in the trainers'\noffice one late afternoon,\nМэдзиро Райан\nbursts through the door looking like a\nsweaty, nervous\nwreck.",
+            "name": "Монолог"
+        },
+        {
+            "text": "T-Trainer...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "This is bad... really, <i>really</i> bad! Not even\nthe tastiest protein shake is\ngonna fix this!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан nervously pulls out a\nmagazine to show me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "On the cover, drinking tea while striking\nan elegant pose, is Mejiro\nMcQueen.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Oh, she looks nice here."
+            ]
+        },
+        {
+            "text": "Yeah, she does... But that's not the issue!\nLook at this header on the\nnext page!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "\"The Magnificent Maidens of Mejiro, Part\nOne.\"",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "M-magnificent... Maidens...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Wait, is the second part going to feature..."
+            ]
+        },
+        {
+            "text": "Yeah, I just got a call from the magazine...\nBut I'm not like McQueen\nat all!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "They're probably picturing some lovely\nlittle lady who plays violin\nwhile longingly\nlooking out the window! Like McQueen!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Are you going to say no?"
+            ]
+        },
+        {
+            "text": "Urgh... Well...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You and I have been talking about how I\nneed to try things I'm not\ngood at...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm still unsure how far my talents go, even\nafter all this time... But to\nfigure that out, I\nmust open myself up to new possibilities.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And to do that, I need your help!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Okay, prepare yourself, Trainer! We're\nabout to explore a world\npreviously known\nto only McQueen and other elegant\nfolks... The\n<i>high-class mall.</i>",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Victoria, Mademoiselle, Prim & Preen... All\nof these are super fancy\nbrands!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You sure know your stuff."
+            ]
+        },
+        {
+            "text": "N-no, I don't! Those names are just burned\ninto my mind after reading\nthat magazine\nover and over again!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Um... Do you mind if I take a look?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Go right ahead."
+            ]
+        },
+        {
+            "text": "Thanks!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Feeling the weight of the situation, Mejiro\nRyan approaches the shop.\nAfter wavering\nfor a bit, she takes a step inside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa, a tulle skirt?! It's even got a ribbon\non the back! Ah, but...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "M-my thighs are a bit too jacked for this...\nIt'll look weird.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Frilly blouses like this suit McQueen\nperfectly. If I tried to wear\nthem...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Gaaah, this is impossible!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "This pattern continues for a while. Ryan\npicks up each piece of\nclothing with a\nsmile on her face, only to put it down\nagain with a\ndejected look in her eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Suddenly, she stops before a knit sweater\non display.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A pink sweater... bejeweled with pearls...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I would never <i>ever</i> pick something like this\nnormally...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But I gotta push myself! Yeah, just pretend\nyou're pumping out\nanother set of chest\npresses... Excuse me, I'd like to try this on!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "We finish up our shopping and head home.\nDespite our successful\ntrip, Мэдзиро Райан\nstill seems antsy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I did it... I bought a pink sweater.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Are you happy with it?"
+            ]
+        },
+        {
+            "text": "O-of course! I mean, it's so elegant, so it\nshould work perfectly for the\nmagazine.\nBut...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "For some reason... that just makes me more\nnervous. My heart's\nbeating so hard, my\npecs are trembling!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Huh? Was that a cat? Where'd it come\nfrom?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Whoa!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Before us stands one of the many tall trees\nlining the streets.\nHowever, hanging from\nthis one is a kitten, its claws caught in the\n\nbranches.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In the blink of an eye, the kitten's claws\nfinally give out, and it begins\nto fall. It's at\nleast a thirty meter drop!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've gotcha, little one!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан rushes to the kitten, sweater\nin hand.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Come oooon!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Just as the kitten is about to hit the\nground, Ryan manages to catch it\nin her\nsweater.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... You're safe now.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "The kitten wiggles around in the sweater,\nperhaps a little shaken, but\notherwise\nunharmed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I take the kitten in my arms, and my eyes\ngo wide...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The kitten's claws had clearly gotten\ncaught in the sweater. It's\ncompletely\nshredded...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Well, the sweater's ruined..."
+            ]
+        },
+        {
+            "text": "Hehe... Yeah.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It's weird, but for some reason, I almost\nfeel relieved.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Oh?"
+            ]
+        },
+        {
+            "text": "Going shopping at a fancy mall and\ngetting frilly clothes... It just\ndidn't feel\nright to me.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I think I was trying too hard to be like\nMcQueen. I really stepped out\nof my\ncomfort zone.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But I realized something while I was\nrunning towards that kitten.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I... am Мэдзиро Райан, <i>not</i> Мэдзиро МакКуин.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I think frilly stuff is cute, but it's not ME,\nyou know? What <i>is</i> me is\ndashing in to save\na kitten! Nobody can beat me when it\ncomes to\ntaking action!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And... I'm okay with that!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Sounds like you found another talent."
+            ]
+        },
+        {
+            "text": "I sure hope so! And you know... I think I'm\ngonna do this photo shoot\nin my gym\nclothes!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан beams with pride and\nconfidence. A few days later, I ask\nabout\nthe interview. She tells me it went off\nwithout a hitch!",
+            "name": "Монолог"
+        }
+    ]
+}

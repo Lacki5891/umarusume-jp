@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, in the central plaza...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh, looks like I've got a message from\nmy agent.\nLet's see... they need me for\nsome detail shots\nafter this, huh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Urk, but I have training then! Why do\nthese\nscheduling conflicts keep\nhappening...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You seem pretty busy. Everything okay?"
+            ]
+        },
+        {
+            "text": "Oh, it's just you. Thanks for the concern,\nbut I was\nthe one who decided to take\nall this on, so it's\nfine.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "My race is coming up soon, though, so\nI'm gonna\nhave a lot on my plate...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Focus on what's at hand for now!",
+                "Would you like an energy drink?"
+            ]
+        },
+        {
+            "text": "...Yeah, you're right. I don't have time to\nbe\nindecisive.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh? For real? You're a lifesaver.\nShowing up to a\nshoot like a zombie\ndoesn't exactly scream\nprofessional.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I've just gotta get things done one at a\ntime...\nOkay, I've got this. Thanks for the\ntip.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Nice, I'm ready to take on the world\nnow. Thanks\nagain for the drink. I'll do\nmy best at the shoot\nand my race.",
+            "name": "Голд Сити"
+        }
+    ]
+}

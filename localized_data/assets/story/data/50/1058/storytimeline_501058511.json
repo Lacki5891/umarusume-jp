@@ -1,0 +1,207 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm walking through the academy with\nMeisho\nDoto when we hear Кинг Хало's\nvoice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yes! If you want a first-rate racer, then\nlook no\nfurther than...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало!",
+            "name": "Entourage",
+            "choice_data_list": [
+                "What is going on?"
+            ]
+        },
+        {
+            "text": "Oh wow... So that's the King\nCommendation...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "K-King carries herself so highly... She's\nreally\nradiant...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Good day, Doto. And thank you for that\nintense\ngaze.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Eeek?! I'm s-s-sorry! I didn't mean to\nstare!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "There's no need to worry. Your\nintentions are\nloud and clear.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You wish to recite the King\nCommendation with\nus! Do you not?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Aaagh! W-wait, m-me?! I don't think I\ncan. I-I'm\nsure I'll mess up...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ohohoho! Don't worry that head of\nyours! I'm\ngranting you the right to learn\ndirectly from me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Y-you're willing to teach... someone\nlike... me?!\nHuuuh?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Кинг Хало begins her lesson amid Meisho\nDoto's\nconfusion.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's my name?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ki... King!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The correct answer is \"King\"! It's\nimportant to\nkeep your pronunciation\ncurt and crisp.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ki... Kin... Kin-guh!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "So close! It should actually sound like\n\"King\"! Try\nto say it clearly, okay? ♪",
+            "name": "Almond-Eyed Umamusume"
+        },
+        {
+            "text": "Ohhhh, my apologies! I j-just can't seem\nto get it\nright!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I suppose you do struggle with enunciating..."
+            ]
+        },
+        {
+            "text": "Then consider this your chance to\novercome your\nnerves! Now, try and\nrepeat my name until you\nget it right!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "B-but, I s-surely shouldn't waste any\nmore of your\ntime, King!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Nah, it's fine. The three of us don't have\nanywhere\nto be, so take your time.",
+            "name": "Short-Haired Umamusume"
+        },
+        {
+            "text": "I c-couldn't possibly do that! Um, I will\npractice\non my own once I get home!\nA-a-apologies for all\nthis!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Practice on your own? You...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, no, what I meant was... I'm sorry,\nso sorry!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I want to nail it in one go... If I do,\nmaybe I'll\nbecome a little confident, just\nlike you are,\nKing... Ohh...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hehe... I like that you possess zeal. We\nwill recite\nthe King Commendation until\nyou succeed!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wha... r-really?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "King... well, um... I pwomise to do my\nb-b-best!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "That's the spirit!",
+                "Let's first take a break."
+            ]
+        },
+        {
+            "text": "O-o-okay! Let's do it!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I shall have you practice with the other\ntwo!\nPerhaps their contributions will ease\nyou into\nproper enunciation.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "G-got it!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll go buy us all d-drinks, okay?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh no... I'm really s-sorry, but I don't\nhave my\nwallet on me!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Your carelessness is quite pronounced...\nNo\nmatter, I suppose this calls for\nthorough\nguidance!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Мэйсё Дото continues with her training\nwell into\nthe afternoon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Кинг Хало's strict teachings resume after\nwe take\ntime out to relax and recover.",
+            "name": "Монолог"
+        },
+        {
+            "text": "K!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "K stands for kindling—a kindling fire of\nhope!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I stands for incredible—incredibly\nfirst-rate! ♪",
+            "name": "Entourage"
+        },
+        {
+            "text": "N!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "N stands for noble—who nobly\nbrandishes her\ntalent!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "G!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "G stands for great! Because Кинг Хало is\ngreat!",
+            "name": "The Three"
+        },
+        {
+            "text": "Ohohoho! I applaud your quickness in\nmastering\nmy new King Commendation!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, no... not at all... Hehe.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Through practice, Мэйсё Дото succeeds\nin\nperforming the new King\nCommendation.",
+            "name": "Монолог"
+        }
+    ]
+}

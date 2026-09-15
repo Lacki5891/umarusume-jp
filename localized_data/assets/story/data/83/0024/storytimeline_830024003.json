@@ -1,0 +1,251 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I've come to the mall looking for a few\nthings, but\nit's quite busy today. Looks\nlike there might be\nsome kind of event\ngoing on...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't believe they're holding a talk\nshow to\ncelebrate my plushies becoming\na huge hit...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Hehe, everyone is so excited about it...\nIncluding\nme, of course! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Thanks. Anyway, I better grab something\nto eat\nbefore it star—",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, it's you! You're the one who saved\nme back\nthen!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп smiles and waves at me.\nThat's true—I\ndid save her from a\npersistent reporter in the\npast.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You look well."
+            ]
+        },
+        {
+            "text": "Thank you, I am. I'm happy to see you\nhere. My—",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Goodness me! What do we have here?\nAre you\ntwo close?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Hm? Sorry, but who are you?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Just your everyday reporter! But forget\nabout\nme—is this person important to\nyou?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Hm? Are you tongue-tied, by any\nchance? Don't\ntell me your relationship\nwith this person would\ndisappoint your\nfans—",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Sorry, I don't have time for questions\nright now.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Huh?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "The talk show starts in an hour anyway,\nso\nhonestly, I don't see the point in\ntalking to you.\nLet's go, everyone.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The way you handled the situation just\nnow was\ntruly admirable! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And to think that this is the person who\ntaught\nyou how to do it.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Yeah, he told me I should refuse any\nsketchy\ninterviews.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Yeah, she told me I should refuse any\nsketchy\ninterviews.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "My fans care about me... So I need to\ncare about\nmyself too.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Now, that's just lovely! So that's how\nyour plushie\nended up with such a great\ndesign! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hm? What's that got to do with my\nplushie?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, I think it's got everything to do with\nit! I\nheard the story from the designer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Your feedback was very honest and to\nthe point,\nso they're very confident in\nthe finished product.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...They asked me for input, so I gave\nthem my\nhonest opinion.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Like I said, it's not fair to my fans if I\ndon't care\nabout myself... or my image.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "And look where all that caring has taken you!"
+            ]
+        },
+        {
+            "text": "Y-you're right!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's finally time for the event. Since\nyou're here...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Do you happen to have any advice to\ngive me\nbefore the talk show?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "I've taught you everything I can. You've got\nthis.",
+                "Is there anything <i>you</i> want to do?"
+            ]
+        },
+        {
+            "text": "Do you happen to have any advice to\ngive me\nbefore the talk show?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "I've taught you everything I can. You've got\nthis.",
+                "Is there anything <i>you</i> want to do?"
+            ]
+        },
+        {
+            "text": "...I see. Hehe, got it. Catch you later.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "All right, then. Before we start, is there\nanything\nyou'd like to say to your fans,\nOguri?",
+            "name": "MC"
+        },
+        {
+            "text": "First of all, I want to thank everyone who\nbought\nmy plushie.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Everyone worked hard to make this\nproject a\nreality. Please treat these\nplushies as kindly as\nyou would treat me.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "We'll treasure them! ♪",
+            "name": "Fans"
+        },
+        {
+            "text": "Haha...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Squeee! ☆ You're such a cutie,\nOgurin! ♪",
+            "name": "Fans"
+        },
+        {
+            "text": "O-Ogurin... I'm not sure what to say to\nthat...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "But thanks. Your words will give me the\nextra\npush I need to work hard!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Squeeee! ♪",
+            "name": "Fans"
+        },
+        {
+            "text": "I knew it. Hearing your words fills me\nwith\nstrength.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Thanks, everyone. I'm grateful to you all!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...Haha. Good question. But I think I get\nwhat\nyou're trying to say—don't worry,\nI'll follow my\nheart.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "So, Огури Кэп, do you have any words\nto mark\nthe release of your plushie?\nTake it away!",
+            "name": "MC"
+        },
+        {
+            "text": "Well, about that. Today, I want the\n<i>audience</i> to\nask me questions.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...What?",
+            "name": "MC"
+        },
+        {
+            "text": "I'd like to have the opportunity to talk\nwith the\npeople who always cheer me\non. Do you have any\nquestions?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Q-questions from us? Isn't this a talk\nshow? Um...\nWhat should we ask her?",
+            "name": "Audience"
+        },
+        {
+            "text": "I have one! Do you like plushies?",
+            "name": "Girl"
+        },
+        {
+            "text": "Yeah. Everyone in my family does too.\nThey\nasked me to send some back home.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Apparently, my mom calls the plushie\n\"Огури Кэп\nthe Second.\" I wonder who\nthe first is?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Her response sends warm laughter\nthroughout the\nvenue. She continues to\nrespond to questions\nfrom her fans...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Any other ques—",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "<i>Grrrooowl...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Could I answer you after lunch?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп's talk show turns out to be a\ngreat\nsuccess.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Огури Кэп's authenticity resonates\ndeeply with\nher fans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Laughter fills the venue once again. The\ntalk show\nperfectly encapsulates Oguri\nCap's laid-back\npersonality, leading to\nits success.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Huh. A stamina-restoring item dropped.\nMight as\nwell use it since I got time to\nspare.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "TAISHIIIIIN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, for crying out loud. Would it kill you\nto use\nyour inside voice once in a while?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ehehe! Sorry, my bad! But, but, but—you\nknow\nwhat? Something really cool just\nhappened!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah, okay. Gimme a sec.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well? What happened?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Wha?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "T-Taishiiiin! Waaaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ack! The hell are you crying for?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's just... It's just!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I can't believe you put your phone away\nin the\nmiddle of a game to listen to <i>me!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm sooo touched! I can't believe you've\ngotten\nthis used to chatting with people!\nI'm so proud of\nyouuu!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "No, that's not... Ugh, forget it!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Lately, it's been easier talking with\nНарита Таисин.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Encouraged by this, I decide to discuss\nher\ntraining regimen together with her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'll just listen today, so say whatever you\nwant.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "Why are you freaking out? All I said is\nthat I'd\nlisten!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин seems awfully\nembarrassed for\nsome reason.",
+            "name": "Монолог"
+        }
+    ]
+}

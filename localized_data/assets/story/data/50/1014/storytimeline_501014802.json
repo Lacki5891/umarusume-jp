@@ -1,0 +1,190 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while walking through the\nshopping\ndistrict, I come across El\nCondor Pasa holding her\nhead in her\nhands."
+        },
+        {
+            "text": "Ah, Trainer! Great timing!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm actually competing against these old\n\ndocuments right now!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Against... old documents?"
+            ]
+        },
+        {
+            "text": "Sí! I'm on cooking duty today, so I went\ninto the\nkitchen...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And there, I found a \"secret recipe\"\nstuck\nbetween the shelves!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's just like an ancient text! It's even\nmissing some\nwords here and there, like\na puzzle!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yup! I'm certain this is some kind of\nchallenge left\nbehind by the Miho\nDormitory students that came\nbefore\nme.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I have her show me this \"ancient text.\""
+        },
+        {
+            "text": "There's some obvious damage to the\ndocument,\nbut it's clear at a glance that\nthis is a recipe for\ncurry.",
+            "choice_data_list": [
+                "This is curry, right?"
+            ]
+        },
+        {
+            "text": "That's what they want you to think! I\nthought so\ntoo when I first read it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But there's no way students of old would\nleave\nbehind such an easy challenge!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's like in the game I was playing the\nother day,\nwhere chest right next to the\ndoor turned out to\nbe a mimic! I won't\nbe fooled so easily again!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm sure there's some secret in the\nmissing parts of\nthe recipe!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "I think it's just been nibbled at by bugs."
+            ]
+        },
+        {
+            "text": "No way! I'm sure it was hidden on\npurpose!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Like this missing part right here—I think\nthere\ncould be more to it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Judging by how it's written, this here\nshould be\nread as...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "\"Extremo!\" The students from before are\ntelling us\nthis is the ultimate ingredient!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "I think you're reading too much into it."
+            ]
+        },
+        {
+            "text": "No way! I can't beat this challenge\nthinking like\nthat! If I'm gonna win, I\ngotta read between the\nlines!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right! Now this blank spot must be...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A secret spicy seasoning that I haven't\nseen\nbefore.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "For the sake of the challenge, El Condor\nPasa\ncontinues purchasing ingredients\nbased on her\nown interpretations of the\npaper."
+        },
+        {
+            "text": "Perfect! I've got everything I need for\nvictory!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "As long as everyone enjoys it, it'll be a\ntotal\nsuccess!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh, El, you're with your trainer. You had\nme\nworried, getting back so late.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So, did you buy the ingredients?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You betcha! I found everything!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She tells Грасс Вандер in detail about\nthe old\ndocument, the \"secret recipe,\"\nand how she\nsolved the mystery."
+        },
+        {
+            "text": "No matter how you look at it, this recipe\nsure\nseems a lot like curry...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You're being naive too, Grass! It's a trap!\nWe\ncan't win if we take it at face value!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hmm... But El, if you want to call this a\ncomplete\nvictory, don't you need to\nmake something that\n<i>everyone</i> at the\ndorm can enjoy?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Sí! Naturally!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "With all these insanely spicy ingredients,\nI don't\nknow if anyone is even going to\nbe able to eat\nit...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Qué?! B-but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "This is terrible! I gotta do something!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's make a new batch with everyone in mind!",
+                "We could try to sweeten it up with some sugar."
+            ]
+        },
+        {
+            "text": "Great idea! We still have time! Let's get\nsome\ningredients for regular curry!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Well, I guess the mystery game is over!\nNow...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's time for a race! I still haven't lost yet!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehe. You're always giving your all, for\nbetter or\nfor worse.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I see! That just might work!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I really don't think it will...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Come now, let's go buy some normal\ningredients.\nI'll even help you out.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ah, uh... okay...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And so, Эль Кондор Паса heads out once\nagain,\nthis time with Грасс Вандер, to\nbuy new\ningredients."
+        },
+        {
+            "text": "After that, Эль Кондор Паса buys some\nnormal\ncurry ingredients to secure a\nvictory."
+        }
+    ]
+}

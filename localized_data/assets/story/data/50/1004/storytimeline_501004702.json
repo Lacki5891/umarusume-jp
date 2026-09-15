@@ -1,0 +1,169 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Марузенски and I are going home after a\nday out\nwhen we somehow get lost.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Umm, did I majorly mess up? I'm not sure\nhow to\nget back to a road I know!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I can't believe we ended up in this\ntrouble just\nbecause I tried to take a\ndetour!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Let's check the map on our phones!"
+            ]
+        },
+        {
+            "text": "Wait, Trainer! There's a better way to\nget out of a\nsituation like this!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wait, Trainer! There's a better way to\nget out of a\nsituation like this!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "See, look over there. Let's ask the police\nofficer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Excuse me. Sorry to bother you, but...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "After asking for directions at the police\nbox, we\nmake it back to familiar ground.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, that settles that! I'm so glad I\nasked the\nofficer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I hear you can easily look up a map\nusing your\nphone, but it's better to ask\nsomeone, don't you\nthink?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It also lets me stay true to what my\nfather taught\nme!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "He said there's no shame in asking for\nhelp when\nyou need it.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "No matter how great you are, you can't\ndo\neverything by yourself.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If you try to handle all your problems\nalone, you\nmight get stuck...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So to avoid that, make it a point to\nconnect with\nothers. That's what he told\nme.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "That's a good attitude to have."
+            ]
+        },
+        {
+            "text": "Isn't it? It makes me happy to hear you\nsay so.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's not just about relying on someone or\nhaving\nthem rely on you, it's about\nsupporting each\nother...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I hope we can have that kind of\nrelationship too.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'll work hard to be as dependable as I can be.",
+                "You already support me so much."
+            ]
+        },
+        {
+            "text": "I hope we can have that kind of\nrelationship too.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'll work hard to be as dependable as I can be.",
+                "You already support me so much."
+            ]
+        },
+        {
+            "text": "I already think you're a very dependable\nperson,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I already think you're a very dependable\nperson,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You always help me so much in my\ntraining and\nthe big races.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Above all, it's thanks to you that I'm\nable to run\nso happily. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Above all, it's thanks to you that I'm\nable to run\nso happily. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I have to admit—you're like a reliable\nbig brother\nto me!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I have to admit—you're like a reliable\nbig sister to\nme!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You can wear my seal of approval with\npride! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, I'm so glad! ♪ It's very encouraging\nto hear\nyou say so.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I always want to be there for you,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I always want to be there for you,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're a hard worker, but sometimes you\npush\nyourself a little <i>too</i> hard.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're a hard worker, but sometimes you\npush\nyourself a little <i>too</i> hard.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But everything will be fine as long as\nwe're there\nto support each other!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So let's work together—not just as\nUmamusume\nand trainer, but as a\nteam! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Yeah, we'll always stick together!"
+            ]
+        },
+        {
+            "text": "Right! As partners! ♪ Now and forever!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I feel both pride and joy welling up in\nmy heart at\nМарузенски's words.",
+            "name": "Монолог"
+        }
+    ]
+}

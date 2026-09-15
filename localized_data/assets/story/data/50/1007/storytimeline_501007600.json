@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Whoooaagh...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Called to the waiting room by Gold\nShip, I walk\ninside to find her trembling\nfrom head to toe.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you all right?!"
+            ]
+        },
+        {
+            "text": "Yeah, it's just a routine. It's a surefire\nway to\nmake sure I'm fired up and in top\ncondition.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The only thing is...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Bam! Bam!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do your warm-ups outside!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "See? The people next door always get\nmad at me\nwhen I do this. I'll leave the\napologies to you!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "All right, I'm in the <i>zone!</i> Golshi,\nheading out!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп races out of the room before I\ncan\nreply, so I have no choice but to go\nnext door\nand apologize. At least she's\nin top form today.",
+            "name": "Монолог"
+        }
+    ]
+}

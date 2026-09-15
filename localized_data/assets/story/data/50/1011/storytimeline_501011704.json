@@ -1,0 +1,214 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After spending some time out with Grass\n\nWonder...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look at that, Trainer. The setting sun's\nreflection\non the river is so beautiful.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "<i>Splash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh? Did something just fall in?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ugh... I was so sure this scenery would\njog my\nmemory! Grrr!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Taiki? What are you up to?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh! Grass! I'm just here rackin' my brain\nover\nsomethin' I forgot from earlier! It's\ndrivin' me nuts!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I wonder what it could be...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's some Japanese poem I learned in\nclass! It's got\nsomethin' to do about a\nfrog fallin' in some water.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Don'tcha worry, though. That splash ya\nheard just\nnow was a stone I threw, not a\nfrog. Hahaha!",
+            "name": "Тайки Шаттл",
+            "choice_data_list": [
+                "A frog... in water?"
+            ]
+        },
+        {
+            "text": "Oh, is it the haiku written by the famous\npoet\nMatsuo Basho?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Uhhh... The name kinda rings a bell...",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "But the Japanese was kinda complex, so\nI can't\nremember what it meant!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Oh dear...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Why not tell her in English?"
+            ]
+        },
+        {
+            "text": "Well, I declare! Givin' me the English is\nsure to do\nthe trick!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Very well. If I recall correctly...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "By an old pondside, A frog leaps and\nbreaks the\nstill With watery thump.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh! That's the one! No doubt about it!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "It's such a beautiful poem! Like that\nwabi-sabi\nwhatchamacallit, right?",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Yes. I think it's expressed well in English\ntoo.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Its form and rhythm creates a faithful\n\nrepresentation of the original, allowing\nthe haiku\nto touch the hearts and minds\nof people around\nthe world.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's right! It's super pretty!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Well, that sure takes a load off of my\nshoulders!\nThanks a bunch!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "One can always count on a proper\nNadeshiko gal\nlike you havin' your\nstudies all in order!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Well, I'll catch y'all at a later time. I'm\nfixin' to go\nhunt some jumpin' frogs!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "No more skipping stones, though!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe. Taiki is such a ball of energy.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Still, did she call me a \"Nadeshiko gal\"?\nWhat a\ncurious phrase...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Maybe I'll start calling you that too.",
+                "You bridged a gap between Japan and America.",
+                "\"Nadeshiko gal\" has a nice ring to it."
+            ]
+        },
+        {
+            "text": "Still, did she call me a \"Nadeshiko gal\"?\nWhat a\ncurious phrase...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Maybe I'll start calling you that too.",
+                "You bridged a gap between Japan and America.",
+                "\"Nadeshiko gal\" has a nice ring to it."
+            ]
+        },
+        {
+            "text": "Dear me... That would make things a\nlittle\nawkward, wouldn't it?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Why, if you were to use that name, I\nmight have\nto follow suit and call you\n\"Trainer Samurai\"!",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Umm... Can't say I'm exactly a fan..."
+            ]
+        },
+        {
+            "text": "Right? Now, let's be on our way, Trainer\n\nSamurai. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehehe. That's nice of you to say.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm glad that I was able to connect two\nplaces I\nlove.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Tell me more about America sometime."
+            ]
+        },
+        {
+            "text": "Gladly. You can rest assured this\nNadeshiko gal\nwon't disappoint you.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Nothing would make me happier than to\nteach\nyou about my home. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe. I've taken a liking to it.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I think I'm more of a Nadeshiko gal than\na\ntraditional Yamato Nadeshiko.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'd actually love it if my fans could call\nme that\nwhen they cheer for me at races,\ntoo.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It really shows the inspiration I draw\nfrom both my\nhomes—Грасс Вандер, a\nYamato lady <i>and</i> an\nAmerican gal.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Let's make it happen."
+            ]
+        },
+        {
+            "text": "Hehe. I'm counting on you, then.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Japan and the US. You and I. In each\ncase, both\nelements are essential.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "A single strand doesn't make a rope.\nWith you by\nmy side, I believe it may\ncome to be. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер regales me with stories\nabout\nAmerica all the way back to the\nacademy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As we set out back to the academy, I\nfervently\nbeg Грасс Вандер to go back\nto addressing me\nnormally.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today, I strengthened my determination\nto reach\nthe top with Грасс Вандер.",
+            "name": "Монолог"
+        }
+    ]
+}

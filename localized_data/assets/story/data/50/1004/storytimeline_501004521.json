@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ah... ah... <i>Yawn...</i>",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Are you sleepy?"
+            ]
+        },
+        {
+            "text": "Hehe, a little bit... I had a long night\nyesterday.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I went to a store that has all kinds of\ncool stuff\nand bought a disco ball for my\nhouse.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Unsurprisingly, I developed a severe\ncase of disco\nfever and ended up\ndancing all night...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Uuugh... I'm so sleepy...",
+            "name": "Марузенски"
+        }
+    ]
+}

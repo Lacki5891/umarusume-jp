@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While walking through campus, I hear\nsome lively\nchatter.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>What</i> is going on with your hair? You've\ngot\nleaves, twigs—it's literally a bird's\nnest up there!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So what?! That's nothing to make a fuss\nabout!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Uh, pretty sure it is... How did it even\nget like\nthat, anyway?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I was surprised to see you fall into that\npit you\nmade yourself.",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "My original plan was for <i>you</i> to fall into\nit!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "No wonder your hair's a mess in the\nback.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Sure is lively over here."
+            ]
+        },
+        {
+            "text": "Oh, Trainer... Well, yeah. I hadn't\nplanned for this\nto take so long though.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити is apparently trying to fix\nShinko\nWindy's hair. But she seems to be\nhaving\ntrouble...",
+            "name": "Монолог"
+        },
+        {
+            "text": "You know what would be cool, Windy?\nIf you had\nher give you a superhero\nhairstyle!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Hmph! I don't care about no goody two\nshoes\nsuperhero crap! I walk on the dark\nside!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "But doesn't a strong villain need to look\ncool\ntoo?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hrngh?! You... You might have a point\nthere!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Don't worry, I won't take up too much of\nyour\ntime. Look, even your tail is all\ndisheveled.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити goes to work on Shinko\nWindy's hair\nwith her scissors and styling\nproducts. I stick\naround and watch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay... All done. You're good to go.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ohhhh... It feels so smooth.",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I cut and trimmed the damaged parts\nwhile I was\nat it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Uh... huh... I see, I see...",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Hehe... I like it! I should let ya play\naround with\nmy hair again sometime!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Haha... Thank you.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "That's so nice! I want City to do my hair\ntoo!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "I know, right? Windy's so lucky!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Why don't you two come over? I can do\nyours\ntoo.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What?!",
+            "name": "Both Umamusume",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "Don't you think Biko and Windy would\nfeel awkward if\nthey were the only ones?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "As time goes by, word spreads, and\npeople start\npouring in!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, is it just me, or is this starting to\nway get out\nof hand?!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You'll manage to get through it... somehow...",
+                "Let's call for help now!"
+            ]
+        },
+        {
+            "text": "I beg to differ...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm rooting for you, City! It's like what\nCarrot\nRanger says, \"When your back is\nto the corner,\nthere's only one way out!\"",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Bite adversity where it hurts! Grawr,\nrawr!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Welp... I guess I'm the one who started\nthis whole\nmess in the first place.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ohhh, fine! I'll power through this!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Done... What do you think?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Whoa... This is amazing! I wasn't sure\nwhat to do\nwith my curly hair.",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "You've got nice curls, so I tried\nsomething to help\nhighlight them.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah, yeah! Thank you so much!",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "And so, another Umamusume is saved.",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Amazing work, City! You're a hero for\nfighting so\nadmirably!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "Yes, yes, thank you. Don't expect me to\nbe doing\nthis again any time soon\nthough.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay, hold on, City! Help is on its way!\nHang in\nthere!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "All right, all right! Everyone wait your\nturn! Line\nup here if you want a haircut!",
+            "name": "Бамбу Мемори"
+        },
+        {
+            "text": "Hey! You over there! Stay behind the\nline so you\ndon't block the walkway!",
+            "name": "Бамбу Мемори"
+        },
+        {
+            "text": "City, I have prepared these for you.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "<i>Shing!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Having sharpened these scissors myself, I\ncan\nguarantee precision in their cut. I\nhope they will\nserve you well.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "...Thanks.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Um, why'd you call these two?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Bamboo was chasing after me yelling\nsomething\nabout violations!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "B-but when I explained the situation,\nthey said\nthey were both willing to help!",
+            "name": "Бико Пегасус"
+        },
+        {
+            "text": "I... see... I mean, I do appreciate the\nhelp, but...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm still the only one doing the cutting!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I can hear the exhaustion in her voice,\nbut she\nalso seems somewhat pleased\nwith what she's\ndone.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With the right staffing, well-sharpened\nscissors,\nand lively cheers of support,\nGold City manages\nto pull through.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Arima Kinen is almost here, but for\nthe time\nbeing, rest is what's most\nnecessary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've decided to incorporate a break into\nour\nschedule since going too hard can\nbe detrimental.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Grrrowl...</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Shall we get some food?"
+            ]
+        },
+        {
+            "text": "Cheerful music is playing in the streets\nand there's\nholiday joy in the air.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, Trainer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What a coincidence. Are you by yourself\ntoo?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Yeah. You too?"
+            ]
+        },
+        {
+            "text": "Yeah. I'm just walking around.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But I think I ran into you at the perfect\ntime,\nactually. What are you doing after\nthis?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'm looking for something to eat."
+            ]
+        },
+        {
+            "text": "I see. I think I'll join you.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You didn't eat yet?"
+            ]
+        },
+        {
+            "text": "You could say that.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I want meat. I'll leave the place to you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And so, I end up sharing a meal with\nНарита Брайан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nice choice. The meat's top quality.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You haven't really touched your veggies..."
+            ]
+        },
+        {
+            "text": "Oh, you want them? Here.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Without any hesitation, Нарита Брайан\nhands me her\nplate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'll just wait till you're done. So, what's\nnext?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Next?"
+            ]
+        },
+        {
+            "text": "Hm? Don't you plan on going anywhere\nelse?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Well, do you? What's your plan?"
+            ]
+        },
+        {
+            "text": "My plan is... just to relax. I don't really\nhave\nanything else to do.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's the last break before the Arima. I\ncan't afford\nto injure myself or anything.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Plus, I'd rather spend time with you than\nby\nmyself.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "At least with you, we can talk about\nracing, so I\ncan still have a productive\nbreak. Right?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "That defeats the point of a break."
+            ]
+        },
+        {
+            "text": "Nah, it doesn't.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Talking about racing with you is when I\nfeel most\nrelaxed.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We speak a while more, and by the time\nwe leave\nthe restaurant, it's already dark\noutside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Look at all these lights. The whole\nworld seems\nto be in the holiday spirit.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Yet we're in the racing spirit—same as ever."
+            ]
+        },
+        {
+            "text": "That's our life.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Just because it's a holiday doesn't mean\nwe have\nto do anything special.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're here, I'm here, so let's just think\nabout\nracing.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Personally, I love this everyday stuff\nmore than\nanything else.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Okay, I have a solid strategy for the\nArima. How\nabout we do a trial run\ntonight on the academy\ntrack?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Absolutely not!"
+            ]
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Not even just one lap?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Save that energy for the real deal."
+            ]
+        },
+        {
+            "text": "...Stock up and then unleash, huh?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Fine. Then I'll see you at the Arima\nKinen.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "By the way...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Do you consider me a part of your\neveryday life?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "A very important part."
+            ]
+        },
+        {
+            "text": "Heh... I see. I guess it's mutual then.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let's get back to our everyday life\ntomorrow.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Today turned out to be a fulfilling day\nof working\ntoward our next goal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан smiles in satisfaction.",
+            "name": "Монолог"
+        }
+    ]
+}

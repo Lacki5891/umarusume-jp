@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the autumn Tenno Sho is\nhere. Gold\nShip's rival, Тосэн Джордан, is\nset to participate as\nwell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's time for\nGolshi's☆Culinary☆Curiosities! ♪",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Today, we're going to make chestnuts\nstuffed\nwith sea urchin—aka Surprise in a\nShell! ☆",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Surprise! Though they look like ordinary\n\nchestnuts, the innards are totally\ndifferent! ☆ You\nshould try to surprise\nyour opponent during a\nrace too! ☆",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шип's competitive spirit is strong\nas ever...",
+            "name": "Монолог"
+        },
+        {
+            "text": "But I have to wonder if she remembers\nshe's going\nup against Тосэн Джордан.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What're you lookin' at? Wanna have a\nchestnut\nknuckle sandwich?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Jordan will be out there today."
+            ]
+        },
+        {
+            "text": "Hm?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ohhh! That's today! I totally forgot\ntoday is the\nbig one!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "By the way, on an unrelated note...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Is there a rule against pelting people\nwith\nchestnuts during the race?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I confiscate every single one of Gold\nShip's\nchestnuts on the spot.",
+            "name": "Монолог"
+        }
+    ]
+}

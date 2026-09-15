@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This was a good victory. I have no\ncomplaints.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As the Empress, my wish is to always\nstrive for this\nstandard.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You were awesome!",
+                "Don't get too lax."
+            ]
+        },
+        {
+            "text": "As the Empress, my wish is to always\nstrive for this\nstandard.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You were awesome!",
+                "Don't get too lax."
+            ]
+        },
+        {
+            "text": "Calm down. It was a single victory. I still\nhave\nmuch to achieve.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We need to maintain our focus for the\nnext race.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Sorry."
+            ]
+        },
+        {
+            "text": "Hmph, I know.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm aware of my status as Empress. The\nword \"lax\"\nis not in my dictionary.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You seem pretty chipper today."
+            ]
+        },
+        {
+            "text": "Hmph. Even I'm allowed to smile after a\nvictory.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Grah! Stop smirking! Stop it now!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You warn me about being lax, but you're\nthe most\nlaid-back person here!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well—I'll whip you back into shape!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...I'm not saying you can't be pleased.\nJust don't\ngo overboard.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I endure another one of Эйр Грув's\nlectures, but\nshe seems cheerful even as\nshe tells me off.",
+            "name": "Монолог"
+        }
+    ]
+}

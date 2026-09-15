@@ -1,0 +1,264 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We drop by a mall on our way back from\nan\nouting.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Is that...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Gyaaah! Th-th-this is quite the\npredicament!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What's the matter, Fukukitaru? You\nseem a little\ndistraught.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oooh! Fortune smiles upon me! A savior!\nRescue\nme, Suzuka!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Anyhoo! Please, direct your gaze over\nhere!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "This is a... umm...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "<i>Stupendo Compatibility Diviner Game?</i>"
+            ]
+        },
+        {
+            "text": "Exaaactamundo! All you have to do is\nput in your\nnames and some money, and\nit will divine your\ncompatibility!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "According to the word of the great\nShiraoki,\nseeing a 100% match in this is\ngood luck...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But! Here I am, having forgotten entirely\nwho I\nwas going to ask about!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wh-what a... disaster?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Which is why I need your help, Suzuka!\nBelieve\nyou me, this game is well-known\nto be super\naccurate!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I don't mind, but... is it really okay for\nme to do it\nfor you?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh, totally. As long as the divination\ncomes out\nto 100% compatibility and I\nsee it, it's all good.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "So, if you've got someone in mind, just\nlet me\nknow!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The great Shiraoki is pretty easygoing,\nhuh? I\nwonder who I should choose,\nthen...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Want to try it with me?",
+                "Why don't you try it with Матиканэфукукитару?"
+            ]
+        },
+        {
+            "text": "The great Shiraoki is pretty easygoing,\nhuh? I\nwonder who I should choose,\nthen...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Want to try it with me?",
+                "Why don't you try it with Матиканэфукукитару?"
+            ]
+        },
+        {
+            "text": "With you?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh! Good idea! I'm sure you two have\nperfect\ncompatibility! I'll watch from\nhere!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "A-are you sure? It has to be 100%,\ndoesn't it?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Ka-ching!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Please enter two names!\"",
+            "name": "Game"
+        },
+        {
+            "text": "Umm... \"Сайленс Судзука,\" and...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "\"<username>.\""
+            ]
+        },
+        {
+            "text": "Ooh! Something about your names just\nscreams\ncompatibility! This must be fate!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um, you seem very excited, but don't be\ntoo\ndisappointed if it's not 100%, okay?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Impossible! Not even if this were the\nunluckiest of\nunlucky days!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Besides, you two are the best of\npartners. Isn't\nthat right, Suzuka's\nТренер?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Yeah, we'll be fine!"
+            ]
+        },
+        {
+            "text": "Not you too...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Okay, I guess. Here we go...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "\"Your compatibility is...\"",
+            "name": "Game"
+        },
+        {
+            "text": "\"100%! You're fated to be together!\nMake sure to\nexpress your gratitude for\none another regularly\nand you will have\ngood fortune!\"",
+            "name": "Game"
+        },
+        {
+            "text": "There! There! My eyes do not deceive!\nPraise be!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I-it's really 100%.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You heard what the divination said, so\nshow your\ngratitude!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Huh?! You mean right this second?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Thank you for always trying your best."
+            ]
+        },
+        {
+            "text": "Um, wait a moment! Um... Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you for all of your... training...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Aha ha ha! Very good! Very good,\nSuzuka!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "D-don't tease me!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "As you wish! When it comes to\nfortune-telling, I\nalways give my all!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "All we do is enter our names, though...\nYou can't\nreally give that your all, can\nyou?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Ka-ching!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Please enter two names!\"",
+            "name": "Game"
+        },
+        {
+            "text": "Umm... \"Сайленс Судзука,\" and...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "\"Матиканэфукукитару!\"",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Aha ha! I can see it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I see it clearly! Our compatibility is\nperfect. Like a\npair of lion-dog statues\nbefore a torii gate.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Do your best!"
+            ]
+        },
+        {
+            "text": "Thank you! We will!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But I don't think there's anything left to\ndo...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "\"Your compatibility is...\"",
+            "name": "Game"
+        },
+        {
+            "text": "\"95%! So close! Try to challenge each\nother every\nnow and again!\"",
+            "name": "Game"
+        },
+        {
+            "text": "Waaaaahhh! It's not 100%?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Well... It said we should try to challenge\neach\nother.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That must be the key to getting the last\nfive\npercent! Suzuka! There's no time to\nlose...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Right. Let's race back to the academy.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ready? Go!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Huh? W-wait a second!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Apparently, they're able to get a 100%\n\ncompatibility reading a few days later.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems that this compatibility\ndivination has\ndeepened Silence\nSuzuka's trust in me.",
+            "name": "Монолог"
+        }
+    ]
+}

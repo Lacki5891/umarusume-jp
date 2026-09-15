@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ is selecting a dessert at\nthe lunch\nbuffet, when..."
+        },
+        {
+            "text": "Oh, Trainer! In front of you is just what I\nwas\nlooking for—our legendary Extra\nSweet Banana\nCake!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Or... maybe not. Looks like they're all\nout.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Extra Sweet Banana Cake?"
+            ]
+        },
+        {
+            "text": "You can't mean to tell me you've never\nheard of\nit! It's the crème de la crème of\nthe school dessert\nworld.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Bananas have anti-inflammatory\nproperties, which\nmeans they're great for\ninjuries. I always try to eat\nat least one\nbefore I start training.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Of course, it also tastes delectable!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The combination of whipped cream and\nripe\nbananas is simply to die for! As soon\nas it touches\nyour tongue, the sensa—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ahem! Unfortunately, it seems they're all\nout. I\nsuppose I'll just need to find\nmyself another\ndessert today.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hmm...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It really is a shame.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

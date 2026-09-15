@@ -1,0 +1,362 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ahhh, the beach! ☆ Isn't the sparkling\nsand just\nwonderful, Тренер?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "So you are!"
+            ]
+        },
+        {
+            "text": "It's like being on a fancy vacation!\nY'know, like,\nDubai vibes! ☆ Or\nsomething like that!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "We're still very much in Japan, though!"
+            ]
+        },
+        {
+            "text": "...Um, could someone please explain\nwhat is\nhappening?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Shouldn't I be training? What of my\nschedule?\nAnd why is Falcon here?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Trainer, I beseech you... Please explain\nwhat this\nis all about!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There's nothing like a taking a vacation\nto let off\nsome steam! Like living it up in\nDubai! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Taking Смарт Фалкон's advice, I arranged\na trip\nto... a relatively close beach since\nDubai wasn't\nreally an option.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, I used Umadol ☆ Power to bring\nyou all this\nway! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...Umadol Power? Is that what you call\nthe\nextreme manhandling you gave me?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Aw, you gotta let bygones be bygones!\nYou're\nhere now, so enjoy yourself!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "We can have cute drinks, or laze around\non the\nbeach... Oh, suntanning isn't an\noption, though.\nSkin damage is a no-go\nfor an Umadol like me!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I appreciate the thought. Honestly, I am\ntouched\nyou'd do this for me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However... I can't afford to frolic on the\nbeach\nright now. I must return to my\ntraining at once—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Nuh-uh. You're not going anywhere.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Falcon?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I mean, I can tell you've been in a really\nbad\nplace lately.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You used to come home at the same\ntime every\nday, but now there's no\ntelling when you'll be\nback... And you're\nalways rushing around every\nwaking\nminute.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's like you can't do what you really\nwanna do.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You always support me with anything\nand\neverything I want to do...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "So I started wondering if there's\nanything <i>I</i> could\ndo for <i>you.</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Falcon...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And there is! There's something I\ndefinitely can\ndo! After all, I'm an\nUmadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And Umadols can brighten anyone's\nday! ☆ If you\nhang out with me, you're\n<i>guaranteed</i> to feel\nbetter!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...That is the most illogical reasoning\never.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But it's true! ☆ So just forget about\neverything for\ntoday and live it up with\nme!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "C'mon! If we just start walking, I bet\nwe'll find\nsomething to do eventually!\nAny ol' direction will\nwork, so let's—",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Are you telling me you have no set plan?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Um...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Tell me what you wish to do other than\nrelax on\nthe beach.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'll look into the nearby tourist locations\nand\ncreate the perfect plan for us.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You're awesome, Flash! I'll leave it to\nyou,\nthen! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And with that, we slowly get into\nvacation mode\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, wow! That church is huuuge.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It seems they are holding an exhibition\non the\nhistorical stained glass windows\ninside. Would\nyou like to see it?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You bet! ...Hehe! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hm? Why are you laughing?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I was just thinking that I managed to find\n\nsomething you like. ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And that makes you happy? You are\ntruly an odd\none.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Then, around the time Эйсин Флэш starts\nto\nrelax...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... I'm stuffed... Ugh, the\nheartburn...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I told you not to add extra whipped\ncream to\nyour order...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Aww, come on. It's not like you don't\nhave a big\nsweet tooth too.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I do. That is why I didn't add extra\ncream, so I\ncould savor my dessert\nwithout suffering\nheartburn.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But don't you secretly wanna try\nabsolutely\nsmothering your dessert in\nthe stuff?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "In my youth, I once made myself very\nsick by\ndoing so. Never again.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You really are amazing, Flash...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...How do you mean?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I always, always pile an entire mountain\nof\nwhipped cream on my pancakes, and I\nalways\nregret it afterwards.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I stay up too late using my phone and\noversleep,\nflunk my tests, and never\nfinish my homework. I\nknow it's bad, but\nI still do all that. Hehe...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But not you, Flash. You find a goal,\nmake a plan,\nand see it through to the\nend.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You learn from all your mistakes and\nnever\nhesitate on your path. You always\nmarch straight\non forward.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's why I think you should just go for\nit and do\nwhat you want! ♪ I know you\ncan accomplish\nanything you set your\nmind to!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Whether or not the race is worthy of my\npride as\na racer. In other words, G1\nraces—races that only\nthe best in the\nworld can run.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This is the most optimal race schedule I\ncan\ndevise for myself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "No, I...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Смарт Фалкон's earnest words of\nencouragement\nring true and clearly\nmove Эйсин Флэш. Now\nmight be my\nchance...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Flash, I have a suggestion."
+            ]
+        },
+        {
+            "text": "What is it?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Would you run with me?"
+            ]
+        },
+        {
+            "text": "...Pardon?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I have changed clothes... but are you\ntruly serious\nabout this?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "I cannot understand. A human stands no\nchance\nagainst an Umamusume in a race.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Well, you <i>are</i> racing on sand instead of\nturf, so\nwho knows? Do your best,\nTrainer! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ready? On your marks, get set...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The race is settled as soon as it starts.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are you all right, Тренер?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I lost by a hundred lengths..."
+            ]
+        },
+        {
+            "text": "That's an exaggeration. Now, would you\nplease\nexplain why you asked to race\nme?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Why did you ever make such a foolish\n\nproposition?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You don't seem happy you won."
+            ]
+        },
+        {
+            "text": "Naturally. What joy is there in defeating\nsuch an\neasy opponent?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "But that's exactly what you proposed."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "There's no pride in winning after fleeing from a\nchallenge."
+            ]
+        },
+        {
+            "text": "The perfect schedule is designed for\nvictories that\nhave meaning because\nthey offer a challenge.\nThere's no point\nin winning just because you can.",
+            "name": "Монолог"
+        },
+        {
+            "text": "More specifically, it's utterly pointless\nfor Eishin\nFlash. She's worked so hard for\nso long to get to\nthis point. What she\nneeds right now is to...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Win a race that you <i>want</i> to win."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Don't you want to win in the G1?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I... do. I want to compete at a high\nlevel... and be\nvictorious.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I, too, believe there is pride to be had in\n\naccomplishing such an achievement.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But... what meaning is there in taking on\na\nchallenge that may be impossible to\novercome?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Is it so strange that I would rather\nchange my\nplans so I can win in front of\nmy parents?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "At last, Эйсин Флэш confesses her true\nfeelings. If\nonly there was something I\ncould do to help her\nget over this fear of\nfailure...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Where your running leads you is up to\nyou.",
+            "name": "Мистер Си Би"
+        },
+        {
+            "text": "In that case...",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "All right! That was pretty good!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And it was a G1, too. Surely people will\nstart\nseeing me as—",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Cityyyyy!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Did you all see me run?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah! You're so pretty when you run!\nCity, you're\nthe best!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити, huh? I've never heard of her\nbefore,\nbut she looks so gorgeous when\nshe runs.",
+            "name": "Fan A"
+        },
+        {
+            "text": "She really was beautiful... Who knew\nsomeone\ncould look that good so\nsweaty?! Models are\namazing!",
+            "name": "Fan B"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "\"Pretty\"? \"Beautiful\"? Give me a break...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "In the end, they're still just praising my\nlooks. Is\nthat all I'm good for?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Cityyy! Look at us!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Damn it!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh... I like the look in her eyes.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Very interestin'. I gotta get on and make\nmy\ndebut soon!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "<i>Bzzzt... bzzzzt...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "...You're not gonna take that?"
+            ]
+        },
+        {
+            "text": "Uhh, hello?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What do you want? I told you not to call\nme on\nrace days, remember?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey, don't be so cranky. I just wanted to\nlet you\nknow how I felt about the race.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "First of all, good job. It was a great race.\nYou met\nyour fans' expectations\nperfectly. And your\nrunning, it was just\nso...",
+            "name": "City's Manager"
+        },
+        {
+            "text": "So <i>beautiful.</i>",
+            "name": "City's Manager"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Keep up the great work on the Tiara\ntour and\nshow us more of your brilliance.\nThis will give a\nboost to your modeling\ncareer as well.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "You <i>are</i> going for the Triple Tiara, right?\nI'm\nlooking forward to it. Well then,\ngood luck.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "...Now I get it.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Make yourself a doll and that's all they'll\nsee you\nas.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "A doll?"
+            ]
+        },
+        {
+            "text": "Just a pretty doll with no will of its own.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I chose the Hanshin J.F. because it's\nwhat my fans\nwanted.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But that's just pandering to those who\nwant to see\nme for my beauty.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's the same with my modeling. After all,\nit wasn't\nme who decided to take that\npath.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "No wonder I can't change. All I do is\nwhat others\ntell me.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You just didn't want to let them down."
+            ]
+        },
+        {
+            "text": "So, what? I can't do anything about it?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I won't settle for that. Sure, I do want to\nplease\nmy fans...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I want to choose <i>how,</i> even if it\nmeans\nbetraying expectations. If I don't,\nI'll never get\nwhat <i>I</i> want.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'll make them accept me on my own\nterms!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So, I've decided. I won't run in the Tiara\ntour.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You mean..."
+            ]
+        },
+        {
+            "text": "I want to be the best. And that means\ngoing for\nthe Classic Triple Crown.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The Classic Triple Crown consists of the\nSatsuki\nSho, Japanese Derby, and\nKikuka Sho, each of\nwhich is held around\nthe same time as a\ncorresponding Tiara\ntour race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's the most prestigious tour of all. In\nparticular,\nthose who win the Derby are\nall but guaranteed\nto go down in history.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You might have had plans in place for\nme to win\nthe Tiara tour, but...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Do you mind if I turn that all upside\ndown?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Not at all!"
+            ]
+        },
+        {
+            "text": "I won't thank you yet. I already told you\nhow I'm\nselfish.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Instead, I'll repay you by making you\nfamous as a\nDerby trainer.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm going to finish first in the world's\nmost heated\nrace. Then...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "They'll have to recognize me for who I\nam. For my\nrunning!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And so, we decide to make preparations\nfor the\nClassic Triple Crown's first\nrace—the Satsuki Sho.",
+            "name": "Монолог"
+        }
+    ]
+}

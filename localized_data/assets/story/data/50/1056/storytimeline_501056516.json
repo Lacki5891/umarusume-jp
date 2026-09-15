@@ -1,0 +1,106 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I head to the shopping district to pick\nup a few\nthings on my day off.\nCoincidentally...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's time, Spe! Let's stock up on good\nluck...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "For the Eat-Till-You-Drop Tour, right?!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "text": "Oh, Trainer! Would you like to\naccompany us?\nWe're on our way to the\nEat-Till-You-Drop Seven\nGods of\nFortune Fine Food Tour! ♪",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "With the Seven Gods' blessings, our\nbellies will be\nfull not just with food, but\nwith <i>good luck</i> too!\nThis event was\ntailor-made for me!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "And there's more! I've prepared some\nspecial\ncharms, just for today!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "They're anti-bloat charms! You can have\nthese\ntwo I made as backup!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Yippee! Looks like I'll be going for\nseconds on\nluck as well!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Seconds on the weight gain too...",
+                "Go and eat until you drop!"
+            ]
+        },
+        {
+            "text": "Yippee! Looks like I'll be going for\nseconds on\nluck as well!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Seconds on the weight gain too...",
+                "Go and eat until you drop!"
+            ]
+        },
+        {
+            "text": "Say what?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh no! Fukukitaru, do you happen to\nhave any\ncharms that'll stop us from\ngaining weight?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "No, sorry... You see, I gave the one I had\nto\nMc—uh, the daughter of a certain\nrespectable\nfamily the other day...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Nooo!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "All right! First up is Ebisu's Eb-citing\nShrimp\nTempura Bowl—ten bowls to be\nexact!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Ten?!"
+            ]
+        },
+        {
+            "text": "Oh! And I'll have the Daikokuten's\nDai-licious\nDaikon Hot Pot for ten!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That was delicious! Thanks to the power\nof the\ncharm, I polished off ten servings\nlickety-split!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Urk... Yeah, y-you sure did.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'll have the Benzaiten's\nUn-bean-lievable Red\nBean Soup next!\nI've got a whole nother stomach\nfor\nsweets, so twenty servings should be a\npiece\nof cake! ♪",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Twenty servings..."
+            ]
+        },
+        {
+            "text": "The great Shiraoki is waiting for me...\nWaiting to\nferry me to the other side...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The Eat-Till-You-Drop Tour really lives\nup to its\nname... They keep going until\nthey're on the\nfloor...",
+            "name": "Монолог"
+        },
+        {
+            "text": "After discussing which charms they'll\nneed the\nnext time around, the pair\nhead home.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the Arima Kinen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The stands are full of fans ready to\nwatch the\nBNW showdown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't wait to see them! I've been a fan\nsince the\nJapanese Derby!",
+            "name": "Fan A"
+        },
+        {
+            "text": "That was such a legendary race! I cry\nevery time I\nwatch the video.",
+            "name": "Fan B"
+        },
+        {
+            "text": "It's been a year and a half since then... I\nwonder\nhow much they've improved!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Okay, you two—here we go! The ARIMA!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "KINEEEEEEEEEEN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Taishin and Hiyahide"
+        },
+        {
+            "text": "Huh? Come on, say it with me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Must we?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah, to get ourselves all hyped! You\nknow,\nhuddle up and motivate each\nother!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll pass.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whaaaat? Today's the <i>Arima Kinen,</i>\nguys!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm sorry, but I don't intend to get you\nany more\nenergetic than you already are.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Even small factors that could aid your\nvictory\nmust be avoided.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Exactly.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Aw, come <i>oooon!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Fine! I get you're both serious! But I\ndon't wanna\nlose either, you know?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll just get pumped by myself! And I'll\nwin too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Haha... Yes, that's the spirit.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We'll see who wins.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "YEAH! Now this is some real\ncompetition!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I call out to the only person yelling in\ntheir little\ngang of three.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Ticket!"
+            ]
+        },
+        {
+            "text": "Oh, Trainer! Come to see me off?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Keep your eyes wide open! Today I'm\ngonna get\none heck of a victory!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Then you'll be inspired to dream big too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I can't help but smile at her brave\ndeclaration.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Yeah, you've got this!"
+            ]
+        },
+        {
+            "text": "It's time, Ticket.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The buzz of excitement outside for the\nrace is\ntangible.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Go and show them a real BNW race!)"
+            ]
+        },
+        {
+            "text": "HERE WE GOOO!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "They dash away...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...and the audience welcomes BNW with\nan\nexplosion of cheers!",
+            "name": "Монолог"
+        }
+    ]
+}

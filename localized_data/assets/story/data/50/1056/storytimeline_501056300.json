@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Our tumultuous summer camp, marked\nby\nMatikanefukukitaru's mad pursuit of\ngood luck,\nhas come to a close.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you so much, Trainer! I had a\nmiraculous\ntime, thanks to your support!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Actually, there's one more thing I want\nto ask\nyou. I tried plucking flower petals\nto predict my\nfuture a minute ago.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "\"I will succeed in the Kikuka Sho,\" \"I\nwon't\nsucceed.\" You know, that kind of\nthing.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "And you know what? The last petal told\nme I'll\nsucceed!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "That's great news."
+            ]
+        },
+        {
+            "text": "I thought so too... But once I saw the\ncarnage\nwrought on the chrysanthemum\npetals by my\nhands, I started to think\notherwise...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "So, what's the final result? A good omen\nor a bad\none? I'm not sure...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "We still don't know the answer—but our\nexciting\nand nerve-racking path toward\nthe fall Classics\ncontinues.",
+            "name": "Монолог"
+        }
+    ]
+}

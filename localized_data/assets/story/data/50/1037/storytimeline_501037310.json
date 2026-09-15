@@ -1,0 +1,74 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thanks for racing with me today! What\nare you\nplanning to run next?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I was thinking of the Arima Kinen...",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Really? I was thinking of running that\ntoo! Here's\nto having another good race\nif we end up in it\ntogether!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I had a lot of fun racing with you today!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, same here! I'm looking forward to\nnext time!",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "So this is what the senior racers are\ncapable of...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...I learned a lot today. I cannot let\nthings turn\nout the same next time.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I wasn't able to win, but...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "That was a close race."
+            ]
+        },
+        {
+            "text": "It was. I can sense my own improvement.\nI'm sure\nI'll be able to achieve better\nresults next time.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It seems both Spe and Rob Roy intend\nto run in\nthe Arima Kinen.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Guess you'll be seeing them on the track again,\nhuh?"
+            ]
+        },
+        {
+            "text": "The Arima Kinen is next up on Eishin\nFlash's\nschedule. The three of them will\nundoubtedly\nclash again the way things\nare now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Indeed.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You've already gone against the best two\nracers, so you'll be fine."
+            ]
+        },
+        {
+            "text": "It is safe to assume that they will be my\ngreatest\nadversaries in the Arima Kinen.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So in order to win, all I must do is outrun\nthose\ntwo. At least that makes things\nsimple.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

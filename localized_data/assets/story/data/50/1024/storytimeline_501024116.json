@@ -1,0 +1,301 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We've made it to spring of Mayano Top\nGun's\nsenior year. Recently, her training\nhas been...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Boring! Running around the track three\ntimes is no\nfun!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Let me do thirty! I can do it now!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Your legs would give out."
+            ]
+        },
+        {
+            "text": "What?! Then hurry up and think of\nsomething else\nwe can do for training!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I know you'll make me do something fun!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wait, I've already mastered everything\non the list\nyou gave me yesterday. Other\nthan that... ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Her days of requesting new training\nmethods\nfrom me continue.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But if Маяно Топ Ган has set herself a\ngoal, it's\nmy job as her trainer to support\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Morning, Trainer! Let's give it our all\ntoday!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Тренер? You look really pale...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "T-Тренер?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Thud.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh my. That was close.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You almost fell over.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Did you catch me?"
+            ]
+        },
+        {
+            "text": "Haha, no need to thank me. You're\nsurprisingly\nlight.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh? There are dark circles around your\neyes. You\ndon't seem to be getting\nproper sleЭпизод",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Come here, Mayano!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "W-waaah!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Don't be scared! I just want a word!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Eek!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "There you go, Trainer. You rest here a\nlittle.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'll take care of her.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "Haha, don't worry. I'm not gonna eat her\nor\nanything.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "To tell you the truth, that challenge she\nlaid down\nafter the Arima Kinen was...\nquite tantalizing.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's why I want to be in the mix too.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's no way I can let you keep such\nan\ninteresting girl all to yourself.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Whaaaa?! Hishiama?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Nooo... I mean, sorry! It's just I'm\ncompletely\ndevoted to my trainer—and\nonly to my trainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Calm down. I'm just making a suggestion.\nDon't\nyou want to improve?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Well, Тренер? Will you entrust her to me\nfor a\nbit?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон. The Queen of the\nAmazons. Narita\nBrian's rival at the\nArima Kinen both this year and\nlast.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have to think about what's best for\nMayano Top\nGun. Instead of obsessing\nover my own plans, it\nmight be necessary\nto put her in Хиши Амадзон's\ncare.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I leave her in your hands."
+            ]
+        },
+        {
+            "text": "There ya go! Let Hishiama's training\nbegin!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Which means, Mayano, you're gonna\nrun, and I'm\ngonna chase you. If I grab\nyour tail, I win.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You mean tail tag? I haven't played that\nsince I\nwas in kindergarten...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Does that really count as training? Isn't\nthat just\nplaying?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh? You underestimate me. Let's try it\nout.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ugh... Urk...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh my. What do we have here? You've\nalready\nbeen caught more than ten\ntimes!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's because you're not playing fair,\nHishiama!\nYou can't just add more\npeople to be it!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Haha! I'll get you next, Mayano!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Oh, you guys look like you're having fun.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hishiama, would you mind if I joined\nyou? I'd love\nto help.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Of course! Thanks! Now, Mayano...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Your weakness is your lack of awareness.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Awareness?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I know how to be aware. And I know how\nto play\nthis game.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You're the one suddenly adding more\npeople to\nbe it and changing the rules! I\ndon't even wanna—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Honestly, that's why... You know what?\nIt's fine.\nYou're purposefully closing your\neyes to it.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "To what?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "From what I can tell, you've been\nblessed with\nboth talent and an\nexcellent trainer.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "With those two things, you can do\nanything.\nThat's why the adults around\nyou do so much for\nyou.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "In turn, you've gotten spoilt.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Take now, for example. If only you just\ntried to\ngrasp the situation...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Basically, you've fallen into the habit of\n\ndismissing that which you don't already\nknow.\nYou aren't even trying to learn\nanything new.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We're not playing tail tag right now.\nWe're\ntraining for a race.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Think. In a real race, you have loads of\nother\nracers coming for you. Their\nstrategies change in\nreal time.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "So what do you do? You react to those\nchanges,\ntwist your body, run away, and\nso on... Right?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...And now think about this morning.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Do you not realize that your trainer has\nbeen\nworking so hard because of you?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You're a brilliant runner. But will you put\nyour\nbrilliance to use?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Or will you be a child who just cries and\ngives up,\ncausing even more pain to her\nТренер?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Nooo! Definitely not!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm gonna grow up! I'm not gonna cry!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hishiama! Let's do it one more time! I\nwon't let\nyou catch me again!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Haha, all right. I'll give you a head start!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "No! Let's do it right! I've figured it out!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "All right! That's what I wanted to hear!\nFeel it not\nin your mind, but in your\nbody!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Under the glowing sunset, Mayano Top\nGun and\nher friends run around the track\nover and over\nuntil they're dripping with\nsweat.",
+            "name": "Монолог"
+        }
+    ]
+}

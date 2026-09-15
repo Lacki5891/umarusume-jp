@@ -1,0 +1,111 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эль Кондор Паса gets injured during\ntraining, so I\nbring her to the infirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, come on. You're worrying too much,\nTrainer.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Something like this is no big deal!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I just need a little medicine, and I can\nget right\nback to training!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You know, rest is the strongest medicine.",
+                "Let's hurry up and muscle through it!"
+            ]
+        },
+        {
+            "text": "Hm... I guess that's true...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But isn't there some kind of training I\ncan do\nwithout affecting my injury?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You really want to train that bad, huh?"
+            ]
+        },
+        {
+            "text": "Of course! I need training like a fish\nneeds water!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "But if your injury gets worse, you're going to\nneed to rest even more."
+            ]
+        },
+        {
+            "text": "I definitely don't want that... Ugh...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, I get it. But as soon as I'm\nbetter, I'm\njumping back into the ring.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Leave it to me! Gutsy moves are my\nspecialty!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Urgh! Aguántate, El! You can do this!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса hypes herself up and\ntries to\nmove, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ouch!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Really?! My <i>muscles</i> are failing me now?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ugh... I can't do this.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Leave it to me! Gutsy moves are my\nspecialty!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Urgh! Aguántate, El! You can do this!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса hypes herself up and\ntries to\nmove...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh? The pain is gone...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh! Estupendo! I muscled through it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, I can finish up training like this\nno\nproblem!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса shows incredible\nresilience and is\nready to get back to\ntraining the next day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems like spirit and muscles alone\naren't\ngetting her anywhere. She uses\nthe day for some\nmuch needed rest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After a few days of rest, Эль Кондор Паса\nis ready\nto get back to training.",
+            "name": "Монолог"
+        }
+    ]
+}

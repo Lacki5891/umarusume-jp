@@ -1,0 +1,236 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What's this?! The Phantom Bird swoops\nin!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "This year's Derby champion is El Condor\nPasa! El\nCondor Pasa!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эль Кондор Паса's name echoes out from\nthe\nspeaker, and the crowd roars with\nexcitement. As\nfor our champion...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant... Cough, cough!</i>",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I've never seen her look so worn out. She\ncertainly\ndoesn't look like someone who\njust won the\nDerby.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Congratulations, El!"
+            ]
+        },
+        {
+            "text": "Trainer... Thank you.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But... but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It was so close... If I had let my guard\ndown for\neven a second, I woulda been\nin trouble.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's how strong Spe was...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Congrats, El! I'm so bummed!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But you really gave it your all out there,\nhuh?\nHehehe...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "How did you do it, Spe?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "How did you get so strong all of a\nsudden?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Huh? I've just been training a lot. I didn't\ndo\nanything special...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But you know... Since you were my\nopponent, I\nfelt like I had to do my very\nbest on behalf of\neveryone who trained\nwith me.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That's why I could run so hard today.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You had to work hard for everyone...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I see...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The victory celebration is over, and El\nCondor\nPasa is spending some time in\nthe park, looking\ndejected.",
+            "name": "Монолог"
+        },
+        {
+            "text": "From a distance, I watch Грасс Вандер\ncheer her\nup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Pick your head up, El. You won today.\nYou should\nbe proud of yourself.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I know...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You're really having a tough time, huh?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "At a loss, Грасс Вандер walks towards\nme.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Is this rare for her?"
+            ]
+        },
+        {
+            "text": "Yeah. She's usually so confident.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I think she's surprised by how close the\nrace was,\neven though she won.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She's always been so untouchable, so\nthis must\nhave been a harsh wake-up\ncall...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Can you take it from here, Тренер?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What's wrong? Aren't you worried?"
+            ]
+        },
+        {
+            "text": "Of course I'm worried. But...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As competitors, there are certain\nfeelings we\ncan't share with each other.\nOr we ought not to,\nrather.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So please... do what you can.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер leaves with a slight bow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Have I been... too arrogant?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I thought it would be an easy race. I'm\naiming to\nbe the world's strongest racer,\nafter all...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But Spe has gotten so strong... I couldn't\nlet up at\nall.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I keep saying I'm aiming for the world...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But am I really just taking the easy way\nout by not\ncompeting with my friends?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If that's the case, I... I...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "I couldn't say..."
+            ]
+        },
+        {
+            "text": "Nothing can be discerned from a single\nmatch. I'm\nnot quite sure what to think\nof this one.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But... I still won! That means... I'm the\nworld's\nstrongest racer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So long as I'm wearing this mask, there\nisn't\nanything to fear... or at least, there\nshouldn't be!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So that means our next race is...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The Japan C-Cu... Cu...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She can't say it. It's clear that she's\ncaught\nbetween pride and reality.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's impossible to keep pushing forward\nlike this.\nWe might want to add another\nstep along the\nway.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about the Mainichi Okan?"
+            ]
+        },
+        {
+            "text": "The Mainichi Okan? Well, it <i>is</i> before\nthe fall\nG1...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The perfect fall G1 prelude—a\n1,800-meter race\nthat seniors run in as\nwell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "From there, she can advance to the\nJapan Cup,\nthe Triple Crown tour Kikuka\nSho, or the Mile\nChampionship.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It feels kinda like... a cop-out. But...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I understand. There's a lot I wanna think\nabout\nbefore fall...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Her mask is slipping... She's wavering for\nthe first\ntime on her road to becoming\nthe world's\nstrongest racer.",
+            "name": "Монолог"
+        }
+    ]
+}

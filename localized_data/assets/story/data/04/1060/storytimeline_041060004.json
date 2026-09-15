@@ -1,0 +1,258 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ahh... Aw man, they're all here...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Who's here?"
+            ]
+        },
+        {
+            "text": "The guys from back home. Even though it's\nonly a school event, it\nlooks like they've\ncome all the way here to cheer me on...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What's more, they're all buddy-buddy now\nwith the folks from the\nlocal shopping\ndistrict sitting next to them.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And their current topic of choice? Me.\nThey're getting on like a house\non fire.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Sounds like the Найс Нэйчер Fan Club is doing\nwell."
+            ]
+        },
+        {
+            "text": "Wha—et tu, Тренер?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh maaan, you better not have <i>any</i>\nexpectations!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "In spite of what Nature said, I see a flash\nof determination cross her\nface as she\nenters the gate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And finally, the Tracen Meet kicks off!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Bang!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Nature and Teio"
+        },
+        {
+            "text": "The runners have rounded the first turn! In\nfourth—Найс Нэйчер!\nTrailing behind in\nfifth by one and a half lengths is the fan\n\nfavorite—Токай Тэйо!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "(Ugh, I'm already feeling the pressure!\n...Even though I bet Teio isn't\neven trying\nto do so!)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(But... I've got her exactly where I want\nher!)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Heh-heh... Time for me to go all-out!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "What's this? Токай Тэйо is making her\nmove! She's blazing past the\ncompetition\nin an instant!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Huh?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(Not good—Teio's in the zone! If I don't\nact now, she'll leave me in\nthe dust!)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Tch!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер rejoins the pack, and she's got\nher sights locked on Tokai\nTeio! Now for\nthe final turn...",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Токай Тэйо! Токай Тэйо leads the pack!\nНайс Нэйчер in third! She's\nspeeding up\nand giving fierce chase!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Pant, pant...</i> Aaaaah!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Токай Тэйо, leading by two lengths! Wait,\nmake that two and\nhalf—now three!\nThere's no stopping her now... and she's\npast the\nwinning post!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Токай Тэйо claims first place with a flashy\nfinish!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Pant, pant...</i> Ugh...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aw, I got real close today!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, third place isn't bad, right? Nothing\nto get down in the dumps\nabout.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "If anything, I'd say this is perfect for me.\nYup, yup, this is just right.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Really... this is my limit, that's all—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry to interrupt. Is Nature here by any\nchance?",
+            "name": "Teacher A"
+        },
+        {
+            "text": "Huh? Y-yeah, why? You need something\nfrom me?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "There was a delivery for you. Mind if I\ndrop it off here?",
+            "name": "Teacher A"
+        },
+        {
+            "text": "Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The teacher brings in a large box. Opening\nit, we find the box filled\nto the brim with\nletters addressed to Найс Нэйчер.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Dear Natie...\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "\"You were great in today's race, as usual.\nIt's a shame how it ended,\nbut to us,\nseeing you run is already more than we\ncould ever ask for.\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "\"Even when you're not here with us, talking\nabout you always puts big\nol' smiles on our\nfaces.\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "\"Meeting you and watching you grow into\nsuch a fine Umamusume has\nbeen the\npleasure of our lives.\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "\"We'll always be cheering you on, so don't\nforget to cheer yourself on\ntoo.\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What's... up with that?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What... What are they talking about?\nSmiles? Me? I'm not—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "In their eyes, you shined the brightest."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Aaaaargh! Augh! Ah, ngh!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "D... dammit! Dammit, dammit, damn it!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What's up with me and third?! Every!\nSingle! Time!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I tried my best? It was close? It wasn't that\nbad? There's no way that\nthird's all I'm\ngood for!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I kept taking the easy way out, telling\nmyself that I wasn't built for it,\nthat I was\nan extra! Wallowing in self pity to protect\nmy petty pride!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I didn't want to be disappointed—I didn't\nwant to disappoint... I was\nafraid of getting\nhurt again, so I tried to make everyone\ngive up on\nme!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But... but still!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I don't want things to end like this.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Right."
+            ]
+        },
+        {
+            "text": "Everyone's cheering me on. Everyone's\ntelling me that <i>even I</i> deserve\nto dream.\nThat's why...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I... want to make them proud. I want them\nto see me shine!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I've been waiting to hear you say that."
+            ]
+        },
+        {
+            "text": "...Trainer.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Let's go for first place!"
+            ]
+        },
+        {
+            "text": "Ugh... Ah, wait, um...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Agh... Gotta stop giving myself a way out.\nOnce I start going down\nthat slippery\nslope...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry for being all wishy-washy. It'll take\nsome time before I can\nmuster up the\ncourage to be more confident.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But... well, you know. If you're still fine\nwith training me, then—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Alright, let's keep on giving it our best then!"
+            ]
+        },
+        {
+            "text": "Yeah... You got it, Trainer!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

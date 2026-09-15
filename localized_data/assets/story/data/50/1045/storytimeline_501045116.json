@@ -1,0 +1,166 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "There's a fan event being held today in\nthe\nlead-up to the autumn Tenno Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A huge, once-in-a-decade movement is\ntaking\nplace in the Umamusume world\nthis year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ooh, it's her. That's Супер Крик.",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Whoa, she looks intense...",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Huh? Are people scared of me? But\nwhy?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's Огури Кэп! She's here!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "O-gu-ri! O-gu-ri!",
+            "name": "Spectators"
+        },
+        {
+            "text": "What's happening?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If you'll allow me to begin, let's start\nwith the\nred-hot Супер Крик.",
+            "name": "Interviewer A"
+        },
+        {
+            "text": "How does it feel to race with such a\nmonumental\nobstacle, Огури Кэп the\n\"Hero,\" standing in your\nway?",
+            "name": "Interviewer A"
+        },
+        {
+            "text": "Obstacle? Hero?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Um, I'll do my best? Is that good\nenough?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And over here, we have Огури Кэп\ncharging in to\nattack from the\ncountryside! You're already a\nnational\nsuperstar.",
+            "name": "Interviewer A"
+        },
+        {
+            "text": "Fall is finally upon us. Can you hear the\ncheers\nfrom your fans?",
+            "name": "Interviewer A"
+        },
+        {
+            "text": "I hear them. When I'm not asleep, that is.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "O-gu-ri! O-gu-ri!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Huh? What's going on?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Супер Крик! Wait!"
+            ]
+        },
+        {
+            "text": "Hold on... Are you telling me that\neveryone sees\nme as the villain?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I guess so."
+            ]
+        },
+        {
+            "text": "I can feel it from the crowds in the\nstands... Oguri\nCap's popularity is out of\nthis world.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик might be playing the\nantihero in this\nstory.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's almost like that time at the spring\nClassics.\nEveryone was so cold and\ndistant because I was\nill.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Should we protest?"
+            ]
+        },
+        {
+            "text": "Actually... could you leave this to me?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I've got an idea of my own. I'll try saying\nit in\nfront of everyone. Hehe.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hello, everyone! If you think Oguri's the\nstrongest\naround, then you're sorely\nmistaken! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I, Супер Крик, along with my trainer,\nwill knock\nOguri down a peg at the\nautumn Tenno Sho! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hmm. You'll make a worthy opponent,\nSuper\nCreek.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Let's throw everything we have at each\nother. But\nI won't lose.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "O-gu-ri! O-gu-ri!",
+            "name": "Spectators"
+        },
+        {
+            "text": "I ask Супер Крик where her confident\noutburst\ncame from.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Umm, it kind of occurred to me that\nsaying things\nlike that would make\neveryone happy.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I wanted to do that for them since I love\nmaking\neveryone smile.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And if I can do that through racing, then\nI don't\nmind taking a bit of flak.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I didn't have the composure during my\nbad spell,\nbut I can handle it now.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Especially since you've built me up so\nmuch! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "She's decided to play the villain for her\nfans—the\nkindest villain in the world.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, also... Would you mind playing the\nvillain\nwith me? And then...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Let's finish the race with a result so great\nthat\neveryone can't help but to detest\nus. It won't be\nexciting unless we're\nformidable.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик plans to envelop Oguri's\n\nunprecedented popularity with her\nnurturing love.",
+            "name": "Монолог"
+        }
+    ]
+}

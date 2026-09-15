@@ -1,0 +1,118 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I drop by the dance studio to pick up\nsome stuff I\nforgot, only to find it\noccupied.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Sigh...</i> This choreography is pretty\ntough. There's\nnothing special about it,\nbut it's still tricky...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, hey, Trainer. Didn't realize you were\nthere.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер is practicing hard, but I\nnotice\nsomething about the\nchoreography...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Isn't that dance for the side positions?"
+            ]
+        },
+        {
+            "text": "This? Yeah... I have a feeling I'll be\ndancing these\nparts a lot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "So doesn't it make sense to focus on\nthem when\npracticing?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Her defeatist attitude towards her own\npotential\ntakes me aback, and I'm left\nstruggling for words.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Respect her choice.",
+                "Recommend practicing for the center spot."
+            ]
+        },
+        {
+            "text": "Huh... I was expecting you to tell me to\npractice\nfor the center spot.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер knows what works for her\nbest. I'd\nrather respect how she feels\nthan rush her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But I don't want to deny her potential\neither.\nThat's why...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "At the same time, let's make it the most\ncaptivating performance ever!"
+            ]
+        },
+        {
+            "text": "You and your silver tongue...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You can do it, Nature!"
+            ]
+        },
+        {
+            "text": "All right, all right. Thanks.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You know what, let's dance together!"
+            ]
+        },
+        {
+            "text": "That's not necessary.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Center spot, huh? I figured you would\nsay that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She has the potential to come in first\nplace, but\nmost importantly, I don't want\nher to give up from\nthe get-go.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I <i>know</i> you can win!"
+            ]
+        },
+        {
+            "text": "Yeah, right...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "We just have to work hard! Come on!"
+            ]
+        },
+        {
+            "text": "All right, all right. If you say so.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I don't know how good my dancing will\nbe,\nconsidering how late I'm starting.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But hey, if you believe in me, then\nmaybe...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What was that?"
+            ]
+        },
+        {
+            "text": "Her tone says she's annoyed, but her\nexpression\nsoftens a little.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nothiiing!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

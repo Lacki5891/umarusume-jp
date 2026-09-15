@@ -1,0 +1,199 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "One day, I notice Мэдзиро МакКуин\nlooking a little\nmore worn out than\nusual."
+        },
+        {
+            "text": "I decide to take her to the cafeteria to\nrelax after\nour training."
+        },
+        {
+            "text": "I appreciate this very much, Trainer. I'm\nfeeling a\nbit better now, thanks to you.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Do you have any idea why you're feeling tired?"
+            ]
+        },
+        {
+            "text": "To tell you the truth, my study session\nlast night\nwas a little lengthier than\nusual.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I wasn't able to rely on my roommate,\nIkuno, as I\nusually do.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "I usually turn to Ikuno for help whenever\nI get\nstuck with my studies.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Not only is she studious, but she's also\nvery caring\nof others.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "However... recently she's been forgoing\nraces.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I do wish she would pay more mind to\nher own\ndreams. I say this not only as a\nfriend, but as a\nrival.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Just as I'm about to respond..."
+        },
+        {
+            "text": "Oh?",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Hello, Мэдзиро МакКуин and her trainer. I\nhope\nyour day has been going well.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "I believe I heard my name being\nmentioned. Do\nyou need anything?",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Oh, not at all! We weren't discussing\nanything\nimportant.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "How mortifying... I hope she didn't\noverhear our\nconversation!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин only wants Ikuno\nDictus to focus\non running, but her\nintentions might go\nmisinterpreted. I\nneed to divert the conversation\n\nsomehow.",
+            "choice_data_list": [
+                "She was talking about how you're a good friend.",
+                "She wants you to focus on your dream."
+            ]
+        },
+        {
+            "text": "Мэдзиро МакКуин only wants Ikuno\nDictus to focus\non running, but her\nintentions might go\nmisinterpreted. I\nneed to divert the conversation\n\nsomehow.",
+            "choice_data_list": [
+                "She was talking about how you're a good friend.",
+                "She wants you to focus on your dream."
+            ]
+        },
+        {
+            "text": "...I am?",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Well if friends are what we're talking\nabout, I find\nМэдзиро МакКуин to be a\nwonderful example.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "While some tend toward defiance when\ngiven\nadvice, McQueen is always very\nreceptive.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "It's a great help when I'm out there\nlooking after\neveryone.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "As her trainer, I've come to notice these\ntraits in\nМэдзиро МакКуин too. She's\nsincere and dutiful.",
+            "choice_data_list": [
+                "I think I get what you mean."
+            ]
+        },
+        {
+            "text": "Oh... Really?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I knew you'd agree! McQueen isn't only\ndiligent,\nshe's also hardworking and a\nfast learner. What's\nmore...",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Ikuno Dictus unexpectedly breaks into\nher\nmanagement spiel."
+        },
+        {
+            "text": "...And that is all. Thank you for this\nvaluable\nconversation, Trainer.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Whenever you have time, I would like to\ncontinue\nour discussion.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "P-please stop... The two of you get much\ntoo\ncarried away.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That's enough talk about me. I would\nlike you to\nfocus more on yourself,\nIkuno.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Thank you for your concern. However,\nI'm taking\nwell enough care of myself, so\ndon't you worry.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "H-hey now! That was a little too direct!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hehe. I appreciate it.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "However, you needn't worry yourself. I\nalways\ntake care not to exceed my\nlimits. Now what I'm\nmore concerned\nabout is...",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "McQueen, is everything all right? I ask\nbecause\nyou appear quite tired.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Y-you needn't worry yourself! I'm\nperfectly fine,\nreally!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Is that so? Well if it isn't necessary, then\nI shan't\ninquire any further.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "No! I don't mean to say that it isn't\nnecessary...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It seems Мэдзиро МакКуин feels a mixture\nof both\ngratitude and guilt about Ikuno\nDictus's care and\nattention.",
+            "choice_data_list": [
+                "She's probably feeling bad because she makes\nyou worry a lot."
+            ]
+        },
+        {
+            "text": "Hey!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I-I did not say anything to that extent!\nWould you\nplease stop speaking for me\nas if I were a child!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh... Is that the case?",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Then I shall respect your wishes. I will\nrefrain from\nbeing too attentive since it\nbothers you so.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Oh, please! Not you as well, Ikuno!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Whereas Мэдзиро МакКуин shies from\nreceiving\ncompliments, Ikuno Dictus\naccepts them coolly. I\nfeel like I've\ncaught a glimpse of how their\n\nrelationship works."
+        },
+        {
+            "text": "Seeing Мэдзиро МакКуин get flustered,\nIkuno\nDictus simply smiles."
+        }
+    ]
+}

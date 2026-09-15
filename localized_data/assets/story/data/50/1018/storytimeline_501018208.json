@@ -1,0 +1,131 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The autumn Tenno Sho is about to\nbegin! Of\ncourse, everyone has their\nattention fixed on the\nbattle between\nthe Empress, Эйр Грув, and the\n\nOtherworldly Front-Runner, Silence\nSuzuka!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "The stands are awash with excitement!\nEveryone's\non the edge of their seat!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "I bet Suzuka's gonna fly ahead and leave\nAir\nGroove in the dust!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "I was at the Sapporo Kinen, so I <i>know</i>\nAir\nGroove's got this in the bag!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "I'm just about to see Эйр Грув off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We've come all this way.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "All that's left is to run."
+            ]
+        },
+        {
+            "text": "Yes. I just need to give it everything I\nhave.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Suzuka...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Sorry to have kept you waiting.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm so relieved.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "About what?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I can feel your power again. You're back\nto the\nЭйр Грув I know so well.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Actually... not quite.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "There's still something different about\nyou now.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You look faster and sharper than the last\ntime we\nraced. It feels like you might get\nahead of me.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You're stronger than I've ever seen you.\nThat's the\nfeeling I get.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I really enjoyed running in the\nTakarazuka Kinen.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And looking at you now... I feel like I\ncan run even\nfaster than back then.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Heh.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's exactly what I wanted to hear,\nSuzuka.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I look forward to seeing you run even\nfaster than\nat the Takarazuka Kinen...\nbefore I pass you and\nclaim my victory.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Good. But don't expect me to go down\nwithout a\nfight.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm heading out now. Let's have a good\nrace out\nthere.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Don't worry. I'm not afraid any longer.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I believe in you."
+            ]
+        },
+        {
+            "text": "That's right. Believe in me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I am the Empress. I am the challenger\nwho drives\nall Umamusume forward.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And... I'm your ideal.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

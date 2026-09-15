@@ -1,0 +1,62 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "\"Фудзи Кисэки, whose decision to take on a\nhuge\nchallenge has been the talk of the\nracing world,\nwill be running in today's\nTakamatsunomiya\nKinen!\"",
+            "name": "Announcer A"
+        },
+        {
+            "text": "\"The stands are absolutely packed with\nfans who\ncame to see her participate in\nthis 1,200-meter\n\nblink-and-you'll-miss-it sprint!\"",
+            "name": "Announcer A"
+        },
+        {
+            "text": "The screen pans over the audience,\nmany of\nwhom are holding up Fuji\nKiseki-branded goods\nand large banners\nto cheer her on."
+        },
+        {
+            "text": "That's incredible! I can feel how much\nthey're\nrooting for me, even through the\nscreen!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "They're all smiling so beautifully. I'm\nglad they're\nenjoying themselves.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "The pressure isn't getting to you, is it?"
+            ]
+        },
+        {
+            "text": "Not at all. I can't put on a good\nperformance if I\nchicken out now.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I promised to entertain everyone with\nthe show of\na lifetime, and I intend to do\njust that!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Splash!</i>"
+        },
+        {
+            "text": "She gestures enthusiastically to make\nher point\nand accidentally knocks a\npaper cup off the\ntable."
+        },
+        {
+            "text": "Whoops...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Sorry about that! Thank goodness it was\nonly a\npaper cup!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'd better wipe this up! Where's a towel\nwhen I\nneed one?!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "(That's odd.)"
+            ]
+        },
+        {
+            "text": "She's not usually so clumsy. Something\nfeels off.\nWhile I'm trying to figure out\nwhat that might\nbe..."
+        },
+        {
+            "text": "The curtains slowly rise on Фудзи Кисэки's\nfirst senior\nrace—the Takamatsunomiya\nKinen."
+        }
+    ]
+}

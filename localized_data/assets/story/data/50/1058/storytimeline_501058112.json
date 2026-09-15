@@ -1,0 +1,274 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after Мэйсё Дото has a\nnumber of\nvictories under her belt...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm reminded suddenly of the hot spring\nticket we\nwon in that raffle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, well... Is it... really okay if I... use it?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Of course it is. Go and enjoy yourself."
+            ]
+        },
+        {
+            "text": "But... it was such a lucky prize. Using\nsomething\nfilled with so much joy... is\nactually kind of scary...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "So, if you d-don't mind, um, could you\ncome with\nme, Тренер?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I think if you're with me, I'd feel a little\nmore... at\nease.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And so...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh wooow! I can't believe we made it\nright on\ntime!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I usually go down the wrong road, or\ntake the\nwrong train line, so I'm not used\nto this\npunctuality.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And it's all because you looked up the\nmaps and\ntimetables for me. Ehehe...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Wow... Is it okay for me to eat something\nthat\nlooks this wonderful?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "...Th-thank you for the food!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Mmm...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "A charred smell comes wafting through\nthe air. On\ncloser inspection, it appears\nМэйсё Дото's\nchopsticks have caught\nthe flames of the dish\nheater.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Doto, your chopsticks!"
+            ]
+        },
+        {
+            "text": "Hwaa!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm so s-s-sorry about that! Oh, and we\nwere\nhaving such a good trip!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'm just glad it was nothing serious."
+            ]
+        },
+        {
+            "text": "It's not every day you get to go to the\nhot\nsprings. I suggest the both of us\nregain our spirits\nwith a long bath.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You're right—we're here to experience\nthe hot\nsprings. Getting to relax in a\nwarm, steamy tub\nsounds so nice.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ehehe, the water was lovely.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Although, I <i>did</i> trip over the basin... and\nI lost the\nkey to my locker.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But that didn't stop me from enjoying\nthe\nsprings. ♪ Hehe.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Doto?"
+            ]
+        },
+        {
+            "text": "Ah... Um... On the news... it said there's\ngoing to\nbe a meteor shower today!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I looked into it and found a good\nviewing point in\nthe area. So, would\nyou... like to go with me?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm s-sorry! I g-got us lost!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Taking a right at the big pine tree\nshould have\nled us to the ocean, but...\nit's only more and more\nforest...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "It would be a shame to miss the meteor\nshower,\nbut going too far from the inn\ndoesn't seem safe.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Should we stop and head back?"
+            ]
+        },
+        {
+            "text": "Um... Would it be okay for us to... stay\nout a little\nlonger? Not too long,\nthough... I promise.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I can give you a piggyback ride if you\nget tired!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I quickly, but respectfully, decline the\npiggyback\noffer. The two of us walk for\nseveral more hours.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We've m-made it! Wow, what a beautiful\nview.\nAnd the night sky is filled with\nstars!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "If we wait long enough, I wonder if some\nshooting\nstars will appear. I'm sorry to\nbother you again...\nbut could we stay a\nlittle longer?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "Ehehe... Thank you so much.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And so, the two of us wait for the\nmeteor shower\nto start.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I'm so glad you chose to come along,\nTrainer.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "text": "I'm sure I'd be feeling really down in the\ndumps if\nyou weren't here.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "This is such a special occasion, and yet I\nburnt my\nchopsticks and then got lost.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...It's not just today. I felt the same way\nduring the\nTwinkle Series.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "If you weren't there for me, Trainer, I\njust know I\nwould've spiraled.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "That's why I've built this habit of always\ncalling\nother people amazing, to... try\nand return the\nfavor.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Because without you, I couldn't have\ntaken that\nfirst... stЭпизод",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "...Hehe. You're amazing, Trainer.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Мэйсё Дото erupts with joy before I\nhave the\ntime to respond.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! There goes a sh-shooting star! The\nmeteor\nshower is here!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I look up to see dozens of shooting stars\npassing\nby.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is amazing, I can't believe we're\nhere to see\nit!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "It's beautiful!"
+            ]
+        },
+        {
+            "text": "Trainer, are you... happy right now?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Was I... a-able to bring you a wonderful\n\nexperience?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Of course you were!"
+            ]
+        },
+        {
+            "text": "...Th-thank goodness!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You know... I wanted to show my\ngratitude after\ncausing so much\ntrouble...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "So that was the reason she wanted to\nsee the\nmeteor shower. It isn't normally\nlike her to do\nprior research and be so\ndead fixed on\nsomething.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thank you. I'm really happy."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ehehe! Then I'm... I'm happy I could\nmake you\nhappy.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "We enjoy the meteor shower together...\nThe road\nback to the inn, however, isn't\nso easy. We lose\nour way yet again, and\na deer chases us into a\nriver, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I sense that Мэйсё Дото and I have\nformed an\nirreplaceable bond during this\ntime together.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "December has come...",
+            "name": "Монолог"
+        },
+        {
+            "text": "And the holidays are twenty-five days\naway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer. There is something I wish for you\nto see.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She excitedly holds a thin, flat box out\nto me.\nThere's a festive scene on its lid.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's this?"
+            ]
+        },
+        {
+            "text": "A countdown calendar. Have you heard\nof them\nbefore?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "December is an important month for a\nlot of\npeople in Germany, with all sorts\nof festivities\ngoing on. Counting down\nthe days is one of them.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The small doors are each labeled with a\ndate, and\none is to be opened each day\nuntil the big\ncelebration at the end of\nthe month.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "As for the contents... Please open\ntoday's door\nand see for yourself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I do as she asks and pull open the flap,\nrevealing\na small golden parcel inside it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That has chocolate in it. There are\ntwenty-five\ndays' worth of\nconfectionaries within this\ncalendar.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Wow!"
+            ]
+        },
+        {
+            "text": "Impressive, I know. Getting to see what\nis inside\neach day is quite thrilling.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I would be most happy if this countdown\ncalendar\ngave you something small to\nlook forward to\nevery day.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "We should open these together!"
+            ]
+        },
+        {
+            "text": "We can't. There are not enough sweets\nfor both\nof us. I made this specifically for\nyou.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You <i>made</i> this?!"
+            ]
+        },
+        {
+            "text": "The chocolates and sweets inside, yes.\nEach one\nis unique.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You put so much work into this..."
+            ]
+        },
+        {
+            "text": "That's because it's a special time of year.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Though that is not the only reason.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Let me help you with something too."
+            ]
+        },
+        {
+            "text": "No, it's all right. My holiday plan was set\nin\nmotion three months ago, so there's\nno need to\nassist me.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will prepare food and cake as well. I\nhope you\nlook forward to it.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I know she said I didn't need to help,\nbut I still\nfeel bad for not doing anything\nin return. I should\nget her a present, at\nthe very least.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I received the same wreath. The message\naffixed\nto it was different, however.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "\"May the joy you felt at your debut\ncontinue\nthroughout your racing career.\"\nThat is the wish\nmine is imbued with.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There are twenty-five days until the big\n\ncelebration. I take out my phone to\nsearch for\ncraft classes I can attend\nbetween shifts at work.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйсин Флэш keeps working diligently\nthroughout\nthe month as the big day\ndraws nearer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant... Pant...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Thud!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time to begin.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш drags in a massive tree that's\neasily\nover two meters tall like it's a\ntoothpick.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Begin with what, exactly?"
+            ]
+        },
+        {
+            "text": "I was able to acquire a Nordmann fir,\nwhich I\nintend to start decorating\nimmediately.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It will be a grand centerpiece by the\ntwenty-fifth,\nso please look forward to\nit.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ah, Trainer. Have you opened today's\ncountdown\ncalendar door?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Yes, I got some gummy candies!"
+            ]
+        },
+        {
+            "text": "In the shape of teddy bears, yes? I had a\nlot of\nfun preparing them as chances to\nmake gummy\ncandy are few and far\nbetween.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now you must excuse me. I still have\nwork to do.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "On another day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "A five-kilogram goose, please. I will pick\nit up on\nthe day of.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You got it! I'll get the best one I can just\nfor you!",
+            "name": "Butcher"
+        },
+        {
+            "text": "Thank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Next is the supermarket. I need four\nkilograms of\npotatoes, four heads of\npurple cabbage, two\nkilograms of\napples...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And so, I watch over her as she balances\nholiday\npreparations and her training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "December is drawing to an end. Eishin\nFlash and I\nopen the last door on the\ncountdown calendar\ntogether.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "A fir tree?"
+            ]
+        },
+        {
+            "text": "That's right. It's delicious and sweet\nsince it's\nmade of marzipan.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "With that, all the doors have been\nopened. Well\ndone.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Thanks! That was a lot of fun!"
+            ]
+        },
+        {
+            "text": "I'm glad. I also enjoyed your report each\nmorning\nbefore our training sessions.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now, regarding our schedule for the\nparty...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "We will chat about it while partaking in\na meal.\nThat is all.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "That's all?"
+            ]
+        },
+        {
+            "text": "I'm surprised by the schedule's sparse\ndetails,\nespecially knowing how hard she\nworked to get\neverything ready.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yes, that is all. I only prepared food and\n\ndecorations.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'll bring the food over now.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Wait, hold on."
+            ]
+        },
+        {
+            "text": "...?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Is this... a wreath?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I give Эйсин Флэш the wreath I've\npainstakingly\nput together over the past\nmonth.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's not much compared to the one from your\nparents, but..."
+            ]
+        },
+        {
+            "text": "Trainer, did you make this by hand?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Just for me?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "YЭпизод I made it in hopes that you'll always be\nhappy, Flash."
+            ]
+        },
+        {
+            "text": "Oh...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "May you always find happiness wherever\nlife\ntakes you...",
+            "name": "Flash's Father"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Flash?!"
+            ]
+        },
+        {
+            "text": "H-huh?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Apologies. I-I'm just so overwhelmed\nwith joy...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This holiday is meant to be spent with\nfamily and\nholds a special place in my\nheart.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, I did not have the mental\nleeway to\ncelebrate properly last year.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And... I didn't believe I had anyone to\ncelebrate it\nwith.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I thought it would be better to forgo it if\nthinking\nabout my family was only going\nto make me feel\nlonely...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But in reality, there was someone\nwatching over\nme like family the entire\ntime.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "That's why I put on a party this year. I\nwanted to\ncelebrate properly and use it\nto thank that\nspecial person.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And yet, I'm the one who received a\nwonderful\npresent in the process.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You've given me so much more."
+            ]
+        },
+        {
+            "text": "No, it is you who—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hehe. There will be no end at this rate.\nThe dishes\nare getting cold, so why\ndon't we begin the\nparty?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "What would you like first? There is carp\ntoo, if\nyou'd like.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Carp?"
+            ]
+        },
+        {
+            "text": "I anticipated that reaction. This is called\n\"Karpfen\nblau,\" and it is a lovely\nseasonal dish.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It seems carp is not a common ingredient\nin\nJapan. Falcon was most surprised\nwhen I...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I was quite innocent and believed Santa\nClaus\nexisted beyond a shadow of a\ndoubt.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thus, I made a plan to capture him and\nset it into\nmotion... But all I ended up\ndoing was catching\nmy parents\ncompletely off guard.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After seeing how much Эйсин Флэш loves\nthe\nfestive season, I wanted to find\nanother way to\nmake it even more\nspecial for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, while we're enjoying the food\nand\nchatting together...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello, hellooo! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hi, you two! Happy Holidays! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Falcon? What are you doing here?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It's not just me! C'mon in, everyone!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Happy Holidays, Flash! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Happy Holidays! Wow, look at all this\nfood! I've\ngotta take a pic of this!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Curren, Jordan. And everyone else... I\nwasn't\nexpecting you all.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh, just to be clear, we're not here to\ncrash your\nquiet party or anything.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Buuut! We do want you to experience\nthe loud\nand rowdy end-of-year parties\nwe like to hold in\nJapan! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I invited them."
+            ]
+        },
+        {
+            "text": "Эйсин Флэш might have thought she\ndidn't have\nanyone to spend the\nholidays with last year, but\nthat belief of\nhers isn't true anymore.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You have lots of friends."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You're right... It seems I do.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm glad I'm here at this academy right\nnow,\nspending the holidays with you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She looks just like a child with her\nbright,\nbeaming smile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйсин Флэш tells me even more stories\nwhile I\nenjoy her cooking.",
+            "name": "Монолог"
+        }
+    ]
+}

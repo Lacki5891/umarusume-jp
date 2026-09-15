@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро Райан's movements seem a little\noff during\ntraining.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you feeling okay?"
+            ]
+        },
+        {
+            "text": "I'm fine, really! Look at these rippling\nmuscles,\njust full of energ—",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Huh? Hold on a minute... My biceps\naren't as taut\nas usual.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My hammies and triceps aren't their\nusual,\npowerful selves either!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "She's right. Her muscles aren't in top\ncondition\nright now. Maybe she's\noverworking herself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It might be best for us to revise her race\n\nschedule...",
+            "name": "Монолог"
+        }
+    ]
+}

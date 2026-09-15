@@ -1,0 +1,331 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One evening, Т.М. Опера О and I are\nwalking\naround the shopping district...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, Trainer! Look ahead. A crowd has\ngathered...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Do you think it's a duel? If so, I must\nintercede.\nOr perhaps—should I enter\nthe fray?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "We go and take a look. Just as I\nthought, there's\nno duel going on.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "How about you? The prima donna over\nthere!\nCare to try your luck?",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Haaah ha ha! I suppose I have no choice\nnow that\nI've been singled out among\nthe audience.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "A raffle is it? How amusing. I'm\nabsolutely\nfascinated with this spinning\ngadget you have\nhere.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Trainer, pluck that ticket from your\nbreast\npocket. And obviously, only use\nyour index and\nmiddle fingers.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "It's always a performance, even in the\nway one\npulls something from a pocket...\nI take out the\nticket as she asks and give\nit to the clerk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Time to start the show, Trainer. Take\nhold of the\ngadget's lever with me.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "For the moment of truth! Spin, O gears\nof fate!\nHaaaaah!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Both of us raise one hand to the sky and\nturn the\nraffle spinner with the other.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\nspinner's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oooh! 'Tis a ray of light from the\nheavens!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "The grand-prize! Indeed, even the\nGoddess of\nLuck is enamored with the\nstar that I am.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Haaah ha ha! Aaah ha ha haaa!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "A hot spring vacation? How delightful. I\nwould\ndare depart this instant, if only I\ncould.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "But, alas, it's not in the cards while I still\nwalk the\nOverlord's path.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "You're going to hold off?"
+            ]
+        },
+        {
+            "text": "Yes. As I traverse this path, I should\nentertain no\nother.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "If only the hot spring would come to me!\nShould it\nnot rush to my feet the\nmoment I beckon?",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Hot springs... can't move."
+            ]
+        },
+        {
+            "text": "Truly? They're surprisingly\nunaccommodating.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Then nothing can be done. I'll entrust\nyou with\nthe ticket for now.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Close it with wax using the king's seal\nand keep it\nsafe until the appropriate\ntime comes.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And now the hot spring vacation ticket is\nin my\npossession.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, hehehe... Can you see it? Because\nI most\ndefinitely can!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "At the summit of the Overlord's path... is\na hot\nspring! Flowing freely from the\nvery earth! Haaah\nha ha!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hah, first-prize!  Luck certainly loves me.\nEven I, a\nking of kings, am pleased by\nthis!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "But wait! Could it be?! The holy sword\nbefore us is\nnone other than...\nExcaliburger!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Say what?"
+            ]
+        },
+        {
+            "text": "Behold! A single carrot stands plunged\ninto the\nstone of minced meat!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Only one worthy to rule is capable of\nwithdrawing\nit.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Which means I have not a moment to\nlose. We\nmust make haste to the\nkitchen!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I am prepared! Are you ready, Тренер?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Once I draw the carrot, you are to say\nthe words\nof revelation. Understood?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ready... <i>Pop!</i>",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Oooh! You <i>are</i> the true king!"
+            ]
+        },
+        {
+            "text": "Behold my glory! Haaah ha ha! <i>Munch,\nmunch...</i>",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "This holy sword... is delicious! Truly a\ntreat for the\nroyal taste buds!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmn, second-prize. I typically fare\nbetter than\nthis. And yet...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Look at them all! With a little love from\nme, they\nwould make great appreciation\ngifts for my\nadorning fans.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ah, perfect! Young boy over there, I\nbestow unto\nthee a carrot.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Eww... Keep it. I hate carrots.",
+            "name": "Boy"
+        },
+        {
+            "text": "Haaah ha ha! Whatever do you mean?\nThis is no\nordinary carrot, but a loving\ngift from yours truly.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Now I really don't want it...",
+            "name": "Boy"
+        },
+        {
+            "text": "Y-young boy! Wait!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "How could this be? Ah! I see now. One\ntaste of\nthis carrot and all other foods\nwould be rendered\nunpalatable.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ahh! I cannot hold out any longer!\nTrainer, we\nmust eat all the carrots\nourselves.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "A ballet of carrots, je t'aime! We shall all\ndance\nthe dance of carrots together!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "What? A single carrot?! How dare you\ninsult\nroyalty!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "What do you have to say for yourself,\ncarrot?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "She vents her anger to the carrot. Of\ncourse, it\nhas no response.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have no other choice than to sing a\nballad of\nsorrow, repurposing the carrot\nas a microphone.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "It's times like this that make you sulk in\nyour\nsorrows, don a different mantel,\nand sing the\nblues. Hit it, band!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ahhh, yes! Uh-huh! Mhmmm!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Welcooome to the carrot kingdooom!\nYou\ncarotene soldier, un deux trois!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, woe... Worse has come to worst. The\ngreat\nme... recipient of a consolation\nprize?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "To think I would receive nothing more\nthan a\nmere packet of tissue paper...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Notice how I say \"tissue <i>paper</i>\" and not\nsimply\n\"tissue.\" The former has a more\nbeautiful ring to\nit.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "S-sure..."
+            ]
+        },
+        {
+            "text": "Trainer! I issue a royal decree!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Take this packet of tissue paper and\nexchange it\nfor a hot spring vacation\nticket!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "There's no way they'd go for that..."
+            ]
+        },
+        {
+            "text": "I will not hear your whining. Tragedy has\nbefallen\nme, and I have become the mad\nking, the Raving\nLord!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "If you fail, I will confine you to\nimprisonment in la\nConciergerie!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "With a hot spring vacation to look\nforward to,\nOpera O's motivation shoots\nthrough the roof!",
+            "name": "Монолог"
+        },
+        {
+            "text": "A bad luck of the draw has changed the\nking. It\ndoesn't seem like anything is\ngoing to improve\nher mood.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Opera O devours Excaliburger, content\nwith both\nthe flavor and how much fun it\nis to eat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We eat the carrots while performing\nsome weird\nchoreography. The taste is\nnothing to write home\nabout, but they're\ngood all the same.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Opera O sings with desperation, but the\nkids\naround the shops seem to like her\nsong.",
+            "name": "Монолог"
+        }
+    ]
+}

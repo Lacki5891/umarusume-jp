@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the Spring Stakes...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "As a prelude to an even bigger event,\nthis race\nwould normally be something\nto get excited over,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What? Five participants?! That's just\nbarely\nenough to make a race!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Every year, this race has ten or more\nrunners in it!\nWhat's going on?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Before today, if you had told me there\nwould only\nbe five people in this race, I\nwould've thought\nyou were crazy...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ah... Haha... There's really only five of\nus...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The reason so many Umamusume are\navoiding\nthis one could likely be\nbecause she's here...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's just focus on performing at your best."
+            ]
+        },
+        {
+            "text": "...Yeah, you're right.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's still a race, so we should enjoy it!\nTime to\nfocus!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Fly like the wind!"
+            ]
+        },
+        {
+            "text": "I'm all over it!",
+            "name": "Марузенски"
+        }
+    ]
+}

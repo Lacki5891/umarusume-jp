@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If I win a Triple Crown race, they won't\nbe able to\nignore my skills, right?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm done with being called pretty. I want\nthem to\ncall me <i>strong.</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "First up, I'm gonna win the Satsuki Sho!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let's show the world what you can do!"
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Голд Сити"
+        }
+    ]
+}

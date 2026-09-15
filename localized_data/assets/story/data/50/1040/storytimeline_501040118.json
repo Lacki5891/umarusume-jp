@@ -1,0 +1,191 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, per Голд Сити's request, we\ntrain right\nup until sunset."
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Phew...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Let's take a break."
+            ]
+        },
+        {
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "text": "Hm? What was that?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yukino? What are you doing?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ah, um... W-well...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Hey, calm down.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What are all those plastic bottles on the\nground?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Um, ah, it's refresh'n water from\nMorioka!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I was plannin' on bring'n 'em to you, but\nthen...",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "When I saw you look'n so beautiful in\nthe sunset...\nI was mesmerized.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Beautiful, huh? It always comes down to\nthat.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Pard'n me?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "It's nothing. Was just thinking how I\ncouldn't\nchange the words people use to\ndescribe me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Just once, I wanted them to call me a\n\"strong\"\nrunner.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Well, not that I care about that\nanymore. Now, I\nrun because I want to.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You don't understand, do you?!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Huh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's true that you're super beautiful on\nthe\noutside... so beautiful it hurts, even.\nBut that's not\nall I mean!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "<i>Everythin's</i> packed into that word. When\nwe say\n\"beautiful,\" we mean \"strong,\"\nand \"awesome,\"\nand <i>all</i> of that stuff!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You, right now, are incredibly beautiful."
+        },
+        {
+            "text": "You, right now, are incredibly beautiful."
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If you really think all we're seein' is your\nlooks,\nthat just... it makes me so sad.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "'Cause everythin' about you's beautiful.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "You... really think so?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Then... back then...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah! You're so pretty when you run!\nCity, you're\nthe best!",
+            "name": "Spectators"
+        },
+        {
+            "text": "I can't believe a model can run like that!\nYou're so\ncool, City!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Are you saying...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Some of those people... <i>were</i> seeing me\nas a\nrunner?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...City?",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "AHAHA!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "(Did City finally break?!)"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "So... what, it was all in my head? God,\nI'm such an\nidiot.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Like, seriously. I'm a board-certified\nidiot... Haha!\nHAHAHA!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...You're beautiful.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "Huh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You've always been beautiful, but... you\nlook ev'n\nmore beautiful now.",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "I like it. You're the best you've ev'r\nbeen!",
+            "name": "Юкино Бидзин"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I get that. Because you know what?\nRight now, I\nlike myself too!",
+            "name": "Голд Сити"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I catch a glimpse of Кинг Хало shopping\nat the\nschool store.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Wait, why do I have a hole punch? I\nwas looking\nfor pudding...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Sigh...</i> I missed lunch too. What in the\nworld am I\ndoing?",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Worried about something?"
+            ]
+        },
+        {
+            "text": "Oh, it's you, Trainer. No, I'm not fretting\nover\nanything in particular.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I was just wondering how best to scold\nthe\nyounger students who caught colds\nand missed\nclasses.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The notion of <i>my</i> juniors neglecting their\nphysical\nwell-being is simply\ninexcusable.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Because of them, even <i>I'm</i> feeling under\nthe\nweather... Geez.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало sighs, her expression\ndowncast.",
+            "name": "Монолог"
+        }
+    ]
+}

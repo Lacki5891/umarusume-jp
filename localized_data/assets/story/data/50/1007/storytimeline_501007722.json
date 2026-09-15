@@ -1,0 +1,62 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Голд Шипп comes to the\ntrainer's\noffice...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why, hello there, Trainer. Sure is lovely\nweather\nwe're having today, don't you\nthink?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "...Did something happen?!"
+            ]
+        },
+        {
+            "text": "Goodness, why do you look so startled?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I daresay you seem a little off today. Are\nyou\nfeeling well?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "You don't seem like yourself, either."
+            ]
+        },
+        {
+            "text": "Well... If you must know, I've been\nhaving strange\nheadaches of late.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...Ah, speaking of which, I feel one\ncoming right\nnow—ow, ow, OW!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Arrrgh! Gimme a break!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...Hm? What's with that look?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "You're Голд Шип, right?"
+            ]
+        },
+        {
+            "text": "Whaaa? I'm the one and only Golshi!\nWho else\nwould I be?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ouch...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ugh... All that shouting's made my\nheadache even\nworse...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп seems to be plagued by bad\nmigraines.",
+            "name": "Монолог"
+        }
+    ]
+}

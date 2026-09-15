@@ -1,0 +1,42 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Once at the venue, Голд Сити becomes\nvery\nfocused, with an intensity that I feel\nhesitant to\nintrude on.",
+            "choice_data_list": [
+                "(I should go outside.)"
+            ]
+        },
+        {
+            "text": "Wait, Trainer.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm going to try harder than I did in the\nDerby.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm going to muster all the strength I've\ngained\nwith your help. So...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Try to get me going... without killing the\nvibe.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Go get the recognition you want!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "See you after the race!",
+            "name": "Голд Сити"
+        }
+    ]
+}

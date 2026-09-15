@@ -1,0 +1,274 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I'm walking around the central plaza,\nI spot\nНарита Таисин listening to music\non a bench.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What the? I don't remember this being\non the\ncharts. Is it new or something?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh, so this is what's in right now.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh, it's you. What do you want?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What kind of music do you listen to?"
+            ]
+        },
+        {
+            "text": "I don't really care. I just play whatever's\npopular.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What songs do you like?"
+            ]
+        },
+        {
+            "text": "Nothing in particular.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Songs are all the same. I just like letting\nthem\nplay.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I do switch up the genres, though.\nOtherwise, I\nget bored of listening to\nthe same thing.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "So would you say you could live without music?"
+            ]
+        },
+        {
+            "text": "Not exactly. I guess I prefer to have\nsomething on\nin the background.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But it doesn't matter what it is.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We continue talking about music as we\nwalk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Music's just noise that helps pass the\ntime.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's not like listening to it has an effect\non my\nemotions or anything. I'm not a\nkid.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You'd be surprised. Sometimes music can really\nmove you."
+            ]
+        },
+        {
+            "text": "Oh please. Your head's in the clouds. No\nway\nthat's true.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And if it is, then show me something\nthat'll\n\"move\" me. What have you got?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин is picky. What kind of\nmusic would\nshe vibe with?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Live R&B.",
+                "Sekaikei pop."
+            ]
+        },
+        {
+            "text": "Live R&B? You want me to go to a club\nfor it or\nsomething? I've never really\nlistened to R&B\nbefore, though...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But aren't clubs usually packed? I hate\ncrowds\nand loud places.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Some are less crowded and pretty quiet."
+            ]
+        },
+        {
+            "text": "Fine. Then take me to one like that. But\nI'm\nleaving if I don't like it, got it?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And so, I take her to a music club that's\nplaying\nthe latest R&B music.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa, this is...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин sways to an intense yet\ngentle beat\nthat she's never heard\nbefore.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "How was it?"
+            ]
+        },
+        {
+            "text": "Strange, actually... It was loud, but\npretty nice on\nthe ears...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I guess there's still a world of music out\nthere I've\nnever heard.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The sounds blended together as if they\nwere\nbursting from the soles of my feet.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Heeeey, Taishiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin! Wow, you're here too?! That's so\ncooool!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Someone invited me, but I have no idea\nwhat's\ngoing on!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah, that sounds about right.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But it's pretty awesome! I love the way it\nwas like\n<i>badump, badump! Whomp,\nwhomp!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And then you get this big \"wooooo!\"\nfeeling\ninside yourself! You get it right,\nTaishin?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh, <i>obviously</i> I get it, but you don't.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Anyway, I'm going home now, Trainer.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I guess... today wasn't half bad.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Later.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin, waaaait! Let's talk some more\nand get\nreal deep about the music!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Literally shut <i>up!</i> Unlike the music we\njust heard,\nyou <i>are</i> loud and annoying.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What's that? Some kind of subculture\nthing? I\ndon't get it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Come to think of it, the planetarium's\nholding\nsome kind of event for that right\nnow.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Listen to pop music as you gaze upon\nEarth from\nspace, or something like that.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Wanna go?"
+            ]
+        },
+        {
+            "text": "I suppose we could have a look.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And so, we visit the planetarium.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The lyrics are kinda mysterious. Stuff\nabout\ntransience, worldly desires, and\nenlightenment...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All our worries and hesitations are\nmerely ripples\nin the water... Is that all\nwe are?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The celestial music show ends as Narita\nTaishin\ncontemplates life.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't really describe it, but like...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh? I didn't know you were here too,\nTaishin.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hayahide? You're into this kind of\nthing?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No, the event just happened to coincide\nwith my\nvisit here to research celestial\nbodies.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "However, I found that there were some\nlogical\ninconsistencies within the lyrics.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Think about it. It's just not possible for\nemotions\nfrom the largest star in the\nuniverse to reach\nEarth in an instant.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You should probably approach it less\nliterally.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's all about how you feel. Maybe we're\nfocusing\non the wrong thing.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Less literally? Taishin, you don't sound\nlike your\nusual sensitive self today.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Have you changed your beliefs or\nsomething?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Not exactly. I guess you could say...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "My vibes are a little different. It's just\nhow I feel.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин appears to have gained a\nnew\nperspective from immersing herself\nin the world of\nthe latest pop music.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Таисин leaves in a hurry. It seems\nlike the\nnew beat has added a little pep\nto her stЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

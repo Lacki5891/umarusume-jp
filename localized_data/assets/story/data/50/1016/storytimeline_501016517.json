@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I'm walking through the central\nplaza\nwith Нарита Брайан, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "text": "Guess it was just my shadow... Weird...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Did you see that just now?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'll pretend I didn't."
+            ]
+        },
+        {
+            "text": "Tch. This is the worst...",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

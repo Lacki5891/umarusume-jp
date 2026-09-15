@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Кинг Хало doesn't seem as upbeat as\nusual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<I>Pant... Pant...</I>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You're looking under the weather,\nKing...",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "You've been working so hard lately. You\nmust be\ntired.",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "Ohohohoho! My silly darlings, you worry\ntoo\nmuch! There's nothing wrong\nwhatsoever!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Are you really okay?"
+            ]
+        },
+        {
+            "text": "Of course! A king never falters. Come\non, let's do\none more—",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oof!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "M-my legs just got a bit tangled!\nNothing to get\nyourselves worked up\nover!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало may be acting strong, but it's\nobvious\nthat she's tired. Maybe I should\nchange her race\nschedule...",
+            "name": "Монолог"
+        }
+    ]
+}

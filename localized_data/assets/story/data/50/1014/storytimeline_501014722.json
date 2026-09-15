@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Argh, what the?! What is this awful\npain?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Has my mask gotten smaller? Did I yell\ntoo much\nwhen I was watching that last\nwrestling match?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ugggh... Whatever it was, it's got my\nhead\nchiming like a ring bell...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Do you want to take the day off?"
+            ]
+        },
+        {
+            "text": "Ni de pedo! I'm not about to let a\nheadache get\nthe best of me!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right... One, two, three...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Let's gooooo!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Uuuuugh... It won't stop echoing...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She stops shouting after that, but her\nheadache\nisn't going away anytime\nsoon...",
+            "name": "Монолог"
+        }
+    ]
+}

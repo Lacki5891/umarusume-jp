@@ -1,0 +1,176 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Taiki! You ready?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yeah! I'm ready when you are!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Then let's get that gate open!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "On your marks... Get set...",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Go!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Patter, patter, patter!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эль Кондор Паса and Тайки Шаттл both\ntake off\nrunning down the road out in\nfront of the dorms.\nWhat are those two\nup to?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew! Perfect! That should do the trick!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yeah! No problemo! Dinner's gonna be\nluxurious\ntonight!",
+            "name": "Тайки Шаттл",
+            "choice_data_list": [
+                "What are you two up to?"
+            ]
+        },
+        {
+            "text": "Ah, Trainer! Well see, there's an event\ngoin' on\nright now at a popular cafe for\ntheir new pizza!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "They're only 500 yen! And not just the\nsmall\nones—the extra-large ones too!\nFirst come, first\nserved! Plus, there's no\nlimit to how many you can\nbuy!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's why me and El are trainin'\ntogether. We're\ngonna treat ourselves to\nsome extra-larges!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "They're so big, it's gonna take both of us\njust to\ncarry them back!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You can come with if you want, Trainer!\nWhat do\nyou think?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If the three of us go, we can carry way\nmore in\none trip!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Now <i>that's</i> thinkin'! Let's have ourselves\na lil'\nextra-large pizza shindig!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Before I can grasp the situation, the two\ntake me\nwith them to the cafe.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're here! The place is over there!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wow! It sure is packed!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "There's way more people than I thought!\nWe\nshould've made a plan!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Just stroll up like you own the place!",
+                "Look for a gap in the crowd!"
+            ]
+        },
+        {
+            "text": "There's way more people than I thought!\nWe\nshould've made a plan!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Just stroll up like you own the place!",
+                "Look for a gap in the crowd!"
+            ]
+        },
+        {
+            "text": "Like we own the place? Oh, I see! It's all\nabout\nattitude!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh! That sounds kinda fun!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "No hay problema! I'm Эль Кондор Паса!\nHella\nstrong, hella fast, hella\nintimidating!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Okay! I'm goin' all out too! Hehe, I'm so\nready!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "They're about to open! Let's go, Taiki!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Let's nab us a big'un!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Taking care not to bump into anyone,\nwe move\nforward like we belong at the\nfront. A bit later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Got one! Extra-large, babyyy!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You want us to slip through the gaps?! I\nsee! So\nthis needs some finesse!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yeah, I think you're exactly right!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "We gotta be extra careful! It could be\nbad if we\nwere to accidentally bump into\nanyone!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I go all out when I'm runnin' at practice,\nbut we\ncan't push our way through here!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Understood, Trainer! Leave it to me! I'm\nthe\nworld's strongest, after all!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'll make sure it gets done! Let's go,\nTaiki!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm all set too! Time to nab us a big ol'\npizza!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Эль Кондор Паса makes her way forward,\ncarefully\nweaving her way through the\ncrowd in pursuit of\npizza!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Got one! Extra-large, babyyy!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Her powerful voice resonates through\nthe air.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems like Эль Кондор Паса may have\nlearned\nsomething while weaving\nskillfully through the\ncrowd to get pizza.",
+            "name": "Монолог"
+        }
+    ]
+}

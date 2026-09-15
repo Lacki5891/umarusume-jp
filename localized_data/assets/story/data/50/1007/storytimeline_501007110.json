@@ -1,0 +1,106 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's been three years since Голд Шипп and\nI started\nworking together, and we've\novercome all sorts of\nobstacles as a\nteam.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm just about to go and share the happy\nnews\nwith her, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>CRASH!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The distinct sound of something getting\n\ndestroyed reaches my ear, and the floor\nshakes\nbeneath my feet!",
+            "name": "Монолог"
+        },
+        {
+            "text": "What in the world is going on?!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer! Great day for renovations,\ndon'tcha\nthink?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Ack!"
+            ]
+        },
+        {
+            "text": "What are you freaking out about? I'm\njust doing\nsome DIY.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I was free climbing up the side of the\nmain school\nbuilding early this morning\nwhen I ran into the\nDon. Y'know, the big\nboss 'round here?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Anyway, she congratulated me on the\nawesome\nthree years you and I've had at\nthe academy, and\nwished us luck in the\nfuture.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So I figured if we're gonna keep hanging\naround\nhere, wouldn't it be a good idea\nto make this\nplace a bit cozier?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Anyway, now that I've explained myself,\nI'm\ngonna install a nice aquarium for us\nto raise sea\nanemones in.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Hold it right there!"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I don't even know where to begin, but I\ngive it my\nbest shot.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Don't you need permission to do renovations?"
+            ]
+        },
+        {
+            "text": "Oh, don't worry. I already got the green\nlight\nfrom the Don.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Anyway, you really need to start getting\nused to\nstuff like this.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We've still got a whole lotta ranks to\nclimb\ntogether in the world of\nUmamusume.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Your heart's gonna give before long if\nyou let\nevery little thing freak you out.\nYou gotta train\nyourself till nothing\nfazes you!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Catch my drift? Now, I've got a tank to\nfetch!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Her breezy brazenness catches me off\nguard, but\none thing in particular sticks\nwith me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп still wants to keep walking her\npath\nwith me. That just makes my whole\nday!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aw, heck. The tank doesn't fit.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, Trainer! Lend me a hand here!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It certainly won't be smooth sailing, but I\nhave a\nfeeling things will work out!",
+            "name": "Монолог"
+        }
+    ]
+}

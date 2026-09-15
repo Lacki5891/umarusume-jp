@@ -1,0 +1,182 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Матиканэфукукитару runs over to me,\nbeaming\nenthusiastically!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Reverse fortune-telling time! The hour\nhas finally\ndawned upon us, Trainer!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What's reverse fortune-telling?"
+            ]
+        },
+        {
+            "text": "I'm usually the one doing the\nfortune-telling,\nright? But this time\naround, I bring an opportunity\nso\nincredible it's going to blow your mind!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I want you to tell <i>my</i> future.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Please, do me the honor! How do you\nthink my\nrace this afternoon will turn\nout?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "This is a bit sudden..."
+            ]
+        },
+        {
+            "text": "Predicting the future is not in my\nrepertoire, but\nbefore I can say\nanything...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I think...",
+            "name": "Манхэттен Кафе"
+        },
+        {
+            "text": "I had a vision of Fukukitaru's future...",
+            "name": "Манхэттен Кафе"
+        },
+        {
+            "text": "I jump as a voice practically materializes\nnext to\nus.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wha?! Oh, Манхэттен Кафе!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ever enigmatic and mysterious... Do you\nwalk the\nboundary between this world\nand the next even\nnow?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "And did you just say you had a vision?\nAnd that\nvision was about my future?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um... Well, sort of...",
+            "name": "Манхэттен Кафе"
+        },
+        {
+            "text": "You appeared in my dream last night...",
+            "name": "Манхэттен Кафе"
+        },
+        {
+            "text": "I did?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "So, what did you see? Surely a dream\nfrom\nsomeone as mysterious as yourself\nwill proffer\nsome sort of clue for me.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Whatever it is, I'd love to hear it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Okay.",
+            "name": "Манхэттен Кафе"
+        },
+        {
+            "text": "Well, we were at today's scrimmage...\nand you...",
+            "name": "Манхэттен Кафе",
+            "choice_data_list": [
+                "Hold up!"
+            ]
+        },
+        {
+            "text": "I have a bad feeling about this. I take\nManhattan\nCafe aside to speak to her in\nprivate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Fukukitaru came in last place in my\ndream...",
+            "name": "Манхэттен Кафе"
+        },
+        {
+            "text": "She was swallowed up by a mysterious\nshadow\nchasing her from behind...",
+            "name": "Манхэттен Кафе"
+        },
+        {
+            "text": "I knew it'd be bad... How should we\nbreak the\nnews to her?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey! Traineeer. Cafeee. You can't just\nkeep all\nthe deets to yourselves.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Fill me in! What happened to me in your\ndream?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You were dead last.",
+                "You blew the competition out of the water."
+            ]
+        },
+        {
+            "text": "Wh-what did you just say?! Is that true,\nCafe?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I finished dead last?! As in I didn't even\nstand a\nchance?! Not even a chance of...\nchance of... the\nchupacabra?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Yes... you were trapped by a black\nshadow... It\ncaught you from behind...",
+            "name": "Манхэттен Кафе"
+        },
+        {
+            "text": "Ain'tnoway! But considering it's <i>your</i>\ndream, there\nmust be some truth to it...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "If I get caught by the chupacabra, it's\nover for\nme...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Later, at the scrimmage...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Outta my way! No way I'm letting myself\nget\ngobbled up!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "H-huh?! Fukukitaru?! What's got you so\n\nflustered...",
+            "name": "Leading Racer"
+        },
+        {
+            "text": "You better run fast, or you'll get eaten\nby the\nchupacabra too! That\nblood-sucking fiend!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What?! What are you talking about?!",
+            "name": "Leading Racer"
+        },
+        {
+            "text": "I won?! And not only that, I blew\neveryone out of\nthe water?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Great fortune must be coming my way,\n\nCafe-guaranteed!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "If that's the case, I don't see any reason\nnot to go\nwild. I have nothing to be\nscared of anymore!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Heave-ho, pull in the victory haul!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "She's starting to put pressure on the\nrunner in the\nlead. It looks like her\nanxiety is giving her a\nboost.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I ended up lying to her, but\nMatikanefukukitaru's\ncomplete faith in\nthe omen empowers her to\nsecure a huge\nvictory.",
+            "name": "Монолог"
+        }
+    ]
+}

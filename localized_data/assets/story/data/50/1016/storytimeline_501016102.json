@@ -1,0 +1,187 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With another year under her belt, Narita\nBrian\nwill be entering races as a senior\nthis year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As I'm reviewing last year's training and\nplanning\nher new schedule...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Swish...</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...What was that noise?"
+            ]
+        },
+        {
+            "text": "Looks like something came in through\nthe\nwindow. I look in the direction of the\nsound,\nand...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm. I figured you were here since one\nof the\nwindows was open... Guess I was\nright on the\nmark.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tossing that letter in was the right\nchoice.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What are you doing here?"
+            ]
+        },
+        {
+            "text": "I was sitting under the kotatsu at my\nparents'\nplace when your face came to\nmind...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "So I decided to drop by on my way\nhome from the\ngym. Then I saw your\nwindow open. That's all.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I don't follow..."
+            ]
+        },
+        {
+            "text": "Come on, we don't have time for this.\nLet's go!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...It's starting!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We're here at the New Year's special\nexhibition\nrace! Coming around the\nfourth corner, all sixteen\nracers are\ngrouped together!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Who will take the first prize of the New\nYear? It\nlooks like someone is steadily\nbreaking away from\nthe pack!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Go! Pass 'em!\nKeep going! You can do it!",
+            "name": "Spectators",
+            "choice_data_list": [
+                "A race on New Year's..."
+            ]
+        },
+        {
+            "text": "What? You don't like it?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Check out the leader! That's pretty good\nform. If\nshe keeps this up... she's gonna\ntake it!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haha, just like I thought.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right, I'm going home.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Already?"
+            ]
+        },
+        {
+            "text": "I went to the gym and watched a race.\nThat's all I\nhad planned for today.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If I don't go home soon, my mom's going\nto start\nnagging about how I should be\nusing my New\nYear's break to rest.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Still, it's fortunate you happened to be\naround so\nwe could watch the race\ntogether.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Fortunate, you say?"
+            ]
+        },
+        {
+            "text": "I know classes and training will start in a\nfew days\nand we'll see each other a lot,\nbut...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "For some reason, I wanted to see you\nsooner this\nyear.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Happy New Year.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You too!"
+            ]
+        },
+        {
+            "text": "...All right.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Today was a nice change of pace.",
+                "Hope you're looking forward to the year's first\ntraining session!",
+                "I'll work hard to meet your expectations."
+            ]
+        },
+        {
+            "text": "...All right.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Today was a nice change of pace.",
+                "Hope you're looking forward to the year's first\ntraining session!",
+                "I'll work hard to meet your expectations."
+            ]
+        },
+        {
+            "text": "...Is that right?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I feel the same. Anyway, see ya.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Heh, I definitely am. Can't go wrong with\nyour\ntraining.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Maybe I should run home to keep myself\nsharp.\nIt's only about—",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "That's probably not a good idea."
+            ]
+        },
+        {
+            "text": "Hm. You think so?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...You don't have to be so serious.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But, I am expecting great things.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're expecting the same of me after\nall, right?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан reluctantly promises to wait\nuntil\nafter the New Year holiday to start\nher training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, we end up watching one\nmore race\ntogether before going home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан heads toward the station\nwith a slight\nspring in her stЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

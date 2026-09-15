@@ -1,0 +1,155 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At the dance studio..."
+        },
+        {
+            "text": "Since I couldn't make it to practice the\nother day,\nI need to make sure I know all\nthe moves before\nmy next concert.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I've got the song in my head, so can you\njust\nwatch me from there?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "text": "And turn...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "How was it? Was I on tempo and\neverything?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити's dance is fantastic. She\ndoesn't miss a\nsingle beat.",
+            "choice_data_list": [
+                "Absolutely perfect!"
+            ]
+        },
+        {
+            "text": "That's good to hear. Well, then...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Huh? Oguri?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I saw you enter the studio a few minutes\nago, so I\ngot changed too.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "R-right...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Trainer. Stay right there, but help me\nunderstand\nthis—what the heck is Oguri\ndoing?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Maybe she came to you for some tips?",
+                "She came to teach you how to dance!"
+            ]
+        },
+        {
+            "text": "Ah! That's correct.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Our dance instructor says your sense is\nexquisite\nand that I should learn from\nyou.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Uhh, well, my method is just repetition\nand more\nrepetition. I don't have any\n\"tips,\" really...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh! So what does that look like in\npractice?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Well, my friends send me videos, and I\nwatch and\nlearn from them in my spare\ntime.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Then the secret is in those videos!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I guess there really wasn't anything\nspecial about\nyour videos or method.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Haha, I get that a lot. People are\nsurprised I have\nto grind just like\neveryone else.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah, but not everybody can keep it up\nlike you.\nThat's something I could learn\nfrom.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Huh?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "She's impressed by your commitment."
+            ]
+        },
+        {
+            "text": "...Sh-shut up. I heard her just fine.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...I heard you were probably worried\nbecause you\nmissed practice the other\nday.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Learning the dance by yourself is really\nhard. So I\nwas wondering if I could help.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Unfortunately, Голд Сити has just\nfinished her\nrehearsal.",
+            "choice_data_list": [
+                "(What should I tell her?)"
+            ]
+        },
+        {
+            "text": "Ah. Well then, Oguri. If it's okay with\nyou, I'd love\nyour help.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "text": "It's okay. You can never have too much\npractice.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I've actually been wanting to dance with\nOguri as\nwell.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh! If that's the case...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Afterwards, Голд Сити spends some time\nwith\nOguri Cap practicing dance moves."
+        },
+        {
+            "text": "Somehow I feel more certain than ever\nthat Gold\nCity owes her constant stream\nof work to much\nmore than just her\nlooks."
+        }
+    ]
+}

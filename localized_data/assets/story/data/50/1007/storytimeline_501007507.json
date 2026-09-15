@@ -1,0 +1,60 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Bwahaha!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "There's no mistaking Голд Шип's\nboisterous\nlaugh, and I can't help but\ncheck on her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer! Look at the ground!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "text": "There's a paper airplane at my feet, so I\npick it up\nand unfold it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A series of lines crisscross over the\npaper, and\nscrawled in the middle are\nthe words \"Go, go,\nGolshi!\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's gotta be fan mail, right?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I can't believe it! I just folded it up along\nthe\nlines, and this puppy took off like a\njet!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hahaha! How awesome is that?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Whoever sent the fan letter sure knows\nГолд Шип\nwell. I guess they're not a fan\nfor nothing!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The fan's thoughtfulness and love for\nГолд Шип\nrenews my own motivation as\na trainer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is that a twinkle I see in your eyes? You\nraring to\ngo? Well, I'm right there with\nya!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hang on, I'll fold us a paper airplane big\nenough\nto ride, and we can hop on and\nmake straight for\nthe clouds!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...I think I'll pass.",
+            "name": "Монолог"
+        }
+    ]
+}

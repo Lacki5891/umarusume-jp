@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This year's summer camp has come.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I thought I would be prepared since it\nhappened\nlast year too...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But, gaaah! Dang it! I'm so gosh darn\nhyped!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Just thinking about going out on an\novernight trip\nhas my heart pounding up\na storm!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "C-calm down."
+            ]
+        },
+        {
+            "text": "Calm down?! Like I could! I'm an\nUmamusume\nright smack dab in the\nspringtime of her youth!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Not only is my heart going a mile a\nminute, even\nbreathing is a\nlittle—<i>Cough! Wheeze!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Crap, this is bad! C'mon, Golshi! Breathe!\n\nBreathe, darn you!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I look over at Голд Шипп when our bus\npulls into\nthe campground.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>...Zzz.</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "She's worn herself out and fallen asleep,\njust like\nlast year!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Hey, wake up!"
+            ]
+        },
+        {
+            "text": "I'm a bit uneasy, but I'll do my best this\nyear too!",
+            "name": "Монолог"
+        }
+    ]
+}

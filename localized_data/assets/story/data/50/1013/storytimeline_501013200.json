@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро МакКуин's momentous debut\nrace is\ntoday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Inhale... exhale...</i>",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Are you up for this?"
+            ]
+        },
+        {
+            "text": "Yes, I'm fine. I'm a little nervous, it's\ntrue, but...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's an exhilarating feeling to know that,\nstarting\nnow, I'm truly moving toward my\ngoal.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "This is the first step on the road to\nconquering\nthe Tenno Sho. ...Now, here I\ngo!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

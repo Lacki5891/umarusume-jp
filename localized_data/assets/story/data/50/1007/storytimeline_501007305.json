@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Booyah, booyah! BOO-YAAAH!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "That was fantastic, Голд Шип!"
+            ]
+        },
+        {
+            "text": "Did you see that, April?! I've avenged\nyou!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "If they have the nerve to hold the\nSatsuki Sho in\nyour month ever again,\nI've got your back!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "These fists will rage just as fiercely for\nyour sake\nnext year!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "RAAAAAH!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "She charges off before I can inform her\nthat only\nclassic year runners can\nparticipate in the Satsuki\nSho...",
+            "name": "Монолог"
+        }
+    ]
+}

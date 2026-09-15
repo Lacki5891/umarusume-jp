@@ -1,0 +1,296 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "How's this song, then?! Hm, hm, hmmm,\nyeah! ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Absolutely not. In any case, you know\nthey don't\nplay special entrance songs.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "But music gets you fired up and hella\nenergized!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It gets rid of all your worries too! Like\nyour fear of\nmen!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's none of your concern. My\ndifficulty with\nmen has nothing to do\nwith you.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Anyway, it's not necessary. I'm leaving. I\nhave to\nstart training.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Plus... Well...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "You and I are different.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Oh, Dober!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And she's gone. <i>Sigh...</i> Hmm... picking a\nsong is\ntough.",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Hey, Trainer! Perfect timing!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You can help me think! I need to come\nup with an\nentrance song for Dober!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Why does she need an entrance song?"
+            ]
+        },
+        {
+            "text": "Well, that's because... Hmmm... Here,\ncome with\nme!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Just look at Dober run! Look how sharp\nshe is!\nShe runs like the wind!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса isn't wrong. Just ahead\nof us,\nМэдзиро Добер is running without a\nsingle wasted\nmovement.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've just <i>gotta</i> beat her when she's giving\nit her all!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If she runs like this at a real race, it'll be\nthe best\nrace ever!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "At a real race?"
+            ]
+        },
+        {
+            "text": "Right! If only she could run with all her\nmight and\nnot worry about who's\nwatching!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Come to think of it, I do remember\nhearing\nabout Dober being nervous or\nhaving trouble\naround men or\nsomething.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It must be stressful having so many people\nwatching."
+            ]
+        },
+        {
+            "text": "...Yeah. I understand how she feels.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "When I was a kid, I was a real crybaby\nand a total\nchicken without my mask.\nThere was no way I\ncould go in front of a\ncrowd.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And that's exactly why I gotta help her!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Dober needs something to give her\ncourage too.\nJust like me with my mask!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's why she needs an entrance song!\nDo you\nhave any recommendations?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Something exciting, fun, and energizing!\nThat\nkinda song!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What about one of the winning concert songs?",
+                "What if she had a cheerleading squad?"
+            ]
+        },
+        {
+            "text": "Great idea! Something she recognizes\nwould\nmake her feel more relaxed too!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A winning concert song would definitely\nget her\nspirits up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Okay, I've got it! This song is perfect for\nDober!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Dober! We picked an entrance song for\nyou!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You still haven't given up on that?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Of course not! This song is gonna give\nyou so\nmuch courage and power!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Uma! Pyoi! Legend!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...I guess I'll bite. Why that song?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "It really gets me going when I hear it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Try singin' this song when you take on\nyour next\nrace! I just know it'll keep your\nspirits high!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Are you kidding me? I told you\nalready, you\nand I aren't the sa—",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "But it'll give you the kind of courage I\nget when I\nput on my mask!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Now kiss wimpy crybaby Dober goodbye\nand\ncome race against me for real!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I don't think I'm a wimp or a crybaby...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "But... maybe you're right. Maybe we\naren't that\ndifferent, after all.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "There's a smile! Does that mean you like\nthe song\nI picked?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Absolutely not.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Whaaaat?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ah, I gotcha! In that case, I'll write some\nlyrics\nmyself!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Something fiery and hella passionate is\nprobably\nbest, right?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "After an hour of thought, the song for\nMejiro\nDober is finished!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Go! Go! Hella quick! ♪ Fighting spirit!\n\nDrooopkick! ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Fight! Fight! Beat 'em all! Bigger they\nare, harder\nthey fall! ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Run! Run! Everyone, move over! Whooo's\nthat?\nIt's Мэдзиро Добер! ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "What in the world? What kind of song is\nthat?! It's\nmaking me <i>lose</i> energy, if\nanything! Cut it out!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Oh! So you mean it's making you\nrelaxed?! We\ndid it, Trainer!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Nice!"
+            ]
+        },
+        {
+            "text": "I just know you'll be hella fast with this\ncheer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Absolutely not! And since when is it\nokay to\ndropkick people in a race?!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Details, details! For now, let's go try it\nout!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Knowing that Эль Кондор Паса isn't going\nto give\nup, Мэдзиро Добер reluctantly\nheads back to the\ncourse for a run.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Some time later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "No way... My time actually improved...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Incredible! I was sooo excited just\nwatching you!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "W-well... I guess I was able to relax a\nbit...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "When I heard that strange song... and\nthose\nlyrics...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Heh... hehehe.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Ehehe. Gets you fired up, right?! I'm\nglad you like\nit!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Now, how about you and I have a ra—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I think I'm done for today. Maybe next\ntime.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "All right!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Мэдзиро Добер looks exasperated, but her\n\nawkward smile draws a smile out of El\nCondor\nPasa as well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Even though she ultimately refuses to\nuse the\ncheer as an entrance song,\nМэдзиро Добер looks\ncheered up, and the\ntwo of them share a laugh.",
+            "name": "Монолог"
+        }
+    ]
+}

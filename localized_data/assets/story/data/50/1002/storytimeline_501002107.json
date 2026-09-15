@@ -1,0 +1,163 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's Valentine's Day. Many Umamusume\nare\nmerrily walking around carrying\nchocolates.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Knock, knock</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sorry to bother you so late. But, I made\nyou some\nchocolates...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Oh?"
+            ]
+        },
+        {
+            "text": "Is something wrong?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I didn't think you were interested in this kind of\nthing."
+            ]
+        },
+        {
+            "text": "Well... I wanted to show my appreciation\nfor all\nyou've done for me.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I wasn't sure what to make at first, which\nis why\nI'm here so late. I'm really sorry.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "No, no. I really appreciate it. Thank you."
+            ]
+        },
+        {
+            "text": "Thank you so much for everything,\nTrainer.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I take the box of chocolates she's made.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um... About the contents...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "text": "These aren't your typical Valentine's Day\n\nchocolates.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You're always so busy, so... I thought I\nshould\nmake some with nutritional value.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So, you see, I made them using\nvegetables that\nhelp fight off fatigue.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I open the box to find it filled with\nveggie chips\ncoated with chocolate.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "These look amazing!"
+            ]
+        },
+        {
+            "text": "You think so? Thank goodness!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Were you really that worried?"
+            ]
+        },
+        {
+            "text": "I caught some of this Valentine's special\non the\ncommon-room TV as I left the\ndorm.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The chocolates they were showcasing\nwere really\ndifferent from mine.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It made me think I should've tried\nsomething...\ncuter.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But I'm not really good at these kinds of\nthings.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "They look perfectly delightful."
+            ]
+        },
+        {
+            "text": "...Thank you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm not sure what kind of food you like...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So I actually went with strawberry mochi.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I open the box to see two snow-white\nmochi,\ncarefully molded over the\nstrawberry and sweet\nbean paste within.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "These look absolutely delicious!"
+            ]
+        },
+        {
+            "text": "Oh, thank goodness!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Strawberry mochi is my number-one\nfavorite\nsweet.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So I thought I might be able to make\nthem\nespecially good...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Considering she's made two, I'd like to\nenjoy\nthem together.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's have one each."
+            ]
+        },
+        {
+            "text": "Huh?! Oh no... That wasn't my intention!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It's all right. Let's eat them together!"
+            ]
+        },
+        {
+            "text": "Well... If you insist.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We both stuff our mouths with the\nsweets. The\nbalance of sour strawberry\nand sweet bean paste\nis perfect!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mmm... So good!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I spend a very heartwarming Valentine's\nDay with\nСайленс Судзука.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I spend a memorable Valentine's Day\nwith Silence\nSuzuka.",
+            "name": "Монолог"
+        }
+    ]
+}

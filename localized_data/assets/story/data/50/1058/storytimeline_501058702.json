@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm on my way back from an outing with\nMeisho\nDoto until we spot Хару Урара\nby the riverbank.",
+            "name": "Монолог"
+        },
+        {
+            "text": "La-la-laa! La-di-daa! ♪",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Oh, Doto! On your way home?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Y-yes, I am, but... Urara, is that...\nshadowboxing\nyou're doing?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "No! I'm practicing my singing!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "My singing instructor said the song\nshould pack\nmore of a punch, so I'm\nworking on that!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "That's a different type of \"punch.\""
+            ]
+        },
+        {
+            "text": "A different punch? You mean there's\nmore than\none type?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Well, um... I think your instructor was\nasking for...\nmore punch in your voice\nrather... than your fists.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Wow, so you can tell what kind of punch\nit is,\nDoto! Show me how to do it,\npleeease!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Huh! You want m-me to?! I don't think\nmy voice\nwill serve as a good example!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Singing just one line wouldn't hurt."
+            ]
+        },
+        {
+            "text": "Ngh... I'm not so confident with my\nsinging,\nthough... Well, if you're okay\nwith enka, then...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'd be happy to sing something for you.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Where toooo? You say you will never...\n\nretuuurn! ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Wow, that was amazing! Just like the\nsingers in\nkimono on TV!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Even a heartfelt ballad can pack a punch."
+            ]
+        },
+        {
+            "text": "So that's what you mean by \"punch.\" I'm\nstarting\nto understand!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "All righty, I've almost got this! Doto,\nsing with me!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Where toooo? You say you will never...\n\nretuuurn! ♪",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "WHERE TOOOO? YOU SAY YOU'LL\nNEVER\nRETURN! ♪",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Hm? Why does mine feel a little\ndifferent?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "W-well, you certainly are projecting\nenough... but\nI th-think you're missing a\nlittle vibrato... maybe...\nUmm...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh... vibrato? Vibrato, vibrato... Like,\nbravo?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "No, um, don't overthink it... It's m-more\nlike...\nopen yourself up and sing more\nfreely!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Your voice has a lot of power to it,\nUrara... and\nit's f-full of energy!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Also, you're very honest... and\nhardworking, so I\nknow you'll get the\nhang of it with a few more\ntries!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Woooow! Are you complimenting me?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Eep! I'm s-sorry! It's not like my opinion\nmatters!\nI'm so sorry if I came off uppity!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Hee hee... Yippee! I'm gonna nail this\nvibrato\npunch thing!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Мэйсё Дото continues singing together\nwith\nHaru Urara, giving her advice along\nthe way.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Eventually, Хару Урара notices a change\nin her\nvoice!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Where toooo? You say you will never...\n\nretuuurn! ♪",
+            "name": "Doto and Urara",
+            "choice_data_list": [
+                "Whoa... that's what I call punch!"
+            ]
+        },
+        {
+            "text": "Yay! I did it! I did it!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "It's all thanks to you, Doto! You helped\nme\npractice and praised me a lot!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I d-didn't do anything but sing a song!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "And you sung it wonderfully!",
+                "You should be proud. It's okay to hold your\nhead high."
+            ]
+        },
+        {
+            "text": "I d-didn't do anything but sing a song!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "And you sung it wonderfully!",
+                "You should be proud. It's okay to hold your\nhead high."
+            ]
+        },
+        {
+            "text": "Huh?! Th-this is so embarrassing!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But... it f-f-felt really good to sing... It\nmight be\nkind of fun... maybe.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Singing is a whole lot of fun! Let's sing\nall the way\nhome, Doto!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Oh, o-okay! If you don't mind my voice,\nthen\nsure!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Waagh?! I shouldn't be s-so shameless!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Really? But there's so much to like about\nyou,\nDoto!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "You're kind and you're good at singing!\nAnd\nthat's not everything!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Huuuh?! Well, that goes for you as well,\nUrara!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You're always so cheerful, and you\nbothered to\nbefriend someone like me.\nYou're... very, very\nlikable!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "The two exchange compliments the\nwhole way\nback to the dorm, with\nМэйсё Дото's face\nturning a very bright\nred.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In the haze of approaching dusk, two\nvoices echo\nby the riverbank—strong\nand unyielding, yet a\nlittle forlorn.",
+            "name": "Монолог"
+        }
+    ]
+}

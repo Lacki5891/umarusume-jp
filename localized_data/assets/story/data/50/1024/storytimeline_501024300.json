@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp ends in the blink of an\neye.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Маяно Топ Ган has worked extremely\nhard.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We have arrived at Академия Тайсен.",
+            "name": "Bus Driver"
+        },
+        {
+            "text": "<i>Zzz... zzz...</i>",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "We're here, Mayano."
+            ]
+        },
+        {
+            "text": "Huh? Trainer...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh... Don't worry, I know...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Zzz... zzz...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Since she worked so hard this summer, it\nonly\nfeels fair to let her rest a little\nlonger.",
+            "name": "Монолог"
+        }
+    ]
+}

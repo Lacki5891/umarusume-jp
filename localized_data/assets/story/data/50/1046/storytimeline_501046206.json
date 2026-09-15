@@ -1,0 +1,90 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "She was pretty good in the February\nStakes, but\nwhat are the odds of her\nactually winning today?",
+            "name": "Fan A"
+        },
+        {
+            "text": "If she does manage to win and follow\nthrough on\nher declaration, I'd say she's\nthe real deal. I guess\nwe'll see...",
+            "name": "Fan B"
+        },
+        {
+            "text": "Sorry, couldn't help but overhear your\n\nconversation, and let me tell you—Falco\n<i>is</i> the\nreal deal! Have you seen all her\nraces?!",
+            "name": "Falco Fan A"
+        },
+        {
+            "text": "If you haven't, then take a look at this!\nIt's an\nofficial montage of all her races.",
+            "name": "Falco Fan A"
+        },
+        {
+            "text": "What a powerhouse!",
+            "name": "Spectators A and B"
+        },
+        {
+            "text": "Right?! Here, now check her out\nonstage!",
+            "name": "Falco Fan A"
+        },
+        {
+            "text": "Dang, she's cute!",
+            "name": "Spectators A and B"
+        },
+        {
+            "text": "Um, sorry to bother you, but... I'm\nlooking\nforward to running with you!",
+            "name": "Younger Umamusume"
+        },
+        {
+            "text": "The feeling's mutual!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...That should be everyone, right?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The younger students are super nice.\nLook at\nthem, taking the time to say\nhello! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Well, aren't you quite the matriarch."
+            ]
+        },
+        {
+            "text": "Now, hold on a second! I'm still young\nand spry!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...Well, I do have a lot of experience,\nbeing in\nsenior year and all.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Senior year...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "I was just thinking about how it's up to\nme to\nblaze a trail for the next\ngeneration.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "A trail that younger runners will want to\nfollow all\nthe way out here, onto the\ndirt.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I want to make a reality where everyone\n<i>dreams</i>\nof racing on dirt.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Let's lead by example."
+            ]
+        },
+        {
+            "text": "Yeah! You're right.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm gonna win this for all the younger\nstudents\nwho look up to me!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

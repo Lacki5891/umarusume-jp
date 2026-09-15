@@ -1,0 +1,393 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Training with Каррен Тян at summer\ncamp is\ngoing well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What's next on the list, Big Bro?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Let's take a break."
+            ]
+        },
+        {
+            "text": "What's next on the list, Big Sis?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Let's take a break."
+            ]
+        },
+        {
+            "text": "Hm... I've still got a bit left in me. Can\nwe take\nthe break after that instead?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Summer camp's almost over. I wanna try\nand get a\nlittle bit more in.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...Are you in a hurry or something?"
+            ]
+        },
+        {
+            "text": "I wouldn't say that. It's just...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I don't think I have what it takes to be\nthe most\nbeloved runner yet.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She seems to be at a standstill, but\npushing\nherself harder than she is right\nnow isn't going to\nhelp her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I really think we should take a break."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Okay. Sure.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян seems to be thinking about\n\nsomething. She doesn't touch her phone\neven\nonce during the break. Hoping to\nhelp her relax, I\ntalk to her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Want to take a picture for Umastagram?"
+            ]
+        },
+        {
+            "text": "...Seriously? All right, let's do it!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "The theme is \"Curren's Sparkling Days\"!\nLet me go\nwash my face real quick.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You can't just take it the way you are now?"
+            ]
+        },
+        {
+            "text": "Obviously not! My hair's all messed up.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I can't post a pic looking like this. I've\ngot to be\ncute!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I think you look more than good enough the\nway you are."
+            ]
+        },
+        {
+            "text": "I know what you're trying to say, but...\nseeing\neveryone trying so hard has really\nmoved me too.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But I think my cuteness really thrives\nmost in\nraces.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Plus, I don't think my followers are really\n\ninterested in seeing me train.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Каррен Тян's stance doesn't change.\nBut as\nsomeone who knows how hard she\nworks behind\nthe scenes, it seems like a\nwaste to keep it\nhidden.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I think it'd make me want to cheer for you."
+            ]
+        },
+        {
+            "text": "You already cheer for me... Or is that not\nwhat\nyou mean?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "I mean it would make you more relatable."
+            ]
+        },
+        {
+            "text": "Relatable?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Umamusume all run for different\nreasons—to\nachieve their dreams, to live\nup to others'\nexpectations, to defeat a\nrival...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйсин Флэш was like this too. She wasn't\nvery\npopular with fans, but she kept\nwinning and rose\namong the ranks. And\nthere's nothing people love\nmore than\nwatching an underdog story unfold.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A story...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "All right... Okay... I got it!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "Thanks, Big Bro! I was being kinda\n\nnarrow-minded.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Thanks, Big Sis! I was being kinda\nnarrow-minded.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I know what I need to do now. And it's\nso simple!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It's just like before—I did an interview,\nanswered\nquestions, and people read\nabout it. I need to do\nthat again.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It's not that I myself need to change. I\njust need\nto change <i>how</i> I do things.\nRight?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...Maybe?"
+            ]
+        },
+        {
+            "text": "It's not that I myself need to change. I\njust need\nto change <i>how</i> I do things.\nRight?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...Maybe?"
+            ]
+        },
+        {
+            "text": "Ehe! I found my answer! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I think I'm feeling a bit better! I'm gonna\ngo take\na video of myself training right\nnow. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "text": "Yep! Can you shoot it for me?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Yep! Can you shoot it for me?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I have no idea why she's suddenly\nchanged her\nmind, but if she's willing to\nfilm her training, then\nI'm going to help.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If we're going to do this, we might as\nwell go all\nout! Let's give them a taste of\nsome real training.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What should we should start with?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Let's show off your athletic spirit with a sprint\nacross the beach!",
+                "Let's see how long you can sit on your knees in\nthe heat!"
+            ]
+        },
+        {
+            "text": "What should we should start with?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Let's show off your athletic spirit with a sprint\nacross the beach!",
+                "Let's see how long you can sit on your knees in\nthe heat!"
+            ]
+        },
+        {
+            "text": "Oh yeah! That's a classic for sports\nmontages! I\ntotally got this!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh yeah! That's a classic for sports\nmontages! I\ntotally got this!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> Hyaaaah!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Huff, puff...</i>",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Okay! One more time!"
+            ]
+        },
+        {
+            "text": "What? Again?! You really haven't got\nanything\nusable yet?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "This is about athletic spirit! Where's your fight?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You're right! This montage needs fight!\nI'm gonna\ndo it again!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Get the camera ready and come run\nbeside me!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "Get the camera ready and come run\nbeside me!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "The final rep shows off your spirit best of\nall,\nright? So I want you to get it up\nclose!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm gonna go as fast as I can so make\nsure to keep\nup!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "All right, here I go!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hurry up, Big Bro!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hurry up, Big Sis!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I have a strange feeling about this, but I\nrun after\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why are you stopping? You can't get\nstronger\nunless you push past your limits!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Why are you stopping? You can't get\nstronger\nunless you push past your limits!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Is that a serious suggestion?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "...Is that a serious suggestion?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "...Okay. I'll give it a try. But there's one\nthing I\nwanna ask in return...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "B-Big Bro?!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "B-Big Sis?!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh! You're awake! Are you okay?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Sorry, guess I couldn't take the heat."
+            ]
+        },
+        {
+            "text": "Don't worry about it! It's my fault.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm the one who said I'd be able to\nperform better\nif you competed against\nme. I should never have\nasked you to do\nsomething so crazy...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm the one who said I'd be able to\nperform better\nif you competed against\nme. I should never have\nasked you to do\nsomething so crazy...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Still, I definitely didn't think you'd pass\nout...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "In any case, it's too dangerous to keep\ngoing!\nLet's call it here for today, 'kay?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "But your video..."
+            ]
+        },
+        {
+            "text": "Don't worry about that! I checked the\nfootage\nwhile you were passed out. It\nwas pretty good!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Don't worry about that! I checked the\nfootage\nwhile you were passed out. It\nwas pretty good!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll edit it later. I'm worried about you for\nnow, so\nlet's go rest at that little\nconcession stand over\nthere.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "G-got it..."
+            ]
+        },
+        {
+            "text": "I'll edit it later. I'm worried about you for\nnow, so\nlet's go rest at that little\nconcession stand over\nthere.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "G-got it..."
+            ]
+        },
+        {
+            "text": "You can cool down with some shaved\nice, and I'll\nhave an iced coffee!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "While I do feel like she's using this\nopportunity to\nend training early... she\ndid endure the heat much\nbetter than I\ndid.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Before I realize it, this turns into a joint\ntraining\nsession!",
+            "name": "Монолог"
+        }
+    ]
+}

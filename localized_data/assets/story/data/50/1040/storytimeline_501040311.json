@@ -1,0 +1,215 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити's awesome! She always has the\nface of a\nmodel, even when she's running\nso fiercely!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Seriously! She's the real deal, <i>and</i> she\nbrings a\ntouch of glamour to the race to\nboot. I hope she\nruns a lot in her senior\nyear as well!",
+            "name": "Fan B"
+        },
+        {
+            "text": "...Screw this.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "City!",
+            "name": "City's Manager"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "As Голд Сити returns from her race, she\nsees her\nmanager waiting with a stern\nexpression."
+        },
+        {
+            "text": "Hey, City. What was that today?",
+            "name": "City's Manager"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I've watched you in all your races, and\nnever have\nyou looked so... unbeautiful.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Huh? Unbeautiful?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm not talking about your results. I'm\ntalking\nabout <i>you,</i> City.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Before, you raced with such passion. I\ndon't know\nwhere that passion came\nfrom, but it was what\nmade you so\neye-catching.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "That's why I allowed you so much\nflexibility with\nwork, and why I watched\nyou run.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "But I didn't get any of that today. You\nlooked\nempty.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Empty? You... might be right.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I do feel empty right now.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Then... why don't you consider calling it\nquits?\nYou've worked hard enough.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "As an adult, I can't just stand by and\nwatch you\ncompete looking so unsightly.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "I get that you don't want to be judged\non looks\nalone. But if you keep at it, one\nday it'll be your\nname, your brand that\nearns respect.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Running isn't the only path there. You\n<i>will</i> be\nappreciated for who you are. So\nplease...",
+            "name": "City's Manager"
+        },
+        {
+            "text": "I...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити is trying to catch her breath. I\ncan't just\nstand here and nod along.",
+            "choice_data_list": [
+                "She needs to keep running."
+            ]
+        },
+        {
+            "text": "...Тренер?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "If she quits now, she's going to regret it."
+            ]
+        },
+        {
+            "text": "...I'm sorry, but do you know what's\nmaking City\nlike this in the first place?",
+            "name": "City's Manager"
+        },
+        {
+            "text": "It's you, forcing her to race without a\nsecond\nthought.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "You're not respecting what she wants,\nyou're just\npushing running on her.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "You don't realize the consequences City\nhas to\nsuffer, the damage it could do to\nher life.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "If she keeps running like this, it's only\ngoing to\nhurt her. Do you really think\nthat's what's best for\nher?",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Uh, that's going a bit too fa—",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "But City still hasn't told me she actually wants\nto quit."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Even after failing to change her image,\neven as\nshe laments that there's no point\nanymore, she\nstill hasn't given up on\nrunning itself. That's why...",
+            "choice_data_list": [
+                "Until I hear those words come from her mouth,\nI'm going to keep her racing."
+            ]
+        },
+        {
+            "text": "That right there is exactly what I'm\ntalking about!\n<i>Sigh...</i> This is getting\nnowhere.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Look, how about this? Let her race one\nmore\ntime, but if nothing changes after\nthat...",
+            "name": "City's Manager"
+        },
+        {
+            "text": "You and her are finished. No more\nrunning. Is that\nfine with you, City?",
+            "name": "City's Manager"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Hate me if you want. See you at work.",
+            "name": "City's Manager"
+        },
+        {
+            "text": "Well... that got heated.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Sorry, I overstepped."
+            ]
+        },
+        {
+            "text": "Don't apologize. You're just... trying to\ndo what's\nbest for me.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "So is your manager."
+            ]
+        },
+        {
+            "text": "Yeah, I know, I'm not some little kid.\nShe's always\nlooked out for me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But... that's why I can't let things stand\nlike this.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Both of you are working so hard for me.\n\nMeanwhile I've all but given up on\nmyself.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I don't want someone else to decide my\nfuture.\nNot you, not my manager... no\none.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So I need to figure it out. What <i>I</i> really\nwant to\ndo.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey, my next race... It would be the\nspring Tenno\nSho, right?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "text": "I'll make sure to figure it out by then.\nThis...\nwhatever it is that I'm\nlacking—this emptiness.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "'Cause I don't want to end up hating\nyou,\nor my\nmanager... or myself.",
+            "name": "Голд Сити"
+        }
+    ]
+}

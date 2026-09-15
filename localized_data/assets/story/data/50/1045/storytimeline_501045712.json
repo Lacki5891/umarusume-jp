@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Супер Крик doesn't show up for\ntraining, so I\ndecide to go look for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There! That should keep those buttons\nfrom\npopping off.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Now then, what else did I get asked to\ndo...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Did someone ask you to do some sewing?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer! What brings you he—",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Ahhh! When did it get so late?!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm so sorry. Silly me, getting carried\naway like\nthis...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Please be more careful next time."
+            ]
+        },
+        {
+            "text": "I will... I apologize for being such a\nhandful.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I comfort Супер Крик as she reflects on\nher\nactions and we leave the classroom\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

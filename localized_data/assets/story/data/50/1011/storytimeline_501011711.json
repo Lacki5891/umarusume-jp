@@ -1,0 +1,81 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "My apologies, but may I step outside for\nsome\nair? I need to feel the breeze.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'll go with you.",
+                "Let's discuss today's race first."
+            ]
+        },
+        {
+            "text": "My apologies, but may I step outside for\nsome\nair? I need to feel the breeze.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'll go with you.",
+                "Let's discuss today's race first."
+            ]
+        },
+        {
+            "text": "It's all right, Trainer. I don't want to\n\ninconvenience you.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You shouldn't be alone."
+            ]
+        },
+        {
+            "text": "Why is that? This loss was my fault and\nmine\nalone.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "It's a long journey to the top. Everyone needs a\nleg up now and then."
+            ]
+        },
+        {
+            "text": "A leg up...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Point taken. I'll keep climbing, so would\nyou lend\nme your strength, Тренер?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...I would prefer to be somewhere else if\npossible.\nI know it's a selfish request.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "After all the times I've returned to this\nroom\nfollowing a loss... just the sight of\nit fills me with\nfrustration.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "That's exactly why we should stay."
+            ]
+        },
+        {
+            "text": "Could you explain?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You have to confront that feeling."
+            ]
+        },
+        {
+            "text": "...I see. Not doing so would be running\naway.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Very well. I will face this frustration now\nso that I\nmay prevent it from befalling\nme again.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер's hair ripples in the\nbreeze as we\ndiscuss what led to today's\ndefeat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Afterwards, Грасс Вандер and I\nevaluate\neverything that went wrong in\ntoday's race.",
+            "name": "Монолог"
+        }
+    ]
+}

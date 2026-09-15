@@ -1,0 +1,54 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out with Найс Нэйчер...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, are those... Cuties?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "I just saw the new prizes in that claw\nmachine over\nthere.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер points toward a claw\nmachine filled\nwith Umamusume\nplushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I saw the same one at a store in the\nshopping\ndistrict the other day. I was\npretty impressed with\nhow popular they\nare.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It just caught my attention, is all. I'm not\nthe type\nto like cutesy things, anyway.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm going to go win one."
+            ]
+        },
+        {
+            "text": "What? No, it's okay, really!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I want to get one."
+            ]
+        },
+        {
+            "text": "You want one that badly? You have\ninteresting\ntaste.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, I'll be here watching. Good luck!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

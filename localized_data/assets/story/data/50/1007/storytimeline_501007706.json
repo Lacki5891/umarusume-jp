@@ -1,0 +1,150 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I hear something curious on my way\nhome.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Blip! Blip! Blip!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We've got a bogey! I repeat: we've got a\nbogey!\nTeam Golshi, deploy\nimmediately!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Roger! Let's go, Trainer! Boo-yah!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And with that, she promptly stuffs me\ninto a\nburlap sack and trundles me off...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're in the right spot now! No doubt\nabout it!\nThe air is ripe with mystery!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What mystery?"
+            ]
+        },
+        {
+            "text": "The mystery around Nessie's existence,\nof course!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Chupacabras, mermaids, kappas—you\nname an\nUnidentified Mysterious\nAnimal, and Team\nGolshi's confirmed it!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Our rep as the best cryptid hunters\naround is on\nthe line! We're not going\nhome tonight till we get\nNessie on\ncamera!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now let's get cracking on a plan that'll\ndraw it out\nin the open!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I have no idea what's going on, but I\ndon't have\nmuch choice but to play\nalong.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's do an all-night stakeout.",
+                "Let's do a fun dance."
+            ]
+        },
+        {
+            "text": "Ugh, that's literally the boring-est\nsuggestion you\ncould've come up with!\nI'd rather watch paint dry!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "If we wanna see Nessie, we've gotta\nshow it we\nreally mean business! Unless\nwe do air squats the\nwhole time or\nsomething, it'll never show its face!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Actually, you know what? You might be\nonto\nsomething! Let our thrilling squat\nshowdown\nbegin! C'mon, it's you and\nme!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Wha—?!"
+            ]
+        },
+        {
+            "text": "Lemme show you what the world's most\nawesome\nquads can do!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ten minutes later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nrghhh!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Twenty minutes later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Arrrgh!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Thirty minutes later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh, how about that? Apparently, these\nweeds\nare edible if you boil them.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What happened to our squat competition?!"
+            ]
+        },
+        {
+            "text": "What competition? Anyway, let's grab\nsome of\nthis purslane to cultivate at the\nacademy so we\ncan make namul.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oooh! I like how you think! No one can\nresist a\nneat dance number!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, hey, hey! ♪ Shimmy on forward!\nAnd shimmy\non back! ♪",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шип's flashy little dance draws lots\nof\nattention...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoo!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "When she finishes, a large crowd has\ngathered\nabout.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nice footwork and rhythm! Bravo!",
+            "name": "Male Passerby A"
+        },
+        {
+            "text": "Your energy is infectious!",
+            "name": "Female Passerby A"
+        },
+        {
+            "text": "Thanks, everyone! Wake up, Tracen\nAcademy\ndance club! It's time for us\nunderdogs to rise up\nand take back our\nthrones!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The spirit of Yamaoka lives in me!\nToday, we take\nJapan! Tomorrow, the\nworld!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We secretly plant our harvested\npurslane in the\nstudent council office's\nflower pot, but get in\nmajor hot water\nwhen it's discovered...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although no one has any idea what she's\ntalking\nabout—myself included—the\ncrowd gathered here\nis moved to tears.",
+            "name": "Монолог"
+        }
+    ]
+}

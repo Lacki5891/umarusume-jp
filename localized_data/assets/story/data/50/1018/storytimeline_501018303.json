@@ -1,0 +1,130 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After a triumphant debut race, Air\nGroove returns\namidst resounding\ncheers.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Nice work out there!"
+            ]
+        },
+        {
+            "text": "Hmph. I hope you're not getting lax.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This is nothing but the beginning. I\nexpect you to\ndo your best tomorrow\nand onward.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We leave Sapporo Racecourse and head\nto the\nairport to return to Tokyo.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wait...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "There's something that I forgot to do.\nStay here.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm curious what Эйр Грув is up to, so I\nwatch\nher from a distance.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Dober.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув! Congratulations on your\ndebut!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I... I wanted to tell you in person.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Thank you. Your support is what allowed\nme to\ngive it my all today.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You're so... regal... when you run. So\nconfident...\nYou were amazing.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Weren't you nervous with all that\nattention on\nyou even before you\nstarted running?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I was. However, I transform the weight of\nthat\nattention into responsibility.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Responsibility?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Yes. The responsibility to run in a\nmanner\nbefitting a reigning empress.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I embrace my anxieties and transform\nthem into\nstrength.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Anxieties... into strength...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I've only just made my debut. There's\nstill a long\nroad to travel before I reach\nthe ideals I strive\nfor.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Set your sights on your own debut and\ndo your\nbest. I'm rooting for you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Right! I will! Thank you so much!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I don't recall asking you to follow me. In\nfact, I\nthink I told you to stay put.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I guess curiosity got the best of me."
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> No matter.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hopefully you understand the weight\nthat I bear\nnow.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "The weight of always being watched?"
+            ]
+        },
+        {
+            "text": "Indeed. It will only grow from here on.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This encumbrance falls not only upon\nme, as\nyou'll find out soon enough.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This bears repeating—don't get lax.\nAnd...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Stay with me, no matter what.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I offer a reassuring nod. Our journey's\nonly just\nbegun!",
+            "name": "Монолог"
+        }
+    ]
+}

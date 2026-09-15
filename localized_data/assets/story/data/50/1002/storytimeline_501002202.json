@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Nervous?"
+            ]
+        },
+        {
+            "text": "A little. I'm not worried, though.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I just want to run as I please...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And to make certain that it's the right\nthing to do.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So, here I go.",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One evening, I spot an\nexhausted-looking Grass\nWonder on her\nway to her dorm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ngh, so dizzy... The sky is there, that's\nthe\nground, and that's... Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Tell me, Trainer, do you appreciate how\n\nwonderful it is... to have your feet on\nsolid\nground?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What happened to you?"
+            ]
+        },
+        {
+            "text": "Have you ever seen the red sports car\nthat is\noften parked in the academy's\nlot?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Maruzen offered to take me for a spin in\nit, and I\nregret to say I didn't know\nbetter.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Have you ever wondered what it would\nbe like if\ncars could fly? It's an\nunforgettable experience...\nHaha...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She giggles to herself while staring off\ninto space.\nNote to self: steer clear of\nthe sports car.",
+            "name": "Монолог"
+        }
+    ]
+}

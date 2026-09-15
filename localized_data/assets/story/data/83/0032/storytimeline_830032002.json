@@ -1,0 +1,181 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I'm heading to the cafeteria for lunch,\nI see an\nUmamusume who, for some\nreason, is staring\nintently at the other\nstudents as they eat."
+        },
+        {
+            "text": "<i>Stare...</i>",
+            "name": "Yaeno Muteki",
+            "choice_data_list": [
+                "...What are you doing?"
+            ]
+        },
+        {
+            "text": "I am observing everyone's behavior.",
+            "name": "Yaeno Muteki",
+            "choice_data_list": [
+                "Any... special reason?"
+            ]
+        },
+        {
+            "text": "Yes. Simply by observing these\nmealtimes, I can\ngain insight into\neveryone's priorities. For\nexample...",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Cake again, Creek? You might end up\nregretting\nthose extra calories, you\nknow?",
+            "name": "Inari One"
+        },
+        {
+            "text": "Well, it's lunchtime, after all. And they\ndo say\ndessert is food for the soul.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You've barely had anything yourself,\nInari. You\nonly asked for a small portion\nof soba. Is that\nenough for you?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Y-yep, it's plenty! Finishing soba swiftly\nis\nconsidered the epitome of chic!",
+            "name": "Inari One"
+        },
+        {
+            "text": "As you can see... for racers, even daily\nmeals are\nan essential part of training.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Which means there must be various\napproaches\nto them. I wish to\nunderstand and learn from\nthese\nperspectives.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "At the dojo, it was commonplace to\nlearn by\nwatching other students train,\nyou see.",
+            "name": "Yaeno Muteki",
+            "choice_data_list": [
+                "So what's your own approach to meals?"
+            ]
+        },
+        {
+            "text": "I prioritize nutritional balance. I strive\nnot to\nbecome too accustomed to luxury\nor gourmet\nfoods.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "However, I imagine others have their\nown ways of\nthinking. And the more\nexceptional the runner,\nthe more\nsteadfast her philosophies...",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "What's this?!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Phew... I'm starving.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oguri... A top-notch talent, indeed. I\nmust\ncarefully observe her choices.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Hmmm, what to choose, what to choose?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Right. I'll start with the miso mackerel\nset.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Hm, she chose the same meal I did.\nMackerel is\nrich in nutrients, so I assume\nOguri must also\nvalue hea—",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Ten portions should do it.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "What?!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "I'll definitely need some hamburger\nsteaks too.\nFive plates of those. And five\nportions of the\nextra-large katsudon.\nOh, they have rice balls\ntoo.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Those would go well with pickled\nvegetables...\nHmmm, katsudon alone just\nisn't enough fried\nfood... I'd better grab\nsome fried chicken too.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...I can't make sense of it! What could\npossibly\ncompel Oguri to order such\ncopious—",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Ah! Could it be?!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Is she... using these meals as a way to\ntest her\nlimits?!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "That would explain why she's eating so\nmuch!\nHave I been underestimating the\nsignificance of\nmeals all along?!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "I will not fall behind! I'll follow her lead\nand go for\nseconds!",
+            "name": "Yaeno Muteki",
+            "choice_data_list": [
+                "Eat to your heart's content!",
+                "Eating an amount that's right for you is probably\nbest..."
+            ]
+        },
+        {
+            "text": "Osu! The time has come to dig in!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Excuse me! I'd like five more portions of\nthe\ntatsuta fried chicken and three more\nof the ginger\npork set!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "You're going in for more too, Yaeno?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oguri. You have opened my eyes.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Not even my stomach can be allowed to\nlag\nbehind! I must catch up!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "What? Catch up? Ketchup...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Ah! You're right... I, too, have my own\nthoughts\nand reasoning behind my meal\nchoices...",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "When it comes to martial arts, wavering\nand\nbeing fickle achieves nothing... I\nalmost strayed\nfrom my path and lost\nsight of myself there.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Hmmm... That said...",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Hm... Now what about dessert?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'll have donuts, cheese tarts, crepes...\nAnd I'll\nthrow some fruits in for a\nrefreshing touch...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oguri is truly to be feared. Her meal\nchoices\nalone shake me to my core. I\nhave much to learn...",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "...I should try some on my fried chicken.\nAnd I'm\nordering some of that ginger\npork too.",
+            "name": "Огури Кэп"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm walking around the\ncampus...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Dang it! I can't... reach!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин is repeatedly jumping and\ngrabbing\nat a flyer that's caught on a\ntree branch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What are you looking at? Don't you\nhave better\nthings to do than stare at\npeople like a weirdo?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Need a hand?"
+            ]
+        },
+        {
+            "text": "Huh? Are you mocking me or\nsomething? I got\nthis, so just leave me\nalone.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "At least let me cheer you on!",
+                "I just want to help."
+            ]
+        },
+        {
+            "text": "Huh? Are you mocking me or\nsomething? I got\nthis, so just leave me\nalone.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "At least let me cheer you on!",
+                "I just want to help."
+            ]
+        },
+        {
+            "text": "Shut up! I don't need any of that!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She shuts down every offer I make, so I\nresort to\nsecretly watching over her to\nmake sure she\ndoesn't injure herself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm going to get this thing no matter\nwhat!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Thanks to her unparalleled stamina,\nNarita\nTaishin continues to jump at the\nflyer for what\nseems like forever until at\nlast...",
+            "name": "Монолог"
+        },
+        {
+            "text": "HAH! Gotcha!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hehe, victory at last. Am I good, or\nwhat?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You're so annoying! I never asked you\nfor help,\ndid I?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "Ugh! Whatever! Fine!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't have the energy to deal with you.\nIf you\nwant to help, then hurry up and\ndo something!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Together, we look for things to stand on\nso we\ncan pull down the branches and\nreach the flyer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, I should be able to get it now...\nHup!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Thanks to her powerful legs, we're\nfinally able to\nget the flyer down!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh. That was too much work for what\nit's worth...\nBut...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You were more helpful than I thought\nyou'd be. I\nwas sure you'd be useless.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "There are so many things I can learn\nfrom the way\nНарита Таисин utilizes her\nbody, especially her leg\nstrength.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This just goes to show that you can reach\nany\ngoal as long as you never give up.",
+            "name": "Монолог"
+        }
+    ]
+}

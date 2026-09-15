@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Holy moly! You won so many!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "And they're all yours."
+            ]
+        },
+        {
+            "text": "Mine? No, no, you won them.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I won them for you."
+            ]
+        },
+        {
+            "text": "Wait, are you serious?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But you... This is embarrassing. People\nare\nwatching!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Still... Thank you, Trainer.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Маяно Топ Ган is doing some mental\npractice\nright before her race...",
+            "name": "Монолог"
+        },
+        {
+            "text": "So if someone gets in my way, I'll slam\non the\nbreaks and...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "(She looks really focused.)"
+            ]
+        },
+        {
+            "text": "...Huh?! Тренер?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Whoa, you scared me! I had no idea you\nwere\nhere! What's up?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You looked super focused."
+            ]
+        },
+        {
+            "text": "Yeah, I guess so. My heart just won't\nstop\npounding.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But... you'll be the one in a whole other\nworld\nsoon, Trainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You'll totally be entranced by my\nrunning! ♪",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while walking around the\nacademy...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've been workin' on the raaailroad, aaall\nthe\nlivelong day. ♪",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh! Hey, Trainer! Out getting some nice,\nfresh air\nover your gills today?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "For some reason, Голд Шипп is in her\nsignature\nracewear.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why are you wearing that?"
+            ]
+        },
+        {
+            "text": "This? Actually, I just did battle with a\nmassive\ntuna, and boy, was it tough.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Heroes always wear red, so here I am,\nchanneling\nsome of that red hero energy\nto myself!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Is hero energy even a thing?"
+            ]
+        },
+        {
+            "text": "Oh, c'mon, Trainer! Don't tell me you\ndon't know\nabout the ultimate power of\nthe color red!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Think back to the Saturday morning\ncartoons you\nwatched as a kid. You\nknow, the ones about good\nversus evil?\nNow, what color did the main\ncharacter\nalways wear, hm?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ding, ding, ding! That's right! Red. The\nstrongest,\nbestest hero always wears red\nand always wins.\nThat's how the system\nworks.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So why the heck wouldn't I pick the red\noutfit\nwhen I get the chance?! I'm\nguaranteed to win if I\ndo!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "I guess that makes sense..."
+            ]
+        },
+        {
+            "text": "I don't quite follow her logic, but she\nseems to\nhave it all figured out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, it's high time I set sail to find my\nnext fishy\nopponent...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Just when Голд Шипп turns to leave...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Dun-dun!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heh heh heh. Hold it right there. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I believe I just heard you claim that red\nis a hero's\ncolor... but what makes you so\nsure?",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Suddenly, two incredibly intimidating\n\nUmamusume block Голд Шип's path!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy cannoli! Maruzen and Pearl?!\nWhat're you\ntwo doing here?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hehe. Red just happens to be our color\ntoo. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "While many heroes do wear red, that\nisn't red's\nonly charm.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Doesn't the sight of it stir your heart?\nDon't you\nfeel a mature <i>allure?</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ohoho! Why, red is the choice hue for a\nfemme\nfatale. It's the color of dangerous\nbeauty!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Now tell me... Don't you want a taste of\nwhat it's\nlike to live on the edge?",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Guh! Their villain vibes are off the\ncharts!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So much for my iron-clad dissertation on\nwhy\nred's the color of heroes!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Help me, Trainer! What's the truth\nhere?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Red can mean many things.",
+                "Hold strong to your beliefs!"
+            ]
+        },
+        {
+            "text": "Help me, Trainer! What's the truth\nhere?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Red can mean many things.",
+                "Hold strong to your beliefs!"
+            ]
+        },
+        {
+            "text": "So that's how it is... All this time, I've\n\nunderestimated the power of red.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The reality is, red always had the\npotential to be\na hero... or a villain.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh? This is new. Are you really\naccepting the\ntruth without making a\nfuss?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yes, I give. Gone are the days of my\nchildish\nrebellion. I've matured.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hehe! You're all grown up now, are you?\nNo\nworries, dear. We'll show you the\nropes of being\nan adult. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yes, that's right!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So many new discoveries await you now\nthat\nyou've taken your first step into\nadulthood.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But it's all right. Everyone is nervous at\nfirst, but\nthere's nothing to fear. Come,\nwe'll guide you\nwell.",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "I-it's time for me to become a true\nadult... I'll see\nyou on the other side,\nTrainer.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Are you sure about this?"
+            ]
+        },
+        {
+            "text": "Yeah. Everyone has to grow up someday.\nMy time\njust happens to be today.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The next day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "My, the sky sure is beautiful today. I\nsure hope\nit'll be sunny again\ntomorrow... Haha...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yeah... You're exactly right!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "All right! I'll make these two see that red\nis the\npower of heroes if it's the last\nthing I do!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Heh. Was that a challenge? Do you\nreally think\nyou can defeat us?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ohoho! You had better not hold\nanything back!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Wasn't plannin' to! Ready or not, here I\ncooome!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп steps up boldly, just like a\nreal hero!",
+            "name": "Монолог"
+        },
+        {
+            "text": "But ten minutes later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Wheeze!</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hehe! I can do this all day. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "N-nothing's working... They're too\npowerful!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But... I won't give up! Here comes my\nfinishing\nmove! Super-Mega-Ultra\nBEEEAM!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп unleashes her ultimate attack!\n\nUnfortunately...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Shing!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Oh?",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "My eyes!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шип's beam hits Seeking the\nPearl's\nsunglasses, reflects off them, and\nshines right\nback in her own face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ngh... I'll prove that red is for heroes\nsomeday,\nyou mark my words...\nBluuergh...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Somehow, Голд Шип's eyes seem a bit\nemptier\nthan before. Her first step into\nadulthood has\nevidently aged her\nbeyond her years.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп collapses, but her\ndetermination\nremains staunch. Her\npersistence will surely pay\noff...\nsomeday.",
+            "name": "Монолог"
+        }
+    ]
+}

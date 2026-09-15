@@ -1,0 +1,283 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Just as we get back from our day out...",
+            "name": "Монолог"
+        },
+        {
+            "text": "My phone's ringing.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hello, this is Эйр Грув. Yes? Mm-hm...\nOkay.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Is that right? You found a home?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The call was from the animal protection\ngroup.\nThey've found a family to take in\nthe puppy Air\nGroove has been\ntemporarily housing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Apparently, they'll come to the academy\n\ntomorrow to pick her up.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "It's gonna be lonely with her gone."
+            ]
+        },
+        {
+            "text": "Hey now. You know how observant she\nis—if you\nmake that dejected\nexpression, she'll be able to\ntell.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This arrangement was never meant to\nlast. If you\nplan to come along tonorrow,\nyou'd better see\nher off with a smile.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The next day arrives in the blink of an\neye, and\nit's time for our final goodbyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Woof!",
+            "name": "Puppy"
+        },
+        {
+            "text": "Wow, what a lovely coat! I can tell\nyou've really\nlooked after her.",
+            "name": "New Owner"
+        },
+        {
+            "text": "I merely did what anyone would have.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Don't be so modest! Эйр Грув has\ntaught her all\nthe basic commands.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "She's especially good at fetch!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "That's enough, Fine.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hehe, it's a relief knowing that she was\nin such\ncapable hands.",
+            "name": "New Owner"
+        },
+        {
+            "text": "I'll make sure to take good care of her\nfrom here\non out! C'mere, you cutie!",
+            "name": "New Owner"
+        },
+        {
+            "text": "Woof, woof! <i>Whine...</i>",
+            "name": "Puppy"
+        },
+        {
+            "text": "Oh! She's heading over to Groove...",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Now, now! You know better than to\nignore a\ncommand!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Woof?!",
+            "name": "Puppy"
+        },
+        {
+            "text": "Come on, you know this. When your new\nowner\nsays \"come,\" you go. Got it?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Woof...",
+            "name": "Puppy"
+        },
+        {
+            "text": "The puppy turns away from Эйр Грув\nand heads\nto her new owner.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Groove...",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "This is for the best.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Are you really okay with this, Тренер?",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Fine Motion's question catches me off\nguard. I\nturn to the new owner.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Can we spend just a little more time with her?",
+                "Have you decided on a name?",
+                "Can we visit sometime?"
+            ]
+        },
+        {
+            "text": "Wh-what's gotten into you?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Of course! I think it would be good for\nthe puppy\ntoo.",
+            "name": "New Owner"
+        },
+        {
+            "text": "Well, if it's good for her...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You can't hide how you really feel."
+            ]
+        },
+        {
+            "text": "Woof!",
+            "name": "Puppy"
+        },
+        {
+            "text": "Huh? Hey, now...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Haha... You really are a clever little\nthing.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Let's let them have some time alone.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Woof woof!",
+            "name": "Puppy"
+        },
+        {
+            "text": "No eating random things off the street,\nokay?\nDrink lots of water. Don't nap\nanywhere silly.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Also...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Agh, there's just too much I want to say.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A name? No, not yet. I wanted to meet\nher first.",
+            "name": "New Owner"
+        },
+        {
+            "text": "Woof!",
+            "name": "Puppy"
+        },
+        {
+            "text": "I know. Why don't you name her, Air\nGroove?",
+            "name": "New Owner"
+        },
+        {
+            "text": "M-me? Heavens no!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's a great idea! You know her better\nthan\nanyone, after all. How about it?",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "H-hold on! A name is for life! How could\nI—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Please. For her sake.",
+            "name": "New Owner"
+        },
+        {
+            "text": "Nngh...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув stares at the puppy in silence\nfor a\nlittle while. Finally, she opens her\nmouth and\nmutters...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Perhaps we can call you... \"Maple.\"",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Maple? Hm... Makes me think of a life\nfilled with\nbright colors and all kinds of\njoy.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "What a thoughtful name, Groove. I\nshould've\nknown you wouldn't accept\nanything short of\nperfect!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "I hope it's fitting.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I wish you all the best, Maple.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Of course! I actually live kind of close to\nhere. I've\nheard the park near the\nacademy is a good place\nfor walking\ndogs!",
+            "name": "New Owner"
+        },
+        {
+            "text": "Oh... Is that so?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Then you won't be too far from each\nother! That's\ngood to hear. Right,\nGroove?",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Hm... Perhaps, but I thought it might be\nbest for\nher to forget about me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Woof!",
+            "name": "Puppy"
+        },
+        {
+            "text": "Looks like that won't be happening\nanytime soon.\nAs you said, she's quite\nsmart.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Ngh...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "How about we jog at that park sometime?"
+            ]
+        },
+        {
+            "text": "Nobody asked for your opinion!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Maybe once in a while.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Despite her cool exterior, Эйр Грув\nasks me to\nchange our running course.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув smiles at the puppy—and her\nlittle\nfriend excitedly barks back.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Allowing herself to be honest with her\nfeelings for\nthe time being, Эйр Грув\nmakes the most of her\nfinal moments\nwith the puppy.",
+            "name": "Монолог"
+        }
+    ]
+}

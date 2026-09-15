@@ -1,0 +1,99 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Сайленс Судзука has suffered an injury, so\nI've\nbrought her to the infirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sorry for causing so much trouble.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Shouldn't you be resting?"
+            ]
+        },
+        {
+            "text": "Yes. The worst of the pain is gone. I\nthink I'll be\nfine with some rest.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm so sorry...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "If I had only been more careful...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Just focus on getting some rest right now.",
+                "Get better soon so we can get back to training!"
+            ]
+        },
+        {
+            "text": "If I had only been more careful...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Just focus on getting some rest right now.",
+                "Get better soon so we can get back to training!"
+            ]
+        },
+        {
+            "text": "Yeah... But my poor legs will be so\nbored...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Right!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um, I have a proposition. I've heard that\nlight\nexercise is useful for recovery.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Do you think I could do a little light\njogging to\nhelp my rehabilitation?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "As long as you don't overdo it!"
+            ]
+        },
+        {
+            "text": "I'll be careful. I'll make sure to go slow.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Sigh...</i> There's still a while to go before\nI'm feeling\n100%.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. I'm starting to feel a lot better.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I might be able to return to my training\nsoon!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Sigh...</i> I already miss the feeling of the\nturf under\nmy feet.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "By attempting to jog while undergoing\n\nrehabilitation, Сайленс Судзука has\ndisrupted her\nrecovery process,\nlengthening the necessary\ntreatment\nperiod.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems that jogging has helped to\nspeed up\nСайленс Судзука's recovery.",
+            "name": "Монолог"
+        }
+    ]
+}

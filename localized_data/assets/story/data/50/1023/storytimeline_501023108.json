@@ -1,0 +1,258 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the Spring Fan Fest, and plenty\nof\nactivities are being held for fans to\nenjoy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What's wrong, Ticket?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Waaaaah! Help me, Hayahideee!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You seem to be in a bind..."
+            ]
+        },
+        {
+            "text": "I am! I'm in a <i>huge</i> bind, and I need\nHayahide's\nhelp!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит is nearly\nincomprehensible in her\ndistress, so we\nfollow her to find out what's going\non.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's time for the brain strain trivia game!\nMake\nsome noise, everyone! We're\nabout to find out\nwho will receive the\nTrivia Crown!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Uh, what?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Why, if it isn't Бива Хаяхидэ. Were you\nentered\ninto this unwittingly as well?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "A-actually, yes...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm so sorry. But we do sincerely\nappreciate an\nUmamusume of your\nstature joining the\nproceedings.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "There were some issues with the\nequipment for\nthe event planned for this\ntime slot, so a trivia\nshow was created to\nfill the gap.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I see... So that's why Ticket was so\ndesperate for\nmy help.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's just a little diversion until the\nequipment is\nrepaired. There's nothing\nto it, so let's take it\neasy and enjoy\nourselves, shall we?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You've got this, Prez!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "First question! How many courses have a\nturf\ntrack with a height difference of\nthree me—",
+            "name": "Inari One"
+        },
+        {
+            "text": "<i>Ping!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Five. The courses with a height\ndifference of three\nmeters or more are\nNakayama, Kyoto, Chukyo,\nKokura, and\nHakodate.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That's... correct! The question was, \"How\nmany\ncourses have a turf track with a\nheight difference\nof three meters or\nmore?\" And the answer is five!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Wow! You're amazing!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hehe. Now, now, Teio. Audience\nmembers must\nremain in their seats.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Yes, ma'am!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "(Who's the one who said we should \"take\nthis\neasy\" again? She's obviously playing\nto win!)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Rudolf is incredible! Come on, Hayahide!\nYou can\ndo it!",
+            "name": "Fan"
+        },
+        {
+            "text": "(I can't back down now, though. I don't\nwant to\nlet my fans down.)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hayahideee! You can do it! Look, I\nbrought some\nsupport!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I came like you asked and she saw me...\nSo can I\nleave now?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(Brian?! What's she doing here?)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Aw, come on! She needs our support!\nLet's cheer\nfor her together! Ready,\nand...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You can do it, Hayahideee!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What incredibly loud cheering... Oh, is\nthat Brian?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Question number two! How long is the\nTo—",
+            "name": "Inari One"
+        },
+        {
+            "text": "<i>Ping!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "525.9 meters. If you're asking about the\nlength of\nthe track at Tokyo Racecourse,\nthat is.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Correct! The answer is indeed 525\nmeters!\nHayahide's not to be outdone\nwith that\nlightning-fast answer!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> I can't believe you dragged me\ninto this,\nTicket.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The battle for the Trivia Crown rages on\nuntil,\nfinally, a winner is decided.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And the winner of the Trivia Crown is...\nPresident\nRudolf!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Yaaay! I knew you'd win, Prez!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hehe, you're too much, Teio. Don't you\nneed to\nprepare for the next event?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You did great!"
+            ]
+        },
+        {
+            "text": "Thank you... But if I'd only gotten one\nmore\nquestion right...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hmph...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Sigh...</i> I can't believe you dragged me\ninto this,\nTicket.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The battle for the Trivia Crown rages on\nuntil,\nfinally, a winner is decided.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And the winner of the Trivia Crown is...\nBiwa\nHayahide!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Spectators",
+            "choice_data_list": [
+                "You did it, Hayahide!"
+            ]
+        },
+        {
+            "text": "Hehe! I couldn't have done it without\neveryone\nrooting for me.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hayahide, you <i>nailed</i> it! And thanks\nsooooo much\nfor agreeing to join!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Goodness... Just so you know, the next\ntime\nyou're in trouble, I won't agree to\nhelp before I\nsqueeze every last detail\nout of you!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Also, um...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Are you by yourself right now?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I sure am!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hmm, I see...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>But!</i> Brian was with me until just a little\nwhile ago!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I saw her kinda smile a little when you\nwon!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hehe. That's nice to hear.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ's face glows with a\nbashful smile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Бива Хаяхидэ looks frustrated and just\na touch\nfatigued as she lets out another\nsigh.",
+            "name": "Монолог"
+        }
+    ]
+}

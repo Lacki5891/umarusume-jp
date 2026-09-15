@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "H-huuuh?! W-wait, you're the one who\nwon, not\nme, so I can't—",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "But this is why I played the game in the first\nplace."
+            ]
+        },
+        {
+            "text": "Th-thank you so much! I'll remember this\nforever!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "A-all right! Now we just have to see how\nmuch\nconfidence rubs off on me...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I-I... hope it's a lot.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "That went pretty well!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "<i>Clap clap clap!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Th-thank you so much! Be on the\nlookout for\nmore Falco!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон manages to secure center\nstage in a\nmagnificent winning concert.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What a great performance!"
+            ]
+        },
+        {
+            "text": "Thanks...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "...Is something wrong?"
+            ]
+        },
+        {
+            "text": "...It just doesn't feel real. I can hardly\nbelieve it.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm super happy I got to sing in front of\neveryone.\nIt felt great to have the\nspotlight on me.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But... that's not all.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The lights the audience was waving...\nThey were\nall for me.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Their cheers, their gazes... they were all\nhoned in\non center stage—on me.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I knew winning concerts were amazing.\nBut still...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Singing center stage is somehow even\nmore fun\nthan I thought!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "It'll be even more exciting on a bigger stage."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You're right!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I wanna perform on an even bigger\nstage! I wanna\nbe a top Umadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Her first time center stage seems to have\n\nstrengthened her resolve to reach the\ntop.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Top Umadol, here we come!"
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

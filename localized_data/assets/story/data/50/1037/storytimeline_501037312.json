@@ -1,0 +1,249 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Pant... Huff!</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I lost... However!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So this is the toll a long absence from\nracing\ntakes on one's body. I'll have to\nmake further\nadjustments to my training\nregimen.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Does this mean you'll be participating in\nraces\nseriously next year?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm planning to do the same. I'll be\nhappy to do so\njust to get another\nchance to race with you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Spare me the flattery. There are plenty\nof racers\nwho can entertain you besides\nme.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You mean the juniors? You're not wrong.\nThere is\nbeauty in these up-and-comers.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Эйсин Флэш—you're a strong one. I'm\ninterested\nto see what the future holds\nfor you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I showed great potential during this\nrace. There's\nroom for me to grow yet.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will get solid results in my senior year.\nAnd\nthen...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will become someone I can be proud\nof...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "...I'm fine. I admit that was a fierce\nbattle.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But at the moment, I would prefer words\nof\nencouragement rather than concern.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You did really well against such strong\nopponents."
+            ]
+        },
+        {
+            "text": "Thank you. The strength of my\ncompetitors far\nexceeded my\nexpectations... but I still managed\nto\nshow off what I am capable off.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "After such a ferocious battle, I am ever\nmore\nconfident that I am on the correct\npath...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Per my original plan, I wish to run G1\nraces during\nmy senior year as well.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Which means my first hurdle will be the\nSenior\nSpring Triple Crown's opening\nrace, the Osaka\nHai.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "Trainer... It just occurred to me, but...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Alles in Ordnung—it means \"all is well.\"",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I had anticipated for the senior racers to\nbe\nstrong, but even so, I have been able\nto progress\nalong my path.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "What's more, I even achieved victory in\nthat race.\nThe races next year should not\nbe as much of a\nstruggle as today's so\nlong as I continue to\nimprove.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I wonder... Is it too soon to believe I can\n\ncomplete the rest of my schedule?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I believe you can."
+            ]
+        },
+        {
+            "text": "Thank you!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Bzzzt... Bzzzzt...</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Go ahead and take that call."
+            ]
+        },
+        {
+            "text": "Thank you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ja, hallo.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш starts talking to who I\nassume are her\nparents when suddenly...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wirklich?!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Trainer!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My mother and father are planning to\ncome to\nJapan to watch me race!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "That's great!"
+            ]
+        },
+        {
+            "text": "It is! I'm so happy!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But this is truly a shock. My parents are\nboth\nextremely busy and systematic\npeople.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Even their visit to see my tryouts was\nmade only\nafter I decided to study\nabroad.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "In fact, I believe they must have made\nthis\ndecision long ago...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "They must really want to see you race."
+            ]
+        },
+        {
+            "text": "...Indeed. My parents said so themselves.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "When are they coming?"
+            ]
+        },
+        {
+            "text": "They've apparently made time to come\nduring the\nlatter half of October next\nyear.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I run through Эйсин Флэш's schedule in\nmy head\nand line up the dates.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "They'll be here for the autumn Tenno Sho, then!"
+            ]
+        },
+        {
+            "text": "Yes. I'll have to train accordingly to be\nin peak\ncondition for then.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I must keep my promise...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What promise?"
+            ]
+        },
+        {
+            "text": "I just promised to show my parents how\nmuch I\nhave grown.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I said I will run the perfect race before\nthem and\nthat I'll win every race along\nthe way until that\npoint.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I told them that I will not know defeat in\nmy\nsenior year.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Perhaps I promised them too much...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Winning everything has been my plan from the\nbeginning."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Let's keep that promise!"
+            ]
+        },
+        {
+            "text": "Right!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I will send my parents the race details.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "A thought occurs to me as I see Eishin\nFlash off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Quite a few Umamusume who made a\nname for\nthemselves in their generation\nhave become\nactive in races again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The question is, why? I don't have an\nanswer, but\nI can't help but feel\nunsettled as things lead up to\nthe Osaka\nHai...",
+            "name": "Монолог"
+        }
+    ]
+}

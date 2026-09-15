@@ -1,0 +1,398 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One evening, we're walking through the\nshopping\ndistrict after a street\nperformance, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, look, Trainer! Something's going on\nover\nthere!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Don't let this opportunity pass you by!\nGet a\nticket now and spin for your\nchance to win!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Aha... I see what's happening here.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "What's happening?"
+            ]
+        },
+        {
+            "text": "This is a test.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "A test of my Umadol stardom!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "You know how I got a raffle ticket with\nthat\ndessert earlier? Just a single ticket...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "In other words...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "This is totally a test to see if I can get\nthe grand\nprize with just one chance!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "A test from <i>who?</i>"
+            ]
+        },
+        {
+            "text": "The Stardom Goddess!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "At any rate! When an Umadol is tested,\nwe just\nhave to prevail!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm going to prove that I'm the best\nvessel for her\nblessings!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон eagerly grabs the raffle\nmachine's\nlever...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, star power! Time to shine! ☆\nYah! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And she spins it! A small plastic ball\ndrops from\nthe tumbler's opening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I... DID IT! ☆☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Trainer! Did you see?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's what a real Umadol's capable of!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "Thank you! ☆ See? My Umadol power is\nreal!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ahhh, that just made my day. ♪ Anyway,\nshould\nwe head home?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Excuse me! Don't forget your prize!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Ah.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "A hot spring vacation coupon...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "That's nice, isn't it?"
+            ]
+        },
+        {
+            "text": "Yeah, I'm super happy, but... when\nshould we go?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I only just made that declaration that I'll\ntake first\nplace in every race...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It'll have to be after all my races are\nfinished, I\nguess.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Then you can save it to use as a final reward."
+            ]
+        },
+        {
+            "text": "Yeah, I guess that's the best...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hold on a sec! Why are you talking like\nit's got\nnothing to do with you? You're\ncoming with me,\nyou know!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "If it's a reward for all our hard work, then\nyou'll\nneed it just as much!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "We're working towards the same dream,\naren't\nwe? We're in this together! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Besides, if we go once all this is over, I'll\n\ndefinitely already be a top Umadol.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And a top Umadol needs a bodyguard\neven in her\noff time, right?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "So <i>that's</i> why you want me there."
+            ]
+        },
+        {
+            "text": "...Ehe, I guess you got me. ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Geez, you're so dense...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "What was that?"
+            ]
+        },
+        {
+            "text": "Nothing! ☆ I'm really looking forward to\nour hot\nspring getaway!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yay! First prize. ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's not the grand prize... But still!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "First prize is the same as first place! And\nthe\ndeluxe hamburger steak has <i>deluxe</i>\nin the name!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "In other words... my Umadol power is\n<i>deluxe!</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That makes sense, right?!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "Yaaay! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Tonight's dinner is gonna be super\nspecial! I\nhereby invite you to the Falco\nDinner Show! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Awww...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Aw!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Aw?"
+            ]
+        },
+        {
+            "text": "Awww yeeeah! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Anyways...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Wow! Look at all these carrots! ☆ How\ncan I\npossibly eat them all? ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "(She's just going to pretend that didn't\nhappen?!)"
+            ]
+        },
+        {
+            "text": "I know! This should be enough to...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hi, everyooone! ☆ It's me, Falco!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Today's street performance has a special\nbonus!\nEveryone who came to watch...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Gets one carrot! ☆ Hand delivered by\nyours\ntruly! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "A carrot...",
+            "name": "Go-Getter Umamusume S"
+        },
+        {
+            "text": "A carrot...",
+            "name": "Silver-haired Umamusume O"
+        },
+        {
+            "text": "I hope you'll stay until the very end!\nLet's make it\na good one!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Would you lookie here! You've won the\nthird\nprize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Trainer.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "text": "There's something really important to me\nas an\nUmadol.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And that is... being free to sing and\ndance\nanywhere and anytime my fans\ndesire!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's why winning this carrot—or should\nI say this\ncarrot <i>microphone</i>...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Winning this carrot microphone means...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I've been acknowledged as a wonderful\nUmadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Thank you, Stardom Goddess! I'm gonna\ndo my\nbest to live up to your\nexpectations!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "<i>Twinkle...</i> ☆",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I didn't lose!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Losing a raffle isn't a real loss! So I'm still\nfull of\nendless potential!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I am... right? I've gotta be...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Or what... Is this all my star power is\nworth? A\npack of tissues?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Falco..."
+            ]
+        },
+        {
+            "text": "Juuuust kidding! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "A tissue is totally fine with me! If you\nhave\nenough tissues, you can build a\nmountain!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's why... Aha... haha...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As if in response to Смарт Фалкон's\nwords, the\nstars peeking through the\nsunset appear to\ntwinkle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's putting on a brave face, but Smart\nFalcon's\nsmile seems more than a little\nforced.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So in the end, I wind up holding on to\nour\nvacation coupon for the time being.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I enjoy a luxurious dinner that evening,\nwhile\nlistening to a delighted Smart\nFalcon sing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It could just be my imagination, but\ntoday's\naudience seems a little larger\nthan usual when all\nis said and done.",
+            "name": "Монолог"
+        }
+    ]
+}

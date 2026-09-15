@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During a regularly scheduled physical\n\nevaluation...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahh... I knew it! It's just as I thought!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Well, it's about my weight, you see...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It hasn't gone up at all, despite\nindulging in\nsweets!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "And despite the fact I no longer train as\n\nexcessively as I used to!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm sure it's because I've been getting\nthe proper\nnutrients from the meal plan\nyou made for me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Allow me to express my gratitude once\nagain for\nyour painstaking guidance,\nTrainer.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин and I renew our\ndetermination\nto continue working hard\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

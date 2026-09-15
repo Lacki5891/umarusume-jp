@@ -1,0 +1,157 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Valentine's Day has come again, and the\n\nacademy is wrapped in excitement. But\nnot\neveryone is feeling festive...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> This day always gets me a little\nblue...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Did something happen?"
+            ]
+        },
+        {
+            "text": "Yes, and it was a total bummer... It was\nduring the\nchocolate exchange last year.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I wanted to make the younger students\nhappy, so\nI worked really hard on their\ngifts.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I tried to impress everyone by making\nganache,\nwhich I thought was really\npoppin' at the time...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Everyone was so happy, but I didn't\nrealize the\ntruth until later—the big\nganache boom had\nalready come and\ngone forever ago!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "But everybody enjoyed it, so it worked out fine,\nright?"
+            ]
+        },
+        {
+            "text": "No, it wasn't fine! I wanted everyone to\nenjoy the\nnew hotness!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm always trying to stay on top of the\nmost\ntubular trends, so biffing it like\nthat was\nmortifying...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I don't think Марузенски being behind\nthe times\nis limited to just this case...",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's why I don't have any chocolate for\nyou,\nTrainer. I just couldn't bear\nsomething like that\nhappening again.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That's why I don't have any chocolate for\nyou,\nTrainer. I just couldn't bear\nsomething like that\nhappening again.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Are you disappointed?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "A little..."
+            ]
+        },
+        {
+            "text": "Hehe! Psych! Just kidding! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're always so good to me, so of\ncourse I'm\ngetting you something!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "C'mon, let's go get you some chocolate.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I thought we were just going to get\nchocolate,\nbut it seems we're driving to\nsomewhere I've never\nbeen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, this is the place!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "There are a ton of different shops here,\nso pick\nany chocolate you want!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If you pick out your own chocolate, I\nwon't have\nto worry about which one is\nhot right now!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You want me to choose my own chocolate? Are\nyou sure?"
+            ]
+        },
+        {
+            "text": "If you pick out your own chocolate, I\nwon't have\nto worry about which one is\nhot right now!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You want me to choose my own chocolate? Are\nyou sure?"
+            ]
+        },
+        {
+            "text": "It's all good! Just think of it like we're\nout\nshopping together!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Don't be shy. Pick whatever you like! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "This isn't just <i>any</i> chocolate, I'll have you\nknow.\nIt's a handcrafted, homemade\nconfection!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "This way I can show my appreciation\nwithout\nworrying about what's hot right\nnow!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I was practically bouncing around the\nroom when\nI was making it! I kept\nimagining your happy face\nwhen you eat\nit! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Thank you so much!"
+            ]
+        },
+        {
+            "text": "Ehehe! You're very welcome!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...So, Trainer, where's your shoe cubby?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Wait, my what now?"
+            ]
+        },
+        {
+            "text": "...So, Trainer, where's your shoe cubby?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Wait, my what now?"
+            ]
+        },
+        {
+            "text": "You know, when you give someone\nchocolate,\nyou put it in their shoe\ncubby, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I made it just the right size to fit! So\nc'mon, where\nis it?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's a pretty old-fashioned way to receive\na gift,\nbut I'm grateful all the same.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Марузенски and I have a great time\npicking out\nchocolate together.",
+            "name": "Монолог"
+        }
+    ]
+}

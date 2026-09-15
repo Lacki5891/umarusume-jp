@@ -1,0 +1,259 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A public training session is held for the\nmedia in\npreparation for the spring\nTenno Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Chatter, chatter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And that concludes today's public\ntraining!",
+            "name": "Staff Member"
+        },
+        {
+            "text": "Бива Хаяхидэ, excuse me! Could I get a\n\none-on-one interview with you, please?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "I understand Нарита Таисин will also be\nat the\nspring Tenno Sho. As a fellow\nmember of BNW—",
+            "name": "Репортёр B",
+            "choice_data_list": [
+                "Everyone, please give her some room!"
+            ]
+        },
+        {
+            "text": "Бива Хаяхидэ's consistent performance\nhas been\nearning her a lot of attention.\nWhile we're\ncertainly grateful for it...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me, Бива Хаяхидэ! Over here!",
+            "name": "Press"
+        },
+        {
+            "text": "She can't possibly accommodate every\nsingle\ninterview request. We politely\nmake our way\nthrough the throng of\nreporters and head home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, you didn't have to be so\nprotective. They\nweren't bothering me.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I need you to stay focused."
+            ]
+        },
+        {
+            "text": "Hmm.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, thank you for making sure they\ndidn't\ndistract me. By the way, do you\nhappen to be free\nthis weekend?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Yeah. What's up?"
+            ]
+        },
+        {
+            "text": "There's something important happening\nthen, and\nit pertains to us both.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The weekend rolls around, and it doesn't\ntake\nlong to figure out why Biwa\nHayahide wants to\nspend it with me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What an absolutely gorgeous day at the\n\nNakayama Racecourse!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "And here she is, the number one favorite\nof the\nSatsuki Sho, Нарита Брайан!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Listen to those cheers... I guess this is all\npart of\nthe Нарита Брайан package.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Ka-chak!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан is in excellent position, but\n\neveryone's hot on her heels coming out\nof the\nfirst corner.",
+            "name": "Комментатор"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "In stark contrast to the lively audience,\nBiwa\nHayahide watches the race unfold\nin\ncontemplative silence.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They're moving at a pretty fast clip.\nThere's only\n800 meters to go! This level\nof intensity is bound\nto shake some of\nthem.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The pace is fast, but the lead is just\nbarely ahead\nof the pack.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This might come down to whoever has\nenough\nenergy left on the straightaway.\nI have a feeling\nit'll be close...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Huff!</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан! Нарита Брайан's broken away\nfrom the\npack!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "She's in the lead! She's pulled away by\nthree\nlengths—now four! She's widening\nthe gap!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "And it's a total blowout! We have a new\nrecord!\nНарита Брайан has captured her\nfirst crown in\ndevastating fashion!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is incredible, folks! Нарита Брайан has\nnot only\nwon the race, she's set a new\nrecord!",
+            "name": "Комментатор",
+            "choice_data_list": [
+                "(A new track record!)"
+            ]
+        },
+        {
+            "text": "Нарита Брайан is now the fastest\nUmamusume ever\nto run the\n2,000-meter at the Nakayama\n\nRacecourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That final sprint down the stretch was on\na whole\nother level. She may be a\none-in-a-million\nUmamusume...",
+            "name": "Commentator"
+        },
+        {
+            "text": "Тренер?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "text": "I'm going to beat her.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "I can only speculate as to what she might\nhave\nsaid if she had watched this race\nprior to running\nin the Kikuka Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But what I do know for sure is that she's\nstarting\nto sound a lot more like a real\nfighter lately.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Bzzz, bzzz, bzzz.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? I think you're getting a call.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I take a look at my phone and raise my\neyebrows\nat the name on the screen.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Tazuna?"
+            ]
+        },
+        {
+            "text": "I see. So this year's spring Tenno Sho will\nbe held\nat the Hanshin Racecourse.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Apparently, the Kyoto Racecourse is\nbeing\nremodeled, so the venue for the\nspring Tenno Sho\nis being relocated to\nthe Hanshin Racecourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But the problem is...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm, both of them are right-handed\ncourses, but\nthe slopes are positioned\ndifferently. The area\nbefore the finish\nline at Kyoto is flat, but Hanshin\nhas a\nsteep incline.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There's no use complaining about it, but\nthis\nessentially renders all of our data\nand predictions\nuseless.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Just like that, all the work we've done to\nprepare\nfor the spring Tenno Sho goes\ndown the drain.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(What timing...)"
+            ]
+        },
+        {
+            "text": "Well... I guess it's time to make\nadjustments to\nthe winning equation\nagain.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "Hehe. What's wrong? It was always our\nplan to\nprove the equation by applying\nit practically.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's make the most of what little time\nwe have\nand do the best we can.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Just like we did at the Kikuka Sho.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We'll have to start over from square one.\nIf we do\nthis, it's going to take up a lot\nof your time too.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The Бива Хаяхидэ who used to be so\nlost and\nindecisive is nowhere to be\nfound anymore.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You've grown so much..."
+            ]
+        },
+        {
+            "text": "Uh, Тренер? Why are you looking at me\nlike tha—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "M-my head isn't any bigger than usual!\nSee? It's\ncompletely normal sized!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "No matter what life throws at her now,\nshe's\nutterly unflappable. She's truly\nprogressed so\nmuch.",
+            "name": "Монолог"
+        }
+    ]
+}

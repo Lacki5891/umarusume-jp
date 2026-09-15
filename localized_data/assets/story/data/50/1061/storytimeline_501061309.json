@@ -1,0 +1,295 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff, huff...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Coming up next, an interview with the\nwinner of\ntoday's race! The esteemed\nfirst-place winner of\nthis year's Kikuka\nSho is—",
+            "name": "Announcer"
+        },
+        {
+            "text": "I still have time, right? Trainer! Get me\nmy phone!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Huh? W-wait...",
+            "name": "Announcer"
+        },
+        {
+            "text": "(This last race of the Classic Triple\nCrown\ncouldn't have gone any better! I\nknow it... This\ntime...)",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "(This time for sure!)",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Ring, ring... Ring, ring.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hurry and pick up! I know you were\nwatching!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Ring, ring... Click!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello? Mother?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What is it? What are you doing calling\nme at a\ntime like this?",
+            "name": "Кинг Хало's Mother"
+        },
+        {
+            "text": "I... I won! I won the Kikuka Sho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Isn't that amazing?! I bet you thought it\nwas\nimpossible for me! I bet you couldn't\nimagine\nseeing me win!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "All right, all right, I get it. Calm down.",
+            "name": "Кинг Хало's Mother"
+        },
+        {
+            "text": "Well, I suppose you won. Good for you.",
+            "name": "Кинг Хало's Mother"
+        },
+        {
+            "text": "That's right! <i>I</i> claimed victory in a\nlong-distance\nClassic race!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Looks like I'm not so talentless after all.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Yes, I acknowledge that.",
+            "name": "Кинг Хало's Mother"
+        },
+        {
+            "text": "...!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So, are you satisfied now? You've had\nplenty of\nfun.",
+            "name": "Кинг Хало's Mother"
+        },
+        {
+            "text": "It's time to come back home before you\noverdo it.",
+            "name": "Кинг Хало's Mother"
+        },
+        {
+            "text": "...What?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>BeЭпизод Click.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...But why?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why is she still telling me to come\nhome?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why can't she just say she's looking\nforward to\nwatching my next race?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And what does she mean she\n\"acknowledges\" it?\nThat wasn't genuine\nat all!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Despite all my hard work and me gaining\nthe\nvictory I deserve...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why won't she accept me as an\nUmamusume?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Step, step, stЭпизод</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah... There you are! Everyone's waiting\nfor you.",
+            "name": "Staff"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You can even hear them cheering from\nall the way\nover here!",
+            "name": "Staff"
+        },
+        {
+            "text": "I knew a G1 Umamusume's daughter\nwouldn't\ndisappoint!",
+            "name": "Fan A"
+        },
+        {
+            "text": "You can tell talent runs in the family!\nHer mother\nmust be so proud!",
+            "name": "Fan B"
+        },
+        {
+            "text": "As expected, you really brought even\nmore honor\nto your mother's name!",
+            "name": "Staff"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Is everyone waiting for me? Or for my\nmother's\ndaughter?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm afraid I don't know what you mean...",
+            "name": "Staff",
+            "choice_data_list": [
+                "Excuse us for a second!"
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало seems to be trying to hide it,\nbut she\ndoesn't look well. Her face is\npale.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Should we take a little break?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Okay.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I postpone the interviews until later to\nallow her\ntime to rest in the waiting\nroom.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I wonder if Спешл Уик and the\nothers are\ndoing interviews now instead\nof me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "They're the true stars, the ones who\ndeserve the\nsupport. I'm sure they'll\nannounce their intentions\nfor the spring\nTenno Sho.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Please, don't talk like that."
+            ]
+        },
+        {
+            "text": "...I'm sorry.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "In the end, I'm such a dummy, fiending\nfor\neveryone's approval...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why am I so shallow?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I... I feign superiority over others, but...\n\nexcellence is not something you can\nsimply\ndecide to have.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The next day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer. I've been thinking a lot\nsince the\nrace.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And I realized that... I'm Кинг Хало. I <i>am</i>\na\nfirst-rate Umamusume.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "No one can replace me. No one can hold\na candle\nto me. I stand at the top, alone.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That's why I must look down on the rest.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I shouldn't seek the approval of those\nwho are\nbeneath me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What do you want to do?"
+            ]
+        },
+        {
+            "text": "Are you sure you want to hear that\nanswer? There\nmay not be any turning\nback for you either.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I am."
+            ]
+        },
+        {
+            "text": "...Heh.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You really are my trainer, aren't you?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Okay, I grant you the right to hear.\nAnd the\nright to continue supporting me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "So...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Are you prepared to throw away\neverything?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What comes out of her mouth next is an\nambition\nmost extraordinary.",
+            "name": "Монолог"
+        }
+    ]
+}

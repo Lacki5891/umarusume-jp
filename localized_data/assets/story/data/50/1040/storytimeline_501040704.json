@@ -1,0 +1,233 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After my day out with Голд Сити..."
+        },
+        {
+            "text": "Hey, Trainer.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Before we go back, there's somewhere I\nwant to\ndrop by first.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Somewhere you want to drop by?"
+            ]
+        },
+        {
+            "text": "Yeah, follow me.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Without telling me why, Голд Сити takes\nme on\nthe train."
+        },
+        {
+            "text": "A blanket of silence falls between us\nand I start\nfeeling a bit uncomfortable.\nWhere could she be\ntaking me?"
+        },
+        {
+            "text": "<i>Inhale... exhale...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Heh, this is amazing... It's exactly like in\nthe\nmagazine!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Was this place featured or something?"
+            ]
+        },
+        {
+            "text": "Yeah, in the issue we bought together\nthe other\nday. It said this stream would\nbe a nice, quiet\nplace to relax!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "All right, I'm going in!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити takes off her shoes and dips\nher feet\ninto the river."
+        },
+        {
+            "text": "Holy—it's freezing! Haha... It's not even\nfunny how\ncold this is!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Gyah!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "City?!"
+            ]
+        },
+        {
+            "text": "Oh, it was just a leaf clinging to my leg.\nThat so\nfreaked me out.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hey, if you look closely, you can see\nsome fish\nswimming around. Come here\nand look!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, Trainer! The stall over there says\nthey serve\ngrilled river fish. You never\nsee that in the city.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm getting one! I really want to try it!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Is it okay to snack before dinner?"
+            ]
+        },
+        {
+            "text": "Why not? C'mon, we can share one!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wow, that was amazing. And I feel so\n\nrejuvenated!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "So... you got that mental reset you were after?"
+            ]
+        },
+        {
+            "text": "Huh, was I that obvious?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "What's been bothering you?"
+            ]
+        },
+        {
+            "text": "It's nothing major.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I have a big show coming up, you know.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And like, I'm used to having meetings,\nbut there's\nbeen a <i>lot</i> for this one. More\nhigher-ups have\nbeen attending, too.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "So I guess... I just wanted to catch my\nbreath\nbefore the show.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You must've been quite nervous this whole time."
+            ]
+        },
+        {
+            "text": "Yeah... I guess I have.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ah, I just realized—I'm out here relaxing,\nbut this\nis all still work for you, huh?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And it's supposed to be your day off\ntoo. Sorry.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "There's no need to apologize.",
+                "It was a valuable experience.",
+                "Is there anything else you want to do?"
+            ]
+        },
+        {
+            "text": "And it's supposed to be your day off\ntoo. Sorry.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "There's no need to apologize.",
+                "It was a valuable experience.",
+                "Is there anything else you want to do?"
+            ]
+        },
+        {
+            "text": "I tell her that good R&R leads to a good\n\nperformance."
+        },
+        {
+            "text": "Yup, you <i>are</i> in work mode.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "It was fun, though, so invite me again."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...You really don't know how to take a\nbreak, do\nyou? Guess I'll have to whisk\nyou away again.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I tell her it's not every day I get a chance\nto see\nher in her natural element like\ntoday."
+        },
+        {
+            "text": "Yeah... I guess there's no point trying to\nput on a\n\"cool\" act at this stage.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "City?"
+            ]
+        },
+        {
+            "text": "I should warn you, though—<i>don't</i> tell\nanyone how\nmuch I let myself loose\ntoday.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I know. The secret stays with me."
+            ]
+        },
+        {
+            "text": "...Okay.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Huh?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Like catching fish with your bare hands or\nsomething."
+            ]
+        },
+        {
+            "text": "With my bare hands?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Or we could make boats out of leaves and race\nthem!"
+            ]
+        },
+        {
+            "text": "Pfft... hahaha!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "How old do you think I am?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Not for you, huh?"
+            ]
+        },
+        {
+            "text": "More like... it's a unique idea. It does\nfeel\nnostalgic, though.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Sigh...</i> Well, try to make a more\nthoughtful\nsuggestion next time we go\nout, okay?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Today, I got to see a whole new side of\nGold\nCity."
+        },
+        {
+            "text": "I'll have to work on making better\nproposals, but\nit was a relief to see Gold\nCity more relaxed."
+        },
+        {
+            "text": "I wonder where Голд Сити will take me\nnext time?\nI grow a little excited just\nthinking about it."
+        }
+    ]
+}

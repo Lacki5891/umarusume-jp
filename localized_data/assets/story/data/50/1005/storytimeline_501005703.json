@@ -1,0 +1,309 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Фудзи Кисэки and I are heading back home\nafter a\nday out."
+        },
+        {
+            "text": "I want to properly thank you for\naccompanying\nme to that exhibition a\nwhile back.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What do you say to checking out that\nevent that\nwas on the flyer on your\ndesk?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I remember that leaflet. They're\napparently\nholding an immersive \"escape\nroom\" experience\nat the shopping mall."
+        },
+        {
+            "text": "Participants who manage to escape from\na cast of\nzombies within the time limit\ncan receive a prize."
+        },
+        {
+            "text": "It caught my attention because the list\nof prizes\nincludes a new model of shoes\ndesigned\nspecifically for Umamusume."
+        },
+        {
+            "text": "We can go together. I'm a pretty great\nrunner,\nafter all!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll pay you back with an incredible\nvictory!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "There's no way I can refuse her offer, so\nwe hurry\noff to the event!"
+        },
+        {
+            "text": "Illegal and dangerous actions are\nforbidden! Now\nthat we're clear on that,\ngo out there and have\nsome fun!",
+            "name": "Event Staff"
+        },
+        {
+            "text": "Are you all ready? Let's begin!",
+            "name": "Event Staff"
+        },
+        {
+            "text": "Graaah!",
+            "name": "Zombies"
+        },
+        {
+            "text": "Wow, their makeup is impeccab—I mean,\nwhat\nscary zombies!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "They're all so fast. I wonder if the cast\n\nmem—ahem! I wonder if those zombies\nwere\nUmamusume when they were alive.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Uh-oh, here they come! Let's get out of\nhere\nquietly!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "No, please! Don't come any closer!\nThere's only\nten minutes left! Gaaah!",
+            "name": "Male Participant"
+        },
+        {
+            "text": "Hehe, looks like he's out!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "An entire horde's coming this way! Run\naway!",
+            "name": "Female Participant",
+            "choice_data_list": [
+                "(Everyone's so into this!)"
+            ]
+        },
+        {
+            "text": "Raaah!",
+            "name": "Zombies"
+        },
+        {
+            "text": "This doesn't look good! We have to get\nout of\nhere fast! Let's go!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Huff, puff...</i> Are you okay?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Where are we? Hm, I can see the first\nfloor from\nthe balcony, so we must be on\nthe second floor.\nWe need to find a\nhiding spot fast.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Graaah!",
+            "name": "Zombies"
+        },
+        {
+            "text": "We've been found! That way, quick!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Grrr!",
+            "name": "Zombies"
+        },
+        {
+            "text": "A pincer attack?! This is bad...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We find ourselves surrounded by\nzombies. It'll be\nhard enough for Fuji\nKiseki alone to get away,\nmuch less both\nof us!"
+        },
+        {
+            "text": "I rack my brains for a solution. To ensure\nher safe\nescape and victory, I have to...",
+            "choice_data_list": [
+                "Pick up Фудзи Кисэки and jump to the first floor.",
+                "Act as bait."
+            ]
+        },
+        {
+            "text": "You want to jump down there?!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Grrr!",
+            "name": "Zombies"
+        },
+        {
+            "text": "The zombies are nearly upon us. There's\nno time\nto explain. I pick her up and\nhold her securely."
+        },
+        {
+            "text": "T-Тренер?!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I leap! And we land on the first floor."
+        },
+        {
+            "text": "Wow, what a dramatic escape! And your\n\ncompanion is completely unharmed!",
+            "name": "Event Staff"
+        },
+        {
+            "text": "Unfortunately, dangerous acts are\nforbidden, so\nyou're disqualified!",
+            "name": "Event Staff",
+            "choice_data_list": [
+                "(Drat! I completely forgot about that!)"
+            ]
+        },
+        {
+            "text": "Thus, the event ends and we leave\nempty-handed\ndue to my\noverenthusiasm."
+        },
+        {
+            "text": "Don't give me that look! Hold out your\nankle so I\ncan put a compress on it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I can't believe you actually did that. If\nyou told\nme what you planned to do, I\ncould've...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You carried me and jumped yourself\nbecause you\ndidn't want me to hurt my\nlegs, didn't you?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "W-well..."
+            ]
+        },
+        {
+            "text": "It all makes sense now... I was wondering\nwhy you\nwere being so pushy.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Goodness... You really are something\nelse.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Her tender expression belies her harsh\nwords."
+        },
+        {
+            "text": "I'm usually the one protecting others,\nnot the one\nbeing protected...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And in the rare cases when I have been\nshielded, I\nalways felt so bad about it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But with you... I don't know what it is,\nbut it feels\ndifferent with you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I feel nothing but joy right now. Thank\nyou for\nprotecting me. From the bottom\nof my heart.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She steps closer to me..."
+        },
+        {
+            "text": "That aside, you're still injured. As\npunishment, I'm\ngiving you a piggyback\nride all the way home!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "W-wait!"
+            ]
+        },
+        {
+            "text": "Stop flailing about! This is what you get\nfor being\nso reckless.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You?! As bait?!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "No! Absolutely not! I can't let you do\nthat! If\nanyone's going to be bait, it'll be\nm—",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You can make it! You can escape, but only if\nyou go alone!"
+            ]
+        },
+        {
+            "text": "But...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Go. You have to escape so you can win this."
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I won't forget your sacrifice! I'll win for\nyour sake!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Haaaaah!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Whoa! It looks like all the zombies are\ngoing after\nthe last pers—what the heck!\nIsn't that Fuji\nKiseki?!",
+            "name": "Captured Female Participant A"
+        },
+        {
+            "text": "Wait, what? Oh my gosh, it really is her!\nShe's\nrunning like mad!",
+            "name": "Captured Female Participant B"
+        },
+        {
+            "text": "Raaaaah!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки lets out a final burst of speed\nand\nnarrowly avoids the zombie hoard's\ngrasp! She\nslips by them and wins!"
+        },
+        {
+            "text": "Phew! I did it! Those zombies were so\nfast, I nearly\ngot caught.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "That was incredible!"
+            ]
+        },
+        {
+            "text": "Thanks, but I couldn't have done it\nwithout the\nspell you cast on me.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What spell?"
+            ]
+        },
+        {
+            "text": "Don't you remember? You said, \"You\ncan make\nit!\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Don't you remember? You said, \"You\ncan make\nit!\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "After hearing those words, I knew I <i>had</i>\nto make\nit. You had so much faith in me,\nI couldn't let you\ndown.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Fuji..."
+            ]
+        },
+        {
+            "text": "Hehe! Your words literally have a\nmagical power\nover me!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "They gave me so much more strength\nthan I\ncould've ever imagined. I'm\ninvincible so long as\nyou're with me!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I feel like I could run to the literal ends\nof the\nworld with a single magical word\nof\nencouragement from you.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Or something like that. ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "In any case, this was such a fun event!\nWe should\ndo it again sometime.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки walks into the sunset with me\non her\nback. I can't see her face, but I\ncan feel the\nhappiness radiating off her."
+        },
+        {
+            "text": "Фудзи Кисэки and I plan our next outing\ntogether\nwhile slowly making our way\nhome."
+        }
+    ]
+}

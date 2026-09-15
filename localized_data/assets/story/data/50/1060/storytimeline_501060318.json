@@ -1,0 +1,215 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I... won, right?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I... actually won?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Congratulations, Nature!"
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "None of this feels real... Did I really win?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Nice Natuuure! Congratulations!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Whoa... There are so many people...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Natiiiiie! Congratulations!",
+            "name": "Everyone from the Shopping District"
+        },
+        {
+            "text": "This is it! This is the moment we've all\nbeen\nwaiting for! The win you deserve!",
+            "name": "Shopkeeper A"
+        },
+        {
+            "text": "Everyone from the shopping district is\nhere too...\nI'm glad they could see this.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They all waited for this moment. I finally\nmanaged\nto deliver.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yup, but <i>you're</i> the one who did it. You\ngrasped your dreams."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Waaah! Trainer!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm so glad I didn't give up! I'm glad I\nkept chasing\nmy dream!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "These tears are not the tears of anxiety\nshe\nshowed me once before. These\nhappy tears\nglisten together with her\nsweat in the light of the\nsun.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Come on, why are you crying?!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Oh, Teio...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You're number one now! You just beat\nme! ME!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Rrrgh... So smile proudly like a true\nwinner!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "<i>Sniff.</i> You're right. You were always\nsmiling too...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry, I'm okay. I'm done crying.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Good. If you cry, you won't be able to\nhear—",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Yeeeeaaah! Natureeee!",
+            "name": "Crowd"
+        },
+        {
+            "text": "—these massive cheers! They're all for\nyou, you\nknow!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I know. I'm listening... I can hear them!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Phew...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You really do have what it takes to be\namazing...\nGrrr!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "But I won't let you get in front of me\nagain. Next\ntime, I won't lose!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Thank you, Teio.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "If it wasn't for you, I wouldn't be able to\nrun like I\ncan now.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Thank you for letting me chase you all\nthis time. It\nwas honestly difficult.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But... at the same time, it felt really\ngood.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "From now on though, I'll be the one\nleading on\nthe backstretch.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "As the main character of my story!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер lights up in the flashes of\ncameras\nduring the post-race winner\ninterview.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This year's Arima Kinen was full of tough\nrivals.\nWhat do you think gave you the\npower to come\nout on top?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "It sure was... Everyone was really, really\nfast.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But I'm pretty fast myself. I think I won\nbecause I\ngave it my all.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yeah... That's <i>definitely</i> why I won!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Finally, please give us a few words for\nthe fans!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Umm, I'd like to say thank you to\neveryone who's\nbeen cheering for me\nfrom the beginning.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You kept supporting me for simply being\nme,\neven through times when I couldn't\ngive you\nanything to show for it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's thanks to you that I've made it here...\nIt wasn't\nan easy road, though!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I hope it's all right if I ask you all for a\nfavor.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I... I want you guys to keep supporting\nme.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Of course, there will be times when I'm\nnot in\ngood shape or don't do well.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "After all, I'm not particularly talented or\nsome\nsuper hard worker.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But... I think I can say one thing.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm the last runner who will ever let you\ndown!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

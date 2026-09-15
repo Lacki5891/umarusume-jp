@@ -1,0 +1,30 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Summer camp's already over.",
+            "choice_data_list": [
+                "Missing it already?",
+                "Missing it already?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's not it. I made the most of the experience. I \nthink I've grown emotionally too."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm sure I'll be able to show off the new and \nimproved version of myself in future races. It's \njust..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "When I think of having to say goodbye to the \nfresh seafood they have here, I feel a slight hint \nof sadness... down in my belly."
+        },
+        {
+            "name": "Monologue",
+            "text": "I should probably buy some food for Oguri Cap \nto take home with her. I keep that in mind as \nsummer camp wraps up."
+        }
+    ],
+    "title": "Summer Camp (Year 2) Ends"
+}

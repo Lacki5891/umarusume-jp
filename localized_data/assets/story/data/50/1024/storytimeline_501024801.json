@@ -1,0 +1,239 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Маяно Топ Ган and I are\nsummoned\nto the student council\noffice..."
+        },
+        {
+            "text": "Whoa! You want me to be a guest at a\nfashion\nshow?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's correct. It's part of a PR event for\nthe\nacademy. The attendees voted on\nwhich signature\nracewear they'd like to\nsee.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The wedding signature racewear from\nthe Beauty\nDream Cup emerged\nvictorious, so we called you\nhere since\nyou own it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Eee! I love that outfit too! Wait a\nsecond. Doesn't\nthat mean...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's right. I, too, have the same outfit,\nso I'll be\nparticipating as well.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Furthermore, we also require that\nsomeone escort\nyou down the runway as\npart of our vision.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You can hold applications for fans or ask\n\nsomeone you know. Just let us know\nyour decision\nby tomorrow.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Escorted by a fan... or someone I know,\nhuh?\nActually, I...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Have you decided?"
+            ]
+        },
+        {
+            "text": "What do you think I should do, Тренер?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I-if I walked with a fan, I'm sure they'd\nbe really\nhappy! Or I could ask Fuji. I'm\nsure she'd be really\ngood at it...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But... if a certain someone were to ask\nme to pick\nthem, then... Hmmm...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "text": "Come <i>on!</i> Take the hint already!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Okay, fine! I guess I'll just come up with\nthe best\nstrategy to get through to you!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "With that, I stand back and watch as\nMayano Top\nGun's strategy unfolds..."
+        },
+        {
+            "text": "Mayano! Everyone's dying to know who\nyou\npicked to walk you down the\nrunway!",
+            "name": "Younger Umamusume"
+        },
+        {
+            "text": "Aw, thanks! I definitely have to find an\napplicant\nsoon! <i>Ahem...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm so excited for the event! I'd totally\napply if\nfans were allowed to!",
+            "name": "Fan"
+        },
+        {
+            "text": "I sure am popular, huh? ☆ If no one asks\nto walk\nme down the runway, I might just\nhave to open\napplications to the public! \n<i>Ahem...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "A few days later, she still hasn't chosen\nan escort.\nAs I'm wondering why..."
+        },
+        {
+            "text": "Pardon me. I've come to speak to you\ndirectly\nabout a certain matter. I trust\nyou're aware of\nwhich one, yes?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "The escort role, right?"
+            ]
+        },
+        {
+            "text": "I understand the gravity of this decision,\nbut I\ncan't wait forever. Please, I need an\nanswer—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Stooop! Trainer, what's going on here?!",
+            "name": "???",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "Escort role?! \"I can't wait forever\"?! Are\nyou\ngonna be <i>Эйр Грув's</i> escort?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "But... but... I've been waiting this whole\ntime for\nyou to ask <i>me!</i>",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Really?!"
+            ]
+        },
+        {
+            "text": "You're my partner! I wanted you to ask\nme, not\nthe other way around...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I've been waiting for you to say\nsomething, but\nnow Эйр Грув's asked\nyou?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wait a moment! What are talking about?\nI've\nalready selected someone else to\nescort me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What?! Th-then... the reply for the\nescort role...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "She just wants to know who you've chosen."
+            ]
+        },
+        {
+            "text": "...Ohhh! I totally misread the situation\nthen!\nThank goodness.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ha... Haha... Sorry for the\nmisunderstanding. I\nthought my strategy\nof playing hard to get had\ntotally\nfailed...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Playing hard to get?"
+            ]
+        },
+        {
+            "text": "Oops!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ugh... Fine! I thought that you'd see how\npopular\nI was, panic, and then ask me!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I wanted to know... that you value me\nmore than\nanyone else.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Can you give me one more chance?",
+                "Of course I value you the most."
+            ]
+        },
+        {
+            "text": "Hmph! You leave me no choice! Just one\nthough!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Please let me escort you."
+            ]
+        },
+        {
+            "text": "...Yaaay! Ehehe, I'm so happy!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll go file the forms. <i>Sigh...</i> Please don't\ncause a\nruckus the day of. Are we clear?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Got it! I can't wait! The outfit is already\nperfect.\nAll that's left is...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "The mental prЭпизод"
+            ]
+        },
+        {
+            "text": "Well, yeah, but I don't think my heart\nwill ever\nstop pounding! I'll never be the\nsame again...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm so happy! Let's make this an\nincredible fashion\nshow, okay?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "R-really? I'm special? I'm the most\nprecious? I\ntwinkle the brightest?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Yes, yes, and yes!"
+            ]
+        },
+        {
+            "text": "Ehehe! My plan may have failed, but I\nguess it all\nworked out in the end since I\nfound out how you\nreally feel about me!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Are you ready? I'm gonna make you say\neven\nmore incredible things on the\nday! ☆",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Even more incredible?!"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> I'll go file the forms. I ask that you\nnot\ncause any trouble on the day of the\nevent,\nincredible or not.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yay! ☆ Thanks for your support,\neveryone! I'm so\nhappy!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "My trainer and I both promise to both\nkeep on\ntwinkling from here on out!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Right, Тренер? ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Yeah! We promise!"
+            ]
+        },
+        {
+            "text": "We walk out onto the runway full of\nexcitement,\nand it ends up being a great\nsuccess."
+        },
+        {
+            "text": "The crowd roars in response to this\ndeclaration,\nand the event ends in\nbrilliant success!"
+        }
+    ]
+}

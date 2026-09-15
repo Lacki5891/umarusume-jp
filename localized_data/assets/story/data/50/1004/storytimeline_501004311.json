@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "That was so exciting to watch!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Thanks for such a great race!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "And thanks for your support!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "In return, I'll continue to show you the\nbest races\never!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm so glad everyone enjoyed the race. It\nlooks\nlike they had a great time!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yeah, it was amazing for me too! I finally\ngot to\ncompete with you!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Um, did <i>you</i> have fun, Maruzen?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Well, <i>duh!</i> That was da bomb!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's keep helping each other improve...\nas rivals!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay! But I won't be losing next time!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Grass and Spe are both getting so\nstrong!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "But we're not about to lose either!"
+            ]
+        },
+        {
+            "text": "Yeah, I've still got way more running left\nin me!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's keep showing everyone that we're\nthe most\nworthy challenge!",
+            "name": "Марузенски"
+        }
+    ]
+}

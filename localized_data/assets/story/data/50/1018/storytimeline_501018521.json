@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйр Грув keeps nodding off during\ntraining\ntoday...",
+            "name": "Монолог"
+        },
+        {
+            "text": "My apologies. Could you repeat that\nexplanation\nonce more?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Are you okay? You seem a bit... off."
+            ]
+        },
+        {
+            "text": "I haven't been getting much sleep lately.\nThe\nstudent council work keeps piling\nup.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I decided to do a little before bed, but\nbefore I\nrealized it, the sun was up.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "All the same, the work needs to be\ndone. Don't\nworry—none of this should\nbe of your concern.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув casually brushes it off, but\nshe's\nclearly exhausted. I should keep\nthis in mind.",
+            "name": "Монолог"
+        }
+    ]
+}

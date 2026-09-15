@@ -1,0 +1,80 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер got injured during\ntraining, so I\ntake her to the infirmary for\ntreatment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> I apologize for the inconvenience.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "It's my fault for not paying closer attention.",
+                "Get some rest for now—there's always\ntomorrow."
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> I apologize for the inconvenience.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "It's my fault for not paying closer attention.",
+                "Get some rest for now—there's always\ntomorrow."
+            ]
+        },
+        {
+            "text": "Trainer! This wasn't your fault in any\nway.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The blame lies with me. I was too caught\nup in the\nmoment and lost track of my\nsurroundings.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Then we can both be more careful next time."
+            ]
+        },
+        {
+            "text": "Yes. You're right.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I am an Umamusume, and you are my\ntrainer. We\nmust compensate for one\nanother's weaknesses.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Very well. The fault is mine in the first\nplace.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'll play it safe for today.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I understand. I do worry that I might\ngrow restless\nnot being able to run...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But I can endure today so long as I know\nit's for a\nbetter tomorrow.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'll restore my energy for now so I won't\nmiss a\nstep once treatment is over.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But in return... I ask that you come up\nwith lots of\nnew training ideas in the\nmeantime. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I keep a sharp lookout for Grass\nWonder's safety\nfrom there on out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Грасс Вандер returns to her room once\nthe\ntreatment is complete.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Грасс Вандер's recovery takes a while,\nbut once\nshe gets back on the track, she\nshows more\nmotivation to train than\nbefore.",
+            "name": "Монолог"
+        }
+    ]
+}

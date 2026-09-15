@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Т.М. Опера О seems tired, so I suggest\nwe go for\na walk. Soon enough, we're\nstopped by a few\nfans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe! Thank you for your gracious\nsupport! I shall\nreturn all your favor\nwith... an opera of gratitude!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Wait, right now?"
+            ]
+        },
+        {
+            "text": "<i>Huff... Puff...</i> D-did you see their\nbeaming faces?\nMy brilliance has come\nthrough once again!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Isn't it exhausting to perform an opera each\ntime you want to thank your fans?"
+            ]
+        },
+        {
+            "text": "Noblesse oblige. Even in the most\ninclement of\nweather, the sun must rise\nto bring light to the\nworld.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "On top of her races, her efforts to please\nher fans\nare taking a toll on her. Maybe I\nshould adjust her\nracing schedule.",
+            "name": "Монолог"
+        }
+    ]
+}

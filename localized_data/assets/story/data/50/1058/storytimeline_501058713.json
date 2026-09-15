@@ -1,0 +1,83 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Urk... I messed up again... and this time, I\neven\nhurt myself.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "B-but it's not very serious, I deal with\nthis type of\ninjury every day. I'll be back\nto training again in\nno time.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You should rest for a bit."
+            ]
+        },
+        {
+            "text": "Resting now will only set me back. The\ngap\nbetween me and everyone else will\ngrow wider.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "And... I just know I'll mess up again... So,\nwh-what\nif it becomes too late to catch\nup?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Oh, no, no, no! Please let me go back to\npractice!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "If you're in pain, you need to rest.",
+                "Okay, but only if you promise me you won't\noverdo it."
+            ]
+        },
+        {
+            "text": "There is some pain, but I can hardly feel\nit!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "So it does hurt."
+            ]
+        },
+        {
+            "text": "Huh? W-wait, was that... a trick?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ohhh... I can't lie to you, Trainer. I'll rest\nup for\ntoday.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I w-won't! I'll wrap some gauze around it\njust to be\nsafe!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "First, I do this... and then it should look\nlike this?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Huh? Th-the gauze is all tangled around\nmy legs!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I can't walk... Kyaaaah!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "T-Trainer, I'm sorry about this, but...\ncould you\nhelp me?",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Wow, it looks good! I c-can barely feel\nthe pain.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "With the gauze wrapped perfectly in\nplace,\nМэйсё Дото is back to training!"
+        },
+        {
+            "text": "With another injury to deal with, Meisho\nDoto is\nunable to return to training."
+        },
+        {
+            "text": "Мэйсё Дото crawls into bed, compliant\nin her\nroad to recovery."
+        }
+    ]
+}

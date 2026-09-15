@@ -1,0 +1,75 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh, you're here! The race is already\nover, so let's\nget going!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "This racecourse has exclusive desserts\nthat I\nwanna go eat with you. ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "We should go over the race first..."
+            ]
+        },
+        {
+            "text": "Huh? I mean, sure... Maybe I lost this\ntime, but I'll\nwin the next one.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I got the lay of the land and figured out\n\neveryone's strengths. ♪ Next time'll be a\nbreeze!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I look forward to your victory.",
+                "...But don't forget about practice!"
+            ]
+        },
+        {
+            "text": "I got the lay of the land and figured out\n\neveryone's strengths. ♪ Next time'll be a\nbreeze!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I look forward to your victory.",
+                "...But don't forget about practice!"
+            ]
+        },
+        {
+            "text": "Leave it to me. ☆ I'll go above and\nbeyond! Now\nthen...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "As a proper grown-up lady, I'll make\nsure to\nexceed your expectations!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's what the book said to do! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "If that's what you want, then I promise\nI'll work\nhard...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You sure are a worrywart, aren't you?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I just want you to win, Mayano."
+            ]
+        },
+        {
+            "text": "...Huh? Are you saying you're worrying\nfor my\nsake?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Eee! ☆ You really do love me!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Okay then! I'll do my best! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll win the next race and wrap you right\naround\nmy little finger! Let's go!",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

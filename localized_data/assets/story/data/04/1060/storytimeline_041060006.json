@@ -1,0 +1,192 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, в тренировке...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Man, I knew something was up.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Ah, it's about my cleats. They felt weird\nwhen I was running earlier.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And look, they're completely worn out. I'll\nprobably have to buy a\nwhole new pair.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Goes to show how hard you've been working."
+            ]
+        },
+        {
+            "text": "Yeah, yeah, reel it in a little, will you?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ah, speaking of! You free on our next day\noff? I want your help\npicking out a new\npair of cleats for me.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Like, there's a ton of different types,\nright? I always end up buying\nthe same\nones.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But if you're there with me, we might be\nable to find an even better\nfit for me.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I don't mind."
+            ]
+        },
+        {
+            "text": "Oh, that was easy. Well then, guess we're\nhitting the streets.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A few days later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I usually get everything I need from the\nschool store, so coming to a\npro shop like\nthis makes me feel like a real athlete.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Though yeesh, there really are all sorts of\ncleats out there. Oh man,\nhow am I\nsupposed to pick just one?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "If only we were looking to buy a\nwatermelon. Then we could just ask\nthe\nold ladies running the stalls.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Whiiich is where you come in, Trainer.\nHelp me find my perfect pair,\nm'kay?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We check out all kinds of different cleats,\nand I explain the pros and\ncons of each to\nNature.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, thanks for picking them for me.\nCan't wait to see how they feel\nafter I\nbreak 'em in.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But I gotta say, you've really got your eye\non me, don'tcha? You were\ntalking about\neverything, from my best running form to\nmy habits\nwhile running.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I <i>am</i> your trainer, after all."
+            ]
+        },
+        {
+            "text": "That's a pro for you. I guess I was just\nsurprised, is all. In a good way.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, guess we should head back to the\nacademy—ah.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Having noticed something, Nature walks\nup to a store in front of us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've seen this outfit in a magazine before.\nWow, seeing it in person is\nway different.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Maybe a little too girly for me, though.\nHm, but the color is right up\nmy alley...\nHmmm.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ah, my bad! Left you hanging there,\nTrainer. Saw an outfit I liked, is\nall.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Take your time."
+            ]
+        },
+        {
+            "text": "Nah, I'm all good now. Wasn't planning on\nbuying it, anyway.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But man, even though it looked real cute\nin a magazine, actually\nbuying it is a whole\ndifferent story.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Like, the clothes only looked cute because\nthe model wearing them\nwas cute, y'know?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm sure you'd be just as cute in it."
+            ]
+        },
+        {
+            "text": "Haha, nice joke. Forget cute, I'd look like\na brute.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Welcome! Are you interested in trying on\nthis outfit?",
+            "name": "Store Employee"
+        },
+        {
+            "text": "Huh? N-nah, it wouldn't look good on me.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's not true at all, miss. For this outfit,\nif you tie up your hair a\nlittle higher, it'll\nlook perfect on you!",
+            "name": "Store Employee"
+        },
+        {
+            "text": "Oooh, I see—wait a second! I see what\nyou're doin', employee of the\nmonth!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You will definitely be the cutest girl around in\nit."
+            ]
+        },
+        {
+            "text": "Whoa! You're on her side, Тренер?! Like I\nsaid, I'm... um...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ah, that's right! We already bought new\ncleats today, so I gotta save\nmy money!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's how it is, sorry! Trainer, let's <i>go</i>\nalready!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Sigh.</i> I <i>almost</i> got roped into trying it on.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sure wasn't expecting <i>you</i> to team up the\nstore against me, Trainer.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I still insist, you're gonna be the cutest in it."
+            ]
+        },
+        {
+            "text": "Y-you're still going on about that?!\nFlattering me isn't gonna get you\n\nanywhere!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I know because I'm always watching over you!"
+            ]
+        },
+        {
+            "text": "You mean в тренировке, right?! Fashion's\na whole different beast!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ughhh... Who would've thought shopping\nfor cleats could be this\ntiring?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Though Nature is open to me picking out\nher cleats, it looks like\npicking out cute\nclothes for her is out of the question.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "You go, Найс Нэйчер! You were amazing\nout\nthere!",
+            "name": "Spectators"
+        },
+        {
+            "text": "I was disappointed that Teio wasn't in\nthe race,\nbut... you run so well!",
+            "name": "Spectators"
+        },
+        {
+            "text": "The cries echoing from the spectator\nseats say it\nall... Найс Нэйчер made this\nrace her own.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! I ran the race my way, right?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "I'm glad... Hehe.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, if this is how the Kikuka Sho ends\nfor me,\nthen I'm not complaining! I'll give\nmyself a few\npats on the back!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I now present you with... the \"Job Well Done\"\naward!"
+            ]
+        },
+        {
+            "text": "Oh, another handmade trophy!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I gave Найс Нэйчер an origami trophy at\nthe\nKokura Kinen to boost her\nconfidence. She's\ncome to expect it, so I\ndid it again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I can't believe you made another.\nHehe, this\none's floppy too.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Nice. Let's do the award ceremony later.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You can congratulate me on my success\nthen. ♪",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Kidding. I can't get too cocky here. It\nwouldn't\nhave been like this if Teio was\nhere.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I wonder if she's okay... and how bad the\ninjury\nis...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Even Teio must be feeling down after\nnot getting\nto participate.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I'm sure she'll be all right."
+            ]
+        },
+        {
+            "text": "You're right. She must be.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's Teio we're talking about, after all.\nShe'll just\nsay something like, \"I'm\ninvincible!\" and come\nback in no time.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I have to be stronger by then.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "We still have a big race left."
+            ]
+        },
+        {
+            "text": "Huh? Big race? But it's almost winter.\nWhat big\nraces take place then?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Gasp!</i> You don't mean...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Why don't we aim for the Arima Kinen?"
+            ]
+        },
+        {
+            "text": "Найс Нэйчер had a good showing in the\nKikuka\nSho and has a strong fan base.\nSurely she can\ntake on the Arima Kinen\nnow!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Besides, the Arima Kinen will bring out\nsome of\nthis year's most notable racers.\nRunning with them\nwill help her grow\neven more.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The Arima Kinen, huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That would be the perfect race to repay\nthe\npeople who always support me.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...It might be impossible for me to win.\nEven if I\nenter, it might all go up in\nsmoke once the gates\nopen. Still...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I want to compete in the Arima Kinen!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Let's do it!"
+            ]
+        },
+        {
+            "text": "And so, we decide that the last race of\nher classic\nyear is going to be the Arima\nKinen!",
+            "name": "Монолог"
+        }
+    ]
+}

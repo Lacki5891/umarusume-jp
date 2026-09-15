@@ -1,0 +1,244 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Мэдзиро МакКуин decides to\nparticipate\nin a scrimmage at the\nacademy as part of her\ntraining.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "So I placed second, huh...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I gave it everything I had, but when it\ncomes to\ncompeting on a straight track...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ever since Мэдзиро МакКуин's debut race,\nwe've\nbeen training for the spring Tenno\nSho, just as she\nrequested.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With this being such a long-term plan,\nour focus\nis centered on basic fitness\ntraining.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Say, is that the Mejiro prodigy? I heard\nshe's\ngot a lot of talent, but...",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Honestly, I'm not convinced. Her\nreactions were\nbad, and she didn't\nhandle the race so well.",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Oh, her? I think she's still on a basic\ntraining\nroutine.",
+            "name": "Skilled Trainer B"
+        },
+        {
+            "text": "Huh? Basic training?",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "That's probably why she couldn't react\nwhen she\nneeded to.",
+            "name": "Skilled Trainer B"
+        },
+        {
+            "text": "Postponing the kind of hands-on training\nneeded\nto win, huh? That takes a lot of\nconfidence.",
+            "name": "Skilled Trainer A"
+        },
+        {
+            "text": "Probably. But at this rate, she won't be\nprepared\nfor next year's Classics.",
+            "name": "Skilled Trainer B"
+        },
+        {
+            "text": "I couldn't do that to my racers. All of\nmine have\ntheir hearts set to compete.",
+            "name": "Skilled Trainer B"
+        },
+        {
+            "text": "They have a point. The current regimen\nI've set\nignores the challenges she'll face\nin the short\nterm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "However, her innate abilities will help\npull her\nthrough in the end. I'm sure she\nunderstands this\nas well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Trainer!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Trainer! Hellooo! Is something the\nmatter? You\nwere staring off into space.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Sorry. It's nothing."
+            ]
+        },
+        {
+            "text": "Is that so?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The next day, after training, Mejiro\nMcQueen\nsays she has something to talk\nto me about.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, Trainer... Could you take a look at\nthis?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин shows me a piece of\npaper.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a new training regimen I thought of.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I know that long-term strength\ndevelopment is\nimportant, but I thought\nmaybe we should\nconsider how to win\nthe junior-year races as well.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "She seems somewhat unsure of herself.\nHmm, I\nwonder...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Did someone say something to you?"
+            ]
+        },
+        {
+            "text": "...! N-no, that's not...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "A-anyway, please give some thought to\nthe\ntraining regimen!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин leaves, almost like\nshe's running\naway...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...Hm? That you, McQueen?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh... Ryan...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Why the long face?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh right, you were in the scrimmage\nyesterday...\nIs it something about that?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "To tell you the truth... Well...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "My trainer seems to be enduring\ncriticism on my\naccount.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро Райан listens to Мэдзиро МакКуин's\n\nconcerns.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Ohh, I get it. So that's why you asked\nto change\nyour training regimen.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But is that really what you and your\ntrainer want?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You promised each other to give it your\nall for\nthe Tenno Sho, right?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I figured you'd wanna keep that promise.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Both you and your trainer.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I... I...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's likely that Мэдзиро МакКуин made\nthat\nproposal to protect my reputation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But that shouldn't be her concern.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I can't be the reason she's holding herself back!"
+            ]
+        },
+        {
+            "text": "The next day, I decide to talk with\nMejiro\nMcQueen again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "When I do...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, I am so sorry!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Please disregard the training regimen I\nput forth\nyesterday!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "That was, well... It was not an act of\nsincerity.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I thought that might be the case."
+            ]
+        },
+        {
+            "text": "S-so you noticed?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "In truth, I'm fine with the current\nregimen.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "After all, the two of us promised we'd\naim for the\nTenno Sho together!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Then there's no need to doubt ourselves."
+            ]
+        },
+        {
+            "text": "Yes! I shall continue to devote my\nefforts to\nwinning the Tenno Sho!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "No matter what other people say, we\nshouldn't\nchange our goal. Mejiro\nMcQueen and I renew\nour promise to\neach other.",
+            "name": "Монолог"
+        }
+    ]
+}

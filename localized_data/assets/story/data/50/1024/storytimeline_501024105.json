@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today marks the start of another summer\ncamp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! ♪ Welcome to our vacation\nhome! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm looking forward spending another\nhot summer\nwith you. ☆",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You mean \"a hot summer with everyone,\" right?"
+            ]
+        },
+        {
+            "text": "C'mon! Not again!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Still, this year is really...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Gonna be the hottest one yet.\nHeehee! ☆",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

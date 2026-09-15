@@ -1,0 +1,69 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Pant... Pant...</i> Trainer... We did it, we\nreally did it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "With all the heavens observing my trial, I\n\nmanaged to put on a race that will not\ninvite their\nscorn. With this, my life has\nrun its course...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Well, I'm still alive and kicking, but\nstill... I'm\njust so happy with this result!\nPraise be!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You did great. Thank you."
+            ]
+        },
+        {
+            "text": "Oh come on, no need for that! I just did\nwhat I\ncould.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Although... I can say that Suzuka and I\nhave\nforged a brilliant testament to our\ngeneration's\nDerby!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Are you ready for the next challenge?"
+            ]
+        },
+        {
+            "text": "Huh? Oh, I guess so... But the next one\nshould be\neasier, right?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "We must consult <i>the sticks!</i> Oh, this\ndoesn't bode\nwell... Alas, there can be\nno doubt!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The divination stick is engraved with the\n\nvenerable crest of the Kikuka\nchrysanthemum.\nWhich can only mean—",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "The Kikuka Sho?"
+            ]
+        },
+        {
+            "text": "Gyahhhhh! Let it be anything but that!\nGods,\nBuddha, Trainer, anyone—have\nmercy!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The Kikuka Sho is 3,000 meters long!\nAnd the\ndreaded Yodo Hill on the third\ncorner is even\nsteeper than the abyss\nthat leads to the\nunderworld!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I don't have enough luck for that kind of\ndistance!\nLet's go somewhere shorter!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "But what about your divination?"
+            ]
+        },
+        {
+            "text": "Urk... You're right. The gods do work in\n\nmysterious ways...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "So be it! Even bad—nay, grave\ncircumstances can\nstill be turned around!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

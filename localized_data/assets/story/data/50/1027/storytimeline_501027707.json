@@ -1,0 +1,112 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро Райан hasn't been feeling well\nlately, so she\nproposes a visit to the\nshrine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I assume it's to make a prayer for her\ncondition to\nimprove. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Phew...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Okay. That's ten rounds up and down\nthe stairs!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "...I thought you weren't feeling well."
+            ]
+        },
+        {
+            "text": "Yeah! That's why I'm working up a\nsweat—to get\nback into the swing of\nthings.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ah... Maybe I've been lacking in\ndiscipline?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Well, then. I better do ten more! Gotta\nmake\nmyself sweat like a waterfall!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Hold on a second!"
+            ]
+        },
+        {
+            "text": "Seeing as we've made the trek all the\nway here, I\nsuggest we also say a prayer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, yeah. That makes sense. Let's go\nmake a wish\nwhile we're here!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "<i>Ka-ching!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... That should do.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I pray the fruits of my daily training are\nseen by\nthe gods of this shrine!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "I'm certain they're watching over you."
+            ]
+        },
+        {
+            "text": "I pray the fruits of my daily training are\nseen by\nthe gods of this shrine!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "I'm certain they're watching over you."
+            ]
+        },
+        {
+            "text": "Yeah! I think so too!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Woo! I'm all revved up! I'm gonna go do\na couple\nmore rounds on the stairs!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Here we go, muscles! Don't fail me now!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I hope they are...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "B-but maybe I'm just not training\nenough! I'll go\nrun another lap!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "<i>Snap!</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Oh, your laces..."
+            ]
+        },
+        {
+            "text": "Oh nooo! Why is this happening?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "<i>Sigh...</i> I can't run properly with my shoe\nuntied.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Whether it's due to her prayers or not, it\nappears\nthat Мэдзиро Райан is feeling\nbetter.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро Райан can't finish training to her\n\nsatisfaction and returns home dejected.",
+            "name": "Монолог"
+        }
+    ]
+}

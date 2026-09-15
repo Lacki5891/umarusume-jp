@@ -1,0 +1,50 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Finally... a real race!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You nervous?"
+            ]
+        },
+        {
+            "text": "Actually, my heart's been pounding for a\nwhile.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It's going wild, like I just finished a really\nintense\nworkout.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ngh... I'm starting to feel a little unsure.\nDoes\nthat mean I haven't trained\nenough?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "It's only proof that you're fired up for today."
+            ]
+        },
+        {
+            "text": "Fired up?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Huh... So that's why my heart's been\npounding?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Then that means... my legs aren't shaking\njust\nbecause I'm scared. They're shaking\nbecause...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "They're really excited and ready to go!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Right! Now get out there and have some fun!"
+            ]
+        },
+        {
+            "text": "You got it, Trainer!",
+            "name": "Мэдзиро Райан"
+        }
+    ]
+}

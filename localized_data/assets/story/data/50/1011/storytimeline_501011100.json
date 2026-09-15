@@ -1,0 +1,227 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Грасс Вандер officially begins\nher quest\nthrough the Twinkle Series!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Eager to discuss what lies ahead, I head\nto her\nclassroom so I can walk her to the\noffice myself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh dear... Spe? That kanji character isn't\nquite\nright.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Huh?! Wh-which one?! Where?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "(Looks like she's talking to Special\nWeek—an\nUmamusume from Hokkaido\nwho's in the same\nyear as her.)",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hold on, hold on. First, let's try and chill\nfor a\nsecond. I can't see the paper with\nyour hands in\nthe way.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "(And that's Сэйун Скай, who is also\nmaking her\ndebut soon. Her manner of\ncommunication can be\na tad indirect at\ntimes.)",
+            "name": "Монолог"
+        },
+        {
+            "text": "You have the wrong radical on the left\nside of\n\"whirlpool.\" The one you've\nwritten makes the\nkanji for \"disaster.\"",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Um, um, um... So, I need to do it like...\nthis?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "What chicken scratch is that, Spe?! I've\nseen\nbetter handwritin' from a six year\nold!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Meanie!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Dear me. If even El is correcting your\n\npenmanship, I fear you may have a long\nway to\ngo...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hey!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "(Another classmate in the same year, El\nCondor\nPasa is an Umamusume with a\nbig and bright\npersonality. She also\nshares a room with Grass\nWonder.)",
+            "name": "Монолог"
+        },
+        {
+            "text": "Don't worry, Spe, there's plenty of time.\nJust take\na few deep breaths and correct\nthe mistake.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I-I'll try!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Sure is lively in here."
+            ]
+        },
+        {
+            "text": "Oh, Trainer! I didn't realize you were\nhere.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ahhh! You're Grass's trainer! Is she late\nfor\ntraining?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ngh... I'm so sorry! It's all my faaault!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Wh-what do you mean?"
+            ]
+        },
+        {
+            "text": "Urgh... You see... I scored so bad on our\nquiz that\nI have to do extra homework!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "She's not allowed to train until it gets\ndone,\neither.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "However, with our debuts coming up,\nshe can't\nafford to miss a single session.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "So you're all pitching in?"
+            ]
+        },
+        {
+            "text": "Exactamente! So, less tears and more\nwriting,\nSpe!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Spirit! Guts! Effooort!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A little effort <i>before</i> the test would've\nbeen nice\ntoo, though.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I know, I knooow!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Ahaha... Well, that is the situation,\nTrainer.\nWould you mind waiting a little\nlonger?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Sure thing!"
+            ]
+        },
+        {
+            "text": "Thank you. Now, let's continue, Spe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Haste makes waste. This is the perfect\n\nopportunity to refocus and learn from\nyour\nmistake.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Think about what a whirlpool is made of.\nWater,\nright? So the correct kanji should\nhave the\n\"water\" radical.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "O-oh! That makes sense! I can remember\nthat!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Грасс Вандер skillfully gives concise but\nuseful\nadvice to help Спешл Уик\nfinish her extra\nhomework.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for waiting, Trainer.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You all seem like good friends."
+            ]
+        },
+        {
+            "text": "Hehe. I really value our friendship. Each\nof them\nis quite different, which makes\nour time together\nenjoyable.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Though of course, that isn't all...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As members of the same generation, we\nare\nbound to face one another many\ntimes on the\ntrack as rivals.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Her expression remains calm as she says\nthis.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But something about her aura makes my\nskin\nprickle ever so slightly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, you wanted to discuss our plans\nfrom here\non, right?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I know we need to talk about things like\ntraining\nand our race agenda.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But I have something to give you first.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "With that, Грасс Вандер holds out a\npiece of\ncalligraphy paper.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I unfold it and see confident, bold lines\nthat spell\nout...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Determination.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I will follow the path I have chosen,\nnever backing\ndown, until I reach the\ntop.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "This... is my promise in writing.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Trainer. Would you carry it with you?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "It's just a folded piece of paper, but it's\nas if I can\nfeel the weight of the\nconviction she's poured\ninto it. I\ncarefully tuck it away.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'll be counting on you, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Let's begin the ascent.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And with that, our journey is underway.\nDebut\nrace, here we come!",
+            "name": "Монолог"
+        }
+    ]
+}

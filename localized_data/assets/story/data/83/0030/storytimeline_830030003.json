@@ -1,0 +1,218 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hearing Матиканэтангейзер's voice, I\nhead to\nthe training track..."
+        },
+        {
+            "text": "How was my run just now? My\nuniqueness shined\nthrough, right? Right?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Appearance: bizarre. Chances of being\nreported\nfor suspicious activity: high.\nConclusion: subject's\nrunning form\nexceeds reasonable parameters of\n\n\"uniqueness.\"",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Um, you know... You might end up\nfalling over if\nyou keep wriggling around\nwhen you run...",
+            "name": "Райс Шоуэр",
+            "choice_data_list": [
+                "Wriggling around?"
+            ]
+        },
+        {
+            "text": "Oh, hello! So, um, the thing is...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I wanted to try running in a unique way\nso I can\nget a bunch of fans!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "And that's why I was just asking these\ntwo for\nsome advice!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I think that... just running normally is\nprobably\nbetter...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Affirmative. I detect no correlation\nbetween\n\"uniqueness\" and successful\nrace performance.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "W-well, just keep watching. I'm sure my\nnext\nattempt will <i>really</i> be the one!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Crabby-crabby!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "So? How'd you like my sideways\nrunning?!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Analyzing situation. Implementation in\nrace will\nresult in immediate\ndisqualification.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Wh-what if I close my eyes? I'll just try...\nrunning\nlike this and...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Nope! No, no, no! Too scary!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "A-and dangerous too!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Okay, how about I try... running while\nreading a\nbook?!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Running or walking while distracted is\nalso\nprohibited at Академия Тайсен.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "<i>Pant... pant...</i> W-wait...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "There's just no way this is gonna work, is\nthere?!\nHow am I supposed to win with\nsuch ridiculous\nrunning styles?!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Racing is <i>insanely</i> tough! Everyone's\ntrying so\nhard to be the best!",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "True..."
+            ]
+        },
+        {
+            "text": "Judging from your faces... you all figured\nthat out\nalready. You unique\nUmamusume really are on a\ndifferent\nlevel. Urghhh...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Negative. Uniqueness has no bearing on\nthe\nrealization in question.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "I-I'm not sure if Tannhauser is listening\nto what\nwe're saying...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Um... as a professional trainer, can you\nthink of\nany other running styles that\nmight leave an\nimpression on people?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "If you can, please share!",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "You just need to win."
+            ]
+        },
+        {
+            "text": "Uh...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Affirmative. Coming in first place leaves\na lasting\nimpression, resulting in high\nmemorability.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Yeah... I think so too.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "I see. Now that you mention it, that does\nmake\nsense, doesn't it? Everyone\nremembers the\nwinner...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "And that means they'll support me... And\nI might\neven make them happy?!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Checking schedule and current training\nregimen...\nAvailability confirmed.\nPerhaps I could do some\npartner running\nwith you?",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "I'm available too, but um... I just hope\nnothing\nbad happens.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Of course it won't! Aw, thanks so much,\neveryone!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "You guys are right... If I focus too hard\non being\nunique, I won't be able to run\nproperly!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "So I'm gonna focus on winning! I'll take\nfirst like\n<i>BLAM!</i> Let's do some partner\nrunning together!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Whoaaa... They're so fast! Wow...\nSeriously...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "...Well, I better work extra hard! I'm\ngonna give it\nmy all and make it to their\nlevel...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "...Then I'm gonna win! I know I can do it!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "YЭпизод.. If you come first, you'll leave an\nimpression\nwithout having to do any\nweird runs.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "W-weird?! Weird... I guess you're right.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Affirmative. My calculations also suggest\nthat\nyour crab walk will only induce\ndisdain in the\naudience.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Urk! Okay, okay. Maybe I went a little\ntoo far...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "On the other hand, my analysis indicates\nthat\nyour tenacity <i>is</i> your charm,\nTannhauser.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Huh?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "...I agree. I think that charm catches\npeople's\nattention.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Everyone was stopping to stare at you\njust now,\nTannhauser.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Really?!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I look around to see multiple\nUmamusume staring\nat\nМатиканэтангейзер with curious\nexpressions."
+        },
+        {
+            "text": "No, this isn't what I wanted! Aaagh! This\nis the\nwrong kind of attention!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Матиканэтангейзер slumps down on the\nspot,\nexasperated and extremely\nembarrassed."
+        },
+        {
+            "text": "More determined than ever,\nМатиканэтангейзер\nand her friends\nkeep running right up until curfew."
+        }
+    ]
+}

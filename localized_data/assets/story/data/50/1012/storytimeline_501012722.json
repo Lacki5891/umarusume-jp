@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I catch Хиши Амадзон in the\nhallway,\ngroaning with her head in her\nhands."
+        },
+        {
+            "text": "Ouuuch! It's really throbbin' today...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Dang it, how can a simple headache get\nthe best\nof me, the great\nHishiama—arrrgh!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Oh... Hey, Teach. Don't you worry, it's\nnot a big\ndeal.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I probably used my brain way too much\nand gave\nmyself a headache...",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Were you studying too much?"
+            ]
+        },
+        {
+            "text": "Nah, I was reading a recipe book. It's the\none my\ndad used back in the States.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But the units in the book are completely\ndifferent\nto Japan's! Apparently, one\npound is about 453\ngrams!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And all the temperatures were written in\n\nFahrenheit. I can't do number stuff very\nwell...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But the pictures looked so good! It took\nme a\nwhile to calculate things, but I\nfound a way!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Urk... Talking makes the pain worse!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон is struggling to deal with\nher\nheadache."
+        }
+    ]
+}

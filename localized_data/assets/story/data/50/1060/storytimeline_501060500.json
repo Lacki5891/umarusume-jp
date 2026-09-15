@@ -1,0 +1,71 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm heading to the cafeteria for lunch,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Tell me, tell me! I'll keep it a secret,\npromise!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "As I said, you're asking the wrong\nperson...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "Ah, hey there. Nothing much, Mayano\nhere is just\nspouting nonsense...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Am not! I'm telling you, Nature, you've\nbeen sooo\ntwinkly lately!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The way you run is so zoom-zoooom!\nAnd you're\nalways smiling! Something\nmust've happened to\nyou, right?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "First of all, I'm not \"twinkly\" at all. My\ntrainer's\njust got a silver tongue...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You see, my trainer is so good that I\ncan't help\nfeeling motivated, even if I\ndon't want to!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hmmm. Is that reeeally it? What else\nwould make\na girl all twinkly...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Gasp!</i> Oh, I think I get it now!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Oooh my gosh! I'm getting butterflies in\nmy\nstomach! ☆ I can't just sit here\nwatching you two\nbeing so cute\ntogether! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wh-what do you mean, \"being cute\"?!\nYou don't\nseriously think—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hey! Get back here!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wait up, Mayano! I'm pretty sure you\nhave the\nwrong idea! Waaait!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I don't quite understand what just\nhappened, but\nit seems like my guidance\nis having a positive\neffect on Nice\nNature!",
+            "name": "Монолог"
+        }
+    ]
+}

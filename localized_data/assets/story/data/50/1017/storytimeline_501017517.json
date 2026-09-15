@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i> Why does this keep happening?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "I saw some students talking in the\ncorridor and\ntried to join in, hoping to\nget to know them\nbetter...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But before I knew it, I was lecturing\nabout\ndiligence and discipline like a\nteacher before an\nunruly class.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "They were so terrified, they started\npromising me\nthey would reflect on their\nbehavior.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...I never should have involved myself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф sighs dejectedly. She\nseems a\nlittle down...",
+            "name": "Монолог"
+        }
+    ]
+}

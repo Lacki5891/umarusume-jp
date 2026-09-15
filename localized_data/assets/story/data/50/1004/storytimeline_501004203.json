@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the day of the Satsuki Sho, a Classic\nrace that\ncan be run only once in a\nlifetime...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm so overwhelmed... I can't believe I'm\nactually\nrunning in the Classics.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "These racers are the cream of the crop\nwho\ndedicated all they have to compete\nhere...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe! I guess that means it's the perfect\nplace for\nme to unleash my mad skills! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Show them what you can do!"
+            ]
+        },
+        {
+            "text": "All righty! I'll put the pedal to the metal!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "She's ready to give the other runners\nanother goal\nto chase as the gates of the\nSatsuki Sho fly open!",
+            "name": "Монолог"
+        }
+    ]
+}

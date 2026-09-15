@@ -1,0 +1,222 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон and Нарита Брайан are\nhaving a joint\ntraining session."
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Haha! Man, goin' toe-to-toe with you\nalways gets\nmy heart pumpin'!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Phew... You've got some serious pluck\nalways\nchallenging me, y'know?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Still, I can't say I'm not impressed.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Nice work out there, you two."
+            ]
+        },
+        {
+            "text": "Thanks! But that was just a fraction of\nwhat Brian\nand I are capable of.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's gotta be a way to make our\nbattles even\nmore intense...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hey, I know! We can try doing that thing\nI saw on\nTV the other day!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What thing?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh, it was just this thing pro athletes do\nbefore a\nmatch!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What was it called again? It's not curry\nroux... and \nit's definitely not root beer...",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Are you thinking of the word \"routine?\""
+            ]
+        },
+        {
+            "text": "That's it, Teach! Phew, good save there.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Do you have a routine you stick to,\nBrian?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I've never given it much thought, but... I\nguess I\ndo.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Can't say if this counts, but I like to clear\nmy mind\nfirst before I start training or\nracing.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, that sounds cool! You've gotta\nteach me\nyour tricks!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Think of this as a way to spice up our\nduels. What\ndo you say, Brian?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm only doing this once, so pay\nattention. And if\nyou're serious about\nthis, we'll need a quiet spot\nto\nconcentrate.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And so, we trek to a mountain stream to\nlearn the\nsecrets of clearing one's mind."
+        },
+        {
+            "text": "Nnngh... I need to focus! Think... you're\nin a race,\nand everything is on the line!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You're thinking out loud, Ama. You just\ngotta try\nto calm your mind.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Nnngh!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Gah! My head's about to burst!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...So much for that.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "How about we try a different routine?"
+            ]
+        },
+        {
+            "text": "G-good suggestion. What do you think\nwould suit\nme, Teach?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Pump yourself up with a huge yell.",
+                "Let's check out some books."
+            ]
+        },
+        {
+            "text": "Yeah, yellin' is kinda my forte. Okay!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Raaargh! Let's get this battle\nstaaarteeed!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Yeah, I'm feelin' it! All right, this's gonna\nbe my\nnew routine!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Heh. You're gonna do that before\nevery match?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yeah, why not? You'd better look\nforward to our\nnext race!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Anyway, all this concentrating and\nyelling's got\nmy stomach rumblin'.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Let's head back to the academy for some\nlunch.\nDon't worry, Brian, I've made food\nfor you too!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Are there any vegetables in this?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Don't worry. I made sure everything will\ntaste\ngood even with your picky tastes!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...I guess I'll have some, then.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Thanks for the food."
+            ]
+        },
+        {
+            "text": "Huh? How will that help me?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Books, eh? That's a good idea.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You were the one who said pro athletes\ntend to\nhave their own routines, Ama.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I think your trainer's suggesting you look\nfor\nbooks that talk about that stuff and\nread them\nfor reference.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Exactly."
+            ]
+        },
+        {
+            "text": "Ooh, I get it now! Let's see what the\nlibrary has,\nthen.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Interesting... Some like to strike a\nsignature pose,\nothers like to touch their\nuniform...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm seeing a lot of ideas, but I dunno\nwhat I\nshould do!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Y'know, if you studied this hard for\ntests, you\nwouldn't be borderline failing\nthem.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Th-that's none of your business! And\nyou're the\nlast person I wanna hear that\nfrom.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "You never study either, so how come\nyou always\npass?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Cause I at least do the bare minimum. I'd\nnever\nhear the end of it from Sis or the\nstudent council\nif I bombed my tests.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Don't you dare ruin our next match by\nflunking\nyour way into remedial classes,\nAma.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Brian's right..."
+            ]
+        },
+        {
+            "text": "I witness yet another side of their rivalry\nas the\ntwo bicker over their grades..."
+        },
+        {
+            "text": "Their ambiguous relationship makes it\nhard to\nknow if they're good friends or\nbitter rivals, but I\nhave a good lunch\nwith the two of them."
+        }
+    ]
+}

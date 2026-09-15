@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Something wrong?"
+            ]
+        },
+        {
+            "text": "Well... I'm just a little tired.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As an Umadol who's supposed to give\nhope to\neveryone, I know I'm not\nsupposed to let anyone\nsee me looking\ngloomy...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But at the same time, don't I still look\njust as cute\nwhen I'm sad?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's quite the dilemma... What should I\ndo?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...Смарт Фалкон seems to be pretty tired.\nWe\nmight want to reconsider her race\nschedule.",
+            "name": "Монолог"
+        }
+    ]
+}

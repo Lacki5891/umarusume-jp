@@ -1,0 +1,109 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Incredible! With an explosive sprint,\nМэдзиро Райан\nsnatches the win from star\nracer Огури Кэп!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Huff, huff, huff...</i> Wh-what... just\nhappened...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You were amazing, Ryan!"
+            ]
+        },
+        {
+            "text": "O-oh, yeah! Thank you! But...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I can barely remember what happened...\nI was\nscared, so I started running like\ncrazy. That's all I\nknow.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I guess my body just kept on moving.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "This is a victory for your muscles, I'd say."
+            ]
+        },
+        {
+            "text": "You're right... Even if I lost my senses,\nmy body\nstill remembered how to move.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I can't believe that I beat Oguri. But still,\nI'm\nhappy.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "O-Oguri!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I underestimated you. Never thought\nyou'd make\nit so far this year.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Turns out I was wrong. You were\nimpressive out\nthere.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, thank you very much!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Let's do it again. Next year I'll come\nback more\nprepared.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп bids Мэдзиро Райан farewell and\nwalks\naway with a flourish.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's so cool... Now that's a real star\n\nUmamusume.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You don't have a race at the end of next\nyear yet,\nright? You're free?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I-I'll be free. Uh, you didn't have to\ncome all the\nway back to ask or\nanything...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Thank you, Trainer.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "This battle against a superstar was great\n\nexperience for next year!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "What are you going to do next?"
+            ]
+        },
+        {
+            "text": "Next up is... the G1 at the beginning of\nthe year.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I wanna enter the spring Tenno Sho! I'll\nuse this\nexperience in a race against\nMcQueen, so please\nhelp me prepare for\nit!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Okay, let's do this!"
+            ]
+        },
+        {
+            "text": "After her surprise victory against Oguri\nCap,\nМэдзиро Райан sets her sights on her\nnext goal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The spring Tenno Sho—her rematch with\nMejiro\nMcQueen will surely be a battle\nto remember.",
+            "name": "Монолог"
+        }
+    ]
+}

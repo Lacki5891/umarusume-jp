@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Супер Крик bakes a huge batch of\nmadeleines to\ngive to her friends.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Thanks for the treat!"
+            ]
+        },
+        {
+            "text": "Hehe! You're welcome.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But... I'm in a bit of a pickle.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I made some for myself as well, but I\nspent so\nmuch time handing them out\nthat it's already\nreally late...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I can't be eating sweets at this hour...\nBut still...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Do you think it would be okay for me to\nhave\nsome? Just a few.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I think it's fine.",
+                "Don't give in to the temptation..."
+            ]
+        },
+        {
+            "text": "Okay, then just a few!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I actually had a taste, and they were\nquite\ndelicious, so I've been looking\nforward to having\nsome more!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe, I'll work extra hard at training\ntomorrow to\nmake up for it. ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "O-okay, then here I go.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "You know, I've been looking forward to\neating\nthem since I was baking. Ehehe.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh, I'll make some tea while I'm at it.\nWould you\nlike some too?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Ack... You're right...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll save them for tomorrow morning or\nsomething.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Fight the urge, fight the urge!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик hums a tune as she makes\nsome tea\nand enjoys her madeleines.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик hums to herself as she\nmakes some\ntea and happily digs into\nher madeleines.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик squeezes her eyes shut and\nstops\nherself from eating the\nmadeleines.",
+            "name": "Монолог"
+        }
+    ]
+}

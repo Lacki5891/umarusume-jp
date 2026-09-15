@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This morning I talked to Taishin about\nhow we\nshould both try as hard as we\ncan. Can you guess\nwhat she said?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "\"If you dare hold back, I'll kick you\nacross\nschool!\" Haha, as if I'd ever hold\nback!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm sure she'll give it her all. She really\ndoes hate\nto lose!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So I better work hard too!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Right! I'll be right there with you!"
+            ]
+        },
+        {
+            "text": "Yeah! All riiight, let's give it everything\nwe've got!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

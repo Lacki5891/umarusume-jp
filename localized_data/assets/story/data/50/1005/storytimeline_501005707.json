@@ -1,0 +1,115 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Фудзи Кисэки hasn't been feeling great\nlately, so we\ndecide to visit a shrine\ntogether. After we're done\npraying, she\nturns to me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks for coming with me. I hope I\nwasn't too\nmuch of a burden.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You weren't a burden at all."
+            ]
+        },
+        {
+            "text": "Hehe. That's a relief.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I actually train at this shrine by myself\nquite\noften.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I thought I might feel better if I came\nhere, but...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Gaaah!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hm? That voice sounds familiar...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We see Спешл Уик and Silence\nSuzuka\nsprinting up the stairs.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff... Huff...</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "<i>Huff... Wheeze...</i> You're amazing, Spe...\nYou\nalmost... overtook me there...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Guh! I want a rematch!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe! Sure thing. But I'm not going to\nlet you win.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You don't need to! I'm gonna get you for\nsure this\ntime!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Those darling ponies are absolutely\nglowing with\nbrilliance!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "They're even brighter than usual!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Why don't you go say hi?"
+            ]
+        },
+        {
+            "text": "Hm, I suppose I could...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But I think I'll refrain.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I don't want to impede on their\ncompetition.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Instead, how about we pray again and\nask that all\ntheir hard work pays off?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's the least I can do to thank them for\ninspiring\nme!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I can't find the right words to say to\nthem now...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Besides, compared to how luminous they\nare, I'm\nno more than—",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Sorry. I didn't mean to bring the mood\ndown.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Let's go before they spot us.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки's expression lights up, as if\nthe clouds\nbrooding over her mind have\nparted.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Фудзи Кисэки leaves the shrine, looking\ndowncast...",
+            "name": "Монолог"
+        }
+    ]
+}

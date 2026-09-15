@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Having woken up early, I take my time\nheading to\nthe academy so as to enjoy\nall I can of the fresh\nmorning air.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good morning, Trainer. Isn't the weather\n\nbeautiful this morning?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Someone seems chipper today."
+            ]
+        },
+        {
+            "text": "Yes. I had a relaxing day yesterday. Or\nmaybe it's\nbecause of the nice dream I\nhad last night...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What did you dream about?"
+            ]
+        },
+        {
+            "text": "Well, in the dream, I was the wind,\nblowing across\na huge plain...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "My body was as light as air, and I could\nfly for as\nlong and as far as I wanted.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. I bet I can run like the wind today.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука appears fully revitalized\nand\nbrimming with drive and energy.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Марузенски and I go to the\ncafeteria\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Be sure to try our new Glitter Shortcake!\nIt's\nchock-full of silver sprinkles!",
+            "name": "Cafeteria Staff"
+        },
+        {
+            "text": "Ooh, look, Trainer! That cake is so\nfab! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ooh, look, Trainer! That cake is so\nfab! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It looks like a disco ball, doesn't it? Even\nthe\ncakes are trendy here!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Y-yeah... I guess so."
+            ]
+        },
+        {
+            "text": "Nngh... Must... resist... Pull back... the\nthrottle...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hm? Is that...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hnnngh... Urrrgh... I have to be the last\none, the\nvery last...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey, Maya! What's the matter? You're\nall\nmoaning and groaning.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, heya, Maruzen! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Agh, I screwed up!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahem. Maruzen. Hehe... It's so nice to\nsee you.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Your mood really seems to be all over\nthe\nplace.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You wouldn't happen to be working on\nbecoming\na \"mature woman\" again,\nwould you?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That's right! That's exactly it! Right now,\nI'm\npracticing how to wait!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "How to wait... for what?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Glitter cake! I'm waiting until there's\nonly one left!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I wanna eat that cake so bad... but\nmature women\nwait!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ah, so you're letting other people get\ntheirs first.\nThat's certainly very mature\nof you...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But isn't standing around gawking at\nsomething\nyou want to eat a little silly?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I think you could use some adulting\nadvice from a\nproper adult! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You're the right person for the job, Марузенски.",
+                "Adults have a duty to lead the way."
+            ]
+        },
+        {
+            "text": "I think you could use some adulting\nadvice from a\nproper adult! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You're the right person for the job, Марузенски.",
+                "Adults have a duty to lead the way."
+            ]
+        },
+        {
+            "text": "Oh-ho! ☆ I appreciate the nomination! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If you ask me, going after what you want\nwithout\nthinking about it is the way to\ngo!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Really? Even as an adult? You don't wait\nfor\nothers to get theirs first?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Of course it'd be unbecoming of an\nadult to take\neverything for themselves...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But when something you like is in front\nof you,\neven adults can get a little\nexcited!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wow! If someone super duper mega\nmature like\nyou says so, it has to be true!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Um, what exactly do you mean by \"super\nduper\nmega mature\"?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Anyway, time to pull out of this holding\n\npattern! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And off she goes... Once she's set on\nsomething,\nshe follows through in a\nflash.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Is that the power of youth? If so, I'm not\nabout to\nlose!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wait up, Maya! I want some cake too! ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wow! Really?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Of course! It's an adult's responsibility to\nforge a\npath for the young to follow! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Huh! That totally makes sense!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Now that you mention it, you're always\nrushing\nahead!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I do have a certain get-up-and-go\nattitude, don't\nI? ☆",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And then at the end, you run out of gas\nand just\nstall out! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Urk!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I think I get it now! ☆ Thanks, you\ntwo! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "G-go on and eat up...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...I thought I was hiding my exhaustion\npretty\nwell, but she really has a keen\neye.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "That initial burst of speed is really important!"
+            ]
+        },
+        {
+            "text": "Y-yeah, exactly! Good point...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски looks a little upset, but\nhaving the\ncake that Маяно Топ Ган\nbrings back lifts her\nspirits right back up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, Марузенски and Mayano Top\nGun enjoy\ntheir cakes together.",
+            "name": "Монолог"
+        }
+    ]
+}

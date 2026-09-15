@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with Eishin\nFlash...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look, they have Umamusume plushies as\nprizes.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I look in the direction Эйсин Флэш is\npointing and\nsee a claw machine filled\nwith Umamusume\nplushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There is a glaring absence of detail, but\nthe cute\nfeatures on them are rather\nendearing.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Do you want to give the game a try?"
+            ]
+        },
+        {
+            "text": "No. There is a large obstacle to winning\nthis\ngame, and that is the machine itself.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Despite the necessity of precise\noperation down\nto the millimeter in\norder to win a prize, the\ncontrol system\nis very inaccurate.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Worse, the claw's flawed design makes\ngrasping\nobjects incredibly inefficient.\nSuch conditions are\ngrossly unfair.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "I'll give it a shot instead, then!"
+            ]
+        },
+        {
+            "text": "You do seem rather confident. Very\nwell, I entrust\nyou with this endeavor.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

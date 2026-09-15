@@ -1,0 +1,138 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I spot Нарита Брайан and Бива Хаяхидэ at\na ramen\nshop.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhh, that hit the spot.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yeah, it was delicious!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Well, I'm going to call it here.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're going already? Don't you want to\nlet your\nfood settle first?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Having lunch together?"
+            ]
+        },
+        {
+            "text": "...Oh, it's you. No, we just happened to\nboth be\nhere.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Welcome! Let me know when you're\nready to\norder!",
+            "name": "Ramen Shop Owner"
+        },
+        {
+            "text": "We've got a special on offer! The Roast\nPork\nMountain!",
+            "name": "Ramen Shop Owner",
+            "choice_data_list": [
+                "Roast Pork Mountain..."
+            ]
+        },
+        {
+            "text": "It's delicious. Every single bite was so\njuicy, it was\nalmost like meat broth.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Aren't you a bit too focused on meat?\nYou even\nput all your veggies in my\nbowl.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Did not.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You did too! I saw you! You need to eat\nsome\nvegetables too!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ahaha! As long as you enjoyed it, I'm\nhappy!",
+            "name": "Ramen Shop Owner"
+        },
+        {
+            "text": "If you liked it that much, how about\nsome extra\npork? On the house.",
+            "name": "Ramen Shop Owner"
+        },
+        {
+            "text": "Really?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Don't you think you've had enough for now?",
+                "That's a hard offer to pass up, isn't it?"
+            ]
+        },
+        {
+            "text": "...I suppose you're right. Eating too much\njust will\njust slow me down.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Indeed. I think that's a wise decision.\nYou give\ngood advice, Trainer.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Thanks, I think..."
+            ]
+        },
+        {
+            "text": "Tch. What a meaningless remark. You're\ntrying\ntoo hard to play the part of big\nsister.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well, I <i>am</i> your big sister...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hey, Brian! We're not racing back! Slow\ndown!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...That's what I'm talking about. Gotta\nfinish every\nlast bite!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's absurd! You're just going to eat\nthe pork\nplain?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Why not? Hey, I'll take you up on that\nextra pork!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Geez.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...Phew. That was more than I expected.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The owner was so impressed with you\nthat he kept\nbringing more...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Are you going to be okay? You've\nclearly\nexceeded the appropriate\namount of food for the\nday...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's not a problem... In any case... I'll burn\nit off\nrunning in no time...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "While Нарита Брайан certainly seems to\nhave had\nher fill of roast pork, she may\nhave overdone it...",
+            "name": "Монолог"
+        },
+        {
+            "text": "As I watch the amusing exchange\nbetween the\nsisters, I order myself the\nRoast Pork Mountain.",
+            "name": "Монолог"
+        }
+    ]
+}

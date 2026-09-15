@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the morning after a day off, and I\nspot\nMayano Top Gun. I call out her\nname, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! Тренер?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Stop it! Close your eyes! Don't look this\nway!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Wh-what's the matter?!"
+            ]
+        },
+        {
+            "text": "<i>Urgh...</i> I was practicing putting on\nmakeup\nyesterday, and before I knew it,\nthe sun was\nalready up...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "My eyes are so dark I look like a panda!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Waaah! You're not allowed to see me\nlike this!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Seems like she didn't get enough rest on\nher day\noff...",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... Huff...</i> I... won?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Wooooo!\nYou did it, Taishiiiin!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(The crowd is so loud.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(I'm so... tired.)",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin?!"
+            ]
+        },
+        {
+            "text": "Despite winning the Derby, it seems\nNarita\nTaishin completely exhausted\nherself battling\nagainst her rivals.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, nothing's too out of the ordinary.\nIt looks\nlike she just overexerted herself.",
+            "name": "Doctor"
+        },
+        {
+            "text": "With a little rest, she should regain\n\nconsciousness—oh, looks like I spoke\ntoo soon.",
+            "name": "Doctor"
+        },
+        {
+            "text": "Was I asleep?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin! Oh, thank goodness!"
+            ]
+        },
+        {
+            "text": "Stop freaking out...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "How's your body feel? Are you dizzy?",
+            "name": "Doctor"
+        },
+        {
+            "text": "Oh. No, I'm fine. Thanks.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's good, then. Make sure you take it\neasy and\nrest up.",
+            "name": "Doctor"
+        },
+        {
+            "text": "Okay...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "After the doctor leaves, a whirlwind\nblows into\nthe room.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Waaaaah! Taishiiiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Guh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin, Taishin, <i>Taishin!</i> Y-y-you\ncollasped! I\ncan't believe you\ncollaaasped!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Are you all right, Taishin? What did the\ndoctor\nsay?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah, yeah—I'm fine. You guys worry\ntoo much.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, I'm glad... I assume you're still\nplanning to\nrun in the Kikuka Sho, then?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Duh. Was there any doubt?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Good. There's something you should\nknow, then.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Next time, it's my turn.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ohhh! Hayahide's not playing around!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And I'm... I'm not gonna back down in\nthe Kikuka\nSho either, Taishin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It sucks <i>really</i> bad that you stole the\nDerby from\nme, and I'm so, sooo mad!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I'm gonna turn this anger into\nenergy! And I'm\ngonna use it to run as\nfast as lightning down the\ntrack!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Raaaaah! The Kikuka Sho will be miiiiine!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, sure. Just barge in here, make some\ngrand\ndeclarations, and leave...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(For some reason...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(They look almost... radiant.)",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin? Are you all right?"
+            ]
+        },
+        {
+            "text": "I told you I'm fine! Come on, let's go\nalready.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Listen up—you'd better not go easy on\nme during\ntraining tomorrow.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "If I catch you holding back on me, I'm\ngonna\nlaunch you into another galaxy.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The Kikuka Sho's gonna be mine!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The finale of the Triple Crown tour, the\nKikuka\nSho, awaits us next.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Таисин reaffirms her dedication to\nkeep\npushing on, so she can surpass her\ntwo rivals.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All that matters is that I win.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "As long as I keep winning, then one\nday...",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

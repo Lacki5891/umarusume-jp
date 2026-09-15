@@ -1,0 +1,27 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Okay, that's enough. Sucks for you, but\nit's\nquitting time.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "I don't get why you're apologizing to me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I told you I'm not interested in them.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ughhh, stop feeling so sorry for yourself.\nC'mon,\nlet's go.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally the day of Каррен Тян's\ndebut. I\nimagine she might be nervous,\nso I ask her how\nshe's doing, but her\nresponse is a bit...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm... I need a good \"nervous pose.\"",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What about this? Yeah, this is good...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Yay! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"#Debut #SoNervous #CheerForMe\"\n...Aaand\npost!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Uh... are you <i>actually</i> nervous?"
+            ]
+        },
+        {
+            "text": "What?! How rude! Do you think I'd lie to\nget\nlikes?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "No, but..."
+            ]
+        },
+        {
+            "text": "Of course I'm nervous. This marks the\nbeginning\nof my path forward.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "The beginning of my path to mastering\ncuteness...\nHehe. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She smiles cutely. She's definitely\nnervous... or at\nleast has a strange\nnervous energy about her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I guess it's about time. Here I go...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Time to make my debut! ♪",
+            "name": "Каррен Тян"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Матиканэфукукитару and I are having\nlunch\ntogether one day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do you think I'll get luscious, bouncy\nskin if I eat\nthis Luscious, Bouncy\nPudding?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I doubt it..."
+            ]
+        },
+        {
+            "text": "Arghhh! Then what am I supposed to do\nabout my\nskin? It's as dry and rough as a\npaper talisman!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The philosophy of feng shui tells us dry\nskin is a\nsurefire sign that great\nmisfortune is just around\nthe corner!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару seems to be having\nskin\nproblems...",
+            "name": "Монолог"
+        }
+    ]
+}

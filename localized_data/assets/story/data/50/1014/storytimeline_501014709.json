@@ -1,0 +1,75 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Nooo! I only placed!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "No, no, no, no! This can't be happening!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The world's strongest racer can't settle\nfor\nanything less than victory! I refuse to\naccept this!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Trainer! Be honest! How did I do?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You ran pretty well out there.",
+                "Fifty-three points."
+            ]
+        },
+        {
+            "text": "Trainer! Be honest! How did I do?!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You ran pretty well out there.",
+                "Fifty-three points."
+            ]
+        },
+        {
+            "text": "Don't hold back! Sugarcoating it isn't\ngonna help\nme!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "\"Pretty well\" doesn't cut it! I don't want\nto deliver\nanything but perfection!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Then let's aim for a perfect score in training!"
+            ]
+        },
+        {
+            "text": "Claro! I'll give you an unbelievable,\n\nunsurmountable—perfect performance!\nGive me\nall you've got in training!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oof! That low?! And oddly specific, as\nwell.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "This is so embarrassing... More\nembarrassing than\nwhen I got that awful\ntest score!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But! The higher the wall, the sweeter the\nbreeze\nat the top when you scale it!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's climb that wall!"
+            ]
+        },
+        {
+            "text": "Sí! Next time, I'll be laughin' from up\ntop!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'll climb the steepest cliffs in Mexico if\nthat's\nwhat it takes!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Then, I'm gonna swoop down\nmagnificently from\nthe summit of the\nworld!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

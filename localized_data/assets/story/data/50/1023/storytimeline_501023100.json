@@ -1,0 +1,233 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Stand up straight and pull your chin in.\nGood. I'll\nmeasure your height now.",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "I'm sorry to ask for a physical exam so\nsuddenly. I\njust wanted to make sure my\napplication is filled\nout accurately.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There's no need to apologize. There, all\ndone.\nYou're 171 centimeters. Oh,\nyou've gotten taller.",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "I guess you must still be growing. I'll\nforward the\ninformation on.",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "Thank you. I'll take my leave no—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Is something wrong?",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "Oh, uh... No, nothing's wrong. This smell\njust\nbrings back some memories.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(I remember lying in a hospital bed then,\ntrying to\ncome up with a single\nequation...)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(A winning equation to beat her.)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Pant... pant...</i> Okay! I'm gonna pick up\nthe pace,\nBrian!",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "Wow, really?! Me too, me too! I'm not\ngonna lose\nto you!",
+            "name": "Young Brian"
+        },
+        {
+            "text": "(I wonder, when was the last time I was\nahead of\nher?)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Doctor? May I borrow <i>Kinematics in\nSports</i> next?\nI want to get faster.",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "Now's not the time to think about that.\nYou need\nto rest. You do want to\nrecover quickly, don't\nyou?",
+            "name": "Doctor"
+        },
+        {
+            "text": "Yes, but I think now's the best time to\ndo a lot of\nthinking.",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "The truth is, I panicked because I was\nabout to\nlose... and that's how I got\ninjured.",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "That's why I need to come up with a\nwinning\nequation.",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "(So I don't lose again...)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Thank you for your help. I should go\nnow.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Don't mention it! All of the staff at the\nacademy\nare here to support you\nstudents.",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "Congrats on your debut. Keep it up!",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "Thank you. I will.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Sorry to keep you waiting, Trainer.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "When I greet Бива Хаяхидэ after her\nhealth\nexam, I'm glad to see her looking\nrefreshed and\nfree of worries.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The two of us are going to tackle the\nTwinkle\nSeries starting today.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's both work our hardest!"
+            ]
+        },
+        {
+            "text": "Indeed. Now that the date of my debut\nrace has\nbeen decided, we know what\nwe need to do.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Train hard, formulate a path to victory,\nand go\ninto the race with a solid\nstrategy. The results will\nfollow.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "First, let's start by checking my times to\nassess\nwhere I currently am.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Pant... Huff...</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ is at the other end of the\ntrack in\na flash.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We decide to measure her time after\neach\nfurlong, or 200-meter interval. I\nlook at my\nstopwatch to check.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's a pretty fast lap. I wouldn't\nexpect any less\nfrom Нарита Брайан's big\nsister.",
+            "name": "Fellow Trainer A",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Haha, don't look so surprised. We're just\nhere to\nscope out the so-called \"number\none contender\"\naround here.",
+            "name": "Fellow Trainer A"
+        },
+        {
+            "text": "She didn't get that title for nothing. Her\nrun was a\nsight to see in the scrimmage I\nsaw the other day!",
+            "name": "Fellow Trainer B"
+        },
+        {
+            "text": "Before I know it, a group of other\ntrainers have\ngathered around to watch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're all trainers here, right? We need\nto see how\nyou carry out your training\nsessions!",
+            "name": "Fellow Trainer B"
+        },
+        {
+            "text": "I must say, I was surprised when I heard\nBrian was\ngoing to debut before her\nolder sister. But I\nguess—",
+            "name": "Fellow Trainer C"
+        },
+        {
+            "text": "Excuse me. I'm glad everyone's having\nsuch a\ngood time, but I need to have a\nword with my\ntrainer.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Excuse me. I'm glad everyone's having\nsuch a\ngood time, but I need to have a\nword with my\ntrainer.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...!",
+            "name": "Fellow Trainers"
+        },
+        {
+            "text": "Well, well... Aren't you popular?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I'm not the one who's popular. It's you!"
+            ]
+        },
+        {
+            "text": "I tell Бива Хаяхидэ what the other\ntrainers were\nsaying about her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm. So I'm considered the number one\n\ncontender, huh?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, that's very flattering, but I can't\naccept such\na mantle as things are at the\nmoment.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The reason they took an interest in me\nto begin\nwith is because I'm Narita\nBrian's sister.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Besides, I'm no more than above average\nat the\nmoment, and I'm not satisfied with\nthat.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I don't simply want to be above average.\nI want\nto become the strongest racer\nhere.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Her steely gaze seems fixed in her\nmind's eye on\nsomewhere—or\nsomeone—as she says this.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I wonder... What result will the final\ncomputation\nof my equation bring? I\nwonder if victory exists\non the list of\npotential answers.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Of course it does!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Pfft... hahaha! I nearly forgot the type of\nperson\nyou are. Of course you'd say that.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, I'll need all the help you can give\nme. Let's\ncomplete the winning\nequation... together.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And that's how my journey with Biwa\nHayahide\nbegins.",
+            "name": "Монолог"
+        }
+    ]
+}

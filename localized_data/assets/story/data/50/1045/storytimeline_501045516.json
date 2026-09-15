@@ -1,0 +1,124 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm stopping by a fast-food restaurant\nfor lunch,\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ya got sixty minutes! Show 'em whatcha\ngot,\nOguri!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I got this in the bag.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "You can do it, Oguri!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oguri is just about to take on the Super\n\nHumongous Burger Challenge.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "The burger is free if she can finish it\nwithin sixty\nminutes. Plus, she'll get a\ncoupon to use the next\ntime she comes\nhere! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And a real sweet coupon at that! It'll\nkeep her fed\nfor a month!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...It <i>will</i> be mine!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "<i>Bzzzzzt!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Sorry, I've got a call from the\nacademy.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "What? We didn't send in part of the race\n\napplication? Y-you need me to come\nback now?!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Say what?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...H-how can I possibly leave <i>that</i>\nbehind?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Following Огури Кэп's gaze, I get an\neyeful of a\ntowering burger boasting\nlayer upon layer of\nfillings...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I feel ya, but that paper's got a\ndeadline. You\nmight not turn it in on\ntime unless you hurry!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "If I must, then... Creek! I want you... to\ntake on\nthe challenge in my place!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, er... Me?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "And then give the coupon... to Tama!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "O-Oguri?! Ya can't mean that!",
+            "name": "Тамамо Кросс",
+            "choice_data_list": [
+                "You're asking for the impossible...",
+                "You can do it, Creek!"
+            ]
+        },
+        {
+            "text": "Hm... I'm sorry, but there's no way I can\ndo this on\nmy own...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's all good, Oguri. I 'preciate the\ngesture!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Hrk... This... This hurts...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Very well. I don't want to let the two of\nyou\ndown... Leave it to me.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I owe you one!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "You guys are the best! Gahhh, I'm the\nhappiest\nUmamusume in the world!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "While Супер Крик manages to complete\nthe\nchallenge, the excessive volume of\nfood leaves\nher immobilized for a while.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, the three friends work together\nto lug the\ngiant burger with them back\nto the academy.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Are you sure you can do this?"
+            ]
+        },
+        {
+            "text": "Yes!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...I know I can.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Guess it's time.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин drags her feet as she\nleaves the\nwaiting room."
+        },
+        {
+            "text": "Once the gates open, there's nothing\nmore I can\ndo for her.",
+            "choice_data_list": [
+                "(Please come back safely, Taishin!)"
+            ]
+        },
+        {
+            "text": "All I can do now is pray."
+        }
+    ]
+}

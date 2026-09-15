@@ -1,0 +1,132 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Кинг Хало and I go into town.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Wait a minute. That poster over\nthere...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ooh... It looks like they're holding an art\n\nexhibition.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hey, Trainer, why don't we go take a\nlook? It\nseems to be nearby.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Here we are! Ahh, now this is a place fit\nfor a king\nlike me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "First-rate people go to first-rate places,\nafter all.\nAttending events such as\norchestral concerts and\nthe like.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "As my trainer, you should keep a list of\nsuch\nfirst-rate destinations in mind.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You critique paintings?"
+            ]
+        },
+        {
+            "text": "Ohohoho! But of course!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Paintings created by first-rate artists are\nfilled\nwith emotion!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Here, look at the painting showcased on\nthe\nposter.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Even though the painting looks messy at\nfirst\nglance, it conveys the artist's state\nof mind!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It must have been done by a first-rate\npainter. I\nwonder who the artist is... Let's\nsee...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало and I both look closely at the\n\nexhibition poster.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"<i>I Wuv You Mommy and Daddy,</i> from\nthe\nKindergarten Collection.\"",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "There's definitely a lot of emotion in there.",
+                "It's not quite a first-rate painter, is it?"
+            ]
+        },
+        {
+            "text": "\"<i>I Wuv You Mommy and Daddy,</i> from\nthe\nKindergarten Collection.\"",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "There's definitely a lot of emotion in there.",
+                "It's not quite a first-rate painter, is it?"
+            ]
+        },
+        {
+            "text": "Oh... Ohohoho! But of course!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "This work is simply brimming with the\nyouthful\nartist's feelings for their\nparents!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "To the parents, their child is a first-rate\npainter!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Let's go see it right away! Admission is\nfree, which\nis truly first-rate!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The artists gave their all to create these\nworks!\nThey're so adorable! So soothing\nand refreshing!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, this kind of exhibition isn't half\nbad.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "W-well, when it comes to first-rate\npainters,\nbeing famous or not is of no\nconcern!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Being first-rate is all about whether you\ntouch\npeople's hearts!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "This painting has left a deep impression\non me!\nThat's why it's definitely\nfirst-rate!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I seems I'll need to make it clearer for\nyou... Come\non, let's go inside and take\na look!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Look at the faces of the artists' parents\nas they\nlook at the paintings! Happiness\nitself!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "There's the proof of how well it touches\npeople's\nhearts! Take care to remember\nwhat the essence\nof first-rate looks like!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I feel warm and fuzzy as I wander\nthrough the\nmuseum with Кинг Хало.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And that's how visiting a museum with\nКинг Хало\ntaught me the true meaning of\nfirst-rate.",
+            "name": "Монолог"
+        }
+    ]
+}

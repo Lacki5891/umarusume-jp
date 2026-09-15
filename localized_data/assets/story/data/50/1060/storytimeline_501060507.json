@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Найс Нэйчер has received a fan letter\nand one\nthousand origami cranes, which\nI give to her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She reads the letter intently.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Isn't this... a bit much?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, seriously, this fan made a\nthousand\norigami cranes for a side\ncharacter like me...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "One thousand. Can you imagine how\nlong it\nmust've taken?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That's just how dedicated they are to\nsupporting you."
+            ]
+        },
+        {
+            "text": "...I know. And it's not like I don't\nappreciate it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, I guess it's time to head to\ntraining!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I've got to earn those cranes.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She carefully arranges the origami cranes\non the\nwindow and we head off to\ntraining.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp begins today, and we'll be\ntraining\nhard at a campground near the\nbeach while we're\nhere.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's the perfect opportunity to polish up\nNarita\nTaishin's abilities before the\nKikuka Sho, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Siiigh...</i>",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Y-you okay?"
+            ]
+        },
+        {
+            "text": "I'm fine...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's just... As it is, I already don't get\nmuch time to\nmyself living in the dorms.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But at summer camp, I have negative\nalone time,\nand that's depressing as hell.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Now that she mentions it, I can see why\nthis\nenvironment would be stressful for\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It won't do for Нарита Таисин to continue\nthis\nway, so I start thinking about how to\ncheer her\nup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa, there's seriously no one here. I\nhad no idea\nthis place existed.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh. This might be a decent spot to nap\nsince it's\nso quiet.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I was wondering why you were running\naround\neverywhere. Was it just to find a\nplace like this?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Yep! I was hoping it could help you relax!"
+            ]
+        },
+        {
+            "text": "<i>Sigh.</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Look, I go through this every year, so\ndon't waste\nyour time stressing out. I can\ntrain perfectly well\nwithout you being so\nextra.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But that's not why I—"
+            ]
+        },
+        {
+            "text": "Yeah, yeah. Whatever. Just leave it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Anyway, don't we have training to do?\nAre we\ngonna get started or not?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Yes, of course! I'll get everything ready!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Agh, damn it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's so freakin' hard to find the right time\nto say\nthanks...",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

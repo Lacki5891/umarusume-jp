@@ -1,0 +1,274 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "There's still some time before my\ntraining session\nwith Фудзи Кисэки, so I\ndecide to take a walk around\ncampus."
+        },
+        {
+            "text": "Aaah!\nFujiii! ♪",
+            "name": "Darling Ponies"
+        },
+        {
+            "text": "There, that should be good for the\nlighting.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Welcome to the stage, dear pony. Now\ntell me,\nwhat kind of picture would you\nlike to take\ntogether?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "U-um, I want something really daring!\nOne with\nyou looking fierce and\npossessive, please!",
+            "name": "Inspired Pony"
+        },
+        {
+            "text": "Hm... I'd much rather spoil you with\ntender\nsweetness...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But if it's the thrill of feral danger you\nwant, then\ncome. I can be as dastardly\nand roguish as you'd\nlike.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Aaaahhh! ♪",
+            "name": "Darling Ponies",
+            "choice_data_list": [
+                "What is she up to now?"
+            ]
+        },
+        {
+            "text": "Huehuehue. ♪ If it isn't Fuji's trainer! I\ncan give\nyou all the deets! ♪",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "Behold! This is none other than the fan\nphoto op\nFuji set up out of her\nbottomless magnanimity!",
+            "name": "Агнес Диджитал",
+            "choice_data_list": [
+                "Whoa! Агнес Диджитал?!"
+            ]
+        },
+        {
+            "text": "It all started when a particularly\npassionate fan\nasked to see Fuji in her\nsignature racewear close\nup.",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "But of course, my darling pony! Why\ndon't we\ntake a picture together while\nwe're at it?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That way, you'll forever have a keepsake\nto\nremember when you stood next to me\nin my\nsignature racewear.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Sigh...</i> Fuji's generosity toward her fans\nknows no\nbounds...",
+            "name": "Агнес Диджитал",
+            "choice_data_list": [
+                "No wonder there's such a long line..."
+            ]
+        },
+        {
+            "text": "Yep! Fuji's practically an A-list celebrity\nwith how\npopular she is!",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "If you want to get a picture with her,\nyou'd better\nget in line fast! You never\nknow when the event'll\nclose!",
+            "name": "Агнес Диджитал",
+            "choice_data_list": [
+                "Might as well line up since I'm here...",
+                "I think I'll just watch."
+            ]
+        },
+        {
+            "text": "Hehehe! ♪ That's the spirit! A picture\nwith her\ntrainer is bound to pull at the\nheartstrings! ♪",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "As I get in line and wait for my turn with\nFuji\nKiseki, I reminisce about the day her\nsignature\nracewear arrived."
+        },
+        {
+            "text": "Ta-dah! What do you think of my\nsignature\nracewear, Тренер?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "It's great! You look just like a stage actor!"
+            ]
+        },
+        {
+            "text": "Thank you. I'm glad my uniform's motif\ncame\nthrough so clearly.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "My mother's an actor. She's performed\nand sung\nin countless productions,\nmesmerizing her\naudiences.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Since I was a child, her brilliance has\nburned\nbright in my heart. I may not\nstand on the same\nstage as her, but I'm\njust as determined.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I want to be like her. One day, I want to\nwear this\noutfit and astound everyone\nwith a race so\nwonderful it feels like a\ndream.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's the reason I designed it to look like a\ntuxedo,\nfit for the stage.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Then let's build the most amazing stage for you\nto stand on in your signature racewear!"
+            ]
+        },
+        {
+            "text": "Sounds like a plan!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Next in line, plea—",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh? What are you doing here, Тренер?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I wanted to surprise you! Did it work?"
+            ]
+        },
+        {
+            "text": "Ahaha! It certainly did! I wasn't\nexpecting you at\nall. Come, let's take a\npicture together!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки takes me by the hand and\npulls me up\non the stage, where we take\na selfie.",
+            "choice_data_list": [
+                "You look even more dazzling than usual."
+            ]
+        },
+        {
+            "text": "Hehe. Perhaps it's because of my\nsignature\nracewear.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Wearing this racewear doesn't simply\nchange my\nappearance.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It also enrobes me with firm\ndetermination and\ntransforms me into a\nsublime entertainer, capable\nof creating\nnew worlds out of nothing.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I swear to you and upon this racewear of\nmine...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll charm everyone with a performance\nso\nenthralling—a race so thrilling—they'll\nnever\nforget it. And until I do, I'll never\nstop running.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "When that dream of mine comes true,\nwill you\nplease be there with me to take\nanother picture\ntogether?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ohhh, that was so dreamy! It sounded\njust like a\nmarriage proposal!",
+            "name": "Pony Bystander A"
+        },
+        {
+            "text": "Hehe... A proposal, eh? Well, Тренер?\nWhat's\nyour answer?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I do—I mean, y-yes, of course I will."
+            ]
+        },
+        {
+            "text": "Oh, so you're the type to watch and\nsupport your\nfaves from afar, eh? That's\nsuper valid too!",
+            "name": "Агнес Диджитал"
+        },
+        {
+            "text": "I watch over Фудзи Кисэки until it's time for\nour\ntraining session, reminiscing about\nthe day her\nsignature racewear arrived."
+        },
+        {
+            "text": "Ta-dah! What do you think of my\nsignature\nracewear, Тренер?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "It's great! You look just like a stage actor!"
+            ]
+        },
+        {
+            "text": "Thank you. I'm glad my uniform's motif\ncame\nthrough so clearly.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "My mother's an actor. She's performed\nand sung\nin countless productions,\nmesmerizing her\naudiences.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Since I was a child, her brilliance has\nburned\nbright in my heart. I may not\nstand on the same\nstage as her, but I'm\njust as determined.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I want to be like her. One day, I want to\nwear this\noutfit and astound everyone\nwith a race so\nwonderful it feels like a\ndream.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's the reason I designed it to look like a\ntuxedo,\nfit for the stage.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Then let's build the most amazing stage for you\nto stand on in your signature racewear!"
+            ]
+        },
+        {
+            "text": "Sounds like a plan!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I come out of my musings and realize it's\nnearly\ntime for our training session to\nbegin.",
+            "choice_data_list": [
+                "Fuji, it's time to get training."
+            ]
+        },
+        {
+            "text": "Oh, Trainer. I didn't realize it was so late\nalready.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Nooo! You're going already? But I\nwanted to get\na selfie with you!",
+            "name": "Gloomy Pony"
+        },
+        {
+            "text": "I'm sorry, dear pony. I wish there was\nsome way I\ncould make it up to you...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Aha! Trainer, would it be all right if I\ntrained in my\nsignature racewear today?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Sure, I don't mind."
+            ]
+        },
+        {
+            "text": "I'm sorry for having to leave so soon, but\nI'll run\nmy heart out for you today in my\nsignature\nracewear, darlings. Won't you\nstay and watch\nover me, please?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Eeek! Of course we will!",
+            "name": "Hopeful Pony"
+        },
+        {
+            "text": "Do your best, Fujiii! We love youuu!",
+            "name": "Darling Ponies"
+        },
+        {
+            "text": "Thank you, my dear ponies! I'll be off\nnow, so be\ngood.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "(With this signature racewear and my\nskills, I'll\nlead everyone into a lustrous\nfuture, brimming\nwith never-ending\napplause! I swear it!)",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Keep your eyes on me, Mother. I'll make\nsure the\nfuture is so bright, its light\nreaches even your\nstage!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки runs with renewed resolve,\nand even if\nthey don't realize it, her\naudience is treated to\nthe glimpse of a\nmiracle that day."
+        },
+        {
+            "text": "As delighted shrieks ring out from the\nwaiting\ncrowd around us, I can't help but\nthink that Fuji\nKiseki's charisma is\ndownright dangerous."
+        }
+    ]
+}

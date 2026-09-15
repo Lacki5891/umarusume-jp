@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ah, this feels nice... I'm so fired up, even\nmy\nfingertips're getting hot.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Wait, are you unwell?"
+            ]
+        },
+        {
+            "text": "Huh?! As if! I'm burnin' up with\nanticipation for\nthe fierce battle ahead!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's no way I'm letting a repeat of\nlast time\nhappen!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>I'm</i> the fastest racer around...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And I'll prove it to you right now!",
+            "name": "Хиши Амадзон"
+        }
+    ]
+}

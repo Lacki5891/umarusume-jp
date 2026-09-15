@@ -1,0 +1,157 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I did it! Yeah! I did it, Trainer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You did great!"
+            ]
+        },
+        {
+            "text": "<i>Sniffle...</i> Waaagh! Thanks so muuuch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "This is a great result for a G1 race. It\nbodes well\nfor the Japanese Derby!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's keep working hard into the Classics!"
+            ]
+        },
+        {
+            "text": "YESSS! Next year's gonna be the best\nyear ever!\nPromise!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит's enthusiasm is so\ninfectious, I feel\nready to suggest a plan\nfor next year on the spot,\nbut just then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Can you, like, maybe chill a little while\nyou're in\nthe tunnel?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "TAISHIIIN! HAYAHIDEEE!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Well done, Ticket. That was a good\nrace.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Why, when you made that last dash for\nthe\nfinishing line, I think Taishin actually\nstopped\nbreathing.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I-I did not!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whoa, you're such a great friend! That's\nREAL\nfriendship! THANKS, TAISHIIIN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Geez, just stop yelling already!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "In any case, I'm glad you placed well.\nNext year\nshould be interesting.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah! It'll be the Japanese Derby at last!\nLet's all\ntry really hard there!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Indeed. I won't hand you the victory that\neasily.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Same here.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All riiight! Let's give it all we've got for\nthe\nJapanese Derby! YEAH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "We'll probably race each other before\nthat.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh? Really?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What about the Classic Triple Crown?\nYou have\nyour eyes on it too, right?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The Classic Triple Crown—a prestigious\n\nachievement requiring a racer to win all\nthree of\nthe Satsuki Sho, the Japanese\nDerby, and the\nKikuka Sho. It's one of\nthe highest honors in\nracing!",
+            "name": "Монолог"
+        },
+        {
+            "text": "The Triple Crown! R-right! Actually, I\nwasn't\nthinking about anything but the\nDerby...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Seriously?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "This is the perfect chance to tell her the\nplan I\nwas about to suggest for next\nyear.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Hey, about that..."
+            ]
+        },
+        {
+            "text": "She's been single-mindedly focused on\nthe\nJapanese Derby, but any racer\nworthy of the\nDerby deserves to prove\nherself in the Satsuki\nSho as well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It'll help her get used to running in the\nbig Classic\nraces too, so the Satsuki Sho\nshould definitely be\non our agenda.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In which case, our first step should be\none of the\npreliminaries leading up to\nthat race...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about entering the Yayoi Sho?"
+            ]
+        },
+        {
+            "text": "The Yayoi Sho...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "As Уиннинг Тикит whispers those words,\nNarita\nTaishin visibly tenses up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Then that'll be where we face off.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh?! Are you entering too?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I won't go easy on you, got it?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I don't care who I'm up against—I'll be\nfinishing\nfirst.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whoooa! You said it! I'm all fired up\nnow! LET'S\nGO, YAYOI SHO!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So with that settled, we begin practicing\nin\nearnest for our next goal!",
+            "name": "Монолог"
+        }
+    ]
+}

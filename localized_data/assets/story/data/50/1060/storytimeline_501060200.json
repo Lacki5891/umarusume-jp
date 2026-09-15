@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of Найс Нэйчер's debut race has\nfinally\narrived.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> \"Debut,\" huh? Sounds so...\nyouthful.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'll probably be talking about \"the good\nol' days\"\nby tomorrow.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You seem relaxed."
+            ]
+        },
+        {
+            "text": "Haha, appearing relaxed is my specialty.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Besides, it's not the debut that matters...\nit's what\ncomes after it.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Just go out there and show off what you've\nbeen working on!"
+            ]
+        },
+        {
+            "text": "Yeah... I'd more than love to do that if I\nhad\nanything worth showing...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But it wouldn't be a Найс Нэйчер race if I\ndidn't\nscrew up on an important day like\nthis.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, I'm sure I'll do just fine! I guess I'd\nbetter be\noff.",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

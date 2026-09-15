@@ -1,0 +1,37 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I beat you, you beat me not! I beat you,\nyou beat\nme not!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп bests Тосэн Джордан with the\nhaughty\ntriumph of a child on the\nplayground! She also\ngets a new clue, so\nthat's nice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They promise to have a rematch on a big\nstage\nnext time. Meanwhile, the\norganizer of the search\nfor Eden and the\nclues remains unknown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Fans congratulate Голд Шипп on her\nsecond\nconsecutive victory at the\nTakarazuka Kinen. I\ncan't be happier\nabout the monumental\nachievement.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're really, really awesome.",
+                "Etched-into-history levels of awesome."
+            ]
+        },
+        {
+            "text": "Голд Шипп is proud of herself, but it\nseems my\npraise isn't enough, so she\ndemands to be\nproperly lauded. It's\nkinda cute!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп is now ablaze. If she gets even\nhotter\nnext year, she could very well\nchar the starting\ngate beyond\nrecognition. Please don't!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп is over the moon. She buys\nred and\nwhite bean buns to celebrate,\nbut only gives me\nthe doughy parts...",
+            "name": "Монолог"
+        }
+    ]
+}

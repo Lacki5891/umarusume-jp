@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...I've lost.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "However, this failure gave me valuable\nhints for\nthe next race.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "There's no time like the present. We\nshould go\nevaluate today's race at once.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You should rest for today, okay?",
+                "We can talk on the way back."
+            ]
+        },
+        {
+            "text": "There's no time like the present. We\nshould go\nevaluate today's race at once.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You should rest for today, okay?",
+                "We can talk on the way back."
+            ]
+        },
+        {
+            "text": "May I ask why? The race is still fresh in\nmy mind...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "We'll have plenty of time to talk about it\ntomorrow."
+            ]
+        },
+        {
+            "text": "Plenty of time, you say? So then, we can\ndiscuss\nour views until we're both\nsatisfied?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Very well. I'll go home and write down\nall my\nthoughts in preparation for\ntomorrow.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yes, before this sensation begins to\nfade...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The following day, Грасс Вандер and I\nhave a\ndeep and thorough discussion\nabout the ill-fated\nrace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can see clearly where my abilities\nstand. I must\nmove quickly to amend my\nshortcomings.",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

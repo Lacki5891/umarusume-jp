@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Can I get the B combo with a salad as\nthe side?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Uh-oh, I'm sorry! Looks like we only have\nthe A\ncombo left, dearie.",
+            "name": "Cafe Lady"
+        },
+        {
+            "text": "What? That's the deep-fried stuff, isn't\nit? In that\ncase...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And the only side left is the bucket of\nfries... But\nyou're a growing girl, so you\nshould eat up!",
+            "name": "Cafe Lady"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oof.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You all right?"
+            ]
+        },
+        {
+            "text": "...Don't ask.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин doesn't look very well...",
+            "name": "Монолог"
+        }
+    ]
+}

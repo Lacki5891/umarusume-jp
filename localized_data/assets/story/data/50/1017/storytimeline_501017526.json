@@ -1,0 +1,104 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Симболи Рудольф and I are training on the\ntrack\nwhen an unexpected visitor\nappears.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah, there you are.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I need to have a word with you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian? What brings you here?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "The director barged her way into the\nstudent\ncouncil office and started\nranting about some\nkind of emergency.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It seemed like a pain, so I figured I'd let\nyou sort\nit out.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I see. I had better take care of this\nimmediately.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm sorry, Trainer, but I need to speak\nwith Brian. I\nshouldn't be long.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "This matter has turned out to be far\nmore\ncomplex than I anticipated.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Addressing it will require some decisive\nmoves on\nthe part of the student council\npresident—which\nis to say, me.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm afraid I need some time to bring it to\na proper\nresolution.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Actually, it might take the rest of the\nday to deal\nwith.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Although, if I were to prioritize only\nthe parts\nthat require my input, I could\nbe done in short\norder.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Take the time to do it right.",
+                "Work smarter, not harder."
+            ]
+        },
+        {
+            "text": "You're correct, of course. Thank you for\n\nunderstanding.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I will spend the rest of the day giving\nthis matter\nmy full attention.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'll see you tomorrow.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Of course. I won't be long.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm back. Sorry to have kept you waiting.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "That was quick."
+            ]
+        },
+        {
+            "text": "I told you I could do my part in short\norder, didn't\nI? Brian and the others will\nstart work on the rest.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Not to worry. I will rejoin them once we\nare\nfinished here.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Now, where were we?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "True to her word, Симболи Рудольф\nmanages to\nnavigate her obligations with\nthe finesse I've\ncome to expect.",
+            "name": "Монолог"
+        },
+        {
+            "text": "True to her word, Симболи Рудольф\nresolves\nДиректор Акикава's emergency\nwithin the day.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're cleaning up after training, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Magnificent.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Look, my fine trainer. The seeker of\ntwilight\napproaches.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> My time... It's far from what\nmy\nwinning equation predicted.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "However, that is precisely why it's so\ninteresting!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Just as I walk the path of might, never\nstraying\nfrom my ideals, she holds fast to\ntheory, never\nstraying from her\nconvictions.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Her acts are worthy of admiration. But\nthey hold\nno candle to my immeasurable\nbeauty.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Thus, my splendor has no equal. Do you\nwish to\nsee it?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "She looks at me, her eyes burning with a\ndesire to\nget back out on the track.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "As the Overlord wishes.",
+                "We should rest for now."
+            ]
+        },
+        {
+            "text": "Hehe... Nothing more need be said when\nit's\nbetween us.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Let us now begin our march down the\nOverlord's\npath anew!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh? You do not wish to see the\nOverlord's\nadvance?",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "You need sufficient energy to advance."
+            ]
+        },
+        {
+            "text": "In other words, you insist these stout\nlegs bide\ntheir time?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Hmm, a logical proposition. I shall tend\nto these\nlegs that traverse the Overlord's\npath with a rose\npetal bath.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I let Opera O ride this surge of\ninspiration and\nhave her do extra\ntraining until she's satisfied.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Opera O rests her body and mind and\ntempers\nher burning heart with a\nsteaming bath.",
+            "name": "Монолог"
+        }
+    ]
+}

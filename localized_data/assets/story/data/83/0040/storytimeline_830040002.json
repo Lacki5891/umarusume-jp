@@ -1,0 +1,198 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Here's your fifty liters of fresh cream.\nThank you\nfor your patronage!",
+            "name": "Sales Clerk"
+        },
+        {
+            "text": "Thanks! See you again soon! ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "I'm free today, so the academy has\nasked me to\nchaperone a few of the\nstudents' trip to the\nfarmer's market.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This cream will help us make an\nabsolutely buono\ncake! ☆",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Oh, I see! As a princess, I hope to learn a\ngreat\ndeal today! ♪",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "I'll make my prince fall head over heels\nover head\nagain with a homemade\nwedding cake!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "That sounds truly buono! ☆ I'll teach you\n\neverything you need to know!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Fifty liters of cream is quite the sight,\ntruth be\ntold.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What are you going to do with all of it?"
+            ]
+        },
+        {
+            "text": "We're going to use it all to make a\nginormous\nwedding cake. 'Cause if\nyou're gonna bake, why\nnot bake\nbig?! ☆",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "As I try to calculate just how big this\ncake is going\nto be...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heyyy! Watch out!",
+            "name": "Farmer"
+        },
+        {
+            "text": "Huh? That's one of the farmers. What's\ngoing on?",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "<i>STOMP, STOMP, STOMP!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aaaah! It's a bull! And it's coming this\nway!",
+            "name": "Каваками Принцесс",
+            "choice_data_list": [
+                "Get out of there!"
+            ]
+        },
+        {
+            "text": "A bull with bloodshot eyes charges\ntowards us.\nThere's no time to hesitate.\nAs I desperately try\nto get the students\nout of harm's way...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, my! What a feisty little fella!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Akebono?! Why are you just standing\nthere?!\nYou'll be sent flying!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "I'll be fiiine! Come on, cutie, show me\nwhatcha\ngot!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Alley-oop!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Хиши Акэбоно grapples the bull straight\non, then\nlifts its massive body up off the\nground!",
+            "name": "Монолог"
+        },
+        {
+            "text": "MOO?! MOOOOO?!",
+            "name": "Escaped Bull"
+        },
+        {
+            "text": "How is she that powerful?! Even the\nbull's\nbamboozled!",
+            "name": "Каваками Принцесс",
+            "choice_data_list": [
+                "Those moves! Are those from sumo wrestling?!"
+            ]
+        },
+        {
+            "text": "Buono. ♪ There, there, Mr. Bull. Be a\ngood boy\nand calm down now.",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Moo...",
+            "name": "Escaped Bull"
+        },
+        {
+            "text": "She's calming it down with a hug!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Sorry for the wait! ☆ I had to take Mr.\nBull back\nto his home!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "That was incredible, Akebono! I feel so\ninspired\nright now!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Maybe one day I'll be strong enough to\nstop an\nout-of-control car with my\nprince inside!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Please! Teach me your ways! Take me on\nas your\npupil!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Sure, no problem! First, if you want to\nget bigger,\nthe hearty hot pot sumo\nwrestlers eat is probably\nthe way to go.",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "After we're done baking, let's celebrate\nyour\ninitiation with some hot pot and\ncake!",
+            "name": "Хиши Акэбоно",
+            "choice_data_list": [
+                "That's so much food!",
+                "Why not train like a real sumo wrestler?"
+            ]
+        },
+        {
+            "text": "I tell them that all that food sounds like\ntoo much\nfor just two people.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, you may be right. I have a pretty big\n\nappetite, but Kawakami might struggle\nwith those\nportions...",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Oh! Why don't we invite everyone from\nour dorm\nto eat with us?",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Great idea! I'll do whatever I can to\nhelp! ♪",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Ooh, I can't wait to cook! Let's go buy\nsome\ningredients on our way back\nhome! ☆",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "It's going to take more than a single\nnight for\nKawakami Princess to reach\nbull-hoisting Hishi\nAkebono's level.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell her that if she's serious, it'd\nprobably be\nbetter to practice some real\nsumo wrestler\ntechniques.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I see... Speaking of which, who taught\nyou your\nmoves, Akebono?",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "Oh, I've always been a fan of sumo. As a\nkid, I'd\nwatch them training on TV, then\ntry to mimic their\nmoves!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Oh, right! I can teach you some of the\neasier stuff\nright now!",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Please do!",
+            "name": "Каваками Принцесс"
+        },
+        {
+            "text": "And so, the two of them sumo stomp all\nthe way\nback to school...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The following day, everyone in Ritto\nDorm is\nclutching their stomachs in pain.\nIt's pretty clear\nthat Хиши Акэбоно went\noverboard with her\ncooking again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I follow after the enthusiastic pair and\nhelp them\npick out ingredients.",
+            "name": "Монолог"
+        }
+    ]
+}

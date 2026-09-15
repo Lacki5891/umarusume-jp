@@ -1,0 +1,89 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Thanks for coming to see me, Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Did you have a good time?"
+            ]
+        },
+        {
+            "text": "Thanks for coming to see me, Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Did you have a good time?"
+            ]
+        },
+        {
+            "text": "Well, <i>duh!</i> Hehe! It's the Derby—how\ncould I <i>not</i>\nhave fun?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Flying down the final stretch through all\nthose\ncheers from the crowd... I wish I\ncould do it again\nand again and again!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It was such a satisfying run. I think\neveryone could\nfeel it! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now that the second race of the Classic\nTriple\nCrown is over, the Kikuka Sho\nshould be next on\nthe docket, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It makes a lot of sense to go for the third\nrace of\nthe crown. The Kikuka Sho isn't a\nbad idea.",
+            "name": "Монолог"
+        },
+        {
+            "text": "However, the place where Марузенски's\n\nperformance will truly shine will be at\nthe end of\nthe year...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Our goal is the Arima Kinen!"
+            ]
+        },
+        {
+            "text": "What? A-are you serious?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "...Heehee. You're something else,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Heehee. You're something else,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You're saying that, with all the seniors\nthere, it'd\nbe the perfect race to show\noff my speed, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, count me in! It sounds like a blast!\nLet's\nshoot for the big one!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "With our sights now set on the Arima\nKinen, the\ncurtain closes on the\nJapanese Derby.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "That was a great race.",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "Yes, it makes me want to keep running...",
+            "name": "Umamusume Classmate"
+        },
+        {
+            "text": "...Марузенски.",
+            "name": "Umamusume Classmate"
+        }
+    ]
+}

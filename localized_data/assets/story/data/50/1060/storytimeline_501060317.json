@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I did it!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I believed in myself, gave it my all... and\ntook first\nplace! First place!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It was a long journey...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I was weak, but I had people who\npushed and\npulled me along until I\nfinally gave chase. I ran\nand ran and\nran...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And now, finally, I'm standing here on\nmy own!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I can confidently compete with everyone\nat the\nArima Kinen!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "At long last!"
+            ]
+        },
+        {
+            "text": "Yep!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I won't run away anymore. I won't betray\n\neveryone's expectations.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I will... win.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I will shine as the star of the Arima\nKinen!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

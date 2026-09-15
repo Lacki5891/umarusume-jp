@@ -1,0 +1,121 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Хиши Амадзон has been feeling off her\ngame\nlately, so she asks me to go to a\nshrine with her.",
+            "choice_data_list": [
+                "I didn't take you as the type to pray for favors."
+            ]
+        },
+        {
+            "text": "What? No, I'm not here for that. It's not\nlike\npraying will miraculously cure me.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I should be looking after my health,\nthat's a\ngiven. I'm just tryin' to keep my\nspirits high.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "See, I'm gonna make a promise to the\ngods.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What kind of promise?"
+            ]
+        },
+        {
+            "text": "A promise that I'll accomplish things with\nmy own\npower and without any divine\nintervention\nneeded.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna promise them that I won't go\nanywhere\nwhen the going gets tough,\nand that I'll train\nharder than anyone\nelse and come out on top!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I can't turn my back on a promise to the\ngods,\nright?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Then I promise to help you win, no matter what."
+            ]
+        },
+        {
+            "text": "All right, let's get to prayin', then.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Clang, clang! Clap, clap!</i>"
+        },
+        {
+            "text": "Hey, you'd better keep your eyes on me\nup there,\n'cause I'm gonna leave all my\nopponents in the\ndust, no matter how\ntough they are!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Phew. Guess this'll have to do. I'm\nfeeling better\nalready... Huh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Rustle, rustle...</i>"
+        },
+        {
+            "text": "I was wondering what all the ruckus was\nabout...\nFigures it'd be you, Ama.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian? What're you doing here?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Nothing. Just some solo training.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Anyway, later.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Solo training, huh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What am I doing, goofin' around when\nBrian's out\nhere runnin' and trainin' so\nhard?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But y'know what? Seeing her has really\npulled me\nout of my funk! I'm startin' to\nfeel like myself\nagain! Let's run back\nhome, full speed!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Maybe me meetin' Brian was a little\nnudge from\nabove!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Meeeow.",
+            "name": "Cat"
+        },
+        {
+            "text": "Oh, it's just a cat. Aren't you a cute li'l—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Mrraaow!",
+            "name": "Cat"
+        },
+        {
+            "text": "Hey, that's my handkerchief!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Come back here!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> What the heck... You're\ntellin' me I\ncan't even catch a cat now?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Looks like Хиши Амадзон is back to her\nnormal,\nenergetic self!"
+        },
+        {
+            "text": "Хиши Амадзон's poor health leaves her at\nthe cat's\nmercy..."
+        }
+    ]
+}

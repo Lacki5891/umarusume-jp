@@ -1,0 +1,102 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер and I stop by the\nshopping district\non our way home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here it is. My favorite flower shop.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Are you going to buy something?"
+            ]
+        },
+        {
+            "text": "Just a few flowers. The empty vase in the\ndorm\nlobby is such a forlorn sight.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "What's a flower vase without flowers? I\nfigured I\ncould pick a few to brighten\nthings up.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Don't you think seeing them every day\nwould help\nto brighten everyone's\nspirits?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I think that's a great idea."
+            ]
+        },
+        {
+            "text": "Hehe. Thank you very much.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I've been very passionate about flower\n\narrangement, ever since I was little.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It feels wonderful that I get to continue\nmy hobby\nhere too.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'd love to see it once you're finished."
+            ]
+        },
+        {
+            "text": "Yes, certainly. I'd like to share my\ninterests with\nyou, after all.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I know! Since you're here, why don't you\ntry\narranging a vase too?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Do you think I can pull it off?",
+                "Let's choose some to decorate my office."
+            ]
+        },
+        {
+            "text": "Of course. Like other traditional arts,\nflower\narrangement is as much a\nphilosophy as a skill.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The essence of such arts lies in the will\nto stay\ntrue to one's own chosen path.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "As long as you keep moving forward,\nyou will\nsurely reach the goal you seek.\nThat is the beauty\nof these traditions.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe. To tell you the truth, it's not all\nthat\ndifferent from racing.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's how I know you'll do just fine,\nTrainer. Let's\nmake something beautiful\ntogether. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's a lovely idea. Flowers are a\nwonderful\naddition to anyone's daily life.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And with different blooms staggered\nthroughout\nthe year, bouquets are an\nexcellent way to enjoy\nthe\never-changing seasons.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You spend a fair amount of time in that\noffice, so\nwe had best put a lot of\nthought into which\nflowers to use.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, I almost forgot about the vase in my\ndorm's\nlobby. Hehehe. There's so much\nto think about. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер is practically walking on\nair as we\npick out flowers together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Encouraged by Грасс Вандер's words, I\nwork with\nher to pick out a selection of\nflowers.",
+            "name": "Монолог"
+        }
+    ]
+}

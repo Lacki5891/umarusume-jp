@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yaaawn...</i>",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "That was quite the yawn."
+            ]
+        },
+        {
+            "text": "What?! Dang it! Have they come\nalready?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The Sandmen must be launching their\nattack!\nThey knock people dead asleep\nand take over\ntheir bodies!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I've been fighting them off in secret all\nthis time...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ngh... But it seems my time has come.\nThe fate of\nthe world is in your hands\nnow, Trainer!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "With that, Голд Шипп lies down on the\nsofa in the\ntrainer's office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Zzz...</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And in seconds, she's out like a light. I\ncan't\ncomment on the Sandmen invasion,\nbut Голд Шип\ndefinitely needs more\nsleЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

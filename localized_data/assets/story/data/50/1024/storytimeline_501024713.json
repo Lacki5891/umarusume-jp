@@ -1,0 +1,113 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I rush Маяно Топ Ган to the infirmary\nafter she\nhurts herself в тренировке.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhh, owwww! This injury's gonna keep\nme\ngrounded for a while...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Just take it easy."
+            ]
+        },
+        {
+            "text": "Yeah, I know...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm sure I'll be in even better shape than\nbefore\nwith you around to nurse me. ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You've got it.",
+                "Immature as ever, I see."
+            ]
+        },
+        {
+            "text": "Eeeee! ☆ Yay!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Okay! First thing's first, you have to take\nmy\ntemperature...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Take your temperature? You're injured, not\nsick."
+            ]
+        },
+        {
+            "text": "Don't sweat the small stuff! My heart's\ngonna beat\nso hard that it zooms right\noutta my chest—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Urk!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "H-huh?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That... really hurt, I think...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Huh?! No way! This is how grown-ups\nshow\naffection!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Weird... The book said that this method\nwould be\na total killer... ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh! Maybe it's because I don't have a\nfever!\nMaybe if I give myself one, it'll\nwork out just\nlike—",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Get. Some. Rest!"
+            ]
+        },
+        {
+            "text": "Mmgrgh... Fiiine.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Don't tell me you're not the type to\nswoon over\nsomething like this.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Well then, what do you like, Тренер?\nWhat can I\ndo to make your heart skip a\nbeat?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Prioritize your health."
+            ]
+        },
+        {
+            "text": "My health? So you're saying that me\nbeing\nhealthy makes you happy?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What?! Really?! Are you serious?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Gotcha! Then I'll rest a ton and get right\nback on\nmy feet!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And then, and then! We can train\ntogether\nagain. ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган gets a bit carried away\nwith her\nroleplay. I look after her until\nshe's back to\nnormal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just as she promised, Маяно Топ Ган\ngets some\nproper rest and resumes her\ntraining in good\nhealth.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Маяно Топ Ган seems a bit\ndisheartened, but\nshe manages to get\nenough rest...",
+            "name": "Монолог"
+        }
+    ]
+}

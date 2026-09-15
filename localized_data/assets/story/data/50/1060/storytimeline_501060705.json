@@ -1,0 +1,282 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After a day out with Найс Нэйчер, the\ntwo of us\nare walking home, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, isn't that City standing over there?\nI wonder\nif she's in the middle of a\nmodeling job.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wow... Even just the way she's standing\ngives off\nan otherworldly aura...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hmmm, I wanna see a little more\nsunshine on your\nface... Let's take five!",
+            "name": "Photographer"
+        },
+        {
+            "text": "Sure.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Hm?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Oh, Nature. What are you up to? With\nyour\ntrainer too, I see.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "We were just heading back ho—"
+            ]
+        },
+        {
+            "text": "Talk about breathtaking! You looked so\ndivine,\nmy hands clasped together\ninstinctively in prayer!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "My feelings go beyond admiration—it's\nworship! I\nfeel so blessed!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Pfft... Haha! Can't say I've heard that one\nbefore.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "There you go, that's the smile I wanted\nto see!\nHey, would you two want to join\nthe photo\nshoot?",
+            "name": "Photographer"
+        },
+        {
+            "text": "You want us to join... a photo shoot?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Um... Hold on now. I don't want to\nbother them.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Do you want to try? You were just going on\nabout how much you admire her, after all."
+            ]
+        },
+        {
+            "text": "Hold on! That was just talk! I can't\npossibly do it!\nI'm no model!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You never know unless you try.",
+                "Then I'll do it!"
+            ]
+        },
+        {
+            "text": "Hold on! That was just talk! I can't\npossibly do it!\nI'm no model!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You never know unless you try.",
+                "Then I'll do it!"
+            ]
+        },
+        {
+            "text": "Th-that might be true, but the fact that\nit's\nimpossible for me is the whole reason\nI <i>admire</i>\nmodels!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I totally understand what you're\nsaying. They\nsay the first step is the\nhardest.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "In that case, leave it to me. I've got your\nback.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Break a leg!"
+            ]
+        },
+        {
+            "text": "Really? Are you actually serious?! I\nreally don't\nknow if I can do this!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And so, the photo shoot begins.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haha, you're even stiffer than me. Let's\nthink\nabout something funny and relax.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "S-something funny?! I don’t have that\nkind of\nmental capacity left in me!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "(This sounds like a job for the master of silly\nfaces—me!)"
+            ]
+        },
+        {
+            "text": "Pffft!",
+            "name": "Nature and City"
+        },
+        {
+            "text": "Hahaha! How are you even doing that?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Amazing! That's the smile I wanted to\nsee!",
+            "name": "Photographer"
+        },
+        {
+            "text": "We're finally finished...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Good work! And thanks for the help.\nThe\nphotographer was really impressed.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You both looked amazing."
+            ]
+        },
+        {
+            "text": "Uh-huh, thanks. And you're good at\nflattery, as\nalways.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Heh... Well, I'll send you a copy once\nthe\nmagazine releases. You can check\nhow it turned\nout then.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Ohhh... This must be the magazine.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wait, why's our photo is so big?! I don't\ndeserve\nsuch a huge space!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Looks like you're trending online too. See?"
+            ]
+        },
+        {
+            "text": "No, don't show me! I don't want to see\nwhat all\nthe haters are—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The screen is full of comments praising\nGold City\nand Найс Нэйчер's beautiful\nsmiles... and wishing\nfor their success.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Th-that's enough. I get it, I get it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Siiiigh...</i> Is it hot in here or is it me?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Let's shine on the track too."
+            ]
+        },
+        {
+            "text": "...Yeah, yeah.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Let's go, Trainer! Let me see you strike a\npose!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And so, the photo shoot begins.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So that's why you're Nature's trainer,\nhuh? You've\ngot some skill.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Why, thank you!"
+            ]
+        },
+        {
+            "text": "Heh, now you've got <i>me</i> motivated.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Amazing! That's the smile I wanted to\nsee!",
+            "name": "Photographer"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Great job, Trainer. How was your first\nmodeling\nexperience?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nerve-racking."
+            ]
+        },
+        {
+            "text": "Oh, really? I think you did pretty well.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And City, you killed it, just as expected.\nIt's like\nyou transformed the whole space\nwith your\npresence.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...You really are something else.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's exactly what I was going to say to\nyou.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What do you think we were talking\nabout during\nthe shoot? It was you,\nNature. The entire time.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Um... What do you mean?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It just kind of ended up that way..."
+            ]
+        },
+        {
+            "text": "What?! All those smiles came from\ntalking about\nme?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's so... embarrassing!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yeah, I can see that. But, hey, it sure got\nme\nmotivated. I'm looking forward to\ncompeting with\nyou.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Guess you could say we've got a special\nbond\nnow. Anyway, see you on the\ntrack.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Ugh! Nooo!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Looks like we've got another race to win!"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> You have no idea how I feel...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But all right, I get it. I'll give it the good\nold\ncollege try and try to shine in my\nown way.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер seems more enthusiastic\nthan usual\nat training after that.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Найс Нэйчер seems more enthusiastic\nthan usual\nat training after that.",
+            "name": "Монолог"
+        }
+    ]
+}

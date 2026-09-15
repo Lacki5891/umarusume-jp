@@ -1,0 +1,112 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One fine weekend while on a shopping\ntrip, I see\ntwo familiar faces...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's okay, right? Just a little won't hurt,\nwill it?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "This... is not right... You cannot... get\naway with\nsuch...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "text": "Oh, heya! Perfect timing. I was just\ntelling\nMcQueen about my go-to cake\nshop.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You must help me, I beg of you! Nature\nis trying\nto seduce me with sweet\ntemptations!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Seduce?! I just was caught up in singing\nthe\npraises of my favorite place, is all.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "In fact, they're apparently running an\n\nall-you-can-eat event today! Good\nreason to pop\nin, right?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And, well, you're always working so\nhard. A little\ncake won't hurt.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "B-but... it's all-you-can-eat! How can I\n<i>possibly</i>\nresist those cakes?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Look at that frosting! It's like snowdrops\n\nblooming in a field covered in the\nsoftest powder\nsnow!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "The fruits are the jewels that adorn it,\nwrapped in\na blanket of golden syrup\nthat is the breath of\ncivilization...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Gulp...</i> What. A. Wordsmith.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Listening to you is making <i>me</i> hungry!\nDang... So\n<i>this</i> is sweets seduction!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Cutting weight is not going to be so sweet.",
+                "You'll be fine. Just a little won't hurt."
+            ]
+        },
+        {
+            "text": "Listening to you is making <i>me</i> hungry!\nDang... So\n<i>this</i> is sweets seduction!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Cutting weight is not going to be so sweet.",
+                "You'll be fine. Just a little won't hurt."
+            ]
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "The Two"
+        },
+        {
+            "text": "W-well, indulging in just <i>one</i> delicious\ntreat\nshould be luxury enough for us,\nright?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Quite right...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Y-yeah... this is all our efforts bearing\nfruit.\nYeah... That's it.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I too have made up my mind. To refuse\nsuch an\nopportunity would be\ndisrespectful to the cakes.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Are you ready, Nature? Let's dig in with\nthe same\nspirit we would if we were\nsprinting down the\nslopes of Yodo!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Right! Let's get to it!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Mmmmm! It's sooooo good!",
+            "name": "Nature and McQueen"
+        },
+        {
+            "text": "And so, they enjoy the cakes to their\nhearts'\ncontent.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, they enjoy the cakes in\nmoderation.",
+            "name": "Монолог"
+        }
+    ]
+}

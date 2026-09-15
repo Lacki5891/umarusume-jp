@@ -1,0 +1,27 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Right. Time to go.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин seems to be in high spirits\ntoday!",
+            "choice_data_list": [
+                "You look pumped!"
+            ]
+        },
+        {
+            "text": "Huh? Not really... I'm the same as usual.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm not some hotheaded idiot like\nTicket. It's a\nwaste of energy to get all\nworked up.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...But I'll win. Just you watch.",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

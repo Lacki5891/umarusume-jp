@@ -1,0 +1,123 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ouch... Letting my mind drift during\npractice\nwasn't my smartest move. I need\nto focus on\nwhat's happening in front of\nme.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I won't be doing that again. All right,\nback to\ntraining.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ow!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Does it still hurt?"
+            ]
+        },
+        {
+            "text": "I can't say it doesn't... But this is nothing\n\ncompared to the injury I suffered when I\nwas little.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm sure it'll be fine once we wrap it up.\nNow, let's\nnot waste any more time.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You need to take a break.",
+                "I'll stop you if it looks like you're pushing\nyourself, okay?"
+            ]
+        },
+        {
+            "text": "I'm sure it'll be fine once we wrap it up.\nNow, let's\nnot waste any more time.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You need to take a break.",
+                "I'll stop you if it looks like you're pushing\nyourself, okay?"
+            ]
+        },
+        {
+            "text": "But my rivals will get even farther ahead\nif I don't\nkeep practicing.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "And you think keeping up with them is worth\nrisking a major injury?"
+            ]
+        },
+        {
+            "text": "Well, I... I...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I guess I can't argue with that.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If I continue practicing while injured, it's\nfar more\nlikely that I'll seriously hurt\nmyself and be forced\nto lose even more\nprogress...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yet despite understanding that\nlogically, I just\ncan't... <i>Sigh...</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's fine by me!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I treat her injury with some basic first aid\nand\nkeep a close eye on her condition."
+        },
+        {
+            "text": "Phew... It feels a lot better. Thank you.\nShall we\nhead to the track?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ow...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The area around the injury is getting a\nlittle\nswollen, but it's all right. I just\nneed some\npainkillers, and I'll be—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "No. No more running. You promised, remember?"
+            ]
+        },
+        {
+            "text": "B-but!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Urgh... That disapproving glare of yours\nhurts me\nfar more than my actual injury.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It feels fine when I run on it. I should be\nable to\nkeep training.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Don't push yourself too hard."
+            ]
+        },
+        {
+            "text": "I won't. I know it's still not fully healed,\nand I\ndon't want it to get worse, so I'll\nbe careful.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You've always believed in me... and met\nmy\ndemands accordingly. Now it's my\nturn to heed\nyour advice.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Okay! I'll start with about ten percent of\nmy\nstrength and see how I fare.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Fine... I'll go get it looked at.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Training goes just fine, and her injury\nheals with\nno problems!"
+        },
+        {
+            "text": "I'm sorry... I'll do as you say and take a\nbreak.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

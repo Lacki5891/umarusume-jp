@@ -1,0 +1,62 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with\nWinning\nTicket...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hahaha! It's so fun to hang out with you,\nTrainer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...Hmm?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaahhhh! Traineeer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "Following her gaze as she yells, I see a\nbunch of\nclaw machines packed with\nplush toys.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I just realized something terrible.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm happy as can be, 'cause I've got you\nto hang\nout with...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But what about those cuties? If nobody\ntakes\nthem home, won't they be stuck in\nthere forever?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Huh... I guess so."
+            ]
+        },
+        {
+            "text": "Waaaah! That's so <i>saaad!</i> We have to\nsave them!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Now that she's grown attached to the\nplushies, I\ncan see her crying over their\nlonesome fate for\nthe rest of the day...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Got it. I'll save them."
+            ]
+        },
+        {
+            "text": "Woohoo, Trainer! I'll be cheering you on!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

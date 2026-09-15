@@ -1,0 +1,216 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Фудзи Кисэки runs into Curren\nChan by\nchance while she's out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What a coincidence meeting you here,\nCurren.\nWhat are you up to?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm here filming a lil' something for\n\nUmastagram! ☆ Everyone's been raving\nabout the\ndesserts at this place.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You're on Umastagram too, right?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Why don't we do this together, then?\nYour trainer\ncan join us too, of course! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hehe, sounds like a plan. I can't wait to\ntry the\nfood. Everything on the menu\nlooks gorgeous.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Yay! ♪ C'mon, let's get a selfie together\nreal\nquick!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Flash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh my gooosh... Fuji, you are just too\n\nawesome! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I mean this! Look, you've angled yourself\n\nperfectly to the light and your smile is\nspot-on!\nYou've even flawlessly matched\nyour energy to\nmine!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ooh, you don't call yourself\n@DREAM_MAKER\nfor nothing! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ahaha! Don't think I don't notice and\nappreciate\nthe comments you leave on\nmy posts, @Curren.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки's Umastagram account,\n\n@DREAM_MAKER, is filled with\ncarefully curated\npictures that look like\nthey're straight out of a\nwhimsical fairy\ntale.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I secretly follow her, so I know exactly\nwhy her\naccount is so wildly\npopular—her photos really\nseem to draw\none into a land of dreams.",
+            "name": "Монолог"
+        },
+        {
+            "text": "By the way, why don't you have an\naccount on\nUmatter yet?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm sure your fans would love to see the\n\"real\" you\nin a more casual, day-to-day\nsetting! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I suppose...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "\"Do you wish to see who I am? Strip me\nof my\ncostumes and masks, wrench me\nfrom the stage,\nand there I shall be, the\ntruest form of myself.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "\"But I cannot bare myself to you. Nay, I\nmustn't!\nMy true self must be hidden,\nlest its cloying\nsweetness forever trap\nyou in a waking dream.\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "\"And if such tragedy were to occur... My\nlove, I\nwould never be able to bring\nmyself to set you\nfree...\"",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Flash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow... That was a good shot.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "That was really dramatic... But don't you\nthink\nyou were laying it on a bit thick?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I always give what my audience wants,\nbut I would\nnever choose to destroy the\nillusion and wake\nthem from their dream.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That is one thing I'll never do, no matter\nhow\nmuch they want it. I have my pride\nas an\nentertainer, after all.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Fuji...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Besides, Umatter is such a casual\nplatform, I'm\nafraid I'll accidentally\nbreak character while\nposting on it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm but an inexperienced student, and I\nmust take\ncare not to get carried away\nand ruin my image!\nHehe!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hmm... If you say so. But you've given\nme some\nfood for thought! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "On our way back, Фудзи Кисэки starts some\nsmall\ntalk with me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "By the way, do you use social media?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Yeah, but I only lurk.",
+                "Well, I have a blog I use to keep a record of\nthings..."
+            ]
+        },
+        {
+            "text": "So you <i>do</i> use it! Could it be you also\nfollow me\non Umastagram?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I do, actually."
+            ]
+        },
+        {
+            "text": "Really? I had no idea!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What interesting information indeed! ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I forget all about our conversation, but a\nfew\ndays later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "OMG! I literally CAN'T with Fuji's post\ntoday!",
+            "name": "@Dreamer4385"
+        },
+        {
+            "text": "Nooo! I want to hold her hand!",
+            "name": "@PrisonerSheep21",
+            "choice_data_list": [
+                "(What in the world?!)"
+            ]
+        },
+        {
+            "text": "Wow, you run a blog? What are you\nkeeping a\nrecord of?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Training results and such, mainly."
+            ]
+        },
+        {
+            "text": "I tell her how I collate all the things I've\nlearned\nand noticed, and use it as a kind\nof record book.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Would it be all right if I looked through\nit?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I suppose..."
+            ]
+        },
+        {
+            "text": "My blog isn't the most exciting thing in\nthe world,\nso I'm a bit embarrassed to\nshow her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow... I had no idea you were so...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "So what?"
+            ]
+        },
+        {
+            "text": "Nothing, never mind. I just feel even\nmore\nmotivated to live up to your\nexpectations now,\nthat's all.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Right! Let's hurry back so we can rest up\nfor\ntomorrow's training!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки has posted an absolutely\nbreathtaking\nphoto that seems to\nscream, \"Come, take my\nhand.\" The stats\non the picture are downright\nscary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She lets out a clear, ringing laugh, and\nwe\ncontinue heading home.",
+            "name": "Монолог"
+        }
+    ]
+}

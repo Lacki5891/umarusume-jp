@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I'm out and about with Mejiro\n\nMcQueen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My, look at that, Trainer. What an\nadorable little\nplushie.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I follow Мэдзиро МакКуин's gaze and see\n\nUmamusume plushies on display as\nprizes for a\nclaw machine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин seems to have really\ntaken a\nshine to them. She stares\nintently.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you want one?"
+            ]
+        },
+        {
+            "text": "N-no, of course not. I was merely a bit\nintrigued\nby it.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Besides, this game looks difficult. I\nwouldn't be\nable to win.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Then I'll win it for you."
+            ]
+        },
+        {
+            "text": "What?! You? A-are you sure?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Uuugh! I blew it!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "There's always next time!",
+                "There's no need to beat yourself up!"
+            ]
+        },
+        {
+            "text": "Yeah! Just 'cause I lost this time doesn't\nmean I'll\nstay down forever!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'll win the next one and treat my little\nsister back\nhome to a mountain of\ndelicious white rice!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But just rice won't cut it! I'll give her\nsome yummy\npickled daikon radish for a\nside as well!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "All right, Trainer! Time to get me a\nboatload of\ndaikon radishes so I can\npickle 'em all!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That might be true, but still!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "My little sis is still waiting for me back in\nmy\nhometown! I can't go back\nempty-handed!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...Oh, I know! I'll catch a kappa for her as\na\nsouvenir!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You know what that means, Trainer! We\ngotta get\nsome cucumbers for bait!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We go to the shopping district, buy\nsome daikon\nradishes and yellowtail, and\nmake a nice meal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп and I head to the shopping\ndistrict,\nbuy ten cucumbers, and then\neat them—lightly\nsalted.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm preparing for my training session with\nEl\nCondor Pasa, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Buenos días!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Nothin' beats a quick run before\ntraining!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Don't you think you're running a little too\nmuch?"
+            ]
+        },
+        {
+            "text": "There's no such thing as too much! I\nwanna run\nmore and more!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Vamos, Trainer! Let's get to it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса is always running at full\nstrength\nwithout rest, so I tell her that\nconserving her\nenergy is also essential.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... So just recklessly running isn't\ngonna cut\nit, huh? I guess that makes\nsense.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Thanks for the advice! I'll do my best to\nput it to\npractice!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hopefully, the message got through to\nher...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Finiiished! Ten laps down, and I can\neasily do\nanother ten!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ahaha! Want to run a bit more, then?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...I want to, but I should probably call it\nfor now.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "What? Why?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hmm... Well, I think that's what my\ntrainer would\nwant.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ahhh...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe. You've changed, El!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That's right! I'm gettin' better and better\nby the\nday!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Learn, run, and get stronger! That's El\nCondor\nPasa for ya!",
+            "name": "Эль Кондор Паса"
+        }
+    ]
+}

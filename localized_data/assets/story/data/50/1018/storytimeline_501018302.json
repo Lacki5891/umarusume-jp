@@ -1,0 +1,230 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Эйр Грув and I head out to a\nstore to\nbuy some supplies for my office.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? What's that?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "How about you? The elegant\nUmamusume over\nthere! Care to try your\nluck?",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Now that I think about it, we did receive\na raffle\nticket while shopping earlier,\ndidn't we?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm not particularly interested in the\nrewards...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "However... this <i>could</i> be considered a\nseasonal\nactivity. In which case, it would\ngo against my\nvalues <i>not</i> to participate.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yes... I suppose we may as well give it a\nwhirl.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You've got this!"
+            ]
+        },
+        {
+            "text": "I don't really need your support for\nsomething\nlike this, but okay.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув gives the raffle machine a\npowerful\nspin!",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I... won?!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Heh... Everything I do, I do to the best\nof my\nabilities, but I didn't actually\nexpect to win this\none.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A hot spring vacation ticket... Quite the\n\ngrandiose prize.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(Hold on...)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(I was the one who spun the lever, but\nwe were\noriginally given that raffle\nticket while buying\nsupplies for the\noffice...)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(So who does this actually belong to?)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(Who should have the privilege of\nredeeming it?)",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You look like something's troubling you."
+            ]
+        },
+        {
+            "text": "...It's nothing. I was just wondering who\nthe\nrightful owner of the prize is.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You can hold onto it for the time being.\nI'll tell\nyou when I determine how we\nshould use it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, well—this <i>does</i> look high quality. I\ncan see\nwhy they call it \"deluxe.\"",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now the question is, how should we\nflavor it?\nHmm...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I've got it. Let's do another round at the\nstores.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Why?"
+            ]
+        },
+        {
+            "text": "Isn't it obvious? You need the perfect\n\ncombination of flavors for a delicacy like\nthis.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I think this would benefit from some\ndemi-glace\nsauce.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We'll get the highest quality ingredients\nand\nmake a sauce to match our prize.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh... Not bad at all.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A number of students were telling me\nthat they\nwished to practice their\ncooking.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm sure they could use a gift like this.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Let's go. Help me carry everything.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... Not awful.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Even a single carrot can unlock many\npossibilities\nin the kitchen.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It can be used for a salad, for stir-fry, for\njuice...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Tell me, Trainer—what would you make\nwith it?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "A mere consolation prize...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No matter. Luck-based games result in\nmore\nlosers than winners.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's why in real competitions, we must\nrely on\nskill and talent, not luck alone.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Heh... Imagine learning that from a pack\nof\ntissues...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув stares at the pack of tissues,\nlooking\nslightly upset.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув forces the ticket into my\nhands,\nleaving it in my care.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув and I talk about our favorite\ncarrot\ndishes as we head back.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So we go around the stores once more to\ncook up\na sauce fit for the meal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув looks satisfied as we haul the\nmassive\namount of carrots back to the\nacademy.",
+            "name": "Монолог"
+        }
+    ]
+}

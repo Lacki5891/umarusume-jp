@@ -1,0 +1,59 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "That was intense, Марузенски!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "It really was!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "How does it feel to run in such a famous\nrace?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Running with that great group of\ntalented\nathletes was such a blast!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ah, Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "That was the most fun I've seen you have."
+            ]
+        },
+        {
+            "text": "Ah, Trainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "That was the most fun I've seen you have."
+            ]
+        },
+        {
+            "text": "Heehee! It's partly because I ran with so\nmany\ngreat racers...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But mostly, I felt like I really succeeded\nat making\neveryone want to go after\nme! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I do believe I'm going to enjoy running\nnext\nyear—or rather, next year and all\nthe years after!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now that this year's final race is over, it's\ntime for\nthe final <i>drive!</i>",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's hit the road and finish the year off\nright!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The Arima Kinen comes to a close for\nМарузенски\nafter a very satisfying race.",
+            "name": "Монолог"
+        }
+    ]
+}

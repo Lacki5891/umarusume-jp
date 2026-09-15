@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ngh... I can't believe I've been defeated\nonce\nagain...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm such a disgrace! A shame to the title\nof\nEmpress!",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Hold onto that feeling and let it propel you\nonward.",
+                "What's done is done."
+            ]
+        },
+        {
+            "text": "The only thing I feel right now is regret.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "However, I refuse to let myself dwell on\nthis\nfailure.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Forget what I just said. I lost my\ncomposure and\nspoke too soon.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Hmm, it is as you say. No matter how\nmuch I\ncomplain, the crowd saw my poor\nperformance.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "My failure will remain forever, no matter\nhow\nmuch I wish otherwise.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We'll make them all forget by winning the next\none!"
+            ]
+        },
+        {
+            "text": "A victory that supersedes this loss? A\nwin\noutstanding enough to trivialize this\ndebacle?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Heh... Such childish logic.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Actually, I'm the one acting childish by\ndragging\nalong this failure like some\nkind of ball and chain.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "We're training as soon as we get back. I\nwon't let\nthis get me down!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll hold onto this regret and secure\nvictory!",
+            "name": "Эйр Грув"
+        }
+    ]
+}

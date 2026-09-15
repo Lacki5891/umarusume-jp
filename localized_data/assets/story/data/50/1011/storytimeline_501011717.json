@@ -1,0 +1,83 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер looks like she's on the\nbrink of a\nburnout, so I bring her to the\ninfirmary to rest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sorry you had to go so far out of your\nway for\nme, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You should take some time off to rest as\nwell.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Now, time for some shut-eye.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh? Goodness me. Where am I?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Trainer doesn't seem to be here. I\nwonder what's\naround.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh? Is that a full tea set? It even\nincludes\ntop-grade gyokuro tea leaves...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "This place is so tranquil, I should take a\nmoment\nto relax.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "The caress of the breeze... The freshness\nof the\nair... The beautiful sky stretching\nendlessly\nabove...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe. Now that I've calmed down, I\nrealize how\nsurprisingly pleasant this\nplace is. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ah! Was I... dreaming?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What did you dream about?"
+            ]
+        },
+        {
+            "text": "Hehe. It was an incredible dream. I was\nin this\nlovely place drinking tea.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That must be why I feel so rejuvenated.\nIf only I\ncould take you there, Trainer. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh? Oh, dear. What happened to the\ntea?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Tea?"
+            ]
+        },
+        {
+            "text": "I was certain I was drinking a fresh brew\njust a\nmoment ago... But this is the\ninfirmary...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So it must have all been a strange\ndream, then.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Judging by her face, I'd say Grass\nWonder is back\nto her usual self.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems that Грасс Вандер's nap was\nless than\nrestful.",
+            "name": "Монолог"
+        }
+    ]
+}

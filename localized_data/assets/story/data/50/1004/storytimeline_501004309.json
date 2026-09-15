@@ -1,0 +1,111 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "That was an outstanding race,\nМарузенски!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "That's why we call you the Hot Rod!\n\nCongratulations on first place!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Thanks a lot! Your cheering helped\nmake it a\ngreat race!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll be leading the pack in the next one\ntoo, so\nkeep those cheers coming,\nhomies! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hahahaha!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Why are they laughing? Is calling\npeople\n\"homie\" not hip anymore?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, Trainer! Did you catch my flawless\nvictory?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Yeah, what an amazing run!"
+            ]
+        },
+        {
+            "text": "Hey, Trainer! Did you catch my flawless\nvictory?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Yeah, what an amazing run!"
+            ]
+        },
+        {
+            "text": "Hehe! You thought so too, huh? ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hehe! You thought so too, huh? ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's thanks to Rudolf that the race was so\nexciting,\nthough.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That intensity I felt during our race... I\ndefinitely\nwant to feel it again.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I hope for the same.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That was a brilliant race, Марузенски.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Hehe, thanks! You were great, too!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You said that you wanted to show the\nyounger\nstudents something worth\nchasing after, correct?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I didn't realize I would be shown\nsomething that\neven <i>I</i> would want to\nchase after...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Let's meet on the turf again someday.\nNext time,\nit will be my turn to show\n<i>you.</i>",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Absolutely! We'll keep pushing each\nother\nforward, as rivals!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Precisely!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "After an admirable performance against\nSymboli\nRudolf, our next goal is the\nYasuda Kinen!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Марузенски was...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yeah...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She was amazing...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yeah...",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

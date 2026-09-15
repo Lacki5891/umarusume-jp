@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ahaha! This is incredible! I can't believe\nyou were\nable to scout so many talented\nponies!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You might have a real knack for\nproducing plays.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Oh, you're exaggerating."
+            ]
+        },
+        {
+            "text": "No need to be humble. Hark—can't you\nhear?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The audience is cheering loudly for your\nskilled\ndirection.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Now, it's time for the curtain call! Hold\nhands,\neveryone. The curtain is rising!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

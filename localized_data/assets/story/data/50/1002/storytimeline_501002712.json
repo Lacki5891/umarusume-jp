@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Сайленс Судзука hasn't come to today's\ntraining\nsession. I decide to go search for\nher.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Groan...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The long and agitated groan I hear is\ncoming from\nСайленс Судзука. I find her\ndistressed, pacing\naround in\ncounterclockwise circles.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just <i>how</i> am I going to manage?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I have an English test tomorrow. I've\nbeen warned\nabout my poor grades\nrecently...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So, I was wondering if there was a way to\nstudy\nfor the test while I run...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You know training's already started, right?"
+            ]
+        },
+        {
+            "text": "What? Really? Already?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She looks genuinely surprised. I tell her\nto\nprioritize her studies today.",
+            "name": "Монолог"
+        }
+    ]
+}

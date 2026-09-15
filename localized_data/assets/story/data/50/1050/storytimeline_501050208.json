@@ -1,0 +1,101 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After seeing Нарита Таисин off to her\nprerace\nweigh-in on the day of the\nArima Kinen, I sit\nalone in the waiting\nroom.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Knock, knock.</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Yes? Come in."
+            ]
+        },
+        {
+            "text": "Um, excuse me... Would you happen to\nbe Narita\nTaishin's Тренер?",
+            "name": "???"
+        },
+        {
+            "text": "Pleased to meet you. I'm Taishin's\nmother.",
+            "name": "Taishin's Mother",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "An older Umamusume who's the spitting\nimage of\nНарита Таисин bows to me while\nI stare at her in\nshock.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Once my surprise wears off, we chat\ntogether for\na little.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She explains that while most racers are\nborn in\nspring, Нарита Таисин was born\nvery late, which\ncould be why she's so\npetite.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Because of this, her mother was never\nable to\nproperly cheer her on due to her\nfear that Narita\nTaishin might get injured\nin a race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yet Taishin insisted on racing. And one\nday when\nher mother apologized to her\nfor her small\nstature, Taishin became\nfurious.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Таисин's mother proceeds to hand\nme a\nbouquet of flowers and asks me to\ngive it to her\ndaughter.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Please don't tell her who they're from.\nShe won't\naccept them if she knows I'm\nthe one giving them\nto her.",
+            "name": "Taishin's Mother"
+        },
+        {
+            "text": "Still, I wanted to give her all my support\nin\ntoday's race. It's the least I can do.",
+            "name": "Taishin's Mother"
+        },
+        {
+            "text": "I'm back.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh? What's with the flowers?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Th-they're from a fan! It's for good luck!"
+            ]
+        },
+        {
+            "text": "Uh-huh...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Do you two take me for an idiot? And by\n\"you\ntwo,\" I mean you and my mom.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "How'd you—"
+            ]
+        },
+        {
+            "text": "Remember how I told you that my family\nruns a\nbusiness? Well, they run a flower\nshop.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I can tell where these are from just by\nlooking at\nhow they're wrapped.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whatever. It doesn't matter if my mom's\nwatching\nor not.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I run for me and nobody else.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All I gotta do is run and win.",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

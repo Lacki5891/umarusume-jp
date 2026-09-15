@@ -1,0 +1,206 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One morning, while taking a stroll\nthrough town...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Big Bro! Come here, I want you to\nhear this\ntoo!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "Oh, Big Sis! Come here, I want you to\nhear this\ntoo!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "Ehehe... So, I actually wanna go abroad...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I saw her looking at travel brochures\nquite\nintensely. As a first-rate\nUmamusume, it's my duty\nto reach out to\nyounger students who have a lot\non their\nminds.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Not only that... I certainly understand\nthe desire\nto run internationally.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm pretty that sure that if you apply, the\n\nacademy will even prepare a hotel for\nyou. You\ncould even demand a first-rate\nhotel. Ohohoho!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wow! You sure know your stuff, King! I\nguess\nfirst-rate Umamusume know\neverything!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'd really love to sit down with you and\npick your\nbrain. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohohoho! You're a bright one! I <i>am</i> a\nfirst-rate\nUmamusume!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "All right. I'll cancel my plans and give\nyou two a\nspecial lecture! Let's go\nsomewhere we can talk!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wow! Are you sure?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Of course. I'm a first-rate student, after\nall! It's\nnatural for me to treat the\nyounger generation to\na tasty meal now\nand then. ♪",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "I think that's my job, actually..."
+            ]
+        },
+        {
+            "text": "Come now. Don't you worry either. This\nis my gift\nto an adorable junior. ♪",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Excuse me! We'd like to order, please!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll have a creamy chocolate latte! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Coming right up.",
+            "name": "Staff"
+        },
+        {
+            "text": "So, is there anywhere specific you'd like\nto go? If\nthere is, I can put you in touch\nwith someone...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hm... I'm thinking maybe somewhere in\nAsia.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hmm, not a bad choice. Most\neverywhere is close,\nso you don't have to\nworry about jet lag. A\nreasonable choice\nfor your first trip abroad.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I've been thinking about going to Hong\nKong\nmyself. Not right now, but\nsometime.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wow, what a coincidence! I was just\nthinking\nabout how much I wanted to go\nthere!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Last time, I went 'cause I was invited, so I\nthought\nit'd be nice to plan a trip\nmyself.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh? So you've been there before?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Yes. Fans there were buzzing about how\nthey\nwanted to meet me, so I put on a\nsmall meet and\ngreet.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Well, the fans actually did all the\npreparation for\nme... Oh, I almost forgot!\nI have a pic.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wha?! Are they <i>all</i> your fans?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The picture shows Каррен Тян together\nwith\nhundreds of fans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "W-wow... It's amazing that you can hold\nevents\nlike that...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hm... But I think I'd like to go on an\nofficial tour\nthis time...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "That's the power of Curren!",
+                "You really know how to put things into motion..."
+            ]
+        },
+        {
+            "text": "Hm... But I think I'd like to go on an\nofficial tour\nthis time...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "That's the power of Curren!",
+                "You really know how to put things into motion..."
+            ]
+        },
+        {
+            "text": "Ah... I wouldn't call it power so much as\nbeing\nvery active in my community!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Besides, if I'm powerful, that makes King\neven\nmore powerful! She had an amazing\nrace recently!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hey, King? Next time, will you teach me\nyour\ntraining methods too? ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "S-sure...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Here's your creamy chocolate latte. I'll\nset it down\nright here.",
+            "name": "Staff"
+        },
+        {
+            "text": "Wow! It looks so good! Thank you,\nKing! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Ehehe, really?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Everything is about timing and seizing\nyour\nmoment quickly. It's the same in\nracing, don't you\nthink?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...H-hey... Curren?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, so you think so too? Ehe. Two\nstrong\nsprinters like us really do think\nalike, huh? ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Could you tell me a little more about\nwhat you\nwere talking about earlier? For\nfuture reference,\nof course.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But of course! ♪ Let's talk a bunch until\nmy\nchocolate latte comes. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And just like that, the teacher and\nstudent switch\nroles. I guess seizing the\nmoment really <i>is</i> what's\nimportant!",
+            "name": "Монолог"
+        },
+        {
+            "text": "However, the tremendous bombshell\nforce from\nthe news of the Hong Kong\nmeet and greet is so\ngreat that King\nHalo and I remain shaken for the\nrest of\nthe gathering.",
+            "name": "Монолог"
+        }
+    ]
+}

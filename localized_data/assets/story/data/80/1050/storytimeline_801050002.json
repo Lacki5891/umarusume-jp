@@ -1,0 +1,122 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's almost time for curfew, but the lights\nin the\ngym are still on, so I go to\ninvestigate what's\ngoing on.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right. Done with the barbell. Next up\nis fifty\nleg presses.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Hey, curfew's coming up pretty soon."
+            ]
+        },
+        {
+            "text": "So? I'm in the zone here, so don't bother\nme.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Okay, just don't be late...",
+                "Don't overdo it."
+            ]
+        },
+        {
+            "text": "So? I'm in the zone here, so don't bother\nme.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Okay, just don't be late...",
+                "Don't overdo it."
+            ]
+        },
+        {
+            "text": "Shut up. Like I need telling.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Heeeey! Taishiiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ugh. Another member to add to the\nrabble. Just\nwhat I need.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We didn't get to play the funny-face\nversion of\nrock, paper, scissors at lunch,\nso let's hurry back\nand play it now!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Will you stop with that?! I'm not gonna\nplay it, no\nmatter how much you run\nafter me and pester me\nabout it!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ooh! If you want me to run after you,\nthat must\nmean you wanna play tag\ninstead! Okay, get\nready, 'cause I'm\ngonna catch ya!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What?! That's not what I even—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ready, set, GOOOO!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, come on!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Who do you think I am? I know how to\nwatch my\nlimits just fine!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Suddenly, I notice an open notebook\nunder\nНарита Таисин's training\nequipment. It's filled with\nmeticulously\nplanned exercises.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey! Who told you you could look at my\n\nnotebook?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "This is incredible!"
+            ]
+        },
+        {
+            "text": "Hmph. It's just what I have to do to make\nsure I\nwin.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I have to work hard to make up for all\nthe talents\nand attributes I wasn't\nblessed with.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Waaaah! That's so moviiing!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "text": "Ugh, not you again, Ticket! Why are you\nalways\nbursting into tears?! It's so\nannoying!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I came—<i>hic!</i>—to get you, but after\nhearing your\nstory... Waaah! You're so\namazing, Taishiiiin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You're so cool, but I'm worried you're\npushing\nyourself too hard! Don't overdo\niiiit!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah, yeah, okay. I got it. There's no\nway I can\nfocus like this.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин dashes off with terrifying\nferocity,\nleaving Уиннинг Тикит in her\ndust.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look, I'll go back now, so stop crying!",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

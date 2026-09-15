@@ -1,0 +1,103 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Уиннинг Тикит seems unwell, so I take\nher to the\ninfirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sorry, Trainer... I'll rest well and make\nsure to get\nbetter.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Okay, good ni—",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Zzz... Snore...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Gah! Wait... huh?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wh-where am I? Why am I here?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It sure is a pretty place, though! The\ngrass is\nrustling, the breeze is gently\nblowing...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I bet running at full speed here would\nfeel sooo\ngood!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! Let's give it a dash! Wooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yahooo! This is fun!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I feel like I could run forever!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Run... Run, run...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Ticket?"
+            ]
+        },
+        {
+            "text": "Agh! Where'd the grassy fields go?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ohh! It was just a dream!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Was it a good dream?"
+            ]
+        },
+        {
+            "text": "Yeah! It was <i>really</i> nice! Thanks to that,\nmy body\nand spirit feel totally refreshed!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Rustle, rustle!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gagh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "M-my leg's stuck in the grass! And I'm\nslipping...\nI'm falliiing!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I can't stooop! Help meee!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Eek! ...Huh? I'm alive?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Eeeesh... That was scary!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It seems like Уиннинг Тикит's nap wasn't\nas\nrestful as it could have been...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Уиннинг Тикит is smiling happily. It\nseems she's\ngotten a good amount of\nrest.",
+            "name": "Монолог"
+        }
+    ]
+}

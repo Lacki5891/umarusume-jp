@@ -1,0 +1,284 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're in the middle of training for the\nKikuka\nSho, and Нарита Брайан is just\nabout ready, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "We've got our meeting next, right?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I've noticed her looking up at the sky\nevery so\noften in the middle of training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's been doing it more and more often\nas the\ndays go by, and the Kikuka Sho is\nless than a\nmonth away. Even summer\nturning to fall doesn't\nseem to change\nanything for her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(We can't go on like this...)"
+            ]
+        },
+        {
+            "text": "It's not often I get a visit from you. I take\nit this is\nabout what we discussed at\nsummer camp?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And Brian, I hear, is finally back to\nnormal.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "However, even if you eliminate your\nregrets from\nthe summer, they may only\nbe replaced with new\nones.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Moreover, the Kikuka Sho is drawing\nnear. Even\nso, you desire a scrimmage?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "It's necessary precisely because the Kikuka Sho\nis near."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...To think the day has come that I find\nmyself\nbeing asked to help an opponent.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "No way! The president is actually\nparticipating in\nthis scrimmage?! And\nagainst—",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "That's right! Brian! Although, wasn't she\nin the\nhospital recently?",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "<i>Sigh...</i> This would normally be a dream\nmatchup,\nbut is this really the best for\nher right now?",
+            "name": "New Trainer"
+        },
+        {
+            "text": "She just recovered and is already facing\nthe\nEmperor. Wow, she sure is full of\nsurprises.",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "Trainer... Are you sure?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I think you should do this at least once."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "No regrets, okay?"
+            ]
+        },
+        {
+            "text": "Yeah, I appreciate it. And... sorry.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I should have trusted you more from the\n\nbeginning.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're my trainer, after all.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right then, Rudolf. Victory will be\nmine!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "\"When the tiger roars, the wind itself\nrises.\" Then\nI'll do the same.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Let neither of us hold anything back.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "<i>Ka-thunk!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан takes off with great force as\nsoon as\nthe race begins. Симболи Рудольф,\nhowever, has an\nimpressive start of her\nown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Which of them will come out on top?\nThe\naudience watches with bated breath\nuntil, at\nlast...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Нарита Брайан loses by a neck.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Considering her health recently, she\nreally put\nup a good fight.",
+            "name": "New Trainer"
+        },
+        {
+            "text": "Even when in perfect health, racing\nagainst\nСимболи Рудольф is quite an\nordeal!",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "It was an amazing race though! The\npresident is\njust too strong!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...All the spectators are gone.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "The race is over, after all."
+            ]
+        },
+        {
+            "text": "Yeah...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "How did it feel?"
+            ]
+        },
+        {
+            "text": "I feel like I realized my own arrogance.\nEven a\nneck's difference is a firm margin.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I still can't reach her, even now.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I can't seem to get all the opportunities I\nmissed\nthat summer out of my head.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If I had just been able to race, then I\nthought I'd\nbe able to...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Or maybe I've been overestimating my\nown ability\nto win.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...The reality is that I lost. I was weak. I\nhave no\ncontrol over myself and can't\nfully measure my\nown abilities.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You noticed, right? That's why you had\nme run in\na race like this.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I actually thought you could win."
+            ]
+        },
+        {
+            "text": "...What?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Pfff... Hahaha! Idiot! I guess that makes\ntwo of us!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let me run just one more time.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This aching... This hunger... It's\noverpowering.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Let's get stronger together!"
+            ]
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And so, Нарита Брайан takes to the track.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's stronger than she was back in the\nspring and\nthe summer. Nothing will stop\nher progress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Rudolf.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Brian.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "The Two"
+        },
+        {
+            "text": "...Thanks for yesterday.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If you want to thank me, show your face\nin the\nstudent council office once in\nwhile.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "When the time comes.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hmm. Well, I hope it comes quickly.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Also, I finally got a taste of your real\nstrength.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But don't think this is my limit.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We're both going to reach greater\nheights. Next\ntime we race... I won't lose.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Chatter, chatter...</i>",
+            "name": "Bystanders"
+        },
+        {
+            "text": "...Is that so?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Then... until \"the time comes,\" as you\nsaid.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Word of Нарита Брайан's challenge to the\nEmperor\nsoon spreads throughout the\nschool.",
+            "name": "Монолог"
+        }
+    ]
+}

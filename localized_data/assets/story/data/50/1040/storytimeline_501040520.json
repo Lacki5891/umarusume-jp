@@ -1,0 +1,311 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wha... what is this?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Commence! Let the dorm quiz battle\nbegin! I wish\nyou all the best of luck!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "All right, Miho crew! You better not lose\nto Ritto!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Let's gooooo!",
+            "name": "Miho Dormitory Students"
+        },
+        {
+            "text": "Ritto Dormitory! We'll be celebrating\ntonight! So,\nlet's enjoy this battle of the\nbrains, shall we?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Yeeeahhh!",
+            "name": "Ritto Dormitory Students"
+        },
+        {
+            "text": "Oh, you came, City! Didn't you say you\nhad work?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We had a schedule change... Anyway,\nwhat's all\nthis commotion?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "A few hours earlier...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It is clear! Races are at times a battle of\nwits!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "Hence, we want to provide an\nopportunity to test\nyour thinking under\npressure. I present to you... a\nquiz\ncompetition!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "Your teams are arranged by dorm! Work\ntogether\nfor a chance to win the grand\nprize we've\nprepared! Get ready! Let's\ngo go go!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "City, you're competing with us on the\nRitto Dorm\nteam.  There'll be a buzzer\nquiz and a scatter\nquiz.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Do you know what a scatter quiz is?\nEnvelopes\ncontaining questions are\nscattered about, which\nwe find and bring\nback to the host to answer.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And the dorm with the highest overall\nscore wins.\nSimple, right? I'm confident\nyou'll be a great\ncontributor, City!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Are you now? ...Well, I don't really have\na\npreference, so Trainer, which should I\njoin?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Test your speed in the buzzer quiz.",
+                "Test your resolve in the scatter quiz."
+            ]
+        },
+        {
+            "text": "A test of speed, huh. Sounds simple\nenough.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Question! What is defined as zero\ndegrees, zero\nminutes, and zero seconds\nlongitude?! A: the\nprime meridian, or B:\nthe date line?",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "<i>Ding!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The answer is B for Bakushin!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "<i>Bzzzt!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wrong! The correct answer is A: the\nprime\nmeridian!",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "What?! My Bakushin intuition was off?!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "That was close... I have to hit the button\nfaster\nnext time...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Next question! Finish the sentence!\n\"Eating\npersimmons—\"",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "<i>Ding!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I know! \"Makes you want to eat pears\nand\nchestnuts too!\"",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "<i>Bzzzt!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Urgh! Wrong again! But oh well—there's\nstill more\nchances! Yes, I still have a\nchance!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "As class representative, I will be the first\nto hit\nthe buzzer each time! Eheh!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Be first... every time...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...Huh.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "(Something seems different about City all of a\nsudden.)"
+            ]
+        },
+        {
+            "text": "Now, next question! The oldest U—",
+            "name": "Директор Акикава"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Ding!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Turkmenistan.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Ding ding ding!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "How?! You didn't even finish listening to\nthe\nentire question!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Wait... Are you psychic, City?!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "No, it just so happens the same question\nwas\nasked on a quiz show this model I\nknow was on.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If my opponent is fast, I have to be\nfaster. It's\ntime to catch up.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Go, go, Ritto Dormitory! What a riveting\n\ncomeback!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Your strength and determination never\nchanges. I\nlove it!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The scatter quiz... Well, a little moving\naround\nwould be nice.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "We head over to the beach where the\ngame will\ntake place. There, a helicopter\nflying overhead\nscatters a huge number\nof envelopes containing\nthe questions!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Start!",
+            "name": "Staff"
+        },
+        {
+            "text": "And they're off to a clean start, making\na beeline\nfor the envelopes!",
+            "name": "Event Commentator"
+        },
+        {
+            "text": "Okay, that envelope is gonna be mine—",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wait, what?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Outta my way! Speed demon comin'\nthrough!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Oh no—she beat me to it!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What're ya doin', City? Get outta da way\nif you're\nnot gonna run!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "D-damn it!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "The participants begin heading back to\nthe quiz\nmaster, kicking up trails of dust\nin their wake.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Once there, they open up the envelopes\nand take\na crack at the questions written\ninside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What do you mean \"blank\"?!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It looks like you brought an envelope\nwith no\nquestion inside! You'll have to\nrun for another\none!",
+            "name": "Quiz Master"
+        },
+        {
+            "text": "Are you—",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "City, stay calm!"
+            ]
+        },
+        {
+            "text": "Urgh... I know!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Currently, Miho Dormitory is in the lead!\nWill\nRitto Dormitory make a comeback?",
+            "name": "Event Commentator"
+        },
+        {
+            "text": "All right, let's keep this lead, everyone!",
+            "name": "Inari One"
+        },
+        {
+            "text": "Not if I have anything to say about it!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Sorry! This one is also empty!",
+            "name": "Quiz Master"
+        },
+        {
+            "text": "One more try!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "City's all sweaty and covered in sand...",
+            "name": "Ritto Dorm Resident"
+        },
+        {
+            "text": "Well done! Five points to Ritto\nDormitory!",
+            "name": "Quiz Master"
+        },
+        {
+            "text": "All right! Now for another!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Even with all the sweat and sand, she's\nstill so\nbeautiful!",
+            "name": "Miho Dorm Resident"
+        },
+        {
+            "text": "What a surprise! Listen to the cheers for\nGold\nCity coming from both sides!",
+            "name": "Event Commentator"
+        },
+        {
+            "text": "Well, isn't that a slick move? Captivatin'\nthe\ncrowd with your determination.",
+            "name": "Inari One"
+        },
+        {
+            "text": "She's quick on her feet, but we better\nnot\nunderestimate her willpower either!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Голд Сити's inspiring efforts invigorate\nthe quiz\nparticipants, ultimately leading\nher dorm's team\nto victory.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Сити's staggering comeback helps\nher\ndormitory win the competition!",
+            "name": "Монолог"
+        }
+    ]
+}

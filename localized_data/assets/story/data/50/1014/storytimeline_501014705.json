@@ -1,0 +1,212 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эль Кондор Паса and I are on our way\nback from a\nday out, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's already dark. I guess we took it a\nlittle <i>too</i>\neasy today.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "We've got an early day tomorrow too,\nTrainer.\nLet's call it as soon as we get\nba—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Rayos!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "I totally forgot I have homework due\ntomorrow!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "On top of that, I forgot the handout in\nthe\nclassroom!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "This is the third time I've forgotten my\nhomework!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My teacher said I'll have to write an\nextra report\nif I forget again! Ughhh!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's go get the handout right now."
+            ]
+        },
+        {
+            "text": "Really?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Thank you! Thank youuu! Let's go get it\nright\naway!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hm... The lights are on, but it's still dark.",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Are you scared?"
+            ]
+        },
+        {
+            "text": "N-n-no way! I've got my mask on, so\nthere's\nnothin' to be afraid of!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I don't believe in ghosts or anything! It's\njust...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I watched a horror movie last night with\nGrass and\neveryone, and...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "There was an old nobleman attacking\npeople with\nan axe to get revenge.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "And it was set at a school at night...\nUgh, I'd be\nfine if it was just a ghost!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "It's scarier if they're alive?"
+            ]
+        },
+        {
+            "text": "Well, it wouldn't be a big deal using all\nmy\ntechniques on a ghost!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But I can't just go all out on an amateur\nwith my\nwrestling moves!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So basically, I can't fight! Maybe it'd be\nokay if\nwe were talking about a strong\nUmamusume!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I don't quite understand her logic, but I\ndon't ask\nany more questions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well, we can't just sit around here. Let's\nget to\nthe classroom!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ugh... It's so dark...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The lights along the hall are all out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I-I'm Эль Кондор Паса... the strongest\nracer...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm not afraid of anything!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "For not being afraid of anything, she\nseems to be\nlooking around pretty\nfrantically.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Th-the old scaredy-cat El is gone!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You're the world's strongest and the world's\nfastest!",
+                "Look out behind you! He's got an axe!"
+            ]
+        },
+        {
+            "text": "Ah! Trainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Th-that's right! Fastest in the world, with\nnerves\nof steel, and quick as lightning!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The name's El Condor Pasaaa!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "No one can keep up, no matter who they\nare!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If things get hairy, I can definitely\nescape. Even if\nI have to carry you,\nTrainer!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "That's good to hear."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hehe. Thanks, Trainer.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Madre mía! Is it the old nobleman?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm not afraid! Nooot at all! Not even of\nold\nnoblemen with axes!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm El, the world's strongest racer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса runs away at breakneck\nspeed,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?! Where am I? Тренер?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "In her panic, she ends up getting lost\nsomewhere\nin the school.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A while later, she finds her way back...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm so tired... of running... I'm not even\nscared\nanymore...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Please, don't disappear without saying\nanything\nagain!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Rather than remind her that <i>she's</i> the\none who ran\noff, I comfort El Condor\nPasa.",
+            "name": "Монолог"
+        },
+        {
+            "text": "On the plus side, it seems like the run\nturned out\nto be a good bit of training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seems full of motivation now. El\nCondor Pasa\ngets her papers and we\nleave without any trouble.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Afterward, an exhausted Эль Кондор Паса\nmanages\nto finish her homework and\navoids having to write\nan extra report.",
+            "name": "Монолог"
+        }
+    ]
+}

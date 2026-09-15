@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew... I've never felt a rush of emotions\nlike this\nbefore.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I feel as if a weight has dropped from my\n\nshoulders. My chest feels light.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'm looking forward to seeing you run."
+            ]
+        },
+        {
+            "text": "I'll live up to your expectations. I need\nto prove\nsomething today.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "To show that the Empress stands tall,\neven now!",
+            "name": "Эйр Грув"
+        }
+    ]
+}

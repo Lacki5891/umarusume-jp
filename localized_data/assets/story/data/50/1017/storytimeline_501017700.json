@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Симболи Рудольф looks unusually\nbleary-eyed\ntoday.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Up late last night?"
+            ]
+        },
+        {
+            "text": "One might say that. I fear I got a little\nabsorbed\nin my reading.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Punnery is a truly bottomless art. Did\nyou know\nthat overly elaborate rhymes\ncan make a joke <i>less</i>\namusing?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Brevity is the soul of wit, indeed. Timing\nis as\ncrucial in comedy as it is in racing.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "R-right..."
+            ]
+        },
+        {
+            "text": "But no matter how I racked my brain, I\ncouldn't\nthink of a good punchline.\nBefore I knew it, it was\npast midnight...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You could say it wasn't very much... pun.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф's grogginess seems to\nhave had a\nserious effect on the quality\nof her jokes.",
+            "name": "Монолог"
+        }
+    ]
+}

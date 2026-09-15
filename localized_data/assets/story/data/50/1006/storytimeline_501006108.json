@@ -1,0 +1,172 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of the Fan Fest has finally arrived."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap is going to compete in a true or false \nquiz, and she seems to be full of enthusiasm."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I need to do well—for the people who always \nsupport me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I want everybody to have a good time today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The venue is packed with her new fans from the \ncity."
+        },
+        {
+            "name": "Monologue",
+            "text": "She treasures her fans dearly, so I'm sure she'll put \nin just as much effort as she would into a race."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Quizzes aren't exactly my forte, but I'll do my \nbest!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm counting on you to cheer for me!"
+        },
+        {
+            "name": "Host A",
+            "text": "Are you ready to begin, Oguri?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ready when you are!"
+        },
+        {
+            "name": "Host A",
+            "text": "Oho, that's what we like to see! Okay then, one \nquick question before we get started."
+        },
+        {
+            "name": "Host A",
+            "text": "Oguri, I know you love to eat, but how do you \nfeel about broccoli?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I love it!"
+        },
+        {
+            "name": "Host A",
+            "text": "What a reassuringly confident response! Now \nthen, on to the main question!"
+        },
+        {
+            "name": "Host A",
+            "text": "The part of the broccoli that we usually consume \nis called a floret. True or false?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A floret..."
+        },
+        {
+            "name": "Spectator A",
+            "text": "You can do it, Oguri!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Picture some broccoli in your mind!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Broccoli..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay, I've got it!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Here's my answer!"
+        },
+        {
+            "name": "Host A",
+            "text": "Oguri Cap has answered with confidence! Is her \nresponse correct, however?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I got mud in my mouth..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap decisively chooses \"false\"—which, \nunfortunately, is incorrect, and she ends up \ndrenched in mud.",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, I'm fine. But... I don't get why I got it \nwrong...",
+            "choice_data_list": [
+                "Because the parts we eat are called florets."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm... That's weird. I mean..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Doesn't everyone just eat the whole \nthing—leaves, stem, and all?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Oguri Cap continues to get question \nafter question wrong, the sight of her getting \nplastered in mud is still entertaining for the \nspectators—ultimately contributing to the Fan \nFest's success."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yes, I got it right!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap decisively chooses \"true,\" and returns \nwith a big smile on her face, having got the \nanswer right.",
+            "choice_data_list": [
+                "Nice job!",
+                "Nice job!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah! I remember Take telling me about broccoli \nwhen I was little."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "She told me that most people only eat the florets."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "When I was a kid, I used to eat the whole thing, \nso it seemed strange to me that people would \nonly eat the parts they like... But I'm glad that \nfact stuck with me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I think I'm getting the hang of this. If the rest of \nthe questions are about food, there's no way I'll \nlose!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Great job, Oguri!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Keep it up!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks, everyone."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Whether it's a quiz or a race... I won't lose!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Encouraged by the cheers of her supporters, \nOguri Cap miraculously manages to get all the \nanswers right, and the Fan Fest is a fantastic \nsuccess!"
+        }
+    ],
+    "title": "Fan Fest"
+}

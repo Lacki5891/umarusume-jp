@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wh-whaaah?!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "You've caught so many! There was hope\nfor us\nafter all!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'm amazed! You know, looking at these\nplushies\nreally makes me think...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "In the next race, I... I just might make it!",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'm sure you'll be fine."
+            ]
+        },
+        {
+            "text": "Th-thank you!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I'll give it my all! N-no one will outshine\nme!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

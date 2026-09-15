@@ -1,0 +1,152 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, I head over to the training\ntrack...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff...</i> Phew... How was my time?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Perfection! And talk about form! Hey,\nyou! Wasn't\nshe amazing?!",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "I'm guessin' that hot spring trip really\npaid off.",
+            "name": "Mejiro Palmer",
+            "choice_data_list": [
+                "Hot spring trip?"
+            ]
+        },
+        {
+            "text": "Yeah, we went to a hot spring the other\nday, just\nthe two of us...",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Mmm... That water felt sooo good...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But how come you invited me to the hot\nspring all\nof a sudden?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You've been working yourself to the\nbone lately,\nso I figured washing your\nfatigue away would do\nyou some good.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "It's nice to get away from the daily grind\nevery\nonce in a while, y'know?",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Palmer... Ehehe, thanks!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I booked us in for a beauty treatment\nafter this\ntoo! ♪",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "B-beauty treatment?! Uh, that's not\nreally my\nthing!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "C'mon, just give it a try! It's not every\nday that\nyou can get the full spa\nexperience!",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Sure, it might be important to focus, but\nyou\nneed to escape sometimes too, you\nknow.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Ahaha... I wasn't expecting a beauty\ntreatment,\nbut I think my muscles are\nlooking way shinier\nnow.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Come to think of it, that manga you\nwere reading\nthe other day had a scene\nwhere that couple ran\naway to a hot\nspring too, right?",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Yeah! It was so swoon-worthy! The way\nthey held\nhands as they walked along\nthe mountain path...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...Wait. How do you know about my\nfavorite\nmanga?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Well, 'cause I like that comic too! ♪ A\nromantic\ngetaway sounds so dreamy.\nLike lovers on the\nrun...",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "L-l-lovers?! What are you talking about,\nPalmer?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "C'mon, don't be like that! Lemme\nexplain.",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Y'know how characters in manga always\ntell each\nother how they feel when they\nrun off to\nsomewhere unfamiliar?",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "That means their runaway romance is\nwhat saves\nthe day!",
+            "name": "Mejiro Palmer",
+            "choice_data_list": [
+                "Love sure is important!",
+                "Maybe it's true that unfamiliar experiences help\nyou grow."
+            ]
+        },
+        {
+            "text": "That means their runaway romance is\nwhat saves\nthe day!",
+            "name": "Mejiro Palmer",
+            "choice_data_list": [
+                "Love sure is important!",
+                "Maybe it's true that unfamiliar experiences help\nyou grow."
+            ]
+        },
+        {
+            "text": "Yeah, you escaped your grueling\ntraining routine\nby running off to the hot\nspring, and that helped\nyou give your\nmuscles some TLC, yeah?",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Your muscles are always taking good\ncare of you,\nright? And this trip helped\nyou express your love\nfor 'em, didn't it?",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Yeah... You're right! I <i>haven't</i> been\nshowing my\nmuscles enough love and\ncare lately!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I've been in such a rush to workout that\nI've been\npushing them too hard... I\nguess I never thought\nabout how <i>they</i>\nfelt.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Thank you, Palmer! You've really\nopened my eyes\nto something super\nimportant!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I mean, training is kinda like escaping\nfrom\neveryday life anyway, so...",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Oh, I get it! So the hot spring and\nbeauty\ntreatment were a form of training\nto help\nstrengthen my mind!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Thanks, Palmer! I'm gonna go hit the\nshowers and\nice up my muscles like a\nmonk standing under a\nwaterfall!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Uh-huh! Glad to help. And don't forget\nto give\nyour muscles more runaway\nromance! ♪",
+            "name": "Mejiro Palmer"
+        },
+        {
+            "text": "Nice! I'd expect nothing less from a\nmuscle\nmaniac like you. A waterfall\nescape... Now that\nsounds refreshing. ♪",
+            "name": "Mejiro Palmer"
+        }
+    ]
+}

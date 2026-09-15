@@ -1,0 +1,60 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Woooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "We are here again this year at the\nKikuka Sho!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Who will come out on top of this year's\nTriple\nCrown tour?",
+            "name": "Комментатор"
+        },
+        {
+            "text": "It's gotta be Спешл Уик! There's no\nway she\ncan lose!",
+            "name": "Excited Spectator"
+        },
+        {
+            "text": "You really think so? I have high hopes\nfor Seiun\nSky.",
+            "name": "Fidgety Spectator"
+        },
+        {
+            "text": "Ohhh... But who <i>would</i> actually win?\nHmmm,\nconsidering the distance...",
+            "name": "Fidgety Spectator"
+        },
+        {
+            "text": "Everyone's betting on those two, even\nthough I'm\nthe star here.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm not giving up this victory, Trainer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "As a first-rate Umamusume, I will\ncertainly be\nvictorious in this year's\nClassics.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You've got this!"
+            ]
+        },
+        {
+            "text": "I know. But I won't let my guard down\nuntil I've\nleft everyone in the dust and\nthe race is over.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Well, it's time. I'll see you afterwards.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You know where to catch me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll meet you in the winner's circle.",
+            "name": "Кинг Хало"
+        }
+    ]
+}

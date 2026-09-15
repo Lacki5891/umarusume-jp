@@ -1,0 +1,193 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ and I are walking past\nthe train\nstation when she suddenly\nremembers something\nand stops in her\ntracks."
+        },
+        {
+            "text": "By the way, Trainer...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Do you remember that cafe we tried\ngoing to the\nother day?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "The one that was closed?"
+            ]
+        },
+        {
+            "text": "Yes. I'm still baffled as to why it was\nclosed so\nearly. Do you mind if we go\nback and check it\nout?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And with that request, we make our way\nto the\ncafe together."
+        },
+        {
+            "text": "It closes at 8 p.m., so it should still be\nopen...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We're almost at the cafe when we see\nsomeone\nwho appears to be the owner\npulling down the\nshutters.",
+            "choice_data_list": [
+                "They're closing up already?"
+            ]
+        },
+        {
+            "text": "It seems like it. I wonder why. I'll go ask.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I follow her as she approaches the\nowner."
+        },
+        {
+            "text": "Excuse me. Have your store hours\nchanged\nrecently? I thought you were\nsupposed to be\nopen for a while yet.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Terribly sorry about that, but yes, we've\nbeen\nclosing a little early lately.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "It just doesn't make sense to stay open\nwhen we\nget no customers.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "You don't?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "No... Not since that new place down the\nstreet run\nby some famous celebrity\nbarista opened up.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "Business dried up as soon as that place\nstarted.\nHonestly, we might have to\nclose up shop\n<i>permanently</i> soon.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "That can't be...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There's no question as to what cafe that\nmust be.\nNo doubt, it's the one I visited\nwith Biwa\nHayahide the other day."
+        },
+        {
+            "text": "Up until recently, we managed to scrape\nby\nsomehow.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "We've come up with seasonal menu\nitems and\nlistened to the requests of our\nregulars...",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "But no matter what we do, it's not\nenough to\ncompete against a famous\nbarista.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "It makes sense. When someone like that,\nwith\nboth skills and fame, opens a shop\ndown the\nstreet, there's not much a\nsmall cafe like us can\ndo.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ's expression clouds as\nshe mulls\nover the matter."
+        },
+        {
+            "text": "I understand how you feel. However...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What I love most about your cafe is how\ncozy its\natmosphere is and what a\nwonderful person you\nare.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And those things are all a result of how\nmuch\neffort you've put into making your\ncustomers\nhappy.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You've accomplished so much already.\nWhy don't\nyou try just a little harder and\nsee what comes of\nit?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Her impassioned speech is inspiring. I\nfeel as\nthough it's enough to fire anyone\nup. However..."
+        },
+        {
+            "text": "Thank you. Your kind words mean a\ngreat deal to\nme.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "But running a business isn't easy.\nSometimes, you\njust have to cut your\nlosses.",
+            "name": "Cafe Owner"
+        },
+        {
+            "text": "Unfortunately, Бива Хаяхидэ's\nencouragement\nisn't enough to spur the\nowner into further action."
+        },
+        {
+            "text": "I suppose life is difficult no matter what\none\npursues.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I only wish there was something I could\ndo to\nhelp...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Pursuing a dream is tough. She knows\nthat better\nthan anyone.",
+            "choice_data_list": [
+                "If only the cafe could do something to set it\napart...",
+                "Maybe we can help promote the cafe."
+            ]
+        },
+        {
+            "text": "Set it apart... Yes, that's it!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I go there all the time! I would know\nbetter than\nanyone how it can best stand\nout!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This information might be just what we\nneed to\nchange the owner's mind!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Do your thing, Hayahide!"
+            ]
+        },
+        {
+            "text": "Thanks for helping me come up with\nsomething I\ncan do!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I guess, realistically speaking, that's\nabout all we\ncan do.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But simply promoting the cafe probably\nwon't\nyield any significant results...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "If only we had something to work with..."
+            ]
+        },
+        {
+            "text": "But of course! If there's nothing to work\nwith yet,\nwe can start from scratch and\ntry to catch\npeople's attention with a\nnew idea!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'll start putting together everything we\nneed\nonce I get back!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Let me know if I can help."
+            ]
+        },
+        {
+            "text": "Thank you so much. I'm going to make\nsure that\ncafe stays in business!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "With that strong declaration, it's clear\nthat Biwa\nHayahide is filled with\ndetermination."
+        },
+        {
+            "text": "I have high hopes that Бива Хаяхидэ\ncan get\nthrough to the owner as we walk\nhome together."
+        }
+    ]
+}

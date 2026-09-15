@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's my day off. I'm headed back home\nafter some\nshopping when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> You have to be kidding...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer. Don't worry about it. It's\nnothing,\nreally.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's just... there were roadworks on my\nusual\njogging route, so I couldn't go that\nway...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And everywhere else I went was the\n\nsame—roadworks or closed off.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And then the rain...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука stands there, shoulders\nslumped in\ndefeat, rain pitter-pattering\nagainst her.",
+            "name": "Монолог"
+        }
+    ]
+}

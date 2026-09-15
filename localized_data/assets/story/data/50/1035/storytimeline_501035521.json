@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Уиннинг Тикит mumbles sleepily...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> I got so carried away watching\nrace\nvideos and reading manga and\nstuff...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I think the sun was up by the time I went\nto\nsleЭпизод.. Now my eyelids are so heavy,\nI can't keep\nthem open...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You shouldn't sleep so late."
+            ]
+        },
+        {
+            "text": "Wait, you mean I need to go to bed\nearly?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Or do you mean... when it's late, I\nshouldn't\nsleep?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Aaaah! I dunno what's what anymore!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "After staying up all night, Winning\nTicket can't\neven think straight.",
+            "name": "Монолог"
+        }
+    ]
+}

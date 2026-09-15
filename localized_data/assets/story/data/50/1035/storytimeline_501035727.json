@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Uwaaah! I'm sooo happy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "See how glad they are to be together?\nThank\nyou, Trainer!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Are you going to put them all in your room?"
+            ]
+        },
+        {
+            "text": "Of course! They belong together, so I\ncan't go\nand split them up!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Being together is always better than\nbeing alone!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Like how I always have lots more fun\nwhen I'm\nwith you!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

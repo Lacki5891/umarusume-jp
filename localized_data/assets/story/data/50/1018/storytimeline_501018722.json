@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm explaining today's training plan to\nAir\nGroove, but she seems off-kilter.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You doing okay?"
+            ]
+        },
+        {
+            "text": "I'm fine. Continue what you were saying.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You don't look fine."
+            ]
+        },
+        {
+            "text": "If I say I'm fine, I'm fine—end of\ndiscussion.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Ow...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Apologies. To tell you the truth, I've\nbeen\nsuffering from a migraine recently.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's put me in a foul mood. <i>Sigh...</i>",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув seems to be plagued by a\nsevere\nheadache.",
+            "name": "Монолог"
+        }
+    ]
+}

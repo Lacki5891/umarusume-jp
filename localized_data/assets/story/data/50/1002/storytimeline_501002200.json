@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally time. We're moments from\nSilence\nSuzuka's debut race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Inhale... exhale...</i>",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "text": "No. I'm really excited.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "For this race, and for what comes after.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Me too."
+            ]
+        },
+        {
+            "text": "Really?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. Well, I guess it's time.",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

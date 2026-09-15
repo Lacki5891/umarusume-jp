@@ -1,0 +1,327 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey! You're definitely going to the\nJapan Cup,\nright?",
+            "name": "Passerby A"
+        },
+        {
+            "text": "Duh! It's a direct showdown between\nRudolf and\nBrian! I wouldn't miss it!",
+            "name": "Passerby B"
+        },
+        {
+            "text": "What?! We can't do any interviews this\nweek?!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "I'm afraid we're rather overwhelmed with\n\ninterview requests this week.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "On top of that, we've had to take extra\nmeasures\nto address people entering the\ncampus without\npermission, so it's\ngetting more difficult to grant\n\npermission for interviews.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Oh, I see...",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Hey, who do you think will win? It's\ngotta be\nPresident Rudolf, right?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "It's hard to say... Why don't we watch\nand see?",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "We'll bear witness to the moment when\nthe title\nof greatest ever changes hands!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Are people really that worked up about\nthe\noutcome?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We're both going to reach greater\nheights. Next\ntime we race... I won't lose.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Is that so?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Then... until \"the time comes,\" as you\nsaid.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...The time has come.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(The gates are definitely going to be full\nat the\nrace. There are going to be a lot\nof other racers\nbesides me.)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(And <i>she'll</i> be among them.)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(We'll all line up at the gates. Me. Her.\nAnd\nthen...)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>...Gasp! Huff... Huff...</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...The same time again?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан suddenly stops running in\nthe middle\nof training for the Japan Cup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Hey, Тренер?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Мэдзиро МакКуин was strong. So was\nMihono\nBourbon. And Огури Кэп too.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "...That's true."
+            ]
+        },
+        {
+            "text": "But Симболи Рудольф was even stronger.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Am I wrong?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Well..."
+            ]
+        },
+        {
+            "text": "I was able to compete against racers of\n\nincomparable skill in both the spring\nTenno Sho\nand the autumn Tenno Sho.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's why I understand their strength.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And Rudolf, sitting on her throne as\nEmperor, was\nespecially outstanding.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I don't think the results of that race\nwould change\neven now.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Every time I repeat that match in my\nhead, the\npicture becomes more clear.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The wall that surrounds the Emperor is\nmassive\nand imposing.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...It might be reckless to go beyond it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан's legs tremble slightly as she\nsays\nthat.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Are you shaking with excitement?"
+            ]
+        },
+        {
+            "text": "Haha...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What if I told you that's not it?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What if the truth is that... I'm actually\nscared?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I've never seen her like this before.\nНарита Брайан is\nnervous.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "...I'm rooting for you."
+            ]
+        },
+        {
+            "text": "...Huh?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "If anyone can do it, it's you!"
+            ]
+        },
+        {
+            "text": "What if I lose?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Нарита Брайан doesn't lose!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Not to anyone."
+            ]
+        },
+        {
+            "text": "Hah. Geez...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Ah.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(Come to think of it, this all started\nwhen...)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This is racing. The first across the finish\nline wins,\nright?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You're going to win, no matter who you're up\nagainst!"
+            ]
+        },
+        {
+            "text": "...Don't try and make me say that.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Haha... Idiot.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ever since that time, you—",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "...It's nothing. You probably don't even\n\nremember.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...You big dummy.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "The next day, there's a press conference\nin the\nlead up to the Japan Cup.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Симболи Рудольф is the first to arrive. As\nfor Narita\nBrian...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Hey, is Brian not coming?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Don't tell me she decided to withdraw.\nThere's no\nway...",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "No, it's definitely possible. She lost that\n\nscrimmage against Rudolf, after all.",
+            "name": "Репортёр C"
+        },
+        {
+            "text": "<i>Ka-thump!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...You're late.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Sorry, I forgot something.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I forgot to tell you directly that I'm\ngoing to beat\nyou this time.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "?!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "E-Excuse me... Brian, did you just say\nthat—",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "I will overcome the Emperor in the Japan\nCup\nwithout a doubt.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Chatter, chatter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, that's a bold claim! She's not even\n\nconsidering the possibility of losing?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "This is headline material! Hurry up and\nget\nworking on a special feature!",
+            "name": "Репортёр C"
+        },
+        {
+            "text": "...There is no going back now.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I never had any intention of turning\nback.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Is that so?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...It is.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан and Симболи Рудольф line up\nbeside\neach other and hold out their\nhands.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's only a short while left before\ntheir\nshowdown.",
+            "name": "Монолог"
+        }
+    ]
+}

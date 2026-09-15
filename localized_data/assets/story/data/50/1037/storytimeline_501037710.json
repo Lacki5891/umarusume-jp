@@ -1,0 +1,67 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Utter failure... To think this would be my\nresult...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I devoted every waking second to\ntraining for\ntoday.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I am in good condition, and I even\ndevised\nstrategies to contend with my\nrivals.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So why did this happen?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Your methods are fine, Flash.",
+                "Because you're not strong enough yet."
+            ]
+        },
+        {
+            "text": "So why did this happen?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Your methods are fine, Flash.",
+                "Because you're not strong enough yet."
+            ]
+        },
+        {
+            "text": "They are? Yes, perhaps... After all, there\nare\nplenty of factors outside my control\nthat affect a\nrace.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "As they say, \"It all comes down to luck.\"\nThere are\ntimes when effort alone\ncannot bring forth\nvictory.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You've done all you can. You'll get it next time."
+            ]
+        },
+        {
+            "text": "...Thank you. I feel slightly better now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Yes, you are correct... This is certainly a\nskill\nissue...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "It's okay! Let's train even harder!"
+            ]
+        },
+        {
+            "text": "Yes... Stressing over this will not lead to\nvictory.\nOnly hard work can do that.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Let's review today's race upon our\nreturn... I\nrefuse to lose next time!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I promise not to let the lesson of this\nloss nor the\nfruits of my training thus far\ngo to waste.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

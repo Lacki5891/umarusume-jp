@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "It's unusual for you to be so tired."
+            ]
+        },
+        {
+            "text": "Yes... The truth is, Голд Шипп barged\ninto my\nroom last night.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "She said that if you pray to the gods\nunder a\nlegendary tree late at night,\nyou'll lose a bunch of\nweight.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "It's not that I believed her, but I thought\nif there\nwas even the slightest chance it\nmight be true, it\nwould be worthwhile,\nso I went along.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Yet, in the middle of the search, she\ncomplained\nshe was bored and turned\nback to the dorm.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Yaaawn...</i> If she ever invites me again, I'd\ndo well\nto turn her down.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин lets out another\nelongated\nyawn. Clearly, she's endured\nquite the long night\nout.",
+            "name": "Монолог"
+        }
+    ]
+}

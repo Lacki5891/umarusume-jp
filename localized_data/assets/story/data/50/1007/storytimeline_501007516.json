@@ -1,0 +1,68 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At long last, we've arrived at the\nlegendary ramen\nshop!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We're going to create the best ramen\nshop in\nJapan, and to do that... we've\ngotta steal their\nflavors!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So yeah, we're ordering everything on\nthe menu!\nFollow my lead, Trainer!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Just the special is enough!",
+                "Right behind you!"
+            ]
+        },
+        {
+            "text": "Oh, c'mon! Don't chicken out now!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Wait a second... Maybe focusing all our\nenergies\nonly on the house special <i>is</i> our\nbest shot...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Of course! The house special is the very\n\nmanifestation of the ramen chef's heart\nand soul!\nWhy bother with the rest?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "All right, Chef! What's your top\nrecommendation\nhere?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Aww, yeah! Let's start from the top!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Guh... You're a worthy foe...",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Ohhh, my stomach..."
+            ]
+        },
+        {
+            "text": "But our struggle wasn't for nothing. I can\nsee our\npath to victory!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oh, Trainer!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Take my hand! We'll conquer every\nchallenge on\nthe long, rugged road to\nramen mastery!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп smiles defiantly as the crimson\nsun\nglimmers at her back.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп savors her bowl of legendary\ngolden\nbroth and thin, springy noodles.\nShe's taken a\nmajor first step on the path\nto ramen mastery.",
+            "name": "Монолог"
+        }
+    ]
+}

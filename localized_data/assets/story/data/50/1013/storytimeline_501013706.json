@@ -1,0 +1,104 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As a reward for her working so hard\nevery day, we\ngo to a popular cake shop\non our way back after\na day out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A thirty-minute wait... I should've\nexpected as\nmuch, seeing how popular\nthis place is. But we've\nfinally reached\nthe front.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "What an insanely popular shop!"
+            ]
+        },
+        {
+            "text": "Yes, the cake is extremely popular, and\nonly a\nlimited number are sold each day!\nEvery time I go\nby this place, I yearn\nfor—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ahem... I mean, it has caught my eye and\nI've\nbeen slightly curious.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh! It's finally our turn! I'm feeling kinda\nguilty\nabout this though.",
+            "name": "Girl with Hair Tied Back"
+        },
+        {
+            "text": "I know! It has as many calories as three\nbowls of\nramen! Good thing I planned\nahead and lost some\nweight beforehand!",
+            "name": "Girl with Short Hair"
+        },
+        {
+            "text": "Huh?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Wh-wh-wh-what should I do?! I was\ntotally and\nutterly unprepared for this!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Don't worry, your weight is well under control!",
+                "Just do three ramen bowls' worth of running\nlater!"
+            ]
+        },
+        {
+            "text": "Wh-wh-wh-what should I do?! I was\ntotally and\nutterly unprepared for this!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Don't worry, your weight is well under control!",
+                "Just do three ramen bowls' worth of running\nlater!"
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Color me impressed! To think you have\nsuch an\nexcellent grasp of my physical\ncondition.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "A-although, when I think about it. That\nin itself is rather\nembarrassing.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh! N-never mind me. I'm merely talking\nto\nmyself.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Anyhow, now I can relax and enjoy the\ncake.\nHehe. ♪ I've waited a long time\nfor this!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Gasp!</i> Y-yes, of course. If I run after I\neat, I should\nbe able to burn it off\nbefore it's too late!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Three servings of noodles would be\naround 1,030\ncalories. Therefore, if I\nrun for two hours...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "No. I would need to include the broth in\nthat\ncalculation as well, I'll add an\nincline dash to my\ntraining too.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "And then I can do three pork slices'\nworth of\njogging as a cooldown. My plan\nis flawless!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "With that, I can relax and enjoy the\ncake. I shall\nthoroughly savor it and then\nproperly execute my\nplan.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Three ramen bowls' worth of running!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин and I enjoy the\ndelectable cake\ntogether.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, Мэдзиро МакКуин and I go for\na long\nrun to burn off the calories of\nexactly three ramen\nbowls.",
+            "name": "Монолог"
+        }
+    ]
+}

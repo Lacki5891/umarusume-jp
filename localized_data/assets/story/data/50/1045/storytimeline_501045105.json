@@ -1,0 +1,75 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer is here—an unforgettable\nseason for us\nboth.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's right. That fateful event\nhappened last\nsummer...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...What? I've been in bad health because\nI've\nbeen taking on too much by myself?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm so sorry, Trainer! From here on out,\nwe do\nthings together!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик's health improved after we\nstarted\nsharing responsibilities and\nbecame a true team.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And we've continued to grow closer ever\nsince.\nThis year...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "You look different somehow. Maybe it's\nbecause\nyou've gained a bit of muscle\nsince last year?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "No, that's not the only reason. You've\ngot a more\nresolute look in your eye\ntoo...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It kind of gives me mixed feelings. ♪",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Mixed feelings?"
+            ]
+        },
+        {
+            "text": "Uh-huh. Like, I want things to stay how\nthey were,\nbut it also makes me happy.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I don't think these changes will stop.\nNot in\nyou or in me—or in our\nrelationship either.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm not afraid though. I believe we'll be\nokay no\nmatter how much we change.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe! Now then! How should we spend\nthis\nsummer in preparation for the fall\nG1 races?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Although we may be closer than ever,\nsome things\njust never change.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I pledge to the blue skies above to race\nthrough\nthis once-in-a-lifetime summer\nwithout any\nregrets.",
+            "name": "Монолог"
+        }
+    ]
+}

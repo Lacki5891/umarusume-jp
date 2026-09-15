@@ -1,0 +1,83 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эль Кондор Паса has finished up today's\ntraining.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks a ton! Now I can really get the\nsweat\ngoing!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "I'm gonna do some more trainin' on my\nown!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My papa always says the most important\npart of\ngetting stronger is...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Always choosing the difficult path.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's why I gotta train even harder!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "When you put it like that, I've got to join you!",
+                "In that case, you should get some rest."
+            ]
+        },
+        {
+            "text": "That's why I gotta train even harder!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "When you put it like that, I've got to join you!",
+                "In that case, you should get some rest."
+            ]
+        },
+        {
+            "text": "Really?! I knew you had the same\npassion as I do\nrunnin' through your\nveins!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, let's get as fired up as the\nred-hot\nevening sun!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Whaaat?! But I don't wanna take a\nbreak!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I wanna get faster... faster! And I can't\ndo that\nwithout training!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Doesn't that mean that taking a break is the\nmost difficult path for you right now?"
+            ]
+        },
+        {
+            "text": "Oh... That's true... but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hmmm... Well, if I'm gonna keep walkin'\nthe most\ndifficult path...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "All right, understood! I'll take a break!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "This is what I have to do to spread my\nwings for\nthe world!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "We do some additional training until the\nsun goes\ndown.",
+            "name": "Монолог"
+        }
+    ]
+}

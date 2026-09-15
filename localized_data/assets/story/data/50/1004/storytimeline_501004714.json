@@ -1,0 +1,121 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Марузенски gets injured в тренировке,\nso I\nbring her to the infirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ooh, ow ow ow... I guess even <i>I</i> can have\noff\ndays...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But I've got to get back on the track\nsoon. I have\nto show everyone that\nnothing can keep me\ndown!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Let's take it slow and heal up.",
+                "Desperate times call for desperate measures!"
+            ]
+        },
+        {
+            "text": "But I've got to get back on the track\nsoon. I have\nto show everyone that\nnothing can keep me\ndown!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Let's take it slow and heal up.",
+                "Desperate times call for desperate measures!"
+            ]
+        },
+        {
+            "text": "Are you sure? I think I'll be peachy keen\nafter just\na little bit of rest...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "But we definitely don't want to make the injury\nworse."
+            ]
+        },
+        {
+            "text": "...Okay, fine. But if I'm going to take the\ntime to\nheal, I ought to do it right.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So let's go to the convenience store and\nbuy\nsome panna cotta to cheer me up! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I don't remember seeing that at the\nconvenience store..."
+            ]
+        },
+        {
+            "text": "Seriously?! They only sell panna cotta at\nthe\nsupermarket?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yeah! I have to get hyped up! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I have to stay positive if I want to heal\nquickly!\nMy favorite jam should perk me\nright up. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, wait... Where's my phone?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "How lame! Maybe I left it in my room?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'll play a song for you on my phone."
+            ]
+        },
+        {
+            "text": "Really? Thanks, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Really? Thanks, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay, give me a song full of young,\nvibrant\nenergy! Crank it <i>loud!</i> ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "As she requests, I play a song that's\npopular\namong the youth these days...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? <i>This</i> is what's popular now?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I-I had no idea...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, hey! Doo wop wop! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Wow! What a great song. It makes me\nwant to\nstart dancing! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Don't get too excited."
+            ]
+        },
+        {
+            "text": "I understand, rubber band!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Perhaps the moderate exercise is\nhelping, as\nМарузенски's injury seems to\nbe healing quicker\nthan expected.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Shocked at being so late with the times,\n\nМарузенски's recovery is slowed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "To make Марузенски happy, I head to\nthe\nsupermarket and buy her the panna\ncotta she\nloves so much.",
+            "name": "Монолог"
+        }
+    ]
+}

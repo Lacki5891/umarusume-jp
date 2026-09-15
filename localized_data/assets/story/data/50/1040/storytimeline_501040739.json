@@ -1,0 +1,60 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Okay, I placed! Guess I should feel\nrelieved?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But, no—I can't let myself be satisfied\nwith this.\nUgh, I wanted to win!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You looked like you were having a great time.",
+                "So you'll win next time, right?"
+            ]
+        },
+        {
+            "text": "But, no—I can't let myself be satisfied\nwith this.\nUgh, I wanted to win!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You looked like you were having a great time.",
+                "So you'll win next time, right?"
+            ]
+        },
+        {
+            "text": "Of course I was—I was running!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wait... Scratch that. Have I started\nsounding kind\nof stupid lately?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You're just being yourself."
+            ]
+        },
+        {
+            "text": "Uh... Given the question I asked, I'm not\nsure\nthat's a compliment.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You're trying to stir me up? I'm not\nriding that\nwave.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But sulking is for losers, so fine, I'll say\nwhat you\nwant to hear.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Next time, I'm finishing first. So you\nbetter help\nme run my best!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Let me do it over. Next time, I'll finish\nfirst and\nsay something more \"me\"!",
+            "name": "Голд Сити"
+        }
+    ]
+}

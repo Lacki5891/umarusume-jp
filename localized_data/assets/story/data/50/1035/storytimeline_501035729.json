@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Waaaah! No waaay!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "I'm sorry... I couldn't rescue them."
+            ]
+        },
+        {
+            "text": "No, it's fine, Trainer. You did what you\ncould!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It looks like it's up to me to save them!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Just wait! I gotta save some money, but\nthen I'll\ncome get you!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm so sorryyyy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With her debut race behind us, it's time\nto decide\non Эйр Грув's next goal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The most fitting race for the Empress\nwould be...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(The Hanshin Juvenile Fillies!)"
+            ]
+        },
+        {
+            "text": "The Umamusume who conquers the\nHanshin\nJuvenile Fillies is crowned as\nthe queen of the\njunior year. What race\ncould be a better fit for Air\nGroove?",
+            "name": "Монолог"
+        },
+        {
+            "text": "All the same, I wonder what Эйр Грув's\nown\ntake is. I head out to find her and\nask.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've finished checking the academy\nequipment,\nVice President. Here's the\nlist I compiled.",
+            "name": "Student Council Member"
+        },
+        {
+            "text": "Thank you. You can leave the remaining\nchecks\nto me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Phew... Next on the agenda is to sort the\n\ndocuments in the student council office.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Looks like you're hard at work."
+            ]
+        },
+        {
+            "text": "Oh, hello.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Unless the matter is urgent, can you\nleave me be?\nI need to organize some\ndocuments in the student\ncouncil office.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I'll help you."
+            ]
+        },
+        {
+            "text": "Excuse me?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I want to talk to Эйр Грув about our\nfuture\nplans as soon as possible, so I\ndecide to help her\nclear her schedule.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You want to help so that I finish up\nquicker?\n...Heh. You're getting better at\nthis.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Enough dawdling, then. Let's get to the\nstudent\ncouncil office. If you insist on\nhelping, I'm going\nto work you to the\nbone.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh? So we have a guest. I'm sorry for not\nbeing\nable to prepare some tea.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I brought my trainer to help with\norganizing the\ndocuments. I assume it\nwon't be a problem?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Of course not. The timing could not be\nbetter, in\nfact.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Did something happen?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A member of the groundskeeping\ncommittee was\nlooking for you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "She seemed quite on edge. Would you\nmind\ntalking to her directly?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "While you attend to that, I will help your\ntrainer\nwork through these documents.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "While you attend to that, I will help your\ntrainer\nwork through these documents.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I see. I think I know what the issue might\nbe. I'll\nhead out now.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If you'll excuse me...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "In an unexpected turn of events, I'm left\nalone\nwith Симболи Рудольф.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Very well—shall we get started?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Thanks to Симболи Рудольф's remarkably\ndeft\nhandling, we get through what\nseemed like a\nmountain of documents\nfar quicker than I\nexpected.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You have my thanks. I'm glad we were\nable to\nfinish before Эйр Грув\nreturned.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Thanks for letting me help."
+            ]
+        },
+        {
+            "text": "\"Letting\" you help, you say? Interesting.\nThat\nspeaks volumes about your\nrelationship.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Speaking of which... There's something I\nwould\nlike to ask you regarding Air\nGroove.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "(President?)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(What could those two possibly be\ntalking\nabout?)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As you know, Эйр Грув works\npassionately,\nboth in the performance of\nher student council\nadministrative tasks\nand also in caring for the\nyounger\nstudents.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "At the same time, she performed\nsplendidly at her\ndebut and spares no\neffort in achieving her own\ngoals.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I imagine that she will continue to work\ntirelessly\nfor other Umamusume while\nalso keeping herself\ndisciplined as she\naims for ever greater heights.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It is a path paved with thorns. One in\nwhich it is\nall too possible to stumble\nalong the way.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You watch over her from a closer\nvantage than\nanyone else. As such, I'd\nlike to ask you...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Is Эйр Грув pushing herself too hard?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф's query is accompanied\nby an\nintense stare.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Under her gaze, I remember what Air\nGroove said\nafter her debut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "This bears repeating—don't get lax.\nAnd...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Stay with me, no matter what.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As her trainer, there is only one answer\nto give.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I believe in the path Эйр Грув is walking."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "True strength can move mountains, as\nthey say.\nYou and Эйр Грув are more\nalike than I\nrealized.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "My apologies if I overstepped. Thank\nyou again\nfor your help today.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I will tell Эйр Грув that you have\nreturned to\nyour office.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Just as bidden, I head back to my office\nto wait\nfor Эйр Грув, only to find...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Oh, hey—when did you get here?"
+            ]
+        },
+        {
+            "text": "That's... not important. You wished to\ndiscuss our\nplans, did you not?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I want to take on the Hanshin Juvenile\nFillies.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll seize victory and be queen of the\njunior year.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If I manage that, then... the president's\nanxieties\nwill be assuaged.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If she's worried about me, then that\nmeans I'm not\nup to my ideal standards\nas the Empress.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I realize that Эйр Грув must have\noverheard my\nconversation with Symboli\nRudolf.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But looking at the troubled expression\non her\nface, I feel it may not be the time\nto pry. Right\nnow, I have to do my job as\nher trainer.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I was thinking the Hanshin Juvenile Fillies too."
+            ]
+        },
+        {
+            "text": "Heh. Looks like you understand me\nsomewhat.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Wh-What's up?"
+            ]
+        },
+        {
+            "text": "I'd like to talk about your behavior\ntoday.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You... helped me out, in your own way. I\nsuppose\nI owe you my thanks.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You can count on me anytime."
+            ]
+        },
+        {
+            "text": "Hmph. Let's not be foolish, now. You\nmight be\ngiving yourself too much\ncredit.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Our next goal is to win the Hanshin\nJuvenile\nFillies and make Эйр Грув the\nqueen of the\njunior year!",
+            "name": "Монолог"
+        }
+    ]
+}

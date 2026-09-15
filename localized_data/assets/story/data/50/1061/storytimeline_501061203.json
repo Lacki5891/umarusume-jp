@@ -1,0 +1,100 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hey! Who do you think is going to win\nthis year's\nDerby?",
+            "name": "Excited Spectator"
+        },
+        {
+            "text": "No doubt one of the big three. That's\nwhat they\nsaid on TV!",
+            "name": "TV-Loving Spectator"
+        },
+        {
+            "text": "In that case, I bet it'll be the nepo baby.\nYou\nknow, that legendary racer's\ndaughter!",
+            "name": "Excited Spectator"
+        },
+        {
+            "text": "Well, I want Спешл Уик to win! I was\nwatching\nthis special feature where...",
+            "name": "TV-Loving Spectator"
+        },
+        {
+            "text": "Here I am... at the Derby.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Feeling nervous?"
+            ]
+        },
+        {
+            "text": "Ha! A-as if! I'm as c-c-calm as ever!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "This'll be NO problem! You saw me in\nthe Satsuki\nSho, right?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I have nothing to worry about! I'm going\nto win\ntoday, that's all!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Even if it <i>is</i> the Derby! No! Precisely\n<i>because</i> it's\nthe Derby!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'll win this race, no matter what...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Then my mother will finally acknowledge\nme!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Five minutes later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "All I see before me... are carrots. Fields\nupon\nrolling fields of carrots.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's okay. I'm okay. There's nothing to\nworry\nabout...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I swear! They're so noisy! I haven't even\nwalked\nout yet!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh... But that means... Who are they\ncheering\nfor?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Wow! Thank you for your support!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I won't lose this race! I'm gonna run with\n\neveryone's support driving me forward!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm gonna win the Derby and make all of\nyou\nproud!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "This one's for both my mom who gave\nbirth to me,\nand my mom who raised me!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm going to be the number one\nUmamusume in\nJapan!",
+            "name": "Спешл Уик"
+        }
+    ]
+}

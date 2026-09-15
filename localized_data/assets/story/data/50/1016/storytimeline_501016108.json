@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the Spring Fan Fest and the\nacademy is\nbustling with both students\nand fans."
+        },
+        {
+            "text": "Hey, Trainer! Have you seen Голд Шип?!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "No, sorry..."
+            ]
+        },
+        {
+            "text": "Tch! Where the heck did she go?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Bakushin, Bakushiiin!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Damn! Bakushin O is also on the loose!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Geez. We've got to do something before\nthis\ndevolves into pure chaos. Should we\ndeal with\nГолд Шип first, or—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Outta the way! I'm running here! The\nmain street\nbelongs to meeee!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Gaaah!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Everyone's just doing whatever they\nwant! Think\nabout the people who have\nto clean up after you!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "...This doesn't seem good."
+            ]
+        },
+        {
+            "text": "...I should have never agreed to patrol.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This is all the Empress's fault, always\nnagging\neveryone and telling people to\nwork harder.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This is a total handful. There's no way I\ncan\nhandle the plaza alone.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Then, why not get some help?"
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right! Now, everyone get out there!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Right! Let's go!",
+            "name": "Miho Dormitory Students"
+        },
+        {
+            "text": "I'll deal with Turbo. I've received a lot of\nhelp\nfrom the student council, after all.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Give me somethin' to do, Brian! I'll show\nya what\nI'm made of!",
+            "name": "Водка"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "When I mentioned that Нарита Брайан\nneeded some\nhelp, there was no\nshortage of volunteers.",
+            "choice_data_list": [
+                "They all want to help you, Brian."
+            ]
+        },
+        {
+            "text": "Heh... It's not me they want to help.\nThey just\nwant to help the student\ncouncil.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian! What should I do?!",
+            "name": "Водка"
+        },
+        {
+            "text": "Do whatever you want.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Whaaat?! C'mon, this is my big chance\nto work\nwith y—",
+            "name": "Водка"
+        },
+        {
+            "text": "Gyaaaaah! Ghost! There's a ghost\nwearing a\nburlap sack!",
+            "name": "Street Vendor Umamusume"
+        },
+        {
+            "text": "Tch, sounds like Голд Шип! I'm going.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Um...",
+            "name": "Водка"
+        },
+        {
+            "text": "You come too! Stopping Голд Шипп is no\nwalk in\nthe park!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "R-right!",
+            "name": "Водка"
+        },
+        {
+            "text": "Hold it right there, Голд Шип!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Whoaaa, mitts off, Brian! This is <i>my</i> bag!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Tch! ...Well, I won't give you the time to\nenjoy it!\nВодка, 3 o'clock!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Gotcha!",
+            "name": "Водка"
+        },
+        {
+            "text": "Darrrn yooou! I'll remember this!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hell yeah! Sayin' stuff like \"3 o'clock!\" is\njust <i>way</i>\ntoo cool!",
+            "name": "Водка"
+        },
+        {
+            "text": "Hm. Thanks for the help, Водка.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Um... Brian?",
+            "name": "Водка"
+        },
+        {
+            "text": "Could ya say that again? Say it just one\nmore\ntime, please!",
+            "name": "Водка"
+        },
+        {
+            "text": "Gotcha!",
+            "name": "Водка"
+        },
+        {
+            "text": "All right! What's next, Vice Prez?",
+            "name": "Водка"
+        },
+        {
+            "text": "<i>Sigh...</i> Calm down. Enjoy the fact that\nnothing's\nhappening.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hehe, it seems everyone's taken quite a\nliking to\nyou, Brian.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...President.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "A little bird told me you've recruited\nsome\nstudents to assist with your duties.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Seeing you like this makes me proud. I'd\nlove to\nsee you leading the student\ncouncil one day.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Pass.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Haha, maybe one day.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "After that, Нарита Брайан continues her\nwork with\nthe help of the other students."
+        },
+        {
+            "text": "I get to see how much everyone adores\nNarita\nBrian as the student council\nvice-president."
+        }
+    ]
+}

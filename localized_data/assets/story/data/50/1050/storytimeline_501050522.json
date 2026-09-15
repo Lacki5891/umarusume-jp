@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I need to ask Нарита Таисин something,\nso I go\nlooking for her on the rooftop. I\ndon't see her\nright away, but then I hear\na voice...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, another ad? I've hardly been able\nto\nprogress the story because of these\ndamn ads...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh, what's this one? \"Real results in just\nthree\ndays!\" \"Get rid of old, dead skin\ncells!\" \"Reveal a\nfresher, brighter you!\"",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hmm...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Don't even think about buying shady products\nlike that!"
+            ]
+        },
+        {
+            "text": "Whoa! Don't scare me like that. I'm not\ngullible\nenough to believe something so\nstupid, anyway!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "So she says, but it seems like she's\nworried about\nher skin.",
+            "name": "Монолог"
+        }
+    ]
+}

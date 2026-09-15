@@ -1,0 +1,369 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With her debut not long behind her, we\njoined\nsome much-needed scrimmages\nto bolster her\nability to compete in large\ngroups, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Gasp... Pant...</i> Third place?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Damn!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "In one scrimmage she'll take first, then\ntake sixth\nin the next. And then first\nagain. Her results\nrefuse to stabilize.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(She's just going to get stressed out at this\nrate...)"
+            ]
+        },
+        {
+            "text": "But through these scrimmages, I've come\nto\nidentify her problem...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Graaaah!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...Hyah!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "When challenged by another runner, she\nfocuses\nher energy on the challenger\nuntil they back\ndown, for the entire race\nif need be.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, when she races against multiple\n\nopponents...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haaa!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Think you can pass me?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Нарита Брайан is unable to run at her\nnatural pace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Tch!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "(I want to do something, but...)"
+            ]
+        },
+        {
+            "text": "Hey, you!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Me?!"
+            ]
+        },
+        {
+            "text": "You're Brian's trainer, right? Is she sick\nor\nsomething lately?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She hasn't been herself since her debut!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Where's that insane strength I saw\nduring our\none-on-one?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Brian's best at one-on-one races."
+            ]
+        },
+        {
+            "text": "<i>Gulp!</i> W-Well yeah, I can't argue with\nthat\nconsidering I absolutely got\nwrecked...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Urk... Come on! Don't make me\nremember that!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hurry up and get Brian back on her feet!\nI only\nbeat people down when they're at\ntheir peak.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The longer I have to hold back now, the\nmore I'm\ngonna let loose when we race!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "(Hold back... then let loose...)"
+            ]
+        },
+        {
+            "text": "What is it, Тренер?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You want to win, right?"
+            ]
+        },
+        {
+            "text": "Tch... Duh. You think there's a racer out\nthere\nthat wants to lose?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "In that case, why don't we change our strategy?"
+            ]
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...In short, if someone passes me in the\nmiddle of\nthe race, I should just let\nthem?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're telling me to just run away with\nmy tail\nbetween my legs when there's a\nchallenge right in\nfront of me?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "No, that's not what I mean!"
+            ]
+        },
+        {
+            "text": "...Okay, then what <i>do</i> you mean?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "It's not running away or holding back—it's\nsaving your energy for later."
+            ]
+        },
+        {
+            "text": "...Saving energy?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All of her problems stem from her fierce\n\ncompetitive spirit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Given that, if she can build that spirit\nup, convert\nit into energy, and release it\none huge burst...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You can run in a way that's special to you."
+            ]
+        },
+        {
+            "text": "Special... to me?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "The first across the finish line is the winner,\nafter all."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...You have to be more detailed than\nthat.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "At the next scrimmage, seven new racers\ncome to\nparticipate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Since Brian's doing so poorly lately, I\nfeel like I\ncan actually win!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Me too! I'm definitely not gonna lose!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "...Trainer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "\"Store up and then explode,\" right?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "That's right."
+            ]
+        },
+        {
+            "text": "What about the timing?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'll leave that up to you."
+            ]
+        },
+        {
+            "text": "Just like when racing one-on-one, her\n\ncompetitive instincts are excellent when\nshe's in\nfull control of herself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmph...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "With nothing more than that to say, she\nmakes\nher way to the gate. And then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Ka-thunk!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "First place is mine!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Like I'll just hand it over! Hehe, see ya!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "As soon as the gate opens, the two\nracers fight\nvigorously for first place. As\nfor Нарита Брайан...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, pardon me. Do you mind if I sit next\nto you\nand watch?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Go ahead."
+            ]
+        },
+        {
+            "text": "What's this? She looks much more\nrelaxed than\nbefore. Found a new\nsolution, did we?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The competition is pretty fierce at the\nfront.\nНарита Брайан must be up there too.",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "Huh? She's not?! She's hanging back in\nthe middle\nstill!",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "Oh? It's quite rare for her to stay out of\nthe\naction intentionally.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(Gah... So frustrating... I just want to run\nto the\nfront!)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(This is actually killing me... My prey is\n<i>right\nthere,</i> mine for the taking, and I\ncan't chase them\ndown!)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "(That's it, I can't take it anymore—I need\nto hunt!)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Haha... I get it now.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...So this is saving energy? You're really\nasking a\nlot of me, Trainer!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh, they're almost to the fourth turn.\nAnd the\nlead... hasn't changed?",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "She wasn't making progress before, but I\nthink\nthis settles it—Brian really is in a\nslump.",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "That can't be right... This doesn't align\nwith my\ncalculations. Has she lost her\npassion? Or, don't\ntell me...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "(That's right. This isn't the end.)"
+            ]
+        },
+        {
+            "text": "Нарита Брайан has been biding time,\nwaiting for her\nperfect moment to\nattack!",
+            "name": "Монолог"
+        },
+        {
+            "text": "And then, as they come out of the fourth\nturn...",
+            "name": "Монолог"
+        },
+        {
+            "text": "(Time to go in for the kill—break\nthrough these\nrestraints and seize victory\nby the throat.)",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...At last, the moment I've been waiting\nfor.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Huh? What was that just now?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "RAAAHHH!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Gyah!",
+            "name": "Умамусумэ А and B"
+        },
+        {
+            "text": "Wh-what the?! Нарита Брайан is barreling\nto the\nfront!",
+            "name": "Skilled Trainer"
+        },
+        {
+            "text": "She's fast! How can she be so fast?! She\ncouldn't\npass anyone before!",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "How fierce! So this is how she races now!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "No... the word \"race\" is hardly fitting.\nThis is more\nlike... a hunt!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Нарита Брайан shoots forth like a bird of\nprey\nhurtling toward its target.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With no concern for her entranced\naudience, she\nblasts across the finish\nline!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff... Puff...</i>",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Now that's more like it!"
+            ]
+        },
+        {
+            "text": "...Pfff, hahaha!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What are you talking about? I've never\nfelt like\nthis before.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What were you thinking teaching me\nthis? This\nfeeling could become an\naddiction!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан shows no signs of her usual\nfatigue at\nthe race. In fact, she is\npositively glowing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I do believe we've taken one further\nstep into the\nfuture.",
+            "name": "Монолог"
+        }
+    ]
+}

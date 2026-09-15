@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Incredible! Absolutely incredible! Please\ngive a\nround of applause for the winner\nof this year's\nArima Kinen!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, Маяно Топ Ган was absolutely\n\nincredible. For a moment there, I\nthought she was\ngonna beat Brian.",
+            "name": "Fan A"
+        },
+        {
+            "text": "Heheh. Then you still have a lot to learn.\nThe\ndifference in ability between them is\nhuge.",
+            "name": "Fan B"
+        },
+        {
+            "text": "Regardless, she's quite capable. She\nmight have a\nchance... at next year's\nArima.",
+            "name": "Fan B"
+        },
+        {
+            "text": "<i>Gasp... Pant... Wheeze... Huff...</i>",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Are you okay, Mayano? You look like\nyou're in\npain...",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Mayano!"
+            ]
+        },
+        {
+            "text": "Thank goodness. You're her trainer,\nright? It\nlooks like she's pushed herself\ntoo far. She needs\nto rest immediately...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's okay... I'm fine. It's just...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That was so much fun!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Huh?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right, let's move on. If you have a\nquestion\nyou'd like to ask, please raise—",
+            "name": "Staff"
+        },
+        {
+            "text": "Oooh! Pick me, pick me, pick me!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Okay. How about yo—Mayano Top\nGun?!",
+            "name": "Staff"
+        },
+        {
+            "text": "<i>Chatter, chatter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hi, Brian! What race are you gonna run\nin next?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I wanna race you again!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Right up until the end of that race just\nnow, I\ndidn't know what to do or what to\nexpect... My\nheart was pounding the\nwhole time...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It was so, so, sooo exciting!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hmph. Next question, please...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, wait! No fair! Don't avoid my\nquestion!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What did you just say? You think I'm\ntrying to\navoid <i>you</i>?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yeah, because you are! You're avoiding\nmy\nchallenge!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Even though you're so powerful and\ntwinkly!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Is it because you're worried that you'll\nactually\nlose to me next time?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "E-erm... Маяно Топ Ган... You do\nknow you just\nlo—",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "But I'm gonna win next time!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I finally feel like I can twinkle. There's no\nway I'd\nbe satisfied with letting things\nend here!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "B-but... next time won't be any different.\nThere's\na clear gap in ability between\nthe two of—",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "The Hanshin Daishoten.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "There's your answer. Next question.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Uh... Okay then! Any another questions?",
+            "name": "Staff"
+        },
+        {
+            "text": "Huh... That was pretty fresh, Mayano.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I should have expected you to do\nsomething\nreckless. You truly don't\nknow fear. Either that,\nor—",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "She's brave."
+            ]
+        },
+        {
+            "text": "Haha! She's got you hook, line, and\nsinker!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But that's a good thing. I'll have to\nremember the\ntwo of you.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Traaaaainerrrrr!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Listen, listen! I wanna race in the\nHanshin\nDaishoten next!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I figured as much."
+            ]
+        },
+        {
+            "text": "Huh, how'd you know? Telepathy?! Or\nare we\nsoulmates?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I figured it out from how excited you were."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe! Of course you'd realize.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Okay! I'm definitely going to beat Brian\nat the\nHanshin Daishoten! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll face whatever turbulence\nhead-on—because\nthat's the way I fly!",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

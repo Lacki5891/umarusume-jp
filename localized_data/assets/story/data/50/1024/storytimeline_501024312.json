@@ -1,0 +1,67 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Well what?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If we're done here, I'm heading back to\ncampus.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "To run, by any chance?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Shut up.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Pant... Pant... Gasp...</i> How did I do,\nТренер?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I've improved a lot, right? I'm much\nfaster now.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You sure are!"
+            ]
+        },
+        {
+            "text": "Ehehe! Thanks! ♪ I really felt like myself\ntoday. ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hehe! I wasn't about to have my flight\npath\naltered by anyone else on the\ntrack! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Now then! I've secured our next target!\nIt's...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "The autumn Tenno Sho!"
+            ]
+        },
+        {
+            "text": "Roger! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "All right! Full speed ahead! ♪",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

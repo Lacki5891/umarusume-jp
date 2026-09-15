@@ -1,0 +1,168 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's another ordinary day, and I decide to\ntake a stroll through the\nacademy. As I\npass by the student dormitory, however—",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhhhh!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Waaaah! I'm sorry! I'm sorry! I'm so, so\nsorry!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "From the halls of the Ritto dormitory, I\nhear somebody scream,\nfollowed by what\nsounds like Матиканэфукукитару furiously\n\napologizing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant...</i> Somebody... Please help...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh, it's you! Perfect timing! So I'm in a bit\nof a kerfuffle... Do you\nthink you could\nlend me a hand?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "It sounds like you're up to something..."
+            ]
+        },
+        {
+            "text": "W-wait! Hear me out! You need to help\nme!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "C'mon, we're in this together! The great\nShiraoki led you to me for a\nreason! Follow\nme!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Without even waiting for my response,\nMatikanefukukitaru grabs my\nhand and\nleads me to one of the dorm rooms.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I look into the room, but my vision is\nobscured by a giant mountain of\ngarbage.\nThe scream from earlier must have come\nfrom the now\nburied roommate.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's with all this trash?"
+            ]
+        },
+        {
+            "text": "None of this is trash! It's all my lucky\ncharms! I've spent half my life\ncurating this\nmagnificent collection!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Everything here is too valuable for me to\njust throw away! But my\ntreasure mound\nkind of toppled over and may have\ncompletely\nswallowed my friend...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's fine though! If I keep this up, I'll have\nenough stuff to cover all of\nTracen\nAcademy! Or well... I think so, at least.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Here's a trash can we can use."
+            ]
+        },
+        {
+            "text": "Huh?! Whaaaaat?! How could you say\nsomething so blasphemous with\nsuch a\nstraight face?! I can't throw any of this\naway! Outta the\nquestion!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "You know these are my lucky charms,\nright? The good fortune I\nreceive from\neverything here is why I'm at this academy\nin the first\nplace! Throw it all away?! I\nwould never!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "A mountain of lucky items doesn't sound safe\nthough."
+            ]
+        },
+        {
+            "text": "<i>Sniffle...</i> I guess so... I mean, it's already\nconsumed its first victim...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Urgh... It pains me to admit it, but if the\ntrainer sent to me by the\ngreat Shiraoki\ntells me so, I suppose there's not much I\ncan do...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "All right, then. I'll get rid of some of it.\nJust a tiny bit though! Only\nthe stuff I\ndon't need!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "After helping Матиканэфукукитару gather\nthe lucky items she deems\nunnecessary, we\nhead to the incinerator behind the school\nbuilding.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Awww, man... I can't believe I'm burning\nmy lucky items—even a tiny\nportion of\nthem. How depressing...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Sniffle...</i> Okay, I think I'm ready... Where\nshould we start?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "How about this charm?"
+            ]
+        },
+        {
+            "text": "Nooo, that charm helped me reach the top\neight in a ball tournament\nback in\nelementary school! Are you mad?! We\ncan't start with\nsomething so important!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Then what about this doll?"
+            ]
+        },
+        {
+            "text": "No way! Back when I was little, I almost\ngot run over by a tricycle.\nThat doll got\nrun over in my stead! Who knows what\nwould happen if\nwe burned it?!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "This empty pudding cup then?"
+            ]
+        },
+        {
+            "text": "That's the pudding cup from when I was\nfour and opened one by\nmyself for the\nvery first time! Burning that is out of\nquestion!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Argh, I can't do this! I'm begging you,\nplease don't make me get rid of\nmy stuff...\nI'll do anything, I swear!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Seeing Матиканэфукукитару fall to her\nknees in despair, I decide that\nburning her\npossessions might not be for the best and\ntake a step\nback from the incinerator.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Every one of these lucky items is dear to\nme... But at the same time,\ntaking them\nback to my room would just lead to\nsomeone else getting\nhurt...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What should I do? Any suggestions? I'll\ngive you a wisdom charm.\nLet's think about\nit together...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What if I held onto your stuff for you?"
+            ]
+        },
+        {
+            "text": "You? Hold onto my stuff for me? Would\nyou really?! I'd really\nappreciate it! I don't\nmind sharing luck with you!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Seriously... What a huge relief... I was\nworried for a second there.\nThrowing away\neven one of my lucky items would be... I-I\ndon't want\nto think about it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Y'know how I said I'd appreciate you\nholding onto my stuff for me\nearlier?\nWell... I do, but... would it be okay for me\nto stop by once a\nweek to see my things?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "I mean, sure. Why not?"
+            ]
+        },
+        {
+            "text": "Thank you so much! I'm so glad it's you\nwho's watching my stuff for\nme!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Well, with that said... Good night! Take\ngood care of my lucky items\nfor me!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару bids her belongings\nfarewell and takes her leave,\nwaving her\nwhite handkerchief as she reluctantly\nreturns to her dorm\nroom.",
+            "name": "Монолог"
+        }
+    ]
+}

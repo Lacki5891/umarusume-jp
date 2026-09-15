@@ -1,0 +1,90 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The autumn Tenno Sho has arrived. If\nMayano\nTop Gun can get through this,\nthen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's go, Trainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Gimme the power to win here! I have to\nget to the\nArima Kinen!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Do your best!"
+            ]
+        },
+        {
+            "text": "I will!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "W-wait... Excuse me!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Whoa! Teio?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Bingo! It is I, Токай Тэйо!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "But forget that! I have to tell you\nsomething,\nMayano! It's a special\nmessage from Hishiama!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Ahem. \"Mayano! Ever since this spring,\nyou have\nbeen my...\" blah, blah, blah...\nWe can skip this\npart.",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "Are you sure you can skip it?!"
+            ]
+        },
+        {
+            "text": "It's fine! The important part comes right\nat the\nend!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I can't wait to see how much you've\nimproved.\nAfter today, consider us rivals.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Word for word! I totally get what she\nmeans. I\nwanna face off against you too,\ny'know!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "So you can't lose! Ya gotta win!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Get to the top and leave everyone else\nin the\ndust!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Haha! So you're telling me to be the\nfront runner?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Don't tell me you only know how to\nchase!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "No way, of course not! ☆ Right, Тренер?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You can do anything, Mayano."
+            ]
+        },
+        {
+            "text": "Heh! Exactly! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "So that means you two can't look away\nwhile I'm\nrunning. Got it? ♪",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

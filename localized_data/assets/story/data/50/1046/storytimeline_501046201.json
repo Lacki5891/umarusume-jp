@@ -1,0 +1,86 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Think there'll be a Triple Crown\nchampion this\nyear?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Beats me! But personally, I've got my\neye on...",
+            "name": "Fan B"
+        },
+        {
+            "text": "Today is the long-awaited Satsuki Sho.\n\nExpectations couldn't be higher for the\nfirst leg of\nthe Triple Crown. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, about this \"Смарт Фалкон\"... Doesn't\nshe\nusually compete in dirt races?",
+            "name": "Fan A"
+        },
+        {
+            "text": "I wonder why she's running today. Is she\ngonna be\nokay?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Maybe she's just as good on turf. At any\nrate, I've\nheard her concerts are a blast...",
+            "name": "Fan B"
+        },
+        {
+            "text": "People seem shocked to see me here.\nFigures, I\nguess.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You don't seem fazed."
+            ]
+        },
+        {
+            "text": "Well, yeah. I knew this would happen.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "On dirt, I'm the up-and-coming Umadol\n\neveryone's talking about...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But here, I'm just a regular runner. It\nmakes sense\nfor everyone to be a little\nconfused.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's fine with me, though! I have faith\nin myself.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm super-duper nervous, but... I've got\nto believe\nI can do it.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I've already come this far. The only thing\nleft to\ndo is grab that center spot!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm gonna show all my fans just how\ngood I can\nsing on a big stage!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Her eyes waver, but only slightly.\nNonetheless,\nshe steps up to the\nchallenge, choosing to believe\nin\nherself...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "L-O-V-E! Who do we love? Falco!"
+            ]
+        },
+        {
+            "text": "...?!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I believe in you too."
+            ]
+        },
+        {
+            "text": "...Haha, I should know this by now. I'm\nnot on my\nown.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Thanks for the cheer. Time to go! ☆",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With all of Симболи Рудольф's races over,\nnow is as\ngood a time as any to reflect\non her\nachievements.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Judging purely by number of accolades,\nmy\nrecord is not as incontestable as I\nmight have\nhoped.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "But everyone still knows you're the Emperor."
+            ]
+        },
+        {
+            "text": "That's... kind of you to say.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If I have achieved that much, I can call\nmy\nimperial campaign a success.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "These victories will fuel me to pursue\neven\ngreater feats.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You did good."
+            ]
+        },
+        {
+            "text": "As did you, Trainer. Thank you.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

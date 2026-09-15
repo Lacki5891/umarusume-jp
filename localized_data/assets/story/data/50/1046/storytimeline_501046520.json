@@ -1,0 +1,223 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "в тренировке with Смарт Фалкон..."
+        },
+        {
+            "text": "Ugh! My legs are all gross!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It was raining not that long ago, so the\ntrack's\ncondition is just the worst!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Want to stop here?"
+            ]
+        },
+        {
+            "text": "Yeah, maybe we should. I really wanna\nkeep\ngoing, but...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As a cute Umadol, I think this amount of\nmud is\njust not gonna work...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...Phew.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I can't let myself get cold... Maybe I\nshould\nstretch for a bit.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oh, look, Trainer! It looks like Oguri is\ntraining\ntoo!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As a fellow Umadol, I can't not say\nhello! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Огури Кэп is an Umadol?"
+            ]
+        },
+        {
+            "text": "Of course! After all...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oguri is super popular with people in her\n\nhometown, Kasamatsu!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "In my eyes, that makes her a super\nfamous\nUmadol!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "What a unique perspective..."
+            ]
+        },
+        {
+            "text": "Good work out there, Oguri! ☆ We're\nboth totally\ncovered in mud, huh?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hm... Falco? Now that you mention it,\nwe are.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'm thinking of finishing up soon. Are you\ngonna\nkeep going?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Doesn't training in the mud bother you\nat all?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "No, not particularly.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I think it's because no matter how dirty I\nget,\neveryone in my hometown has\nalways supported\nme.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Well... I'm going to get back to training.\nSee you.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Urghhh! Looks like my research was\nlacking!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That unflappable spirit must be the core\nof\nOguri's Umadol identity!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "All right! I can't let anyone outdo me\nwhen it\ncomes to sheer Umadol spirit!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I've gotta train with Oguri and get closer\nto\nbecoming a top Umadol!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Go all out and do your best!",
+                "Let's ask her to do some partner running."
+            ]
+        },
+        {
+            "text": "I've gotta train with Oguri and get closer\nto\nbecoming a top Umadol!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Go all out and do your best!",
+                "Let's ask her to do some partner running."
+            ]
+        },
+        {
+            "text": "Thanks, Trainer! ☆ I'm off, then!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Oguri! I'm gonna keep training too!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Falco... I see.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Okay... Let's run until we feel like we're\ngoing to\ncollapse.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Yes! I was hoping you'd say that!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hehe, thank you. I have more to look\nforward to\nnow.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "After all, the more energy you expend,\nthe more\ndelicious the food you eat\nafterwards will taste.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Huh? Wait, don't tell me...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Is <i>that</i> the reason why you don't care if\nyou get\ndirty while you train?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yes, that's right.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "YAAAAGH!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "<i>Craaash!</i>",
+            "choice_data_list": [
+                "Falco?!"
+            ]
+        },
+        {
+            "text": "Falco?! It's too early to collapse!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Yeah, that's the plan! Well then, off I\ngo!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hey, Oguri! I was wondering if you'd\nmind doing\nsome partner running with\nme?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Falco... Okay, sure.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "You set the pace, and I'll run from\nbehind, like a\nreal race.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Yes! I was hoping you'd say that!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "After they finish their training..."
+        },
+        {
+            "text": "Oh... Falco, you've got mud on your\ncheek.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "What?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "No! No, no, <i>no!</i> I can deal with it if it's\non my\ntracksuit, but...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As an Umadol, my face is a no-go!\nTrainer, get me\na towel!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "U-Umadol pride is something else..."
+            ]
+        },
+        {
+            "text": "...In any case, Смарт Фалкон's awareness\nas a front\nrunner improves significantly\nthanks to pair\nrunning with Огури Кэп!"
+        },
+        {
+            "text": "Afterwards, Смарт Фалкон continues\nrunning with\nOguri Cap, significantly\nimproving her hardiness\nand\nperseverance!"
+        }
+    ]
+}

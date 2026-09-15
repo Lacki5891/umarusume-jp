@@ -1,0 +1,56 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out with Марузенски...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Claw machines! These are so huge with\nthe kids\nright now.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I used to play them all the time... But\nonce I got\nthe hang of it, the thrill was\ngone!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, look over there! That plushie is <i>mad</i>\ncute!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I turn to see Umamusume plushies on\ndisplay as\nprizes for a claw machine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I want that one so bad! Can you get it\nfor me?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Didn't you say you were good at claw\nmachines?"
+            ]
+        },
+        {
+            "text": "You just don't get it, Trainer...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You just don't get it, Trainer...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Having someone win it for you feels\ntotally\ndifferent from winning it for\nyourself.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You got this, Trainer! I know you can do\nit! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You got this, Trainer! I know you can do\nit! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

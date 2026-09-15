@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of Нарита Брайан's debut is finally\nhere.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...There's a lot of competition.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You think so?"
+            ]
+        },
+        {
+            "text": "I check the list, but there's a normal\nnumber of\nracers for a debut race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...This is <i>normal?</i>",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Incredible!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "You kind of look happy."
+            ]
+        },
+        {
+            "text": "...Hmph. How I'm feeling now doesn't\nreally\nmatter.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I won't know anything until I run. But this\njust\nmight be the place that actually\nfulfills me.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...All right, it's time. My Twinkle Series\ndebut\nstarts here.",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

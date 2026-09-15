@@ -1,0 +1,227 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Buckle up! Time for a one-on-one!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hearing a spirited voice echoing from the\ndirection of the pool, I\ndecide to go take a\nlook."
+        },
+        {
+            "text": "There I find two clusters of students\nbuzzing excitedly around Hishi\nAmazon\nand Фудзи Кисэки."
+        },
+        {
+            "text": "Oh! Hello, Trainer! Did you come to watch\nthis month's \"Battle of the\nDorms: Pool\nEdition\" too?",
+            "name": "Miho Umamusume",
+            "choice_data_list": [
+                "There are dorm battles? And editions?"
+            ]
+        },
+        {
+            "text": "That's right! This one's a competition to\ndecide which dorm's in\ncharge of cleaning\nthe pool!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Hahaha. It might be nice to clean it\ntogether once in a while as well.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Nope, the loser's gotta do it!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I mean, don't get me wrong. It's not that I\ndon't like cleaning, even if\nit <i>is</i> hard work.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But as the proud leader of the Miho Dorm,\nI'll be damned if I lose to\nmy Ritto\ncounterpart!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Woo, that's our Hishiama! You've got this\none in the bag! Hope you're\nready, Ritto\nDorm!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Hehehe. I should have known you'd see it\nthat way, Hishiama.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Not that I don't share your sentiment. I\ncouldn't bear to dampen the\nspirits of my\ndarling ponies any further.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "As head of Ritto Dorm, I shall rise up to\nthis challenge!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Squee! You're the absolute <i>coolest,</i> Fuji!\nGet out there and show\nthose Miho Dorm\nscrubs who's boss!",
+            "name": "Ritto Umamusume"
+        },
+        {
+            "text": "All right! Let's see how we'll be battling it\nout!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "With that, a student comes running over\nholding five strips of paper,\neach bearing a\npotential challenge."
+        },
+        {
+            "text": "Tasked with deciding the theme for their\nmatch, Amazon selects one\nof the slips..."
+        },
+        {
+            "text": "What?! A-a pop quiz showdown?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh no! Of all the things... That's the type\nof contest she struggles\nwith the most!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Talk about a lucky break! Fuji's got\neverything—including brains!\nMiho Dorm\ndoesn't stand a chance. Ritto's practically\nwon already!",
+            "name": "Ritto Umamusume"
+        },
+        {
+            "text": "Argh...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "No... You never know until you try!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm not gonna throw in the towel before we\neven start! It's you and\nme,\nFuji—one-on-one!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Ahaha, I had a feeling you'd say that! Then\nwithout further ado, let's\nget this show on\nthe road!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hello, hello! You'll need a neutral party to\nask the questions, and\nsince I don't belong\nto Miho or Ritto, I'll do the honors!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Thank you for agreeing to help us,\nМарузенски.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, think nothing of it. This is fun for me\ntoo! ♪ Now then, let's kick\nthings off with\nour first question!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "When too many people are involved in\nmanaging or making a\ndecision, it can end\nup complicating matters. In other words,\n\"Too\nmany cooks\"...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ooh, me! Me, me, me, me, me!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "My, that was fast! Hishiama, your answer,\nif you please!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heh. So basically, it's bad news when\nthere's no clear leader to rally\nbehind,\nright?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "In that case... everyone can just follow me!\nI'll take any and all under\nmy wing! That's\nmy answer!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hahaha! That sounds just like you. But as\nmuch as I adore your\nresponse, I'm sorry to\nsay it's incorrect.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hmm. I believe the answer is \"Too many\ncooks spoil the broth.\" Right?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Correct! That's one point for Fuji! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What?! Dammit... Bring on the next one!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Although Amazon is consistently first to\nbuzz in, she nevertheless\nanswers each\nquestion incorrectly, causing the point gap\nto gradually\nwiden."
+        },
+        {
+            "text": "However..."
+        },
+        {
+            "text": "Here comes the final question! \"Many\ndrops make a shower\"—",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Awww yeeeah! Me, me, meee!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The answer is \"Every little bit helps\"!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Whoa!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh my! Ding, ding, ding! That's\none-hundred percent correct,\nHishiama!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "By the way, the full question was, \"'Many\ndrops make a shower.' What\nis the\nmeaning of this proverb?\"",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Bwahaha, how 'bout them apples? I'm not\ntoo shabby at English lit!\nPlus, I just came\nacross that phrase the other day—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Yes, I taught you that proverb when I was\nhelping you study for your\nmakeup exam.\nI'm so glad you remembered it,\nHishiama! ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Sh-shut it! I still got the answer right!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "In the end, Amazon only answers that one\nquestion correctly, and the\nmatch ends in\na landslide victory for Fuji and the Ritto\nDorm."
+        },
+        {
+            "text": "Argh, I can't believe I lost!\nSorry, guys! I\nwas totally useless out there...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "No! That's not true at all!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "You refused to give up even when things\nweren't going your way, and\nyou kept\nfighting right up to the very last moment.\nIt seriously lit a\nfire in my heart!",
+            "name": "Miho Umamusume"
+        },
+        {
+            "text": "Really? Hehe! You sure know how to make\na gal blush.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Well, a loss is a loss. Let's get that pool\nspick and span! I'll spearhead\nthe\nscrubbing, so try to keep up!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "And you can bet I won't lose to Fuji next\ntime around! I'll have my\nrevenge—just you\nwait and see!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Clap, clap, clap...</i>",
+            "name": "Miho Umamusume",
+            "choice_data_list": [
+                "(That's what I call a great personality!)"
+            ]
+        },
+        {
+            "text": "I leave with a striking impression of Hishi\nAmazon as someone who\nrefuses to run\naway, no matter the situation."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The spring Tenno Sho has arrived. Tamamo Cross \nis competing, so Oguri Cap and I came to scope \nher out. However...",
+            "color_text_info_list": [
+                "spring Tenno Sho"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Wow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's an incredible race."
+        },
+        {
+            "name": "Caster",
+            "text": "She's pulled ahead! Tamamo Cross has taken the \nlead! Tamamo Cross is out in front! Tamamo Cross \nis leading the pack!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross breaks away from the middle and \nimmediately overtakes everyone in front of her."
+        },
+        {
+            "name": "Caster",
+            "text": "Tamamo Cross blazes forward at lightning speed! \nShe's got a commanding lead!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tama's incredible."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "She's truly fast... and powerful too."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hey, I want..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I really want to compete against Tama!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In that case, there's only one choice for our next \nrace.",
+            "choice_data_list": [
+                "Let's enter the autumn Tenno Sho!",
+                "Let's enter the autumn Tenno Sho!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks! I'm gonna give her a run for her money!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen is still ahead of us, but Oguri \nCap has already found her next goal!"
+        }
+    ],
+    "title": "At the Tenno Sho (Весна)"
+}

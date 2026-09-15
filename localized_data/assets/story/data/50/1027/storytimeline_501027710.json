@@ -1,0 +1,82 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ugh... I lost!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But I know I gave it everything I got, so\nno regrets\nhere.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "I'm relieved that you're not feeling down."
+            ]
+        },
+        {
+            "text": "Yeah... But there are some things I need\nto reflect\non.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I was overwhelmed by everyone else's\nintensity\nand lost... This just goes to\nshow I still lack\nexperience.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I don't think I was less focused on\nwinning than\nthe others, but it's still\npretty frustrating!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You can take all that energy and pour it into\nthe next race.",
+                "Let’s use that feeling as a springboard to future\nsuccess!"
+            ]
+        },
+        {
+            "text": "...You're right! Thank you.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ooh, yeah! I can feel power welling up\ninside me\nagain!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Haha, that's pretty amazing. It must be\nbecause\nof your help, Trainer.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It's giving me another kind of strength,\ndifferent\nfrom what my muscles give me.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'll put that power to good work next\ntime.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Yeah! All right, now I'm feeling inspired!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I can't keep on losing. Next time, I really\nwanna\nwin!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Me too!"
+            ]
+        },
+        {
+            "text": "Heh... Then it looks like we both know\nwhat needs\nto be done.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Will you spot me again, just like always?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "...Let's get swole?"
+            ]
+        },
+        {
+            "text": "So... please keep on training me to be\nthe best I\ncan!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Fist bump! Yeah, that's what I'm talking\nabout!",
+            "name": "Мэдзиро Райан"
+        }
+    ]
+}

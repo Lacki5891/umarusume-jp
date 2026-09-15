@@ -1,0 +1,247 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back from a walk, I run into\n\nМатиканэтангейзер and some of her\nfriends, and\nwe all head back to the\nacademy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Geez... I can't believe I ended up\nnodding off\nduring hide-and-seek...",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "You were playing hide-and-seek?"
+            ]
+        },
+        {
+            "text": "Yeah. We were playing with some kids\nas part of\nour volunteer work.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "But I ended up falling asleep in the\nmiddle of the\ngame...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "There's no need to get so down about it!\n\nEveryone looked like they were having a\ngreat\ntime.",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "But Tannhauser, I have to ask, where the\nheck did\nyou hide?",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "Even after the kids left, we still couldn't\nfind you.\nWe were panicking, thinking\nsomething had\nhappened to you.",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "I heard we were gonna play\nhide-and-seek at the\npark, so I went\nahead and scoped out the best\nspots\nbeforehand.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Wait, don't tell me...",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "Is that notebook filled with hiding\nplaces?",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "I don't get it, though. I thought I'd\npicked a spot\nwhere even a kid should\nbe able to find me\neasily...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "...Wait!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Could it be that I'm so normal and\nboring that the\nkids just forgot about\nme?!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Um, no... I really think it's just that you\nhid too\nwell...",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "Oh, this is no good at all! I've got to\nbecome an\nUmamusume brimming with\ncharacter so nobody\nwill forget me\nagain!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Um! I think you're fine and memorable\njust the\nway you are!",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Thanks for the vote of confidence! But\nit's\nokay—I'm determined to be better!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "So, this is where I ask you, the\nprofessional\ntrainer, to give me some\nadvice.",
+            "name": "Матиканэтангейзер",
+            "choice_data_list": [
+                "Maybe you should discuss this with other\nUmamusume.",
+                "I think you're fine as you are."
+            ]
+        },
+        {
+            "text": "You're so right! Академия Тайсен is <i>full</i>\nof unique\nUmamusume!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Okay! I'll go talk to them!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Uniqueness, you say? Ah, I see... you\nlong to be\neven a fraction as remarkable\nas myself, the great\nТ.М. Опера О!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Excellent! Put those feelings into song!\nCome,\nplay it for me! The aria of your\nsoul!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Um, okay—here goes! Oh, how I\npraaaay! ♪ That\nI will becooome a\nunique Umamusumeeee! ♪",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Well, th-that was a beautiful song, but...",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Maybe that's not the <i>best</i> way to define\nyourself,\nTannhauser...",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "You wish to be unique? Hehe, what a\nsplendid\nproposition! Here, I'll give you\nmy newest\nconcoction!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Just one sip and you will transform into a\ntruly\nmagnificent being, one that has\ntranscended the\nlimits of an\nUmamusume!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Can it really do all that?!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "STOOOOP!",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "That's too dangerous!",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Stay as I am? You mean \"stay ordinary\nand\nboring\"?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I wouldn't call you ordinary per se... but\nyou're\nwonderful just as you are!",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "Yes! You're always hardworking and\n\nstraightforward, Tannhauser! You're\nalready the\nbest you!",
+            "name": "Сатоно Даймонд",
+            "choice_data_list": [
+                "There's nothing to worry about."
+            ]
+        },
+        {
+            "text": "Wowww! Thank you so much, everyone!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Stay as I am, huh? Hehe. I'm feeling\npretty\nconfident all of a sudden.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "So, instead of worrying about how to be\nme... I\njust need to keep trying my best\nin my own way.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I gotta keep it simple and not overthink\nit. Just\nkeep my eyes on the prize and...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Completely reinvent myself through\nfashion and a\nnew haircut!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "What?!",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Why would you do that?!",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "I see what you're doing... You're trying\nto comfort\nme, aren't you?! That's such a\nkind gesture...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Hmmm... Can kindness be a unique trait?\nMaybe\nif I'm kind to enough people...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Uh, Tannhauser?",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "Like helping people in trouble or\nsearching for\nlost cats from missing\nposters...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Um, don't you do that stuff already?",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Yes! I think that'll work! All right, it's go\ntime!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Thanks, everyone! I'm gonna become\nsuper kind!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Um, Tannhauser?!",
+            "name": "Китасан Блэк"
+        },
+        {
+            "text": "She ran off...",
+            "name": "Сатоно Даймонд"
+        },
+        {
+            "text": "Матиканэтангейзер runs off with new\nresolve. A\nshort while later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I found a cat and helped a bunch of\npeople, but...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Now that I stop and think about it,\nhelping\npeople in trouble is actually\npretty normal. I\nmean, any average girl\nwould do the same.",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I can't believe I was trying to become\nunique by\ndoing totally normal things...\nWhat was I\nthinking?",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "<i>Sigh...</i> This is so embarrassing. But at\nleast...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "I got thanked by even more people than\nusual\ntoday! Hehe...",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "After that, the three of us desperately\ntry to stop\nМатиканэтангейзер from\nchoosing bizarre wigs\nand clothes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "No matter how many times her friends\ntry to stop\nher, Матиканэтангейзер's\ndesire to define herself\ncannot be\nquelled.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Though Матиканэтангейзер seems to\nthink she\nfailed, there are no signs of\nregret in her smile.",
+            "name": "Монолог"
+        }
+    ]
+}

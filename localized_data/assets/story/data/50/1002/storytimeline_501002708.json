@@ -1,0 +1,45 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I saw it! A vast expanse stretching ahead\nof me\nwith no one else in sight... It's\nalmost a shame I\nhad to cross the finish\nline...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Maybe I'll see it again next race.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Congratulations on getting first place!",
+                "Still feel like running?"
+            ]
+        },
+        {
+            "text": "Oh... Yes.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That's right. I got first place. I was so\nfocused...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yes... I wish I could have run a bit longer.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um, Trainer. I'm looking forward to the\nnext race.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I was able to concentrate completely on\nrunning...\nIt was a good race.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I want to see that scenery again and\nagain.",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

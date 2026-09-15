@@ -1,0 +1,193 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Супер Крик and Нарита Таисин are\ngoing out to\nlook for some everyday\ntraining shoes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик asks for my help choosing\nthe right\nshoes, so I end up joining them.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So why are you tagging along again? I\nwanted to\ngo on my own.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hehe! Oh, don't be like that. It just so\nhappened\nthat I wanted to go shopping\nmyself.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "We are roommates, after all. We might\nas well go\ntogether.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Okay, then would you care to explain\nwhy your\ntrainer's also here?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I figured we'd need a second opinion\nwhen\nchoosing training shoes, and who's\nmore reliable\nthan Тренер? ♪",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Leave it to me!"
+            ]
+        },
+        {
+            "text": "Tch, whatever.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The mall is packed with people. We\nsqueeze past\nthe shoppers and notice a\nchange in our numbers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Where's Taishin?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Did she get separated from us?"
+            ]
+        },
+        {
+            "text": "Gosh, what do we do?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh, Taishin... I should've held your hand.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm sure she's feeling sad and lonely. We\nneed to\nfind her right away.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Let's split up and look for her.",
+                "Let's request a lost-person announcement on\nthe PA system."
+            ]
+        },
+        {
+            "text": "Okay, I'll go that way. Let's meet back\nhere later.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hang in there, Taishin! I'm coming!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик sprints off, weaving deftly\nthrough\nthe crowds in search of Narita\nTaishin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thirty minutes later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... I'm so glad I found you!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I can't believe you seriously came\nlooking for me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You could've just left me to wander\naround when\nwe got separated. I'm not a\nkid.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Huff, huff...</i>",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Oh, don't worry!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I guess I'm a little more out of breath\nthan usual\nsince I was frantically paying\nattention to my\nsurroundings as I ran.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm okay now. Shall we resume together,\nTaishin?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Siiiigh...</i> Fine. I'll stay close, okay?\nSheesh.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's a wonderful idea! We should go\nand\nrequest one right away!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Bing, bong, bing!</i> ♪",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you again for shopping with us\ntoday.\nWe'd like to ask for everyone's\ncooperation in\nfinding a lost child.",
+            "name": "PA Announcement"
+        },
+        {
+            "text": "Her name is Нарита Таисин. She has short\nhair and\nwas last seen wearing a Tracen\nAcademy uniform.",
+            "name": "PA Announcement"
+        },
+        {
+            "text": "Now that we've gotten the\nannouncement out, I'm\nsure that Taishin\nwill—",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "What the hell was that for?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin! Thank goodness we've found\nyou!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Thank goodness, my butt! What is all\nthis?! Who\nare you calling a lost child?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Well, I mean, you were—"
+            ]
+        },
+        {
+            "text": "I wasn't <i>lost!</i> I was just <i>pretending</i> to get\n\nseparated from you guys!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh my! Really?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe, well aren't you a little prankster\ntoday! But\nno more funny business,\nokay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Ugh! I wasn't trying to be funny!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Now, now, be good. Here, let me hold\nyour hand\nso you don't get lost again.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Are you even listening to me?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "In the end, Нарита Таисин droops her\nshoulders in\ndefeat and offers her hand.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик smiles, appearing to have\nlearned\nsomething from the experience.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик smiles with the resigned\nNarita\nTaishin following behind. She\nappears to have\nlearned something from\nthis experience.",
+            "name": "Монолог"
+        }
+    ]
+}

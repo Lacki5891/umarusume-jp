@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Urgh, I really messed up...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Something troubling you?"
+            ]
+        },
+        {
+            "text": "I suppose you could say that. I made a\nbit of a\nmistake...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I went to wash Tamtam's tracksuit, you\nsee, but I\naccidentally poured bleach in.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I never make mistakes like that.\nHonestly, I can't\nbelieve myself.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Tamtam brushed it off in her usual way\nwith a\nsmile and a joke...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I'm still trying to figure out how I\ncould even\nmess up like that. <i>Sigh...</i>",
+            "name": "Супер Крик"
+        }
+    ]
+}

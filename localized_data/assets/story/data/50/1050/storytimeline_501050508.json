@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I spot Нарита Таисин in front of the\nacademy\ngates, but she seems a little\ndeflated.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Feeling under the weather?"
+            ]
+        },
+        {
+            "text": "Psh! Like hell I am!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I've been getting through my races fine,\nso what\nare you complaining about? I'm\nnot some\nweakling!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "It's just..."
+            ]
+        },
+        {
+            "text": "Shut it. I don't need you sticking your\nnose in my\nbusiness!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(What's wrong with me? I'm so tired and\nmoody,\nand I'm lashing out at everyone.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Maybe I <i>am</i> feeling down... I should rest\na\nlittle...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We part ways, but Нарита Таисин is in\nlow spirits\nas she slinks off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her exhaustion must be catching up to\nher. Looks\nlike I need to rethink her race\nschedule.",
+            "name": "Монолог"
+        }
+    ]
+}

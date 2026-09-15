@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm out and about with\nHishi\nAmazon..."
+        },
+        {
+            "text": "Hm? Well, isn't that something?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I follow her gaze to see a claw machine\nfilled with\nUmamusume plushies."
+        },
+        {
+            "text": "My dorm's gonna get new students\nmoving in\nsoon.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I was thinking of getting 'em a little\nwelcome gift\nor something. Those\nplushies'll probably work\ngreat, don'tcha\nthink?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Sounds like a great idea."
+            ]
+        },
+        {
+            "text": "I know, right?! Okay, time to win all the\nplushies\nand empty out that machine!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Or so I'd like to, but I don't have the\nfunds to\nplay! Darn it all!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Leave this to me!"
+            ]
+        },
+        {
+            "text": "What?! You'd really get them for me,\nTeach?!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You betcha!"
+            ]
+        },
+        {
+            "text": "Nice! Show me you're made of, then!\nGrab as\nmany as you can!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's no way I can fail!"
+        }
+    ]
+}

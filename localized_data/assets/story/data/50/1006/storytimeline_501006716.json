@@ -1,0 +1,37 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "Phew... Running beside the water feels great. \nThere's a cool breeze and a lovely smell in the \nair... Wait!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh no! This is an emergency! I see a kebab stand \nover there!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urk! It smells so delicious... What should I do?!",
+            "choice_data_list": [
+                "Just run past it!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ughhh... Oooh... Okay, fine. Let's go!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm gonna run and run until the aroma fades from \nmy memory!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I'm sure fate will bring us together again \nsomeday!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fighting through sweat and tears, Oguri Cap \nremains focused on her running. In the end, she \nmanages to get back to her target weight."
+        }
+    ],
+    "title": "Back in Shape!"
+}

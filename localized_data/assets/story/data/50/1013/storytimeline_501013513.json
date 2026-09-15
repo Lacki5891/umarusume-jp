@@ -1,0 +1,201 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Мэдзиро МакКуин and I are on\nset for a\npopular TV show.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here's today's guest for <i>Running in\nStyle.</i>",
+            "name": "Presenter"
+        },
+        {
+            "text": "My name is... Мэдзиро МакКуин. Thank\nyou for\nhaving me on the show.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "You can't speak the name Mejiro without\n\nrecognizing its prestige! Our episode\nwith the\nvenerable head of your family\nbroke viewership\nrecords!",
+            "name": "Presenter"
+        },
+        {
+            "text": "Fans enjoyed the rare opportunity to see\na\ndifferent side of her. We're all excited\nto be\ntalking to you today!",
+            "name": "Presenter"
+        },
+        {
+            "text": "Y-yes! As a proud member of the Mejiro\nfamily, I\nshall do my best to live up to\nyour expectations.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I must provide my answers with thought\nand care\nbefitting the Mejiro name.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин seems more stiff than\nusual as\nthe filming proceeds...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I-in short! I must fulfill the dearest...\ndearest wish\nof... the Mejiro family.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I-is that right? Powerful words indeed. I\ncan\nreally... feel the spirit behind them...",
+            "name": "Presenter"
+        },
+        {
+            "text": "Yes! I want to show... N-no, I <i>shall</i>\nshow...\neveryone that I am ready to run!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Urgh... It's no use. These sorts of answers\ndon't do\njustice to the dignity of the\nMejiro name...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Umm... Why don't we take a break? I'm\nsure you\ncould use a little bit of a\nrefresher right about\nnow.",
+            "name": "Presenter"
+        },
+        {
+            "text": "Y-yes... My apologies.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh, no need to apologize! We've got\nyou on for\nquite the lengthy session,\nafter all. Please, take\nsome time to\nrecharge.",
+            "name": "Presenter"
+        },
+        {
+            "text": "<i>Sigh...</i> This isn't going well. I thought I\nwas used to\nbeing on camera by now,\nbut...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You seem a bit stiff."
+            ]
+        },
+        {
+            "text": "I-is that so? Yes... you're probably right.\n\nHowever, I can't rid myself of these\nthoughts.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "This outfit is a sign of my resolve and my\nduty. I\nwant to demonstrate that to\neveryone.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Besides... I'm doing this for the fans who\nare\ncheering me on. I must conduct\nmyself in a\nmanner befitting the Mejiro\nname.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Then, when I think of all this, well... my\nwords\nseem to get stuck in my throat.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "She's gotten herself all worked up. At\nthis point,\nthe best thing to do is to help\nher relax.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Why don't you go for a quick run?",
+                "Why don't you eat something sweet?"
+            ]
+        },
+        {
+            "text": "What?! This may be a break, but we're\nstill\nfilming! My hair would get all\ndisheveled!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "There'll be time to fix it! C'mon, let's go!"
+            ]
+        },
+        {
+            "text": "Whaaat?! G-good grief...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Pant, pant...</i>",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Phew... How strange. It felt as though\nboth my\nbody and mind were shedding\nweight as I ran.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Wow! I captured your run just now! I'd\nlove to put\nit on the air if possible. What\ndo you think?",
+            "name": "Camera Crew Member"
+        },
+        {
+            "text": "Wha?! B-but... My hair is all disheveled,\nand... I'm\nsure I looked terrible.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Consider it a request from me too! I\ncould really\nfeel your passion for running\nwhile I watched!",
+            "name": "Presenter"
+        },
+        {
+            "text": "...!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "...What do you think?"
+            ]
+        },
+        {
+            "text": "Yes... please put it on the air. If it\nconveys my\npassion, then nothing would\nmake me happier!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "S-something sweet?! Unthinkable!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "This is an important shoot, so I must be\nperfect!\nAllowing myself to be distracted\nby a snack would\nbe—",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Grrrowl...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ah!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "A-all right, fine! They say sweets serve\nwell as a\npick-me-up, so... Yes.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Munch, munch...</i> Ahh... The macaron is\nmelting in\nmy mouth...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Hehe, delicious. Both my body and mind\nfeel\nmore relaxed now.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Wow! What a natural, beautiful smile! I'd\nlove to\nput that on the air, if you\nwouldn't mind. What do\nyou think?",
+            "name": "Camera Crew Member"
+        },
+        {
+            "text": "Wha?! M-my expression just now?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Consider it a request from me, too! I'm\nsure it'll\nmake your fans happy!",
+            "name": "Presenter"
+        },
+        {
+            "text": "...!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "...What do you think?"
+            ]
+        },
+        {
+            "text": "...Very well, then! I shall allow it, for the\nsake of\nmy fans!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "However, um... I-it's rather embarrassing.\nWould\nyou please only air a short clip?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Days later, the sight of Мэдзиро МакКуин\nenjoying\nsweets garners a huge response\nfrom viewers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Days later, Мэдзиро МакКуин's\ninvigorating run\ngarners a huge response\nfrom viewers.",
+            "name": "Монолог"
+        }
+    ]
+}

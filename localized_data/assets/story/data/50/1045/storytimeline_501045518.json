@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Siiigh...</i>",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm sorry, Trainer... Could I rest here for\na bit?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Are you feeling under the weather?"
+            ]
+        },
+        {
+            "text": "Not exactly... A friend of mine asked me\nto help\nout with housework that had\npiled up.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I've been cleaning and doing laundry\nsince this\nmorning...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It was loads of fun, but there was way\nmore to do\nthan I expected.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe... I guess I got a little too carried\naway...",
+            "name": "Супер Крик"
+        }
+    ]
+}

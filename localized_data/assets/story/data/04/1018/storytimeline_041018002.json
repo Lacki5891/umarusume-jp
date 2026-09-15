@@ -1,0 +1,243 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day following my impactful first\nencounter with Эйр Грув, I\noverhear a\nfrantic voice in the hallway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wh-why won't you listen to me? I'm Air\nGroove's trainer, am I not?",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "Tracen Academy respects its students'\nautonomy above all else. That\nis why the\nstudent council system exists to begin\nwith.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But if she attempts to keep up with\nstudent council activities and\ntutoring, it\nwill hinder her own growth. So please!",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "Эйр Грув has joined the student council\nwith clear intention and\npurpose. No one\ncan have her abdicate the role but herself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Have you consulted with her on the matter\nof quitting the student\ncouncil?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "W-well...",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "No, I can't recall her ever doing so.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув? But why are you here right\nnow?",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "I'm sorry to have let this disturb you, Miss\nPresident. I'll talk to her\nalone from here.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Is that so? I'll be on my way then. Just...\ndon't be too hard on her,\nokay?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...I'll try.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now then... I think you've overstepped the\nline.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Wait—please listen to what I have to say!\nI'm just worried that you\nmight be\nspending your precious time on things that\ndon't matter!",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "Things that \"don't matter\"? If that's how\nyou see it, then I see no\nfurther point\ntrying to reason with you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No... Why? Don't you want to be winning\nraces? You need to consider\nhow you\nmanage the time you spend!",
+            "name": "Эйр Грув's Trainer"
+        },
+        {
+            "text": "Winning races, you say... If that's your sole\nconcern, then I'm afraid we\nwere never\ngoing to see eye-to-eye.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "This conversation is finished. Consider our\ncontract void as of this\nvery moment. Now,\nif you'll excuse me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Oh brother, there she goes doin' it again.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Again?"
+            ]
+        },
+        {
+            "text": "YЭпизод Honestly, I'm not sure if she'll ever\nfind a trainer who lives up to\nher crazy\nstandards...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wait, you've been starin' at Эйр Грув all\nslack-jawed again?! You\ndon't learn either,\ndo you?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, but wait. I guess this would be\nsomething of a chance for you\nthen, huh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Look at that! You could go over and try to\nscout her right now!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Wait, yeah! You're right!"
+            ]
+        },
+        {
+            "text": "Course, as you saw just now, the Empress\nisn't exactly easy to win\nover. If I were you,\nI'd take my time and—oh. Welp, so much\nfor\nwaiting.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Determined not to miss this opportunity, I\nquickly chase after Air\nGroove. Upon\nreaching the boulevard outside the school\nbuilding,\nshe stops and gives a sigh of\nfrustration.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good heavens... For a school as prestigious\nas Tracen, it sure does\nseem to be lacking\nin quality trainers as of late.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If only there were someone I could fully\nplace my trust in...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Эйр Грув, I've come to scout you!"
+            ]
+        },
+        {
+            "text": "Huh? And just who on earth are <i>you?</i> Bold\nof you to make such a wild\nstatement out\nof nowhere!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I can understand why she's frustrated at\nthe moment, so I remain\nstrong and\npolitely state my intentions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmph. You're persistent, I'll give you that.\nBut I'm sorry—I've had\nenough with\ntrainers at the moment.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And I'm certainly not about to sign up with\na greenhorn trainer like—",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Actually, wait.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I plan to do some strength training\ntomorrow at the campus gym.\nBring me\nyour proposed strength-training regimen.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If you can prove some basic competence\nas a trainer, then maybe\nwe'll talk.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I spend the entire night frantically\nconstructing a prospective training\ncourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The next day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm, I'll give you a pass. It looks like you\nhave what it takes to\nmanage a regimen at\nleast.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Here are the terms of our contract: you\nshall guide me in training, and\nconcern\nyourself <i>only</i> with my training.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Everything else will be left up to me. That\nincludes my involvement in\nthe student\ncouncil and the management of my own\nfree time.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "So does this mean you're accepting my scouting\noffer?"
+            ]
+        },
+        {
+            "text": "Yes, as long as you stick to the terms. So\nlet's make this formal.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I am the Empress, Эйр Грув. I aim to\nembody the ideals of all\nUmamusume and\nserve as a guiding beacon for all.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "While results on the track are of course\nessential, they're far from all I\nseek. If I\ncan't garner the admiration befitting an\nempress, they mean\nnothing.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You'll have a very specific role to play\namidst these aspirations. I trust\nyou\nunderstand that?",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Y-yes, understood!"
+            ]
+        },
+        {
+            "text": "I sense a bit of hesitancy. I'll overlook it\nfor now.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Not like I plan to <i>actually</i> rely on you...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Thus begin my days of supporting Air\nGroove as she runs a noble\npath.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is that all for today? I'll be taking my\nleave, then.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Going somewhere?"
+            ]
+        },
+        {
+            "text": "I'm hardly compelled to tell you... but no\nmatter. I spend time guiding\nsome of the\nmore junior students.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The academy offers instruction for runners\nwho haven't signed up with\na trainer, but\nit's a uniform curriculum that can't account\nfor every\nstudent's needs.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Some students find themselves struggling\nwith the lack of\npersonalized guidance. I\naim to simply keep them on track until\nthey\nfind a trainer.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now, if you'll excuse me.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What? A meeting? Now?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "No can do—I'm on my way to attend a\nstudent council cleanup event.\nBesides,\nI've told you to give at least one day's\nnotice when making\nschedule changes.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Compile all your points in a document and\nsend it to me later. I'll take\na look at least.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Our contract has only just begun, but I've\nquickly come to appreciate\nthe concerns\nher previous trainers have shown...",
+            "name": "Монолог"
+        }
+    ]
+}

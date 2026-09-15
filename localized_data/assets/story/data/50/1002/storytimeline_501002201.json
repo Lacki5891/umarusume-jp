@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the Yayoi Sho, but something\nseems to\nbe bothering Сайленс Судзука.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Oh... Yes, I'm fine.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Time to go.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She's more curt than usual. There's no\ndoubt that\nsomething has dampened her\nmood.",
+            "name": "Монолог"
+        }
+    ]
+}

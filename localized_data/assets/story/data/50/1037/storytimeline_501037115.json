@@ -1,0 +1,322 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few days have passed since I removed\nthe\nKikuka Sho from Эйсин Флэш's\nschedule, but she\nstill seems a bit lost.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Ah.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "My training schedule requires changes.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This was originally designed for\nlong-distance\nrunning to prepare for the\nKikuka Sho...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Then let's adjust it."
+            ]
+        },
+        {
+            "text": "Yes, except I do not know how.\nChanging a single\nelement could cause a\ntotal upheaval.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Not to mention, there is still a chance I\nmay yet\nrun in the Kikuka Sho...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Then why don't we keep the program as is?"
+            ]
+        },
+        {
+            "text": "As in continue training for long-distance\nraces?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "It's good practice for the Arima Kinen."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "You don't seem very convinced."
+            ]
+        },
+        {
+            "text": "Pardon me, but I need time to think.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "For better or worse, she has a one-track\nmind.\nNow that her schedule's off, she\nwon't be able to\nmove forward without\nsome major convincing.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(But how do I convince her?)"
+            ]
+        },
+        {
+            "text": "She needs an experience that can give\nher a new\nperspective. I think back on\nher run with Мистер Си Би",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мистер Си Би gave Эйсин Флэш invaluable\nexperience\nby running with her ahead of\nthe Derby.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Right now, Flash might need to\nexperience\nanother setback.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just then, a lively voice fills the air.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahaha! This is easy peasy! ♪ Bring me\nsome\nheavier dumbbells!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Who am I? The Invincible Teio, that's\nwho!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Indeed, the title fits her. Токай Тэйо took\non the\nClassic Triple Crown with a\nflawless record and\ngot so far as claiming\ntwo crowns, but an injury\nkept her out of\nthe Kikuka Sho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "When I ask her if she could have a word\nwith\nEishin Flash, she agrees without\nmissing a beat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So you wanna know how I felt when I\ndropped out\nof the Kikuka Sho, right?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Yes, please."
+            ]
+        },
+        {
+            "text": "Trainer, this isn't—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Don't sweat it, Flash. I agreed to this\nmyself, so\nit's all good.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Of course, things were real tough when\nit\nhappened.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "There's someone who's really, really\nimportant to\nme, y'know. Can you guess\nwho?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "President Симболи Рудольф, I presume. I\noften see\nthe two of you together.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Bingo! The reason why I wanted to win\nthe Triple\nCrown was because I wanted\nto be just like Prez.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "And I was on a roll, too! I got to the\nDerby\nwithout a single loss, won it, and\neven got praised\nby Prez!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "And then, poof! I couldn't run in the last\nrace and\nmy dream went up in smoke.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Yet you still race, even now.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "How were you able to regain your\nfooting after\nbeing thrown off the path\nyou were following?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I asked myself what Prez would do in my\ncleats.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "She'd never, ever give up. Prez would\nkeep\nlooking forward and keep\nmarching on.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "So that's what I did.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I didn't want to look bad in front of the\nperson I\nadmire!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "The person you admire...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Why did you decide to share all of this\nwith me?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Oh, that's easy.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Cause Prez woulda done the same!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "After parting ways with Токай Тэйо...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have no idea...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "About what?"
+            ]
+        },
+        {
+            "text": "What those I admire—what my parents\nwould do\nin my position. The thought\nnever occurred to me\nat the time.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I wanted to become just like them, so I\nadhered\nto my schedule.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Yet in the end, all I was doing was\nmimicking their\nmethods.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Now that I've strayed from their way of\ndoing\nthings, I don't know how my\nparents would handle\nthis situation.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Then how about asking yourself what they\n<i>wouldn't</i> do?"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Thinking about it the other way around might\nhelp."
+            ]
+        },
+        {
+            "text": "What would they absolutely not do?\nThat would\nbe...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The next day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer. In regards to my next race...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Would it be possible to run in the Japan\nCup a\nyear earlier than scheduled?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Runners from all over the world come to\ncompete\nin the Japan Cup, and it goes\nwithout saying that\nonly the best of the\nbest take part in it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I gave your suggestion some\nthought—about what\nthe people I\nadmire, namely my parents, would\nnot\ndo.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "They would not abandon their path.\nMost likely,\nthey would attempt to carry\nout course\ncorrections.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The reason I reached this conclusion is\nbecause it\nisn't right to completely scrap\na timetable once it\nhas been created.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Therefore, for me to correct for the\ncourse, I must\nseek a parallel route that\nwill lead me through the\nsame\ndifficulties as the Kikuka Sho.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The Japan Cup is the same length as the\nDerby\nand is held in the same venue. I've\nalready run\nthat race, so I should be\nable to recover in a\nmonth.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Since the greats of my generation are\nfocused on\nthe fall races, I would be up\nagainst senior year\nopponents.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Even if I do race in the Kikuka Sho, I\nshould take\non this challenge to\ncompensate for the days I've\nwasted.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The Japan Cup is extremely competitive,\nbut...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I know you can hold your own, even against\nsenior racers."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thank you. Now let's come up with a\nstrategy so I\ndon't have to eat my words.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "It seems I am in your debt once again.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Why do you say that?"
+            ]
+        },
+        {
+            "text": "To tell the truth, I was completely lost\nand had no\nidea how to move forward...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "But getting exposure to alternative\nperspectives,\nsuch as when I faced\nagainst C.B., helped bring\nclarity and\nunderstanding.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I tend to get mired in my own thoughts,\nso I\nappreciate the outside input.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Your strengths more than make up for the\noverthinking."
+            ]
+        },
+        {
+            "text": "...Thank you very much.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "And so, Эйсин Флэш adopts a positive\nmindset\nwhile preparing for the Japan\nCup.",
+            "name": "Монолог"
+        }
+    ]
+}

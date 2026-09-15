@@ -1,0 +1,116 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer, Trainer! Guess what!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I heard a store that makes personalized\nwrestling\nmasks opened near the station!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Personalized?"
+            ]
+        },
+        {
+            "text": "Yep! They can do animal masks, scary\nmasks, cute\nmasks... all kinds!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I already have the mask my papa gave\nme, so I\ndon't really need one, but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I've been thinkin' about this for a while\nnow, and I\nthink you need one too,\nTrainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So let's go get you one!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Before I know it, I've been dragged off\nto the\nstation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So what kind of mask do you want,\nТренер?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Since you're my partner, you should\nprobably\nhave a condor mask, right?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Or, actually, maybe since I'm the ruler of\nthe\nskies, you should be the ruler of the\nland?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ughhh, I can't decide!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Maybe a cheetah, for speed?",
+                "What about an elephant, for strength?"
+            ]
+        },
+        {
+            "text": "A cheetah! That's an opponent I gotta\ncompete\nwith some day! Safely, of\ncourse!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's great! A perfect match for the\nworld's\nstrongest!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Now, this mask is a present from me!\nMake sure to\nwear it at my races!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A bit later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ooohhh! You look so coooool! Just\nlookin' at you\nmakes me wanna run!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "An excited Эль Кондор Паса looks quite\nsatisfied\nwith the finished cheetah mask.",
+            "name": "Монолог"
+        },
+        {
+            "text": "An elephant! Massive! Powerful! The\nabsolute\nstrongest! Even stronger than\nme!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "With that in mind, it's perfect for you,\nTrainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You have to be strong if you're going to\nsupport\nme!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Now, this mask is a present from me!\nMake sure to\nwear it at my races!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A bit later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoooa! You look so strong!\nOverflowing with\npower!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "An excited Эль Кондор Паса looks quite\nsatisfied\nwith the finished elephant\nmask.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I accept the gift gratefully, but politely\nrefuse to\nwear it in the stands.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I accept the gift gratefully, but politely\nrefuse to\nwear it in the stands.",
+            "name": "Монолог"
+        }
+    ]
+}

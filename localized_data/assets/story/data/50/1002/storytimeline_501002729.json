@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh well...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "It's all right. It's the thought that counts.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Maybe I'll save up some money and give\nit a shot\nmyself next time.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

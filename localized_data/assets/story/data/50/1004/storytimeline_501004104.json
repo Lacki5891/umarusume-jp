@@ -1,0 +1,173 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, в тренировке camp...",
+            "name": "Монолог"
+        },
+        {
+            "text": "And that should do it for today's\nschedule.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heh, did I rush through it a bit too\nquickly?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Do you want to do some extra training?"
+            ]
+        },
+        {
+            "text": "No, thanks. It's a bit early, but let's call\nit a day.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Actually, I promised to meet the\nyounger\nstudents for a party tonight.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Summer camp training is pretty\nhardcore, so it\nhelps if we all support\neach other!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm in charge of the shopping because I\nhave a\ncar, so it's time to get going!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Drive safe!"
+            ]
+        },
+        {
+            "text": "What do you mean? You're coming with\nme!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What do you mean? You're coming with\nme!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's take a drive and watch the\nbeautiful sunset!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>VRRROOOOOOM!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Blasting away at top speed while\nsurrounded by\nnature is just the best!\nAnd the sunset is gorgeous!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски and I finish up shopping and\nreturn to\nthe car. Just as we're about to\nhead back...",
+            "name": "Монолог"
+        },
+        {
+            "text": "This <i>can't</i> be! Why aren't you moving?!\nWhat's\nwrong, Tata?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски's car suddenly breaks down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I wonder if Tata is having a hard time\ndriving on\nthese unfamiliar, rough\nroads...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What should I do? I'm worried about her,\nbut\neveryone is expecting me at the\nparty...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You should go see your junior classmates.",
+                "Let's see if we can fix your car somehow."
+            ]
+        },
+        {
+            "text": "What? You want me to go ahead and\nleave you\nhere, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What? You want me to go ahead and\nleave you\nhere, Тренер?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I guess I could deliver everything in time\nif I run\nfast enough, but...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Think of it as today's extra training!"
+            ]
+        },
+        {
+            "text": "...Geez, how am I supposed to refuse\nwhen you\nput it that way? No fair,\nTrainer.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But okay, I'll hurry and deliver what we\nbought!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'll be back as soon as I deliver it, so\ntake care of\nTata until then!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What a perfect little workout! Off I go!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And just like that, Марузенски takes off\nat top\nspeed with the goods in hand.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Even if we did try to fix her, I wouldn't\nknow\nwhere to start...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Oh, I've got it! Maybe banging on her\na little\nwill do the trick!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That's what you do when your TV's\npicture is all\nfuzzy, right? You give it a\nkarate chop at a\nforty-five degree angle!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I mean, <i>I</i> don't do that, but..."
+            ]
+        },
+        {
+            "text": "Seriously?! Isn't that what everybody\ndoes?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A-anyway, um, let's give it a try!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Come on, Tata, wake up! This is no time\nfor a\nnap!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски bangs on the steering\nwheel, and...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Vroom... VROOOOOM!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "It worked! Tata's awake!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Heehee. Sometimes it just takes a good\nthumping!\nCome on, let's head back!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And so, with the car finally moving\nagain, we're\nable to get safely back to\ncamp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The car is later fixed without incident,\nand the\nparty ends up a huge success.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But when Марузенски extols the virtues\nof hitting\nstuff to fix it, everyone at the\nparty insists that\nshe's just going to\nbreak things.",
+            "name": "Монолог"
+        }
+    ]
+}

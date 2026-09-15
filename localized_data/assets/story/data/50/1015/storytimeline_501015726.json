@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out and about with T.M.\nOpera\nO...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oho! It appears the rather intense gaze I\nwas\nfeeling belongs to that cute little\naudience!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "She points toward a claw machine filled\nwith\nUmamusume plushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhh... But those poor souls!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Forever trapped within a glass cage,\nthey can\nnever bask in the sun that is my\npresence!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Trainer, go rescue them—with haste!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Okay, okay..."
+            ]
+        },
+        {
+            "text": "And I, who brings light to this world,\nshall provide\nyou support with an\ninspiring opera!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "May your rescue scene be a success, so\nas not to\ncrush the hopes and dreams of\nthose children!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Now, raise the curtain!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

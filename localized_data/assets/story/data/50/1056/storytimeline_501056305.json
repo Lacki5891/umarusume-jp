@@ -1,0 +1,85 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I burst right through the spring hurdle!\nHi-yah!\nCall me\nMatikan-enter-the-dragon!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Actually, on second thought, don't.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Were you watching, Тренер? Fortune\nsmiled on\nme from the heavens!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You were amazing!"
+            ]
+        },
+        {
+            "text": "Thank you! With a race as important as\nthis, I\ngave it my all—is what I <i>would</i> say\nif the gods\nhadn't already done the hard\nwork for me!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Now it's time to see what fate has to say\nabout\nmy next race! Not that it should\nbe much of a\nsurprise.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Next up is the first stage of the Classics,\nso it's\npretty obvious... But anyway, let's\nstart up those\ndivinations!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I'm gonna snatch a fortune slip quick this\ntime. I\nwonder what it'll be... Drumroll,\nplease!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "And the result is...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What in the what?! The Japanese\nDerby?!\nWhazzat now?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Am I really supposed to just skip the\nSatsuki Sho\nand dive straight into the\nDerby?! O gods,\nenlighten me!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "This might be a challenge sent by the heavens."
+            ]
+        },
+        {
+            "text": "A challenge... Yes, that must be it. The\nrace that\nevery Umamusume dreams\nof—the very pinnacle\nof the Classics...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Fine. If this is my destiny, I'll accept it\nwith open\narms! Can I ask for your\nassistance?",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "Thank yooouuu! If you're with me, I can\nat least\ntry.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Now let's hurry and buy up some lucky\ncharms to\ncommemorate my new destiny.\nOoh, and I can get\nthem to stamp my\nshrine passport while we're\nthere!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "...What about training?"
+            ]
+        },
+        {
+            "text": "O-of course I'm going to train too. I'm\nsure you're\naware that <i>my</i> efforts won't\ndo much to change\nthings...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But fret not... That doesn't mean I won't\nput all\nmy strength into this. After all,\nthe Derby is a big\ndeal.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I shan't mar that sunny day! I'd like to\nhang a\nfortune right from one of Fuchu's\ngiant zelkova\ntrees while in good spirits!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

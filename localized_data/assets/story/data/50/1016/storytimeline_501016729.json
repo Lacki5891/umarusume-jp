@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...So this is what total failure looks like.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Dang..."
+            ]
+        },
+        {
+            "text": "Tch! Don't look so glum.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Pretty sure I told you from the start that\nI'm not\ninterested in plushies anyway.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let's go.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

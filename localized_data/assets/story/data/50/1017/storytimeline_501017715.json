@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my way home, I spot Симболи Рудольф\nheading\nfor the practice track.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Where are you going?"
+            ]
+        },
+        {
+            "text": "I'm solo training, of course.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "With things unusually quiet around the\nacademy,\nI could think of no better way\nto spend my free\ntime.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Didn't we just finish training?"
+            ]
+        },
+        {
+            "text": "Indeed, but there's no need to worry. I\nfind the\nexertion pleasantly bracing.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Hold on, I'll join you.",
+                "Don't bite off more than you can chew."
+            ]
+        },
+        {
+            "text": "Haha, I knew you would see things my\nway!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Then we shall train for as long as time\nallows.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Together we'll strive for heights that\nnone have\never seen!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Are you concerned I'll overexert myself?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "All Umamusume have a responsibility to\ntake\ntheir trainer's words seriously.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Very well. I will consider training finished\nfor\ntoday.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Sure enough, the two of us end up\ntraining until\nthe track closes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It wouldn't do to fix my sights so high\nthat I fall\nflat on my face.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day as I'm walking through the\nacademy, I\nnotice a crowd gathered in a\nhallway.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow... She's incredible...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Yeah, I can't even begin to describe her\naura.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "She's really amazing...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oguri's holding a press conference.\nHere, take a\nlook.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Glancing into the room, I see Огури Кэп\nin her\nsignature racewear being\ninterviewed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You look like you're ready to start\nracing right\nnow!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Sure. When I put on my racewear, I\nnaturally feel\nthat way.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I think I can speak for everyone when I\nsay we're\nall excited to see you run!",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "Thank you. I'll try hard not to let anyone\ndown.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Oguri really looks dignified in her\nracewear,\ndoesn't she?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "She's soft-spoken, yet her spirit and\nconfidence\nshine right through...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I can see how her fans are drawn to\nthose\nqualities in her.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "text": "I'm just thinking that I've still got a long\nway to go\ncompared to Oguri.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "When I put on my signature racewear, it\nfeels\nmore like I'm wearing a costume.\nHaha...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It sounds like Мэдзиро Райан isn't very\nconfident in\nhow she looks in her\nracewear.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about we do some training right now?"
+            ]
+        },
+        {
+            "text": "What? It's a bit early still. But I don't\nmind, of\ncourse.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "All right. Get changed into your racewear!"
+            ]
+        },
+        {
+            "text": "Oka—huh?! My racewear?!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Um, I got changed...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Good. Now try running a lap."
+            ]
+        },
+        {
+            "text": "What?! You mean... in my <i>racewear?</i>",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I just told you that it doesn't feel right\non me at\nall...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Despite her embarrassment, Мэдзиро Райан\nstarts\nrunning. But then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's like I'm watching a real race! Go for\nit, Ryan!",
+            "name": "Umamusume C"
+        },
+        {
+            "text": "We're rooting for you! We know you'll\nget first\nplace in your next race!",
+            "name": "Umamusume D"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You've got a lot of support."
+            ]
+        },
+        {
+            "text": "Yeah. It's surprising.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I could understand them cheering on\nOguri out\nthere. But me?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Admiration builds up over time.",
+                "You've done enough to make people aspire to\nbe like you."
+            ]
+        },
+        {
+            "text": "I could understand them cheering on\nOguri out\nthere. But me?",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Admiration builds up over time.",
+                "You've done enough to make people aspire to\nbe like you."
+            ]
+        },
+        {
+            "text": "It does?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I see... Even if I'm not at Oguri's level,\nI've done\nmy fair share of running, huh...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "And people admire me enough now to\ncheer me\non.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Your racewear is a representation of all the\nefforts you've made!"
+            ]
+        },
+        {
+            "text": "Heh, so it's just like muscles!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "My daily efforts keep accumulating, and\npeople\nare beginning to admire that!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I won't stop putting all my heart into\nrunning! And\nI'll keep improving both my\nmuscles and my\nracewear!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ooh, yeah! I'm gonna run another lap!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "They wanna be like me too?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ryan! I've been watching you train!",
+            "name": "Umamusume E"
+        },
+        {
+            "text": "If it's okay, would you like to run\ntogether? I want\nto see you up close on\nthe track!",
+            "name": "Umamusume F"
+        },
+        {
+            "text": "Wow! I can't believe you guys!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I've always admired how you look in your\noutfit!\nPlease let me run with you too!",
+            "name": "Umamusume E"
+        },
+        {
+            "text": "O-okay! If you're sure you want to!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hehe, I'll be off then, Trainer. Looks like\nthere's\nno time to be gloomy!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Yeah! Go out there and run like the wind!"
+            ]
+        },
+        {
+            "text": "Right! I won't put my racewear to shame!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан starts running with all her\npower—to\nhonor both her racewear and\nthe younger racers\nwho admire her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With a new understanding that\nadmiration comes\nwith time, Ryan begins\nrunning at full power.",
+            "name": "Монолог"
+        }
+    ]
+}

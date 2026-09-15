@@ -1,0 +1,199 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Twinkle Series has begun. Today,\nthere is a\nscrimmage at the academy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука dashes ahead from the\nvery start.\nRather than slow her pace,\nshe charges onward,\ngaining more and\nmore speed as she closes in on\nthe finish.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The spectators stir with excitement as\nthey watch\nthe runaway sensation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whispers spread throughout the crowd\nabout the\nbirth of a new star.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Whew!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(The wind feels great.)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Whoa! Suzuka! Nice runnin'!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Oh, Taiki!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hailing from the USA, Тайки Шаттл is a\n\npowerhouse of a racer with a shining\npersonality\nto match.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, ain't you a tough one? Just look at\nyour\nface, all fired up and ready to go!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm talkin' 'bout your debut race comin'\nup! I\nheard all 'bout it!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "You're takin' part in the Twinkle Series,\nright?\nYou've got a trainer and\neverythin'.",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "I'm as happy for you as I would be for\nme! I'm\nrootin' for ya all the way!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Thank you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You're always cool as a cucumber, ain't\nya!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "Um... I-I'm not sure how to respond.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ooh, I know! Why don't ya tell me your\ndream!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "The Triple Crown? Or maybe you wanna\nshow the\nwhole world your grit?!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "U-um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I don't really have a dream...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Not even the Twinkle Series?!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "All I want is to see the scenery from the\nlead in all\nmy races...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Other than that, not really...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Wow... So you just blaze your own path!",
+            "name": "Тайки Шаттл"
+        },
+        {
+            "text": "A few others seem to have overheard the\n\nconversation.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You know, Сайленс Судзука is definitely a\ntalented\nrunner, but...",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "She's a little odd, isn't she?",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Today's scrimmage has people talking...\nin more\nways than one.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, there you are.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Another victory for the runaway superstar."
+            ]
+        },
+        {
+            "text": "Yes. It's been a while since I felt I could\nrun so\nfreely.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "In fact, I feel like I could still run some\nmore.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm glad you enjoyed yourself."
+            ]
+        },
+        {
+            "text": "You are?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Yeah. I'm one of the many people charmed by\nyour running."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I want you to continue running your way."
+            ]
+        },
+        {
+            "text": "...You really believe in me, don't you?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Why wouldn't I?"
+            ]
+        },
+        {
+            "text": "I mean... I could sense it during our\ntraining.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The runaway style is so risky. Normally,\nnobody\neven attempts it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But you let me really go for it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That's why... I want to thank you.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "The next race is your big debut."
+            ]
+        },
+        {
+            "text": "My debut... If I can get past that, then...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yes. I'm looking forward to it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "No one loves running more than Silence\nSuzuka.\nTogether, we're aiming for the\ntop. This is just the\nbeginning.",
+            "name": "Монолог"
+        }
+    ]
+}

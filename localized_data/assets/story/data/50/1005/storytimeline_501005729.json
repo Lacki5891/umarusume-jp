@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Well, well, well... You know what this\nmeans,\nright?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Please, have mercy!"
+            ]
+        },
+        {
+            "text": "Ahaha! But I haven't even said what your\n\npunishment is yet!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Don't worry, it's nothing too difficult...\nThough, it\nwill take some elbow grease.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll be working right alongside you too.\nCome on,\ntime to make good friends\nwith the brooms and\nmops in Ritto Dorm!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

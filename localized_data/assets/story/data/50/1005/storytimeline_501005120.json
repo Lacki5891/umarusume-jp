@@ -1,0 +1,170 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few days after the Arima Kinen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Congratulations on winning the Best\nSenior\naward!",
+            "name": "Host"
+        },
+        {
+            "text": "Thank you very much!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You've had a fantastic senior year with\nyour\nvictories! We'd love to hear a few\nwords from\nyou...",
+            "name": "Host"
+        },
+        {
+            "text": "But before that, we have a surprise\nguest!",
+            "name": "Host"
+        },
+        {
+            "text": "On the announcer's cue, a figure\ngallantly enters\nthe stage. It's none\nother than...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello, everyone!",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "...?!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hey, isn't that a super famous actor?!\nOh, I remember\nnow! She's Фудзи Кисэки's\nmother!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "I thought it would be best to watch my\ndaughter's\nbig moment unfold\nbackstage, but...",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "Ahaha! I just couldn't resist! Seeing you\nsurprised\nnever gets old!",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "But of course I'm surprised! You usually\nnever\ncome onstage for things like this.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Don't worry, I'm not here to steal your\nspotlight.\nThere's just something I\nwanted to tell you. I'll\nkeep it short!",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "To tell you the truth, I was worried\nabout you,\nhaving me as a mother. You\nwanted to be me so\nmuch when you\nwere young.",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "But you aren't me. Even if you tried to\nwalk the\nsame path as me, it would have\nbeen impossible\nfor you to obtain what\nyou desired.",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "But despite my worries, you were able to\nchoose\nyour own path and earn\nirreplaceable triumph and\nrespect for\nyourself.",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "My daughter, the pride you feel now is a\ntreasure\nbeyond measure.",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "You must treasure it and never lose it.\n\nCongratulations again, my love.",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I will! And thank you, Mother!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I must thank your trainer too! Thank you\nso much\nfor supporting my daughter. I'm\ncounting on you\nto keep watching over\nher.",
+            "name": "Fuji's Mother",
+            "choice_data_list": [
+                "Yes, ma'am!"
+            ]
+        },
+        {
+            "text": "Thank you all for listening! And now, I\nmust pass\nthe baton back to Fuji!",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "Thank you, everyone, for choosing me\nfor this\naward and the wonderful\nsurprise!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And thank you so much for coming here\ndespite\nyour busy schedule, Mother.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Like my mother said, my self-confidence\nhas\nbecome strong and pliant over these\npast three\nyears.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I was only capable of gaining this\nconfidence\nthanks to the support of my\nloved ones.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And so, as a small gesture of thanks...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She makes a flourish and two flower\nbouquets\nappear in her arms.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, I'd like to gift these blue stars\nto you.\nAnd for you, Mother, please\ntake these red\ngeraniums. Thank you so\nmuch, both you!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Oh my! Does this mean you knew I was\ncoming\nfrom the beginning?",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "Not at all! I just thought it would be nice\nif I could\ngive them to you, so I prepared\nthis bouquet just\nin case.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It isn't too much, is it? Hehe.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, to think you'd be the one surprising\nme. Since\nwhen did you become so wily\nand wonderful,\ndear?",
+            "name": "Fuji's Mother"
+        },
+        {
+            "text": "Geraniums, hm? They're lovely. Thank\nyou for the\ngift, Fuji.",
+            "name": "Fuji's Mother",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "text": "I should be thanking you. Thank you\nboth for\nbeing there for me. I hope you'll\ncontinue to\nsupport me.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "On that note.. once more, thank you for\nthis\naward!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But don't go thinking things are over!\nThere are\nmore miracles to be granted\nthan there are stars\nin the sky!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I hope you all stay tuned for my next\none!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Фудзи Кисэки's award ceremony ends to the\nwarm\nsound of applause and cheers.",
+            "name": "Монолог"
+        }
+    ]
+}

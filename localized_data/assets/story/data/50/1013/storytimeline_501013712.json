@@ -1,0 +1,49 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Мэдзиро МакКуин hasn't shown up for\ntraining\ntoday, so I decide to go looking\nfor her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My megaphone is ready to go! Now, to\nthe\nbaseball stadium!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Found you!"
+            ]
+        },
+        {
+            "text": "Eek! Тренер?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ahem... Trainer, what a surprise. I was\njust on my\nway out.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Did you forget about your training?"
+            ]
+        },
+        {
+            "text": "...Ahhh!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "O-o-oh nooo... I, of all people! I've been\nthinking\nso much about the consecutive\nhits record that I...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Consecutive hits record?"
+            ]
+        },
+        {
+            "text": "Oh... N-nothing! I'm terribly sorry...",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Just be more careful next time."
+            ]
+        },
+        {
+            "text": "Yes... I shall practice self-discipline and\nrecover\nfrom this blunder!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

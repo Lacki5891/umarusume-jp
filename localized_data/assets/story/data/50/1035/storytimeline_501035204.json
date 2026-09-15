@@ -1,0 +1,107 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Tickezo's been aiming for the Japanese\nDerby all\nalong, right?",
+            "name": "Fan A"
+        },
+        {
+            "text": "Not just Tickezo—Taishin and Hayahide\nare too!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Ahh! I guess we can expect a pretty hot\n\nshowdown then!",
+            "name": "Fan A"
+        },
+        {
+            "text": "At some point during the Twinkle Series,\nthe\nthree friends started being referred\nto as \"BNW.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "Many fans have shown up at the\nJapanese Derby\njust to see the famous\ntrio in action.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Amid the excitement, Ticket is on\nstandby in the\nwaiting room, when she\nsuddenly looks up at me\nwith a serious\nexpression.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Тренер?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Do you think I can inspire people just\nlike the\nUmamusume I saw back then?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Will they be cheering for me? Will they\nget\npumped up when they see me run?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She can't stop fidgeting, so I show her\nthe\nbroadcast of Tokyo Racecourse.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Look at this, Ticket."
+            ]
+        },
+        {
+            "text": "At last, the Japanese Derby is about to\nkick off.\nThe track is packed to the brim\nwith fans!",
+            "name": "Interviewer"
+        },
+        {
+            "text": "The camera pans up to show the eagerly\nwaiting\naudience. Many fans are holding\nlarge signs and\nbanners to show their\nsupport, and among them\nis...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! That one says \"Good luck, Tickezo!\"",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's a huge banner, and it's just for\nWinning\nTicket.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Heeey! You got this, Tickezo!",
+            "name": "Fan A"
+        },
+        {
+            "text": "What passionate cheers! I'm sure\nУиннинг Тикит\nmust be thrilled to hear\nthem!",
+            "name": "Interviewer"
+        },
+        {
+            "text": "Yeah, I am! I hear you, everybody!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "As Ticket stares intently at the screen,\ntears begin\nto well up in her eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sob... Sniff...</i> I'm so glad! Everyone's\nreally hyped!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Show them all your passion for the Derby!"
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'll do my best! <i>More</i> than my best!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "FOR THE DEEERRRBYYYY!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "As if to match her enthusiasm, a big\nwave of\ncheers can be heard on the\nbroadcast right at\nthat moment.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Finally, the gates open and the Derby\nbegins!",
+            "name": "Монолог"
+        }
+    ]
+}

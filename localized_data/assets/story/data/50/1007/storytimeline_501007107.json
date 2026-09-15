@@ -1,0 +1,245 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's Valentine's Day, and everyone's\nhearts are\naflutter...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just like good friends, it's common for\n\nUmamusume and their trainers to\nexchange gifts\nas a symbol of their\nbond... under normal\ncircumstances,\nanyway.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(We're probably the exception...)"
+            ]
+        },
+        {
+            "text": "Голд Шипп doesn't do normal. It would\nbe best not\nto expect business as usual.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Still, I've brought some chocolate for\nher, just to\nbe on the safe side.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Giving it to her after training should be\nenough to\nmake this feel like Valentine's\nDay.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Or at least, that's what I thought...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Not only does Голд Шипп not show up for\ntraining,\nshe's still nowhere to be seen\nby the time sunset\nrolls around.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I hope she hasn't gotten into trouble..."
+            ]
+        },
+        {
+            "text": "Getting worried, I pull out my phone to\ncall her,\nwhen suddenly...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Bzzzt... bzzzt...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Peace, peace! ☆ Golshi here! ☆ I haven't\nseen you\nall day. You alive?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "I should be asking you that!"
+            ]
+        },
+        {
+            "text": "Whoa... You don't beat around the bush,\ndo you?\nSorry, I had a little something\nto take care of.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'm out on the water right now.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "...You're where?"
+            ]
+        },
+        {
+            "text": "The high seas, matey! Where else would\nyou find\na Ship?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But whew! Catching a decent-sized red\nsea bream\nsure took a while.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'll have it ready for dinner soon. Wait\nfor me,\n'kay? Later.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Beep, beЭпизод..</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Talk about out of the blue... It looks like\nall I can\ndo is wait.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... I'm back!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "There you are!"
+            ]
+        },
+        {
+            "text": "Look at you! If you had a tail, I bet you'd\nbe\nwagging it.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Sorry if I worried ya. But I hope you'll\nagree... that\nthis is worth the wait!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Thud!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here we go! One red sea bream,\nfresh-caught and\nready to eat!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "...Come again?"
+            ]
+        },
+        {
+            "text": "Hehe! Today's Valentine's, right? Here's\na little\nsomething to show my\nappreciation. Thanks,\nTrainer!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Flop, flop!</i>",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I-it's still alive!"
+            ]
+        },
+        {
+            "text": "Of all the things you could question\nhere, you\npick that?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The thing just wouldn't die, so I didn't\nbother\ngutting it.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I figure I've done my part by this point,\nso I'll\nleave the rest to you! Slice it up\nnice and neat,\nwouldja?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We end up taking the fish to the\ncafeteria and\nletting a professional\nprepare it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But good golly did I catch a big-un. Now\nhurry'n\nget yer butt over here.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "I'll be waiting by the shore. Later.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Beep, beЭпизод..</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've got no idea what's going on, but it\nsounds\nlike I'd better head for the\nbeach!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, over here! What kept you?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What are you doing out here?"
+            ]
+        },
+        {
+            "text": "Huh? Today's Valentine's Day. Haven't\nyou\nheard?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And you know what that means... Voila!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "She pushes something into my hands so\nsuddenly\nthat I almost drop it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here, for you! It's sea bream sashimi.\nFresh,\ntender, and delicious!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "S-sashimi?!"
+            ]
+        },
+        {
+            "text": "Nothing makes sense anymore. For lack\nof\nanything better to do, I look up at the\nsky.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... I'm stuffed! That was some\nmighty good\nsea bream.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "This Valentine's Day was anything but\nnormal...\nbut I did get to eat some great\nsashimi.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I want to thank Голд Шипп for going out\nof her\nway to catch and prepare it for\nme.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Here, this is for you."
+            ]
+        },
+        {
+            "text": "What, you got me something, too? A\nreal sucker\nfor protocol, huh?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Well, it looks like we both got each\nother gifts.\nHeh, I knew I was right to go\nwith the sea bream.",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Oh? Gonna ask straight up? Want a\npeek at\nGolshi's heart, do you?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You know how flowers have symbols and\n\nmeanings and yadda yadda yadda?\nWell, so do\nfish.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And red sea bream means...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Actually, y'know what? I'm not gonna\ntell you.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Maruzen once told me that a lady always\nknows\nwhat cards to keep to her chest.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "So if you wanna know, you're just gonna\nhave to\nfind out yourself! Later!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Valentine's Day with Голд Шипп sure was\na\nrollercoaster ride, but I had fun... I\nthink.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It makes for delicious sashimi.",
+            "name": "Монолог"
+        }
+    ]
+}

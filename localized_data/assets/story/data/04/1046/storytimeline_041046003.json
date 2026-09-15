@@ -1,0 +1,258 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Falcon? She isn't here. She left about one\nhour and thirty-five minutes\nago.",
+            "name": "???"
+        },
+        {
+            "text": "A day has passed since I recommended\nthat Смарт Фалкон run on dirt\ncourses.\nWanting to talk to her again, I've come to\nher dorm in search\nof her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Um, who are you?"
+            ]
+        },
+        {
+            "text": "My apologies for the late introduction. I'm\nEishin Flash, Smart\nFalcon's roommate.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Are you... Falcon's Тренер? If it's urgent,\ncontacting her smartphone is\nthe surest\nway to get a hold of her.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Although I can't guarantee that she'll\ncheck her phone. She might've\nturned it\noff by now.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Do you know where she went?"
+            ]
+        },
+        {
+            "text": "Well...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Сайленс Судзука was amazing! I knew she\nwas good, but I didn't think\nshe'd win by\nthat much!",
+            "name": "Fan A"
+        },
+        {
+            "text": "I'm so glad we caught the whole thing in\nperson! I can't wait to see\nSuzuka take\ncenter stage for the winning concert!",
+            "name": "Fan B"
+        },
+        {
+            "text": "My search for Смарт Фалкон leads me to\nthe racetrack. The stadium's\nfilled to the\nbrim with excited onlookers waiting for the\nwinning\nconcert to begin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wooow! This is so exciting! ☆ Go, Suzuka!\nYou can do it! I believe in\nyou!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Fal—"
+            ]
+        },
+        {
+            "text": "YEAHHH! SUZUKAAA!",
+            "name": "Wild Crowd"
+        },
+        {
+            "text": "The concert begins. Everyone's eyes are\nglued to the incredible\nperformance that\nfollows.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Though Сайленс Судзука's voice isn't the\nloudest, the joy in it is\npalpable—a joy\nshared by all her cheering fans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhhh! <i>Sniffle...</i> Suzukaaa! You're the best!\nWatching you run makes\nme feel like I can\ndo anything! I'll keep working hard, just\nlike you do!",
+            "name": "Fan A"
+        },
+        {
+            "text": "For a moment, I find myself captivated like\neveryone else. Then my\neyes drift over to\nSmart Falcon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Her eyes are also locked onto the stage,\nbut something about her\ngaze seems...\ndifferent.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After the concert ends, I look for Smart\nFalcon, but she's already\ngone. It's\npossible that she left for the dorm, but I\nsuspect otherwise.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hi, everybody! I'm Falco! That was a great\nconcert, wasn't it? ☆\nSuzuka never fails to\nimpress!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But don't go anywhere yet! I'll give you a\nfantastic performance too!\nAll I ask is that\nyou remember my name! ☆ With that said,\nlet's get\nstarted! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "My suspicions are confirmed when I spot\nSmart Falcon performing by\nthe riverside.\nMaybe this is just a plan to attract an\naudience still\nriding their concert high,\nbut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, she looks like an Umamusume too.\nDo you know her?",
+            "name": "Passerby A"
+        },
+        {
+            "text": "Nah, never seen her. Maybe she hasn't\nmade her debut yet? Anyway,\nwasn't\nSuzuka's concert great? My favorite part\nwas when she—",
+            "name": "Passerby B",
+            "choice_data_list": [
+                "(No one's staying to watch her...)"
+            ]
+        },
+        {
+            "text": "<i>Pant... pant...</i> How was that, everybody?!\nIt's my dream to one day\nperform on a\nmajor stage! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "One day...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I... wonder when that'll be...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Well, it's not like anybody here would\nknow. Time to head—oh.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I... I've always loved idols a lot, ever since I\nwas little. They're so cute,\nand they smile\nso bright that they light up any stage.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I kept telling myself that I'd be an idol one\nday too. But that dream\nchanged just a\nlittle when I saw my first race.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I went because I'd heard that Umamusume\nsing and dance just like\nidols do, in\naddition to race. It was such a strange\nconcept to me that\nI had to find out more.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Seeing everybody running their hardest, I\ncouldn't take my eyes off\nthe\nracetrack—not even for a second!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But what was even more exciting was the\nconcert that came after!\nWhen the\nspotlight hit them, everyone shone twice\nas bright as they\ndid on the racetrack!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I thought to myself, \"That's what I want!\"\nUmamusume shine their\nbrightest while\nrunning, and their winning concerts are the\ncherry on\ntop!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's when I decided to become an\nUmadol! I wanted to light up the\nworld\nlike they did—no, even more than that! I\nwanted to become a\nshining beacon of\nhope!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Just like... the way Suzuka did today,\ntaking first place and\nperforming center\nstage..",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I want to be a shining star just like her! I\nwant to be an Umadol that\nmoves the\nhearts of all who watch me!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "If I keep working hard, one day my\ndream'll come true. Or at least,\nthat's what\nI keep telling myself...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Falcon..."
+            ]
+        },
+        {
+            "text": "Oh, I don't mean to say that I feel like\ngiving up! Let me make it\nclear—I still\ndream of becoming a world-class Umadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's just that... that dream feels so distant\ntoday. Suzuka was so\namazing, it's hard to\nthink I could follow in her footsteps...\nHaha...\nha...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You have a shot at winning if you run in dirt\nraces."
+            ]
+        },
+        {
+            "text": "Yeah, I know... I actually knew as much\nfrom the start.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ever since I was admitted here, my\nteachers have all suggested that I\nrun on\ndirt courses. They say it suits me better.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But... I can't become a top Umadol running\nin dirt races. You know\nwhat I mean, right?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Because they aren't as popular as turf races..."
+            ]
+        },
+        {
+            "text": "Uh-huh. If I choose to run in dirt races, I'll\nnever perform on a big\nstage like Suzuka\ndid today.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The fans like turf races because that's\nwhere all the superstars are. It's\nonly fair\nthat the runners who win there are\nconsidered the best.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Sure, I could run on dirt courses, win races,\nand be the star of those\nwinning concerts.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But... that's not what I want! I don't want to\nbe the lead of just <i>any</i>\nconcert! My dream\nis to become a top Umadol and make it\nbig on the\ngreatest stages!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I don't want to give up on my dreams just\n'cause I'm \"better suited\" for\nsomething\nelse! There's no room for compromise! I\ncan't do it! I won't\ndo it!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "So that's how it is..."
+            ]
+        },
+        {
+            "text": "You probably think I'm being ridiculous.\nBut I don't care! I'll keep\nracing on turf\ncourses in hopes of one day achieving my\ndream!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I understand her reason for wanting to run\nin turf races. I also agree\nthat it's important\nto dream big, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seems to think that dirt racing is some\nkind of second-rate\ncategory, and that's\njust not right. In order to help her realize\nthat...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Would your teachers be okay with you missing\nclass tomorrow?"
+            ]
+        },
+        {
+            "text": "Huh?! Oh, uh... As long as you're the one\nasking for permission, they'd\nprobably be\nokay with it, but... why?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I want to take you to a race."
+            ]
+        },
+        {
+            "text": "Okay. I still don't get why, but I'll do it.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "But in exchange, you have to do one thing\nfor me!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "And that would be?"
+            ]
+        },
+        {
+            "text": "Well, you see...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'd like it if you called me Falco, not\nFalcon! ☆ It sounds cuter that\nway!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

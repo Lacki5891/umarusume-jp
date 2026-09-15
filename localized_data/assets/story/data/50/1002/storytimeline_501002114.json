@@ -1,0 +1,249 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Coming up in the latter half of February,\nwe're\ncontinuing our preparations for the\nYayoi Sho in\nthe cold weather.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Haah... Haah...</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Wow, look at Spe. That tire she's pulling\nis huge.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "She's working hard, huh?"
+            ]
+        },
+        {
+            "text": "Yes. Recently, she's also been going out\nrunning\nin the morning.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I wonder why she's training like that...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh! Suzuka! Hey!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Um, do you wanna do some partner\nrunning with\nme after training today?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Сайленс Судзука agrees, and the two of\nthem go\npartner running after our\nsession.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Спешл Уик chases after Silence\nSuzuka with all\nher might, but Silence\nSuzuka manages to keep\nahead without\nbreaking much of a sweat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Urgh... Guess I'm still not ready. I gotta\nwork\nharder...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Hey, Spe—",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh, Spe! You out here partner running\nagain?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hi, Sei. Yeah, just a little. Hehe...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "\"Again\"?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Lately, she's been out here every day,\npartner\nrunning with just about anyone,\neven though it's\nafter training hours.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Don't burn yourself out, all right?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Thanks, I won't. See you later.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Phew... All right, Suzuka. How about one\nmore—",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Agh!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Are you okay?!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "A-ahaha... I lost feeling in my legs.",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Don't you think you've been working a little too\nhard?"
+            ]
+        },
+        {
+            "text": "Huh?! No! Not at all!",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Proper rest is just as important as training, you\nknow."
+            ]
+        },
+        {
+            "text": "Ah... I'm sorry for worrying you...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hey, Spe...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Why are you doing all of this?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "What do you mean?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You've been at it nonstop, running\nmorning and\nnight, even after training...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So much so that you nearly fainted just\nnow...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Why are you pushing yourself like this?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's a simple question, and although\ninitially met\nwith pause, it doesn't seem\nas though she has\nanything to hide.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um... Well...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I wanna make my dream come true.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Your dream?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yeah. But right now, I'm not good\nenough.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "That's why I've been trying so hard every\nday—to\nget better!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Every day, bit by bit, I'm trying to get\ncloser to\nbecoming the top Umamusume\nin Japan!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So, yeah... In a nutshell, that's it... Huh?",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Suzuka?"
+            ]
+        },
+        {
+            "text": "Oh... I'm sorry, I was just a little\nsurprised.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(That huge tire... Early morning running...\nEvening\npartner running... How hard she\nwas trying to\ncatch up to me...)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(All to make her dream come true...)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "(Are all the others like this too?)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Afterward, Сайленс Судзука convinces the\n\nexhausted Спешл Уик to return to\ntheir dorm\nbefore the sun fully sets.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A few days later, there's a scrimmage on\nthe\nacademy grounds.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Unsurprisingly, Сайленс Судзука manages\nto take\nfirst. However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh! I couldn't catch up again!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "...!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Why?! After everything... After all the\nwork I've\ndone!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "<i>Sob...</i>",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "This isn't the first time Сайленс Судзука\nhas found\nherself surrounded by\nUmamusume devastated by\ntheir failure\nto keep up with her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But until now, she didn't pay them any\nmind—or\nrather, she didn't even notice it\nhappening.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Now, a change has begun to occur within\nher.",
+            "name": "Монолог"
+        }
+    ]
+}

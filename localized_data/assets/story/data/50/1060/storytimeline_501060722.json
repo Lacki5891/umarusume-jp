@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During a meeting to discuss our training\nroutine...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oooouch... My head feels like it's about\nto\nburst...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "Yeah, I'm fine. I know the acupoints for\n\nheadaches.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "My mom's on her feet a lot for her job,\nso I used\nto give her massages.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I think it's around the back of the neck—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ouch! That hurts...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ugh. The acupoints won't work on this\none, I\nguess.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The headache keeps Найс Нэйчер from\nher usual\nbest.",
+            "name": "Монолог"
+        }
+    ]
+}

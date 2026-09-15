@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Alas! The situation is grave, Trainer!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "My passion for racing has begun to\nswell. I fear I\ncannot contain it much\nlonger!",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Wh-what should we do?!"
+            ]
+        },
+        {
+            "text": "That much is obvious... Sing!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Lalalaaa! ♪ The Centurial Overlord shall\nprevail\nthis day! ♪ That being me, I must\ndo say! ♪",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "The power to make all cower—I'll\ntrounce any\nfoe! ♪ That is I! T.M. Opera\nOoo! ♪",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I let her impulses run free until she\nelatedly heads\nfor the track.",
+            "name": "Монолог"
+        }
+    ]
+}

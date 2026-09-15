@@ -1,0 +1,107 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Фудзи Кисэки got hurt в тренировке, so I\ntake her\nto the infirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Guh! I'm fine... or so I'd like to say, but\nI'd be\nlying... Argh.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hehe... That was pretty good acting,\nright? Did\nyou fall for it?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You pretending to be fine right now is the real\nact."
+            ]
+        },
+        {
+            "text": "I turned my charm on up to eleven, and\nyou still\nsaw through it?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What should I do now, director? I shall\nsubmit to\nyour vision...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Just shush and rest.",
+                "Your stage is the track, not here."
+            ]
+        },
+        {
+            "text": "What should I do now, director? I shall\nsubmit to\nyour vision...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Just shush and rest.",
+                "Your stage is the track, not here."
+            ]
+        },
+        {
+            "text": "Yes... I think I'll do... just that.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But... I have to patrol my dorm tonight...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And I'm sure my sweet ponies have\nfavors they\nwant to ask of me...",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You need to prioritize yourself right now!"
+            ]
+        },
+        {
+            "text": "Y-you have a point... I'll focus on my\nrecovery.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You're right. This isn't where I should be\ndevoting\nmy performance.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I have to do my best to return to my true\n\nstage—the racing track!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Let's brainstorm a training regimen that\nwon't\naffect my injury.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ngh!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Apologies... I can't focus because of the\npain...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll leave the rest of the planning to\nyou...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I can focus on conditioning the other\nparts of my\nbody that aren't injured\nfirst...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh! But I should do some visualization\nexercises\nso I'll be prepared for\nfull-body training once I\nrecover!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I have to do all I can to make sure I'm\nready!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Her pain is so distracting that she's\nunable to\nconcentrate on anything else...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Фудзи Кисэки is able to heal faster than\npredicted\nthanks to the new regimen we\nput together!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I watch over Фудзи Кисэки to make sure\nshe's able to\nget enough rest.",
+            "name": "Монолог"
+        }
+    ]
+}

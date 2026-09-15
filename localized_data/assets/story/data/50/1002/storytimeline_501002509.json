@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I catch Сайленс Судзука standing around\nthe\npractice track alone.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Why? My legs just won't keep up with\nme...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Not feeling 100 percent?"
+            ]
+        },
+        {
+            "text": "Oh! No, that's not it...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm sorry, I shouldn't dawdle while at\npractice.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Um, well... It's difficult to explain.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Running just doesn't feel good right\nnow. My legs\nfeel so heavy...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I don't understand why this is happening.\nIt's not\nlike I'm sick or hurt or anything...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука lets out a sigh and stares\nblankly\nat the track ahead.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It seems I've worked her too hard. I\nshould\nprobably adjust her schedule so\nthat running\nstarts feeling enjoyable for\nher again.",
+            "name": "Монолог"
+        }
+    ]
+}

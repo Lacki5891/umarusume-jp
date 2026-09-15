@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Hm. I guess it's time to replace my\ntracksuit.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "It feels tight in some places when I\nmove. Looks\nlike I gained some muscle.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hehe. As always, meat reigns supreme.\nIt's good\nfor your muscles, no doubt\nabout it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Curious, I take a look at the results of\nthis\nmorning's physical, and...",
+            "choice_data_list": [
+                "Your muscle mass seems to have dropped a bit,\nactually..."
+            ]
+        },
+        {
+            "text": "...What?!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "In other words, the increase is..."
+            ]
+        },
+        {
+            "text": "I'm going running.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And wipe that smirk off your face! Argh!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Нарита Брайан gets back into shape after\nsome\ngrueling runs."
+        }
+    ]
+}

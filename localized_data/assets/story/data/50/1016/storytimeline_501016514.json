@@ -1,0 +1,174 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I notice a lot of people gathering around\nthe\ntrack as I'm walking by."
+        },
+        {
+            "text": "Pipe down. The race is about to start.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "...The president sent me out here.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We're holding a public relations event to\nteach\npeople who've never seen a race\nwhat it's all\nabout.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I don't see why I have to host it,\nthough...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ah! You're gonna run too, right?! I'll be\ncheering\nfor you!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "Not necessary. Just shut up and watch.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh... I-I see... Sorry...",
+            "name": "Male Fan",
+            "choice_data_list": [
+                "...He left."
+            ]
+        },
+        {
+            "text": "And?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Wow... That's so rude. I can't believe a\nbully like\nyou is running!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "I thought racers found their fans' support\n\nmotivating. You should be grateful to\neven have\nany fans with that attitude.",
+            "name": "Female Fan",
+            "choice_data_list": [
+                "I-it's just a misunderstanding!"
+            ]
+        },
+        {
+            "text": "...Let 'em chirp all they want.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Huh?! I'm trying to talk to you and you\ncall it\nchirping?! That's it, I'm going\nho—<i>Agh!</i>",
+            "name": "Female Fan"
+        },
+        {
+            "text": "<i>Thud.</i>"
+        },
+        {
+            "text": "Are you all right?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Leave me alone! It's just a light sprain—",
+            "name": "Female Fan"
+        },
+        {
+            "text": "Shush. Turn your shoulder this way.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "There's no swelling, so I just taped it up.\n...Does it\nhurt?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No. ...You're really good at that.",
+            "name": "Female Fan"
+        },
+        {
+            "text": "I'm very careful when it comes to injuries.\nI don't\nwant to miss any races.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Plus...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If there are people out there who would\nsupport\nsomeone like me, then I\nwouldn't want to worry\nthem.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...All I want is for them to watch my back\nas I blow\nby.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...!\nS-so... coool!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "...What are you gawking at?! Go to the\nhospital\nalready!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Unless you want this \"bully\" to carry you\nthere?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ah! N-no, that's okay! I don't think my\nheart could\ntake it!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "Um, thank you for everything! I'll be sure\nto make\na full recovery and come cheer\nyou on!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "Cheer me on? ...Didn't she hate my guts\na second\nago?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Maybe she realized how cool you were.",
+                "You must've impressed her with your work!"
+            ]
+        },
+        {
+            "text": "Cheer me on? ...Didn't she hate my guts\na second\nago?",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Maybe she realized how cool you were.",
+                "You must've impressed her with your work!"
+            ]
+        },
+        {
+            "text": "Cool? ...Now I'm even more lost. They're\nscared of\nme, yet they admire me?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Is it like some kind of... infatuation or\n\nsomething like that?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Hey. Wipe that smile off your face.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You think so? ...I'm not sure I really\nfulfilled my\nduty as the host.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No, you've been splendid.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I can only hope you'll keep up the good\nwork.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What the... What the heck...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Even with Нарита Брайан staring me down, I\ncan't\nhelp but chuckle."
+        },
+        {
+            "text": "After that, Нарита Брайан continues to gain\nfans\nwithout quite knowing why."
+        }
+    ]
+}

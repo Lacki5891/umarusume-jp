@@ -1,0 +1,254 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the day of the Japanese Derby, and\nTokyo\nRacecourse is getting really\nheated up.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's number one in the popularity ranks\nfor a\nreason! She's on a winning streak of\ngraded races,\nso I think she's definitely\ngot this!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Oh, you sweet summer child. Trying to\nfollow in\nyour parents' footsteps is a\nhuuuge motivator!\nThat's why <i>my</i>\nfavorite's going to win!",
+            "name": "Fan B"
+        },
+        {
+            "text": "...Wow.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I can really feel how much everyone\ncares about\nthe runners they're cheering\nfor.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "The spectators have dreams for the Derby too."
+            ]
+        },
+        {
+            "text": "That's right... Flash was saying that it's\nspecial. I\nguess this is what she meant.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hey, darling. Why isn't this \"Эйсин Флэш\"\n\npopular? She's really good, isn't she?",
+            "name": "Fan C"
+        },
+        {
+            "text": "Because the other runners are much\nbetter,\nhoney. There's no denying that\nshe's good, but\nshe's got no hope\nagainst this competition. For\nexample...",
+            "name": "Fan D"
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Go, Flash! You can do it!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "However, once the race starts,\neveryone's\nexpectations are turned on\ntheir heads. The\nrunner who breaks\nthrough the chaos of the\nhomestretch is\nnone other than...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's Эйсин Флэш! Эйсин Флэш has taken\nthe lead!\nShe's holding onto it, aaand...\nshe crosses the\nfinish line!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Carrying the cheers of thousands, this\nyear's\nDerby Champion is... Эйсин Флэш!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Wooooo! Eishin Flaaasssh!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "That was... amazing...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "On the way home from the race, I grow a\nlittle\nconcerned with how quiet Curren\nChan is, so we\nstop by a park.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I've been working so hard on my social\nmedia\npresence lately that you've been\nworried about\nme, right?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...I've been working so hard on my social\nmedia\npresence lately that you've been\nworried about\nme, right?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm okay. Really. The truth is, I was\nfeeling a tiny\nbit... insecure... I guess.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Insecure?"
+            ]
+        },
+        {
+            "text": "Yeah.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I don't know if it's really a good idea to\njust focus\non sprints. Like, I won't get\nmuch attention unless\nI do a lot of extra\nwork outside of racing...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Because not many people watch sprints?"
+            ]
+        },
+        {
+            "text": "Basically, yeah.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I understand her concerns. Even if there\nare some\npopular and exciting sprints...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Compared to the Classic races like the\nTriple\nCrown tour, they don't get much\nmedia coverage,\nand they don't get\nanywhere near the same\nattention from\nfans either.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's why I was thinking... If I can stand\nout a\nwhole bunch, it'd be good\npromotion for the\nraces.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I figured if I could charm people with my\ncuteness\nand get them hooked on\nwatching my races,\neverything would be\nsolved just like that! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But, of course, it's not that easy. I saw\nthat at\ntoday's race.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I can never draw that amount of passion\nfrom\npeople the way I am now.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Flash had such a pure smile on her face\ntoday... It\nwas beyond cute.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "That smile resonated with me. It was just\nlike the\nshock I felt the first time I\nwatched a race.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>I</i> want that kind of passion, and to find\n<i>my</i>\ncuteness at its end.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But... does my running linger in people's\nhearts\nlike what we saw today?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "At the very least... it doesn't linger in\nmine.",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Curren..."
+            ]
+        },
+        {
+            "text": "She speaks firmly, and I can see\nfrustration\nseeping into her eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "With the way things are now, no matter\nhow many\npeople watch my races, I'm\nnever gonna be the\nmost beloved\nrunner.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I have to change. I have to be... the\ncutest me I\ncan be!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "At this point, it's not possible to frame\nwhat\nКаррен Тян wants in terms of an\nactual goal...\nBut one thing's for sure...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You'll just have to get stronger."
+            ]
+        },
+        {
+            "text": "Эйсин Флэш won and proved herself to\neveryone.\nOnly winners are worthy of\ncalling themselves the\nbest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...You're right.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Okay. Then, I'm gonna get stronger!\nLet's hit the\ntrack!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You want to train right now?!"
+            ]
+        },
+        {
+            "text": "Okay. Then, I'm gonna get stronger!\nLet's hit the\ntrack!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You want to train right now?!"
+            ]
+        },
+        {
+            "text": "I've gotta push myself to the very limit if\nI'm\ngonna get stronger. I need to train!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Her phrasing makes me think of\nsomething.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I've got the perfect way to train."
+            ]
+        },
+        {
+            "text": "Really?!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "The Summer Sprint Series."
+            ]
+        },
+        {
+            "text": "It's almost summer. The Classics are over\nfor the\ntime being, and it's the season\nfor runners to work\non improvement.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Ahhh. So we take advantage of the\ntime when\neveryone's exposure is\nrelatively low to run races\nand build\nexperience, right?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Okay, sure! This summer, I'm getting\neven cuter!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "First up is the Hakodate Sprint Stakes!"
+            ]
+        },
+        {
+            "text": "And with that, we set our next goal as\nthe first\nrace of the Summer Sprint\nSeries—the Hakodate\nSprint Stakes!",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's decided, then! We're going to\nHakodate for\nmy special\ntraining—Operation \"Eat Seafood Till\n\nYou Drop\"!",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "For what?!"
+            ]
+        },
+        {
+            "text": "Just kidding. Ehe! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Just you wait. One day, everything I ever\n\nwanted... will be mine!",
+            "name": "Каррен Тян"
+        }
+    ]
+}

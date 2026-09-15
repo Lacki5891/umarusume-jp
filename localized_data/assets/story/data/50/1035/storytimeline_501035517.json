@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I spot Уиннинг Тикит running toward\nme, tears in\nher eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Waaaaah! Traaineeer!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I... <i>sob...</i> I did something horrible to Mr.\nChalk!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Wh-what happened?"
+            ]
+        },
+        {
+            "text": "<i>Sniffle...</i> I got called on during class and\nhad to\nwrite the answer on the\nblackboard...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "So I thought, \"All right! Let's show them\nhow it's\ndone!\" And I grabbed Mr. Chalk\nreal tight. But\nthen...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "There was a loud crack! I snapped poor\nMr. Chalk\nin twoooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Urghh... It's all my fault! Mr. Chalk\ncould've\nwritten so much more in life!\nBut I snapped that\nlife short!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaaah! It's so sad—I can't go on!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Perhaps Уиннинг Тикит needs to learn\nhow to\napply a little less force\nsometimes.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of Кинг Хало's debut race finally\narrives.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ohohoho! Today I make my grand\ndebut! First\nplace, here I come!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe, did you hear? It seems Sky and\nSpecial\nWeek haven't made their debut\nyet!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "In other words, <i>I</i> will be the first to grace\nthe\nmasses with my ravishing running! ♪",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "As she says this, I hear a voice coming\nfrom the\nTV in the waiting room.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! What a truly amazing debut Grass\nWonder\ngave us the pleasure of\nwitnessing yesterday!",
+            "name": "TV"
+        },
+        {
+            "text": "I agree! Her prowess on the track was\n\nunforgettable.",
+            "name": "TV"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Get out there and bring back the win!"
+            ]
+        },
+        {
+            "text": "Like it even needs to be said!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It seems Grass has already had her\ndebut. Is she\ntrying to outshine me?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "No matter. I'll run so spectacularly it'll\nwipe\neveryone's memories of her\nperformance!",
+            "name": "Кинг Хало"
+        }
+    ]
+}

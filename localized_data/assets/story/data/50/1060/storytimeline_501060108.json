@@ -1,0 +1,265 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the day of the Fan Fest. The\nacademy is\npacked with Umamusume\nfans.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks for coming! I hope you have fun\ntoday!\nOh, and don't miss our amazing\ndance!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Let's all have fun together and make\ntoday a\nhappy day!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Yaaay!",
+            "name": "Fans"
+        },
+        {
+            "text": "H-hey, isn't that... Нарита Брайан and Biwa\n\nHayahide?!",
+            "name": "Fans"
+        },
+        {
+            "text": "You're too close. We stand out way too\nmuch.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Are you implying that my hair stands\nout?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's not what I said.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "They look so smart and cool! Ugh, I love\nthem!",
+            "name": "Fans"
+        },
+        {
+            "text": "While everyone is enjoying mingling with\nfans,\nНайс Нэйчер is...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow... Their charm and glamor are\nbeyond even\nidol level...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They really are the stars. No wonder\ntheir fans are\nso obsessed with them.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Why don't you go and meet your fans?"
+            ]
+        },
+        {
+            "text": "I'd love to, but after everyone else was\nso cool...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A normal girl like me won't bring any\nexcitement.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Right now, we should be focusing on building\nyour fanbase."
+            ]
+        },
+        {
+            "text": "Why would—ah, right. The Takarazuka\nKinen...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The roster is based on a fan poll, right? I\nguess I\n<i>do</i> need to put some effort in.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Problem is that I'm not particularly\n\nattention-grabbing... Hmmm...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well... I guess I should at least practice\nexercising\nmy charms, huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Me and my big mouth.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It's time for the Little Miss Cutie-Pie ☆\n\nUmamusume Pageant!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "I'm your host, the class rep of all class\nreps,\nСакура Бакушин-О!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "One notable contestant has joined us at\nthe\nlast-minute... Найс Нэйчер! Will she\ncharm her way\ninto your heart?!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Whoooa!",
+            "name": "Fans"
+        },
+        {
+            "text": "Why is this happening?!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Good luck, Nature!"
+            ]
+        },
+        {
+            "text": "Huh?! Trainer, you betrayed me!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well then, Найс Нэйчер! Show us your\ncharm!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Uh, I'm good...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "What was that? You want to hear a little\nmore\nexcitement from the audience?!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "I didn't say that!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We need your help, everyone! Let's hear\nit for\nНайс Нэйчер!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "You can do thiiiis, Найс Нэйчерeee!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "I wanna see your charm! Go, Nature!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "Ughhh... No escaping now...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Show us your sparkle, Nature!"
+            ]
+        },
+        {
+            "text": "Uhhh...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I can't do thiiis!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Seriously, I can't! I don't have the\ncharming\npersonality that the other\nadorable stars have...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's not true! You're cute in your own\nway!",
+            "name": "Shopkeeper A"
+        },
+        {
+            "text": "What?! Wait, why's everyone from the\nshopping\ndistrict here?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They're right, Natie! Just be yourself!",
+            "name": "Shopkeeper B"
+        },
+        {
+            "text": "Let 'em hear your go-to karaoke song,\n\"Emotional\nFlame, Women's Grudge\"!",
+            "name": "Shopkeeper B"
+        },
+        {
+            "text": "You guys...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wait, but that's an enka song! That's not\ncute at\nall!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hahaha! Come on, Nature!",
+            "name": "Fans"
+        },
+        {
+            "text": "No turning back now!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The name's Найс Нэйчер! I'm on a journey\nto\nbecome a mature and marvelous\nlady! ☆",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sh-shwiiing!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...",
+            "name": "Fans"
+        },
+        {
+            "text": "Uuuurgh...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I-I know! That was spine-chillingly bad!\nI'm sorry!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "B-but!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Please... don't be grossed out...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Whoaaa! You are so cuuuute, Nice\nNature!",
+            "name": "Fans"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "She's blushing! She's so adorable!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "That was adorable! You're our idol, Nice\nNature!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "S-stop! What's going on?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You <i>are</i> Little Miss Cutie-Pie, Nice\nNature!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "Whaaaat?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Trainer! Come rescue meee!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "The audience bursts into excitement at\nthe sight\nof Найс Нэйчер's shyness. The\ncontest ends with\nНайс Нэйчер\nsuccessfully capturing the hearts of\n\nmany.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Although not cute in the traditional\nsense of the\nword, Найс Нэйчер's charm\ncomes through as one\nwho is loved by\nmany.",
+            "name": "Монолог"
+        }
+    ]
+}

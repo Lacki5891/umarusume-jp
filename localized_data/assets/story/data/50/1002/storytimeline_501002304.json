@@ -1,0 +1,170 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ever since we decided to aim for the\nClassics,\nwe've been steadily building\nstrength through\ncontinued training and\nracing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The first of the Classics is the Satsuki\nSho, where\nshe can take advantage of\nher special skills.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I do worry about the jump to such a big race,\nhowever.)"
+            ]
+        },
+        {
+            "text": "I wonder if it would be better to work up\nto it\nwith smaller races, like—",
+            "name": "Монолог"
+        },
+        {
+            "text": "The Yayoi Sho?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Like the Satsuki Sho, the Yayoi Sho also\ntakes\nplace at Nakayama Racecourse.\nIt's the perfect\nrace to ease her in.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Think of it as a warm-up for the Satsuki Sho."
+            ]
+        },
+        {
+            "text": "Understood. As long as I get to run fast,\nany race\nwill do.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And so, we decide to participate in the\nYayoi\nSho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm going to run another lap then.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Recently, our training has focused\nmostly on\nСайленс Судзука's stamina. One\nday...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um... Would you like to go hiking?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Hiking?"
+            ]
+        },
+        {
+            "text": "I thought that hiking would be good for\nbuilding\nmy stamina. What do you think?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You're more than welcome to come with\nme.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm open to the idea, so we take a trip to\nthe\nmountains.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "(This is tougher than I imagined!)"
+            ]
+        },
+        {
+            "text": "Are you doing okay?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Don't let me slow you down. Go on ahead!"
+            ]
+        },
+        {
+            "text": "No, we came here together. I'll wait.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This is so refreshing. I'm usually out here\nrunning\nby myself.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I-I'm dying!"
+            ]
+        },
+        {
+            "text": "(I wonder if I should be giving\nencouragement at\ntimes like this...)",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Y-you can do it!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We continue our hike, Сайленс Судзука\ncheering\nme on, until we finally reach\nthe peak.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The view from the top is absolutely\nstunning.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Wow!"
+            ]
+        },
+        {
+            "text": "The snow atop the distant mountains\nfaintly\nglimmers beneath the deep blue\nsky.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I turn to my side to see Сайленс Судзука\ngazing out\nat the view.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you come here often?"
+            ]
+        },
+        {
+            "text": "Only sometimes, as training. Particularly\nin spring,\nwhen the cherry blossoms are\nin bloom. And also\nfall, when the leaves\nturn red.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "But I think it's the most beautiful during\nthis time\nof the year.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "How come?"
+            ]
+        },
+        {
+            "text": "When it's cold out... the earth smells so\nfresh.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And I come flying up that narrow trail\nknowing\n<i>this</i> is what's waiting for me.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I always feel happy to have made it all\nthe way to\nthe end.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "...Kind of like a race."
+            ]
+        },
+        {
+            "text": "If you put it that way... Yes, I can see it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I've been wanting to share this view with\nyou for\nsome time.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm also happy to have made it all the way here."
+            ]
+        },
+        {
+            "text": "Really?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. I'm glad.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "She chuckles softly to herself. I get the\nfeeling\nthat we've grown a little closer.",
+            "name": "Монолог"
+        }
+    ]
+}

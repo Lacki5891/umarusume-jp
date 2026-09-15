@@ -1,0 +1,238 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Finally having a day to relax, I head to the\nshopping mall to do some\nbrowsing."
+        },
+        {
+            "text": "Hm... There are a plethora of treatment\noils here, but they're all\nglorified cooking\noils that emphasize fragrance over quality.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "In that case, perhaps the baobab seed oil\nfrom earlier will do... But in\nterms of\npermeability, it lacks the right ingredients.\nHmph...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Hayahide?"
+            ]
+        },
+        {
+            "text": "T-Тренер?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What are you doing he—what am I saying?\nYou're obviously\nshopping. Still, this is\nquite the coincidence.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What were you looking at?"
+            ]
+        },
+        {
+            "text": "I was comparing the various hair oils here.\nI'm just about out of my\ncurrent supply.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I figured I would check if anything new was\navailable. Even for the\nsame products,\ningredients are often changed to suit the\nlatest\nresearch.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You sure put a lot of thought into it, huh?"
+            ]
+        },
+        {
+            "text": "I suppose... But as you see, hair care is an\nunceasing struggle for me.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "It is?"
+            ]
+        },
+        {
+            "text": "Come on, just look at it. My hair is... well,\nit tends to become rather\nfrizzled.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Um, I guess?"
+            ]
+        },
+        {
+            "text": "Her hair does seem a little frizzy, but it\ndoesn't look all that terrible\nto be\nconcerned about."
+        },
+        {
+            "text": "You don't... You surely don't believe my\nhair is naturally like this?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "It's not?"
+            ]
+        },
+        {
+            "text": "This is the result of a maximum amount of\neffort. Each day, I style it to\nminimize split\nends, and my nighttime routine is far more\ncomplicated\nthan average.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But... It's still not enough. My hair, it\nwon't...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's a shaggy mess of knots! Even my stylist\nadmitted defeat against\nmy hyper tangles!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "<i>Hyper tangles?!</i>"
+            ]
+        },
+        {
+            "text": "Yes. It's not the exact definition, but I'm\nleft with no choice but to\ncall it that. My\nhair is an anomaly!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I use off-the-shelf products as well as ones\nof my own making. I even\ntried an\nunnatural concoction of Tachyon's, but to\nno avail!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "(Woah! Who is this, and what has she done to\nHayahide?!)"
+            ]
+        },
+        {
+            "text": "My agony begins the moment I wake up in\nthe morning. Have you\never jumped out of\nbed choking on your own hair?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The rainy season is especially problematic!\nDealing with my hair has\nnever been a\nsource of joy. It is, rather, my <i>mortal\nenemy.</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And people tell me to just cut it short. But\nthat would be the worst\nmove to make! My\nface would look as big as a race track!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's not that I prefer it long, but that's the\nbitter decision I made after\nconsidering\nthe advantages of either letting it hang or\ntying it up. But\nof course...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The frazzled genius continues airing her\nhair grievances for some\ntime..."
+        },
+        {
+            "text": "<i>Sigh...</i> How many times I've wished to have\nstraight hair like Brian's.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I remember the shock when I first braided\nher hair when we were\nchildren. The silky\ntouch as I ran my fingers through it... I\nscreamed,\n\"How can our hair be so\ndifferent?!\"",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I even tried holding my hair down with our\nfather's pomade... But of\ncourse, it would\nnever feel silky like Brian's that way. It was\nhopeless.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I picture how adorable she must have been\nglopping pomade on her\nhair, and I can't\nhold in my smile."
+        },
+        {
+            "text": "Wha... Are you laughing?! I'm pouring my\nheart out here!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Ah, I was just thinking about how you always\ngive it your all."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Um, excuse me, miss? You seem to be\nhaving trouble deciding. Is\nthere anything I\ncan help you with?",
+            "name": "Store Clerk"
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Apologies for overhearing, but I\nunderstand that you're having some\n\ntrouble with your hair. Perhaps I could\nrecommend our—",
+            "name": "Store Clerk"
+        },
+        {
+            "text": "N-No, I'm fine... Thank you anyway.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's take our leave now.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I, um, apologize for earlier. I become\nsomewhat... animated when it\ncomes to\nhair.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But shouting in a public space like that\nwithout an ounce of\nself-control... I\nmust've looked pathetic.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Don't say that."
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I still think you're extraordinary."
+            ]
+        },
+        {
+            "text": "I tell her just how incredible I think she is.\nHow she always strives to\nimprove herself,\nand how she always puts her whole heart\ninto a\nchallenge."
+        },
+        {
+            "text": "You praise me too much... I'm simply\nfiguring out my problems\nthrough trial and\nerror. If my hair was any good to begin\nwith, I\nwould've never put the effort in.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "But all that effort made you who you are today."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's... possible, I suppose. From all the\nanguish my hair gave me, I\nmay have\ngained the determination never to give in.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Then maybe it wasn't all that bad, right?"
+            ]
+        },
+        {
+            "text": "But... that's a matter of hindsight. Let's not\nmake light of the suffering\nI went through\nall that time.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I swear... your interpretation of the data is\ntruly unique. Not at all like\nmine. But that's\nwhy I like talking with you.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I think my words have begun to sink in, as I\nsee her expression soften.\nIn that case...",
+            "choice_data_list": [
+                "Anyway, I think your hair is fluffy and\nwonderful."
+            ]
+        },
+        {
+            "text": "I simply tell her my honest opinion, but..."
+        },
+        {
+            "text": "Let me stop you right there. That is one\ncomment I cannot overlook.\nThough I do\nappreciate your opinion and kind words.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "However, if that's the conclusion you drew\nfrom our conversation just\nnow, I must say\nthat your reasoning is flawed.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There is a need to deliberate once more\nabout this matter.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "There's no backing out now. As my trainer,\nyou must understand the\npain I go through\nas much as I do.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Now, get comfortable. It's time I told you\nmy <i>tragic</i> life story. No\nobjections.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We go to a cafe, and I try as hard as I can\nto listen to Hayahide's\npassion-fueled\nTheory of Frizzy Hair. Now I truly\nunderstand how she\nfeels... I think."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Whew. I managed to come in first place.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Well done!"
+            ]
+        },
+        {
+            "text": "Yes, but this win is nothing special. It's\nmerely the\nnatural consequence of our\ndaily efforts.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Our training must continue, and we\nshould not\ngrow complacent.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Even so, I'm glad you won!",
+                "Let's train even harder!"
+            ]
+        },
+        {
+            "text": "Our training must continue, and we\nshould not\ngrow complacent.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Even so, I'm glad you won!",
+                "Let's train even harder!"
+            ]
+        },
+        {
+            "text": "Hehe, thank you. I didn't think you'd be\nthis\nexcited, though.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yes. One must wear one's helm most\nfirmly in the\nmoment of victory, as the\nsaying goes.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "However, this is only one stop on the\nway to the\ntop. So please—continue on\nthis journey with me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So please remain vigilant as you guide\nme\nforward. ♪",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

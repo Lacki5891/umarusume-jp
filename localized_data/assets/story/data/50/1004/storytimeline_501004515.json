@@ -1,0 +1,202 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Марузенски is being interviewed\nfor a\nmagazine article.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Next, let's talk about that signature\nracewear of\nyours.",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Oh, this? Heehee, of course! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's a very popular design among fans.\nWhat's\nyour own impression of it?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "It's my favorite! This outfit brings out\n100% of my\ncharming qualities.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I see. Is there anything in particular that\nyou like\nabout it?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Well, let's see... The design, the fit...\nThere are so\nmany good parts to choose\nfrom!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But the best thing is the color—this fiery\nred!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I've been attached to this color for a\nlong time.\nThat's why Tata's red too. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Actually, maybe it's the other way\naround... I've\nalways wanted a car just\nlike Tata, so maybe\nthat's why I love the\ncolor red.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Tata?",
+            "name": "Репортёр",
+            "choice_data_list": [
+                "It's the nickname of Марузенски's car."
+            ]
+        },
+        {
+            "text": "Oh, I'm sorry. I got a bit excited and\nforgot to\nmention. ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "When I was younger, I was taken to a car\nshow...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "There was a bright red supercar there,\nand it was\nso cool, I instantly fell head\nover heels!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I vowed to myself then and there that\nwhen I\nfinally got my own car, it would\ndefinitely be that\none.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "After that, I kept looking at the pictures\nin\ncatalogs, dreaming of the day I could\nget my\ndriver's license.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Now that dream has come true, and I'm\nall smiles\nwhen I get a chance to hit the\nstreets! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So, you still have the same deep feelings\nfor this\ncar that you did back then?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "That's right. And that's why I hope I can\ncheer up\nthe audience with my running,\njust like how Tata\ncheers me up.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I want to give everyone the same\nfabulous feeling\nof a hot rod! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "The interview proceeds very well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you very much. Now, can we take\na few\npictures?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Okey dokey, artichokey! I'll show off my\nbest\nlooks!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, right! Of all the people I know, you\nmust\nknow me best, Trainer...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh! Of all the people I know, you must\nknow me\nbest, Trainer...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What should I show off in today's shoot?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Speed that no one can match.",
+                "Your bright and easy smile."
+            ]
+        },
+        {
+            "text": "I see... I shine the most when I'm\nenjoying myself\nduring a run, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What should we do? Can we use the\nracetrack?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Why don't we go right now? You\nreporters can\nride with us and enjoy the\nspeed! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Erm, do you mean to say you'll be\ndriving us?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Woo-hoo! I just can't get enough of\nTata's speed!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Um, isn't this a bit too fast?! Ah! Ahh!\nAHHHHHH!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "My smile? Well, like I always say, the\nmost\nimportant part is having fun.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Can't wait to see it!"
+            ]
+        },
+        {
+            "text": "No doubt! I'll give you a smile that'll\nknock your\nsocks off!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "No doubt! I'll give you a smile that'll\nknock your\nsocks off!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's me, the one and only Hot Rod!\n<i>Cheeeese!</i> ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I love it! What a great expression!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Later, Марузенски and I check out the\narticle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This picture really makes my smile look\nradiant!\nI'm not half bad, if I do say so\nmyself! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, look here! They mentioned you,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, look here! They mentioned you,\nTrainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It says my beautiful smile must be due to\nthe\ntrusting relationship I have with my\ntrainer! ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Heh, I'm a little embarrassed."
+            ]
+        },
+        {
+            "text": "Don't be so modest. The reason I smile\nso much is\nbecause you support me! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Don't be so modest. The reason I smile\nso much is\nbecause you support me! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски's smile now is just as\ndazzling as the\none in the picture.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her expression as she drives at top\nspeed with the\ncowering reporters in tow\nreally is the brightest...",
+            "name": "Монолог"
+        }
+    ]
+}

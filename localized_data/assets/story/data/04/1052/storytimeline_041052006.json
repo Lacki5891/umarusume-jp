@@ -1,0 +1,159 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I head towards the train station on my\nday off, I suddenly hear a\nfamiliar voice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, time to put my super-duper\nsecret plan into action!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Oh? And what would that be?"
+            ]
+        },
+        {
+            "text": "Well, you see... Wait! What are you doing\nhere?!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "I'm just doing some shopping."
+            ]
+        },
+        {
+            "text": "Oh, yeah? Me too! Ah, but this is all a part\nof my super-duper secret\nplan, so that's all\nI'm telling you!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Aaanyway, I better get going! See you\nlater!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Хару Урара dashes away before I can say\nanother word. A mix of\ncuriosity and\nconcern compels me to follow her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm... That magazine said it should be\naround here...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "As she wanders around aimlessly, one of\nthe nearby shopkeepers\napproaches her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Lookin' for somethin' special, are we?",
+            "name": "Shady Shopkeeper"
+        },
+        {
+            "text": "Yup! I'm trying to find the shoe store\naround here! Do you know\nwhere it is?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Forget about that store! I've got just the\nshoes for you, riiight here.",
+            "name": "Shady Shopkeeper"
+        },
+        {
+            "text": "No, thank you! I'm not looking for just any\nshoes. I need the kind that\ngive you super\nspeed!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Well, what a co-inky-dink! These just so\nhappen to be the\nworld-renowned Super\nSpeed Sneakers! How about I give you a\ndeal\non them?",
+            "name": "Shady Shopkeeper"
+        },
+        {
+            "text": "Urgh... I have juuust enough to buy them,\nbut... Are you SURE they'll\nmake me\nfaster?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Positive! First place is as good as yours\nwith these babies on your\nfeet!",
+            "name": "Shady Shopkeeper"
+        },
+        {
+            "text": "Really truly?! Well... they are a bit\nexpensive, but if they'll make me\nfaster—",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "HOLD IT!"
+            ]
+        },
+        {
+            "text": "Тренер?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "What?! All that stuff about making me\nfaster was a lie?! But he said\nfirst place was\nas good as mine!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Good thing I followed you..."
+            ]
+        },
+        {
+            "text": "No kidding... And now my super-duper\nsecret plan to get faster is\ndown the drain!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "How were you going to do that?"
+            ]
+        },
+        {
+            "text": "With shoes that make me extra fast, of\ncourse!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Only practice can increase your speed."
+            ]
+        },
+        {
+            "text": "I-I'm not trying to skip out on any\ntraining... I just want to get faster!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Can I ask why?"
+            ]
+        },
+        {
+            "text": "Remember those nice things the reporter\nsaid about you? That made\nme really\nhappy.",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "If that's the kind of stuff she says NOW,\nimagine what people would\nsay about you\nif I WON!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I figured if I could find a way to win first\nplace faster, I could surprise\nyou and\neveryone else!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I'd love to win a race, and if that means\neveryone will praise you, I'd\nlove it even\nmore!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "She's already putting in the work, but Haru\nUrara still wants more. As\na trainer, I'm in\nawe of her dedication.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Well, it's good to be motivated!"
+            ]
+        },
+        {
+            "text": "Right?! Ehehe, I'm glad you feel that way.\nI'll make sure to find the\nright shoes—",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "But we need to do this together."
+            ]
+        },
+        {
+            "text": "Together?",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Let's find a way to win... together."
+            ]
+        },
+        {
+            "text": "Yeah... Yeah, you're right! I shoulda gone\nto you right away!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Well, looks like I'll need to give\ntomorrow's training some\nextra-special\neffort! See you then!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Хару Урара excitedly runs back to Tracen\nAcademy. With a better\nunderstanding of\nher motivations, I feel my desire to help\nher win\ngrowing even stronger.",
+            "name": "Монолог"
+        }
+    ]
+}

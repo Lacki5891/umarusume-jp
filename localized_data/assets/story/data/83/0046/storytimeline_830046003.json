@@ -1,0 +1,157 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While visiting Bubblyland, I see Winning\nTicket\ntending to someone."
+        },
+        {
+            "text": "Are you okay?! You must have twisted\nyour ankle!\nHold onto my shoulders!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yowch! Geez Louise, that smarts!",
+            "name": "???"
+        },
+        {
+            "text": "You poor thing! I'll go call the park staff!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "No way! I'm about to go on stage! They\nwon't let\nme dance if they find out I'm\nhurt!",
+            "name": "???"
+        },
+        {
+            "text": "Wait, are you... You're the star of\nBubblyland,\nFuzzy Buddy, right?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yes. It is I, Fuzzy Buddy, star to kiddos\n\neverywhere. Even if I have to sacrifice my\nfeet\nand my Friday night, I <i>will</i> stand on\nthat stage\nand bring a smile to their\nfaces!",
+            "name": "Fuzzy Buddy",
+            "choice_data_list": [
+                "You're seriously planning to dance in this state?"
+            ]
+        },
+        {
+            "text": "...Uwaaaagh! That's such a cool way to\nliiive!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It takes a lot of guts to sacrifice your\nlegs!\nEntertainment must really mean the\nworld to\nyou... You're such a bright,\nsparkly staaarrr!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I gotta help you! How about I stand in\nfor you?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Let me help too! You always put on such\ngreat\nshows for us, Fuzzy Buddy. Now\nwe can do\nsomething for you! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But you're totally unprepared! I can't let\nyou two\ngo up on that stage like this!",
+            "name": "Fuzzy Buddy"
+        },
+        {
+            "text": "Please! We'll make sure the show's\nspectacular!\nWe won't let you down!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Th-those eyes! They're burning with true\nbubbly\nfire! ...All right. I believe in you\ntwo!",
+            "name": "Fuzzy Buddy"
+        },
+        {
+            "text": "Tonight's show is up to you guys!",
+            "name": "Fuzzy Buddy"
+        },
+        {
+            "text": "Having taken Fuzzy Buddy to the\ninfirmary, we\nhead back to the stage\nwhere we can already hear\nlively music.\nIt sounds like the show is starting!"
+        },
+        {
+            "text": "YAAAY! Hey, everyone! Tonight we've\ngot\nsomething extra special for all of\nyou!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Woohoo! Let that fever rock your whole\nbody!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Huh? Where's Fuzzy Buddy?",
+            "name": "Audience"
+        },
+        {
+            "text": "Nighttime Bubblyland starts now! Let's\nget things\nbubbly!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "BOOO! You call that dancing?!/nGet\nFuzzy\nBuddy out here already!",
+            "name": "Audience"
+        },
+        {
+            "text": "Oh my... What a tough crowd. This is\nrough!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Regroup, Maruzen! As you'd say, it's\ntime to\nboogie-woogie!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wahooo! Are y'all feeling it?! My\nengine's going\n<i>full throttle!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Are they seriously going to dance all\nnight?\nThey're gonna regret that in the\nmorning!",
+            "name": "Audience"
+        },
+        {
+            "text": "The two desperate dancers go nonstop\nfor over\nan hour, and the audience starts\nto see them in a\nnew light!"
+        },
+        {
+            "text": "Ahaha! This is so fun! Come on,\neveryone! Get\nlouder! Give in to the\nFEVER!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Who cares about time? We're back in\nthe bubble\nera now!/nBack in time, back\nin style!",
+            "name": "Audience"
+        },
+        {
+            "text": "It's working, Tickezo! They're all in sync!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We're just getting warmed up! Let's go,\neveryone!\nGet it MOVING!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "BOOOYAAAAH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Splaaash!</i>"
+        },
+        {
+            "text": "Уиннинг Тикит performs a flip in midair,\nbefore\ndiving into the pool with\nacrobatic flair!"
+        },
+        {
+            "text": "WOOHOOO!/nRock our socks off!",
+            "name": "Audience"
+        },
+        {
+            "text": "The spectators start diving in one after\nanother! It\nlooks like Уиннинг Тикит's\nenthusiasm has caught\nhold of them!"
+        },
+        {
+            "text": "Hehe! They're totally into it! Looks like\nthey all\nwanna make the most of their\ntime here!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Check you out, thinking of the fans!\nYou're\npractically a star yourself! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If they wish hard enough for it, anyone\ncan be\nwhoever they wanna be! I'm so\nhappy I got to\nshow that to them!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "With their improvised show, Winning\nTicket and\nМарузенски bring more fun\nto Bubblyland than\nit's ever known!"
+        }
+    ]
+}

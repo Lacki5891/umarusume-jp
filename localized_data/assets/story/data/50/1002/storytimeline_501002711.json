@@ -1,0 +1,41 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Again...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "My legs feel heavy, like I'm trudging\nthrough a\nswamp all by myself.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Trainer, what should I do?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Don't worry. We'll win the next one!",
+                "I want you to run your way."
+            ]
+        },
+        {
+            "text": "We... That's right. I'm not alone anymore.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Run my way...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I see... How can I win if I'm not running\nmy own\nway?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you. I'm... I'm counting on you.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you very much. I'll run my way in\nthe next\nrace.",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer rolls around, and we arrive at the\nacademy's seaside facilities\nto begin our\nsummer training session. Right before we\nstart,\nhowever...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do you have a moment before we start\ntraining? I wanted to give you\nsomething.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп rummages through her bag and\npulls out a sheet of paper.\nIt looks to be\nsome kind of handwritten questionnaire.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Could you fill this out while I'm warming\nup? It shouldn't take long.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I quickly glance over the questions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Do you like sweet food?\" \"Do you like\nspicy food?\" \"Do you have\nany food\nallergies?\" ...All the questions seem to be\nabout food.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They're mostly yes-no questions, so you\nshouldn't have to think too\nhard about\nyour answers.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "You'll do it, right?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Sure... I don't mind."
+            ]
+        },
+        {
+            "text": "Thanks. I'll leave you to it then.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I fill out the questionnaire while Огури Кэп\nruns her warm-up laps.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thanks. I'll check your answers later\ntonight and see if there's\nanything to be\navoided.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Avoided?"
+            ]
+        },
+        {
+            "text": "Yep, don't worry about it. You filled\neverything out, so I should have\na pretty\ngood grasp.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Let's focus on training for now. I need to\nbe sure I'm prepped for\ntonight.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Work hard, play hard. I'll push through\ntoday's training and make sure\nI expend as\nmuch energy as possible.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Are we... doing something tonight?"
+            ]
+        },
+        {
+            "text": "Don't you know? Tonight is... Hmmm, wait\na sec.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's better I keep this a secret, right?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Ummm..."
+            ]
+        },
+        {
+            "text": "Hmm, certainly a dilemma. Well, I'll think\nabout it a bit more after we\nfinish training.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Something appears to be on Огури Кэп's\nmind, but I decide to drop\nthe subject for\nnow and focus on her training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i> Phew.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Is that the last of our regimen? I feel like I\ncan do a bit more...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "That's enough for today."
+            ]
+        },
+        {
+            "text": "I guess you're right. I don't want to push\nmyself <i>too</i> hard today.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I still have to go over your answers and get\nready for later.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I took a peek at the paper earlier, but I've\nnever done this before, so\nit's better to\nplay it safe and have extra time...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Are we going somewhere?"
+            ]
+        },
+        {
+            "text": "Yeah, there's a place I'd like to take you.\nLet's wash up and meet in\nfront of the\ntraining hall.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Shouldn't we eat first?"
+            ]
+        },
+        {
+            "text": "No. No eating.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Don't get me wrong. I just finished\ntraining. I'm starving. But as much\nas I'd\nlike to eat, we can't. Not yet, at least.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The training hall is especially fragrant\naround this time. Dinner today\nis fried\nchicken and boiled vegetables, so I expect\nthe halls to be\nespecially aromatic.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "But we must overcome this temptation.\nThere's something we <i>need</i> to\ndo. And if\nthat means skipping a meal or two, then so\nbe it.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "So... Please, no eating.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "A-all right, if you say so..."
+            ]
+        },
+        {
+            "text": "Thank you.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...I think I'll make a quick stop by the\ncafeteria and ask if they can\nsave me some\nfood for later though.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "In any case, I'll see you soon.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп hurries away. Later that\nevening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're finally here.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Look at all these food stalls. Amazing, isn't\nit?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "There's a festival today?"
+            ]
+        },
+        {
+            "text": "YЭпизод I just <i>had</i> to have dinner here.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "As you can see, there are so many food\noptions available to us. I'm\nsure you'll find\nsomething you like.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Eat as much as you like—my treat. I\nwanted to thank you for\neverything you've\ndone for me.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Is this what the questionnaire was about?"
+            ]
+        },
+        {
+            "text": "Yeah. I realized that you know way more\nabout me than I do about\nyou. It's only fair\nthat I at least find out what your culinary\nlikes and\ndislikes are.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "In any case, you do so much to support\nme. I just wanted to return the\nfavor in my\nown way. So dinner's on me.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп must've put a lot of time and\neffort into coming up with\nthis plan... She's\nusually more occupied with the <i>eating</i>\npart...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Besides... whenever I'm with you,\neverything tastes great no matter\nwhat I'm\neating. So I wanted to come here\ntogether...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Always a pleasure to share a meal with you!"
+            ]
+        },
+        {
+            "text": "Great. If you're happy, I'm happy.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "All right, then. Shall we begin? We'll start\nwith all the jumbo-sized\nfoods.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Everything here is so big. \"Jumbo\" doesn't\neven cover it.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "There's enough shaved ice to fill a bucket,\nand the okonomiyaki's big\nenough to serve\nas cushions. And the takoyaki? They're the\nsize of\nbaseballs.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Aren't these way too big?!"
+            ]
+        },
+        {
+            "text": "You say that, but shaved ice is mostly\nwater. And look at the\nokonomiyaki. It's all\ncabbage.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "You couldn't call any of this a meal. This is\nmore like... an appetizer.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "All of this?! An appetizer?!"
+            ]
+        },
+        {
+            "text": "Heh, I'm glad you're as excited as I am. I\nfeel ya. I can't wait to start\neating.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Excuse me, mister! Can I get two servings\nof shaved ice and four\nokonomiyaki?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "<i>Four?!</i>"
+            ]
+        },
+        {
+            "text": "Uh-huh. I want to try out the other stalls\ntoo, so we're starting off\nlight. If you want\nmore, we can come back later.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "No need to hold back. Feel free to eat to\nyour heart's content.",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "There's no way I can eat all of thi—"
+            ]
+        },
+        {
+            "text": "Whenever I need anything, you're always\nthe first person to provide\nit. This is my\nway of saying thank you.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I've never done anything like this before,\nso it's kind of\nembarrassing... but please\naccept my gratitude.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп's words of gratitude were\nmoving... But not moving enough\nto\ndislodge me from my seat after stuffing\nmyself immobile.",
+            "name": "Монолог"
+        }
+    ]
+}

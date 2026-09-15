@@ -1,0 +1,146 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're going to be training differently\nthan usual\ntoday.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Signature racewear prep is done. All\nthat's left is\nto run.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I wonder how much these clothes will\nchange the\nway I run... Let's hurry up and\ntry them out.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ngh... Phew...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Wooow! Brian, you look amazing! Are\nyou gonna\nrace in those clothes?!",
+            "name": "Younger Students"
+        },
+        {
+            "text": "Ooh! Looks like she's ready for a G1\nrace! Excuse\nmeee! Over here, over here!",
+            "name": "Reporters"
+        },
+        {
+            "text": "Tch. What a racket.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I thought it would be a good idea to get\nher\npracticing in her signature racewear\nin\npreparation for the G1 races, but... it\nseems to\nhave backfired.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'll go tell them to ease off."
+            ]
+        },
+        {
+            "text": "No need. Let's just run.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "text": "I'll shut 'em up!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> Haaah!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Look at that acceleration! We've gotta\nget her in\nframe somehow!",
+            "name": "Reporters"
+        },
+        {
+            "text": "Oh my goodness! You can even feel her\n\ndetermination fro...",
+            "name": "Younger Students"
+        },
+        {
+            "text": "...From...",
+            "name": "Younger Students"
+        },
+        {
+            "text": "...",
+            "name": "Crowd"
+        },
+        {
+            "text": "Phew... How was my time?\n...Hello? Snap\nout of it.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "They really did quiet down..."
+            ]
+        },
+        {
+            "text": "...Heh.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Wearing these clothes really got me\nfired up. I\nwonder if it's because of the\ncleat motif?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All I can hear when I'm racing is my own\n\nheartbeat... and the breath of my prey\nbefore me.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It doesn't matter if there's a clamor\naround me or\nsomeone on my\ntail—nothing reaches me.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm shutting it all out, stamping it apart\nwith every\nstride.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "I'm looking forward to the actual race!",
+                "Yeah, it's mesmerizing!"
+            ]
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, let's go again. I haven't got my fill\nyet!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We should run too! We can't just sit here\nstaring\nafter seeing a display like that!",
+            "name": "Younger Students"
+        },
+        {
+            "text": "Silence your shutters, guys! We want to\ncapture\nher concentrating and running at\nher full\npotential!",
+            "name": "Reporters"
+        },
+        {
+            "text": "...Oi.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I see. A mesmerizing run! That could\nmake for a\ngood headline!",
+            "name": "Reporters"
+        },
+        {
+            "text": "Wow... Even when she's fed up, she\nlooks...\nwonderful.",
+            "name": "Younger Students"
+        },
+        {
+            "text": "Tch. I don't need company.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I run alone. The rest of you can laze\nabout as you\nplease.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Thanks to her intense focus while\nrunning, Narita\nBrian is able to complete\nher training calmly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Everyone quickly apologizes to the\nirritated\nНарита Брайан and regains their\nfocus.",
+            "name": "Монолог"
+        }
+    ]
+}

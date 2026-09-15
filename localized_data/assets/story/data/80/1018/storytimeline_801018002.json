@@ -1,0 +1,79 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day in the academy hallway...",
+            "name": "Монолог"
+        },
+        {
+            "text": "That should be all of it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув appears to be deep in\nthought as she\nstares at a pile of\ncardboard boxes in the corner\nof the\nhallway.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's with all these cardboard boxes?"
+            ]
+        },
+        {
+            "text": "Do not even think of approaching me\nwith such\nimprudence. I shall put these\nboxes away myself.\nYour concern is not\nrequired.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What's in them anyway?"
+            ]
+        },
+        {
+            "text": "An accumulation of superfluous notices,\nreturned\nloan umbrellas, and damaged\nacademy\nequipment.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "As part of the student council, I will\nre-sort these\nitems in another room.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Will you be all right carrying all that by\nyourself?",
+                "You'd better hurry if you want to get through\nall of that."
+            ]
+        },
+        {
+            "text": "As part of the student council, I will\nre-sort these\nitems in another room.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Will you be all right carrying all that by\nyourself?",
+                "You'd better hurry if you want to get through\nall of that."
+            ]
+        },
+        {
+            "text": "Hmph. Are you attempting to express\nconcern for\nme? This poses no challenge\nto one who trains on\na daily basis.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув picks up the pile of\ncardboard boxes\nlike a bag of feathers\nand walks away.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmph. If I cannot handle this trifling pile\nin a\ntimely manner...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Then I do not deserve to show my face\nto others\nas the Empress or the vice\npresident of the school\ncouncil.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Enough pointless chatter. I'm sure you\nhave more\nimportant things to do than\nconcern yourself with\nme. Be off, then.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув picks up the pile of\ncardboard boxes\nlike a bag of feathers\nand walks away.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It is evident by how steady her steps are\nthat she\nhas trained every inch of her\nbody.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She doesn't waste a single movement as\nshe\ncarries the large boxes, attesting to\nthe\nthoroughness she applies to\neveryday life.",
+            "name": "Монолог"
+        }
+    ]
+}

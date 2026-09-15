@@ -1,0 +1,98 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Tokyo Racecourse rumbles with the\nsound of\nthunderous applause after the\nrace.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Huff...</i>",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Ready? Aaand... Good job, Fujiii!",
+            "name": "Fuji Fan Club Members"
+        },
+        {
+            "text": "Look, I got a really good video of her\nrunning!\nI've gotta post it ASAP!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Her next race is going to be the autumn\nTenno\nSho, right? I'll have to take the\nday off to watch\nit!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "The whole world believes in Фудзи Кисэки's\nskills and\nexpects great things from her\nin the next race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The air buzzes with excitement, but I'm\ntroubled\nby something I noticed during\nthe race.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff! Puff!</i>",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "If I didn't watch her run literally every\nday, I might\nhave missed it, but\nsomething was off about her\nrunning.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Something's wrong with her. I just know it.)"
+            ]
+        },
+        {
+            "text": "I hurry to the runners' tunnel to catch up\nwith her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "However...",
+            "name": "Монолог"
+        },
+        {
+            "text": "She left already. Mentioned wantin' to\nfine-tune\nsomethin' or other.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "She told me to make up some excuse for\nher so\nyou wouldn't worry.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She and I aren't exactly strangers, bein'\nfellow\ndorm leaders and all, so...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'd like to think I know her fairly well. Is\nsomethin'\nup with her?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I think so."
+            ]
+        },
+        {
+            "text": "Knew it... Don't think she'll spill the\nbeans to me,\nthough.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Guess you're the only one who can get\nanythin'\nfrom her. It's up to you now!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I rush back to the school, hoping I can\ncatch up to\nFuji Kiseki.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our next race will be the\nmedium-distance\nautumn Tenno Sho.\nBut, before that...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I have to find out what's wrong with Fuji\nKiseki!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wait... I lost? How could that be?",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What could have happened? Wasn't luck\nworking\nin my favor? Just... what?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "This can't be right. It has to be a trick. I\nmean,\nthis can't really be happening. I\nhave a destiny...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "What's going on, Тренер? I must still be\nasleЭпизод\nThis is all just a terrible\nnightmare, <i>right?!</i>",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "It's real."
+            ]
+        },
+        {
+            "text": "It can't be real! I thought I'd been\nreborn... This\nmeans I haven't changed\none bit...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Where has my luck gone?! Is it in\nhibernation or\nsomething?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Wake up! Please, I'm begging you!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "If the gods have deserted me, then what\nshould\nI... I... Waaaah!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um... Fukukitaru?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "A worried Сайленс Судзука tries\ncomforting her,\nbut I gently turn her\ndown, sensing this isn't the\nright time.\nMatikanefukukitaru continues to cry.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I tell her that our next goal is the\nTakarazuka\nKinen. She doesn't respond.",
+            "name": "Монолог"
+        }
+    ]
+}

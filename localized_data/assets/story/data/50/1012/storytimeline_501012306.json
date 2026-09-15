@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "And that's that for the Japanese Oaks!\nMan, that\nwas a blast!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Хиши Амадзон really brought in the\nenergy again! I\ncan't wait for the Shuka\nSho!",
+            "name": "Fan A"
+        },
+        {
+            "text": "I think she's got some new merchandise\nout. We\nshould go have a look!",
+            "name": "Fan B"
+        },
+        {
+            "text": "With two-thirds of the Tiara tour under\nher belt,\nHishi Amazon is starting to\nbecome a household\nname.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Woo, that was <i>some</i> one-on-one all\nright! That's\nthe Oaks for you—all those\nracers out there were\nmonsters!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Great job!"
+            ]
+        },
+        {
+            "text": "Hehe, thanks! But we're not done yet!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That second crown is definitely going to\nNarita\nBrian at the Japanese Derby next\nweek. This is no\ntime to get complacent.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm gonna give the Shuka Sho everything\nI've got,\nso you'd better keep up with\nme, Teach!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I will!"
+            ]
+        },
+        {
+            "text": "It's time to kick our training up a notch\nfor the\nShuka Sho!",
+            "name": "Монолог"
+        }
+    ]
+}

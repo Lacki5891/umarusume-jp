@@ -1,0 +1,73 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i> Blegh... Trainer...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Completely spent, Мэйсё Дото\ncollapses on the\nturf.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Doto. Is that your impression of a\nsoldier\ndefeated by exhaustion? You\nappeared a little\nwilted during the race.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Yeeeeah... I couldn't focus on anything\nbut\nrunning, not even the results...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Despite her loss to Т.М. Опера О,\nМэйсё Дото is\nable to clear her first\nhurdle in the Classic Triple\nCrown.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, I'd like to give you my thanks.\nI'm\nextremely flawed and clumsy... I\nthought the\nClassics might ruin me.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "But, at least I can say I got through it\nwithout\nbothering anyone. This was\nreally a race to\nremember.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "That's great to hear, Doto."
+            ]
+        },
+        {
+            "text": "Yes, thank you. Um... but it would be\nnice to do\nsomething else for the\noccasion.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "Do you want to take a commemorative picture?"
+            ]
+        },
+        {
+            "text": "No, that's not it... I'm thinking of having\nsome\nsnacks on a nice patch of grass.\nThe breeze is nice\ntoday.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "You want to go on a trip?!"
+            ]
+        },
+        {
+            "text": "Gyah! No, that's not what I meant!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I guess that's a no.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "It's fine, but we can't stay out too long."
+            ]
+        },
+        {
+            "text": "Oh, Trainer! Thank you so much. I'll\ninvite\neveryone.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Opera O, Ayabe!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "As one can imagine, not <i>everyone</i> agrees\nto come\nalong. Still, we enjoy a little\npicnic sitting at the\ncenter of the track.",
+            "name": "Монолог"
+        }
+    ]
+}

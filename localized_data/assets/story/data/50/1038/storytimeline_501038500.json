@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A woman in a suit calls out to us as\nКаррен Тян\nand I are out walking by\nthe station.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's you! You're Curren—that\nUmastagrammer\neveryone is talking\nabout, right?!",
+            "name": "Woman in Suit"
+        },
+        {
+            "text": "Wow! ♪ You've heard of lil' ol' me?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Of course! Allow me to get straight to\nthe point! I\nwork for an entertainment\nagency, and we're\ninterested in\nrecruiting you!",
+            "name": "Woman in Suit",
+            "choice_data_list": [
+                "An entertainment agency?!"
+            ]
+        },
+        {
+            "text": "Wow. Thank you for the offer. But... I'm\nafraid I\nhave to refuse.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wh-why?! Someone as cute as you\nshould be\nshining in the entertainment\nindustry!",
+            "name": "Woman in Suit"
+        },
+        {
+            "text": "Yeah... But...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Have you ever seen me run?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm actually getting more and more fans\nby the\nday. ♪ Everyone's asking, \"Who's\nthat cute and\nspeedy Umamusume?\"",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hehe. It's funny to hear \"cute\" and\n\"speedy\" in the\nsame sentence.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But I'm confident I can be cuter than\nanyone. And\nthat's because of...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "All the physical and mental training I do\nwith my\ntrainer.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "All the physical and mental training I do\nwith my\ntrainer.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'm not just the cutest girl in the\nworld—I'm the\ncutest runner in the world\ntoo. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh... I-I see what you mean. Please\nexcuse what I\nsaid earlier. I think I\nunderstand now why you're\nso cute and\nradiant.",
+            "name": "Woman in Suit"
+        },
+        {
+            "text": "Ah, I'm so happy you get it! Thank you\nfor\nunderstanding. You're a really nice\nlady. ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Ehe. I wanna be even cuter, Big Bro!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Ehe. I wanna be even cuter, Big Sis!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It appears that Каррен Тян also feels\nherself\ngetting stronger from our daily\ntraining sessions!",
+            "name": "Монолог"
+        }
+    ]
+}

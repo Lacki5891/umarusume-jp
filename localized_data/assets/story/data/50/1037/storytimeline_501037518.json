@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hmm... The weather forecast called for\nclear skies\ntoday, but perhaps I should\npurchase an umbrella\nbefore heading\nhome.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Then again, I've heard Japanese weather\nreports\nare remarkably accurate.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I shall put my trust in it today.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, the sky grows darker by the\nminute\nuntil...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh! This is horrible! It wasn't supposed\nto rain\ntoday!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш's clothes and spirit are\nthoroughly\ndrenched as the rain douses\nher.",
+            "name": "Монолог"
+        }
+    ]
+}

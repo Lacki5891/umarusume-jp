@@ -1,0 +1,226 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day as summer camp is winding\ndown...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Flaaash! ☆ There you are!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Falcon?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Смарт Фалкон, Эйсин Флэш's roommate\nand\nself-proclaimed Umadol, runs up to\nus cheerfully.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You were searching for me? Did you\nneed me for\nsomething?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ehehe! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I set aside twenty-five milliliters of tail\n\nconditioner for you.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thanks a bunch! ☆ Now my tail'll be\nsilky smooth!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I believe I reminded you to check your\nbaggage\non <i>two</i> separate occasions\nbefore we departed\nfor camp.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Yeaaah, but I just knew you'd bring\nextra,\nsooo... ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Actually, we could just shower together.\nIt's\npretty late already.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I can't. I have yet to complete my\ntraining. There\nare still fifteen... no,\ntwenty minutes including\ntransit time\nbefore I'm done.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Aw, come on! Who cares about skipping\ntwenty\nminutes of practice?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Falcon. Skipping five minutes of practice\nis still\nwithin acceptability, but skipping\ntwenty minutes\nis highly irresponsible\nand—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "There you go again with your\nfancy-schmancy\nwords and stuff!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I don't believe I have said anything\nparticularly\n\"fancy-schmancy\"...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш isn't usually so emotive. She\nmust be\ncomfortable enough with Smart\nFalcon to let her\nguard down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's head back, Trainer. I'd like to\nreceive your\nfeedback for today's\nsession and verify the\ndetails of\ntomorrow's schedule.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ugh, I can't believe you're still going on\nabout\nthat stuff! Just do it tomorrow.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Эйсин Флэш is getting stronger by the\nday, but I\nthink she'll need to approach\nthings from a new\nangle if she wants to\nget stronger still.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's been going all-out from the day\ncamp\nstarted, but if there's one way to\nget her to\nrelax...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Can I ask you a few questions, Смарт Фалкон?"
+            ]
+        },
+        {
+            "text": "Huh? Sure. About what?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "How do you build strength?",
+                "How do you hold out during races?"
+            ]
+        },
+        {
+            "text": "It takes a lot of power to run on dirt\ntracks, which\nis where Смарт Фалкон\nthrives. I ask her to give us\nsome\npointers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Indeed, I could learn much from you\nabout\nstrength, Falcon.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Your dancing is forceful enough to bring\nthings\ntumbling down in the dorm room,\nafter all.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Was that supposed to be a compliment?\nAnyway,\nlet's see... My strength, huh?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oh, I've got it! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yuuum! ♪ That cotton candy was\ndelish! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "So what's next? Toffee? Candied\napples?\nEverything's sooo cute! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Pardon me. I thought you were going to\ntell us\nyour technique for building\nstrength.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So why are we at a summer festival\nperusing all\nthe desserts from the street\nstalls?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Chowing down on sweet stuff is the best\nway to\nrecharge yourself! ☆ It's my\ntried-and-true secret\nto gaining\npower! ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Sounds logical to me!"
+            ]
+        },
+        {
+            "text": "Does it?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Just give it a try and have fun!"
+            ]
+        },
+        {
+            "text": "How am I supposed to \"give it a try and\nhave fun\"\nwhen there's no way to\nvalidate Falcon's claims?\nFor starters—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Okay, no more fancy-schmancy words or\nlogic\nfrom you! ☆ C'mon and let's go!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон is an incredible front\nrunner, and\nI've always wondered how\nshe manages to stay\nahead of the pack\nin her races.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Indeed... I could learn much from you\nabout\ntenacity, Falcon.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "You even extend the riverside concerts\nyou hold\nby an extra song when you\nnotice a new audience\nmember join the\ncrowd.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hehehe! ☆ That's something my fans\nalways give\nme brownie points for!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Well, if you really wanna know how I'm\nable to\nwork so hard, it's...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "L-O-V-E! Love ☆ Falco! Lemme hear it!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Love ☆ Falco!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Incredible. Falcon has been dancing\ncontinuously\nfor over an hour...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I love you all, my fans! ☆ As long as you\nhave\nyour eyes on me, I can go on\nforever!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And today's fan of the day is... Flash!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I was so touched that you knew about\nthe\nconcerts I hold by the river! Thanks\nfor looking\nout for me all the time!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Now let me channel all my feelings of\ngratitude\ninto this next song! ☆ Let's\ngooo!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Feelings and emotions... They're such\nambiguous\nthings, but somehow she\nmanages to convey them\nso clearly.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She really is amazing...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Эйсин Флэш is skeptical at first, but she\ndoes\nseem to look more refreshed and\nenergetic in the\nend.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйсин Флэш says this last part softly, but\nit's\nimpossible to miss the fondness in\nher words.",
+            "name": "Монолог"
+        }
+    ]
+}

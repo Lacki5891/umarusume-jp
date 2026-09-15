@@ -1,0 +1,126 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for lunch, and Фудзи Кисэки and I\nare in the\ncafeteria looking at the menu\nfor the day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I think I'll get an apple slice and... half\nan orange.\nYes, that should be enough.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "That's so little food!"
+            ]
+        },
+        {
+            "text": "Ahaha... Well, I ate too much during\ndinner\nyesterday, and I don't want to\noverdo it again\ntoday.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "The truth is, my dear ponies have been\ncooking\nup a storm for me each night.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "After I accepted a meal from one of\nthem, the\nwhole dorm heard about it,\nand now I'm met with\na nightly buffet of\nfood.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "If you're struggling to eat everything, you\nshould decline their offers."
+            ]
+        },
+        {
+            "text": "You're right, but... they pour their whole\nhearts\ninto their cooking, and I don't\nwant to let them\ndown.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I understand where she's coming from,\nbut it's still\na problem if she's overeating\non a daily basis...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Fuji! I'm so glad I found you!",
+            "name": "Young Умамусумэ А"
+        },
+        {
+            "text": "Oh, it's you. You're the one who made\nthat\ndelicious omelet rice last night,\nyes?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That's right! I made it again today, and\nwell... I\nwas hoping to give it to you!",
+            "name": "Young Умамусумэ А",
+            "choice_data_list": [
+                "Actually, I'm not so sure if that's..."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Thank you! I can't believe I get to enjoy\nyour\nomelet rice yet again. I must be the\nluckiest\nperson in all of Tracen! ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Aaah! Please, I should be the one\nthanking you!",
+            "name": "Young Умамусумэ А"
+        },
+        {
+            "text": "As I watch their exchange, I get the\nfeeling Fuji\nKiseki's charming\ngraciousness is what made so\nmany\nstudents start cooking for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "See? Look how happy she is! It would be\nwrong to refuse\nsuch a generous offer.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Fine, but only have one bite!",
+                "All right, all right. Go for it!"
+            ]
+        },
+        {
+            "text": "See? Look how happy she is! It would be\nwrong to refuse\nsuch a generous offer.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Fine, but only have one bite!",
+                "All right, all right. Go for it!"
+            ]
+        },
+        {
+            "text": "Thank you for understanding.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "As you can see, I'm under strict orders\nand can\nhave but a single mouthful. I\nhope you don't\nmind, sweet pony.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh no! Are you on a diet right now?",
+            "name": "Young Умамусумэ А"
+        },
+        {
+            "text": "Unfortunately, I am. But worry not! I'll\nmake sure\nto savor the taste of your\ncooking and commit it\nto memory. ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Thank you for respecting my feelings,\nTrainer.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Why, I can't wait to taste—hm? This\nlooks larger\nthan the one you made last\nnight.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That's because it is! I loaded it up with\nall my\nlove. I hope you like it!",
+            "name": "Young Умамусумэ А"
+        },
+        {
+            "text": "Aha. No wonder your food is always so\n\nscrumptious. ♪",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "True to her word, Фудзи Кисэки takes a\nspoonful of\nthe omelet rice and relishes\nit as if it's pure\nambrosia.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Фудзи Кисэки tucks into the omelet rice and\ncleans\nher plate, much to the delight of\nher adoring fan.",
+            "name": "Монолог"
+        }
+    ]
+}

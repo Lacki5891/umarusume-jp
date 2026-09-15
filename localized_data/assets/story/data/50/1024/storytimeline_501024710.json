@@ -1,0 +1,64 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i> I lost. I really thought I had it in\nthe bag...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "The other racers were pretty good."
+            ]
+        },
+        {
+            "text": "...The other racers?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Mayday, mayday! No talking about\nothers!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You're only supposed to look at me,\nTrainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But wait! You're saying that, but you still\ntotally\nlove me, right? ☆ Right?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Definitely!",
+                "I think that depends on you..."
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> Thank goodness...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey! Hey! I'm gonna get first next time!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "So... give me all your support!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey! You're such a meanie!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I promise I'll win next time! It'll be the\ncoolest\nrace ever!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll prove to you that I'm the prettiest\nand finest\nlady around!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll definitely make you realize that I'm\nso much\nbetter than the other racers! I\npromise!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'll win you over again! You'll see!",
+            "name": "Маяно Топ Ган"
+        }
+    ]
+}

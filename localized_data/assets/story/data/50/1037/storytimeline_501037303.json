@@ -1,0 +1,59 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I have returned.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Great job!"
+            ]
+        },
+        {
+            "text": "That was a decent start, I believe.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She looks troubled, but just as I'm about\nto ask\nher what's wrong...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey! What'd you think of the racer who\njust\ndebuted in Kyoto the other day?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "I think the sky's the limit for her! What\nabout\nyou?",
+            "name": "Репортёр B"
+        },
+        {
+            "text": "It'd be an understatement to say I only\nhave \"high\nhopes\" for her! I've gotta say,\nthis year's roster is\nincredible. The\nClassics are going to be fun to\nwatch!",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "It seems there are many promising new\nracers this\nyear.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I'm unsure that I can contend with them\ngiven my\ncurrent level of preparation.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "In order to achieve good results in the\nClassic\nTriple Crown, I must—",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Get a feel for your competition at the Keisei\nHai, right?"
+            ]
+        },
+        {
+            "text": "Right. Depending on my results, we may\nhave to\nadjust my training methods for\nthe Classics.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "The most important thing for me is\ncompleting\nevery race in the Classic\nTriple Crown. That's\neverything to me.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

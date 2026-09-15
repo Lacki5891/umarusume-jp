@@ -1,0 +1,25 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I spot Мэйсё Дото in the hallway. She\nlooks\nawfully tired.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> Haah...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ah! I'm gonna slip—Eeek!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Ohhh, why is there a bucket here? Huh,\nand a\nm-mop, too?! It's all knocked\no—nooo, not the\nwindow!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "She collides with about every object that\nfalls in\nher path. This looks like a bad\ncase of fatigue.",
+            "name": "Монолог"
+        }
+    ]
+}

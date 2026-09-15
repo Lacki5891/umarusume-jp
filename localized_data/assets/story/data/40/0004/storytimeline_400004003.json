@@ -1,0 +1,171 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Монолог",
+      "text": "Passing by the school store one day, I notice\nthey've set up a special section I've not seen\nbefore."
+    },
+    {
+      "name": "Монолог",
+      "text": "Cheerfully gazing up at the banner bearing the\nwords \"Grand Opening!\" is..."
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Superb! Such splendid workmanship! I'm sure the\ntrainers will be absolutely thrilled to see this!",
+      "choice_data_list": [
+        "What are you up to?"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Oh, you're already here, Trainer \n<username>?! Perfect timing!\nLook closely!"
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "We've set up a new space within the store\nspecifically for trainers! And today is the <i>grand</i>\nopening!"
+    },
+    {
+      "name": "Монолог",
+      "text": "Директор Акикава points with great intensity to a\nsign that says...",
+      "choice_data_list": [
+        "Pro Shop?"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Precisely! It offers a wide range of convenient,\nhand-picked, high-quality \"training items\"!",
+      "color_text_info_list": [
+        "training items"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Make good use of them to ensure your trainee's\nhealthy development!",
+      "choice_data_list": [
+        "Oooh!"
+      ]
+    },
+    {
+      "name": "Монолог",
+      "text": "I listen in wonder as Директор Акикава joyfully\nexplains the different products that are available."
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "...And to top it all off, money is unnecessary!",
+      "choice_data_list": [
+        "Unnecessary?!"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Precisely! At this shop, you procure goods by\nexchanging special coins!",
+      "choice_data_list": [
+        "Exchanging?!"
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "And what's more! These coins are awarded based\non race performances!",
+      "choice_data_list": [
+        "Awarded?!"
+      ]
+    },
+    {
+      "name": "Монолог",
+      "text": "This all sounds far too good to be true. I gather\nmy resolve and ask point-blank.",
+      "choice_data_list": [
+        "Um, where did you get the funds for all these—"
+      ]
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "D-Director?!"
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Well if it isn't Tazuna! I was just giving Trainer\nhere a rundown of the Pro Shop.",
+      "color_text_info_list": [
+        "Pro Shop"
+      ]
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "This shop is exactly what I'm here to discuss!"
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "Director... You used your pocket money to go on\na massive shopping spree again, didn't you?!",
+      "choice_data_list": [
+        "I had a feeling that's how you stocked so many\nitems..."
+      ]
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Verily! I'm funding all of this out of my own\npockets!"
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "And I've already established all my supply routes!\nExpeditious!"
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "I appreciate the sentiment, but can't you ever do\nthings in moderation?!"
+    },
+    {
+      "name": "Директор Акикава",
+      "text": "Wahahaha! No amount of money is too great\nwhen it's spent on helping my beloved students!"
+    },
+    {
+      "name": "Тазуна Хаякава",
+      "text": "Ah, wait! This discussion isn't over!",
+      "choice_data_list": [
+        "...And she's gone."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Simply amazing!",
+      "choice_data_list": [
+        "Whoa! How long have you been here?!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Oh, I'm here to do some fieldwork for another\nstory. I thank the academy for its continued\ncooperation."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "But I must say—this is amazing! Director Akikawa\nis willing to devote <i>all</i> of her personal funds to\nthe students!",
+      "choice_data_list": [
+        "Actually, I doubt this is even close to all of it..."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "I simply must write an article on her!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"Директор Акикава resolves to give all she has for\nthe Twinkle Star Climax!\""
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"And Trainer <username> will \nsacrifice <i>everything</i> to help realize her hopes!\"",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Монолог",
+      "text": "How did it get to the point where <i>I'm</i> giving up\neverything too?"
+    },
+    {
+      "name": "Монолог",
+      "text": "I gaze out the window as I listen to Reporter\nOtonashi chatter excitedly."
+    },
+    {
+      "name": "Монолог",
+      "text": "I really am grateful to have access to the Pro\nShop, though. I need to take advantage of every\noption available to me!"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're halfway through the academy's\nsummer camp, and Nature has\nalready\ngotten a lot better at running on the\nbeach.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... Well? Has my time improved or\nwhat?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Her results speak volumes to how much\nwork she's been putting in\nthese past few\ndays.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can run pretty well on sand now, but I\nwonder if that'll transfer to the\ntrack.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You've got first place in the bag!"
+            ]
+        },
+        {
+            "text": "Nah, no way it's gonna be that easy. For\none thing, everyone's\ntraining just as hard\nas we are.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, but I probably shouldn't be saying\nthat in front of the trainer\nwho's been\nhelping me train from dawn to dusk every\nday.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Haha, let's just chalk it up to a defect in\nmy personality. Old habits\ndie hard.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We keep going back and forth like this for\na while...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I didn't know there was gonna be a\nfestival—I should've brought my\nyukata.",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Hey now, you can have fun at a festival no\nmatter what you're\nwearing.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Huh, so there's a festival going on today.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Want to check it out?"
+            ]
+        },
+        {
+            "text": "Oh, good idea.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I've got a soft spot for festivals. Especially\nthe smaller ones—like at\nthe local park.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I used to go with my friends, and we'd get\nup to all kinds of hijinks.\nMan, good times,\ngood times.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I may not look it, but they used to call me\nthe dancing queen!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Well, not like anyone cares though. But\nhey, having festival dancing\nas one of my\nonly talents is pretty on-brand, don'tcha\nthink?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Anyways, that's enough about the past.\nLet's go see that festival!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Man, nothing beats a summer festival.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Now, where to first? There's noodles,\ngrilled corn... Oh, grilled squid\nsounds\ngood too!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hehe, I've been training my butt off, so I\nthink I deserve a little treat!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Trainer, you gotta let loose a bit more. I\ncan't be the only one getting\nall excited.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Nature and I spend some time walking\naround the festival...",
+            "name": "Монолог"
+        },
+        {
+            "text": "You can register for the Festival Dance\nGrand Prix here!",
+            "name": "Festival Organizer"
+        },
+        {
+            "text": "The Festival Dance Grand Prix?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It'd be nice to see you in action."
+            ]
+        },
+        {
+            "text": "Huh?! No no no no, wait just a second\nnow.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I said my friends thought I was good at\ndancing, not that I was\ncompetition\nmaterial.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "If I'm gonna dance, I'd rather it be in a\nsmall park with people I know.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Are you calling your friends liars?"
+            ]
+        },
+        {
+            "text": "Th-that's not the issue here...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Man, you really do lay it on thick when it\ncomes to coaxing me into\ndoing\nsomething.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Rather than dancing, let's go check out\nsome more stalls! I haven't\ntried the butter\npotatoes yet! C'mon, chop chop!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I go after Nature, who's already dashed off\nto the food stalls, leaving\nthe dancing\ncrowd behind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whew... I'm stuffed. Might've gotten ahead\nof myself on those\nskewers.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, I've done what I came here for,\nso wanna head back? We've\nstill got\ntraining tomorrow.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Just as we're about to leave the festival\nand go back to the dorm...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Last call to sign up for the Festival Dance\nGrand Prix!",
+            "name": "Festival Organizer"
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...H-hey.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You really want to see? My... um,\ndancing...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "My friends said I was good, but it's really\njust your everyday festival\ndancing...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I want to see you dance!"
+            ]
+        },
+        {
+            "text": "Haha... I see. Then I'll enter.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But don't get your hopes up too high,\nokay? It's been a minute since\nI've done\nany sort of dancing.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "If you're entering, you might as well aim for the\ngold!"
+            ]
+        },
+        {
+            "text": "Were you even listening to what I just\nsaid?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And so, Nature signs herself up for the\nFestival Dance Grand Prix.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This year's Festival Dance Grand Prix\nwinner is...",
+            "name": "Festival Organizer"
+        },
+        {
+            "text": "Number 12! Hailing from Академия Тайсен,\nit's the Umamusume—Nice\nNatty!",
+            "name": "Festival Organizer"
+        },
+        {
+            "text": "It's Nice <i>Nature.</i> Wait, no way? M-me?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Your enthusiastic performance went\nstraight after our hearts. All the\njudges\npicked you unanimously. Congratulations!",
+            "name": "Festival Organizer"
+        },
+        {
+            "text": "Th-thank you very much...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Let's have a round of applause for our\nwinner—Nice Natty!",
+            "name": "Festival Organizer"
+        },
+        {
+            "text": "<i>Clap clap clap!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Like I said, it's not Natty—Ah, thank you,\nthank you.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wow... didn't think I'd win the whole thing.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "text": "Yeah, thanks. I'm still not sure what got\ninto me, signing up for a\ncontest like that.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Who knows... maybe your bottomless\noptimism has started rubbing off\non me.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Maybe you're just starting to believe in yourself\na bit more?"
+            ]
+        },
+        {
+            "text": "Yeah yeah, don't worry—I'm still the same\nwet blanket.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "All right, tomorrow it's back to training!\nMaybe I'll be the winner in my\nnext race,\ntoo. One can always dream, right?",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

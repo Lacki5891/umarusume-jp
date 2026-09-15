@@ -1,0 +1,82 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(I defeated the seniors! But...)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Thanks for racing with me today! What\nare you\nplanning to run next?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Um, I was thinking of the Arima Kinen...",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "Really? I was thinking of running that\ntoo! Here's\nto having another good race\nif we end up in it\ntogether!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I had a lot of fun racing with you today!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, same here! I'm looking forward to\nnext time!",
+            "name": "Зенно Роб Рой"
+        },
+        {
+            "text": "So this is what the senior racers are\ncapable of...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "(Despite their strength, I managed to\ntriumph\nover them! I've improved so\nmuch!)",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Trainer!",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "That was amazing, Flash!"
+            ]
+        },
+        {
+            "text": "Yes! I even defeated the older students!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "However, they were daunting foes. I\nmust become\nbetter still for next time.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Next time?"
+            ]
+        },
+        {
+            "text": "It seems both Spe and Rob Roy intend\nto run in\nthe Arima Kinen.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Guess you'll be seeing them on the track again,\nhuh?"
+            ]
+        },
+        {
+            "text": "The Arima Kinen is next up on Eishin\nFlash's\nschedule. The three of them will\nundoubtedly\nclash again the way things\nare now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yes!",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It is safe to assume that they will be my\ngreatest\nadversaries in the Arima Kinen.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So in order to win, all I must do is outrun\nthose\ntwo again. It's great when things\nare so simple.",
+            "name": "Эйсин Флэш"
+        }
+    ]
+}

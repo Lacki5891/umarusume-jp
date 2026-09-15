@@ -1,0 +1,332 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We get right back to our regular training\nafter\nsummer camp. As part of that, we\ndecide to hold\na scrimmage."
+        },
+        {
+            "text": "So, who's my opponent for today?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hiii, Hayahide! Are you as excited to\nrace as I\nam?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Wait, are you sure you want me to race\nher? I\ndon't think revealing my strategies\nright before\nthe Kikuka Sho is a good\nidea.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I arranged this because I have a feeling you're\nnot ready."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Are you saying you know what's missing\nfrom the\nequation I've poured myself\ninto, then?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Well..."
+            ]
+        },
+        {
+            "text": "Sorry. I get it. This race is meant to help\nme with\nthat.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'll get ready. And I'm <i>not</i> going to lose.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The race between Уиннинг Тикит and\nBiwa\nHayahide begins."
+        },
+        {
+            "text": "Things start getting interesting on the\n\nstraightaway, right after the fourth\ncorner..."
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(I've pulled quite far ahead of Ticket.\nHer sprint\nspeed is worrisome, but\naccording to our data, I\nshould be fine\nwith this big of a lead.)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ngh! RAAAH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "(Is... Is she charging forward already?\nThat's fast!\nBut that speed's not\nsustainable. She'll be out of\nstamina in\n200 meters!)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(I'm not going to let her reckless gambit\nshake me\nup, though. As long as I\nmaintain this pace and\nsprint in the final\nstretch...)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "RAAAGGGHHH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wha?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(I'm still in the lead. Stay calm. Just 300\nmeters to\ngo. I can maintain this lead.\nAnd once she runs\nout of steam—)",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You need to go on the offensive, Hayahide."
+            ]
+        },
+        {
+            "text": "Ngh, even if I wanted to—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hrrrngh... WAAAGH! I... WILL... WIN!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "(No way... How... How are you next to\nme? Now\nyou're in front?)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Уиннинг Тикит overtakes Бива Хаяхидэ\nand flies\nacross the finish line."
+        },
+        {
+            "text": "<i>Huff... Wheeze...</i> How?! How could I\nhave...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Why didn't you go on offense?"
+            ]
+        },
+        {
+            "text": "Ngh...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Pheeew! That was a nice one! Wanna go\nagain? I\nknow how much it sucks to lose!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But I like winning a lot too, so I won't\njust give\nyou the victory!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I think that's enough, wild child.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whoa, Taishin!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Let her work at her own pace. If you still\nhave\nenergy left over, why don't you go\nfor a run with\nme?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Come on, let's go! Later, Hayahide.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "After she finishes her cooldown, I hand\nBiwa\nHayahide a drink."
+        },
+        {
+            "text": "Remember how you told me I needed to\ngo on\nthe offensive during the race?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "text": "I finally figured it out.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's not that I didn't go on the offensive.\nIt's that I\nwas too busy playing defense.\nThat's the\ndifference between me and\nthem.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I was trying not to lose.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "Now that I think about it, I'm always\nplaying it\nsafe. They invariably say they\nwant to win, but I\nonly think about not\nwanting to lose.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Even the winning equation I've been\nworking on\nsince I was young...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Wow! Brian is even faster than Hayahide!",
+            "name": "Child"
+        },
+        {
+            "text": "She really is! Brian's so amazing. She\nmight\noutshine her older sister!",
+            "name": "Parent"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> Don't count... me out! I'm\ngonna\nget... so much faster! I'll be.. the\nfastest anyone's\never seen!",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "I'll be fast enough... to beat Brian one\nday!",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "text": "Sis?!",
+            "name": "Young Brian"
+        },
+        {
+            "text": "I... I lost again... <i>Sniffle...</i>",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "I'll win next time! I'll come up with an\nequation to\nwin so I'll never lose to\nanyone! Especially not\nher...",
+            "name": "Young Hayahide"
+        },
+        {
+            "text": "The whole reason I started working on\nmy winning\nequation was because I\ndidn't want to lose.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ironic, isn't it?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's no wonder Ticket and Taishin always\nexceed\nthe parameters of my little\ncalculations. Of course\nthey do.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "They're always on the offensive—willing\nto do\nwhatever it takes for a chance at\nvictory because\nthey're trying to <i>win.</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Their way of thinking differs from mine\non a\nfundamental level. There's simply\nno way my\nequation can compete with\nthem.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "How stupid of me to call it a \"winning\nequation\"\nwhen all I've been doing is\ncalculating how not to\nlose!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Why did it take me so long to figure it\nout?\nWhat's the point anymore?!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Mistakes are learning opportunities. You can fix\nit now that you've realized what's wrong."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "If Бива Хаяхидэ was the type of\nUmamusume to\nthrow away her dreams\nover something like this..."
+        },
+        {
+            "text": "Then she would have given up a long\ntime ago\nwhen she got hurt trying to\ncatch up to her sister."
+        },
+        {
+            "text": "That might be true, but we'll have to\nstart over\nfrom square one.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I established the equation on the wrong\nbasis,\nand now I have to scrap it and\nrebuild everything\nfrom scratch.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There's not much time until the Kikuka\nSho. If we\ndo this, it's going to take up a\nlot of your time\ntoo.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You want to win the Kikuka Sho, right?"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "If so, I'm here to help."
+            ]
+        },
+        {
+            "text": "You're... You're an idiot...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But I'm an even bigger idiot, which is\nwhy I'm\naccepting your offer.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We resume training immediately to\nreformulate\nher winning equation."
+        },
+        {
+            "text": "Ah! Hayahide, you really came!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket? What are you doing here?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hehe! Taishin said you were sure to show\nup if we\nwaited! Right, Taishin?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Maybe <i>you</i> were waiting. I was letting\nyou take a\nbreak so we could go for a\nrun.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishin! You're such a meanie!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whatever.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm gonna go for a run. Join us if you\nwant. Or\ndon't.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Are you two here to cheer Hayahide up?"
+            ]
+        },
+        {
+            "text": "Hehe! Yeah! We might be rivals, but\nwe're friends\nfirst and foremost!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You know you can always talk to us if\nyou've got\nsomething on your mind,\nright, Hayahide?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You have good friends."
+            ]
+        },
+        {
+            "text": "I do... It seems I've been too\nnarrow-minded. I'll\nneed to do\nsomething about that.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ jogs toward the track\nafter her\nfriends."
+        }
+    ]
+}

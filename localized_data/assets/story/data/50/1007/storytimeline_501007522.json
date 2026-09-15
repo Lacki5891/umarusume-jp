@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer... We've had a good run, but I'm\nafraid I'm\ndone for...",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What in the world do you mean?"
+            ]
+        },
+        {
+            "text": "I appreciate the concern, but this is\nsomething\nI've gotta take care of myself.\nPlease, forget I\nsaid anything!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Don't say that. I want to help."
+            ]
+        },
+        {
+            "text": "You're too nice for you own good. But\nsince you\ninsist, I'll tell you. The thing\nis...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I've got a honkin' huge zit on my\nforehead, and it\nhurts like Heckle and\nJyde!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Sigh...</i> Think my life will ever be the\nsame?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'm relieved it's nothing life-threatening,\nbut she's\nvery concerned about her skin.\nI take note to be\nmore understanding of\nthat moving forward.",
+            "name": "Монолог"
+        }
+    ]
+}

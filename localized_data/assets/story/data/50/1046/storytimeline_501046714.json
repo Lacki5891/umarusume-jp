@@ -1,0 +1,99 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Siiigh...</i> I can't believe this happened...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm so sorry for worrying you like this,\nTrainer...\n<i>Sniffle.</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "No... Snap out of it, Falco! An Umadol's\ntears are\nreserved only for happy\nmoments!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'll be fine, Trainer! So pick your head up\nand turn\nthat frown upside down!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ouchie!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Stay put! You're still recovering!",
+                "Stay strong! Push through!"
+            ]
+        },
+        {
+            "text": "Ouchie!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Stay put! You're still recovering!",
+                "Stay strong! Push through!"
+            ]
+        },
+        {
+            "text": "Agh... I can't believe I made my very first\nfan look\nso sad...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "An Umadol's job is to make her fans\nhappy, right?\nOkay! I'm gonna put all my\neffort into healing up!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Stay tuned for Falco's miraculous\nrecovery arc! I'll\nbe celebrating my\ncomeback with a concert!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Huh?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I know you can do it!"
+            ]
+        },
+        {
+            "text": "Uh, Trainer, can we hold up a sec?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "My injury might be a lot more serious\nthan I\nthought... Maybe I shouldn't move\naround too\nmuch? I dunno...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "You're absolutely right! I'm not one to\nget down\nover something like this!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Thanks for believing in me! Consider me\nback in\naction!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Let's go! Let's go!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You got this, Falco!"
+            ]
+        },
+        {
+            "text": "Thanks to your encouragement, I've got\ntons of\nenergy!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "All right! I just know I can get through it\nnow!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон resumes training and\nmakes an\nastonishing recovery!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Смарт Фалкон decides to rest and wait\npatiently\nfor her injuries to heal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Unable to force a smile for long, Smart\nFalcon\ntakes time off to get some much\nneeded rest.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after Каррен Тян finishes\ntraining...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Wait up! Ayabeee!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Sigh...</i> Why do I have to wait? I'm out\nhere\ntraining on my own.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I know! ♪ That's why I wanna run with\nyou!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I would prefer to run alone... I'll be\ngoing now.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Awww... She's gone...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "We're supposed to be roommates. Why\nis she\nalways like that?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Don't give up. Go and try again!",
+                "Maybe you should try again some other time."
+            ]
+        },
+        {
+            "text": "We're supposed to be roommates. Why\nis she\nalways like that?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Don't give up. Go and try again!",
+                "Maybe you should try again some other time."
+            ]
+        },
+        {
+            "text": "Yeah! You're right. I'll try one more\ntime! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Huff... Puff...</i> Ayabeee!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What?! Why are you still following me?\nIf you're\njust trying to play around,\nthen—",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "I'm not playing around.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh?",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "You may not care about me... I may be\njust a\nroommate to you, but...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I wanna try running with you. I thought\nthat\nmaybe if I chase after you, I could\nsee the world\ndifferently.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Ehehe. I guess this must be a lot to\nhear all of a\nsudden.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...Maybe I <i>am</i> just a bother.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "...I never said that. Do whatever you\nwant.",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Okay! I will! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Yeah! I guess people's moods depend on\nthe day.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Hm... Maybe some other time...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "That night, in the dorm...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Huh? The lights are still on...",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "<i>Yaaawn...</i> Welcome home!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What?",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "Ehehe... I thought I'd wait up for you\nsince we\nhave the day off tomorrow.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It looks like you worked hard today. I\nhope we\ncan talk tomorrow.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>...Thud!</i>",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Sigh...</i> What's with you?",
+            "name": "Адмайр Вега"
+        },
+        {
+            "text": "And so, Каррен Тян and Адмайр Вега\nrun\ntogether until the sun goes down.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Falling asleep without a blanket...\nUnbelievable.\nYou'll catch a cold.",
+            "name": "Адмайр Вега"
+        }
+    ]
+}

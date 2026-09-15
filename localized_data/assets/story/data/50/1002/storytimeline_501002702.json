@@ -1,0 +1,222 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back home from an outing,\nSilence\nSuzuka suddenly stops in her\ntracks.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "text": "No, it's just...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I follow her line of sight to find an\narcade.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just inside sits a claw machine filled with\nan\nassortment of snow globes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I was just thinking how pretty those are.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Do you want to go take a look?"
+            ]
+        },
+        {
+            "text": "If it's okay with you...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Then I'd love to. Just a quick little\ndetour.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "We head inside and make our way\ndirectly to the\nclaw machine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um... I'm supposed to press this button\nto move\nthe claw, right?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Are you sure you've got this?"
+            ]
+        },
+        {
+            "text": "Yes, I'm fine. You don't have to worry.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Or so she says.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? Don't do that! Why's it going\nthere?!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The claw arm slowly extends downward\nand\nscoops up a great big bunch of\nnothing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Тренер? Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Can I go get some more coins? I want to\ntry just a\nfew more times...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You must really want one of those, huh?"
+            ]
+        },
+        {
+            "text": "...Yes. A miniature field of sparkling\nwhite snow...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I can imagine how pretty it would look\nsitting in\nmy room...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You can do it!",
+                "Mind if I give it a go?"
+            ]
+        },
+        {
+            "text": "I can imagine how pretty it would look\nsitting in\nmy room...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You can do it!",
+                "Mind if I give it a go?"
+            ]
+        },
+        {
+            "text": "Thank you. That globe will be mine...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh, right... Um...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Could you give me some advice? Like\nyou do\nbefore a race?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука seems determined to get\na snow\nglobe, so I give her some tips.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay... So, first... carefully, over the\ntop...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Then watch from the side as—oh!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It fell... Okay, one more time.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And another, and another, and another.\nShe\nkeeps trying until, finally...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Ka-thump!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "The claw carries a snow globe to the\ncollection\ntray and drops it in!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You did it!"
+            ]
+        },
+        {
+            "text": "I did!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "This beautiful snowy landscape is mine\nto view\nwhenever I want.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Could it be that you want one too?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "If I manage to get one, you can have it."
+            ]
+        },
+        {
+            "text": "Really? Oh, please try then!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I trade spots with Сайленс Судзука and\ntake the\ncontrols.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Careful... Careful...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh! You grabbed one!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Ka-thump!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Y-you did it!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um... Can I really have it?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Because if you were to change your mind\nlater,\nI'm not sure I'd be able to let it\ngo...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I won it for you."
+            ]
+        },
+        {
+            "text": "For me...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you. Now, I wonder where I\nshould put it in\nmy room...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "When I've decided, you'll be the first to\nknow.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука looks very pleased with\nherself as\nshe carries her new snow globe\nhome.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Сайленс Судзука seems to be in a good\nmood as\nshe carries her new snow globe\nhome.",
+            "name": "Монолог"
+        }
+    ]
+}

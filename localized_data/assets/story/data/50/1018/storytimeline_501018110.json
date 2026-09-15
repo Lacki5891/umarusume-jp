@@ -1,0 +1,108 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Three years spent training with Air\nGroove are\ncoming to a close.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She gave a performance in the Twinkle\nSeries\nworthy of the moniker of Empress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And even more challenges await us on\nthe\nhorizon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув! Can you tell us about your\nplans for\nthe future?",
+            "name": "Male Репортёр"
+        },
+        {
+            "text": "Do you have any intention to run\ninternationally?\nAre there any rivals in\nthe younger generation\nyou have your\neye on?",
+            "name": "Female Репортёр"
+        },
+        {
+            "text": "Oh my gosh, it's Эйр Грув! As cool and\nelegant\nas ever!",
+            "name": "Training Умамусумэ А"
+        },
+        {
+            "text": "Look at her, surrounded by reporters\nlike that.\nBeing the Empress is something\nelse...",
+            "name": "Training Умамусумэ А"
+        },
+        {
+            "text": "I head to the track in search of Air\nGroove only to\nfind her in the middle of\na crowd of reporters and\nother\nUmamusume.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I'm getting a weird sense of deja vu...)"
+            ]
+        },
+        {
+            "text": "I remember back when I spent a whole\nday biding\nmy time and waiting for a\nchance to talk to Air\nGroove because\nshe seemed so busy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "(Of course! This happened then too!)"
+            ]
+        },
+        {
+            "text": "She realized what I was doing back then\nand gave\nme a stern talking-to after.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's odd, but that memory is strangely\ncomforting\nnow. I keep my gaze focused\non her, and...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Эйр Грув!"
+            ]
+        },
+        {
+            "text": "...Apologies, I must be going. My trainer\nneeds\nme.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Let's go.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув takes my hand and pulls me\naway with\nher!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Goodness gracious, the reporters have\nbeen out\nin full force recently. It really\nmakes it difficult to\npractice.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Did we have to come all the way back to my\noffice, though?"
+            ]
+        },
+        {
+            "text": "It can't be helped. We're least likely to\nbe\nbothered here.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "More importantly, I have something to\nsay to\nyou.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "What was with that show earlier? That's\nhow you\nthink you can get my attention?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You were like a sigh in the wind. You\nneed to do\nmuch better than that.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "A-ah, right. I'll do better..."
+            ]
+        },
+        {
+            "text": "What am I going to do with you? Puff\nout that\nchest! Be more confident!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "After all... you're this empress's trainer.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

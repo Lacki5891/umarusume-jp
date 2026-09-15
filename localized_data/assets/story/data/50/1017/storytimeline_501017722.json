@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I drop in on Симболи Рудольф to arrange\nour next\ntraining session, but she seems\na little under the\nweather.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ngh...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "Just a headache, nothing more. All it\nneeds is\ntime.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "More to the point, there is a mountain of\nwork to\ndo before the end of the day.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I have reference documents to compile\nfor this\nweek's budget meeting,\nrequisition forms to\napprove, and more\nbesides...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I would like to get it all out of the way\nas quickly\nas possible, but... Ngh.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If it weren't for this headache, I would\nbe done by\nnow. Nothing can ever be\nsimple, it seems...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It sounds like Симболи Рудольф's headache\nis\ncausing her more trouble than she's\nwilling to\nadmit.",
+            "name": "Монолог"
+        }
+    ]
+}

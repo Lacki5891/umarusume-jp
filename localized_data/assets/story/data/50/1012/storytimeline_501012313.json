@@ -1,0 +1,92 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "First place goes to Хиши Амадзон! She\ntakes the\nwin, staying true to her\npromise!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "text": "Хиши Амадзон was awesome! I wonder\nwhere we'll\nsee her next?",
+            "name": "Fan A"
+        },
+        {
+            "text": "I hope she'll turn up at the Japan Cup or\nthe\nArima Kinen.",
+            "name": "Fan B"
+        },
+        {
+            "text": "And if Нарита Брайан makes an\nappearance, we can\ncount on a great\nrace.",
+            "name": "Fan B"
+        },
+        {
+            "text": "Yeeeah! Did you see that, Teach?! I won!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You were amazing!"
+            ]
+        },
+        {
+            "text": "Hehe. I won first place, just like I\npromised. This\nvictory should help build\nup my reputation a bit\nmore, eh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The only race left is my one-on-one at\nthe Arima\nKinen...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон looks like she has\nsomething on her\nmind.",
+            "choice_data_list": [
+                "What's the matter?"
+            ]
+        },
+        {
+            "text": "I've been thinking... Before we take on\nthe Arima\nKinen, could we have a go at\nanother big race\nfirst?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I only ran the Osaka Hai and the Yasuda\nKinen in\norder to prep for the Arima\nKinen.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The idea was for me to beef up in time\nfor the big\nrace, right?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "text": "But you know what? I had <i>so</i> much fun\nout there!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "The competition was super intense! It\nwas\nelectrifying!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I feel like another tough battle like that\nwould\nmake me <i>even stronger,</i> and...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Why am I beating around the bush?\nWhat I'm\ntrying to say is—I want to run\nin the Japan Cup.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I want to experience another real excitin'\n\none-on-one!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон is already buzzing with\nexcitement\njust thinking about the\nthrilling battle ahead."
+        },
+        {
+            "text": "And I see no reason to slow her roll.",
+            "choice_data_list": [
+                "Of course you can run it!"
+            ]
+        },
+        {
+            "text": "We set our sights on the Japan Cup,\nwhere only\nthe best of the best gather\nto race!"
+        }
+    ]
+}

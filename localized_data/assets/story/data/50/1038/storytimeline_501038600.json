@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow, I'm so nervous. It's almost time for\nthe race!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Okay! I'm gonna make sure I run cuter\nthan\neveryone else. ♪",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "You've got this, Curren!"
+            ]
+        },
+        {
+            "text": "Yeah, I do! ☆",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I'll give it my all, just like always, and\ncharm\neveryone! ♪",
+            "name": "Каррен Тян"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I take a walk with Oguri Cap during our lunch \nbreak, but she doesn't seem to have much energy."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Yawn...</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sorry... Lately, no matter how much I sleep or eat, \nI always seem to be out of energy..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Maybe I need to eat more... <i>Sigh...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "All those consecutive races must have taken their \ntoll. I should probably adjust her schedule to \navoid any further problems."
+        }
+    ],
+    "title": "After Repeated Races..."
+}

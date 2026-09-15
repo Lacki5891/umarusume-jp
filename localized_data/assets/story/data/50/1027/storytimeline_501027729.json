@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Aww...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Sorry I couldn't get one."
+            ]
+        },
+        {
+            "text": "Oh, no... Don't worry about it!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That machine has such a weak arm. It's\nno wonder\nyou couldn't get anything!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It really needs to do some serious muscle\ntraining!\nIt's not your fault, Trainer!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

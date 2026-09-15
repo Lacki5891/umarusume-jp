@@ -1,0 +1,239 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...So what I'm saying is, I've come to a\nrealization.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You're not really free unless you're\npaying your\nown way.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Otherwise, you're just living like a sheep\noff\nsomeone else's dime! And I ain't no\nlamb chop!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "What are you talking about?",
+                "What are you taking about?"
+            ]
+        },
+        {
+            "text": "I'm heading to a part-time gig, duh! And\nyou're\ncoming with me!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "A part-time gig?!"
+            ]
+        },
+        {
+            "text": "Yep! I'm gonna get moolah on the clock.\nPull\nmyself up by my bootstraps,\ny'know?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Now that I think about it, Tracen\nAcademy does\nallow part-time work, as\nlong as the student gets\npermission.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thing is, permission is taking <i>forever.</i>\nWeird,\nright? Can't they see how raring\nto go I am?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...I'd have reservations about letting her\nloose on\nthe world as well.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, don't go nodding along with that!\nDoesn't it\nbother you that your student's\ngetting frozen\nout?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Well, I'm not gonna stand for this!\nThere's only\none thing for it...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I gotta practice up before I take on the\nreal thing!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ding ding ding! Got some hits!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "That was fast!"
+            ]
+        },
+        {
+            "text": "Better screw on your thinking cap, 'cause\nit's\ndecision time!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Your choices are... One: Fantabulous ☆\nPhysical\nLabor with the Dorm Leader! Or\ntwo:\nSplendiferous ☆ Yakisoba Noodle\nFry-Up!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Tick, tock... Oh, and if you run out the\nclock,\nyou're in for some Paintastic ☆\nTrainer Origami!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Go with the physical labor!",
+                "Let's make some yakisoba!"
+            ]
+        },
+        {
+            "text": "Ahahaha! So you've come to help, have\nyou?\nThanks a million!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It's Ritto Dorm's turn to clean the pool,\nbut we're\nrather shorthanded. You're\nlifesavers!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Think nothing of it, young mistress—your\nfaithful\nmaid Golshi lives only to serve!\nThis limescale will\nbe all gone in a\nscrub-scrubbity-scrub!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Erm... That sounds splendid, but... why\nare you\ntalking like that?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Her latest bit aside, Голд Шипп does a\nsurprisingly\nthorough job cleaning the\npool.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right, dirt! Prepare to meet your\nmaker!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What graceful technique! She wields the\nbrush\nlike an extension of her arm... No,\nher entire body\nis one with the brush!",
+            "name": "Ritto Dorm Students"
+        },
+        {
+            "text": "You too? What on earth has gotten into\neveryone\ntoday?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Phew! I \"maid\" short work of that\nmission!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'm impressed. Without your help, this\nwould have\ntaken twice the time.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I can't offer you money, but still, I'd like\nto\nreward your efforts somehow.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "For real?! I can have anything I want?\nThat's what\nyou said, right?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Not in the slightest!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hmm-hmm! Let's see...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I've got it! I wanna freeze all the water in\nthis pool\nand make shaved ice out of it!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ahaha... That's an amusing idea, but\nfrom a\nhygiene perspective, I'm afraid\nthere would be\nissues...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hey, Tachyooon! Gimme some of that\n\ninsta-freeze powder, and lots of it!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The perfect partner in crime! ...I mean,\nhold it,\nGolshi! Stop, I say!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Голд Шипп gathers all the equipment and\n\ningredients for yakisoba in a flash.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've come for yakisoba. I hear this place\nserves\nthe good stuff.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "You heard right, my friend! So just one...\nno, two\nof you today?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Oohhh, dat's one nice-lookin' pan ya got\ndere.\nAnd dat stove looks like it could\nput out some\nreal heat!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Naniwa's gutsiest's got a cravin'... I got\nhigh hopes\nfor dat yakisoba, Golshi!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Sorry, but I got no words to say to either\nof you.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "My frying pan does all the talkin'. That's\nthe vow I\nmade when I chose this life five\nminutes ago!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп deftly fries up the noodles\nlike a real\npro!",
+            "name": "Монолог"
+        },
+        {
+            "text": "OHHH YEEEAAAHHH!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Whoa... Her form's darn near flawless! Da\nway she\nflips da noodles... She's steamin'\noff all dat excess\nwater so's dey don't\nget soggy!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...This isn't good, Tama. For the first time\nin my\nlife, I fear... I may drool!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Da heck's up wid dis?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Dis here flavor, I can't put it inna\nwords...\nNothin'll do it justice!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Seconds, please!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Heh... Well, maybe dat'll do.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Tamamo, does that mean...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Yeah, yer legit! Naniwa's soul lives in ya!\nThe title\nof ultimate yakisoba fryin'\nUmamusume is all yers!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Tamamo! Thank you so much!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Um... Seconds please...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Голд Шипп takes off with the deck brush,\nand Fuji\nKiseki and I gave chase. In the\nend, we all\ncollapse from exhaustion.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шип's yakisoba is so good that all\nof life's\nlittle problems seem to melt\naway with one bite.",
+            "name": "Монолог"
+        }
+    ]
+}

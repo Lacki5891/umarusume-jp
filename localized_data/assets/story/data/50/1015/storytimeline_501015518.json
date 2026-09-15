@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Т.М. Опера О and I are having a\nmeeting, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "By the heavens!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "My apologies. It seems yesterday has\nleft a\nlingering effect on me.",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "What were you doing?"
+            ]
+        },
+        {
+            "text": "En route to the academy, I found myself\nin the\nrain's sweet embrace. I indulged\nsaid opportunity\nuntil I arrived at the\ndorm.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "The exhibition we wove together was\nboth\nmagical and rife with passion...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Even now, my head still spins from the\n\nspectacle—the heat pulsing through my\nwhole\nbeing!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh, how I wish you could have seen it,\nTrainer!\nHaaah ha ha ha—",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Achoo!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "She's definitely caught a cold. I send her\nhome to\nget some rest.",
+            "name": "Монолог"
+        }
+    ]
+}

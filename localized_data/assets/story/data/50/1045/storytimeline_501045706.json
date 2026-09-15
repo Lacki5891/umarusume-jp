@@ -1,0 +1,138 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm accompanying Супер Крик back to\nher dorm\nafter a day out together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehehe, it really is kind of you to see\nme all the\nway back.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But you don't have to walk me to the\ndoor.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I know you don't live very far from here,\nbut\nplease be careful on your way home\ntoo.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Will do. See you later."
+            ]
+        },
+        {
+            "text": "Thank you so much for today! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "As Супер Крик turns away, I find myself\nlooking\nup at the sky.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There are lots of stars out tonight. They\nmight\nlook even prettier if viewed from\nsomewhere\ndarker.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Seeing as I'm here, perhaps I should\ninvite Super\nCreek to go stargazing.\nBut...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Тренер?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I looked back and noticed you spacing\nout, so I\ncouldn't help but feel a bit\nconcerned...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Are you okay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Maybe it's too late to invite her out\nstargazing,\nafter all.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Yeah, nothing to worry about."
+            ]
+        },
+        {
+            "text": "...I see.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I part ways with Супер Крик and head\nto the\nriver.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As expected, there's not a soul in sight\nat this\nhour. I sit down to enjoy the night\nsky, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe. I thought I might find you here.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "How'd you know?"
+            ]
+        },
+        {
+            "text": "I noticed your eyes twinkling as you\ngazed at the\nsky.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I had a hunch, so I figured I'd follow it.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...You were about to invite me to join\nyou, right?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I just thought the stars looked beautiful tonight.",
+                "Uh, no... That's not, er..."
+            ]
+        },
+        {
+            "text": "Hehe, I knew it. You're always so\nrestrained.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If there's ever anything you want from\nme, just\nask, okay?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Holding back is a big no-no!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'd be a fool to turn down an\nopportunity to spoil\nyou! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh? Hehe, is that so?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Then let's just say that <i>I</i> was the one who\nwanted\nto see the stars with <i>you</i> tonight.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Let me stay by your side for just a little\nbit\nlonger, okay? ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Hehe... You're even cute when you're\nnot being\nupfront.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I feel like she sees right through me.\nWhile things\nare a little awkward, we\nspend some time\nstargazing together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Супер Крик and I stargaze for a while\nbefore\nheading back home.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! Trainer! We have a problem!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm walking past the student dorms,\nwhen Grass\nWonder comes running\ntoward me, looking\nuncharacteristically\nflustered.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I... I can't find El anywhere. And I found\nthis in our\nroom...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She shows me the mask that is so dear to\nEl\nCondor Pasa—a mask she never leaves\nhome\nwithout.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She would never go out without her\nmask on.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I can't stop thinking about it. If\nsomething\nhappened to her...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Let's split up and look for her!"
+            ]
+        },
+        {
+            "text": "Грасс Вандер hands me the mask, and\nthen we\nsplit up and search for El high\nand low.\nEventually...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Huh?! Trainer...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I find a girl who looks strikingly familiar.\nI walk up\nand stand beside her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've finally been exposed...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Now you know... I'm a liar.",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Oh?"
+            ]
+        },
+        {
+            "text": "I'm... not the world's strongest racer. Not\nonly\nthat...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I never really believed I was.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I let it show a little after I ran in the\nDerby with\nSpe. Then, when I ran with\nSuzuka, that was it. My\nlies unraveled.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Trainer... look! This is my true face!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса's face... Where she once\ntold me\nto never look, she now\ncommands I do...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm just a completely average\nUmamusume... No,\neven worse...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm a weakling... a crybaby... a chicken.\nWithout a\nshred of confidence...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I thought if I just faked it... maybe I\ncould be the\nme that I wanted to be.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So I put on a mask and told myself that I\nwas\nstrong.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But no one else is a phony like me. Not\nSpe, not\nSuzuka... No one.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "They bare it all and fight as they really\nare! But I...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I can't even do that.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I just hide my weakness behind a mask\nand call\nmyself the world's strongest\nracer.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "My papa gave me that mask. It's so\nimportant to\nme, but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It just proves I'm a liar! A walking ball of\nlies! I—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "A ball of lies...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I stare at the mask that Грасс Вандер\nhanded\nme. With this mask...",
+            "name": "Монолог"
+        },
+        {
+            "text": "La victoria! I'm the best, the greatest,\nthe one to\nbeat all the rest!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Did you see me, Тренер?! I was soaring\nwith all\nmy might!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The gallant hero! The raging storm! The\n\nmysterious masked warrior—Aztec\nCondor comes\nto the rescue!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса ran with all her might\nand brought\nenjoyment to many.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Even if it was all just bravado, what she's\n\naccomplished...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's not a lie."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Everything you've accomplished is real, El."
+            ]
+        },
+        {
+            "text": "But I—",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Are masked wrestlers liars?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I press the question. Masked wrestlers\nalso hide\ntheir true identities.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are their moves all lies? Is their desire to\n\nentertain others a lie?",
+            "name": "Монолог"
+        },
+        {
+            "text": "N-no way! My papa's no liar!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "He might be different at home than\nwhen he's in\nthe ring, but even so...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The papa in the ring is still real! He\nalways wants\nto put on the best match\npossible and make\neveryone happy!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "...Ah.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It seems like she's realized it now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I see... Even if I hide my true self... Even\nif I hide\nmy weakness behind a mask...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's not a lie! The things I want to\naccomplish...\nThe races I want to show\neveryone... They're real!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Even if... I can't do them quite yet...",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Here, take this back."
+            ]
+        },
+        {
+            "text": "My mask...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If I put this on again, that means...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Um, Trainer... Can you put it on for me?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "You can put it on yourself, El.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Grass?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm not sure how long she's been\nlistening, but I\nturn to see Grass\nWonder.",
+            "name": "Монолог"
+        },
+        {
+            "text": "You have to put it on yourself. Do you\nknow why?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's because you're Эль Кондор Паса.\nYou're the\nUmamusume who's going to\nbe the strongest\nracer in the world.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You can rely on your trainer, of course,\nbut in the\nend, the one who spreads\nyour wings has to be\nyou.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Didn't you swear to be my top rival one\nday?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "What kind of friend doesn't have the\nguts to even\nfake it for the ones they\ncare about?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Grass!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса takes the mask in her\nhands. Her\ngrip tightens, wringing the\nmask.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The truth is, I'm just a crybaby and a\nchicken.\nBut...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But if I keep that to myself, then I can\nbe a\ncheerful and optimistic racer who\ntears down the\nturf faster than anyone!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm Grass's archrival! With unparalleled\ntalent and\nthe best trainer ever...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Reintroducing the one... the only...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "El Condor Pasaaa!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The piercing cry signalling the Phantom\nBird's\nrevival echoes through the night.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you, Grass. Thank you, Trainer.\nI'm okay\nnow!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I've just been... aiming a little too high.\nThat's\nall. ♪",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "But now I'm back, baby! Even if I fall, I\njust have\nto kick off the ground and soar\nagain!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "El!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Now, what should my next race be?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "For starters, I need to take some time\nand focus\non training to become the\nbest in the country!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "In addition, which race will all the top\n\ncompetitors be competing in? Where\nwill all my\ndedicated fans be looking?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If we're going to take our time, then we\nshould\naim for next year. A\nmedium-distance race where\nare all the\ntop talents will be gathered.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Fans always look forward to the\nfan-voted Grand\nPrix races. Which\nmeans...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about the Takarazuka Kinen?"
+            ]
+        },
+        {
+            "text": "Ooohhh, the Takarazuka Kinen! The\nundisputed\nend-of-spring senior\nshowdown!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Let's go for it! If I can beat everyone\nthere, I'll\ndefinitely be fit to take on the\nJapan Cup!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Once broken and defeated, El Condor\nPasa has\nrisen again—just like a phoenix.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "El can move forward now. And so can I.",
+            "name": "Грасс Вандер"
+        }
+    ]
+}

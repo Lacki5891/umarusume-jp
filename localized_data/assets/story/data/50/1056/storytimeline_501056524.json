@@ -1,0 +1,120 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Right before training,\nMatikanefukukitaru calls\nme to the\nacademy library. It's pitch black inside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hohoho... Welcome, welcome! You are\nthe first\nlucky wayward lamb to visit\nme...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Click...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Argh! My eyes! Why did you turn the\nlights on?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I put in a lot of work to set the mood...\nYou've\ngone and ruined it.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "What did you want to talk about?"
+            ]
+        },
+        {
+            "text": "Aiyee, you're jumping straight to the\npoint?!\nYou're that interested in what I\nhave for you?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But of course you are! Well you see, I'd\nlike to\ninclude you in my fortune-telling\nsession today!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "text": "That's right! I'm calling it \"Trainer\nDivination\"!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's simple—all you've got to do is pick a\ncard.\nThe type of card will reveal to us\nthe outcome of\ntoday's training session!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Come now, there are three cards on the\ndesk.\nPick whichever one you like!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "If you could, pick the great fortune one!\nPretty\nplease...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Матиканэфукукитару's eyes are twinkling\nmore\nthan usual. Hm, which card should I\nchoose?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "The suspicious-looking card on the right.",
+                "The suspicious-looking card in the middle.",
+                "The suspicious-looking card on the left."
+            ]
+        },
+        {
+            "text": "Is that your final answer? Then let's turn\nit over\nand take a look!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "<i>Flip...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! Would you look at that! It's a\npicture of a\ncheetah with a belly full of\nfood!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "The cheetah is the symbol of speed. And\nthere's\nnothing better than eating to\nyour heart's\ncontent!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "An omen of fortune is an omen of\nfortune. Luck\nwill surely come our way!\nSomething good,\nhappen to us, please!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Would you look at that! It's a person\ngrasping a\nflame high in the air!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "These blazing flames symbolize victory.\nIn other\nwords, I'm going to seize hold of\nsomething that\nwill bode good\nprospects!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I don't know why, but I'm pumped up\nand ready\nto go! Let's hit the track\nrunning!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Eek! This picture... Isn't that the\nyou-know-who\nthat carries the scythe?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Training's cancelled today! It's an\nabsolute no-no\nfor me!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "This means the absolute worst! The\napocalypse,\nplagues, hopelessness,\nlarge-scale heartbreak, a\nsupernova...\nUuughhh!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "She goes above and beyond in our\ntraining\nsession after, grasping some sort\nof new\ntechnique in the process.",
+            "name": "Монолог"
+        },
+        {
+            "text": "In our training session after,\nMatikanefukukitaru\nachieves a new\npersonal best lap time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I manage to get Матиканэфукукитару to\ndo some\ntraining, but she's totally\nlacking in energy...",
+            "name": "Монолог"
+        }
+    ]
+}

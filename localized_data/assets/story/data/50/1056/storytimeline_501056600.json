@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I hear strange, possibly spiritual\ninvocations\ncoming from inside the\nwaiting room. I take a\npeek inside to\nfind...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Glory beee! Glory beee! Glory be...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "To the mighty spinach leaf!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Whew. I got so excited, I might have\ngotten <i>way</i>\nmore into that chant than\nusual!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "You seem fired up."
+            ]
+        },
+        {
+            "text": "That's right! I'm going to make use of all\nof my\nmotivation, courage, and luck in\nthis race!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

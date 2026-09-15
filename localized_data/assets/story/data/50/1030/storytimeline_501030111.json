@@ -1,0 +1,309 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The first three years of every racer's\ncareer are\nincredibly important. During\nthose years, Rice\nShower has achieved\nsome incredible feats.",
+            "name": "Монолог"
+        },
+        {
+            "text": "People all over have praised her efforts.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...An a-award ceremony?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "That's right! You did help make the\nTakarazuka\nKinen happen, after all.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "So many people in the URA want to\ncelebrate you\nby holding a ceremony in\nyour honor.",
+            "name": "Тазуна Хаякава",
+            "choice_data_list": [
+                "That's incredible!"
+            ]
+        },
+        {
+            "text": "I-I'm happy to hear it, but...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "By all means, please grace them with\nyour\npresence.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "The staff from the Hanshin and Kyoto\n\nRacecourses are looking forward to\nseeing you\nthere as well.",
+            "name": "Тазуна Хаякава"
+        },
+        {
+            "text": "Oh... They're the ones who did\neverything in their\npower when I asked\nfor help.",
+            "name": "Райс Шоуэр",
+            "choice_data_list": [
+                "You should go see them."
+            ]
+        },
+        {
+            "text": "You're right. I have to thank them in\nperson.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "The next day, Райс Шоуэр and I visit the\nHanshin\nRacecourse together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Th-there are so many people... And it's\nnot even a\nraceday…",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Wow, look, it's Rice! Oooh, she's so\ncute!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Rice! It's so great to see you!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Huh?! What?!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Long time no see, you two!",
+            "name": "Staff A"
+        },
+        {
+            "text": "I-it's nice to see you again! But, um...\nwhat's going\non?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Oh this? Well, the original plan was just\na\ncelebration with the staff, but...",
+            "name": "Staff A"
+        },
+        {
+            "text": "Rice! Look over here!",
+            "name": "Spectator C"
+        },
+        {
+            "text": "As you can see, there were lots of fans\nthat also\nwanted to see you.",
+            "name": "Staff A",
+            "choice_data_list": [
+                "Makes sense. Everyone loves you."
+            ]
+        },
+        {
+            "text": "Huh?! L-love?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Yes, exactly. So we changed our plans\nand pulled\na few strings.",
+            "name": "Staff A"
+        },
+        {
+            "text": "As a result, the award ceremony is now\nopen to\nthe general public.",
+            "name": "Staff A"
+        },
+        {
+            "text": "I see... Then all these people... came to\nsee me?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "That's right... By the way, may we ask\nyou to do\nwhat you weren't able to do\nlast time?",
+            "name": "Staff A"
+        },
+        {
+            "text": "Here, in front of all the people excited\nto see\nyou?",
+            "name": "Staff A"
+        },
+        {
+            "text": "...Yes, of course!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Uh, um... Hi, everyone.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "I'm Ri—",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "<i>Screeeeech!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "H-haha... sorry. The mic is kind of...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "I'm sorry. I hope I didn't hurt your ears.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Don't worry! We're okay!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Th-thank you. Ummm, well...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "I would like to thank everyone for\ncoming here to\nsee me today.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "I've never seen anything like this before,\nand... I'm\nso happy.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "So, so happy... <i>Sniffle...</i>",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Don't cry!",
+            "name": "Spectators"
+        },
+        {
+            "text": "R-right! Sorry... I won't cry.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Because today, I want to be able to look\nyou all\nin the eye while I talk to you.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "...I used to be really lonely. I was stuck\ncowering\nin a dark place, always hiding\naway.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "But... I'm not alone anymore.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "It's because of all of you that I'm able to\nstand\nhere.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "You brought me light, and gave me a\nplace to\nbelong to...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Thank you, from the bottom of my heart!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "We'll now move on to presenting the\ncertificate\nof our gratitude as well as the\naward. Please turn\nyour attention to the\nscreen!",
+            "name": "Staff A"
+        },
+        {
+            "text": "...?",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Hi, everyone! Hi, Rice!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "...Greetings.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Come on, Bourbon! Don't be shy!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I have analyzed the script thoroughly.\nYou are the\nonly one who is supposed to\nspeak.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "It's fiiine! Don't worry about the script!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Anyway, there's tons of Rice fans over\nhere too!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Data indicates plans for a\ncommemorative plaque\nare currently\nunderway as well.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "Whoa, hey! Don't ruin the surprise,\nBourbon!\nShhh! Shhh!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Broadcast time has elapsed. Back to you,\n\nHanshin.",
+            "name": "Михоно Бурбон"
+        },
+        {
+            "text": "What, time's up?! Bye-bye, Rice!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "...Hehe. I'm sorry... I said that I wouldn't\ncry, but...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Miss Rice, do you have anything you'd\nlike to\nadd?",
+            "name": "Staff A"
+        },
+        {
+            "text": "Everyone... I'm going to continue\nworking hard,\nso...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Please... please continue to support me!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "On the bus home...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> That was fun... I didn't think\ntoday would\nbe so memorable.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Thank you, Big Brother. Because of\nyou...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Thank you, Big Sister. Because of you...",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "I could...",
+            "name": "Райс Шоуэр",
+            "choice_data_list": [
+                "You've done well, Rice."
+            ]
+        },
+        {
+            "text": "Hehe... Yeah... <i>Sniff...</i>",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "...I was always so useless, but now I've\nbecome a\nblue rose.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Unlike the book, I know bad things will\nstill\nprobably happen sometimes.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "But this blue rose's wish is to keep\nblooming and\nto bring happiness to\neveryone, forever and ever.",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "...Alongside my favorite person in the\nwhole wide\nworld.",
+            "name": "Райс Шоуэр"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's lunchtime, and the cafeteria is\npacked with\npeople. In the midst of it all\nis Нарита Таисин\nwearing her trademark\ngrim expression.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I should have one more meat dish...\nHmm, I probably\ncan't eat that much. I\ncould handle a salad, but I need\nthe\nprotein...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You shouldn't force yourself to eat more than\nyou want."
+            ]
+        },
+        {
+            "text": "Umamusume are known for their\nravenous\nappetites, but Нарита Таисин is\na comparatively\nlight eater.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She always ends up eating to the point\nof looking\nsick, which I can't help but\nworry about.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Shut your pie hole. I should at least eat\nmore than\nthe others since I'm on the\nsmaller side.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Otherwise... I'll never catch up.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ahahaha! That tenacity of yours is most\nexcellent!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Hello there! Sorry for the intrusion! But I\nguess\ncutting in out of nowhere is what\nmakes me <i>me.</i>",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Tachyon... What do you want?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I imagine you won't be very surprised as\nto why I\nam here, for it is none other\nthan to request your\nassistance with an\nexperiment!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "No.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hehe! Shot down without hesitation! It's\nnot just\nyour running that's fast, eh,\nDemon Legs?\nHowever, my friend...",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Would you change your mind if I told\nyou that the\nmedicines I'm sampling out\ncan help with your\ndiet woes?",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hear me out. Adjusting your diet is a\ncrucial\naspect of bulking up.",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "As such, I invented two medicines!\nMedicine A\nsignificantly speeds up\ndigestion, and Medicine B\nboosts\nnutrient absorption!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Now, I know you seek to obtain a certain\nbody\ntype, Taishin. So tell me... How do\nyou truly feel\nabout this?",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Hmph.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Just so it's clear, I'm not gonna be your\nguinea\npig. If anything, I'm going to be\nthe one using\nyou.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "So you mean to say, we have a deal!\nVery well, let\nus start the experiment\nright awa—",
+            "name": "Агнес Тахион",
+            "choice_data_list": [
+                "W-wait!"
+            ]
+        },
+        {
+            "text": "Telling Нарита Таисин not to do this\nlikely won't\nwork since she's so stubborn.\nBut I should at least\nsuggest the\nsafer-sounding one!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Suggest she take the medicine that hastens\ndigestion.",
+                "Suggest she take the medicine that boosts\nnutrient absorption."
+            ]
+        },
+        {
+            "text": "What are you jumping in for? Whatever.\nI was fine\nwith either choice anyway.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин takes the medicine and,\nwith a\nfurrowed brow, downs it in one\ngo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "No way. This is so cool—I'm getting\nhungry! I've\nstill got room for more food!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ahahaha! Eeexcellent. Nothing warms\nmy heart\nmore than great results!",
+            "name": "Агнес Тахион"
+        },
+        {
+            "text": "Heh! I can definitely get used to this!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "At first, Нарита Таисин is delighted by\nthe\nmedicine's effects, but before long...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Grumble...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, <i>again?!</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Goodness me, Taishin! Are you still\nhungry? Don't\nworry!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'll whip you up a midnight snack. Hehe,\neat as\nmuch as you want! ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's fine, I don't need more— Creek!\nDammit, I'm\ntelling you to stop!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "What are you jumping in for? Whatever.\nI was fine\nwith either choice anyway.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин takes the medicine and,\nwith a\nfurrowed brow, downs it in one\ngo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff...</i> Phew.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh, I feel like I can run forever. I've got\nso much\nenergy to spare!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She appears to be satisfied with the\nmedicine's\ntangible results.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe I should use heavier ankle\nweights now.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It appears she's decided against taking\nmore of\nthe medicine after the ordeal\nshe went through.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I've gained some muscle after all! Heh.",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

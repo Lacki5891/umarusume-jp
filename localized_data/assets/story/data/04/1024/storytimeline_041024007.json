@@ -1,0 +1,249 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's our first day of summer camp, and\nwe've arrived at the seaside\nfacility where\neveryone has gathered for some\nsummertime training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I check in on Маяно Топ Ган to see what\nshe's up to in her free\ntime.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm <i>finally</i> done! Freeeeeedom!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Gosh, isn't this supposed to be a summer\ncamp? Why are they even\ngiving out\nregular school homework?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You did your homework? By yourself? Without\nanyone telling you to?"
+            ]
+        },
+        {
+            "text": "Hm? Oh, it's you!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Mmhmm, that's exactly right! It was\nsuuuuuper boring, but I did it! ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Fantastic work, Mayano!"
+            ]
+        },
+        {
+            "text": "Ehehe, right? Keep the praise coming!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I mean, you said I might discover\nsomething new, but I don't think I\nhave...\nNot yet, at least.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But still, you might be right, so I thought\nI'd keep at it for now!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh, right! Since I did my homework, can\nwe do something together? I\nwanna go to\nthe beach! That's okay with you, right?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Fine by me. Let's go!"
+            ]
+        },
+        {
+            "text": "Yaaaay! Then let's—",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey, Mayano! The teacher told us about\nyou! Pretty impressive, I\nhave to say.",
+            "name": "Serious Umamusume"
+        },
+        {
+            "text": "Huh? What are you talking about?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Y'know, the pop quiz we had the other\nday? You used your own\nformula to solve\nthe problems, didn't you?",
+            "name": "Serious Umamusume"
+        },
+        {
+            "text": "Our teacher was like, \"She always finishes\nher tests so quickly. What's\nup with that?\"\nShe even said it's a surprisingly efficient\nway of solving\nthe problem.",
+            "name": "Serious Umamusume"
+        },
+        {
+            "text": "R-really? I thought I was doing it the same\nway as everyone else...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's probably because you're always\nsleeping during lessons. She\neven wants to\nshow the class how you did it next time.",
+            "name": "Serious Umamusume"
+        },
+        {
+            "text": "Actually, if you don't mind... I wanted to\nask if you could study with\nme sometime.\nMaybe teach me a thing or two?",
+            "name": "Serious Umamusume"
+        },
+        {
+            "text": "Oh, uh... S-sure! Yeah, that sounds good!\nLet's do it!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yay! Thanks a bunch! Y'know, I was always\nafraid of talking to you,\nsince the two of us\nseem so different.",
+            "name": "Serious Umamusume"
+        },
+        {
+            "text": "But I'm glad I reached out to you today,\nMayano! I'll see you again\nsoon!",
+            "name": "Serious Umamusume"
+        },
+        {
+            "text": "Um... I guess we should go?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Mayano grabs my hand and drags me away\nfrom the camp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Wooow.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahhhh! Hey, were you listening to what\nshe said earlier?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "No one's ever praised me for <i>studying</i>\nbefore! And I even made a new\nfriend!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I think I get it now though. My teacher\ntold me to show my work\n'cause she\nwanted to know how I solve the problems!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Y'know, until now, whenever other people\nsaid they didn't get\nsomething, in my head\nI was always like, \"Why don't you get it?\nWhat\nis there not to get?\"",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But now I see that it's just 'cause we're\ndoing things differently!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "There are different kinds of formulas just\nlike there are different kinds\nof running!\nThat's why people worry... 'Cause everyone\nhas their own\nstyle!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "And if you learn about these different methods\nof doing things, you'll be all the wiser, right?"
+            ]
+        },
+        {
+            "text": "Yeah, exactly! It feels like my vision was\nall fuzzy from some silly\nclouds, but then\nthey went <i>woosh,</i> and <i>bam</i>! Blue skies as\nfar as the\neye can see!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hm... Maybe <i>my</i> reason for doing\nhomework is different from\neverybody\nelse's too!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "text": "Uhhh... So my teacher can know more\nabout me! \"This is how Maya\nwould solve\nthe problem.\" That's what I wanna show\nher!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And then! And then! Once she gets to\nknow me better, she can tell\neverybody\nabout me and how I solve my problems!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And then I can make even more friends!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey, I know I already have my friends and\nteachers asking me to do\nstuff, but... do\nyou think you could give me some too?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Some stuff? As in homework?"
+            ]
+        },
+        {
+            "text": "Yeah! You could give me, like,\nrunning-related homework or\nsomething!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Some kinda special homework just for me...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It'll be like you're with me even when we're\napart! Our own special\nconnection!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "If I think of homework like that, I'm sure\nit'll feel a little less boring!\nStill boring,\nbut not as much!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You're one step closer to becoming a grown-up."
+            ]
+        },
+        {
+            "text": "Really? You think so? Was I being super\nmature or something?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heh-heh... Ehehehehehe... That's right. I'm\none step closer to\nbecoming a grown-up\nwoman!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey, can I ask you something?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Ask away."
+            ]
+        },
+        {
+            "text": "Since I'm being mature... could you give\nme a grown-up reward? ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I agree to her request and follow Mayano\nto the nearby beach that\nnight.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoaaaa! The stars are so pretty! And\nlook at that ocean!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Even the waves! The <i>splish-splash</i> is so\nquiet now! This is the perfect\ngrown-up\natmosphere!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I think I saw a nice rock to sit on earlier.\nLet's go there!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We can have a nice little chat! Like\ngrown-ups do!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We head over to the rock, only to find...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Close your eyes, my dear...",
+            "name": "Boyfriend"
+        },
+        {
+            "text": "All right...",
+            "name": "Girlfriend"
+        },
+        {
+            "text": "Eep!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "W-wahhhhh!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...And so, Маяно Топ Ган awakes the\nnext day with a slight fever.",
+            "name": "Монолог"
+        }
+    ]
+}

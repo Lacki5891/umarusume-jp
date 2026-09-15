@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Awww... You were so close...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "Don't worry, Trainer! I mean, you really\ntried your\nbest!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I know! Let's sing an uplifting song\nbefore we\nhead back! How does that\nsound?!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

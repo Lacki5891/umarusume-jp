@@ -1,0 +1,202 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, we bump into Эйсин Флэш out\nin town.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello, Falcon. Are the two of you on an\nouting?",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Yep! ♪ Even an Umadol has to take a\nbreather\nevery now and then! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I heard your trainer helped you with your\nstudies.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "So the reason Falcon has needed fewer\nextra\nclasses must be thanks to your\ntutelage.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Hold up, Flash! You can't just go around\nin public\nblurting out stuff about an\nUmadol needing extra\nclasses!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "What do you mean? I just meant to say\nthat your\ntrainer must be an excellent\ninstructor.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Geez... Flash can sure be clueless\nsometimes. Did\nshe really have to say\nthat?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "So you've been doing well at school?"
+            ]
+        },
+        {
+            "text": "Well, the less extra classes I have to\ntake, the\nmore I can concentrate on\ntraining and\nperforming, right?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "There's still a very long way to go until I\nbecome a\ntop Umadol!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "As I thought, she's actively trying her\nhardest to\novercome her weaknesses. In\nthat case...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about I take you out for a change of\nscenery as a reward?"
+            ]
+        },
+        {
+            "text": "Whoa, really?! No way! ♪ Ooh, wherever\nshould\nwe go...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "How about a trip down memory lane?\nIt'll be like\na Falco pilgrimage! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hehe, do you remember that first tryout\nrace we\nfaced as a team?",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "It's the same track I always run on, but\nthere's still\nsomething nostalgic about\nit. ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I spent so much time practicing karaoke,\nI can\neven sing rock and enka now. ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I need to be able to cover any genre if I\nwant to\nbe a first-rate Umadol! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "This was where we first met, at my street\n\nperformance.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...It's thanks to you that I can give my all\nin both\nrunning and performing.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I hope you know just how grateful I am\nfor that! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hehe, what a gorgeous sunset! It makes\nme want\nto sing. ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "♪♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон looks as brilliant as when I\nsaw her\nperform for the first time.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Falco! Falco!",
+                "You've grown a lot.",
+                "I'm glad I became your trainer."
+            ]
+        },
+        {
+            "text": "Смарт Фалкон looks as brilliant as when I\nsaw her\nperform for the first time.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Falco! Falco!",
+                "You've grown a lot.",
+                "I'm glad I became your trainer."
+            ]
+        },
+        {
+            "text": "Call my name and I'll turn around! ☆ I'll\nshine\nright on your heart! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Shine! ☆ Shine! ☆"
+            ]
+        },
+        {
+            "text": "I'm the cutest Umadol! ☆ Full of\nsparkling\ndreams! ☆ Смарт Фалкон! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Ahaha! ♪ You're the best call and\nresponse\npartner in the whole wide\nworld, Trainer! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "It's because I've got tons of experience."
+            ]
+        },
+        {
+            "text": "True! ☆ I'm so glad to have you as my\nfirst fan,\nalways helping me chase my\ndreams! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Before I know it, I find myself clapping.\nHer\nsinging and dancing have both\nimproved, and she\nshines brighter than\never.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ehe! ☆ Thanks! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Let me give you something special as\nthanks for\nyour support! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Are you ready? ☆ Three, two, one! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "<i>Click!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here you go, Trainer! A photo for my\nnumber one\nfan, to remember today's\npilgrimage by! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yeah, me too. I'm so happy that you're\nmy\ntrainer...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "If it wasn't for you, I'd still be limiting\nmyself to\nonly turf...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I would never have realized that I could\nshine as\nan Umadol by racing on dirt as\nwell.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "...Eheheh. It's a bit embarrassing to come\nout and\nsay this kinda stuff, huh?",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "...Yeah, maybe a little."
+            ]
+        },
+        {
+            "text": "But I still think I need more experience\nto become\na top Umadol.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "There's still a long road ahead... but I\ncan keep\ngoing because you're by my\nside.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm counting on you, Trainer! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Let's make a lot more memories from\nhere on out,\nokay? ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm gonna work even harder from here on\nout, so\nstay by my side! ☆",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I notice Сайленс Судзука while walking in\nthe hall.\nShe's looking rather under the\nweather.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ow... My head...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer. I'm all right. I just have a\nlittle\nheadache.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Why don't you rest for a while?"
+            ]
+        },
+        {
+            "text": "Huh? B-but...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I was thinking a nice run would make me\nfeel\nbetter. I don't wan—",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Owww! Ughhh...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Сайленс Судзука clasps her head in pain.",
+            "name": "Монолог"
+        }
+    ]
+}

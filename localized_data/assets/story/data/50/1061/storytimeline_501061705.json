@@ -1,0 +1,127 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Кинг Хало and I are out together, when...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh? What's that crowd of people up\nto?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Oh, could it be this? The aquarium's\nbillboard\nsays they're going to be\nintroducing a new baby\nseal.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It must be a fairly rare event to have\nattracted so\nmany people.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Want to get in line?"
+            ]
+        },
+        {
+            "text": "Huh?! Oh, no, I don't think so...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "A king doesn't mingle with a crowd!\nOhohoho!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "You don't like crowds?"
+            ]
+        },
+        {
+            "text": "Urk! W-well, of course I don't! It's so\ndifficult to\nmove around, and, you\nknow... um...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "It's so crowded that we won't be able to\nsee\nanything even if we got inside\nanyway!",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "In that case, we can weave our way through the\ncrowd.",
+                "In that case, we just have to push our way\nthrough."
+            ]
+        },
+        {
+            "text": "Weave our way through?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ahh, you mean we need to plot a course\nthrough\nthis sea of people. That's not a\nbad idea.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Well, that and a king never backs down\nfrom a\nchallenge! Let's give it a try!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Huff... huff...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ah! The crowd is trying to carry us away!\nStay on\nyour toes, Trainer!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Ohohoho! We made it all the way\nthrough without\nbeing caught up in the\ncrowd!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "How about that! No one can keep up\nwith my\nspeed!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "...Wait, why did we come to the\naquarium again?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Push our way through?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I suppose I can't run away from all of my\n\nproblems... and I would hate being seen\ndoing so.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I must persevere and open a way forward\nwith my\nmajestic presence, even if I get\ncaught in the\nmiddle of everyone!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Very well, Trainer! Let's part the crowd\nand force\nour way through!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "A-all right... The baby seal is right on\nthe other\nside of that group...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Here I go! Let the grand spectacle of me\nmarching\nbravely forth be forever\nemblazoned in your\nmemory!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Um, excuse me! C-could I possibly slip\nby here?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Nnngh! It's so cramped! I'm being\ncrushed! But I\nwon't give up!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "<i>Pant... pant...</i> I somehow managed... to\nsee the\nseal...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I didn't realize I was willing to work this\nhard just\nto see a baby animal...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало was so focused on getting to\nthe front\nof the crowd that she\ncompletely missed seeing\nthe baby seal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Despite the stress of the crowd, King\nHalo pushes\non and achieves her goal.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the Fan Fest, and Tracen\nAcademy is\nbustling with activity.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Meanwhile, over on the training track...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шип, you've been doing great on\n\"Name\nThat Sound!\" You're down to\nyour final three\nsounds now!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Are you ready? Here comes the next\none!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "I got this! Gimme your best shot!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Plip...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's a cinch! It's a tadpole jumping out\nof the\nwater!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I can't believe it... That's correct!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "You figured that out at warp speed!\nIncredible!\nNow, on to the next sound!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "<i>Trrrum...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Drip...</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Too bad, 'cause I know exactly what that\nis! It's\nmorning dew on grass!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "<i>Unbelievable!</i> Not only was that right,\nyou got it\nin no time! Just how good are\nyou, Golshi?!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Hehe! You're gonna have to try harder\nthan that\nif you want to stump me!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Bold words! Let's move onto the final\nsound!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Answer correctly, and the championship\nbelt is\nyours! Now, ready your ears!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "<i>Tock, tock, tock.</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Strange...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Look at this, folks! Golshi's got her\nbrows\nfurrowed! Has she finally met her\nmatch?!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Nah, it's not that...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's obviously the sound of a woodblock\nfish.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What's bothering me is... its life force.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Its, uh, life force?",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "Yeah. Each sound until this point felt so\nalive.\nThey were filled with vitality.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "...But not that poor fish.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I don't feel a thing from it! It has no life,\nstrength,\nor passion. There's not even\nthe slightest hint that\nit's alive!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's as empty as the dried-out husk of a\ndead tree!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, whoever's working behind the\nscenes! Yeah,\nyou! Are you just going\nthrough the motions back\nthere?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Get with the program, ya slacker! That's\na temple\nwoodblock you're sounding, so\ntreat the fish with\nmore respect and put\nsome life into it!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I bet you didn't know, but if struck with\nenough\nheart and soul, even a wooden\nfish can take to\nthe water and swim!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Um, I thought this was a quiz show...\nWhat\nhappened?",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "Did they just decide to change\ndirections with it\nhalfway? What is it\nnow, a play?",
+            "name": "Spectator B",
+            "choice_data_list": [
+                "(Unfortunately not...)"
+            ]
+        },
+        {
+            "text": "This is no act. Голд Шипп is genuinely\nangry, and\nover the treatment of a\nwoodblock of all things!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm so done with this quiz! Shut the\nwhole thing\ndown! Show's over!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Bring that wooden fish over to me <i>right\nnow!</i> I'll\nshow you what raging passion\nsounds like!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey! You can't go back there!",
+            "name": "Сакура Бакушин-О"
+        },
+        {
+            "text": "RAAAH! Here comes my fishblock\nsolooo!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп holds it proudly and begins\nstriking it\nso fast, her movements are a\nblur...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It plays as lively as a taiko drum\nperformance,\nthanks to her expert\nstrikes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The ripples of energy flowing from the\nwoodblock\nis just like that of a fish\nslipping through the\nwater!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I-is that Голд Шип?!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "I heard she was special, but wow...",
+            "name": "Spectator B"
+        },
+        {
+            "text": "I can't tell if the audience is impressed\nby Gold\nShip's performance or simply\noverwhelmed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Either way, the atmosphere here is\nelectric!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm not done yet! Let's go!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "She sets up a whole call and response\nset with the\naudience while keeping up\nher intense show.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Amazing... Голд Шипп is awesome!",
+            "name": "Наблюдатель A"
+        },
+        {
+            "text": "So this is what it means to steal the\nshow!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Hmmm? That sound... Could it be a\nwooden fish?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's being played with such vigor! I feel\nmy virtue\nrising just by listening to it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Haiya, woiya, hoppity-rag! Whether\ncedar, fir, or\nsequoia, whatever you're\nmade of fits like a\njigsaw!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "...Hm? Is it just me, or are those some\npretty sick\nbeats coming from the\nstands?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Whoooaaa! Just listen to all this! There's\nso much\nexcitement in the air!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All right! You know I've got to join in on\nmy air\nguitar!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Fukukitaru! Tickezo! You two are the\nbest!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Thanks for the great vibes! Come on\ndown and\nrock out with me!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Before long, the sound of the wooden\nfish,\nrhythmic chanting, and improv air\nguitar sound\neffects echo throughout the\ntrack.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And throughout the whole thing, the\naudience\ndoesn't miss a beat playing\ntheir part.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Many people comment on how baffled\nthey are\nby what they're witnessing, but\nthey seem pleased\nby the show all the\nsame.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This event eventually goes down in\nTracen\nAcademy lore as \"The Day the\nWooden Fish\nRocked Out.\"",
+            "name": "Монолог"
+        }
+    ]
+}

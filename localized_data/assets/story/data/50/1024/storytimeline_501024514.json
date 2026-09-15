@@ -1,0 +1,253 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While passing by the cafeteria...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're gonna bake the best desserts\never! ♪\nThank you both so much for\nagreeing to help!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Of course! ♪ I'll try my best to teach you\n\neverything I know!",
+            "name": "Нишино Флауэр"
+        },
+        {
+            "text": "My repertoire is nothing to sneeze at.\nLet's make\nthem big and buono! ♪",
+            "name": "Хиши Акэбоно",
+            "choice_data_list": [
+                "You're baking desserts in the cafeteria?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Yeah, we're gonna bake something for\nyou as\nthanks for all the hard work you\ndo every day!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The chef gave us the okay to use the\ncafeteria\nonce we told her our idea. ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Once you eat my delicious cake, your\nheart's\ngonna—",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Gonna what?"
+            ]
+        },
+        {
+            "text": "N-nothing! You can watch us bake if you\nwant! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Now we mix the granulated sugar in...",
+            "name": "Нишино Флауэр"
+        },
+        {
+            "text": "La la la... ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Although she's still new to baking,\nMayano Top\nGun seems to be having a\nlot of fun.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You've got this, Mayano!",
+                "Maybe I should help too."
+            ]
+        },
+        {
+            "text": "Although she's still new to baking,\nMayano Top\nGun seems to be having a\nlot of fun.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You've got this, Mayano!",
+                "Maybe I should help too."
+            ]
+        },
+        {
+            "text": "I offer a few words of encouragement as\nI watch\nher work.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...But they're covered up by the sound of\nmy\nrumbling stomach.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haha! ♪ Hold on a second. We're almost\ndone.",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Um, we made some meringue cookies in\nour free\ntime earlier. Would you like\none?",
+            "name": "Нишино Флауэр"
+        },
+        {
+            "text": "I gratefully accept one of Нишино Флауэр\nand\nХиши Акэбоно's cookies.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Yum! These are just to my taste!"
+            ]
+        },
+        {
+            "text": "R-really? I'm glad you like it.",
+            "name": "Нишино Флауэр"
+        },
+        {
+            "text": "No way!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "(\"Yum\"? \"Just to my taste\"? ...I want\nTrainer to\nsay that to <i>me!</i> )",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "(Looks like I've got no other choice...)",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Flower! Bono! I'm gonna make the cake\nby myself!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Huh? Are you sure?",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Totally! No one knows what Trainer likes\nmore\nthan I do!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "(If I'm gonna fly higher than the two of\nthem, I\nhave to make something\nincredible!)",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hmm...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган's finished cake has\nan...\nindescribable structure and color.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sure it will be to your taste! I made it\nwith your\nfavorite foods in mind!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And it's full of my love too... You'll eat\nit, right?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I brace myself and take a bite of Mayano\nTop\nGun's cake...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Oh! This is great!"
+            ]
+        },
+        {
+            "text": "Really?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Is it really that good?! Is it actually to\nyour taste?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Yeah! I never doubted you, Mayano!"
+            ]
+        },
+        {
+            "text": "Yaaay! ♪ A successful landing!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I tell them that watching them bake\nmakes me\nwant to give it a go myself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, would you like to join us then? I can\ngive you\na few pointers if you need any!",
+            "name": "Нишино Флауэр"
+        },
+        {
+            "text": "Wait, wait! Trainer, you're supposed to\nbe\nwatching me bake!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "But I want to thank you too, Mayano."
+            ]
+        },
+        {
+            "text": "T-Trainer...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Copy that! ☆ In that case, prepare for\nbakeoff! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The more, the merrier. I'm sure the\nsweets will\ncome out even more buono\nnow. ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "I manage to bake a cake, but it's a bit\nburnt...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! A cake from Trainer! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Munch, munch...</i> Gggh!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "It's kinda b-bitter, but grown-ups like\nbitter\nthings, right? ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "It's just burnt! You don't have to eat it!"
+            ]
+        },
+        {
+            "text": "No way!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I won't let a single crumb of your\nfeelings go to\nwaste! I'm gonna eat it all!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And that's why you're gonna try the cake\nI made.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Say \"aaah\"! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heehee! Can you taste all the gratitude I\nput into\nit?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Definitely!"
+            ]
+        },
+        {
+            "text": "Mission accomplished. ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Th-they're so close... My heart is going\nto beat\nout of my chest if I keep\nwatching!",
+            "name": "Нишино Флауэр"
+        },
+        {
+            "text": "And they both live buono-ly ever\nafter! ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "With the help of her two friends,\nMayano Top\nGun's baking is a total\nsuccess.",
+            "name": "Монолог"
+        },
+        {
+            "text": "My words of praise leave Mayano Top\nGun more\nexcited than I've ever seen\nher. She's still in very\nhigh spirits as we\nfinish our training afterwards.",
+            "name": "Монолог"
+        }
+    ]
+}

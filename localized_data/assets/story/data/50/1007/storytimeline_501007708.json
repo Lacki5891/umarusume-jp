@@ -1,0 +1,53 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "RWAAAAAAAH! PEACE, PEEEACE!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Check it out, Trainer! That was Golshi's\nall-out\ndash! Burn it into your mind!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "That was awesome!",
+                "It was great... but you can aim even higher!"
+            ]
+        },
+        {
+            "text": "Right?! My dazzling display and the\nresulting\nthunderous applause is bound\nto have changed\nthe world's weather!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You don't suppose the northern lights\nmight have\nshifted to Japan as a result,\ndo you?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "We ought to celebrate our new\nJapanese lights\nwith a fancy fish platter!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Aim even higher? You mean... to the\nskies?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That's a great idea! I was just getting\nbored of\nbeing ground-bound!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "For centuries, Umamusume have\ndreamed of\nracing through the skies, but\nwe'll be the ones to\nmake it happen!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "But first, we gotta scope out the turf!\nLet's grab\nsome binoculars and watch\nthe airplanes in their\nnatural habitat!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "And so, Голд Шипп drags me off\nbird-watching...\nOr rather,\nplane-watching.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Голд Шипп grabs a fishing pole and sets\noff to\ncatch some fish. It takes\neverything I have to stop\nher.",
+            "name": "Монолог"
+        }
+    ]
+}

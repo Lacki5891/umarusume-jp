@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hmph.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "text": "Nothin' you need to worry about.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I was just thinking about how I'm going\nto tear\nup this next race.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's all. Simple as that.",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

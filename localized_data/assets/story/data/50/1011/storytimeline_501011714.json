@@ -1,0 +1,87 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер collapses в тренировке.\nI rush her\nto the infirmary.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I apologize for that embarrassing\ndisplay.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Were you not feeling well this morning?"
+            ]
+        },
+        {
+            "text": "...I wasn't. But I thought I could push\nthrough it\nfor a single training session.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I didn't expect this... Training will have\nto be put\non hold for the foreseeable\nfuture, won't it?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Trainer... please see to your work.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'll be here until you're back on your feet.",
+                "Once you're rested, we can get right back to it!"
+            ]
+        },
+        {
+            "text": "You're really not going to leave, are\nyou?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "I'm your trainer, aren't I?"
+            ]
+        },
+        {
+            "text": "Yes... Yes, I suppose you're right.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And, um. ...Sorry about this.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You shouldn't have to see me in such a\nmiserable\nstate.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "All right. Thank you for your concern.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер seemed a little on edge,\nso I give\nher some time alone to\nrecuperate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I don't have time to be just sitting here...\nWhy did\nthis have to happen?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Goodness me. Hehe. Oh, Trainer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Pardon me. We seem to be so in sync\nthat I\ncouldn't help but laugh.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Thank you so much. I'll commit myself to\nrecovery\nand be back to full strength in\nno time. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I spend time in the infirmary with a\ndepressed\nGrass Wonder until she feels\nbetter.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I hear how upset she is, even from the\nother side\nof the infirmary's door.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Грасс Вандер's recovery takes a while.\nBut once\nshe's back on her feet, she\nremains true to her\nword and makes up\nfor lost time.",
+            "name": "Монолог"
+        }
+    ]
+}

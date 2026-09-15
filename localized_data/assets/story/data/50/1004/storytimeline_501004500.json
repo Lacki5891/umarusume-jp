@@ -1,0 +1,93 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hehe! Looking great, Tata! You're so\nshiny\nnow! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски is polishing her car, Tata.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, hello, Trainer. It's a beautiful day,\nisn't it? ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Are you doing some maintenance on Tata?"
+            ]
+        },
+        {
+            "text": "Oh, hello, Trainer. It's a beautiful day,\nisn't it? ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Are you doing some maintenance on Tata?"
+            ]
+        },
+        {
+            "text": "Yeah, I had some free time. But I\nactually just\nfinished. ♪",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You look like you're in a good mood."
+            ]
+        },
+        {
+            "text": "I absi-posolutely am! It's always nice to\nspend\nsome quality time with my\nprecious partner.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If I take care of her, she'll thank me by\nrunning\nperfectly. Isn't that nice?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, but I'm sure I don't have to explain\nit to you,\nTrainer. I bet you already know\nexactly what I\nmean.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, but I'm sure I don't have to explain\nit to you,\nTrainer. I bet you already know\nexactly what I\nmean.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm just like Tata in a way...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I run so well because you take such good\ncare of\nme.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I run so well because you take such good\ncare of\nme.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Your coaching makes me want to give\nmy all.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Your coaching makes me want to give\nmy all.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "There, Tata's all cleaned up. Now it's\n<i>your</i> turn!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "There, Tata's all cleaned up. Now it's\n<i>your</i> turn!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I need your best support so I can do my\nbest\nrunning!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Leave it to me!"
+            ]
+        },
+        {
+            "text": "I believe in you, Trainer!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Марузенски goes to training with even\nmore\ngusto than usual.",
+            "name": "Монолог"
+        }
+    ]
+}

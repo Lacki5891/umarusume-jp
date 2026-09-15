@@ -1,0 +1,133 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During my lunch break, I head to the\nstudent\ncouncil office in search of Air\nGroove.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Please allow us to make an academy\nshrine\nhonoring Shiraoki.\" Rejected.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "\"Quit erasing my magic circles from the\nwall!\"\nComplete and utter idiocy.\nRejected.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "\"Would it be possible to add more\nvarieties of\nprotein powder to the school\nstore?\" Hmm...\nThat's worth considering.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "text": "Oh, hello.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm checking the Suggestion Box.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We have a suggestion box?"
+            ]
+        },
+        {
+            "text": "Not <i>a</i> suggestion box, <i>the</i> Suggestion\nBox. It's an\napp we provide for the\nacademy's students.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It allows them to share their suggestions\non how\nto improve life on campus.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But with so many suggestions, we can't\npossibly\ncover each and every one of\nthem at our student\ncouncil meetings.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's why I vet them beforehand and\ndecide\nwhich are worthy of being\ndiscussed with the\nwhole student\ncouncil.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I don't know if it's just our school, but\nmany of the\nrequests we receive are\nvery... unique.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Yeah, I got that impression..."
+            ]
+        },
+        {
+            "text": "If Эйр Грув has to check through\nwhole piles of\nrequests like the ones I\njust heard, it can't be an\neasy task.",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Please end curfew a little earlier in the\nmornings.\nI want to go out running\nbefore dawn.\"",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Get some sleep, Suzuka. Rejected.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Need a hand?",
+                "I should try to clear up my work too."
+            ]
+        },
+        {
+            "text": "Get some sleep, Suzuka. Rejected.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Need a hand?",
+                "I should try to clear up my work too."
+            ]
+        },
+        {
+            "text": "Looking for something to do?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well. I can handle this task on my\nown, but I\nwould appreciate your help\nwith something else.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That took less time than I thought it\nwould. Phew,\nall done for the day.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Do you still have a moment? If you do,\nlet's head\nto the cafeteria.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Any reason as to why?"
+            ]
+        },
+        {
+            "text": "We've implemented a suggestion from\nHishi\nAkebono. There should be a new\ndessert on the\nmenu.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Even I like to reward myself after a hard\nday's\nwork.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yes, that would be best. I'll be counting\non you\nthis afternoon, so make sure\nyou're prepared.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...Wait. Did you come here to ask me\nsomething\nabout this task of yours?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll lend an ear if you keep it short.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I discuss this afternoon's training with Air\nGroove.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Once we're done, Эйр Грув gets back\nto the\nmountain of paperwork atop her\ndesk.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув starts walking away, so I\nhurry after\nher.",
+            "name": "Монолог"
+        }
+    ]
+}

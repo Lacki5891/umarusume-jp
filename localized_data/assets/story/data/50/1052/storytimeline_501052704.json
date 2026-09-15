@@ -1,0 +1,163 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Like always, Хару Урара asks to stop by\nthe park\nto play on our way home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now every time you and I hang out, I\nfeel like I\n<i>have</i> to go to the park!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I figured enjoying the sunset here would\nmake this\nan extra fun day!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "After saying those words, she looks up\nat the late\nafternoon sky.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, remember when we played here\ntogether?\nThat was so much fun.",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "And the first time we came here, I ended\nup\nfalling asleep",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "But now, I've gotten super strong. I don't\nfeel\nsleepy at all! Heehee!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Ah, Trainer. If you're tired, you can nap\nthough!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "[Pretend to sleep]",
+                "Let's nap together.",
+                "I'm not tired at all."
+            ]
+        },
+        {
+            "text": "Yeah, just take it easy! Heehee! Sweet\ndreams!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I close my eyes for a little, and...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Are you asleep?",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "text": "Heehee! Fast asleep, I see! Perfect!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "There's a thousand carrot cakes... raining\nfrom the\nsky!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Huh?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "She's clearly trying to control my\ndreams, and I\ncan't help but chuckle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What?! You weren't asleep?!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Hey! And here I was gonna give you a\npiggyback\nride home and everything!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Together? That means you, too! Okay!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Are you... asleep?",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "I'm awake."
+            ]
+        },
+        {
+            "text": "...Are you asleep <i>now?</i>",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "Nope."
+            ]
+        },
+        {
+            "text": "How... about... now?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "If you are asleЭпизод.. I'm gonna give you...\na\npiggyback ride...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "<i>...Snore...</i>",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "It seems like she's fallen fast asleep\nherself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>...Snore...</i>",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "You're not tired?! Then count carrots!\nIt'll make\nyou sleepy!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "One carrot, two carrots...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Seven carrots... eight carrots...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "<i>...Groooowl...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oops. Looks like I made myself hungry...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "We decide to head back to the\nacademy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I was actually trying to get you to fall\nasleep so I\ncould give you a piggyback\nride home!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "But I guess I'll have to save that for later!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I chuckle and think back to the time I\nwas the one\ngiving her a piggyback ride.\nTime sure flies, and\nthe greatest\nevidence of that is Хару Урара's\ngrowth.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Even though her stomach rumbles, she\nlooks\ndependable as she promises me a\npiggyback one\nday. As we head back, I\ncan sense how reliable\nshe's become.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her body's gotten heavier than before...\nI guess\nshe's grown a lot since our first\ntrip to this park.",
+            "name": "Монолог"
+        }
+    ]
+}

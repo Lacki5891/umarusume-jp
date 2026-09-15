@@ -1,0 +1,253 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Which shaved ice should I get? ♪ Maybe\npineapple since it's\nsummer? Oh, but kiwi\nsounds good too...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hmmm... They all look delicious! I need to\ntake a closer look at the\nmenu. I'll be right\nback!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Don't take too long!"
+            ]
+        },
+        {
+            "text": "Right now, Смарт Фалкон and I are at the\nacademy's summer camp,\ntaking a quick\nbreak between training sessions.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> What's the point of going\nsomewhere for summer training\ncamp,\nwhen all I see is dirt, dirt, and more dirt!\nGive me a change of\nscenery for once!",
+            "name": "Dirt-Racing Umamusume"
+        },
+        {
+            "text": "Out of the blue, I hear a deep sigh. I look\nback and see a\nfamiliar-looking runner\nkicking at the dirt around her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm baaack! ☆ I think I'm gonna go with the\nHappy Hawaiian Blue\nflavor this time! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "In the middle of my observations, Smart\nFalcon returns from checking\nout the\nmenu, so we head to the cashier to buy\nour shaved ice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Phew!</i> Another great day of training!\nNothing like a frozen treat to get\nyou\nmotivated!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Hm? What's going on over there? Seems\nlike there's a huge crowd\ngathering.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Why don't we go take a look?"
+            ]
+        },
+        {
+            "text": "Смарт Фалкон and I head toward the crowd\nto see what's going on.\nOnce we get\nthere...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What do I do? What do I do?!",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "A group of trainers and their Umamusume\ntrainees surround a lone\ntrainer. The young\nman appears to be panicking, unable to\ndecide\nwhat to do next.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I wonder what happened here...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Her guess is as good as mine, so I decide\nto ask the trainers there to\nshed light on\nthe situation.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "W-we've got an emergency on our hands!\nBreak time's over, and my\ntrainee hasn't\ncome back yet!",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "She isn't responding to our attempts to\ncontact her, even though the\nsun's about\nto set. If she isn't back before dark, she\nmay end up lost.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Oh no! We've got to hurry up and find her!\nC'mon, let's get moving!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Right, we should help look for her."
+            ]
+        },
+        {
+            "text": "Correct. This isn't the time to be\npanicking. Let's split into multiple\nsearch\nparties. Do you know where she might've\ngone?",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Thank you all so much! Uhhh, let's see...",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "After determining the trainee's potential\nlocations, each party goes\ntheir own way\nto search. As we head to our assigned\nspot...",
+            "name": "Монолог"
+        },
+        {
+            "text": "We're at the far end of the beach. It\ndoesn't seem like anybody's\nhere...",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "We can't rule this place out just yet."
+            ]
+        },
+        {
+            "text": "Yeah, maybe she went out for a walk and\nended up going super far.\nSometimes that\nhappens.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Well, now that we're here, we should get\nstarted on our search! I'll\ncheck the areas\nthat are farther out! Y'know, since running\non sand is\nmy thing!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Wait!"
+            ]
+        },
+        {
+            "text": "Eager to look for the lost Umamusume,\nSmart Falcon dashes off into\nthe distance\nbefore I can say anything.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant... pant...</i>",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "(Is she over here? Or is she that way?\nHrk... I ran so fast I forgot to\npay attention\nto where I am...)",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "(But I agreed to help, so I have to do\nwhatever I can! Full speed\nahead—max\npower! ☆ Let's gooo!)",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Huh? Is that... Falco? Why is she running\nhere?",
+            "name": "Dirt-Racing Umamusume"
+        },
+        {
+            "text": "I walk for what feels like an eternity, but\nI'm unable to find Smart\nFalcon or the\nmissing Umamusume.",
+            "name": "Монолог"
+        },
+        {
+            "text": "How's your search going?! I've looked up\nand down the beach, but I\ncouldn't find\nher!",
+            "name": "New Trainer A",
+            "choice_data_list": [
+                "No luck here either."
+            ]
+        },
+        {
+            "text": "I see... Dang it! Where do we even look\nnext?!",
+            "name": "New Trainer A"
+        },
+        {
+            "text": "The clock continues ticking down as our\nsearch hits a wall. We need\nto find her\nbefore sundown, no matter what. Just as\nwe ponder what\nto do next...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm baaaaack!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "text": "I've returned for your heart! ☆ No matter\nhow far away I go, make\nsure to catch\nme! ♪ 'Cause I'm the number one\nUmadol—Smart\nFalcon! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Given that her body's completely covered\nin sand, I assume that\nSmart Falcon has\nbeen running a fair bit. Behind her, I spot\nthe\nmissing trainee.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Falcon!"
+            ]
+        },
+        {
+            "text": "Trainerrr! I thought I told you to call me\nFalco! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "I'm glad you're safe."
+            ]
+        },
+        {
+            "text": "Eheheh... Sorry for making you worry. I was\ntoo caught up in the\nmoment, y'know? I\njust had to go all out!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Apparently the missing trainee had gotten\nlost after wandering a bit\ntoo far. It's\nthanks to Смарт Фалкон that she was able\nto find her way\nback.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aw, I wanted to train some more after\nchanging, but it's already\ndark...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Excuse me, Falco!",
+            "name": "Dirt-Racing Umamusume"
+        },
+        {
+            "text": "Huh? What's up? Wait, it's you!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Yeah, we were on flag duty together,\nremember? We both have an\naptitude for\ndirt racing... To tell you the truth, I was\nnever happy\nabout that... until now.",
+            "name": "Dirt-Racing Umamusume"
+        },
+        {
+            "text": "When I saw you running earlier, you\nlooked so happy! It's like you\nwere\nglowing under the sun! It made me think to\nmyself, \"Hey, dirt\nracing might not be half\nbad!\"",
+            "name": "Dirt-Racing Umamusume"
+        },
+        {
+            "text": "...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "After sharing her words of gratitude with\nSmart Falcon, the thankful\nUmamusume\nheads off with a dash.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Good for you!"
+            ]
+        },
+        {
+            "text": "Her eyes... They were sparkling.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And she was looking straight at me...\nEhehe, I think I might have\nanother fan!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Everyone gave everything for their\nperformances, and it inspired all\nthe\npeople watching!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Isn't that amazing? It makes me want to\nlight up the world for other\npeople too!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I guess it doesn't matter how you do things\nas long as give it your all!\nThis calls for a\ncelebration! To my second fan ever! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Time to show the world my lovely smile! ♪\nI'm Смарт Фалкон, and I'm\nthe cutest\nUmadol around! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Once Смарт Фалкон sets her mind on\nsomething, there's nothing that\ncan stop\nher from racing toward that goal. She's got\ncharisma and\ndetermination in spades. To\nput it simply...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're so cool, Falco!"
+            ]
+        },
+        {
+            "text": "Wait, what?! You're supposed to call me\ncute! I'm going to pretend\nyou never said\nthat. Now one more time from the top!\n\nRemember—cute, not cool!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back from training, Oguri Cap and I \nspot Tamamo Cross consoling a crying child."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Leave this to me! No matter how many doggies \nare missin', I'll find 'em in a flash!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...What's going on?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The child tells Oguri Cap about how Tamamo \nCross has gone in search of his missing dog that \nran off into the forest."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...It's almost dark. And dark forests can be \ndangerous. I'll go and help.",
+            "choice_data_list": [
+                "I'll come with you."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That would be great. Come on, let's hurry."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I found some footprints. Fresh ones. They're \nprobably Tama's, so let's follow them.",
+            "choice_data_list": [
+                "We need to mark where we've been."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There's no need. The trees can guide us back."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap marches on without hesitation. I \nanxiously follow, making sure not to get \nseparated. And then..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Drat... I found the pup, but I got no clue where \nthe heck I am now. At this rate, the search party's \ngonna come lookin' for me too."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And anyone that hears 'em yelling, \"Here, puppy! \nHere, Tama!\" is gonna assume I'm a cat!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "They'll be tellin' me to meow, but I'm an \nUmamusume, not a cat!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sounds like you're having fun."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa! O-Oguri? You two can't just sneak up on \npeople like dat! Say somethin' first!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The dog is sitting by Tamamo Cross's feet. We \nexplain that we heard about the situation and \ncame to help."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "So now we're all lost, huh? That's my bad.",
+            "choice_data_list": [
+                "Actually, Oguri Cap knows the way..."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That don't sound promisin'. Oguri gets lost all the \ntime just around town. Heck, even at the \nacademy!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ah well. I needa figure this out for myself. This \npup's super friendly, but it's not like he can lead \nthe way back."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've got it. This way!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You gotta be kiddin' me! With you leadin' the \nway, we're gonna end up even <i>more</i> lost!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Judging by the trees, the shrubbery, and the way \nthe soil feels underfoot, this is definitely the path \nwe took earlier. Follow me."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's too dark to see our footprints, but... I \nrecognize this tree trunk from earlier. Next, we \nhave to turn this way."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh?! Look at you, bein' all reliable and stuff! \nRight, Trainer?",
+            "choice_data_list": [
+                "She really is!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "R-really? Thank you."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Yeah. It's fine, I can handle this. I'll show you \nthe way."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap seems extremely confident, so we \ndecide to follow her."
+        },
+        {
+            "name": "Monologue",
+            "text": "To my surprise, we find ourselves back at the \nforest entrance."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "We made it! I gotta say, I'm impressed, Oguri!",
+            "choice_data_list": [
+                "Amazing! Thank you so much!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The trees and plants are different shapes... \ndepending on where you are. And the ground \nfeels different too. Far easier to navigate than a \ntown."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You're our hero, Oguri! You're really somethin' \nwhen ya put your mind to it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...It really wasn't anything special."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya don't gotta be so modest! You were a total \nlifesaver! Thanks a bunch!",
+            "choice_data_list": [
+                "Great work, Oguri Cap!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Did I really help everyone out? ...That's a first, I \nthink.",
+            "choice_data_list": [
+                "You always help me out.",
+                "I'll be counting on you from here on out."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Do you really mean that? And here I thought it \nwas me who always needed help..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But that's nice to hear from you. It's good \nknowing that I've returned the favor."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm... I really do wanna give back to everyone \nwho's supported me, so let me know if there's \never anything I can do!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Counting on... me?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Maybe I'm more dependable than I realized... I \nalways thought racing was the only way I could \nmake people happy."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Well, in that case, feel free to ask me for help \nat any time."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You betcha! I look forward to it."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Anyhoo, let's get this pup back home! His house is \nnear the station, so from here..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's this way."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, where d'ya think you're goin'? That's the \nwrong way!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "O-oh. I guess it's this way, then."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's the total opposite direction! How come ya \ncan find your way out of a forest, but can't find \nyour way down the street?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, the dog is safely returned home—with \nTamamo Cross leading the way."
+        }
+    ],
+    "title": "Oguri the Forest Guide?"
+}

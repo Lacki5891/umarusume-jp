@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back from the race...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Oh, I beg your pardon. That was rude of\nme...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Are you tired?"
+            ]
+        },
+        {
+            "text": "I'm fine. This is nothing I can't handle.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It is just one more barrier I must\novercome... if I'm\nto make it to the top.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Despite what she says, Грасс Вандер is\nvisibly\nexhausted. I may have to adjust\nher racing\nschedule for the near future.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the first day of summer camp.\nIt's a\nperiod of intense training where\nracers can\nimprove their skills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "At last, it's time for our\nschool-sanctioned\novernight field trip!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "You'd better stay on your toes, Trainer!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "This is a sleepover, after all...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Blink, and you never know what\npulse-pounding\nmoment you'll miss!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Just what heart-racing surprises await\nus? Squee!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Just thinking about it is getting me so\njazzed I\ncan't sit still!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Several hours later, our bus arrives at the\n\ncampsite.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>...Zzz.</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "After getting way too worked up on the\nride over,\nГолд Шип is practically\nsleepwalking now!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "W-wake up!"
+            ]
+        },
+        {
+            "text": "I've got a bad feeling about this trip, but\nI'll still\ndo my best to make sure\neverything goes well!",
+            "name": "Монолог"
+        }
+    ]
+}

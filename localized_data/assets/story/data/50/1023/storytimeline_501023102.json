@@ -1,0 +1,107 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's New Year's, and we decide to visit a\nshrine to\nmake a wish for success in Biwa\nHayahide's\ncoming senior races.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't believe it's already a new year.\nTime sure\ndoes fly.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "By the way, did you watch the Asahi Hai\nF.S. last\nmonth?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "(The Asahi Hai Futurity Stakes...)"
+            ]
+        },
+        {
+            "text": "Бива Хаяхидэ participated in that G1\nbefore. It's\none of the races that\ndetermines the junior year\nchampion.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I heard Нарита Брайан took first in it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Time really does go by quickly. She's a\nclassic\nracer already.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It might even be as soon as <i>this year</i>...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ takes a deep breath and\nlets it out\nas if she's steeling herself for\nsomething. Then,\nshe turns to me again.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The battle between Brian and me might\nbe as\nsoon as this year.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "We need to start gathering data on\nBrian right\naway. I doubt she'll stop with\nthe Classic Triple\nCrown tour.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "We need to be ready to beat her."
+            ]
+        },
+        {
+            "text": "Exactly.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh, the line's moving. We'd better start\nthinking\nabout what we want to pray for.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What will you ask for this year, Тренер?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "For you to be healthy.",
+                "For us to improve your abilities so you can win.",
+                "For us to polish up your technique."
+            ]
+        },
+        {
+            "text": "You're praying for my sake and not your\nown?\nYou really prioritize us racers over\nyourself too\nmuch.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Why don't we drink some amazake after\nwe're\ndone praying? We can do a little\nNew Year's\ntoast to <i>both</i> our health.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hehe, you're right. That's something we\nneed to\nwork on together.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Let's do some training when we get\nback, so we\ncan make that wish of yours\ncome true.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hm, my technique? I feel like you\nalready help me\nenough with my running\nskills...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "But I love that you never get\ncomplacent. I'll take\na leaf out of your\nbook and pray for the same,\nthen.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And so, Бива Хаяхидэ and I get started\ntraining\nfrom the very first day of the\nnew year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, I enjoy the start of the new year\nwith\nBiwa Hayahide.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so, I spend a nice start to the new\nyear with\nBiwa Hayahide.",
+            "name": "Монолог"
+        }
+    ]
+}

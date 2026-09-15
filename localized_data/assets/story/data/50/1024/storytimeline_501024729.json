@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Aw, so close! You almost had it!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "Naw, it's fine! Don't sweat it!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm super happy that you worked so hard\nfor my\nsake!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "So cheer up, okay?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

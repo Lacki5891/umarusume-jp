@@ -1,0 +1,59 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for my second summer camp\nwith Smart\nFalcon, and...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her motivation levels are through the\nroof!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! Let's get started! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "You're already changed?!"
+            ]
+        },
+        {
+            "text": "Duh! The ocean means the beach, and\nthe beach\nmeans sand!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "And sand means Сайленс Судзука of the\nSand!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Смарт Фалкон's new nickname is\nbecoming\nincreasingly widespread\namong fans, and she\nseems well aware of\nit.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If I'm going to borrow her name, I need\nto get\neven stronger so I can do it\njustice!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Suzuka's strength is what allowed her to\nbecome a\nstar and capture everyone's\nheart.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "So I wanna be super-duper strong, just\nlike my\nnamesake!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "So strong I can... uh, I can... Let's see...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "So strong I can part the seas with a\nsingle step!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "This summer camp, I'm going to become\na force\nof nature!",
+            "name": "Смарт Фалкон"
+        }
+    ]
+}

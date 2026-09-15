@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the first day of summer camp.\nWe'll be\nstarting a more rigorous routine\nto further\nimprove performance.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can hear the sound of waves crashing...\nThe\nocean is so close by.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "To strengthen oneself in the midst of\nnature—it\ntruly evokes the image of\nascetic training. Hehe.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You seem enthusiastic."
+            ]
+        },
+        {
+            "text": "Yes, there is much to prepare for the\nKikuka Sho\nand, before that, the Kobe\nShimbun Hai.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Now, that's enough idle chitchat. Let's\nbegin\ntraining right away!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Мэдзиро МакКуин and I enthusiastically\nbegin our\nsummer camp training.",
+            "name": "Монолог"
+        }
+    ]
+}

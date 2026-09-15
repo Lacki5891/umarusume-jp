@@ -1,0 +1,117 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I arrive at the cafeteria for lunch, I\nsee Air\nGroove speaking with some\nstudents.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I think my hamburger steak came out\npretty good\ntoday. What do you think,\nЭйр Грув?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "You've improved since last time.\nHowever, the\nsauce could do with a\nlittle less salt.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If you're going to flavor the meat itself\nwith\nseasonings, a milder sauce would\ncomplement it\nbetter.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That totally makes sense! Thanks so\nmuch! The\nnext one will blow your socks\noff, promise!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "I don't doubt it—you've made impressive\nprogress\nalready. Keep up the good\nwork.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "The student walks off with a beaming\nsmile.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "text": "I was sampling her cooking. It seems my\nhonest\ncritique is of some use to her.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'm not sure when it started, but students\n\nsometimes bring me their home-made\nlunches to\ntry.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "A number of lunchboxes lie in front of\nAir\nGroove.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're going to try <i>all</i> of those?"
+            ]
+        },
+        {
+            "text": "Hmm... I see what you're getting at.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But I can't turn down their requests. And\nbesides,\nthis isn't an impossible amount\nto eat.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "It looks like way too much to me.",
+                "I guess you don't have to worry about going\nhungry."
+            ]
+        },
+        {
+            "text": "But I can't turn down their requests. And\nbesides,\nthis isn't an impossible amount\nto eat.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "It looks like way too much to me.",
+                "I guess you don't have to worry about going\nhungry."
+            ]
+        },
+        {
+            "text": "Yes, but I can't just return them without\ndoing\nwhat I promised...",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "We can go apologize together."
+            ]
+        },
+        {
+            "text": "This really is none of your concern.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I've made my bed. If I must apologize,\nI'll do it\nmyself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But... you have my thanks, nonetheless.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I don't do this for the free meals. I enjoy\nhelping\nthem.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Whether it's training or cooking, I always\nrespect\nthe desire to improve at\nsomething.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You're a good role model."
+            ]
+        },
+        {
+            "text": "It's only natural, considering I'm older\nthan them.\nNothing worth boasting\nabout.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Now, which do I eat first?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Though Эйр Грув turns away\ndismissively,\nthere's a note of kindness in\nher expression as she\nbegins sampling\nthe lunches.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув goes around the cafeteria\nreturning\neach lunchbox to its owner,\napologizing as she\ndoes so.",
+            "name": "Монолог"
+        }
+    ]
+}

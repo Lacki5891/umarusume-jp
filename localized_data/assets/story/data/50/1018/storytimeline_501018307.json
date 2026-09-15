@@ -1,0 +1,98 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "And Эйр Грув is in the lead! She's\ndone it!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Эйр Грув has made history on the turf\ntoday as\nshe continues her mother's\nlegacy! We have a new\nqueen today!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I... really won?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You were amazing, Эйр Грув! Three\ncheers for\nthe new queen!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "Hip hip hooray! Congrats on following\nyour\nmother's legacy!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "It's real... I'm the new Queen of the\nOaks. Which\nmeans...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just... wow...",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I wish I could be like her... So proud and\nmajestic.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "I go to greet Эйр Грув after her\nincredible\nvictory.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You did it!"
+            ]
+        },
+        {
+            "text": "Yes... I've finally made it.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...I have to admit that even I cannot\ncontain my\nemotions right now.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Today, I was able to see the same view\nmy mother\ndid.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "Congratulations, Эйр Грув."
+            ]
+        },
+        {
+            "text": "...You've done well yourself.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You are aware that this is not the end,\ncorrect? In\nfact, this is only the\nbeginning.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Next is the Shuka Sho. We need to stay\nfocused\nand keep our eyes on the prize.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "You're sounding like a queen already."
+            ]
+        },
+        {
+            "text": "Heh... you're not sounding too bad\nyourself.\nWhen did you get so reliable?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Keep that up from here on out, and\nthere may be\nhope for you yet.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув graces me with a regal smile.",
+            "name": "Монолог"
+        }
+    ]
+}

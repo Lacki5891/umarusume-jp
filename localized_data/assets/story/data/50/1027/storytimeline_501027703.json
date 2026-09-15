@@ -1,0 +1,173 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way back after an outing with\nMejiro\nRyan...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Today was another really fun day!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I guess having a look around somewhere\nyou're\nnot familiar with can be really\nstimulating.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "That was a nice change of pace! The new\n\nsurroundings were stimulating for my\nmuscles too!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "I'm glad you enjoyed it."
+            ]
+        },
+        {
+            "text": "Haha, I used to feel a little awkward\nabout doing\nstuff like that...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "But now, I'm always ready to go out and\nhave\nsome fun!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, that's right! Can we stop by the\nbookstore on\nour way back?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Here we are! I promise I'll be quick!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "What are you getting?"
+            ]
+        },
+        {
+            "text": "A magazine with recommendations for\ndifferent\nhot spots. It should come in\nhandy for future\noutings!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Anyway, I'll be right back!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Which should I get... Maybe one with\nrestaurant\nsuggestions?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oh, hello, Ryan. You're out shopping\ntoo?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Hey, Dober! Just looking for a\nmagazine...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I'm trying to figure out where to go next\nwith my\ntrainer.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "If we're gonna head out somewhere, it\nmight as\nwell be to a cool place, ya\nknow?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Hm... Yes, I suppose you're right.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "But now that I'm looking, there are just\nso many\noptions... I don't know what to\npick.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...Hehehe.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Huh? What's so funny?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You seem to be enjoying yourself quite\na lot.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "What?! You think so? I don't feel any\ndifferent\nthan usual...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It's rare to see you this excited about\nsomething\nthat doesn't involve working\nout.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Wh-what are you talking about? I'm not\nexcited\nor anything!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "H-hey, sorry to keep you waiting,\nTrainer.",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You sound... a little tense."
+            ]
+        },
+        {
+            "text": "What?! No way, not me! I'm the same as\nalways!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Anyway, I found a good magazine, so\nlet's figure\nout where we should go next!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Before we do that, we need to decide when to\ngo.",
+                "I'm sure we'll have just as much fun next time."
+            ]
+        },
+        {
+            "text": "Anyway, I found a good magazine, so\nlet's figure\nout where we should go next!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Before we do that, we need to decide when to\ngo.",
+                "I'm sure we'll have just as much fun next time."
+            ]
+        },
+        {
+            "text": "When?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Ohh, right! We haven't even thought\nabout that!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Geez, I've been getting a little too\nahead of\nmyself. How embarrassing...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "That just means you're looking forward to\nhaving a nice break."
+            ]
+        },
+        {
+            "text": "Aw... When you put it like that, it's even\nmore\nembarrassing...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You know it! It's gonna be so much fun!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I got it! Next time, let's go somewhere\nwe can get\nin some exercise too!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Maybe we could go bouldering or\nsomething. The\nmore swole we can get,\nthe more fun we'll have!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...I mean, I'm not getting overexcited or\nanything!\nI'm the same as usual!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Our relaxed outing turns out better than\n\nexpected, leaving us both fulfilled.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seems to be enjoying our outing\nvery much.",
+            "name": "Монолог"
+        }
+    ]
+}

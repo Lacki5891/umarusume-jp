@@ -1,0 +1,235 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I walk into a local restaurant, I hear\nan\nanimated discussion coming from one\nof the\ntables...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's all right, Tickezo! It was my fault!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Urghh... No... I don't wanna give up!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You don't, like, have to prove yourself\nhere!\nSeriously!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "On their table is something like a huge\nwall... But\non second glance, I realize it's\na giant, half-eaten\nhamburger.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What are you doing?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer... This is... urp!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yikes! I'll explain—close that mouth!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "So this place, they do these food\nchallenges,\nright? I <i>slightly</i> encouraged\nher to try it.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "As a joke though, you know? But\nTickezo doesn't\nreally <i>do</i> jokes, yeah?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Urgh... but... it sounded fun.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah, but like, that's why I suggested it.\nTotally\ndidn't think it'd be this huge!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "She has a point. The size of this burger is\nfar\nbeyond what anyone would expect\nfrom a food\nchallenge.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Just give in. I even said we can eat it\ntogether—",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "I'll never give up!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm only halfway through the race! This is\nwhere a\nlate surger like me shines!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I can't... lose... <i>Gulp...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "This isn't your kind of track! You'd need,\nlike, an\nOguri-tier stomach to finish that\nthing!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "C'mon, you're her trainer! Don't just\nstand\nthere—you gotta tell her too!",
+            "name": "Тосэн Джордан",
+            "choice_data_list": [
+                "Get pumped up and finish it all!",
+                "In times like these, you gotta use force!"
+            ]
+        },
+        {
+            "text": "C'mon, you're her trainer! Don't just\nstand\nthere—you gotta tell her too!",
+            "name": "Тосэн Джордан",
+            "choice_data_list": [
+                "Get pumped up and finish it all!",
+                "In times like these, you gotta use force!"
+            ]
+        },
+        {
+            "text": "YESSS! You're right, Trainer! I gotta get\npumped!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoa, mind blown! Where'd all <i>that</i>\nenergy come\nfrom?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "With my trainer's support, I <i>know</i> I can\nwin this!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Already halfway to the finish! Here I\ngooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yikes! How's she actually speeding up\nthis late in\nthe game?!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "The remaining half of the hamburger\ntower gets\nsmaller and smaller.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's insane... She can do all this just by\ngetting\npumped?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "You know, witnessing this is getting me\nhyped!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Go for it, Tickezo! You got this!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Ticket continues to eat with incredible\n\nmomentum, until...",
+            "name": "Монолог"
+        },
+        {
+            "text": "One... more... bite!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Woooo!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "RAAAAAAH! I win! Victoryyyy!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I did it... I finished it! I won against the\ngiant\nhamburger!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Congrats, Tickezo! I'm super touched\nright now!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Huh? What do you mean?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Smash the burger down first!"
+            ]
+        },
+        {
+            "text": "Oh, I get it! That's, like, such a pro\nmove!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Wh-what?! Why're we squishing the\nburger now?\nWhat's that gonna do?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You know, like you see in movies and\nwhatever.\nSmash it down flat!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "That way it'll get, like, way less bulky!\nIt'll take\nless bites to eat it all up!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Ohhhh, I get it! Trainer, you're a genius!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Okay, I'll smoosh it real good! Here I go!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Jordan, let me climb on your back!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What?!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "This hamburger's too tall! I can't reach\nthe top\nfrom here! So you gotta lift me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Yeah, uh, no. Absolutely no way!",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "After quite a lot of trial and error...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Urgh... M-managed to eat it all... by\nmyself...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wooow, Tickezo, that was wild. I never\nthought\nyou'd actually finish it for reals.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "That sauce was dripping <i>everywhere</i>,\nand the\nbuns were about to pop out.",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "Still... I did it. And you know, I think I\nlearned\nsomething today.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You can overcome anything with power!\nYEAH!\nWOOOOO!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoa, you're a totally changed person\nnow... You\ngood?",
+            "name": "Тосэн Джордан"
+        },
+        {
+            "text": "While crying tears of joy, the two give\neach other\na big hug.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Уиннинг Тикит doesn't seem to hear\nTosen\nJordan as she basks in the joy of\nfinishing her\ngiant burger.",
+            "name": "Монолог"
+        }
+    ]
+}

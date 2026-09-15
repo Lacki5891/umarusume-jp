@@ -1,0 +1,116 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Phew... This is great! If I can keep this\nup—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hayahideee!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You looked <i>amazing</i> in today's race!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I was chasing after you as hard as I\ncould, but I\ncouldn't even get close!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Gosh! You're just way too... good...\n<i>Sniffle...</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ticket...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I might've lost this time, but I'll get you\nnext time!\nWaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hehe. I'll have to try my hardest not to\nlose, then.\nLet's both keep doing our\nbest.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "After the race, I'm in the middle of\npreparing ice\npacks for Бива Хаяхидэ\nwhen I hear her behind\nme.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Well? How did I do today?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You were great!"
+            ]
+        },
+        {
+            "text": "I agree. I feel so much stronger after\nsummer—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "N-nothing. I'm fine. Absolutely\neverything is all\nright.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm just so happy...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Happy?"
+            ]
+        },
+        {
+            "text": "Yes. I wanted to win this race so badly,\nand my\nlegs didn't let me down.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It was nothing like how they failed me\nbefore, just\nwhen I needed to run a little\nfaster...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "That's wonderful."
+            ]
+        },
+        {
+            "text": "Yeah. That's all...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Тренер?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I wonder if I can catch up to her now...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "I'm sure you are."
+            ]
+        },
+        {
+            "text": "Hm... You're right.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's exactly why we've been working\nso hard on\nmy winning equation.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "So I can finally beat Brian.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "There are two more months until the\nArima Kinen.\nOnly a short while remains\nuntil it's time for the\nlong-awaited\nsibling showdown.",
+            "name": "Монолог"
+        }
+    ]
+}

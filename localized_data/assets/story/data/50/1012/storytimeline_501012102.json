@@ -1,0 +1,165 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's New Year's Day, and Хиши Амадзон\nand I are\nout on our first shrine visit of\nthe year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Clap, clap!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "This year will be quite the challenge for\nHishi\nAmazon. I wonder what she prayed\nfor...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew! Finally, we're done! That line was\nway\nlonger than I thought it would be.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What did you pray for?"
+            ]
+        },
+        {
+            "text": "Huh? The same thing as always—good\nhealth for\neveryone important to me!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Oh, I wouldn't have guessed that."
+            ]
+        },
+        {
+            "text": "You seem surprised. Well, I can see why.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I've got some big races coming up this\nyear, and I\ndid think about prayin' for\nsome good luck.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But it's not my style to ask for divine\nfavor. If I'm\ngonna win, it's gonna be with\nthe efforts we put\ntoward victory\ntogether, eh?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Such a confident answer is so true to her\nnature\nthat, without noticing, I break\ninto a smile.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Yeah, that's right."
+            ]
+        },
+        {
+            "text": "So, what should we do after this? We\ncould dive\nstraight into some training.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Her suggestion isn't bad, but since it's\nNew Year's\nand everything, I feel it\nwould be more\nappropriate to celebrate.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "How about we get something to eat?",
+                "Do you want to try practicing some party tricks?",
+                "Let's make some traditional New Year's dishes."
+            ]
+        },
+        {
+            "text": "Hey, that's a great idea! My stomach's\njust startin'\nto get rumbly.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We tour the stalls on the shrine grounds,\nsampling\nwhat they have to offer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mmm, that was great! Grilled squid\ntastes even\nbetter when you eat it\noutside!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hold on, Teach! Your hands are all\nsticky!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Oh!"
+            ]
+        },
+        {
+            "text": "I must have gotten sauce on them while\neating.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gosh, you're hopeless. Here, use this\nwet wipe to\nclean up.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "text": "Oh, that sounds like fun! I know of a\ncool\none—you know the one where you\npull a\ntablecloth off a table?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'm always scared—I mean <i>surprised</i>—by\nFuji's\nmagic tricks, so I wanna do\nsomething cool too!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "It's about time <i>I</i> leave <i>her</i> speechless for\nonce!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Okay, the tablecloth is ready, and so are\nthe\nplates and glasses!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Heh, it looked like a cinch in that video I\n\nwatched. I'm gonna nail this in one go!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Raargh!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Craaaaash!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wha?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, nice idea! It might take a while, but\nit'll be a\ngreat chance to show off my\nskills!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right, let's shop for ingredients!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Now to take the bamboo mat off and...\nNice, the\nsweet rolled omelet came out\njust right!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "How are the kelp rolls doing, Teach?\nWe've been\nsimmering 'em for some\ntime, so the broth should\nhave cooked\noff by now.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Mmm... Now it's really starting to smell\nlike New\nYear's.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We spend the rest of New Year's Day\nstrolling\nabout at our leisure and have a\nnice, relaxing\ntime.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We work together to cook up a delicious\nspread\nfor New Year's.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For the rest of the day, she continues\npracticing\nthe trick until she's satisfied\nwith her progress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This year is going to be a decisive one\nfor us, and\nI want to push through it at\nfull throttle together\nwith Хиши Амадзон.",
+            "name": "Монолог"
+        }
+    ]
+}

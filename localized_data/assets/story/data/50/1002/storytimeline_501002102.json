@@ -1,0 +1,201 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's New Year's. Сайленс Судзука and I are\nmaking\nour first shrine visit of the year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right!",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "What are you going to pray for?"
+            ]
+        },
+        {
+            "text": "Hmm... That I get to run lots and lots this\nyear.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I also want to repay Spe for looking up\nto me.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That's why I'd like to run with confidence\nthis\nyear.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It sounds like her resolutions haven't\nchanged\nmuch from last year, but still, I\ncan tell she's\ngrown a lot since then.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello! Happy New Year, you two!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh, Fukukitaru. Happy New Year.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You've got quite the display there.\nWhat's it for?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Матиканэфукукитару has set up a street\nshop,\ncomplete with traditional hagoita\npaddles and\neverything necessary for\nkids to play fukuwarai.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ha ha ha. In my first dream of the year, I\nbeheld\nthe miraculous secrets of New\nYear's divination!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "So feast your eyes! Here before you, I\nhave\nprepared three means of\ndivination—red bean\nsoup tasting,\nfortune slips, and, last but not least,\n\nfukuwarai!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Red bean soup tasting?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yes! Drink only the broth and the\nleftover beans\nwill shape your fortune!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "As for fukuwarai, simply create a face by\nsetting\nthese facial features on the blank\nhead... while\nblindfolded. The results will\nimpart your fortune!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "And finally, the fortune slip! Pull a slip\nfrom the\nbox and I will divine your\nfortune from the results.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Aren't the fortunes written on the slips?\nWhat's\nthere to left to divine?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Don't you want to start the new year off\nwith\nsome extra good luck? Now's your\nchance,\nSuzuka!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um, which one do you think I should do,\nТренер?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "The red bean soup sounds tasty!",
+                "Leave everything to fate! Draw a fortune slip.",
+                "Make your own destiny! Try fukuwarai."
+            ]
+        },
+        {
+            "text": "The red bean soup? Okay!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. Coincidentally, I'm actually a little\nhungry\nat the moment. Nice choice,\nTrainer.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That was tasty.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Now let's see what the beans have to say\nabout\nyour future!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Woiya, haiya! Beans in the bowl! Show us\nyour\nshape, and may the future be\nknown!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Behold! The shape of a cleat has <i>bean</i>\nrevealed! If\nyou run, good luck will come\nto you!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Oh, that sounds like good news. Thank\nyou,\nFukukitaru.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The fortune slip? Okay.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I suppose I am a little curious to know\nhow she'll\nuse it to read my fortune.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Very well. See the box over there?\nReach inside\nand pull one out, if you\nwould!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hehe. It says, \"great fortune.\"",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Great fortune?! How wonderful! You're\ngoing to\nhave the best year ever!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Ah, so it's exactly what I was expecting.\nHehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Fukuwarai? Okay.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Very well. First... the blindfold!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Um... Is this piece the mouth? No... The\neyes?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Hehe. Oh, Suzuka. Kekekekeke!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Don't laugh like that! You sound so\ndevious!\nHehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "No way! I only got the nose right!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ahahaha! Good heavens! How did you\nthink the\neyebrows were the mouth and\neyes? Oh, Suzuka,\nyou're too much!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Hehe. Well, time to get serious. I have\n\nfortune-telling to do!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Woiya, haiya! Poor misshapen face! Tell\nus what\nSuzuka's future holds!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I have your fortune! And clear as crystal,\nthe\nkeyword—Connection!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Connections will lead you through a\ndifficult\ndecision. Be prepared, for it will\nhappen soon!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "My connections...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems Матиканэфукукитару's fortune\nhas left\nСайленс Судзука in a good mood.\nWe enjoy the rest\nof New Year's relaxing\nand taking it easy.",
+            "name": "Монолог"
+        },
+        {
+            "text": "While she seems skeptical, perhaps\nbecause the\nfortune is surprisingly\nstraightforward, Silence\nSuzuka seems to\ntake it a bit more seriously than I\n\nexpected.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She must be particularly happy about\nthis\nfortune, as the next day she's even\nmore\nmotivated at training.",
+            "name": "Монолог"
+        }
+    ]
+}

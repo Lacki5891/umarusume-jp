@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Sigh...</i> (It's that time of year again.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Taishiiin!",
+            "name": "???"
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You wanna plan out a day to train\ntogether?!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Yeah! Urara's just way too hyper all the\ntime, so\nwe really need someone to keep\nthings chill!\nWhaddya think?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hey, hey! I was in the middle of saying\nhow we\nshould swim to that island over\nthere and have an\nadventure!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Y-you can, um, come too if you want,\nTaishin...\nB-but only if you want!",
+            "name": "Райс Шоуэр"
+        },
+        {
+            "text": "Uh...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Seems like you're in for a fun summer camp!"
+            ]
+        },
+        {
+            "text": "Oh, come <i>on...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Geez.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "My third summer camp with Narita\nTaishin begins\ntoday!"
+        }
+    ]
+}

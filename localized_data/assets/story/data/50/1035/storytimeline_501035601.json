@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Trainer! Get this!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "When I lost my last race, I was sooo\nfrustrated!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But this time I'm <i>definitely</i> gonna get\nfirst! I'll win\nand be sooo happy!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Yeah, you can do it, Уиннинг Тикит!"
+            ]
+        },
+        {
+            "text": "Awww!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Thaaaank youuuu! That encouragement\nis\noverflowing me with POWEEER!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm gonna run all I've got, and more! I'll\nbe\nstronger than ever!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

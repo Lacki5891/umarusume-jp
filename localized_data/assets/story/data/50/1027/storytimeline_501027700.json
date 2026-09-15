@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh no! I'm gonna be late!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Well, this is certainly a rare sight."
+            ]
+        },
+        {
+            "text": "Oh, good morning! You see, the newest\nvolume\ntook a totally unexpected turn—",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I mean, I was reading a book last night...\nand\nsuddenly it was morning... Hehe...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "<i>Yawn...</i>",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Oops... Time to go stretch my facial\nmuscles.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Мэдзиро Райан yawns again as she makes\nher way\nthrough the school gates, her\nexhaustion plain to\nsee.",
+            "name": "Монолог"
+        }
+    ]
+}

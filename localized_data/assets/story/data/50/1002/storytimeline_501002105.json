@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the first day of summer camp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew. It's hot as ever...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Not so good with the heat?"
+            ]
+        },
+        {
+            "text": "No, I'm not. I suppose it serves as a\nchance to\nimprove my stamina, though.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "With a little more, I could push myself\neven\nfurther...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "So don't hold back. Let's get to it!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And thus marks the beginning of my last\nsummer\ncamp with Сайленс Судзука.",
+            "name": "Монолог"
+        }
+    ]
+}

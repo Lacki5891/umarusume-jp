@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh no... I'm sorry I made you waste your\ntime with\nmy request.",
+            "name": "Мэйсё Дото",
+            "choice_data_list": [
+                "I'm sorry I couldn't get it for you."
+            ]
+        },
+        {
+            "text": "No, it's f-fine!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I should really be thinking of ways to be\nconfident\non my own, and I'm sure the\nplushies would hate\nto be separated\nfrom their friends...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "So in a way, this is better. Yes, this is\nhow things\nshould be.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

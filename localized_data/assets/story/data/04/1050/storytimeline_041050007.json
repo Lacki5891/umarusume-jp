@@ -1,0 +1,231 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff, huff...</i> It's friggin' hot...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hraaaaah!",
+            "name": "Spirited Umamusume"
+        },
+        {
+            "text": "Hah! Yah! Hyah! Hiyaaah!",
+            "name": "Fiery Umamusume"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm gonna run one more before I lose\nmomentum.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Don't overdo it!"
+            ]
+        },
+        {
+            "text": "Yeah, yeah. It's just one more.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All the runners are charged up for the\nbiggest part of summer camp.\nEven Taishin\nis getting <i>really</i> into it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's starting to worry me. I wish there was\nsome way to make her\ntake a break and\nease the tension...",
+            "name": "Монолог"
+        },
+        {
+            "text": "YES! We did all the drills! I'm going to get\nready for the festival like\nwe promised!",
+            "name": "Fiery Umamusume"
+        },
+        {
+            "text": "Ah, yeah, the festival. Then let's meet up\nright before the fireworks\nstart at seven.",
+            "name": "Skilled Trainer",
+            "choice_data_list": [
+                "(There's a festival?)"
+            ]
+        },
+        {
+            "text": "I had no idea, though something tells me\nTaishin wouldn't enjoy the\ncrowds.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But still, it feels like a waste to sit it out.\nThink... Something fun, but\nrelaxing...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(That's it! The fireworks!)"
+            ]
+        },
+        {
+            "text": "<i>Glug.</i> Ahhh...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Where'd everybody go? Oh right, there's a\nfestival or something\ntoday.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "No one's here. Perfect. Now I can push it\nto the limit.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Actually, let's try something different."
+            ]
+        },
+        {
+            "text": "Huh? Like what?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Want to head closer to the forest?"
+            ]
+        },
+        {
+            "text": "Hmmm... The forest, huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I mean, sure, I guess. Nobody's there\neither.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "On the way over, the sun sets to reveal a\nstar-filled night...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, puff...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Where the heck are we going? We're\nalready pretty far out.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Here should be fine. Just wait a second."
+            ]
+        },
+        {
+            "text": "Wait for what?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The fireworks begin at seven o'clock.\nWhich means they should start\nin five,\nfour, three, two...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Whistle... Bang!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "How'd you know that would happen? Hey,\ndid you plan this?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Me? No way. What a coincidence, huh?"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> I should've known you were up to\nsomething.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Boom! Bang!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Fireworks light up the sky one after\nanother and fill the night with a\nrainbow of\ncolors.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For a minute, we listen to them crackle\nwith the breeze. Then, Narita\nTaishin softly\nbegins to speak.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I can't stand them. Festivals, I mean.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Crowds of people all jammed together.\nHow could anyone want to be\nin a place\nlike that? Not that I ever tried.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Thought so."
+            ]
+        },
+        {
+            "text": "You know, your know-it-all attitude really\ngets on my nerves.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But the fireworks... They're not bad. And\nno dumb jerks blocking the\nview.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I feel less pressure when nobody's around.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Just as she says, she looks completely\nrelaxed now. Being away from\njudgmental\neyes is important to her...",
+            "name": "Монолог"
+        },
+        {
+            "text": "But I hope she can make one exception to\nthat.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'm here though. Is that okay?"
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Geez, don't be so weird.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You're, you know... different.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You're like one of those fish. Doesn't\nmatter whether you're around or\nnot.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "But how about you, fishies? I wonder if\nthey notice me... Hehe.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whatever, it doesn't matter. They aren't\nreally watching. They're just\naround.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's fine... I like it that way—makes it easier\nfor me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You can hang around if you want.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "So apparently, I'm on the level of a fish.\nBut from her, that's the best\nthing there—",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, quit it. You're staring like an idiot.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Oh, am I? Sorry."
+            ]
+        },
+        {
+            "text": "Darn right, you dummy.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Despite Taishin's rude words, the light\nfrom the bursting fireworks\nilluminates her\ndecidedly gentle smile.",
+            "name": "Монолог"
+        }
+    ]
+}

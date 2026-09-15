@@ -1,0 +1,180 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ooooh. I'm getting nervous...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "text": "I... might not be...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I mean, I'm the one who decided to run\nthis race\nand face Teio head-on...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "It would be so embarrassing if I lose this.\nNot that\nI think worrying about this is\nany less lame.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You can win this, Nature!"
+            ]
+        },
+        {
+            "text": "Oh, come on!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You always say that. Don't you have\nanything\nbetter to say? Something more\ninsightful?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Still... Thanks. I might not believe in\nmyself...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But I'll try to remember that you have\nfaith in me.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Excuse me, do you have a minute?",
+            "name": "Racecourse Employee"
+        },
+        {
+            "text": "Eep!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Um, yes, sure.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "There has been a change in the runner\nlist.",
+            "name": "Racecourse Employee",
+            "choice_data_list": [
+                "What happened?"
+            ]
+        },
+        {
+            "text": "Токай Тэйо withdrew from the race.",
+            "name": "Racecourse Employee"
+        },
+        {
+            "text": "What?! Teio's not running?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Wh-why?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We don't know the details yet, but... it\nseems that\nshe recently injured herself.",
+            "name": "Racecourse Employee"
+        },
+        {
+            "text": "Oh, no...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's all I can say for now! Now, if you'll\nexcuse\nme...",
+            "name": "Racecourse Employee"
+        },
+        {
+            "text": "No way... Teio isn't... competing?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Is she okay? Was it really bad? What\nshould I—",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yikes. I'm getting all jumbled.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Calm down."
+            ]
+        },
+        {
+            "text": "I can't! I was finally ready to face her...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Gosh... What should I do?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Who should I chase after now?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Up until this point, Найс Нэйчер's target\nhas been\nbeating Токай Тэйо. I can\nunderstand her\nconfusion upon hearing\nthe news, but...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Don't chase after anyone!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But... I can't just run... Our plan was to\nfollow\nTeio...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But she's not running."
+            ]
+        },
+        {
+            "text": "I know, I know... But...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "So just focus on winning!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер is too fixated on running\nwith Tokai\nTeio right now.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Having a goal to aim for is key to\ngrowth, but a\nfixation on that goal leads\nto stagnation. To go\nbeyond that, she\nneeds to broaden her sights.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Run your way and make this race your own."
+            ]
+        },
+        {
+            "text": "My own...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Uuurgh...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry, that really got to me for a second.\nSo\nembarrassing.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm honestly still shaken up... but I\npromise I'll run\na solid race...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm done being lame!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Go get 'em!"
+            ]
+        },
+        {
+            "text": "I will!",
+            "name": "Найс Нэйчер"
+        }
+    ]
+}

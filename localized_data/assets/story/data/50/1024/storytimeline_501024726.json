@@ -1,0 +1,51 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while out with Mayano Top\nGun...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoooa! Look over there, Trainer!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "text": "Look at those plushies!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I look in the direction Маяно Топ Ган\nis\npointing and see a claw machine filled\nwith\nUmamusume plushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look at those cuties! They're sooo\nadorable! I\nwant one!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But I've already spent my allowance...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган looks crestfallen, the\nlight\nvanishing from her eyes.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Do you want me to win you one?"
+            ]
+        },
+        {
+            "text": "You'd do that for me?! All right, then I'll\nbe your\nown personal cheer squad!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Go, go! You can do it! Gooooo,\nTrainerrrr! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "There's no way I can fail!",
+            "name": "Монолог"
+        }
+    ]
+}

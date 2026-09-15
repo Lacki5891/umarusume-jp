@@ -1,0 +1,263 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A concert to celebrate the achievements\nof\nUmamusume in the world of racing is\ncoming up\nsoon. I'm heading to the\nstudent council office to\ndrop off a copy\nof a new song that's set to debut,\n\nwhen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "What are we going to sing? Oh golly, I'm\nso\nexcited!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "We're supposed to get the song today...\nAh!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "In your hand... Is that the demo for\n\"Never\nLooking Back\"?!",
+            "name": "Токай Тэйо",
+            "choice_data_list": [
+                "Yeah, I'm supposed to deliver it to the student\ncouncil president."
+            ]
+        },
+        {
+            "text": "Prez is out, but I know all the details. I'll\ntake that\noff your hands!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "The three of us are going to do the\nvocals on the\nnew track! Actually, we\nwere <i>just</i> having a\nmeeting about it!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I can't believe we get to sing! Isn't this\ngreat,\nSuzuka?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh... sure...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You don't seem too thrilled."
+            ]
+        },
+        {
+            "text": "Uh, it's just... Am I really a good choice\nfor a\nvocalist?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "There are tons of better singers out\nthere who'd\nlove to do the concert...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ohhh, so that's why you've been looking\nkinda\ndown.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "But, come on, there's more to being a\nvocalist\nthan just singing nicely.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "There's the style of the song to think\nabout, plus\nteamwork with the other\nvocalists... I think there's\na good reason\nthe three of us got picked.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "She's right! I'm pretty nervous too, but I\nknow I've\njust gotta go for it!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Plus, I get to do it with you two, the first\nfriends I\nmade after coming to Tracen.\nThat makes me so\nhappy!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh, Spe...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Well, you don't have to make your mind\nup right\nnow. Either way, we're gonna\npractice for the\nconcert.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...Yeah, okay.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "All right, let's kick this thing off! It's our\nfirst-ever\nevent as an official trio!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Let's do it! So I was thinking, we should\nhave a\nlittle party together!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hmm, I kinda wanna get some exercise\nthough.\nHow about you, Suzuka?",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "I... really don't know. Um, which do you\nthink is\ngood?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Let's party!",
+                "Exercise makes for good practice."
+            ]
+        },
+        {
+            "text": "A get-together it is! We can munch on\nsome\nsnacks while we chat!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Chatting and snacking? I have a very\nbad feeling\nabout this...",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hehe! I brought cake, pudding, parfaits,\nmeat\nbuns, and hamburgers... What a\nfeast! You two\ndig in, you hear? ♪",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I knew it!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Is all the stuff on that one plate\nsupposed to be\nfor <i>me?</i> That's enough\nfood for a whole day! My\nstomach's\ngonna explode if I eat it all!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "You've gotta try these hamburgers!\nThey're so\njuicy and yummy!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe. They do look quite good. You can\nhave\nmine too if you like.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Really?! Don't mind if I do!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "So <i>that's</i> Suzuka's strategy!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Phew... So much eating, so much\nchatting! I had\n<i>so</i> much fun!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Me too. It's surprising how much we\ndidn't know\nabout each other even\nthough we're roommates.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yeah, for sure. And you really saved me\nfrom a\nfood coma, Suzuka. When I'm\nwith you two,\nanything seems possible!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "The more we learn about each other, the\nbetter\nour concert performance will be!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Oh... Will getting to know one another\nbetter\nhelp us synchronize our voices?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Absolutely! I just know we can find a\nunique\nharmony that's all our own!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "A unique harmony... A song for the three\nof us... Is\nthat why I was chosen?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I can't wait to see how our song turns\nout!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Yeah, me neither.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Don't forget, we'll be singing other\nsongs too!\nBetter get to rehearsing while\nwe can!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Let's do some light practice focusing on\nthe\noffbeat today. You <i>know</i> rhythm's\nvital for both\nsinging and dancing!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Okay, so the main beat is BA ba, BA ba\nand the\noffbeat is ba BAP, ba BAP... Like\nthat?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "You got it. Let's keep it simple and just\njump in\ntime with the offbeat! Aaand...\ngo!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Am I doing it right?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Perfect! Just like that, Spe!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Uh, umm... BA bap, BA bap...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh, Suzuka, you switched to the main\nbeat. If you\nget confused, just count\n\"one and two and three\nand four,\" and\njump on every \"and\"!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hop on the \"and\" part... Okay, got it.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "One! Hop! Two! Hop! Three! Hop! Four!\nHop!\n...Like that?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Y-yeah. You're doing... perfect.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Hehe! Suzuka, the way you say hop like\nyou're a\nli'l bunny is so gosh-darn cute!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...Wait. Did I say that out loud?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Ahaha! You didn't notice? You were\ncounting\n\"One! Hop! Two! Hop!\"",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "...I'm so embarrassed.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Oh, don't worry! It wasn't weird or\nanything! I\nthink that's a great way to\ncount!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Yeah, let's teach everyone to do it like\nthat\nduring the full rehearsal!",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "Really? Well... I'm glad I could help.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "...I suppose even when I fumble, I can\nstill help\neveryone with the routine.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Y'know, I've always been a natural at\nthis, so I'm\nnot exactly sure how to teach\npeople who are\nstruggling.",
+            "name": "Токай Тэйо"
+        },
+        {
+            "text": "So there are some things you don't\nknow. I\nwonder... Maybe that's why they\nput me on vocals\ntoo.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Our version of \"Never Looking Back\"... I\nreally\ncan't wait to hear it.",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

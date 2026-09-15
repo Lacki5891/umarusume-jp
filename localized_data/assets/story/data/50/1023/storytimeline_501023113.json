@@ -1,0 +1,292 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Come on, let's go! One, two! One, two!",
+            "name": "Group of Umamusume"
+        },
+        {
+            "text": "The runners' chants are drowned out by\nthe sound\nof their footsteps. Each of\nthem is working hard\nevery single day in\npursuit of their dreams."
+        },
+        {
+            "text": "We've set our sights on the Asahi Hai\nF.S. as our\nnext goal, but, being a G1\nrace, it's tough to\neven qualify."
+        },
+        {
+            "text": "However, given Бива Хаяхидэ's\npotential, we're\nnot worried."
+        },
+        {
+            "text": "As long as she keeps gaining experience\nand\nimproving..."
+        },
+        {
+            "text": "...",
+            "choice_data_list": [
+                "(There are so many people!)"
+            ]
+        },
+        {
+            "text": "Oh, you're here too.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Hayahide!"
+            ]
+        },
+        {
+            "text": "I guess I'm not one to speak. I'm here to\nwatch her\ntoo. It's impossible not to get\ndrawn in by her\nrunning.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...She's always been fascinating to watch,\nsince\nages back.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I turn to see where she's looking."
+        },
+        {
+            "text": "Raaah! I'm gonna beat you today, for\nsure!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, be quiet.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Standing on the track is Хиши Амадзон,\nthe\nhot-blooded leader of Miho\nDormitory. She's still\nawaiting her debut."
+        },
+        {
+            "text": "And next to her is Бива Хаяхидэ's\nyounger sister,\nthe Umamusume who's\ncaptured everyone's\nattention—Narita\nBrian."
+        },
+        {
+            "text": "Hehe. C'mon, you can afford to loosen\nup a bit.\nHow far are we racin', anyway?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "1,600 meters.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "A mile, huh? That's unexpected. Any\nreason for\npicking that particular\ndistance?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Because I wanna run the whole thing full\ntilt. I\ncrave that speed—I need to go all\nout!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Planning to leave me in the dust right\nfrom the\nget-go, huh? Hah! Bring it! This\nis gonna be one\nhelluva race!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Are you both ready? On your marks! Get\nset...",
+            "name": "Umamusume Referee"
+        },
+        {
+            "text": "It's an amazing race."
+        },
+        {
+            "text": "They compete against each other with\nan almost\nferal ferocity. Everyone's eyes\nare glued to the\nintense action."
+        },
+        {
+            "text": "Come on, Hishiama! You can do it, Brian!",
+            "name": "Spectators"
+        },
+        {
+            "text": "But then, in the final stretch of the\nrace..."
+        },
+        {
+            "text": "Hmph!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "<i>Gasp!</i>",
+            "name": "Spectators"
+        },
+        {
+            "text": "<i>Whoooosh!</i>"
+        },
+        {
+            "text": "Нарита Брайан unleashes a terrifying burst\nof speed\nthat slices through the noise of\nthe crowd, leaving\nthe spectators silent."
+        },
+        {
+            "text": "An unsettling feeling washes over me as\nI wonder\nwhat would happen if Narita\nBrian and Biwa\nHayahide were to\ncompete..."
+        },
+        {
+            "text": "Even if Hayahide chased after her at full\nspeed,\nwould she ever be able to catch\nup?"
+        },
+        {
+            "text": "Тренер? Are you all right?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Y-yeah. I'm fine."
+            ]
+        },
+        {
+            "text": "Hehe, if you say so. But that was quite\nthe intense\nlook you had on.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It was the same face I made long ago...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I know how you feel. Here, let me make\nuse of\nwhat I experienced before and\nput your feelings\ninto words.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Нарита Брайан is an Umamusume worthy of\none day\nbeing called the <i>best.</i>",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Only fools would try to compete with\nher in light\nof her extraordinary talent.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I was that foolish once as a child. One\nmoment I\nwas running free, the next, I'd\nbeen overtaken. I\nwas scared of losing,\nso I panicked...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "text": "I tried to catch up with her... and that's\nwhen I got\nhurt.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Lying in that hospital bed, I had nothing\nbut time\nto think. And that's when—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "That's when you started working nonstop on\nyour winning equation, right?"
+            ]
+        },
+        {
+            "text": "Hehe, that's right. And now I work on it\nwith a\nstrange trainer who took more\ninterest in <i>my</i>\npotential than my sister's.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "We might actually be the biggest fools\nin the\nwhole world.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "HAYAHIDEEE!",
+            "name": "???"
+        },
+        {
+            "text": "Uh-oh. I think this is as far as our talk is\ngoing to\nget.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hello, Ticket. And you, too, Taishin.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "<i>Sigh...</i> Sometimes I wish this wild child\ncame with\nan off switch.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин is Бива Хаяхидэ's friend\nwho just\ndebuted this year. Her slight\nframe belies her\nability to run at\nunimaginable speed."
+        },
+        {
+            "text": "You seriously need to learn to read the\nroom.\nCouldn't you see they were\ntalking?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, I mean, I saw <i>Hayahide,</i> so of\ncourse I had\nto come and say hi!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Уиннинг Тикит is an energetic\nUmamusume and\none of Бива Хаяхидэ's\nclassmates. I've heard the\nthree of them\nare close friends."
+        },
+        {
+            "text": "Plus, there's something I absolutely <i>have</i>\nto say! I\ndon't know if you realized, but\nall three of us...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Have made our debut! Congratulations\nt-to <i>sob...</i>\neveryooone! Waaaah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Okay, but why are you crying?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ugh, never mind—hurry it up. Don't you\nhave\nsomething else to say?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Oh my gosh, that's right! Sorry! Okay,\nsince we're\nall here, why don't we go on\na run?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "We can do 2,400 meters, just like that\none time!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "What time are you talking about?"
+            ]
+        },
+        {
+            "text": "A time from ages ago. When we first\nstarted here,\nwe had to measure our\ntimes for class, and Ticket\nhad the idea\nto run 2,400 meters for it.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah! Because the Derby is 2,400\nmeters long!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "(She must be talking about the Japanese\nDerby...)"
+            ]
+        },
+        {
+            "text": "Umamusume can only take part in this\nprestigious\nrace once in their lives. It's\nan honor every racer\naspires to."
+        },
+        {
+            "text": "Normally, new students only run 1,000\nmeters,\nbut... we all just went for it.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Who is \"we all\"?"
+            ]
+        },
+        {
+            "text": "Who do you think?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The three of us! And after that, we\nstarted doing\neverything together.\nHehe, those were great\ntimes.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "That's right! So Let's recreate it—just like\nthis!\nRAAAGGGHHH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Hey, wait up! Where are you going,\ndummy?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Aaand they're off. Mind if I join them?",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Go. And don't you dare lose!"
+            ]
+        },
+        {
+            "text": "You know I won't!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She runs off in pursuit of Уиннинг Тикит\nand\nНарита Таисин."
+        },
+        {
+            "text": "I wonder how much longer times like\nthese will\nlast..."
+        },
+        {
+            "text": "The next day, I hear a rumor."
+        },
+        {
+            "text": "Apparently, Нарита Таисин and Winning\nTicket\nwill be entering the Hopeful\nStakes, a junior G1\nrace."
+        },
+        {
+            "text": "It's not the same as the Asahi Hai F.S.\nthat Biwa\nHayahide will be entering, but\nit's still a G1... And\nit's the highest junior\nlevel race."
+        },
+        {
+            "text": "It would appear that Нарита Брайан isn't\nthe only\nfierce rival out there."
+        }
+    ]
+}

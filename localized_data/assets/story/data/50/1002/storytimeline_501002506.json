@@ -1,0 +1,137 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Сайленс Судзука has asked me to assist\nher with her\ndance lesson.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Um, Тренер? Could you cheer for me?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Cheer?"
+            ]
+        },
+        {
+            "text": "It's just... I'm still not used to dancing in\nfront of\ncrowds.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm okay during races because I'm so\nfocused on\nrunning, but...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Concerts are a different story. That's\nwhy I want\nyou to cheer me on as loud as\nyou can.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I do as she asks, cheering her on as she\ndances.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you very much for coming today.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Suzukaaa!"
+            ]
+        },
+        {
+            "text": "I hope that you enjoy the concert just as\nmuch as\nthe race.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "First place! Congraaats!"
+            ]
+        },
+        {
+            "text": "W-with that said...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You were amazing!"
+            ]
+        },
+        {
+            "text": "...I'm sorry, Trainer.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I just can't concentrate. What should I\ndo?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "That's why we're rehearsing!",
+                "Try responding to the cheers."
+            ]
+        },
+        {
+            "text": "I just can't concentrate. What should I\ndo?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "That's why we're rehearsing!",
+                "Try responding to the cheers."
+            ]
+        },
+        {
+            "text": "You're right... There will be even more\npeople at\na real performance.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm sorry for stopping so suddenly. Let's\ntry again.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Errr... Where was I? Oh, right... So,\nplease enjoy\nthe first song—",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Look over here!"
+            ]
+        },
+        {
+            "text": "Hm? Over where?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I suggest she try responding to the\ncrowd in\nmoments when she can't keep\nfocus.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I see. I'll try it.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Suzukaaa!"
+            ]
+        },
+        {
+            "text": "Yes. That's me.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "First place! Congraaats!"
+            ]
+        },
+        {
+            "text": "Thank you very much.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I hope you all enjoy the concert.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Phew... How was that?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Don't forget the actual performance."
+            ]
+        },
+        {
+            "text": "Oh, right...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "With a bit of struggle, Сайленс Судзука\nmanages to\ncomplete her performance\neven with my cheers\nringing in her ears. I\nthink she's ready for the real\nthing.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Сайленс Судзука manages to complete\nboth her\nsong and dance. I can't wait for\nher next winning\nconcert.",
+            "name": "Монолог"
+        }
+    ]
+}

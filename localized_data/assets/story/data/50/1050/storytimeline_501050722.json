@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I happen to spot Нарита Таисин and am\nabout to\ncall out to her when she stops\nme with a deadly\nglare."
+        },
+        {
+            "text": "Halt! Don't you dare come any closer!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What'd I do?!"
+            ]
+        },
+        {
+            "text": "I can't deal with noisy dimwits like you\nor Ticket\nright now.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "My head'll split apart if you screech at\nme like\nyou always do!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "One step closer... and I'll seriously punt\nyou into\nspace.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Should we cancel training today, then?"
+            ]
+        },
+        {
+            "text": "As if! I'll be fine once I rest for a bi—",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Urgh!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I really think you should rest."
+            ]
+        },
+        {
+            "text": "Ugh, fine! I'll go to the infirmary! You\nhappy\nnow?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She looks at me with the desperation of\na\nwounded beast as she stalks off."
+        }
+    ]
+}

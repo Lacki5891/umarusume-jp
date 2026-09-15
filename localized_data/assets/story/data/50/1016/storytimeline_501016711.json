@@ -1,0 +1,59 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...It's like I'm engulfed in shadow.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What's going on? What's with my\nrunning?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Damn!",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "First of all, you need to recharge.",
+                "Regret serves as a springboard."
+            ]
+        },
+        {
+            "text": "...Tch! You're not wrong.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "There's no point in carelessly\noverexerting myself.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Sorry. I wasn't at my best there.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "It's okay."
+            ]
+        },
+        {
+            "text": "Oh... You're actually calm.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I've felt regret plenty of times up till\nnow.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "That's why I'm here. For times like this."
+            ]
+        },
+        {
+            "text": "...I suppose. You <i>are</i> here.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Okay then, race strategist. Tell me our\nnext\nmove.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Let's get back to it tomorrow. I'm\ncounting on\nyou.",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

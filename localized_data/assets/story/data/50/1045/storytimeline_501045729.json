@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh dear... You were so close.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "I'm sorry..."
+            ]
+        },
+        {
+            "text": "There, there. It's okay! Don't let it get to\nyou.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Everyone has their off days.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

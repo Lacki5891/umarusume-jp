@@ -1,0 +1,52 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today's race, the Kikuka Sho, is the\nlongest of\nthe Classics.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Long races are Голд Шип's forte, so I'd\nreally like\nto see her win this, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yaaawn...</i>",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "This is some darn good tea... And the\nautumn\nleaves are looking lovely...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The way she's kicking back, you'd think\nshe's here\nfor a leisurely vacation.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "This is no time to relax! The race is about to\nstart!"
+            ]
+        },
+        {
+            "text": "Oh yeah, the race.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's fine. The best way to win a race is to\ngo in\nloose and relaxed.",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I'll be there just as soon as I finish my\ntea, don't\nyou worry. Oh, and by the\nway...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Can you pass me those rice crackers?",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Relaxing might just be her way of\ngetting ready\nfor the race, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Honestly, she's really stressing me out!",
+            "name": "Монолог"
+        }
+    ]
+}

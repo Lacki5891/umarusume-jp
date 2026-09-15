@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I happen across Эйсин Флэш, but she\nlooks upset\nfor some reason.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Hey, what's wrong?"
+            ]
+        },
+        {
+            "text": "Oh, it's nothing important.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I was looking for a particular ingredient\nso I could\nmake a dish I often ate back\nhome, but...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Did they not have it in stock?"
+            ]
+        },
+        {
+            "text": "No, they did. Except...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Caviar is very expensive in Japan... It is\nfar\nbeyond what I could afford on my\nbudget.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "She's not wrong about the price, and I\n\nunfortunately can't offer to buy it for\nher. Eishin\nFlash trudges away\ndesolately.",
+            "name": "Монолог"
+        }
+    ]
+}

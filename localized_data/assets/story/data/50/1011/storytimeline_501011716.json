@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Грасс Вандер has invited me to help\nwith a\nharvest.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... That should do it, I think. Just\nlook at this\nbounty of vegetables.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "What made you want to help out with farming?"
+            ]
+        },
+        {
+            "text": "The vegetarian diets of Buddhist monks\ncaught\nmy attention recently. My own\ndiet lacks\nconsistency, and I seem to\nhave put on a little\nweight because of it.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I figured I should increase my intake of\nfresh fruits\nand vegetables, and so I got\npermission to help\nwith the harvests.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "A change in diet clears the mind... It's\nwonderful\nwhat opportunities Japan has\nto offer. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe. I can't wait to cook with these\ntonight.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер comes up to me a few\ndays later\nand happily tells me how her\nnew diet has been\nworking wonders.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "In front of a restaurant, a flag\nadvertising a\nspecial fair flutters in the\nwind.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer... am I dreaming? What do you\nsee written\non that flag?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "\"Unlimited Mont Blanc buffet! Eat till you drop!\""
+            ]
+        },
+        {
+            "text": "Is this not a dream?! Who did this?! Who\nthought\nup this sinful fair?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ahh, I can smell the chestnut cream from\nhere...\nAnd it's 3 p.m., the time of day\nwhen a young\nlady's heart may waver...",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "There is no possible way for me to fight\nthis\ntemptation.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "This is a rare opportunity, so why fight it? I'll\njoin you."
+            ]
+        },
+        {
+            "text": "...Thank goodness. If you had told me to\ngo\nalone, well... I have little confidence I\nwould have\nbeen capable of\nself-restraint.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Now, what do you think I should do? I\nsee an\nincline of temptation rising\nbefore me, like the\nslope of Nakayama.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Shall I run up it at full speed?",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Why not take a measured approach?",
+                "You should stuff yourself silly!"
+            ]
+        },
+        {
+            "text": "Ahem... Y-you are right, of course...\nMont Blanc is\na dessert to be consumed\nwith elegance and\ndignity.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I shall eat in moderation. That's what I\nhad in\nmind to start with, for what it's\nworth. It is what's\nproper.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "...You're very cruel, Trainer.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Did you say something?"
+            ]
+        },
+        {
+            "text": "No... Well, shall we?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Phew, that went well. My sweet tooth\nwas sated\nafter the first plate. I managed\nto control myself.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "We'd best not approach this restaurant\nfor a\nwhile. Better safe than sorry, right?",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Are <i>those</i> your instructions?! I can't\ndecide\nwhether to shake your hand or\nslap you in the\nface.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Very well, I shall brace myself. Let's\nbegin our\njourney, to reach the other\nside of this slope.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "<i>Hic...</i> What a magnificent, yet\nregrettable\nexperience. On the one hand\nI'm satisfied, on the\nother, I'm plagued\nwith guilt.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Was that a creak just now?! Trainer,\nplease tell\nme that came from your\nmouth.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "I might've said something..."
+            ]
+        },
+        {
+            "text": "Y-yes, surely that's the case. No matter\nhow much\nI may have eaten, it couldn't\nbe so much that the\nasphalt would creak\nbeneath me.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I shall burn off what I ate through\ntraining. Now\nto throw myself\nwholeheartedly into it!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Although we overindulge, Mejiro\nMcQueen's\npotential seems to grow in\nproportion to the\nnumber of calories she\nconsumes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Мэдзиро МакКуин stops herself from\neating too\nmuch. Not overloading on\nsugar seems to have\nhelped her keep a\nclear head.",
+            "name": "Монолог"
+        }
+    ]
+}

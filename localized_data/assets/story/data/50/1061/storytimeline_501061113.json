@@ -1,0 +1,318 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Before training one day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's decided, Trainer.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "What's decided?"
+            ]
+        },
+        {
+            "text": "Heh... If you don't know, then I'll have\nyou\nexperience it firsthand.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Follow me!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "A busy scene stands before me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Come on, girls!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Okaaay!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "Hehehe! Remember now, just like we\npracticed!\nWhat's my naaame?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King!",
+            "name": "Кинг Хало's Followers"
+        },
+        {
+            "text": "She's the smartest of them all, and?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "The most noble and wise Umamusume!",
+            "name": "Cat-eyed Umamusume"
+        },
+        {
+            "text": "So naturally...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "She's first-rate and admired by\neveryone! ♪",
+            "name": "Bob-cut Umamusume"
+        },
+        {
+            "text": "That's right! And who stands on top of\nthe world?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Кинг Хало!",
+            "name": "Кинг Хало and Entourage"
+        },
+        {
+            "text": "Ohohoho! Marvelous! Perfect! Everyone\ndid\nsuperb!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hm? What's wrong, Тренер? If you want\nto\napplaud, you can go on ahead.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "...Is this what you decided?"
+            ]
+        },
+        {
+            "text": "Hehe, are you surprised? This is my new\n\ncall-and-response routine for greeting\nthe media!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "After I make my debut, the interviews\nwill start\npouring in. The dorm common\nroom will be\nadorned with my televised\nimage daily! ♪",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That's why you need to remember the\nchant too!\nWhen I ask \"What's my\nname?\" you answer with\n\"King!\"",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Got it? Good!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And so, I'm forced to practice her call\nand\nresponse for a while.",
+            "name": "Монолог"
+        },
+        {
+            "text": "By the time we finally start real training,\nI'm\nalready exhausted, both mentally\nand physically.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And yet, despite her bossing me around\nall day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's running around, full of energy,\nready to give\nout even more orders.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Come on, Trainer. One more lap!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Her relentless determination is truly\nadmirable.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm looking forward to when she shows\nthat\ntenacity to rest of the world during\nher race\ndebut.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hello. You're Кинг Хало's trainer, right?",
+            "name": "Intelligent Репортёр",
+            "choice_data_list": [
+                "That's right."
+            ]
+        },
+        {
+            "text": "Great! Can I ask what led you to team\nup with a\nracer from such a famous\nfamily?",
+            "name": "Intelligent Репортёр"
+        },
+        {
+            "text": "Hey, it's not your turn to ask questions!\nTrainer!\nDo you think she inherited her\nmother's talent?",
+            "name": "Sharp-Eared Репортёр"
+        },
+        {
+            "text": "Is it true that she ran away from home to\nattend\nTracen Academy? Or was she\ngiven special\ntreatment and enrolled\nhere?",
+            "name": "Overenthusiastic Репортёр",
+            "choice_data_list": [
+                "C-calm down, everyone."
+            ]
+        },
+        {
+            "text": "I swear! What do you all think you're\ndoing?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You should all be looking this way!\nYou're missing\nout on my run!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why do you think I took the trouble to\ninform\nyou of my training schedule?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now, pay attention! I'm going to do one\nmore lap\nfor you, so get your cameras\nready!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Sorry, but interview time is over.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Huh, Эйр Грув? Why are you here?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "(It's Эйр Грув—vice president of the\nstudent\ncouncil. I heard she jumped into\nthe world of\nracing under the influence\nof her mother.)",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm here to provide some words of\nwisdom to both\nyou and the reporters.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Take heed—Кинг Хало has just stepped\ninto her\nrole as a racer. With her debut\nright around the\ncorner, this is a pivotal\ntime for her.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "She runs the risk of overstraining herself,\nonset by\nsudden interviews like this. It\nmay not be your\nintention, but I won't\nhave you risking her career\nbefore it\neven begins.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...!",
+            "name": "Reporters"
+        },
+        {
+            "text": "I apologize for the inconvenience, but\nplease,\nyou'll have to leave.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well, that was uncalled for.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "King, why would you think that was a\ngood idea?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Because no one out there understands\nwho I am!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm just my mother's daughter to them!\nThat's all\nthey ever talk about!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Your mother? I see...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You should have come to terms with this\n\nbeforehand, especially considering just\nwho your\nmother is.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Your mother stopped racing after\nnumerous G1\nwins. She still has a strong\npresence in the world\nof Umamusume\nthrough her work as a first-rate\nracewear\ndesigner.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Surely, you must understand that it's\nonly natural\nthe world take an interest in\nyou as her daughter?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I understand it all too well and I hate it.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "That's precisely why I organized this\ninterview!\nEveryone's treating me like I'm\nnothing more than\nmy mother's\ndaughter!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I am my own Umamusume, and my debut\nhas\nnothing to do with my mother!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "They should recognize me as the\ntalented\nnewcomer Кинг Хало!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Let's say you were to tell that to press.\nThen\nwhat?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Well...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I understand how you feel, but your\nimage should\nnot be your first priority.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It would be a different story if you were\nto say\nthat your primary goal for running\nis to gain\nrecognition.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If that is the case, then it would serve\nyou well to\nreconsider what you ought to\nbe doing.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I'm not giving in to her. I've already\nthought this\nover countless times.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I will not be simply filed away as my\nmother's\ndaughter. I am Кинг Хало, a\nfirst-rate\nUmamusume.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "King..."
+            ]
+        },
+        {
+            "text": "I'll say it again, Trainer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You and I have an obligation to show\nthe world\nmy true talent.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "No matter what anyone says, I must\nmake the\nwhole world acknowledge\nme—but especially <i>her.</i>",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "Her?"
+            ]
+        },
+        {
+            "text": "Since long before I came here, she's\ninsisted that I\nhave no talent.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "\"Her\" being my mother.",
+            "name": "Кинг Хало",
+            "choice_data_list": [
+                "(King's mother...)"
+            ]
+        },
+        {
+            "text": "Barely perceptible, a cold light glints in\nher eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her expression fails to hide the deep\nfrustration\nwithin her. It's clear the\ndiscord with her mother\nweighs heavily\non her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It would be a different story if you were\nto say\nthat your primary goal for running\nis to gain\nrecognition.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "And just like her eyes, Эйр Грув's\nwords pull at\nmy heart.",
+            "name": "Монолог"
+        }
+    ]
+}

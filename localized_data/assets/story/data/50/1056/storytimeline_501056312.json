@@ -1,0 +1,62 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I did it! I achieved my goal and earned\nmy star!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Trainer, let's bring this star to\nGoryokaku as an\noffering!",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Why would we do that?"
+            ]
+        },
+        {
+            "text": "Why? Because stars go together, that's\nwhy!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Plus... I think it'll be fun to go\nsightseeing around\nthe fort... Together, I\nmean...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Well, let's go then!"
+            ]
+        },
+        {
+            "text": "You really mean it? Okay!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "After we finish exploring Goryokaku...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer, I have an idea for our next race.\nI'd like\nto run in the Arima Kinen.",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It was only the compassion from my\ndevoted fans\nthat got me a spot in the\nTakarazuka Kinen...",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But this time, I want to actually earn all\nthose\nvotes!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Let's take all these wishes we've\ngathered and\nbring them to Nakayama\nat the end of the year.",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Okay, Arima it is then."
+            ]
+        },
+        {
+            "text": "Do you mean it? Thank you so much!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "It's time for the final climactic battle of\nthe senior\nyear. With a star as great as\nGoryokaku, we can't\nlose!",
+            "name": "Матиканэфукукитару"
+        }
+    ]
+}

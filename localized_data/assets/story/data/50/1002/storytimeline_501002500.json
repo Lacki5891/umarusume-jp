@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today I'm conducting time trials with\nSilence\nSuzuka to measure her progress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm ready.",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "I'm looking forward to seeing how you've\nimproved."
+            ]
+        },
+        {
+            "text": "Me too!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "<i>Huff... Huff...</i> How was my... time?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You've gotten even faster!"
+            ]
+        },
+        {
+            "text": "Hehe. I'm glad.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "My legs were tingling with each stride,\nand I just\ncouldn't stop them.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "And what used to be distant scenery\nseemed so\nclear. It felt amazing.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It seems my training with Сайленс Судзука\nis\nshowing good results.",
+            "name": "Монолог"
+        }
+    ]
+}

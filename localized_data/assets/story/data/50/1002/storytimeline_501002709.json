@@ -1,0 +1,41 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I was so close...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "We'll take the lead next time!",
+                "Let's head back and get right back into training!"
+            ]
+        },
+        {
+            "text": "I was so close...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "We'll take the lead next time!",
+                "Let's head back and get right back into training!"
+            ]
+        },
+        {
+            "text": "Yeah. I don't like being boxed up like I\nwas in\nthat race...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Yes. I'm not satisfied yet.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Please, make me run more and more...\nuntil no\none can ever overtake me.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Next time, I'll be running in the lead, no\ndoubt.",
+            "name": "Сайленс Судзука"
+        }
+    ]
+}

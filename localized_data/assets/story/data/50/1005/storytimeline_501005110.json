@@ -1,0 +1,174 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Фудзи Кисэки has managed to leave quite a\nmark on\nthe Twinkle Series.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Together, we've successfully navigated\nthe crucial\nfirst three years of her career.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I mull over my complicated feelings as I\nwalk to\nmy office one rest day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Welcome back, Trainer!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm surprised to see Фудзи Кисэки since we\ndon't\nhave a meeting scheduled for\ntoday. I wonder if\nshe needs something.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "text": "I was just practicing some magic tricks!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I like practicing here because it calms\nme, and I\nfeel like I won't mess up.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm not sure why, but maybe it's because\nmy body\nremembers what it feels like to\ntrain in here.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "(Is that how she feels?)"
+            ]
+        },
+        {
+            "text": "When I think about how Фудзи Кисэки has\nfound a\nsafe space in this room, a faint\nsense of happiness\nbubbles up in me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Anyway, since you're back, I should\nwrap up my\npractice session!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Now that you're here, it's show time!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She bows her head formally.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Welcome to Фудзи Кисэки's magic show! Let\nyourself\nbe guided to a world of magic\nand wonder!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "As you see, there are no tricks up my\nsleeve, and\nthis is no more than a simple\ncoin!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She shows me the coin and passes it\nexpertly\nbetween her hands.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, I'll make it disappear into thin air!\nDon't\nblink or you'll miss it! Three, two,\none!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Ping!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "She flicks the coin in the air, and I watch\nit whirl\nwith intense force until,\nsuddenly, it disappears!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "text": "...Yesss!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "Thank you very much! I hope you\nenjoyed that!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Now, for my next trick...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She takes out a deck of cards for her\nnext act,\nbut I'm still caught up on her\nlittle exclamation of\ntriumph.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For the three years I've known her, Fuji\nKiseki has\nalways played the role of \"Fuji\nKiseki.\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's extremely rare for her mask to slip\nand her\ntrue feelings to peek out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now, please select one card from...\nТренер?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, dear... Did you hear that earlier?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I sure did."
+            ]
+        },
+        {
+            "text": "That trick is really difficult. I don't often\npull it\noff.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I thought that if I practiced as if I was in\nfront of a\nreal audience, I might get the\nhang of it.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "And just as I thought, it worked just the\nway it's\nsupposed to. But I got a little\ntoo excited.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She watches me with furrowed brows and\nmixed\nfeelings plain on her face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do you think you could keep that a\nsecret?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "It appears she really didn't mean to let\nout that\ntriumphant whisper, and the\nlittle mistake has her\nflustered.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(She must've let her guard down.)"
+            ]
+        },
+        {
+            "text": "If I wasn't her trainer, I doubt she\nwould've come\nto my office to practice\nher tricks.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Not once did I ever doubt Фудзи Кисэки\nwas\nanything less than a perfect\nentertainer. And\nwhen I think of that...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'm so glad I'm your trainer."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Um... I'm honored to hear that, but talk\nabout\nsudden...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She seems embarrassed. She shifts, and a\nsingle\ncoin slips from her sleeve.",
+            "name": "Монолог"
+        }
+    ]
+}

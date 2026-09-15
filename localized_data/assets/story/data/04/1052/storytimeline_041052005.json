@@ -1,0 +1,141 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Spirits are high at Академия Тайсен's\npublic scrimmage. Among them,\none\nstudent in particular is receiving a lot of\nattention.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... puff...</i>",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Хару Урара still trails behind the others,\nbut one look at her face and\nyou know\nshe's not giving up! Look at her go!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "It's not... over yet!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "That's it, Urara! Go!",
+            "name": "Farmer"
+        },
+        {
+            "text": "She's picking up speed, but it's no good!\nThe other Umamusume are\nstill out of her\nreach! Will Хару Урара give up hope?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Urgh... Never! Just... you... watch!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Finiiish!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Хару Урара's growing popularity has\nnothing to do with her speed, or\neven her\nform...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Good job, Urara! You sure put up a fight\non the final stretch!",
+            "name": "Neighbor Lady"
+        },
+        {
+            "text": "Ehehe, thanks! I might've lost, but I'll take\nhome the gold next time\nfor sure!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "What garners people's attention is her\nunwavering resolve. No matter\nhow bitter\nthe loss, she still marches on with a smile\non her face.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So? How'd I do? What was my time?",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "A little slower than your best, I'm afraid..."
+            ]
+        },
+        {
+            "text": "Seriously?! I coulda sworn I beat it! Oh\nwell, guess I'll have to work\neven harder at\npractice tomorrow!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Excuse me, could I have a moment of your\ntime?",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Suddenly, a woman holding a camera\napproaches us. She hands me a\nbusiness\ncard.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? \"Umamusume Monthly\"? You write\nfor this magazine?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "That I do! And I've also been a fan of yours\nsince the tryouts!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Really?! Ehehe, thanks for the support!\nHm? Do you take pictures for\nthe\nmagazine too?",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Yes! I got some really nice shots of you\nrunning today!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Whoooa! Can I see?! What do I look like\nwhen I'm running?! Show me!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Hehe, all right, all right. I'll pick out a few\nespecially nice shots and\nsend them your\nway.",
+            "name": "Репортёр"
+        },
+        {
+            "text": "True to her word, we receive photographs\nfrom the reporter several\ndays later.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! I look so cute in these! Ah, but look\nat how flared my nostrils\nare in this one!\nAw geez...",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "She also wrote you a message of support."
+            ]
+        },
+        {
+            "text": "Whoa... She's saying such nice things\nabout me! Ehehe... Ah, she even\nmentions\nyou!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "\"Ever since you started working with your\ntrainer, your smile's gotten\neven brighter.\"",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "\"That must be one heck of a trainer.\" Did\nyou hear that?! She really\nlikes you!",
+            "name": "Хару Урара",
+            "choice_data_list": [
+                "I'm glad."
+            ]
+        },
+        {
+            "text": "Same here!",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "I'm not the only one people cheer for. If I\ndo well, people will cheer\nfor you too...",
+            "name": "Хару Урара"
+        },
+        {
+            "text": "Hehe... Guess I have another reason to\nwork hard!",
+            "name": "Хару Урара"
+        }
+    ]
+}

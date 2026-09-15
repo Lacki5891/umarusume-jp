@@ -1,0 +1,140 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I... couldn't win the Derby! But with this\nresult...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "text": "Голд Сити was pretty great! She's got\npotential,\nbut above all, she looks\ngorgeous out there!",
+            "name": "Fan A"
+        },
+        {
+            "text": "I know—it's really exciting to watch her\nrun! I\nhope she does well in the Kikuka\nSho!",
+            "name": "Fan B"
+        },
+        {
+            "text": "I can't believe a model can run like that!\nYou're so\ncool, City!",
+            "name": "Spectators"
+        },
+        {
+            "text": "Ugh! I've come this far, and they still see\nme as a\nmodel...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But she's an awesome runner, too!",
+            "name": "Fan A"
+        },
+        {
+            "text": "So that's how it is?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Not that my running is great, but that it's\ngreat\n\"too.\"",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I didn't accomplish anything. I'm still just\na doll to\nthem!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You ran great out there!"
+            ]
+        },
+        {
+            "text": "So? What a waste of energy.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Why would you say that?"
+            ]
+        },
+        {
+            "text": "Because they're all like, \"She's not <i>just</i>\ngood\nlooking,\" or, \"She runs well, <i>for a\nmodel.</i>\"",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "No matter what they say, they always\nhave to\nmention my appearance.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's no different than before.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I just want everyone to look at me and\nsee <i>me.</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But hey, if this is what I get even when I\ndo great\nin the Derby, then maybe... you\nknow...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "This is all there is.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "There's still the Kikuka Sho!"
+            ]
+        },
+        {
+            "text": "What?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You can still become the strongest of all racers."
+            ]
+        },
+        {
+            "text": "The Kikuka Sho...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "They say the Kikuka Sho goes to the\nrunner with\nthe greatest strength. If she\nshows up big there,\nshe may be able to\nrewrite her reputation.",
+            "choice_data_list": [
+                "I don't want things to stay like this either."
+            ]
+        },
+        {
+            "text": "Uh...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I want people to recognize your strength!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Yeah, I just... lost confidence, I guess.\nBut don't\nworry, I'm not giving up\nhalfway.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I can't let you be more excited about my\nown\ncareer than I am.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "We'll use this summer to make you stronger\nthan ever!"
+            ]
+        },
+        {
+            "text": "...I'll hold you to that.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Okay then, I'll make a promise too, to\nmatch your\nenthusiasm.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm going to get stronger and win the\nKikuka Sho.\nI'll sear the real me into\neveryone's minds!",
+            "name": "Голд Сити"
+        }
+    ]
+}

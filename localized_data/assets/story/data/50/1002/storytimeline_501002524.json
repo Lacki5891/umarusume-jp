@@ -1,0 +1,79 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, during a meeting...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Something catch your eye?"
+            ]
+        },
+        {
+            "text": "No, it's just...There are so few clouds in\nthe sky\ntoday.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It looks so pretty.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um, could we continue our meeting\ntonight?",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Without giving me a second to respond,\nSilence\nSuzuka rushes out the door.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Trainer, listen!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I was looking up at the sky while I was\nrunning,\nand when the sun started going\ndown...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "The whole sky turned a deep red. Then,\nall of a\nsudden, I could see the stars and\nthe moon...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It was so wonderful. Hehehe.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm back. <i>Sigh...</i>",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "text": "No, it's just...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It got cloudy as soon as I started\nrunning. I\ncouldn't see the sun at all.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It was so much prettier when I stepped\nout. If only\nI had left earlier...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "It's clear Сайленс Судзука's feeling down,\nso I\ndecide to postpone the remainder of\nour meeting\nuntil tomorrow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We pick up our meeting where we left\noff, though\nСайленс Судзука seems to be\nin a much better\nmood.",
+            "name": "Монолог"
+        }
+    ]
+}

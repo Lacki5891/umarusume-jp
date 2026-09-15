@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Argh! What an unexpected twist of\nfate...",
+            "name": "Матиканэфукукитару",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "text": "Oh, it wasn't your fault, Trainer! Don't\nworry\nabout it!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "But still, how could this have\nhappened?!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "I must seek the truth from Shiraoki!\nWoiya, haiya!",
+            "name": "Матиканэфукукитару"
+        },
+        {
+            "text": "Well, that was disappointing.",
+            "name": "Монолог"
+        }
+    ]
+}

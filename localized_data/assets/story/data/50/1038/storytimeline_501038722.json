@@ -1,0 +1,58 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, before training...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Big Bro? Will you stroke my head\nfor me?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "Hey, Big Sis? Will you stroke my head\nfor me?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "text": "C'mon! Do it already!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "She nags me until I agree to stroke her\nhead.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Like this?"
+            ]
+        },
+        {
+            "text": "Yeah... Just a little more.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "My mom always did this for me to make\nmy\nheadaches go away.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "So please... just a little more.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "So please... just a little more.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It seems Каррен Тян is struggling with a\n\nmigraine.",
+            "name": "Монолог"
+        }
+    ]
+}

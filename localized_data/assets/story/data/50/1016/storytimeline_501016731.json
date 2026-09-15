@@ -1,0 +1,27 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...Hmph. It was definitely more complex\nthan I\nthought it'd be.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But, as for the plushie... I haven't\ntouched one in\na long time...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "This one does seem like the one I used\nto have... I\nthink I even gave it a name...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "What was its name?"
+            ]
+        },
+        {
+            "text": "...Like I'd tell you, idiot.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That went pretty well!"
+        }
+    ]
+}

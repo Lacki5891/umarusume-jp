@@ -1,0 +1,103 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "And here's Эйр Грув, in an\nawe-inspiring burst\nof speed! I can't\nbelieve it! She's overtaken\nSilence\nSuzuka!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "<i>Wooooo!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Эйр Грув!",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Woo! Эйр Грув, you're the bomb!\n\nCongratulations!",
+            "name": "Male Fan"
+        },
+        {
+            "text": "Oh my goodness! Эйр Грув, that was\n\nmind-blowing! Thank you so much!",
+            "name": "Female Fan"
+        },
+        {
+            "text": "Em-press! Em-press! Em-press! Em-press!\n\nEm-press! Em-press!",
+            "name": "Fans"
+        },
+        {
+            "text": "...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Yes. I...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "(I believe that was a worthy challenge.)",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "You were astounding. ...You completely\n\noutclassed me this time.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Thank you, Suzuka.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "It's because you paved the way ahead of\nme...\nBecause you were stronger than\nanyone else...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "That's why I could challenge you with\nevery last\nounce of energy I had.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I'll never forget this race for as long as I\nlive.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Me neither.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'll never forget the sight of you dashing\nahead of\nme.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Let's race again someday. We'll have a\nrematch\neven more exciting than this\none.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув comes back amidst\ndeafening cheers\nresounding all around.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Эйр Грув!"
+            ]
+        },
+        {
+            "text": "I won. I did it this time.",
+            "name": "Эйр Грув",
+            "choice_data_list": [
+                "I knew you would!"
+            ]
+        },
+        {
+            "text": "That's right.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "You've always believed in me, Trainer.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Thank you.",
+            "name": "Эйр Грув"
+        }
+    ]
+}

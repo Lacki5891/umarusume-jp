@@ -1,0 +1,60 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Hmph. My results were sufficient.\nHowever...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hey, who's next for the interview?\nWhere's the\nschedule?",
+            "name": "Busy Репортёр"
+        },
+        {
+            "text": "If I remember correctly, the runner\nexpected to\nbe Umamusume of the year\nis at another venue...",
+            "name": "Busy Assistant"
+        },
+        {
+            "text": "That senior?! Then let's hurry up and get\noutta\nhere! Grab all the equipment,\nquick!",
+            "name": "Busy Репортёр"
+        },
+        {
+            "text": "This was just a junior race. Everyone\nconsiders this\nto be an early stage.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "What's important is how we act from\nhere on, and\nhow we distinguish\nourselves in future races.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "We're heading in the right direction,\nTrainer. As a\nfirst-rate Umamusume, I\nwon't stray from the path\nahead.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Let's keep our sights on the Triple\nCrown tour.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Racers only get one chance to\nparticipate in the\nTriple Crown tour, a\nseries comprised of the\nSatsuki Sho, the\nJapanese Derby, and the Kikuka\nSho.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It goes without saying, but many\nUmamusume\ndream of achieving victory\nthere, so the\ncompetition will surely be\nfierce.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "If you're prepared, then let's do it."
+            ]
+        },
+        {
+            "text": "...Hmph. A foolish statement.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I've been prepared for it long before I\never came\nto this academy.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "And with that, it's decided. Our next\nobjective\nwill be the first race of the\nTriple Crown tour: the\nSatsuki Sho.",
+            "name": "Монолог"
+        }
+    ]
+}

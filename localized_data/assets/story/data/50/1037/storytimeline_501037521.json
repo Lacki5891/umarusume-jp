@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Good morning, Train—",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Ngh! Ahem...",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "...Wh-what was that?"
+            ]
+        },
+        {
+            "text": "That was close. I very nearly yawned in\nyour\npresence...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "I beg your pardon. Lately, I have been\nfinding it\ndifficult to fall asleep at night.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "My brain starts churning out multiple\nvariations of\ndifferent schedules the\nmoment I lay down.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Once presented with these options, I\nstart\npondering which version is the most\nefficient,\nand... Urgh... Here I go,\nthinking about them\nagain...",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "It seems Эйсин Флэш hasn't been getting\nmuch\nrest recently...",
+            "name": "Монолог"
+        }
+    ]
+}

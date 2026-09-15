@@ -1,0 +1,341 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Бива Хаяхидэ has completed the initial\nand most\ncrucial three years of her\ncareer, and the Arima\nKinen is over as\nwell.",
+            "name": "Монолог"
+        },
+        {
+            "text": "As the older of the two powerhouse\nsisters,\nthere's a lot she still has to do.\nFor starters...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! Help!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "text": "I-I just... It's my phone, I—",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Did you break it?"
+            ]
+        },
+        {
+            "text": "No! Brian sent a message!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "She asked me to \"hang out\" this\nweekend!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Oh, I see."
+            ]
+        },
+        {
+            "text": "H-how can you be so nonchalant?! This\nis an\nemergency!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Нарита Брайан went out of her way to\ninvite me out!\nAnd she specifically said\nthis weekend!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's almost like we're normal sisters...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Well... I mean, you two <i>are</i> sisters, so..."
+            ]
+        },
+        {
+            "text": "I know! But...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's been ages since she reached out to\ninvite me\nanywhere.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And since she wants to meet during our\ntime off,\nthere's a high probability she\nneeds a favor or has\nsomething serious\nto talk about.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What should I do if she needs advice?\nI'm not\neven sure how to answer her as\nher older sister.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I just hope I won't disappoint her.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You're in your head too much again."
+            ]
+        },
+        {
+            "text": "Ack!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Don't worry. Sisterly advice will come naturally."
+            ]
+        },
+        {
+            "text": "Hm...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "The next day...",
+            "name": "Монолог"
+        },
+        {
+            "text": "(I hope I'm not forgetting anything.\nOkay, I have\nmy handkerchief and some\ntissues... and some\nbandages for her.)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "(I'm ready!)",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Big Sis.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hi, Bri—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You're wearing a tracksuit?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I just got done training. Let's go.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Huh? W-wait!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm, those were some pretty good races.\n\nEspecially that girl in the ninth one.\nShe's got\npotential.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Sis? What's wrong?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Why...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hey, you still alive?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Why haven't you asked me for any\nadvice yet?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "What are you talking about?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Y-you're the one who invited me out to\nspend\ntime with you!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Yeah, and?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Don't you have some burning problem\nyou need\nme to solve? Do you need\nadvice on your stride\nor your next race?\nOr something?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Nope.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Nope?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Nothing.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh... Well... O-okay...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What, did you want me to have some\nkind of\nproblem?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No! I just... feel like I've been tricked in\nsome way.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I thought for sure you had something to\ndiscuss or\nthat you had a favor to ask\nme...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Huh. Okay.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "In that case... I guess...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Trainer! As I said in my message earlier, I\nneed to\nuse your kitchen.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Yeah, but why?"
+            ]
+        },
+        {
+            "text": "So I can fulfill my sister's request. The\ndorm\nkitchen is currently closed for\nrepairs, so I can't\nuse it right now.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I just need to whip up some curry and I'll\nbe out of\nyour hair. I promise I'll clean\nup after myself, so\nplease let me use it!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "Okay, but just the kitchen."
+            ]
+        },
+        {
+            "text": "Thank you! I'll only be four or five hours!",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "<i>How long?!</i>"
+            ]
+        },
+        {
+            "text": "Бива Хаяхидэ bounces over to my\nkitchen with a\nspring in her stЭпизод",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sorry about my pushy sister.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Did you want curry that bad?"
+            ]
+        },
+        {
+            "text": "...No.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "She was desperate for me to ask her a\nfavor. This\nis all I could come up with.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I would've been fine just spending the\nday talking\ntogether, but whatever.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hey, Brian! I put in four onions, as usual!\nI'll be\nsure to stew them until they\ndissolve, okay?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "'Kay.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "So, why did you want to see her on a weekend?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I didn't want to bother her on a weekday\nsince\nit'd cut into her training sessions\nwith you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And I want her to keep getting better so\nI can\nrace her at her best.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Thanks for letting me use your kitchen.\nThe curry\nis all ready!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Well, I guess we'll be goi—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Why don't we just eat here?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What? Are you feeling okay? You've\nalways been\nso shy around people you\ndon't know well.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm not a kid anymore. Besides, it's your\ntrainer.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And I want to ask about some\nthings—like what\nyou've been up to for\nthe past three years.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "My sister said you're a very reliable\ntrainer. I'd\nlike to hear how she stacks\nup, for future\nreference.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Uh... What?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Heh. We might be seeing a lot of each\nother for a\nlong while yet, so let's try to\nget along.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Uh... Okay?"
+            ]
+        },
+        {
+            "text": "W-wait a minute! What, exactly, are we\ntalking\nabout here?!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "And what are you agreeing so easily with\nBrian\nfor, Тренер?! <i>I'm</i> the one you'll be\nseeing a lot of!",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Бива Хаяхидэ is completely flustered\nby the\nsurprising turn of events, while\nНарита Брайан seems\nto be enjoying the\nconsternation she's caused.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Their relationship might not be typical,\nbut\nthey're still definitely sisters.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And the curry tastes even better in good\n\ncompany.",
+            "name": "Монолог"
+        }
+    ]
+}

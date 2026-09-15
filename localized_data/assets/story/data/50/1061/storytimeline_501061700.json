@@ -1,0 +1,25 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Кинг Хало calls me over the morning\nafter we\nreturn from a break.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Yawn...</i> Good morning, Trainer.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Could you fetch my bag from the\nentryway?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "You also have my permission to carry it\nall the\nway to the classroom for me.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "I still feel very sleepy... which is why you\nshould\nmake yourself as useful as\npossible at times like\nthis.",
+            "name": "Кинг Хало"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for training, but I don't see a\ntrace of Fuji\nKiseki—that is, until she\nnearly runs into me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ack! Sorry, didn't mean to scare you! I'm\nkind of\nin a hurry!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "What for?"
+            ]
+        },
+        {
+            "text": "One of my residents has a fever, and I've\nbeen\nlooking after her!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I need to get this medicine to her ASAP!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "At least you're not playing hooky for fun..."
+            ]
+        },
+        {
+            "text": "Huh? Wait...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We have training today! I completely\nforgot!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm sorry. I've been so preoccupied with\ntaking\ncare of my resident that it slipped\nmy mind...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I have to be better than this. I'll be more\ncareful\nnext time, promise!",
+            "name": "Фудзи Кисэки"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I spot Нарита Брайан at the academy after\na break.",
+            "choice_data_list": [
+                "How was your break?"
+            ]
+        },
+        {
+            "text": "...I went out to the sticks for a student\ncouncil\ninspection.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But the president can't pass up a good\ntime. She's\ngot to sample the local\ncuisine, visit the hot\nsprings, yada yada...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "An \"inspection,\" she called it... Can you\nbelieve\nthat?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It seems like Нарита Брайан had a nice,\nrelaxing\ntime with her friends."
+        }
+    ]
+}

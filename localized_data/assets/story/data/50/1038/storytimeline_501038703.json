@@ -1,0 +1,277 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Каррен Тян asks to stop by\nthe school\nstore on our way home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow! Look at this pile of cardboard! It\ngoes all\nthe way over to—",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wait, isn't that...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I reached out to some people I know,\nbut with\nthis much...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Sigh...</i> Sorry to drag you into this, Fuji...",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "I assure you, it's no trouble. I just wish I\ncould be\nmore of help...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hmmm... I seeeee...",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "What do you see?"
+            ]
+        },
+        {
+            "text": "Ehe. A chance to be a good friend. ☆",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Sorry to butt in, but you guys look like\nyou're\nhaving some trouble...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh, it's you two...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, Fuji, are these friends of yours?\nYou're so\npopular—no wonder you're a\ndorm leader.",
+            "name": "School Store Lady",
+            "choice_data_list": [
+                "What's the problem?"
+            ]
+        },
+        {
+            "text": "Haha... Well, I accidentally ordered the\nwrong\namount of instant ramen.",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "I wanted to order a hundred packets...\nbut I\nended up getting a hundred dozen.",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "Even if we return them, it's not like\nthey'll be\npicked up right away. But\nthere's nowhere to\nstore them all, either.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Oh, true. This many boxes would take up\nthe\nentire shop.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "But... as long as you sell all of them,\nthere's no\nproblem, right?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Do you think posting something on Umastagram\nwould help?",
+                "I'll figure something out!"
+            ]
+        },
+        {
+            "text": "But... as long as you sell all of them,\nthere's no\nproblem, right?",
+            "name": "Каррен Тян",
+            "choice_data_list": [
+                "Do you think posting something on Umastagram\nwould help?",
+                "I'll figure something out!"
+            ]
+        },
+        {
+            "text": "Yeah! We've gotta help each other in\ntimes of\nneed! Plus...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "If we do that, we'll all come out on the\nother side\nas even better friends. ☆",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I don't think we need any decorations or\n\nanything. Let's just make a pyramid out\nof the\nramen cups.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Maybe I should upload the pic to\nUmatter too.",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Yep! That's it! And for hashtags...",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Here we go! \"#BondingAtTracen #Help\n\n#InstantRamenFestival.\" Come and get\n'em\nhere! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "<i>Chatter, chatter... Murmur, murmur...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Murmur, murmur... Chatter, chatter...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is amazing, Curren! We might\nactually be\nable to sell it all!",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "Ehehe. ♪ Was I helpful?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "You've gone above and beyond! You're\nawesome,\nCurren!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "<i>Clap, clap, clap...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "So this is what it means to harness the\npower of\nsocial media. I'd only heard\nabout it in passing...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President?! What're you doing here?",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I heard that a lone Umamusume was a\ngreat help\nto the school store, so I came\nto see for myself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oh my! Even the president's here! Here,\ntake the\nlast packet!",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "Curren, you really do have a wonderful\ngift!",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "Ehehe. You think? I'm so happy to hear\nthat!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wow, Big Bro! You're so reliable!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wow, Big Sis! You're so reliable!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "I reach out to the other trainers, and a\nnumber of\nthem tell me that they're\ninterested in buying\nsome instant ramen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Those trainers then reach out to others,\nand...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wow, wow! A ton of people are coming?\nYou're\nthe best, Big Bro!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Wow, wow! A ton of people are coming?\nYou're\nthe best, Big Sis!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Yes, thank you so much. I'm so glad I\nasked you\nfor help.",
+            "name": "School Store Lady",
+            "choice_data_list": [
+                "We should discuss how to handle all of the\nsales."
+            ]
+        },
+        {
+            "text": "You're right. If trainers are buying them,\nit'll be\nafter their work finishes.",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "In that case, I'll put in a request to stay\nopen late\nand call in some help with the\nregi—",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "Um... I wanna help too!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "What? But don't you have a curfew?\nBesides, you\nathletes have to get your\nrest.",
+            "name": "School Store Lady"
+        },
+        {
+            "text": "It's fine. If my trainer's working hard,\nthen I should\ntoo! Please!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "It's fine. If my trainer's working hard,\nthen I should\ntoo! Please!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh my...",
+            "name": "School Store Lady",
+            "choice_data_list": [
+                "Just until curfew."
+            ]
+        },
+        {
+            "text": "Okaaay! ♪ Got it! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "And so, both Каррен Тян and I end up\nselling\nramen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Here you are. Thank you for coming! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Here you are. Thank you for coming! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Oh, thank you! You have such a cute\nsmile!",
+            "name": "New Trainer"
+        },
+        {
+            "text": "Excuse me! I'd like to check out!",
+            "name": "Public Relations Staff"
+        },
+        {
+            "text": "Ah, if it's all right, could you ring me up\nafter\nthem?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "President?!",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "Haha. My cleat specialist told me about\nthis. Can\nI get three packe—actually,\nwhy don't we make it\nfour?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Coming right up! ♪ Adults sure have a\nbunch of\nconnections! ♪",
+            "name": "Каррен Тян"
+        },
+        {
+            "text": "We end up selling all of the instant\nramen. A few\ndays later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"Curren is such a delight! I'd love it if she\ncould\npartner run with my trainee\nsometime!\"",
+            "name": "New Trainer"
+        },
+        {
+            "text": "I receive messages praising Curren from\nmy fellow\ntrainers one after another.\nWas this a part of her\nplan all along?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Using her online influence, Каррен Тян\nhas\nsingle-handedly taken care of the\ntrouble at the\nschool store... and\napparently gained more\nfollowers while\nshe was at it.",
+            "name": "Монолог"
+        }
+    ]
+}

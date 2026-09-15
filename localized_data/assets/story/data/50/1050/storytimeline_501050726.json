@@ -1,0 +1,54 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm out with Narita\nTaishin...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hang on.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Nothing special... Just take a look over\nthere.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I turn in the direction Нарита Таисин is\npointing\nand see a claw machine filled\nwith Umamusume\nplushies.",
+            "name": "Монолог"
+        },
+        {
+            "text": "They're apparently all the rage right\nnow. Not\nthat I'm interested or anything.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I sometimes see 'em dangling from other\npeople's\nbags and stuff, though.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Do you want one for your bag too?"
+            ]
+        },
+        {
+            "text": "Excuse me? Were you even listening? I'm\nnot\nintere—",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "But look how well-made they are!"
+            ]
+        },
+        {
+            "text": "<i>Sigh...</i> Do whatever you feel like. Just\ndon't drag\nme into it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "If you want one so badly, get it yourself.\nI mean,\nif you <i>can.</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

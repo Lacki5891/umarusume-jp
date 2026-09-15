@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What a massive haul! You did great!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "This should be more than enough!\nThanks a ton,\nTeach!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "...Hehe.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Nothin' much. Seeing you flaunt your\nskills has\ngot me itchin' for a little\ncompetition!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Let's see who can get the most prizes!\nYou in?!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I thought you didn't have any money."
+            ]
+        },
+        {
+            "text": "...Oh, right.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

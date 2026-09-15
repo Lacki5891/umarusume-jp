@@ -1,0 +1,159 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my way back from an errand I was\ngiven by\nДиректор Акикава, Winning\nTicket stops me.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey! Trainer over there! You seen a\nwhite snake\naround?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "A snake?! No..."
+            ]
+        },
+        {
+            "text": "Another empty lead? White snake,\nwhere could\nyou be?!",
+            "name": "Свип Тошо",
+            "choice_data_list": [
+                "Why are you looking for a white snake anyway?"
+            ]
+        },
+        {
+            "text": "I need one for a good luck charm! It's a\nsuper\nhigh-level spell!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "WAIT, SERIOUSLY?!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You didn't tell her the details?"
+            ]
+        },
+        {
+            "text": "She ran off before I had the chance to!\nAnd we\ndidn't even have any clues to go\non!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "<i>Sigh...</i> I bet Granny'd use her magic and\nfind it\nstraight away.",
+            "name": "Свип Тошо",
+            "choice_data_list": [
+                "She sounds like an incredible woman."
+            ]
+        },
+        {
+            "text": "She is! That's why I wanna be a great\nwitch like\nher one day!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "In that case, let's go ask your granny to\nhelp us\nout!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Nooo way! This is something I have to\nhandle\nmyself!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "...I'll never be like Granny if I don't!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "I <i>will</i> find that white snake, and I <i>will</i> use\nit for the\nritual! And then I'll become a\nreal witch!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "AWWW YEEEAAAH!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You're really trying to make your dream\ncome\ntrue! That fighting spirit makes me\nfeel sooo...\nFIRED UP! Wooo! Thanks for\nthe boost!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm gonna help you out! One way or\nanother, we'll\nfind that white snake!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Heh! Then the search is back on! You\nhelp too!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "And so I find myself roped into a snake\nhunt... We\ncomb the fields together but\ncome up\nempty-handed.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's <i>it!</i> I'm tired of walking! I wanna go\n\nhooooome!",
+            "name": "Свип Тошо",
+            "choice_data_list": [
+                "You're heading back already?"
+            ]
+        },
+        {
+            "text": "We can't quit now! Let's search the town!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "There's no way it'll be here!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "We have to try, no matter how slim our\nchances!\nCome on, we're just getting\nwarmed up here,\nguys!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm gonna give you all I got, Sweep! If\nyou feel\nlike dropping out, I'm gonna\npick you right back\nup! That's what I'm\nhere to do!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "Hmph! Who said I'm giving up?!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "Yeah, Sweep! Hehe, that's the spirit!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Whoa! Hold on a sec... Do you see what I\nsee in\nthat store window?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I FOUND IT! It's a white snaaake!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "With its geometric patterns and eyes\nlike glass\nmarbles, the snake looks like\nsomething an artist\nwould make... Oh\nwait, it <i>is</i> a work of art.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's not real."
+            ]
+        },
+        {
+            "text": "Not real?! No way... It can't be...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Waaaah! I'm so sorry, Sweep! I thought\nwe finally\nhad it! <i>Sob!</i>",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "...It's fine, we'll go with this snake. It'll\nbe less\neffective, but a doll can work as\na substitute—at\nleast, that's what my\ngrimoire says.",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "Yep, this'll do! I'm gonna be a\nfull-fledged witch,\nso I'll prove that I can\npull this ritual off, real\nsnake or no!",
+            "name": "Свип Тошо"
+        },
+        {
+            "text": "Sweep! Ohhhh, Sweeeeep! You're gonna\nmake\nsuch an amazing witch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "We successfully purchase—er, \"capture\"\nthe white\nsnake, bringing a joyful end to\nour ordeal.",
+            "name": "Монолог"
+        }
+    ]
+}

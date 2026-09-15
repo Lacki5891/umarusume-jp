@@ -1,0 +1,254 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I go with Марузенски to welcome the\nnew year at\na shrine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I was thinking of taking a drive on New\nYear's\nDay since the roads are usually\nclear...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But it just doesn't feel like New Year's\nuntil you\ngo visit a shrine!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's the perfect place to make a\nresolution for the\nyear and pray for my\ngoal to be achieved!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "What's your goal this year?"
+            ]
+        },
+        {
+            "text": "Hehe, my goal is to participate in lots of\nfun\nraces!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That's why I have to be more active than\never and\nbecome someone that others\ncan look up to!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "I'll help you every step of the way!"
+            ]
+        },
+        {
+            "text": "I know you will, Trainer! I'm counting on\nyou.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I know you will, Trainer! I'm counting on\nyou.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So, what exactly should we be focusing\non in\norder to achieve this goal?",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "We should work on fundamentals, like physical\nconditioning.",
+                "We should set a well-balanced training regimen.",
+                "We should focus on making your best skills\neven better."
+            ]
+        },
+        {
+            "text": "\"The best ability is availability,\" they\nsay. Honing\nyour skills means nothing if\nyou're not healthy\nenough to be on the\ntrack.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay! I'll try to take care of myself\nbetter than\never before!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I see! So you're saying a balanced\nworkout is key\nto taking it up a notch!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right, I'm on the job! I'll keep this in\nmind while\ntraining.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "If we're talking about my best skills, I'd\nsay my\ndriving is second to none!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Psych!</i> You were talking about my\n<i>running</i> skills,\nright?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Okay! I'll try to keep that in mind while\nI'm\ntraining.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Well, now that that's decided, let's finish\nup here!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "With that settled, let's finish up here,\nshall we?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right then, let's finish up here, shall\nwe?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Whew... Now that we've visited a shrine,\nit's\nfinally time to start the new year.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, it's Марузенски!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Happy New Year! I hope you have a\nhappy and\nhealthy year!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yeah, Happy New Year!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Happy New Year right back at you! ☆\nAre you all\ngoing to the shrine too?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "That's right! I know it's like this every\nyear, but\nthere are so many folks here I\nfeel I'll get lost!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Your dislike of crowds explains why\nyou're always\nso quick to break away\nfrom the pack in races!\nHehe!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, Trainer, did you know? These two\nare the\nbomb!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Hey, Trainer, did you know? These two\nare the\nbomb!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ever since their debut, they've been\nmaking\nnames for themselves. People\nare calling them\nmembers of the\n\"Ultimate Generation\"!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Ehehe... You're making me blush.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "As your senior, it makes me so happy to\nsee you\ncuties doing so well! ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "We've grown so much thanks to the\nfriendly\ncompetition we have between\nus.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We recognize each other's drive, and\nthat pushes\nus to keep trying to surpass\none another.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yeah! Even if we lose, it just makes us\nwant to win\nmore the next time, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And it wasn't only my classmates who\nlifted me\nup.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "This year, I'm trying to surpass the\nperson I've\nwatched and admired since\nbefore my debut...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Is that... by any chance...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Yes, Марузенски. Would you be willing\nto run a\nrace with me?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Wow! I can't believe I'm already reaping\nthe\nbenefits of visiting the shrine so\nsoon!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "<i>Whaaat?!</i> G-Grass, are you sure about\nthis?!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm pretty sure I'm not good enough to\nface off\nagainst Maruzen yet...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Well, you won't know for sure until you\ntry, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Also, like Grass said, it's great to have\nsomeone\nto compete against.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Having someone to compare yourself to,\n\nsomeone to encourage and be\nencouraged by... I\nbelieve that's what\nkeeps us running.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "To encourage each other...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It would be such a waste to avoid\nchallenging\neach other!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Grass, let's use this race to raise one\nanother\nup—to the highest of heights!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Let's! The Yasuda Kinen is in June—I'll\nchallenge\nyou there.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm looking forward to it!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Goodness... Grass is amazing...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Heheh! ♪ This year looks like it's going\nto be a\nblast!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You sure look happy."
+            ]
+        },
+        {
+            "text": "How could I not be! Running with the\nnewer\nstudents is going to be so much\nfun!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Oh, by the way, have you decided what\nrace\nwe're going to shoot for next?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm going to run with Grass in June, but\nthat\ndoesn't mean I won't be racing until\nthen, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "She wants to have all the fun she can\nthis year, so\nit's only natural that we\nchallenge some of the\ntoughest races\nout there...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's shoot for the Osaka Hai!"
+            ]
+        },
+        {
+            "text": "Oooh! The biggest event of the spring!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "All right, I'm gonna kick it into full gear\nbeneath\nthe blooming cherry trees!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "With our next race set, a new year with\n\nМарузенски begins.",
+            "name": "Монолог"
+        }
+    ]
+}

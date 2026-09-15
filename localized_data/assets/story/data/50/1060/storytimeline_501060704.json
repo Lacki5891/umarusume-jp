@@ -1,0 +1,293 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Найс Нэйчер's mother is coming to visit in\na few\ndays, so I make a suggestion after\none of our\noutings.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What do you think about entering the next\nscrimmage?"
+            ]
+        },
+        {
+            "text": "The next one? The one Mayano said\nshe's running\nin?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That's right. It's the day your mom is coming."
+            ]
+        },
+        {
+            "text": "Since she's coming all this way, we might\nas well\nshow her a race. Besides, with\nNature's current\nskills, she has what it\ntakes to win.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> And you won't accept no as an\nanswer, I\ntake it?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I guess I have no choice. I'll join. I don't\nknow if I\ncan beat Mayano, though.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A few days later. Right before the\nscrimmage...",
+            "name": "Монолог"
+        },
+        {
+            "text": "(Mom and Trainer are both here, waving\nat me\nfrom the audience... It's just like\nelementary\nschool!)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I can't mess this up.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hehe! ♪ I'm going to win today's race\ntoo!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "(I knew Mayano would rush out from the\n\nbeginning. Just as expected, she's pace\nchasing.)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "As we planned in the pre-race briefing,\nNice\nNature is staying on Mayano Top\nGun.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "But... it seems like she's going faster than\nusual..."
+            ]
+        },
+        {
+            "text": "No way...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> All right, might as well get\nstarted.\nTime for takeoff!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Whaaat?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(No way, she's accelerating now?! So she\nwasn't\npace chasing, but front running?!)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "(Darn it, the strategy is all off! If I let her\nkeep\ngoing... I'll lose!)",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Darn it aaaaall!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер dashes out of the group to\nfollow\nafter Маяно Топ Ган, but she\nloses her pace in\nthe process and ends\nup in third place.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Still, Найс Нэйчер's mother seems happy\nto see\nhow far her daughter has come.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All the same...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's been a while since the scrimmage\nended, but\nNature is nowhere to be\nseen.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Her mom's waiting for us in the cafe, though..."
+            ]
+        },
+        {
+            "text": "I don't see her anywhere in the academy.\nMaybe\nshe went outside? According to\nher mother, she\nwould often go to the\nriverbank to sulk when she\nfelt sad.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Trainer... Have you been looking for\nme?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Sorry for getting your hopes up for\nnothing! I'm\njust the same old me, always\nthird place! Hahaha!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yup, the same old Nature.",
+                "You don't have to force yourself to smile.",
+                "What's done is done! Let's do something to take\nour minds off things!"
+            ]
+        },
+        {
+            "text": "Sorry for getting your hopes up for\nnothing! I'm\njust the same old me, always\nthird place! Hahaha!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Yup, the same old Nature.",
+                "You don't have to force yourself to smile.",
+                "What's done is done! Let's do something to take\nour minds off things!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You gave it your best, like you always do."
+            ]
+        },
+        {
+            "text": "...So what?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You say I gave it my best, but my best is\n\nworthless if I still lose!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I really wanted to win this race... I <i>had</i> to\nwin this\nrace!",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "But your mother looked really happy."
+            ]
+        },
+        {
+            "text": "I tell her that her mother felt her\ndetermination.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But... still... It's really frustrating.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ugh, I cried way too much. Someone my\nage\nshould <i>not</i> be crying like this.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It's okay to let it out every once in a while."
+            ]
+        },
+        {
+            "text": "Trust me, it's all out! Come on, let's go\nback to\nmy mom.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "With Найс Нэйчер having regained her\n\ncomposure, we go back to see her\nmother.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm not forcing anyth—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Well, I know <i>I'm</i> frustrated. I really wanted you\nto win."
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I think I got cocky after going step for\nstep with\nMayano when we were partner\nrunning.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "And when she praised my speed, I didn't\ntake into\naccount that she was also\nsizing me up...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Sigh...</i> Mayano really is on another level.\nShe's a\nsmart one...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But I bet she doesn't know what this\nfeels like.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Nature..."
+            ]
+        },
+        {
+            "text": "Ah, don't get me wrong! I like Mayano,\nof course.\nIt's me that I don't like.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I'm just narrow-minded, ignorant, and...\nplain.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "I think you're great just the way you are."
+            ]
+        },
+        {
+            "text": "I reassure her that I'm here to help her\nget past\nanything that's troubling her.\nWe're a team, after\nall.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And what if that doesn't work?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Then we can sulk here together."
+            ]
+        },
+        {
+            "text": "...Pfft. Hahaha! You're funny.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "After taking a moment to compose\nherself, we\nhead back to her waiting\nmother.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, yeah? Like what?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "I bring a befuddled Найс Нэйчер to one\nof her\nfavorite spots—the shopping\ndistrict.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Okay, now that you've brought me here,\nwhat are\nwe doing exactly?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "The only thing you should do when your spirits\nare down—get some food!"
+            ]
+        },
+        {
+            "text": "I go buy some taiyaki.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Taiyaki, huh?",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Oh, do you not like them?"
+            ]
+        },
+        {
+            "text": "I do. I was just remembering how my\nmom always\nbought me one when I was\nfeeling down.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Geez, both of you really know how to\nlay it on\nthick.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "It just shows how worried we are about you."
+            ]
+        },
+        {
+            "text": "Worried, huh? I guess I worried Mom\nagain back\nthere.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Maybe I should get her some taiyaki\ntoo, as an\napology gift.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "We head back to her mother with a bag\nof taiyaki\nin hand.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Найс Нэйчер acts embarrassed while they\ntalk but\nwears a happy smile on her face\nthe whole time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Найс Нэйчер acts embarrassed while they\ntalk but\nwears a happy smile on her face\nthe whole time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Найс Нэйчер acts embarrassed while they\ntalk but\nwears a happy smile on her face\nthe whole time.",
+            "name": "Монолог"
+        }
+    ]
+}

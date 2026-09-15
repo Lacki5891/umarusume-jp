@@ -1,0 +1,90 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Ngh! I... I lost again!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "At this rate, I won't be able to entertain\nanyone...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What is it I'm missing? Determination?\nPassion?\nOr...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Could it be that I lack what it takes to\nbe an\nentertainer?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Of course not!",
+                "Don't give up! This isn't what anyone wants of\nyou!"
+            ]
+        },
+        {
+            "text": "Could it be that I lack what it takes to\nbe an\nentertainer?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Of course not!",
+                "Don't give up! This isn't what anyone wants of\nyou!"
+            ]
+        },
+        {
+            "text": "What makes you say that?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "You're really worried about your performance,\nhuh?"
+            ]
+        },
+        {
+            "text": "But of course. I want more than anyone\nto thrill\nand amaze my fans.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I don't care how much worry and stress I\nmust\nsuffer if it means I can accomplish\nthat!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Then you have what it takes."
+            ]
+        },
+        {
+            "text": "Trainer... Thank you!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'm going to fuss over this a while longer,\neven if\nit ends up delaying my progress.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "...!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "That's right... This isn't the Фудзи Кисэки\neveryone\ndesires...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'd completely forgotten...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I have fans waiting for me to deliver\nthem a\nmiracle!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Exactly!"
+            ]
+        },
+        {
+            "text": "Thank you, Trainer! I'm not going to lose\nagain!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I need to get back into the right mindset\nto race\nas an entertainer!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I'll give everyone a show so marvelous,\nit'll thrill\nthem to their core!",
+            "name": "Фудзи Кисэки"
+        }
+    ]
+}

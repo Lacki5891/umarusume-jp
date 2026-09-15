@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Heh, it's finally time to show my stuff!\nI'm gettin'\ngoosebumps just thinking\nabout it!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Gotta make sure everyone knows that\nHishi\nAmazon is here to stay!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Graaah!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You've got this!"
+            ]
+        },
+        {
+            "text": "Yeah! You'd better keep your eyes on\nme, Teach!\nI'm gonna crush every single\none of my\nopponents, no matter how\nstrong they are!",
+            "name": "Хиши Амадзон"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm on my way to meet with Mayano Top\nGun. As\nI reach the classroom...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmph. I know better than you!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "Whoa! Where'd you come from,\nТренер?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Anyway, \"what's up?\" yourself! What are\nyou\ndoing, getting popular out of\nnowhere?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Just a second ago, I was talking about\nhow you're\nreally good at explaining\nthings 'cause you're an\nadult.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And then my classmates started saying\nyou're\nsooo wonderful because you\norganize all my\nequipment so nicely.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Buuut!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I think you're wonderful all the time!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Whether we're racing or just hanging\nout, I'm\nalways having fun when I'm with\nyou!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'm happy you feel that way."
+            ]
+        },
+        {
+            "text": "How come everyone else knows cool\nthings about\nyou that I don't know? I\ndon't like that—not one\nbit!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Sooooo...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I told them something new! About this\nand that...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Heehee! ☆ They were all so\nshocked—like, \"No\nway!\"",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Wh-what exactly did you tell them?!"
+            ]
+        },
+        {
+            "text": "It's a secret. ♪ That's your punishment\nfor getting\npopular!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I was worried that she wasn't satisfied\nwith my\ninstruction, so I'm glad that's not\nthe case. I'm\ndefinitely curious about\nwhat she said though...",
+            "name": "Монолог"
+        }
+    ]
+}

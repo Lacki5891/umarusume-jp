@@ -1,0 +1,44 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I meet Грасс Вандер at her classroom to\ntake her\nto training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh my... Thank you for coming all this\nway.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "But may I ask to be excused from\ntraining for\ntoday?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Are you feeling under the weather?"
+            ]
+        },
+        {
+            "text": "Well, no. I'm perfectly healthy, it's just—",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hey! Hey, Grass! Can you help me figure\nout what\nthis Classical Japanese poem\nmeans?",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Ah! No fair! I was gonna ask her an\nEnglish\nquestion!",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Just a moment. I'll be right there.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm sorry, Trainer. But you can see how\nI'm\nneeded.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер gives an apologetic bow\nbefore\ngoing back inside the classroom.",
+            "name": "Монолог"
+        }
+    ]
+}

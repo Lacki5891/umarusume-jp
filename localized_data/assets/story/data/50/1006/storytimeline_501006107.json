@@ -1,0 +1,145 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap asked me to meet her behind the \nschool building after training for some reason. I \nhead there right away."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There you are! I've been waiting for you."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There's something I want to give you. Here."
+        },
+        {
+            "name": "Monologue",
+            "text": "She hands me a transparent bag of carefully \nwrapped chocolates."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I thought I might try and make some chocolate \nsince it's Valentine's Day.",
+            "choice_data_list": [
+                "You made these yourself?",
+                "You made these yourself?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. Creek taught me how, so they should be \ntasty."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It took me a few tries to get it right, and by the \ntime I was done, it was already this late..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I wanted to properly express my gratitude for \neverything you've done for me.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hehe..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've been given lots of chocolate since I came to \nthis academy."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I never realized how nice it is to give chocolate to \nsomeone else though.",
+            "choice_data_list": [
+                "But why behind the school building?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm? Isn't this where you're supposed to give \npeople chocolate?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "This is where everyone gave me chocolate when I \nfirst got here—although people tend to just give \nit to me wherever nowadays."
+        },
+        {
+            "name": "Monologue",
+            "text": "While Oguri Cap's grand appetite has won her \nmany friends, she was initially someone people \nadmired from a distance."
+        },
+        {
+            "name": "Monologue",
+            "text": "But now, she's someone everyone can express \ntheir feelings to anytime and anywhere. You \ncould say she was destined for popularity."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All right, let's go.",
+            "choice_data_list": [
+                "Go where?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "To the dorm pantry. That's where the leftover \nchocolate is.",
+            "choice_data_list": [
+                "There are leftovers?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The results of all the experimental batches. I think \nwe melted about 20 kilos' worth of chocolate in \ntotal.",
+            "choice_data_list": [
+                "20 kilos?!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yep. Way too much to carry to school. But rest \nassured, it's all being kept cool!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Rejects or not, I'm proud of each one. I plan to \neat too, so let's enjoy them together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And thus concludes my Valentine's Day with \nOguri Cap."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Whew.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Nothing... I actually kinda feel relieved."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "My heart was racing while I was waiting for \nyou—and not like it does when I run."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I was wondering whether I should give you a lot \nmore..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But when I finished this batch, I realized this was \n<i>it.</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I thought about you a lot while making it. All \nthose thoughts are packed into this one batch of \nchocolates."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So... Thank you for accepting my gift."
+        },
+        {
+            "name": "Monologue",
+            "text": "I enjoy what little time I have left of Valentine's \nDay together with the ever so slightly bashful \nOguri Cap."
+        }
+    ],
+    "title": "Valentine's Day"
+}

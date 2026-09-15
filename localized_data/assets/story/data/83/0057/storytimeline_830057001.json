@@ -1,0 +1,192 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As I'm walking down the hallway during\nlunch\nbreak, I hear loud voices coming\nfrom the\nstairway."
+        },
+        {
+            "text": "I am Uma Lord Golshi! Bow down to me\nas I stand\nperched atop the world!\nDesist!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "No! I'm no follower of yours!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Wh-what are you guys doing?"
+            ]
+        },
+        {
+            "text": "Oh, good question! Long story short:\nGolshi's\nbein' the Uma Lord.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She got hooked on this one RPG, and\nnow she's\nbeen role playing in person all\nday!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "For I am the Uma Lord! The one who\nstands on\ntop! At the summit! Now\nthen—you there!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "The top is the strongest! The strongest is\nthe top!\nSo answer me this, mortal: What\ndoes it take to\nget there?!",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "Uhhh..."
+            ]
+        },
+        {
+            "text": "Th-the top is the strongest?! The\nstrongest is the\ntop?! I got it!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "What you need is an unyielding heart! A\nburning\nspirit! The caliente will to fight!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Whoa, easy there, tiger. What are you\ngetting all\nfired up for? You're not a\nlittle kid, y'know? Cool\nit already...",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Qué?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Plebeian earthlings. You know nothing!\nFollow\nme, and I shall teach you!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I shall build my castle here!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "What comes with being at the top? A\ncastle! I'll\nbuild a castle and stand at the\nvery top of it.\nThat'll make me the\nstrongest!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "That'll make you... the strongest? I see...\nMakes\nsense!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Wait... But if you just wanna stand\nsomewhere\nhigh up, wouldn't the\nrooftop of the academy be\ngood\nenough?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса! Do you not wish to claim\nthe top\nyourself?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "If you are indeed a condor, you must aim\nfor the\nskies! The blue peak... Don't you\nwant the\nmightiest throne for yourself?!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Ohhhh... The mightiest throne! Sí! I sure\ndo!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Then you'll need a castle! A grand\nfortress with\nspires soaring high above\nmine own!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "It's survival of the fittest here... Strength\nis the\nwill to rise above others, for only\nthen canst thou\nchange the world!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Aw yeeeah! The strong! The\ntranscendent! The\nbattle for the top!\nThings are heating up!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Huh..."
+            ]
+        },
+        {
+            "text": "Right, let's get started! But first, what do\nwe do\nabout the castle?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса appears to be getting\nswept up in\nГолд Шип's chaotic vibe. I\nsuppose if I have to\ngive her some\nadvice, then...",
+            "choice_data_list": [
+                "Try raising some funds?",
+                "Maybe look for something you can use as the\ncastle?"
+            ]
+        },
+        {
+            "text": "Arrr! Looks like we'll need us a fishing\nboat, then!\nOne with cannons! We'll\ndefeat the Great King\nSquid and\nbecome the fishing kings, me matey!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "No, wait, it'd probably be faster to just\nfind some\nhidden treasure. Yar-har! We\nbe sailing the high\nseas as pirates, then!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Huh?! What happened to being the Uma\nLord?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Come on, ye landlubber! Ye can hop\nonto me\nship, arrr!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Wait, what?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The high seas await us! To the legendary\nisland!\nAnchors aweeeigh!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Qué?! I-I'm not going anywhere! I don't\nwant to\ntake to the se—AHHHHH?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Then I know just the place!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Голд Шипп races over to the jungle gym,\nclimbs to\nthe top, and raises her hand in\na lofty manner."
+        },
+        {
+            "text": "Bwahahaha! I am Uma Lord Golshi! Come\nat me,\nEl Condor Pasa the hero!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hero?!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Very well! As the world's strongest hero,\nI'm\ngonna drag you from that throne!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Hey, what're you two doing?",
+            "name": "Boy A"
+        },
+        {
+            "text": "Ooh! I wanna play too!",
+            "name": "Девочка А"
+        },
+        {
+            "text": "Oh? I see you've brought some of your\nunderlings\nto tip the scales! Excellent!\nJust try to catch me!\nHUP!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "Hey, you! You're Soldier A now, okay?\nRemember\nyour line?",
+            "name": "Голд Шип",
+            "choice_data_list": [
+                "\"This is Golshi's castle.\""
+            ]
+        },
+        {
+            "text": "Perfect!",
+            "name": "Голд Шип"
+        },
+        {
+            "text": "I watch for a while as Голд Шипп and El\nCondor\nPasa play out the battle of the\nUma Lord versus\nthe heroes."
+        },
+        {
+            "text": "Голд Шипп hoists up the reluctant El\nCondor Pasa\nand sets sail. I watch them\nsurge along the\nHallwayntic Ocean until\nat last, they dip below\nthe distant\nhorizon..."
+        }
+    ]
+}

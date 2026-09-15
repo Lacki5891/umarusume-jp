@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This cheering is amazing... When you're\nthe one\nrunning, the crowd sounds\ncompletely different.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It feels like everyone's hopes and\ndreams are out\nhere today. I get it now...\n<i>This</i> is what the Derby is\nall about!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "text": "A little bit. But I'm keeping myself in\ncheck.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Look at me, running in a race like the\nDerby...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I feel a bit out of my element, but that's\nnot\ngoing to slow me down.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Here, in the biggest race in Japan, I'm\ngoing to\nshow everybody my\nmind-blowing speed!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Have fun out there!"
+            ]
+        },
+        {
+            "text": "You know I will! Root real loud for me,\nokay?",
+            "name": "Марузенски"
+        }
+    ]
+}

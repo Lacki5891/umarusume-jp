@@ -1,0 +1,55 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I'm out and about with\nMejiro\nRyan...",
+            "name": "Монолог"
+        },
+        {
+            "text": "She stops and stares at a claw machine.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa...",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "You want one of those plushies?"
+            ]
+        },
+        {
+            "text": "Well... It reminds me of a scene from this\nbook I\nread.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "There's a girl who's trying to get a\nplushie, but\nshe's not having any\nsuccess...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Then her boyfriend shows up, gets the\nplushie\neasily, and gives it to her!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "I've always wanted something like that\nto happen\nto me!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "...Geez, wh-what am I talking about?\nPlease\nforget I said anything, haha!",
+            "name": "Мэдзиро Райан",
+            "choice_data_list": [
+                "Which one do you want?"
+            ]
+        },
+        {
+            "text": "Huh? You mean...",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Um... If you'd get one for me, any of\nthem would\nbe fine.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Теперь я ни за что не могу подвести!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, during lunch...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> I really thought I'd finally get one\ntoday...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "text": "It's just terrible, Trainer!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "There are these squid cornets that I've\nalways\nloved, but they got really\npopular all of a\nsudden...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "They were featured on TV, and now\neveryone is\nall over them. The past few\ndays have been an\nall-out struggle.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "<i>Sigh...</i> Seeing how popular they are now,\nI'll\nprobably never be able to eat them\nagain.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Stop right there, cynical girl!",
+            "name": "???"
+        },
+        {
+            "text": "Say au revoir to such negative thinking!\nWhen you\ngive up, that's when the race\nis over!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Don't give up on what you love just\n'cause of\nsome stupid trends... You gotta\nsnap back at that\nkinda mentality!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "We are Worldwide Windy! We're the\nwhirlwind\nthat bites the world!",
+            "name": "Pearl & Windy",
+            "choice_data_list": [
+                "How can a whirlwind bite the wo—"
+            ]
+        },
+        {
+            "text": "Hush, you! Don't think, feel!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Before our burning passion, the laws of\nthe\nuniverse are nothing but ash in the\nwind!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Yeah! Worldwide Windy doesn't care\nabout your\nstupid, boring logic!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I-if you say so... I guess...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Now, cynical girl, time for your training!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "This world won't let you buy squid\ncornets? Then\nbite it back!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I don't quite understand what they're\nsaying, but\nit sounds like they're trying\nto help her buy squid\ncornets... If that's\nthe case...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We need to come up with a strategy first.",
+                "Great! No time to waste—let's get to training!"
+            ]
+        },
+        {
+            "text": "I don't quite understand what they're\nsaying, but\nit sounds like they're trying\nto help her buy squid\ncornets... If that's\nthe case...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We need to come up with a strategy first.",
+                "Great! No time to waste—let's get to training!"
+            ]
+        },
+        {
+            "text": "That's right! What a ravishingly\nintellectual\nanswer!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "What's important is a calm mind...\nConfusion will\ncause you to lose even\nwinning battles!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "R-right...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Ya know, I just wanna chomp down\nwhenever I\nsee some tasty prey.",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "But no! I have to watch and wait till the\nright\nmoment to bite.",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "It can be real chaos when I start\nbiting—especially\nwhen Digital is\nsneaking around...",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "You're right. It's important to observe your\nsurroundings."
+            ]
+        },
+        {
+            "text": "That's true in races as well. It can be a\ndisaster if\nrunners lose their rhythm or\ntry to pass and get\nblocked.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's why in the beginning of a battle,\nyou need\nto observe the field with a\nbroad perspective\nfrom the rear.",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Just as you would look beyond the seas!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "O-okay... I... think I got it... Or not...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Worldwide Windy continues to lecture\nNice\nNature for a while.",
+            "name": "Монолог"
+        },
+        {
+            "text": "A few days later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "No way... It actually worked.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Heh! ♪ Looks like we saved another lost\nsheep at\nthe edge of the world.",
+            "name": "Сикинг зе Пёрл",
+            "choice_data_list": [
+                "Thank you, Worldwide Windy!"
+            ]
+        },
+        {
+            "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's right! I mean, how're you gonna\nget to a\nthousand bites if you don't start\nwith one?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Into a brand new world we go! We'll\nshow you the\nway!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "Wha... What?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Come on! Up! And down! And up! And\nkeep up\nthe tempo! One, two, three!",
+            "name": "Сикинг зе Пёрл"
+        },
+        {
+            "text": "<i>Pant... Pant...</i>",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Is this really necessary? I... just want to\nbuy some\nbread.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "That's weakness talking! You're as soft\nas that\nsuper gullible Mayano!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Speed! Power! Stamina! You need 'em all\nto sink\nyour teeth into your rivals!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I-I didn't say anything about bitin—",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "That's right! Take a big bite, Nature!"
+            ]
+        },
+        {
+            "text": "You too?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Uhhh... Lunch break is almost over now.\nIf I can't\nbuy one after all this, I'm not\ngonna be happy.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "A few days later...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Gyaaah! They're all gone!",
+            "name": "Frustrated Umamusume"
+        },
+        {
+            "text": "No way... It actually worked. I got one.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hehe! ♪ Those were some fairly\nrespectable\nchomps!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Uhhh, I didn't bite anyone.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "Congrats, Nature!"
+            ]
+        },
+        {
+            "text": "I still have a lot of questions, but... I\nguess they\n<i>were</i> pretty helpful.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Найс Нэйчер looks happy with her\nfavorite squid\ncornet in hand.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Найс Нэйчер looks happy with her\nfavorite squid\ncornet in hand.",
+            "name": "Монолог"
+        }
+    ]
+}

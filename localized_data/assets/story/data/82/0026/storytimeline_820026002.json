@@ -1,0 +1,152 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm walking by the river on my day off,\nwhen..."
+        },
+        {
+            "text": "<i>Huff... huff... wheeze...</i> I'm beat!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "How about we take a break? We've both\ngot\nraces coming up, so we can't be\noverworking\nourselves.",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You two sure are working hard."
+            ]
+        },
+        {
+            "text": "Well, I wasn't exactly planning to get so\ncarried\naway, but then...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Phew! I think that'll do it for today. I\nknow I'm up\nagainst some real\nspeedsters in my next race, but\nI don't\nwant to overdo it...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Hm? That voice...",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "I knew it was you, Nature. Are you\nreturning to\nthe dorm?",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Ahaha, yeah. Can you believe it? All this\nsweat\nfrom a light jog... That's what I get\nfor trying to\ndo solo training for once.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...I see. Well, I regret to say that I cannot\nlet you\nreturn to the dorm.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Huh? How come?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "You see, we are in the middle of a...\nsituation.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Ikunoooo! I'm STARVING! I can't wait\nany longer!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Hang on. Nature?!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "It looks like the wait was well worth it,\nTurbo.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Hm?! The wait was <i>whale</i> worth it?!\nWhen it comes\nto seafood, I'm a fan of\nscallops myself!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Ah yes, I see you had a <i>whale</i> of a time\nwaiting\npatiently to have a run with\nNature.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Yep, that's right! I was waiting like a\nbeached\nwhale! And now it's time to\nrace, Nature!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "Uh, no, I was about to head back to\nthe—gahhh!\nDon't give me those\ngoo-goo eyes!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Aaand that's how I ended up in this here\nsituation.\nTo be fair, this has been some\ngood extra training\nfor me so far.",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Yup! It's been great for me too! In fact...\nI'm all\ndone! Let's go home!",
+            "name": "Твин Турбо"
+        },
+        {
+            "text": "...What?! We're going back already?! Do\nyou\nalways turbo boost through your\ntraining like\nthat?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Oh, geez... Now there's someone else in\nfront of\nthe dorm. What's the deal this\ntime?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "...Hold up! You're the kids from where I\nvolunteer!\nNow what's going on here?!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Three, two, one! Welcome to the \"Go\nNature\"\nparty!",
+            "name": "Umamusume Kids",
+            "choice_data_list": [
+                "\"Go Nature\" party?"
+            ]
+        },
+        {
+            "text": "Um, so... We heard that you're gonna\nrun against\nreal fast racers in your next\nrace!",
+            "name": "Energetic Young Umamusume"
+        },
+        {
+            "text": "The kids all wanted to show you their\nsupport, so\nthey set up this party for\nyou!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "For me? Hold on... Is this why you\nstopped me\nfrom going to the dorms\nbefore?",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Heh, indeed it was. The two of us\noffered to\ndistract you and buy them\nmore time. After all,\nwe also wish to\nsupport you.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Nature, we know how hard you've been\nworking\nevery day in the lead-up to your\nrace.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "text": "Yep! You might've laughed and said you\ndidn't\nstand a chance when you saw the\nracer list, but\nyou can't trick us!",
+            "name": "Матиканэтангейзер"
+        },
+        {
+            "text": "Hang on, I'm kinda having trouble\nprocessing all\nthis... So you guys knew I\nwas practicing on my\nown? Oh, geez...",
+            "name": "Найс Нэйчер",
+            "choice_data_list": [
+                "You've got some great friends."
+            ]
+        },
+        {
+            "text": "<i>Siiiiigh...</i> I don't know if you should call\nthem\n\"great\" or just plain \"nosy.\"",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "But still, I can't believe you did all this\nfor me.\nSeeing all this...",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Even I can't help thinking I've gotta win!\nAnd\nthat's totally not like me! Gahhhh!",
+            "name": "Найс Нэйчер"
+        },
+        {
+            "text": "Despite her disgruntled complaints, Nice\nNature\nsmiles and joins the party. It\nlooks like the extra\nsupport has\nmotivated her even more."
+        }
+    ]
+}

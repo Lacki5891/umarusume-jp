@@ -1,0 +1,39 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эйсин Флэш greets her second summer\ncamp with\ncoolness and poise.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We don't have much longer before the\nautumn\nTenno Sho.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "Let's tackle this summer camp as if it's\nthe last\nopportunity to prepare myself\nfor it.",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "(The last opportunity...)"
+            ]
+        },
+        {
+            "text": "Once I've done what I need to do, I'm\nsetting my\nsights on retirement.",
+            "name": "Эйсин Флэш"
+        },
+        {
+            "text": "This could be my last summer camp with\nEishin\nFlash...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm? Is something wrong?",
+            "name": "Эйсин Флэш",
+            "choice_data_list": [
+                "Nope! Not at all!"
+            ]
+        },
+        {
+            "text": "I'd better etch the image of her racing\ndown the\ntrack into my memory. There\nmight not be many\nmore chances.",
+            "name": "Монолог"
+        }
+    ]
+}

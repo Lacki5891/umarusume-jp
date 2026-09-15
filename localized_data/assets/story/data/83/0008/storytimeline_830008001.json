@@ -1,0 +1,168 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While I'm walking in the park...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Mmm, the weather's perfect today...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "<i>Plop...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh? That sounded like a koi poking its\nhead out\nof the water. Must be hungry.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "<i>Carp out of water, in search of food it\nwanders:\n\"Carpe diem,\" I say.</i> Alas, one\ntoo many syllables.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Excuse you, Sky! How are you going to\nget ready\nfor the race with all this\nslacking off?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Why hello there, King. I was hoping for\nsome fish\npellets, but oh well.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "What in the world are you talking\nabout?!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Just fish food for thought. Is jogging on\nthe\nitinerary today, King? You sure are\nworking hard.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Well of course! We've got a race coming\nup and\nyou're out here again doing\ngoodness knows\nwhat!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Now, now, chillaaax. Haven't you heard\nof\nstrategic resting?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Strategic what now?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Look at the koi in the pond. Oh how\nrelaxing it\nmust be to soak up the sun as\nyou swim, eh?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "But watch this...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hey there, my little koi buddies. Time\nfor a snack\nbreak. C'mon, eat!",
+            "name": "Pond Keeper"
+        },
+        {
+            "text": "<i>Plip... Splosh, splish, sploosh!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "See that? They conserve their energy so\nthat\nwhen the time is right, they can\nswim real fast.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "When nothing's going on, they're chill as\na\ncucumber. That must be why the koi is\nthe\n\"freshwater king.\"",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "<i>King,</i> you say?",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Yup, king. See what I'm getting at? I'm\n\nstrategically resting now to reap the\nrewards\nlater.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "You catch my drift since you're a king\nand all,\nright?",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "O-of course! I know everything there is\nto know\nwhen it comes to kings! But...",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Still on the fence, hm? Well then...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "Hey, you! Yes, you!",
+            "name": "Сэйун Скай",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Yeah, I'm talking to you. You've been\nfollowing\nour conversation, right? Don't\nyou agree with\nme?",
+            "name": "Сэйун Скай",
+            "choice_data_list": [
+                "Agree with Сэйун Скай.",
+                "Tell her that she's just good at making excuses."
+            ]
+        },
+        {
+            "text": "See? Now that's a nod with conviction!\nWe should\nall strive to rest with the\nleisurely ease of kings!",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "It sounded too good to be true when it\nwas just\nyou blabbering... But I suppose\nyou must be right.",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Hehe! ♪ You should join me like the\nking you are\nand laze abou—",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "I mean, <i>strategically</i> rest! Just gently\nclose your\neyes... That's it... Now take\ndeep breaths...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "<i>Zzz...</i>",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Aha! I almost got caught up in your\noverly\nlaid-back ways!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "SKYYYYY!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Whoops, this isn't looking good.",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "You'll have the honor of joining me on\nmy jog!\nWe leave at once!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "But, King—",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "LA, LA, LAA! I CAN'T HEAR YOU! Get\nthose legs\nmoving!",
+            "name": "Кинг Хало"
+        },
+        {
+            "text": "Urk, my words were oil to the flames.\nThe\nschemer drowns in her own scheme...",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "There, nice and peaceful. Today's\nweather really\nis perfect! ♪",
+            "name": "Сэйун Скай"
+        },
+        {
+            "text": "A worked-up Кинг Хало drags Сэйун Скай\nalong for\na jog.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's finally here, Trainer. The autumn\nTenno\nSho—my race against Oguri...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I'm not here to jog. My goal is first\nplace. I fully\nintend to win!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If I don't, then I can't call myself the\ngreatest\nvillain ever.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Yeah, let's get that win."
+            ]
+        },
+        {
+            "text": "We've done all sorts of training to reach\nour goal.\nAll that's left is...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Oh, no! I forgot something!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I haven't practiced my villain voice at all.\nHow are\nthe fans going to get excited\nnow?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Could you help me practice?",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "text": "Ahem. Okay...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Heheheh, you naughty child. ♪ How\ndare you\ndefy me? Kneel before your\nmaster!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Beg for my forgiveness, and you might\nyet receive\nit... ♪",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You nailed it... I think..."
+            ]
+        },
+        {
+            "text": "R-right? I'm actually enjoying myself\nquite a bit...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I don't think I should be. I'll tone it\ndown a\nsmidge if I win!",
+            "name": "Супер Крик"
+        }
+    ]
+}

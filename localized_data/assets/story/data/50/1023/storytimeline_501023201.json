@@ -1,0 +1,57 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Time flies after Бива Хаяхидэ's debut,\nand\nbefore we know it, the Asahi Hai\nF.S. has arrived."
+        },
+        {
+            "text": "My uniform is impeccable, and I just\nchecked my\ncleats earlier...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hmm, what else is there...",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You're not usually this nervous."
+            ]
+        },
+        {
+            "text": "Ngh... I can't help that I am.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This is a G1 race. It's my first time\nrunning in such\na large competition.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I want to make sure everything is perfect\nto make\nthe most of this opportunity.",
+            "name": "Бива Хаяхидэ",
+            "choice_data_list": [
+                "You're going to crush it."
+            ]
+        },
+        {
+            "text": "Thank you. I'd best get out there.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Aaand next up in the paddock is Biwa\nHayahide!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "text": "Even the crowd is louder at a G1, and\nI'm pretty\nsure I spot a few live\nbroadcast cameras set up.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "A lot of eyes will be on this race. I\nwonder if <i>she's</i>\nwatching too...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It doesn't matter. Either way, I don't\nintend to\nlose.",
+            "name": "Бива Хаяхидэ"
+        }
+    ]
+}

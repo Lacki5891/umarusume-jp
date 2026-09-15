@@ -1,0 +1,24 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Every time I think about that last\n\ndisappointment... I become so bitter.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I will vindicate my honor, here and now.\nNo... I\n<i>must</i> vindicate it.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Because I am a proud member of the\nMejiro\nfamily!",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Run with all your might!"
+            ]
+        },
+        {
+            "text": "Yes! I will put my strength, my resolve,\nmy\n<i>everything</i> into it!",
+            "name": "Мэдзиро МакКуин"
+        }
+    ]
+}

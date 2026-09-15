@@ -1,0 +1,266 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after Фудзи Кисэки has a number\nof\nvictories under her belt...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do you remember that promise we made\nbefore?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We made a promise to go on a hot\nspring\nvacation once we had the time,\nremember?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She whips out a familiar-looking hot\nspring\nvacation coupon out of nowhere.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now that things have calmed down, why\ndon't we\ngo? I promise it'll be a vacation\nunlike any you've\never had.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We decide a date for our trip right away,\nand...",
+            "name": "Монолог"
+        },
+        {
+            "text": "The day of our hot spring vacation is\nhere!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Oh no, I overslept!)"
+            ]
+        },
+        {
+            "text": "I run to our meeting spot, hoping I'm not\ntoo late.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh! Good morning, Trainer! Over here!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Sorry I'm late!"
+            ]
+        },
+        {
+            "text": "Ahaha! You're fine. I've already\ncontacted the\ninn, so we can take it\neasy.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "By the way, have you eaten breakfast\nyet? I\nordered some takeout just in case.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "We can eat it together on the train, if\nyou'd like.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I'd love to! Thank you."
+            ]
+        },
+        {
+            "text": "Фудзи Кисэки acts as my guide, and we\nmake it to\nthe inn safely.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Soaking in the hot spring...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey! How was your bath? Nice and\nrelaxing, I\nhope?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "It was fantastic."
+            ]
+        },
+        {
+            "text": "That's great. The water was so nice, it\nwarmed me\nright to my core.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "While we're at it, here. Have some\ndelicious\nspring water. ♪",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Oh, thanks!"
+            ]
+        },
+        {
+            "text": "Фудзи Кисэки continues to be the perfect\nguide and\nhost as we make our way\nthrough the inn.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's a beautiful field of flowers over\nthere and\nstill time before dinner, so\nwhy don't we go and\ntake a look?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hehe. You look like you really like the\nfood.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "You can have my share too!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Before I know it, she has me by the\nhand, leading\nme down a rural path\nthrough the rice fields.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's getting dark, so watch your step!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "(Is Fuji getting any rest?)"
+            ]
+        },
+        {
+            "text": "I feel like I've just been going with the\nflow and\nletting her take care of me the\nentire time.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This trip is meant to be relaxing for both\nof us—I\ncan't let her exhaust herself like\nthis!",
+            "name": "Монолог"
+        },
+        {
+            "text": "...?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "What's wrong? Are you tired?",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Sorry, I shouldn't have dragged you out\non a walk\nwithout warning. Let's head\nback.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "That's not it."
+            ]
+        },
+        {
+            "text": "What is it, then?",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Well..."
+            ]
+        },
+        {
+            "text": "I tell her how I want her to let her own\nhair down\nand relax instead of worrying\nover me constantly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, is that all? Thank goodness!",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Don't worry. I'm doing this because I\nlove making\nyou smile more than\nanything.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Getting to see you smile all day long has\nbeen so\nnourishing for my both my heart\nand body.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "But... Well... If you'd really like me to\nrelax more,\nthen...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "She snaps her fingers smartly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Peeeew!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "A huge firework shoots into the air and\nexplodes\nabove us!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'd like you to enjoy this trip with every\nfiber of\nyour being.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "text": "Ahaha! Surprised? I didn't set this up, to\nbe\nhonest. There just happens to be a\nfireworks show\ntoday.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "This is supposed to be a good secret\nspot to view\nit from.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Fireworks launch one after the next and\nbloom\nbright and sparkling in the sky.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "This is so cool!"
+            ]
+        },
+        {
+            "text": "Considering how perfect our timing was,\nshe must\nhave invited me on this walk\njust for the fireworks\nshow.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Just how much research did she do for today?)"
+            ]
+        },
+        {
+            "text": "When I think back on our day together, I\nrealize\nFuji Kiseki must've readied\neverything in advance.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm glad you're having fun! There are\nsome\nbenches we can sit on over ther—",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Hm? What's wrong? You're staring at me\nso\nintensely.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Thank you for making today such a memorable\nday."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "I'm grateful for all the thought you put into this."
+            ]
+        },
+        {
+            "text": "It's obvious how much heart and effort\nshe put\ninto today's preparations, from\nbreakfast to the\nflower field to the\nfireworks show.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I'm so happy right now."
+            ]
+        },
+        {
+            "text": "A lovely red tinges Фудзи Кисэки's cheeks\nas I speak.",
+            "name": "Монолог"
+        },
+        {
+            "text": "O-oh. Well... I'm happy to hear that. The\nthing\nis...",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I really wanted to make today special. I\nhope I\ndidn't overdo it.",
+            "name": "Фудзи Кисэки",
+            "choice_data_list": [
+                "Not at all!"
+            ]
+        },
+        {
+            "text": "Phew... That's a relief.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I want to thank you too for gracing me\nwith your\nwonderful smile.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "Here's to many more days of smiling\ntogether.",
+            "name": "Фудзи Кисэки"
+        },
+        {
+            "text": "I sense that Фудзи Кисэки and I have formed\nan\nirreplaceable bond during this time\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's the last day of summer camp.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ever since her heat stroke, Нарита Брайан\nhas been\non an adjusted training\nregimen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "How are you feeling?"
+            ]
+        },
+        {
+            "text": "...Back to normal.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Don't worry about me. You should focus\non\nyourself.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "When we get back to the academy, I\nwant to train\nfor the Kikuka Sho.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Is there anything else you'd like to do?"
+            ]
+        },
+        {
+            "text": "...No. That's all.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "We don't have much time until the\nKikuka Sho.\nWe have to focus on what\nreally needs doing.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "President!",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hmm. I'll have a talk with the director\nand URA\nfolks as soon as I get back.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I'm very sorry to make you do this...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Don't mention it. I've already run the\nrace I came\nhere to run. I've got more\ntime to spare than\nanyone.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Looks like it'll have to wait even longer...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Brian..."
+            ]
+        },
+        {
+            "text": "Silent, she clenches her fist tightly.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If only she could have run against\nСимболи Рудольф\nwhen she had the\nchance.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If only she'd stayed in good enough\ncondition to\nrun against Symboli\nRudolf...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Is there anyone left?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Симболи Рудольф!"
+            ]
+        },
+        {
+            "text": "Oh, it's you... I figured Brian would have\nalready\nboarded the bus.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "About Brian..."
+            ]
+        },
+        {
+            "text": "Did something happen?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "When she fully recovers, I'd like you to run with\nher."
+            ]
+        },
+        {
+            "text": "...The results of competition strongly\naffect us for\nbetter and for worse.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Therefore, we must choose both the\ntime and the\nopponent carefully—for\nboth our sakes.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Were it still summer, it would've been\nmotivating\nfor her. But fall is an\nimportant season for the two\nof you, is it\nnot?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If she were to lose at a time like this...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "...I'm fully aware of what I'm asking."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...I'll give it some thought.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

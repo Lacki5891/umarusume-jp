@@ -1,0 +1,355 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One evening, as we're walking through\nthe\nshopping district...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Look over there, Trainer! I think\nsomething's\ngoing on!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Step right up and try your luck with our\nNew\nYear's raffle! This year's grand-prize\nis a hot\nspring vacation for two!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "First-prize winners get a deluxe carrot\nhamburger\nsteak! Second-prize winners\nget a bushel of\ncarrots! And third-prize\nwinners can take home a\nsingle carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Look at this lovely couple! Why don't\nyou two\ntest your love before heading\nhome from your\ndate?",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Eee! ☆ Let's do it! ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You're quick to agree."
+            ]
+        },
+        {
+            "text": "C'mon, it looks fun! Besides...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Our love is totally gonna snag us the\ngrand-prize!\nDon't you think so? ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I don't see what love and luck have to\ndo with\neach other, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Маяно Топ Ган is overflowing with\nenthusiasm,\nso we finish our shopping\nand then try our hand at\nthe raffle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Trainer! We've only got one raffle ticket,\nso this is\nour only shot!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ooh... I really, really hope we can get\nthe\ngrand-prize!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Praying for good luck, we grasp the\ntumbler's\nhandle together and turn...",
+            "name": "Монолог"
+        },
+        {
+            "text": "A small plastic ball drops from the\ntumbler's\nopening...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Holy mackerel! We've got ourselves a\ngrand-prize\nwinner! Come and get the\ncoupon for your hot\nspring vacation!\nCongratulations!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "We did it! Mission complete!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "Uh-huh! Now then, let's take off... to the\nhot\nspring! ☆",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "But we're not packed!"
+            ]
+        },
+        {
+            "text": "So what? Who even cares?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "If we were to leave right now, our\nluggage\nwouldn't be the only important\nthing we'd need to\nprepare.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We can't go without adjusting the race\nand\ntraining schedules beforehand.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's for your sake that we can't go now."
+            ]
+        },
+        {
+            "text": "For my sake?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You want to achieve your goal, right?"
+            ]
+        },
+        {
+            "text": "Oh...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You see, I've already decided on my\ngoal for this\nyear. ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "This is the year I come out on top... I'll\nbeat Brian\neven if she runs with all she's\ngot!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Thank you, Trainer.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "All righty then! We'll go once I've\nachieved my\ngoal!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "You <i>will</i> come with me, right?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Definitely!"
+            ]
+        },
+        {
+            "text": "Ehehe, yay! No backing out now!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We'll do tooons of relaxing and have\ntooons of\nfun too!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Looks like we have another first-prize\nwinner!\nCongratulations! You get one\ndeluxe carrot\nhamburger steak!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoa! We got first-prize! Yay!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Buuut it's not the hot spring coupon!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "It's still first-prize though!"
+            ]
+        },
+        {
+            "text": "Yeah, but... I wanted to go on a\nlovey-dovey trip\nwith you...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Rrrgh... There's no way I can capture\nyour heart\nwith a hamburger steak.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You don't think so?"
+            ]
+        },
+        {
+            "text": "Are you saying I can?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Well, I <i>am</i> feeling a bit peckish."
+            ]
+        },
+        {
+            "text": "Really?! Then here, I'll give you the\nhamburger\nsteak!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Ehehe. Well? Do you like me more\nnow?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I think so!"
+            ]
+        },
+        {
+            "text": "Woo-hoo!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Haha! You're both so precious! Here, I'll\nthrow in\nanother hamburger steak. You\ntwo have fun, now!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Yaaay! Thank you, mister!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe, he said we're precious! That's like\nsaying\nwe're totally in love! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "We got a second-prize winner! It's your\nlucky day!\nYou're going home with a\nbushel of carrots!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?! A <i>bushel</i> of carrots?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's right! You get to take home all\nthe carrots\nin that basket over there!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "The raffle clerk points to a large basket\nstuffed\nfull of carrots.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...I dunno if I can eat them all.",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "I'll help."
+            ]
+        },
+        {
+            "text": "Really?! Then you and I...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Oh! I just got an idea!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Is it okay if we keep these carrots at\nyour place?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Since I'm sharing a room with Teio, I\ndon't think I\nhave the space. Pleeease?!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Sure, but—"
+            ]
+        },
+        {
+            "text": "Yahoo!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Okay then, I'll come by tomorrow and\nmake a ton\nof carrot dishes for you! ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "text": "Haha! You'll totally fall in love with me\nonce you\ntry my home cooking! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Would you lookie here! You've won the\n\nthird-prize! Here's your carrot!",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Huh?! No way!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Mister, are you sure we didn't get the\n\ngrand-prize? Like, super sure?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I'm <i>positive</i> you got the third-prize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Nooo! But my hot spring trip with\nTrainer...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "And it's just one carrot...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Look, it's the same vibrant color as your hair."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahaha! You can't get me out of your\nmind, can\nyou?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "To think you'd look at a carrot and\nimmediately\nnotice it's the same color as\nmy hair!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Ehehe! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ohhh, tough luck! Looks like you pulled\na blank\none! Take this pack of tissues as\na consolation\nprize.",
+            "name": "Raffle Clerk"
+        },
+        {
+            "text": "Вы получили:\n<itemname>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whaaat?!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I totally thought we'd win! C'mon!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "How can we lose when we love each\nother so\nmuch? It doesn't make sense,\nright?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган bounces back with a\nsmile.",
+            "name": "Монолог"
+        },
+        {
+            "text": "After that, Маяно Топ Ган begins\ninvading my\nplace a lot more\nfrequently...",
+            "name": "Монолог"
+        },
+        {
+            "text": "As we return to campus, I try to comfort\nMayano\nTop Gun by explaining again\nthat love and luck\nhave nothing to do\nwith each other.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later at night, Маяно Топ Ган and I\nenjoy our\ndeluxe carrot hamburger\nsteaks together.",
+            "name": "Монолог"
+        },
+        {
+            "text": "We excitedly think about the day we'll\nfinally be\nable to use the hot spring\ncoupon.",
+            "name": "Монолог"
+        }
+    ]
+}

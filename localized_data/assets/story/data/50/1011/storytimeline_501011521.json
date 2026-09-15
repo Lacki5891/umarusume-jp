@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Oh, good morning, Trainer... <i>Yaaawn...</i>",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Someone's sleepy."
+            ]
+        },
+        {
+            "text": "Well, you see... El was talking in her\nsleep last\nnight, and I couldn't help but\nbe a little curious...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She must've been having the buffet of\nher\ndreams, because she kept calling out\nthings like\n\"a la plancha\" and\n\"gazpacho.\"",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It's incredible how she can muster that\nmuch\nenergy even while sleeping...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "So you see, I didn't catch a wink all\nnight...\n<i>Yawn...</i>",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It seems Грасс Вандер needs more\nsleЭпизод",
+            "name": "Монолог"
+        }
+    ]
+}

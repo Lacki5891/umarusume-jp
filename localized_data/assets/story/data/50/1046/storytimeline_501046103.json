@@ -1,0 +1,81 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the start of summer camp, a\ntime for\nintense training. Смарт Фалкон\nlooks excited to\nget started.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's go! Let's go, go, gooo! ☆",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "text": "Oops! ☆ I might've gotten a bit carried\naway\nthere! ♪",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Understandable. The Japan Dirt Derby is right\naround the corner."
+            ]
+        },
+        {
+            "text": "Yeah! I'm super pumped!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "The Japan Dirt Derby takes place\naround the\ntime summer camp begins,\nwhich means the race\nis nearly upon us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's gonna be so many super fast\nracers from\nmy generation.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That means I've gotta win so\nspectacularly that\neveryone calls it\nGeneration Falco! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's how good I have to be if I want\neveryone\ncheering for me.",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Why do you say that?"
+            ]
+        },
+        {
+            "text": "I think I disappointed some people by\nrunning in\nthe Satsuki Sho.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "I'm pretty sure about half of my fans\nwould rather\nsee me running on dirt.",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That's why I have to win the Japan Dirt\nDerby and\nshow them that side of me\nagain!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "We entered the Satsuki Sho to please\nher fans.\nShe also wants to win the Japan\nDirt Derby for\nthe same reason. She's\nalways thinking of her fans\nfirst and\nforemost.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Once the race is over, I'm counting on\nyou to\ncome up with a rigorous training\nplan for summer\ncamp!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Your wish is my command!"
+            ]
+        },
+        {
+            "text": "Haha, someone sounds dependable! I'm\ngonna go\nhard too and make sure to win!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Let's go, go, gooo! ☆ Woo!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Summer camp is off to a blazing start!",
+            "name": "Монолог"
+        }
+    ]
+}

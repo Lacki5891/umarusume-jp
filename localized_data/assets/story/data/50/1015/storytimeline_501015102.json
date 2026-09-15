@@ -1,0 +1,169 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Т.М. Опера О and I are going to meet at\na shrine\nto welcome in the new year. This\nmarks her\nadvance to senior racer.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She still hasn't arrived, but then I hear a\nfamiliar\nvoice coming from the main\nbuilding.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haaah ha ha ha! Ask something of the\ngods?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I am accustomed to <i>being</i> worshipped,\nbut the\nother way around? Well...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "If you insist, I shall come up with\nsomething.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Hear me, gods. Why not ask <i>me</i> for a\nfavor, hm?",
+            "name": "Т.М. Опера О",
+            "choice_data_list": [
+                "Opera O, move over to the side, please."
+            ]
+        },
+        {
+            "text": "The side?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh, I see. Standing at the center makes\nit seem as\nthough the masses have come\nto pray to me\ninstead.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "We hurriedly move to a spot away from\nthe\ncenter...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I must say, it's a perplexing task to think\nof a wish\nthe Overlord might ask.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Alas, what could one who has\neverything, as I do,\npossibly desire?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I could demand to be initiated as the\nCenturial\nOverlord, but that is, as you'd\nexpect... asking a\nlot.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Have you any ideas?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And make sure they are overlordly!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "An overlordly desire. If I had to say\nanything, it\nwould be...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "The Manchu-Han Imperial Feast.",
+                "A title change to Demon Lord.",
+                "The restoration of monarchical rule."
+            ]
+        },
+        {
+            "text": "Ahh, an imperial feast! I will ask the\ngods to\nprepare an assortment of the\nmost lavish\ndelicacies!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>Whooosh!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Wh-whoa! My body is moving on its own!\nAre the\ngods guiding me?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Come along, Trainer! Quickly!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "She leads me to...",
+            "name": "Монолог"
+        },
+        {
+            "text": "A ramen shop? And a rather run down\none at that.\nBut a restaurant of Chinese\norigin all the same.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "The roots are identical, so I will dine in\nthe spirit\nof the Qing dynasty rulers. In\nwhat manner should\nI ask...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Master, I request \"the works,\" if you\nplease. This\nis the most affluent, I\nassume.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "And add gyoza and fried rice as\ntoppings for\ngood measure!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Now <i>that</i> is what I call a New Year's\nspecial—the\nOverlord ramen forte!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "A vocational change! Yes, rather than\nthe path of\nthe Centurial Overlord, the\npath of the Demon\nLord is also on the\ntable.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "How interesting... A new year is the best\ntime to\ntry new things, and thus, to the\ndark side I turn.\nBehold, I am the Demon\nLord! Heavens, cower\nbefore me!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "<i>Flash! Rumble, rumble!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "Haaah ha ha! Come, torrential\ndownpour! Drench\nall of humanity, all of\nUmamusume kind!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Ohh! This play tickles far more than I\nexpected! I\nfeel a level of greatness\nnever before\nexperienced!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Restore the ruling system of old! Veni,\nvidi, vici...\nand the like, yes?",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Of course! It is time to reclaim control\nfrom the\nmodern-day statesmen.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "President, there is a matter we must\ndiscuss. It\nconcerns the organizational\nstructure of this\nacademy.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I believe it's about time we do away with\nthese\ndemocratically elected leaders\nand restore the\nright of rule to kings.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I was unaware that Академия Тайсен was\never a\nmonarchy...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Listen well. Rule under a king has its\nsuperior\npoints. Such as...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Opera O eats every last bite of the extra\nlarge\nramen put in front of her. She's full\nof energy!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Acting like a demon lord seems to have\nmade\nOpera O stronger in every way.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Т.М. Опера О elegantly lays out her\nargument.\nThis exchange with Symboli\nRudolf appears to\nhave expanded her\nknowledge.",
+            "name": "Монолог"
+        }
+    ]
+}

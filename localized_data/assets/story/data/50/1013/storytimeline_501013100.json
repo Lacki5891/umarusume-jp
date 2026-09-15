@@ -1,0 +1,197 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "At last, Мэдзиро МакКуин's journey to\ncompete in\nthe Twinkle Series begins.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm super psyched for it as well. But first,\nI need to\nhead to the cafeteria for a bite\nto eat.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> Such a wonderful smell.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "There's a weightiness to it, yet it's\ndelicate as\nwell.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Yeah, it's nice and strong. It might not\neven need\nsugar.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "(That's Мэдзиро Райан, a member of the\nnoted\nMejiro family. She's athletic and\nradiates energy.)",
+            "name": "Монолог"
+        },
+        {
+            "text": "The academy's cafe is rather elaborate,\nisn't it?\nThere are so many flavors on the\nmenu.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "(This is Мэдзиро Добер, also a member of\nthe\nMejiro family. She's a bit hard to\nplease.)",
+            "name": "Монолог"
+        },
+        {
+            "text": "L-look, look! They're from the Mejiro\nfamily!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "They're having a high-class conversation!\nJust\nhow I thought they'd be!",
+            "name": "Умамусумэ Б",
+            "choice_data_list": [
+                "(Now that I look at them again, they really do\nhave an impressive aura!)"
+            ]
+        },
+        {
+            "text": "And last but not least, my\ntrainee—Mejiro\nMcQueen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Seeing her in this light, I can really sense\nthe\nnoble air she emits.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But, are you sure you don't want a\nchocolate\npudding crepe, McQueen?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Huh? ...Yes, I'm sure!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm perfectly fine! I-I brought my own\nspecial\ndessert, you see!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Special dessert?",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Y-yes. I made it myself with nuts in place\nof flour.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Low in sugar and high in protein, it's very\n\nnutritious. Above all else, the exquisite\nflavor\nsolidifies it as an exceptional\ndessert.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ooh, that's wonderful. In that case, I'm\nsure you\nwouldn't mind if I had one of\nthose crepes myself.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "Of course, go right ahead.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I take a closer look at the dessert Mejiro\n\nMcQueen has and realize it's from a\nrecipe I once\ntaught her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She seems to be working hard to reach\nher goals,\njust like always.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're giving it your all, aren't you?"
+            ]
+        },
+        {
+            "text": "Oh, Trainer!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Oh, it's McQueen's trainer. Hi!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "You're right. McQueen has been working\nhard\nnonstop lately!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Having set a goal to conquer the Tenno\nSho, it's\nonly natural for me to work hard\nto reach it.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Not to mention, my debut is very soon,\nwhich\nmeans I must brace myself and\nfocus all the more.",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "Let's go all out!"
+            ]
+        },
+        {
+            "text": "Yes, of course. I hope you'll accompany\nme with\nthe intention of doing the same.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Still, it's gonna be a long time before\nyou\ncompete in the Tenno Sho, right?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Shouldn't you be aiming for the Classics\nfirst?",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Yes, consider conquering the Tenno Sho\nmy\nultimate goal.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Before that, I plan to achieve success in\nthe\nClassics and make steady progress\ntoward the\nTenno Sho.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Ahh. Then I guess that means we'll be\nmeeting at\nthe Classics!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Just so you know, I'm not gonna lose!\nI've had my\nsights on the Classic Triple\nCrown for a long time\nnow!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Yes, I'm well aware of just how hard\nyou've been\nworking.",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Therefore, I won't be going easy on you\neither. I'll\nbe giving the Classics\neverything I have!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Yeah, let's both give it our best shot!\n...Oh, it\nlooks like Dober is back.",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Whoa, awesome! There really is\nchocolate\npudding on top of the crepe!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "Wh-what did you say?!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "Thanks for bringing one for me too,\nDober!",
+            "name": "Мэдзиро Райан"
+        },
+        {
+            "text": "It was no trouble. No one else was in\nline. Well, I\nthink I'll go ahead and dig\nin.",
+            "name": "Мэдзиро Добер"
+        },
+        {
+            "text": "<i>Gulp...</i>",
+            "name": "Мэдзиро МакКуин",
+            "choice_data_list": [
+                "You wish you'd gotten one after all, don't you?"
+            ]
+        },
+        {
+            "text": "Ah, uh, no, that's not it!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "I'm not fighting to restrain myself or\nanything of\nthe sort!",
+            "name": "Мэдзиро МакКуин"
+        },
+        {
+            "text": "In any case, Мэдзиро МакКуин and I have\nbegun\naiming for the Tenno Sho in\nearnest!",
+            "name": "Монолог"
+        }
+    ]
+}

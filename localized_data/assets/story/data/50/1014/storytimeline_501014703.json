@@ -1,0 +1,224 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Эль Кондор Паса and I are on our way\nback after an\nouting when her phone\ngoes off.",
+            "name": "Монолог"
+        },
+        {
+            "text": "This is bad, Trainer! This just dropped on\na\nwrestling site...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ellie Condra is retiring!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Why would she do this?! She still hasn't\nproven\nthat she's the world's strongest!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Is it official?"
+            ]
+        },
+        {
+            "text": "I'm not sure yet, but... it's a pretty\ntrustworthy fan\nsite.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I have to check with her myself! The\nagency she\nworks with is close by, so\nlet's go!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Since it hasn't been officially stated, it's\nunlikely\nwe'll get an answer even if we\nask directly.\nHowever...",
+            "name": "Монолог"
+        },
+        {
+            "text": "I just have to know!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She's my rival!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Even if I'm the only one who thinks so...\nher\nperformance in the ring is what made\nme feel that\nway!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So I just <i>have</i> to ask!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Let's go then."
+            ]
+        },
+        {
+            "text": "...All right! Thank you, Trainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ellie Condra isn't at her agency.\nApparently, she's\ntraining for her next\nmatch.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She left to go run by the riverside a bit\nago. As\nfor where she is now... Well...",
+            "name": "Agency Staff"
+        },
+        {
+            "text": "I don't believe she has any plans to\ncome back\ntoday. She also starts training\ncamp tomorrow.",
+            "name": "Agency Staff"
+        },
+        {
+            "text": "As for information regarding retirement,\nthat\nshould be made clear at her next\nmatch. That's all\nI can say, sorry.",
+            "name": "Agency Staff"
+        },
+        {
+            "text": "Is her next match... a farewell match?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Even though she's my rival, I'm also still\none of\nher fans.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Even if I don't really have a choice, it\ndoesn't\nmake waiting till her next match\nany easier...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The agency staff say that Ellie Condra\nhas just\nleft. Given that information...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's see if we can find her!",
+                "Let's see if we can catch up to her!"
+            ]
+        },
+        {
+            "text": "Th-that's a great idea!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She might still be close, or by the river!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Vámonos, Trainer! Let's go!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "We search until it gets dark, but\nunfortunately,\nwe don't find her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you for coming with me, Trainer.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Even though we didn't find her...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She seems a little down. I think about\nhow to\ncomfort her, but then I see the\nlook in her eyes.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Even if she gives up on her dream, I'm\nnot givin'\nup on mine.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Not just her. Even if every last one of my\nrivals\nthrows in the towel...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'll keep soarin' no matter what!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'll take the passion and courage that all\nof my\nrivals have given me... and turn it\ninto power!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "She's passionate and full of fighting\nspirit.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "It's possible that something happened."
+            ]
+        },
+        {
+            "text": "That's true. Something terrible could\nhave forced\nher to give up...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "We'll find out at the next match! Let's\nwait until\nthen!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It's really late, huh? Let's go home,\nTrainer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That's right! They did say she just left!\nMaybe we\ncan catch her!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Let's go to the riverside!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "We make it to the riverside, but Ellie\nCondra is\nnowhere to be seen.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe she's a little further ahead! I'll\ncheck over\nthat way!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "We search around the area a bit more,\nbut we\ncan't find her. It's getting dark\nout...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hmm... Let's try somewhere else!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "We should head back."
+            ]
+        },
+        {
+            "text": "But we can't give up!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ellie Condra said she was gonna prove\nherself!\nJust like me!",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Do you really think she's giving up?"
+            ]
+        },
+        {
+            "text": "Hmmm...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "The conviction with which Ellie Condra\nspoke\nwhen we saw her at the station\nwas certainly no\nlie.",
+            "name": "Монолог"
+        },
+        {
+            "text": "That's right. She said she was gonna be\nworld\nchampion.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm so curious about her reasons, but I\nbelieve\nwhat she said that day!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'll just do what I need to do to prove <i>I'm</i>\nthe\nworld's strongest!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "While I wouldn't say she's gotten over\nthe news,\nEl Condor Pasa sets off with\nher eyes on the\nfuture.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Her smile looks a bit forced, but she's\nstill the\nsame Эль Кондор Паса, with her\neyes on the future.",
+            "name": "Монолог"
+        }
+    ]
+}

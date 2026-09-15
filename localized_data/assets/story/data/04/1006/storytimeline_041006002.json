@@ -1,0 +1,228 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few days after helping Огури Кэп get\nback to her dorm, a familiar\ndistraught\nface can be seen wandering the academy\ngrounds.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hrmmm... I'm back here again...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Where are you headed today?"
+            ]
+        },
+        {
+            "text": "Oh, it's you...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Sorry, could you show me the way again?\nI'm trying to get to the\ntraining course this\ntime.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I lead Огури Кэп directly to the training\ncourse.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Sorry for the wait, Tama.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "About time ya showed up, Oguri! A bit\nlate, but I'm prouda ya, findin'\nyour way\nhere all by yourself!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I was worried you'd get lost again. And\ny'know, since I can't go 'round\nleadin' ya\neverywhere, I thought it'd be a good idea\nto try leavin' ya\nto your own devices...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I got here just fine. This trainer here\nshowed me the way.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "AND HERE I THOUGHT YA DID IT ON\nYOUR OWN!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Ugh, it's fine. Now that you're here, let's\nhurry up 'n' get this\nscrimmage started.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Sounds good. I'll go get ready.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "A'ight. Me too.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "A racer of the utmost caliber, Tamamo\nCross has already made her\ndebut, and she\nlooks ready to prove to Огури Кэп\nprecisely why.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Word of their race quickly spread around\nthe academy, and rightfully\nso—both\nparticipants are racers of remarkable\ntalent.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, did you hear the news? Tamamo and\nthe new girl are gonna race\nover at the\npractice grounds!",
+            "name": "Умамусумэ А"
+        },
+        {
+            "text": "Seriously?! You mean we finally get to see\nOguri Cap in action? We\n<i>gotta</i> see this.",
+            "name": "Умамусумэ Б"
+        },
+        {
+            "text": "Hm?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's awfully loud here. Is there some kind of\nfestival going on today?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "They're all here to see you two race."
+            ]
+        },
+        {
+            "text": "Is... that so? That's quite the crowd...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Hrmm...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "Is something the matter?"
+            ]
+        },
+        {
+            "text": "Errr, well... I've never been watched by so\nmany people around my\nage. It wasn't like\nthis back home...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'm not used to it... It's making me restless.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's the same whenever I eat... The other\ngirls are always staring at the\nmountain of\nfood on my plate...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "And it kinda bothers me, so I've been\neating alone in my room\nlately...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Sorry for holdin' ya up, Oguri! I'm rea—",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "<i>Whoa!</i> The stadium's packed, yeah?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Um, Tama?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "What? Don't tell me ya got butterflies,\nOguri! How're ya s'posed to\nrun in any of\nthe G1 races?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I got just the thing for ya! All ya gotta do\nis imagine that eeeveryone\nwatching ya is\na piece of takoyaki!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Takoyaki, huh? Hm... I'll give it a shot.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Hrmmm... Now I'm hungry...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Ya sure are one peculiar gal...",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Finished with their preparations, the\nscrimmage between Огури Кэп\nand Tama\nCross can finally begin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hnng!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'll show ya what a girl from Naniwa's really\nmade of!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Each of their steps digs deep into the\nground. It may be just a\nscrimmage, but it\nlooks like neither of them are holding back\nin this\n800 meter dash.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Nngh!",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'm just getting started, Oguri!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "They overtake each other again and again,\nuntil finally—",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i> A perfect tie, huh? Not bad,\nOguri.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "You too, Tama. You're faster than I\nexpected.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Heh. Right? But I'm gonna beat ya next\ntime, just ya wait and see.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...Anyway! Now that I'm all fired up, might\nas well go for a quick run.\nCatch ya later,\nOguri!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "What a great race. Good job."
+            ]
+        },
+        {
+            "text": "Ah, you were watching, huh?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's weird. Doctors told me I had a steady\nheart. Even right after a\nrace, my heart\nrate would go straight back to normal.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "But... my heart's still pounding. And when I\nthink about the race just\nnow, my heart... it\nraces even faster.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "It's a strange sensation, but... I think I like\nit. Am I... excited? Is this\nwhat excitement\nfeels like?",
+            "name": "Огури Кэп",
+            "choice_data_list": [
+                "You found yourself a worthy rival."
+            ]
+        },
+        {
+            "text": "A rival... Huh...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I see. So this is what central has to offer...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Огури Кэп stood in place, deep in\nthought, reflecting upon this\nbrand-new\nexperience.",
+            "name": "Монолог"
+        }
+    ]
+}

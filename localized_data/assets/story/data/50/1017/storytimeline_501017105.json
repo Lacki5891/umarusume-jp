@@ -1,0 +1,48 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the start of summer camp,\nwhere the\nUmamusume train to improve\ntheir skills.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And Симболи Рудольф...",
+            "name": "Монолог"
+        },
+        {
+            "text": "...is staring out to sea.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's a pleasant wind today,\nespecially for the\nheight of summer.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "That's as good a start as any, I think.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Last year, Симболи Рудольф spent all her\ntime at\nsummer camp taking care of the\nother students,\nbut this year...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Taking it easy this year?"
+            ]
+        },
+        {
+            "text": "That's my intention. Naturally, I still have\nstudent\ncouncil affairs waiting in the\nwings...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But I thought it might be nice to\nexperience the\nexcitement of the first\nday of summer camp for\nmyself.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Just like any other student of Tracen\nAcademy.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Well, it's about time for roll call. Let's\nget started,\nshall we?",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

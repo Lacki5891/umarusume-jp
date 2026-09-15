@@ -1,0 +1,287 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Mayano! Mayano!\nMayano! Mayano!",
+            "name": "Spectators"
+        },
+        {
+            "text": "...I won.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I did it. I won against Brian.",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "T-Trainer! I... I...",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You were incredible, Mayano."
+            ]
+        },
+        {
+            "text": "Yeah...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I <i>was</i> incredible, wasn't I? I was totally\ntwinkly,\nright?",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "You were the twinkliest."
+            ]
+        },
+        {
+            "text": "Waaaaah! Traaaaainer!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "<i>Pant... Pant...</i> I'm still out of breath...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I lost. I pulled out all the stops... and was\n\ndefeated. But... I don't hate this feeling.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hmph, this is...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Brian!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Are you really okay with this?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Ah, right. It's not over yet.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I still have my final announcement.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You are as rigid as a mountain... I\nsuppose I can't\nchange your mind.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...The press is already waiting. You might\nas well\nmake your ceremony as brilliant\nas possible.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...Thank you.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "All right, Brian. We're scheduled to start\nin five\nminutes.",
+            "name": "Staff"
+        },
+        {
+            "text": "Right... Got it.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm glad I finished running on turf. Not\nthe turf at\nthe academy, but the turf\nhere.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "No way! Brian! Show us more of your\nmajesty!",
+            "name": "Fan A"
+        },
+        {
+            "text": "Please don't quit!",
+            "name": "Fan B"
+        },
+        {
+            "text": "Hmph... Enough whining. You can take\nyour\ndreams...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "And shove them onto Маяно Топ Ган.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "—Okay! A-and now, Нарита Брайан's final—",
+            "name": "Host"
+        },
+        {
+            "text": "Stooooop!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "No way can I just sit back and watch this\nhappen!\nYou're not allowed to quit,\nBrian!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Huh?! B-but...",
+            "name": "Host"
+        },
+        {
+            "text": "No buts! I don't want her to quit, so she\ncan't!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Hey.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You think you can simply show up out of\nnowhere\nand talk whatever garbage you\nwant? You\nalready won.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Think about what that means! Spare me\nyour\nchildish antics.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But I <i>am</i> a child!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "A child who's gonna become a grown-up\nracer\nwho faces off against you a lot,\nBrian!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's why I can say whatever I want!\nEven if it's\nselfish—because I'm a kid!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I wanna keep running with you, Brian!\nPromise\nyou'll race against me again!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Wh-what?!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "What's wrong with you? Please, today\nis—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're not quitting!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hey!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Pfft... Ahaha!",
+            "name": "Fan C"
+        },
+        {
+            "text": "That's right! Don't quit, Brian! Face off\nagainst\nthe champion!",
+            "name": "Spectator D"
+        },
+        {
+            "text": "It's not like you to turn down a challenge\nlike\nthat, Brian!",
+            "name": "Spectator E"
+        },
+        {
+            "text": "Who asked you to chime in?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Haha! Everyone knows you well, Brian!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "But I know you even better. I mean, even\nnow...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "I can tell that you wanna run with me\nagain—that\nyou wanna get even more\nexcited!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hehe! That's why I'm gonna stick with\nyou!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "The more I race against someone who\ntwinkles\nlike you, the more twinkly of a\ngrown-up I can\nbecome!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...What a load of crap.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "You're demanding I keep racing out of\npure\nselfishness.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "That's right!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Damn it. You're nothing but a hopeless\nchild.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Yeah, but I'll be a grown-up in no\ntime! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "That's not what I was getting at...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hehe... Accept your defeat, Нарита Брайан.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "No one here wants you to quit.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Not even you.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You still have time to change your mind.\nMake\nthis ceremony into one of a\ndifferent kind.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Oooh, good idea! We'll make it my\nchallenge\nceremony!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "What?! As if I would hand over the\nspotlight—",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "C'mon, it's no big deal! Right, President?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Hm, I find no issue with that. I'm sure the\npress\nwill also enjoy this exciting turn of\nevents.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Copy that! ☆",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...What a child you are.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Ahaha! ☆ You must be dying to see me\nall\ngrown-up. You can hardly even wait,\nright?",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "...Indeed.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I hate to admit it, but I'm looking\nforward to it.",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

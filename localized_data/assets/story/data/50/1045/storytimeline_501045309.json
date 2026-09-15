@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I just... I can't believe it...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Trainer, I beat Tamtam and Oguri!",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Now they see your true strength."
+            ]
+        },
+        {
+            "text": "Gosh! You're praising me way too much!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I'm really glad that I could finish\nthings like\nthis.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик, it's time for your post-race\n\ninterview. This way, please!",
+            "name": "Racecourse Staff Member A"
+        },
+        {
+            "text": "Um... Thank you very much for coming to\nour race\ntoday.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "My cheekiness has caused my trainer a\nlot of\ntrouble over the past year.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I believe that those trials have\nhelped us both\nto grow.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик, what's your next goal?",
+            "name": "Репортёр A"
+        },
+        {
+            "text": "Umm, I'll have to discuss that with my\ntrainer, but\nI'd love to try for the Osaka\nHai.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "We still have a lot to learn, but we hope\nyou'll all\nbe here to support us next year\nas well.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "The heck's with all the ceremony?!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Geez, I can't stand it. Ya feel me, Oguri?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "But I s'pose we can give her this one.\nThe real\nbattle is only just beginnin'.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "...Don't you say it. I don't wanna hear\nnothin'\nabout you bein' hungry, 'kay?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "...When's the cake being cut?",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "Aagh! There is no cake!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Even amidst the year-end chaos, Super\nCreek has\nthe best day ever.",
+            "name": "Монолог"
+        }
+    ]
+}

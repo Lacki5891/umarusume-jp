@@ -1,0 +1,274 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We go to Директор Акикава's private\nbeach for\nsome extracurricular activities\none day.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But while we're in the middle of a\nlong-distance\nswim, we suddenly get\ncaught in a huge storm.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, is this for real?! Did we seriously\nget swept\nonto a deserted island?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'm glad you're okay."
+            ]
+        },
+        {
+            "text": "Yeah, sure... I guess. But we're literally in\nthe\nworst possible situation.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин seems shaken up by the\n\nunexpected turn of events.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thankfully, our phones still have a\nsignal, and\nwe're able to contact\nДиректор Акикава, who\norganizes a\nrescue squad to come get us soon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i> If I'd known this would happen, it\nwould've\njust stayed home and trained\nat the academy.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "At the very least, we wouldn't have\ngotten swept\nout to the middle\nnowhere...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Extracurricular activities come with a lot of\nbenefits, though."
+            ]
+        },
+        {
+            "text": "I explain to her how training in\nconditions\ndifferent from what she's used\nto can help her\nadapt and run in all sorts\nof situations.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Then that means I'm getting left further\nand\nfurther behind the others...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Argh! Just thinking about that makes me\nso mad!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She's practically gnashing her teeth in\nfrustration.\nI try to think of what I can do\nto make her feel\nbetter.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "We can still train here!",
+                "Let's do what we can to be found sooner!"
+            ]
+        },
+        {
+            "text": "I tell Нарита Таисин that if we train while\nwe're\nwaiting to be rescued, then we can\nminimize lost\ntime.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Fine. I'll do whatever exercises you can\nthink up,\nso let me at 'em.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Perhaps feeling the pressure, Narita\nTaishin shows\na surprisingly willingness\nand quickly agrees to my\nproposal. I put\ntogether a training list for her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hup... Hup!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Ugh! There are so many branches and\nrocks in\nthe sand! I can't run properly\nwith them in my\nway!)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(What kind of race would be on such a\nbeaten-up\ntrack?!)",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Look ahead and find the best route!"
+            ]
+        },
+        {
+            "text": "Do you seriously think I don't know what\nto do?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Running on the obstacle-filled beach\nappears to\nimprove her leg strength and\ndecision-making\nskills better than\nregular beach running.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh! You want me to catch fish with my\nbare\nhands? Is this seriously training?!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "It'll help improve your motion-based vision and\nreflexes!"
+            ]
+        },
+        {
+            "text": "Really? If it turns out you're lying just to\nget some\nfood, I'm gonna wring your\nneck!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Argh, damn it! They keep darting\naround!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "You wanna mess with me? Then I'll catch\n<i>all</i> of\nyou!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yaaahhh!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Huh?! I-I got one?! Trainer, what do I do\nwith\nthis?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's all slimy and freaking out... Hurry up\nand do\nsomething!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "All right! That's one fish down! I'm gonna\ncatch a\nhuge one next.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...What are you smiling about?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "I'm just glad you're having fun."
+            ]
+        },
+        {
+            "text": "Huh?! What are you talking about,\nbonehead?\nYou think I'm playing here?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Why am I doing all the work anyway?\nDon't just\nstand there. Pull some weight,\nslacker.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Go look for shellfish in the sand or dive\nfor sea\nurchins or something.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We spend our time completely absorbed\nin\ntraining with the natural equipment\naround us\nuntil we're rescued.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I suggest that we write \"SOS\" in the sand\nto make\nit easier for the rescue squad to\nfind us.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...Yeah, okay. I'll get all restless if I don't\ndo\nsomething.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We search the area and find a large\nbranch we\ncan use to write the rescue\nmessage.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She takes over writing the message, and\nI direct\nher from far away to make sure\nthe letters are\nlarge enough to spot\neasily.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "The next letter should be three steps to the\nright!"
+            ]
+        },
+        {
+            "text": "Roger! ...Oof!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Damn... It's actually pretty tough writing\nthese\nletters. I guess this counts as\ntraining too.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I'm done! The SOS message is good to\ngo!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Great job. Have some coconut juice."
+            ]
+        },
+        {
+            "text": "How'd you find coconut juice on a\ndeserted...\nWait, is that an <i>actual</i>\ncoconut?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ahhh! I've only seen people drink\nstraight out of a\ncoconut in video games.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(This actually tastes pretty good...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Phew. I'm pooped.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Let's rest for a bit."
+            ]
+        },
+        {
+            "text": "Sure.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey, um...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The letters in the sand are great and all,\nbut what\ndo we do if no one ever finds\nus?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "We put our heart and soul into writing it, so it'll\nbe fine!"
+            ]
+        },
+        {
+            "text": "Hmph. You <i>would</i> say something like\nthat.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Did I seriously ask a question I knew the\nanswer\nto and <i>still</i> feel better after\ngetting a response?\nUgh, I'm such a\ndoofus.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey... HEEEY!",
+            "name": "???"
+        },
+        {
+            "text": "Huh? Is that... the rescue squad?!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hey! Wake up, Trainer!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Honestly, how can you even sleep at a\ntime like\nthis?! Get your act together!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Sorry... Oh, who's this?"
+            ]
+        },
+        {
+            "text": "A member of the rescue squad. He's\nhere because\nhe saw our SOS message.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "We were able to locate you two sooner\nthan\nexpected thanks to that!",
+            "name": "Rescue Squad Member",
+            "choice_data_list": [
+                "Thank goodness... See? Told you."
+            ]
+        },
+        {
+            "text": "...Hmph.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "The training appears to pay off as Narita\nTaishin\nimproves substantially after we\nget home.",
+            "name": "Монолог"
+        },
+        {
+            "text": "While the unexpected incident was a\nhuge ordeal,\nI feel as though I've gotten\na little closer to\nНарита Таисин as a result\nof today.",
+            "name": "Монолог"
+        }
+    ]
+}

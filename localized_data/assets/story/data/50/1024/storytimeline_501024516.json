@@ -1,0 +1,87 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While I'm at the cafeteria for lunch...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Chanko! ♪ Chanko! ♪ Having hot pot to\nget big\nand strong! ♪",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "...Are you okay?"
+            ]
+        },
+        {
+            "text": "Oh, hello! Welcome to the Buono\nCafeteria! ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Ehehe! ☆ I'm going to steal your heart,\nTrainer,\nand become a real grown-up\nwoman...",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "With the hearty hot pot that all the\nsumo\nwrestlers eat—chanko!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "That's definitely a... unique choice."
+            ]
+        },
+        {
+            "text": "Well, Maya is always saying that she\nwants to\ngrow up fast...",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "So I thought a hearty bowl of chanko\nwould\nhelp! ♪",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "It's perfect! Just think about it! A <i>heart</i>-y\nbowl of\nchanko! This'll make me more\nfeminine than ever!",
+            "name": "Маяно Топ Ган",
+            "choice_data_list": [
+                "Is the \"sumo\" part okay for your weight goals?",
+                "Sounds interesting!"
+            ]
+        },
+        {
+            "text": "Wait, you're right! I've gotta watch my\nweight\nright now!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ahhh, that's too bad! How about just\nhelping me\ncook for today then?",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Roger that! ☆ I'll leave the taste-testing\nto\neveryone else!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Ehehe! ☆ It'll be super tasty too—just\nyou wait!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Finished!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Buono, buono! You've really improved,\nMaya.",
+            "name": "Хиши Акэбоно"
+        },
+        {
+            "text": "Ehehe! All that's left is to use this to win\nTrainer\nover!",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Look, I even cut this carrot into the\nshape of a\nheart. Say \"ahhh\"! ♪",
+            "name": "Маяно Топ Ган"
+        },
+        {
+            "text": "Маяно Топ Ган's hearty chanko\nsuccessfully\nwins over everyone's\nstomachs!",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so the three of us enjoy a lively\nlunch\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

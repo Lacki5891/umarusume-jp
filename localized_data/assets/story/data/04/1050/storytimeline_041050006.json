@@ -1,0 +1,271 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Huff... Puff...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "There, that's all of today's drills!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин's training is going well, and\nshe's getting into the swing\nof it. But\nsomething is still missing...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Really nice results today! You're almost\nready for the next race!",
+            "name": "New Trainer"
+        },
+        {
+            "text": "For real?! Hehehe, guess I better get\nready for my big reward, huh? ♪",
+            "name": "Cheerful Umamusume"
+        },
+        {
+            "text": "Ah, there it is! Sure thing, lemme just make\na reservation for that\npremium dessert\nbuffet you've been dreaming about!",
+            "name": "New Trainer"
+        },
+        {
+            "text": "Seeing other trainers with their racers, I\ncan't help but think...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(I might need to get to know Taishin better...)"
+            ]
+        },
+        {
+            "text": "For the most part, I only see her during\ntraining. I know next to\nnothing about\nTaishin herself.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Taishin, have a sec?"
+            ]
+        },
+        {
+            "text": "What? I did all my routines. Am I missing\nsomething?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Is there anywhere you'd like to go?"
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Not really. I don't have time to keep you\ncompany anyway. I'm gonna\ncool down\nand head back.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And she's gone... Hopefully I'll get to\nknow her better as we train\nmore.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One day, a letter goes out to all faculty. It\nturns out to be a bonus\nfrom the\nacademy—tickets to an aquarium.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I would've invited Taishin, but she turned\nme down last time I tried.\nSo, I head off by\nmyself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's a small aquarium in the suburbs, quiet\nand with only a sprinkling of\nvisitors.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "...One of whom I recognize.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Taishin?)"
+            ]
+        },
+        {
+            "text": "While I debate whether to say something,\nshe mumbles to herself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...What's next?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(I've never seen her this calm...)"
+            ]
+        },
+        {
+            "text": "Something's different than usual.\nPerplexed, I watch silently as she\ndrifts off\nto another area.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But it's a small aquarium, and as I stroll\naround, I wind up seeing her\nagain.",
+            "name": "Монолог"
+        },
+        {
+            "text": "She's standing by the \"Fishy-Fun-Time\"\ntouch tank, staring down the\ndoctorfish\ninside.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Here I go.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She cautiously checks if anyone is around,\nthen gathers her courage\nand dips a hand\nin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Her worry melts away as the squirming fish\ntickles her fingers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Later, as the sun begins to set...",
+            "name": "Монолог"
+        },
+        {
+            "text": "There are barely any visitors now. The\naquarium is still and noiseless\nas the deep\nsea.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And all alone, joyfully snapping pics of the\nenergetic sea creatures, is\nTaishin.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For someone who hates groups, she has an\nawfully big smile looking\nat the school of\nfish.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hm?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Wha! It's you!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I freeze like a deer in headlights. A wave\nof embarrassment washes\nover me as I\nstruggle to reply.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Oh, h-hey. What a coincidence."
+            ]
+        },
+        {
+            "text": "Smooth. If she realizes I was watching her,\nI don't even want to <i>think</i>\nhow mad she'll\nbe...",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's always like this here, you know.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She smiles, not a hint of anger to be heard\nin her voice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Maybe it's the tranquil blue ambience...\nbut she seems so gentle.",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's another bigger, fancier aquarium\nnearby. So pretty much\neveryone goes\nthere now.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's why it's always quiet here. Most\ncome by themselves. And\nthey're all\nfish-lovers, so they just stare at the tanks\nthe whole time.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "They don't give a second thought to me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "She pauses, her words fading into the\nbackground music.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For all the time we've spent together, I've\nnever seen her make a face\nlike this.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But how about you, fishies? I wonder if\nthey notice me... Hehe.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Whatever, it doesn't matter. They aren't\nreally watching. They're just\naround.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "It's fine... I like it that way—makes it easier\nfor me.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Hm? Hey, what's that grin for?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Huh? Oh, nothing really."
+            ]
+        },
+        {
+            "text": "That so? You're kinda weird sometimes.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Well, I gotta go. This place closes pretty\nearly, so watch out.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I look on as the mysterious aquarium-goer\ndisappears into the\ndistance.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(This turned out to be a pretty great day.)"
+            ]
+        },
+        {
+            "text": "Hopefully, it's a sign of progress.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoo-hoo! A new record! Hey, maybe it's\ntime to make reservations\nfor the premium\ndessert buffet, huh?",
+            "name": "Cheerful Umamusume"
+        },
+        {
+            "text": "Hold on a minute! Breaking your record's\namazing, but the dessert's\nyour big prize\nfor when you win the race!",
+            "name": "New Trainer"
+        },
+        {
+            "text": "The banter between trainer and trainee\nlooks fun, but this time... I\nfeel a little less\nenvious.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, puff...</i> Phew...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Nice work, Taishin."
+            ]
+        },
+        {
+            "text": "YЭпизод.. Enough chitchat though. Let's keep\nit moving.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "You got it!"
+            ]
+        },
+        {
+            "text": "Umm, is it me, or are you crazy happy\ntoday?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I've come to realize that I'm happy the way\nthings are.",
+            "name": "Монолог"
+        }
+    ]
+}

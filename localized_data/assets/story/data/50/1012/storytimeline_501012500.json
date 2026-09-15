@@ -1,0 +1,47 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Grraah! How's <i>that</i> for a run?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hell yeah, crushed my time! Time for\nanother lap!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Are you feeling all right?"
+            ]
+        },
+        {
+            "text": "Heh, you think this is enough to take me\nout? I'll\ncrush my record again, just you\nwatch!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "See, I'm gonna need a whole lot of\ntrainin' if I\nwanna take down all of my\nrivals.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But, man, havin' a trustworthy partner\nreally helps\nthings along. Ain't that\nright, Teach?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "You know it!"
+            ]
+        },
+        {
+            "text": "With you around, I can train my heart\nout without\nworryin' about anything.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I don't have much in the brains\ndepartment, but\nI've got you to make up\nfor that!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right, back to business! I've gotta get\nused to\nhow that run felt just now.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Graaahhh!",
+            "name": "Хиши Амадзон"
+        }
+    ]
+}

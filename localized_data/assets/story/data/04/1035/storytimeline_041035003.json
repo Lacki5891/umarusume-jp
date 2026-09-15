@@ -1,0 +1,263 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today's the day our training begins! I'm so\nglad to work with youuu!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Same here! Let's start out strong!"
+            ]
+        },
+        {
+            "text": "Yeah! I'll put my all into whatever you\nthrow at me! Just tell me what\nto do!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh yeah, you wanted to talk before\npractice, right? What is it? What\nshould\nwe talk about?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Before starting formal training, I need to\nproperly understand the\nracer and her\nabilities.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All the Umamusume without trainers were\ndrilled by academy\ninstructors, and\naccording to the notes they gave me...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "You're constantly rushing during races, aren't\nyou?"
+            ]
+        },
+        {
+            "text": "Aaah! I get that a lot! But I have a hard\ntime keeping it cool...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Every Umamusume gets heated up in a\nrace, don't they? I get caught\nup in the\nenergy—that feeling of, like, \"waaagh!\" I\ncan't help it.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "My instructor at the academy used to say,\n\"You lay your emotions\ncompletely bare.\"",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Is that really true though? I always thought\nthat was pretty normal.",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You know the story <i>60,000 Furlongs in Search\nof Mother?</i>"
+            ]
+        },
+        {
+            "text": "The story about Umako?! Yeah, yeah! I\nknow it! I saw the anime! I\neven read the\nbook in school!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "What a great story, riiight?! The first\nepisode where Umako finds the\nlittle girl's\nlost carrot was so... touching!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ug... <i>Hic...</i> Umako! Such a kind child!\nWaaah!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You really do lay everything bare!"
+            ]
+        },
+        {
+            "text": "Say whaaat?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "This extreme earnestness might really be\nУиннинг Тикит's weakness.\nStill—",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer! You okay?! Did you get lost\nin your own head?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wait, wait, wait... Is how I'm behaving\nreally bad?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh nooooo! How could I annoy you like\nthis? I'm useless... I'm the\nwooorst!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "There's nothing wrong with your behavior."
+            ]
+        },
+        {
+            "text": "Really?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "But even during tryouts, I got overexcited\nand ended up in fifth...",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Someday, that personality of yours is going to\nbe a powerful weapon."
+            ]
+        },
+        {
+            "text": "You mean it?! A weapon... Yeah... Yeah!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "If she can remember to let loose at just the\nright time, her earnest\nattitude will be her\ngreatest weapon.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So what she needs to focus on now is\njudging when that right moment\nis. She has\nto run according to a plan.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Okay, Ticket, here's what you need to do!"
+            ]
+        },
+        {
+            "text": "Whoooah! What, what, what?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Study like you've never studied before!"
+            ]
+        },
+        {
+            "text": "I have to... study?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Guhyaaagh! You gotta be kidding meeeee!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Thus begins my days of arduous training\nwith Уиннинг Тикит.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hyaaaaagh! Phew!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "How was that, Тренер? I ran at full speed!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Well, we're working on your pace, so\nmaintaining a steady time is more important..."
+            ]
+        },
+        {
+            "text": "...Time? What?! How'd I forget thaaat?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Sorry, I'll go again! Hyaaagh!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Finish in a minute! Finish in a minute!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Huh? I made it here in twenty seconds. Is\nthat too slow? Too fast?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Aaaaagh! I dunnooooo!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Let's see. The favorite for this race\ncouldn't win it. But why...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ah! She didn't train enough! So if I try\nextra hard in training, it's in the\nbag! You\ngotta train to gain!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You don't think there might be another reason?"
+            ]
+        },
+        {
+            "text": "Another?! Like... like what?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "She went too close on the turn and got\nsurrounded by the pack."
+            ]
+        },
+        {
+            "text": "Gaaaaah! You're totally right!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's not really something that needs saying,\nbut using her head's not\nher strong point.\nIt's a bit of an obstacle in training.",
+            "name": "Монолог"
+        },
+        {
+            "text": "But then...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Knock, knock! Coming in!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Heya, Trainer! I watched tons of those\nracing videos I borrowed\nyesterday!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And get this! I took notes on how I could\nrun better. You gotta take a\nlook!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, it's late, huh? I didn't mean to disturb\nyou.",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "No problem! I see you're at full speed like\nalways."
+            ]
+        },
+        {
+            "text": "Nothing less!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I always pull out all the stops, but... I\ndunno—I feel like I can pull way\nmore\nstops than before!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I mean, you're serious about this, right?\nAbout winning the Derby!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Yeah, that's what I promised, right?"
+            ]
+        },
+        {
+            "text": "Right! I'm totally getting that vibe from\nyou! You've always felt that\nway!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "My trainer really believes in me! It gives\nme the energy to try harder\nthan I've ever\ntried before!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Sooo... Thanks so muuuch!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "The going was tough for a while there, but\nwith all the effort she's\nputting in, I really\nfeel like she can figure this out.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I know she has loads of room to grow!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer! What did you think about my\nrunning ideas?!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "They, well... Let's rethink them together!"
+            ]
+        },
+        {
+            "text": "That baaad?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "She can do it... I'm pretty sure!",
+            "name": "Монолог"
+        }
+    ]
+}

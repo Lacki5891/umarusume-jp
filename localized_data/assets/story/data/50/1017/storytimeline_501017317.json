@@ -1,0 +1,261 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "What did you think, Тренер?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Did I succeed in leading by example?",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "Absolutely!"
+            ]
+        },
+        {
+            "text": "Then I am satisfied.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Almost a year has passed since I started\nmy senior\nyear.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "If my performance has managed to\ninspire\nyounger racers, I can't think of\nanything more\nworthwhile.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "You're not planning to stop now, are you?"
+            ]
+        },
+        {
+            "text": "Hahaha! Don't worry, there's no chance\nof that.\nCan't you see the fire in my\neyes?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Naturally, I'm already looking to the\nfuture. My\nnext challenge will be...",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "The Arima Kinen!"
+            ]
+        },
+        {
+            "text": "Precisely.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But this will be no repeat of last year. I\nintend to\nshow the world the fruits of my\nlabors.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф looks fired up enough\nalready,\nbut I have one more thing to\ntell her.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I hear Марузенски's going to be there."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Марузенски. I see...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "On the way back...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, is that...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "...And that concludes our tour of the\nacademy.\nDo you have any questions?",
+            "name": "Student Council General Manager",
+            "choice_data_list": [
+                "I remember her..."
+            ]
+        },
+        {
+            "text": "Yes, the student council's general\nmanager. It\nlooks like she's leading a\ngroup of Umamusume\naround.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Now that I think about it, today was the\nday that\nthe new student council\nmembers were supposed\nto be given a\nguided tour.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "You know... I'm starting to think that\nmaybe the\nstudent council might not be\nright for me...",
+            "name": "Short Umamusume"
+        },
+        {
+            "text": "Why do you say that?",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "I joined because of the President, but\nwhen I saw\nher race today...",
+            "name": "Short Umamusume"
+        },
+        {
+            "text": "She was so much better than I could ever\nhope to\nbe. I feel like there's no point...",
+            "name": "Short Umamusume"
+        },
+        {
+            "text": "...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф says nothing. She's\nwaiting to see\nhow the general manager\nwill respond.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I know what you mean. I felt exactly the\nsame way\nwhen I first joined.",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "Really?",
+            "name": "Short Umamusume"
+        },
+        {
+            "text": "I thought there was no way I could ever\nlive up to\nmy station, and it made me\nfeel really down on\nmyself.",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "Honestly, I still feel useless most of the\ntime. But I\ncan tell you one thing for\ncertain: I've grown a lot\nas a person\nsince I began.",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "So if you want to improve yourself...\nwould you\nconsider hanging in a little\nlonger?",
+            "name": "Student Council General Manager"
+        },
+        {
+            "text": "A-all right... I'll give it a shot!",
+            "name": "Short Umamusume"
+        },
+        {
+            "text": "Heh.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "It's gratifying to see the younger\nstudents\nmaturing off the track as well as\non it.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "And it's a relief to know that the\nacademy will be\nin safe hands even after\nI'm gone.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Симболи Рудольф looks like a weight has\nbeen lifted\nfrom her shoulders. This is\nthe perfect time to\nspring my proposal!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "There's something I've been meaning to ask\nyou."
+            ]
+        },
+        {
+            "text": "That's rather sudden, but by all means.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I want you to forget about your titles at the\nArima Kinen."
+            ]
+        },
+        {
+            "text": "I don't want her to race as the Emperor\nor the\nPresident, but simply as Symboli\nRudolf.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I understand what you're trying to say.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "But my pride as the Emperor won't allow\nit. The\nweight of my responsibilities is\nwhat makes me\nwho I am.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "What's the harm in setting all that aside\nonce in a\nwhile?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Эйр Грув! I didn't see you there.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Indeed. I was assisting with the tour. But\nmore to\nthe point...",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I concur with your trainer's suggestion.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Every time you race, you hold your real\nself back\nin order to be more true to\nyour ideals.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "But now your successors are well on their\nway to\nmaturity. I think, just once, you\nshould race the\nway you truly want to.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I <i>have</i> raced the way I wanted to. This is\nthe path\nI chose when I became the\nEmperor.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Good grief. Why must you insist on\nbeing so\nhardheaded?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "How about this, then? Do it for us.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "For you?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I've always wanted to see how you would\nrace if\nyou let your heart guide you.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "If you let yourself be nothing more than\nan\nUmamusume seeking a challenge.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "I believe I speak for the entire student\ncouncil\nwhen I say we would relish the\nlearning\nexperience.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "So, in your capacity as president... would\nyou\nshow us what it looks like when you\nrace as\nСимболи Рудольф?",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "<i>Sigh...</i> You know exactly how to pull my\nstrings,\ndon't you?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "I've been at this for a while now, you\nknow.",
+            "name": "Эйр Грув"
+        },
+        {
+            "text": "Very well. You win. If both my trainer\nand my own\nright hand turn against me,\nwhat am I to do?",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "When I race in the Arima Kinen, I will let\nthe titles\nof Emperor and President fall\nby the wayside.",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "As for what will come of it, I cannot say.",
+            "name": "Симболи Рудольф",
+            "choice_data_list": [
+                "I can't wait!"
+            ]
+        },
+        {
+            "text": "Heh...",
+            "name": "Симболи Рудольф"
+        },
+        {
+            "text": "Me neither. It will be a learning\nexperience for\nboth of us.",
+            "name": "Симболи Рудольф"
+        }
+    ]
+}

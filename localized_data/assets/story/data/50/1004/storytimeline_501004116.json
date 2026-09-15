@@ -1,0 +1,341 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "With the Osaka Hai behind us,\nМарузенски is now\ntraining harder than\never.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... I need to take a break. I've been\ngoing\nfull steam ahead for too long.",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "You do seem more intense than usual."
+            ]
+        },
+        {
+            "text": "Well, it's not like I've become super\nserious about\ntraining or anything...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I'm just having too much fun and can't\ncontrol\nmyself. My match with Rudolf\nwas so exciting!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "So chillaxed! Everything's fine!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But there <i>is</i> something I'm a little\nconcerned\nabout...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "As she says this, I follow Марузенски's\ngaze to\nfind...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Wheeze... pant... huff...</i>",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "<i>Pant... pant... pant...</i>",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "One more!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "M-me, too!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I know the Yasuda Kinen is coming up\nsoon, and\nthose two are trying their\nbest, but...",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "They do seem to be pushing themselves pretty\nhard."
+            ]
+        },
+        {
+            "text": "Yeah. I have to help them out however I\ncan!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "A few days later, while I'm heading to\nmy room\nafter work...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Спешл Уик",
+            "choice_data_list": [
+                "Training late again today?"
+            ]
+        },
+        {
+            "text": "Oh! Марузенски's trainer!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "It's Grass! Grass is in trouble!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "How does it look, doctor?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You'll be just fine. It looks like you\ntwisted it a\nlittle.",
+            "name": "Infirmary Doctor"
+        },
+        {
+            "text": "Whew! I'm glad it's not a major injury.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Indeed...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Thank you for calling the school doctor!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm sorry for the trouble.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "It looks like you pushed yourself too hard."
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...We need to get faster, you know?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Watching Марузенски and the student\ncouncil\npresident race right in front of us\nwas... It was\nreally amazing...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But it also made us realize just how far\nwe still\nhave to go.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It seems that they're pushing themselves\ntoo hard\nin a rush to catch up to\nМарузенски and Rudolf.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "I get it, but you can't become reckless."
+            ]
+        },
+        {
+            "text": "We're very aware of that, but still...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Грасс Вандер and Спешл Уик's\nexpressions\ntell me that they aren't\ngoing to stop.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's clear that they lack a very important\ndetail.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Wait here. I'll be right back."
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Grass! Are you okay?!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "M-Марузенски! Did you come all the\nway from\nhome?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "My trainer called and told me what\nhappened!\nHow is your injury?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "My trainer called and told me what\nhappened!\nHow is your injury?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Грасс Вандер explains her condition\nand the\ncircumstances that led up to it.",
+            "name": "Монолог"
+        },
+        {
+            "text": "So you got impatient, huh...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'm glad you're trying so hard. Having\nstrong\nrivals fires me up too...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "But you guys seem to be missing\nsomething\nimportant right now.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "What is it? Tell us, please.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I'll show you exactly what I mean, so\ncome hang\nout with me for a minute.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Um, Марузенски, when you say we're\nmissing\nsomething...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You guys watched me and Rudolf race,\nand felt\nthat you couldn't match up,\nright?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...Yeah.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Did you feel anything else?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Like... what?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I had the best time racing with Rudolf!\nWe both\nlost ourselves in the race,\nfighting with everything\nwe had...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Without saying a word, we both knew\nwe were\nhaving such a blast that we\ndidn't want the race\nto end!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "It's that enjoyment that always pushes\nme to go\nfaster.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I want to run faster because it feels\ngood. I want\nto win races because it's\nfun.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "Right now, you guys are in such a hurry\nto get\nbetter, you're forgetting to have\nfun.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And that means, if we raced now, I'm\nsure I'd win.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Do you remember the feeling of\nwatching me,\nwith excitement gleaming\nin your eyes?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "You both said you would chase after me\nand kept\nrunning happily every day...",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I know that you both still have that joy\nfor\nrunning.",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I <i>have</i> been pushing myself hard lately,\nforcing\nmyself to run until I can barely\neven stand...",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Grass! Once your leg feels better, let's\nrun and\ntime each other again!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Let's be happy getting faster bit by bit,\njust like\nwe used to!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "So... having fun is what pushes you\nforward. I\nguess it's true what they say,\n\"What you like you\nwill do well.\"",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Instead of being impatient to catch up,\nwe should\nenjoy the chase...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hehe... Thinking about it that way makes\nme want\nto get out there and run right\nnow!",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Ehehe! Yeah, I can't wait to get back to\ntraining!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I'm glad I could be of help!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "And thank you for calling me here,\nTrainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Of course! You're the one they look up to, after\nall."
+            ]
+        },
+        {
+            "text": "And thank you for calling me here,\nTrainer!",
+            "name": "Марузенски",
+            "choice_data_list": [
+                "Of course! You're the one they look up to, after\nall."
+            ]
+        },
+        {
+            "text": "I'll have to keep trying my best to be a\nreliable\nbig sister to my adorable\nschoolmates!",
+            "name": "Марузенски"
+        },
+        {
+            "text": "By the way, Марузенски, why did you\nbring us\nhere?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Huh? Isn't it obvious? There's no better\nplace to\nembrace your youth than\noutdoors, right?",
+            "name": "Марузенски"
+        },
+        {
+            "text": "C'mon! Pump your fist in the air and sing\nthe\nwords, \"Don't you... forget about\nme!\" ♪",
+            "name": "Марузенски"
+        },
+        {
+            "text": "I see! Okay, here I go... Don't you...\nforget me!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Um... I'll remember you...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "And so, the younger students get back\non track\nand resume their training for\nthe Yasuda Kinen in\nhigh spirits.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After coming back from a race...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "text": "Hm? Oh, yes... I'm fine...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Um, why do you ask?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "You just sighed."
+            ]
+        },
+        {
+            "text": "I did?! I don't even remember...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I'm sorry for worrying you. I'll be careful\nnot to do\nit again...",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "I feel fine, really. At any given moment,\nI'm ready\nto give it my all.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Despite what she says, Сайленс Судзука is\nvisibly\nexhausted. I may have to adjust\nher schedule to\nease up on races for the\nnear future.",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while walking around the\ncampus, I\nnotice an unnatural pile of\nleaves in my path.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(This looks pretty suspicious. I'd better go\naround it.)"
+            ]
+        },
+        {
+            "text": "Whaaat?! Why'd ya dodge my pitfall?!",
+            "name": "???",
+            "choice_data_list": [
+                "Pitfall?!"
+            ]
+        },
+        {
+            "text": "Uh-huh! My prized pitfall! It got clowned\non\nbefore... but still!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Hmph! Scold me all ya want, but I'm not\ngonna\nstop! Imma keep makin' pitfalls!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "...Is that right? You really gotta reflect\non your\nactions. But... I guess you're not\nall that bad\ncompared to Golshi!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "She made the perfect pitfall in a carrot\npatch and\ncaused all kinds of trouble for\nstudents comin' to\nsneak a snack.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Even <i>I</i> can find the pitfalls you make, so\nI guess\nthat makes ya some kinda small\nfry compared to\nher!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Grahhh! Imma totally make a pitfall\nthat's way\nbetter than Golshi's! And it's\ngonna catch all of\nyou, you'll see!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "It looks like she actually made this\npitfall to keep\nstudents from eating the\ncarrots, not just to cause\nmischief... She\njust doesn't realize that herself.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Dang it! How can people tell?! I hid it\nperfectly\nthis time! With leaves!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "That's what made it so obvious."
+            ]
+        },
+        {
+            "text": "O-oh! I mean, of course I knew that!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "You got a pretty keen eye on ya. Imma\nmake ya\nmy minion, so help me out!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Since I don't have anything pressing to\ndo, I\ndecide to give her a hand. But\nthen...",
+            "name": "Монолог"
+        },
+        {
+            "text": "How's that?! I put leaves all over this\ntime, not\njust around the hole, so it\nlooks <i>real</i> natural-like!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Gyuh?! The wind blew 'em all away?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I used rocks to weigh everythin' down\nthis time,\nso it's not gonna blow away\nagain! Now I just\ngotta pour some water\nin there to cushion the—",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "The water will just soak into the ground, you\nknow?"
+            ]
+        },
+        {
+            "text": "Huh?! Why?! Won't it stay in there like a\npool?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "<i>Wheeze...</i> I spread a tarp... inside the\nhole... and\nfilled the... hole with...\nwater... Now if someone\nsteps onto it,\nlike so—",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "H-HUH?! Now you can't even fall in?!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "WAHHHHH! I have to remake it <i>again?!</i>\nI'm\npooped! Exhausted! TIRED!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "Why don't you take a break and try again\ntomorrow?"
+            ]
+        },
+        {
+            "text": "NUH-UH! No matter how tough my prey,\nthese\nfangs o'mine ain't gonna crack!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "That's my rule... as a hunter!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Her unwavering drive is magnificent, but\nI'm\nworried about her level of fatigue.\nWhat should I\nsay to her?",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Leave the rest to your trusty minion.",
+                "Let's give this all we've got!"
+            ]
+        },
+        {
+            "text": "No! Nuh-uh! Shut it! You're my minion,\nso you\ngotta listen to what <i>I</i> say!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "It's a leader's duty to delegate work to their\nminions."
+            ]
+        },
+        {
+            "text": "Hm?! ...Actually, a hero show I watched\nthe other\nday had the leader sitting in\ntheir chair the whole\ntime...",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "'Kay, sure! Put your back into it! Your\nalmighty\nleader'll be watchin' ya from\nright over here!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "With Шинко Винди resting, I get the job\ndone\nsmoothly and efficiently.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ooh, you're done, eh?! Lookin' good!\nBut the\nmost important thing is that it\nactually works...",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I hear footsteps... Someone's definitely\ncomin' for\na snack! Let's see if yer pitfall\ndoes the job!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Hm? She's not here either...\nWait—GAHHH?!",
+            "name": "???"
+        },
+        {
+            "text": "Yes! Nice! We caught someone! You\ndeserve\nsome praise, minion!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "Maybe later. We have to check up on them first!"
+            ]
+        },
+        {
+            "text": "Oh, yeah! Time to confirm the catch and\nrevel in\nour success!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Ha. Ha... I was worried I'd pushed ya too\nfar, but\nlooks like you made a real nice\npitfall here.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Now I'm gonna have to \"reward\" ya\nhandsomely\nfor this one.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I should respect her wishes here. But if\nshe looks\nlike she's pushing herself too\nhard, I'll step in to\nhelp. She won't get\nhurt that way.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Niiice! And that's what makes ya my\ntrusty minion!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "I keep working, following her\ninstructions and\noffering occasional\nadvice on crafting pitfalls,\nuntil...",
+            "name": "Монолог"
+        },
+        {
+            "text": "IT'S FINISHED! Yes, yes, yes! We did it!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Hahaha! Well? Bet you get a totally\ndifferent\nsense of achievement\ncompared to pranking,\nright?",
+            "name": "???"
+        },
+        {
+            "text": "Hishiama! Uh-huh, totally different! I\nworked so\nhard, thinkin' 'bout how to\ncatch lotsa prey, and I\ntweaked it a\nbunch...",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "And now, the prank potential's\nskyrocketed!",
+            "name": "Шинко Винди"
+        },
+        {
+            "text": "Uh-huh... the prank potential's sk—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Wait, no! Sure, it's a pitfall, but you're\nusing it to\nstop students from stealing\ncarrots from the field!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That's the idea, right? Using a prank to\nhelp\nothers... Somethin' like that?!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "What the heck're ya talkin' 'bout?\nPranks don't\nhave nothin' to do with\nhelpin' people!",
+            "name": "Шинко Винди",
+            "choice_data_list": [
+                "I-I see..."
+            ]
+        },
+        {
+            "text": "Although Шинко Винди's effective\npitfall earns\nher praise, it also catches\nthe innocent Hishi\nAmazon... and results\nin another scolding.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so Шинко Винди remains a\nprankster,\nthrough and through.",
+            "name": "Монолог"
+        }
+    ]
+}

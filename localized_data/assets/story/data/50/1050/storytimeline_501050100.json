@@ -1,0 +1,222 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "(My lungs are burning!)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "And coming around the final corner from\nthe\noutside is Нарита Таисин! Looks like\nshe's\nstruggling to get a good position!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "She likely has no choice but to run on\nthe outside.\nWith her stature, it'll be\nimpossible to escape the\npack if she gets\ntrapped inside.",
+            "name": "Commentator"
+        },
+        {
+            "text": "The racers are going all out in the final\nstretch!\nNumber seven, Walkie Talkie,\nand number\neleven, Poisonous, are\nbattling for the lead!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "And there's Нарита Таисин! Here she\ncomes! She's\ndesperately trying to close\nin on the lead, but will\nit be enough?!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Crossing the finish line, it's number\neleven!\nPoisonous claims first! Wow,\nlisten to those cheers\nechoing through\nthe racecourse!",
+            "name": "Комментатор"
+        },
+        {
+            "text": "Wooooo!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Aw, Нарита Таисин got fifth? She just\ncan't get a\nbreak.",
+            "name": "Fan A"
+        },
+        {
+            "text": "Can you blame her? Even the\ncommentator said\nshe's at a\ndisadvantage.",
+            "name": "Fan B"
+        },
+        {
+            "text": "I mean, just look at how small she is.",
+            "name": "Fan B"
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Not another one of those dreams.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ugh. This is the worst...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Yaaawn...</i> Taishin? What's the matter?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Whoa, Creek!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Uh, it's nothing.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Having trouble sleeping? Want to drink\nsome hot\nmilk with me?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I-I'm fine! I'm gonna step out for a sec.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Sorry for waking you up. Later.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Goodness me...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(I feel better now, but I'm still a little\nrestless. I\nkeep having those horrible\ndreams lately.)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(And I've got my debut race coming up\nsoon...)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Maybe it's <i>because</i> my debut is almost\nhere.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "(Dammit. Now's really not the time to be\n\ndoubting myself!)",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Today's the day my journey to tackle the\nTwinkle\nSeries with Нарита Таисин\nbegins!",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm going to do my best for her and\nbring out the\nfull potential of her final\nsprint!",
+            "name": "Монолог",
+            "choice_data_list": [
+                "(Okay, time to roll up my sleeves!)"
+            ]
+        },
+        {
+            "text": "Hey, it's time to start training. What are\nyou\ndoing standing there like a tool?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Ew, what's with that sappy, starry-eyed\nlook?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Taishin! Let's give it our all starting today!"
+            ]
+        },
+        {
+            "text": "Man, you're annoying...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Yeah, whatever. Let's just get started\nalready.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Нарита Таисин is as cool as ever today...\nHowever!",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Huff, huff...</i>",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Raaah!",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "(Incredible! That final sprint of yours is really\nsomething else!)"
+            ]
+        },
+        {
+            "text": "<i>Huff, wheeze...</i> Phew.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "How was my time?",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Fantastic!"
+            ]
+        },
+        {
+            "text": "Yeah? Then...",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "We'll stun them <i>all</i> at your debut!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Easy for you to say. You're too chill\nabout this.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Do you actually understand what the\nTwinkle\nSeries is like?",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "Tracen is filled with god-tier racers, and\neven\nthen, only a select few from here\nqualify to\ncompete in it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That's the kind of race we're facing.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "And your running will be just as good as theirs!"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "<i>Sigh.</i> You airheaded birdbrain.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "First of all, just \"stunning\" everyone's not\ngonna\ncut it.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "I have to use my skills to thrash anyone\nwho talks\nsmack about size.",
+            "name": "Нарита Таисин"
+        },
+        {
+            "text": "That'll make every last one of them think\ntwice\nabout me.",
+            "name": "Нарита Таисин",
+            "choice_data_list": [
+                "Right!"
+            ]
+        },
+        {
+            "text": "And so, Нарита Таисин's fierce\ndeclaration marks\nthe beginning of her\nnew challenges.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ugh, can you do something about that\nvibe of\nyours? It's overkill, and you're\nseriously getting\non my nerves.",
+            "name": "Нарита Таисин"
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day after the Fan Fest, Голд Сити\nsays she\nwants to talk to me about\nsomething after\npractice.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Listen, I... I finally figured it out.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I didn't <i>become</i> \"empty,\" it's that I didn't\nhave\nanything from the get-go.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I entered the Hanshin J.F. to live up to\n\nexpectations. Then I chose the Classic\nTriple\nCrown because I didn't want to do\nas my manager\nsaid.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "You know what you call that? Being a\nstupid\nrebellious teenager. I just do the\nopposite of what\nI'm told.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I tricked myself into thinking I chose\nrunning for\nmyself, but I didn't.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I became a model and behaved how\nothers\nwanted me to. Then I chose to run\nand behave\nhow others didn't want me\nto.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I thought those were two different\nthings. But\nreally, they were two sides of\nthe same coin.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I let the voices of others dictate my\nchoices. I\ncouldn't make any on my own.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "A sad, hollow doll. That was the real\nGold City all\nalong.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And now, I don't even have that\nrebellious spirit\nin me anymore.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "No wonder I can't give an answer to why\nI run.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "What're ya racing for?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "So yeah... no point in running anymore.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I've lost it all. I have nothing now.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "There is no \"real me.\"",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Everything I was chasing, everything I\nwas so\nexcited to finally get and make\nmine—it was all\nfluff.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And to think I kept telling myself I was\ngoing to\nprove who I really was to\neveryone... What a joke.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "God, I'm such a loser. Such a freaking\nloser.",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Does this mean you're quitting?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You can still be successful without running."
+            ]
+        },
+        {
+            "text": "The first three years of her career are\nvery\nimportant indeed. But if she wants\nto run again,\nshe can do so whenever\nand wherever she wants.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All she'd be sacrificing is this moment...\nright here\nand now.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Quitting isn't the same as running away."
+            ]
+        },
+        {
+            "text": "...You're right.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I'm sure my manager would make me\ninto the\nmost popular model out there.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And you... well, you'd probably end up\ntraining\nsome other runner, but I'm sure\nyou wouldn't mind\nif I stopped by for fun\nevery now and then.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "And my fans... even if I stop running,\nthey'll follow\nme down another path.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I can't say it. I just can't say \"I quit.\"",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...I have to do this.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...See you after the race.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I could quit and still live out my best\nlife. It'd be a\nlot easier, that's for sure.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "God knows I've been in the trenches\nwhen races\ndidn't go my way. I literally\nhave nothing but\npainful memories... So\nwhy?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Why can't I say \"I quit\"?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I bet you'll figure it out if you run!"
+            ]
+        },
+        {
+            "text": "...?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I drag Голд Сити, in her bewilderment,\nback to\nthe track. She looks a tad\nanxious...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Run with everything you've got!"
+            ]
+        },
+        {
+            "text": "Everything I've got? But...",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Just go! GO!"
+            ]
+        },
+        {
+            "text": "O-okay, geez, no need to yell...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Sigh...</i> What is Trainer thinking?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Голд Сити starts running. At first, she's\njust going\nthrough the motions, but\nsoon...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant... pant...</i> Hey, how long are you\ngoing to\nmake me run for?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Is that all you got?!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Run, City, run!"
+            ]
+        },
+        {
+            "text": "...Screw off! Are you even watching? I <i>am</i>\nrunning!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "\"Known to her many fans as Pretty\nCity...\"\n\"You're so pretty when you run!\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "\"You looked empty.\"\n\"I can't believe a\nmodel can run like that!\"\n\"Pretty...\"\n\"Pretty...\" \"Pretty...\"",
+            "name": "Монолог"
+        },
+        {
+            "text": "Shut up! Enough! I don't need this! If no\none is\ngoing to see me for who I am...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Then I don't need them! Just stop\ngetting in the\nway of my running!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Aaaahhhh!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "<i>Pant... pant...</i>",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Frick, I'm tired!",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Way to drain me of energy right before\na race!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "Have you run enough?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "No... way.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I can't. I can't end it here.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It's exhausting, annoying, and painful...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But I don't want to quit. I want to run.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "I want to run, Trainer!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "I know you do!"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You aren't empty."
+            ]
+        },
+        {
+            "text": "There's only one reason why Голд Сити\n\nruns—because she <i>wants</i> to.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Rebellious teen or not, the choices she\nmakes are\nunmistakably her own.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Are you sure?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "It feels like such a childish reason to\nrun... What if\nI get hit with the\n\"unbeautiful\" again?",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "You, right now, are incredibly beautiful."
+            ]
+        },
+        {
+            "text": "...?!",
+            "name": "Голд Сити",
+            "choice_data_list": [
+                "After seeing you run like that, no one would\never want you to quit."
+            ]
+        },
+        {
+            "text": "...Didn't I tell you to stop calling me\nthat?",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "But...",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "If you're the one saying it... it's not so\nbad.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Thanks.",
+            "name": "Голд Сити"
+        },
+        {
+            "text": "Her shy smile glows brightly beneath the\nsunset.",
+            "name": "Монолог"
+        }
+    ]
+}

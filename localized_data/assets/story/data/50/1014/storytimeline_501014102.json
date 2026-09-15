@@ -1,0 +1,211 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Three friends assembled for the new\nyear! A triple\nfirst shrine visit!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Oh no, I forgot to bring coins for my\noffering!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Hehe. I can lend you some, Spe.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Эль Кондор Паса and her friends are\nstarting their\nsenior year at last. I'm\naccompanying the three of\nthem for\ntheir first shrine visit of the new year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, Trainer. The arrow that person's\nholding is a\nhamaya, right?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Yeah, it looks like it."
+            ]
+        },
+        {
+            "text": "I heard a story about those things!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "One arrow breaks easily, but three\narrows\ntogether can break your enemy!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Three arrows? Perhaps you're thinking of\nMori's\nlesson of the three arrows. But I\nthink you might\nbe misunderstanding\npart of it.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "What's this three arrow business?",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Basically, if the three of us work\ntogether, we can\neven beat Suzuka!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Ah, I see! We're stronger together than\non our\nown! Like a power up!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "For the time being, it seems as though\nthe three\nof them have the same\nopponent to overcome.",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Clang, clang!</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "I hope I can run with Suzuka and give a\n\nperformance everyone will talk about!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I swear to dedicate myself to my training\nso I can\nsurpass Suzuka.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I wanna beat Suzuka! I won't lose this\ntime!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Each racer phrases it differently, but\nthey all have\none goal.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Let's do our best!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Yeah!",
+            "name": "The Three"
+        },
+        {
+            "text": "Later, after parting with Спешл Уик\nand Grass\nWonder...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hey, Trainer. My first race of the new\nyear is the\nTakarazuka Kinen, right? Will\nSuzuka be running\nthere?",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "Yeah, most likely."
+            ]
+        },
+        {
+            "text": "All right! In that case, I gotta be fearless\nand\nresolute in my training until then!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Suzuka, Spe, and Grass are all great\nrivals, but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Who do you think we should try to train\nlike for\nour New Year's training session?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "So she wants to replicate one of their\ntraining\nstyles. It's true that all three of\nthem have their\nstrong points.",
+            "name": "Монолог"
+        },
+        {
+            "text": "The energetic Спешл Уик. The\nintelligent Grass\nWonder. The enigmatic\nСайленс Судзука.",
+            "name": "Монолог"
+        },
+        {
+            "text": "If we're going to try to imitate one of\nthem,\nmaybe we should go with...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Спешл Уик.",
+                "Сайленс Судзука.",
+                "Грасс Вандер."
+            ]
+        },
+        {
+            "text": "Ahhh, so you think I should train like\nSpe?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "In that case, there's only one thing that\ncomes to\nmind!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Spe was born in Hokkaido, and she's real\ngood at\nfarming! Workin' in the fields\nhas gotta be great\nexercise!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Pull out some carrots, shake off the dirt,\nand\nthen—",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Nom! Munch, munch!</i> ♪",
+            "name": "Эль Кондор Паса",
+            "choice_data_list": [
+                "You ate it?!"
+            ]
+        },
+        {
+            "text": "Yeah! Spe always gives 'em a taste!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "That was one delicious carrot. I'm havin'\nanother! I\ncan eat as many as I want\nguilt-free since I'm bein'\nSpe!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса eats every carrot in sight,\nand\nseems to have recovered a ton of\nenergy!",
+            "name": "Монолог"
+        },
+        {
+            "text": "Ahhh, so you think I should train like\nSuzuka?",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I remember Suzuka told me once that\nshe wants\nto see a view where there's no\none else but her.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Okay! I'm gonna try to run and find a\nplace just\nlike that! See ya later!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "<i>Fsshhh...</i>",
+            "name": "Монолог"
+        },
+        {
+            "text": "There's no one here at the beach in the\noffseason.\nIt's empty and beautiful...\nbut...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "I'm so lonely! This isn't for me at all!\nTraaaineeer!",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Training like G-Grass? I know her\ntraining routine\nwell enough that...\nWell...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "It'll be tough, but if you think it's a good\nidea...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Today... I'm gonna study how to run.\nGrass\ndoesn't skimp on running or\nstudying.",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "No matter how boring it gets, it's\nimportant that I\nstay cool. Uuugh. I\nreally want to run, but...",
+            "name": "Эль Кондор Паса"
+        },
+        {
+            "text": "Эль Кондор Паса comes running back just\nas\nquickly as she left. Her experience\nenduring\nloneliness has helped her grow.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What?! I don't eat <i>that</i> much!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "Emulating Грасс Вандер, she patiently\nendures a\nproper study session and\nseems to learn many\nnew ways to\napproach running.",
+            "name": "Монолог"
+        }
+    ]
+}

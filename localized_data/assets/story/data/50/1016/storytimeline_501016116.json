@@ -1,0 +1,207 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "...Is she here?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Ah, Бива Хаяхидэ! Congratulations on\nyour URA\naward for the senior division!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "...Thank you so much. It's truly an honor\nto\nreceive such praise.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "This year's URA award recipients are\ntruly\nimpressive, yourself and Hishi\nAmazon included.",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Yes, I agree.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Хиши Амадзон has the spectacular\nachievement of\nbecoming the Triple\nTiara Champion.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "It's a shame your sister isn't in\nattendance. Since\nthe Satsuki Sho, I was\nsure she'd be invited...",
+            "name": "Репортёр"
+        },
+        {
+            "text": "...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Oh! Excuse my rambling! Um... I...",
+            "name": "Репортёр"
+        },
+        {
+            "text": "I can't wait to see you race again, so I'm\npraying\nyour leg heals soon!",
+            "name": "Репортёр"
+        },
+        {
+            "text": "Ah...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...I appreciate that.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Training resumes after the holidays. One\nday,\nafter training..."
+        },
+        {
+            "text": "It's not even six yet.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Well, it's winter."
+            ]
+        },
+        {
+            "text": "...I can still run.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Taking care of your health is also part of your\ntraining."
+            ]
+        },
+        {
+            "text": "Meh...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "It's great that she has spirit, but cold\nwinter air\ncan give rise to a variety of\nproblems."
+        },
+        {
+            "text": "Taking that into consideration, I've been\nextra\ncareful about warm up and\ncooldown times.",
+            "choice_data_list": [
+                "I want to make sure you don't get injured."
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...Such a worrywart.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Fine. But I can't get stronger by resting\nall the\ntime. I know that all too well.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "After cleaning up, I escort Нарита Брайан\nback to\nher dorm. On the way there..."
+        },
+        {
+            "text": "...Ah.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Hey, Sis. Are you on your way back?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Oh, were you training until now? You're\nreally\nworking hard, huh?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Actually, we finished early because of\nnervous\nNellie over here.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "Training was the same as always!"
+            ]
+        },
+        {
+            "text": "Hmph...",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "Hehe. It seems like you two make a\ngood team.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Brian's not usually willing to listen to\nwhat others\nhave to say.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I listen. If it'll make me stronger.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "My trainer is no slouch. That much is\nclear to me\nsince we got through the\nTwinkle Series last year.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "I'm sure I still don't fully understand\nwhat strength\nis.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "So I want to learn. And I want the\nstrength to\ncompete against the\ntoughest opponents.",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "And I'm here to support you."
+            ]
+        },
+        {
+            "text": "Yeah.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...You two are serious about running to\nthe bitter\nend.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...You're exactly the type of person I\nwanted to compete\nagainst",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "You okay, Sis?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...A-ah. It's nothing, sorry...",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Say, Brian. How about a scrimmage?",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "I'm looking forward to the day I can face\noff\nagainst you as a rival. I still can't do\nthe distance\nof a regular race, but\nperhaps if it was shor—",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Thanks, but no. Right now, I'm still\nworking on\nmyself, and I consider you\none of the strongest\nopponents I have to\ndefeat.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "If it's a race you want, what better place\nthan a\nG1?",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "...I see.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "Sorry for holding you up. I'll see you\nlater.",
+            "name": "Бива Хаяхидэ"
+        },
+        {
+            "text": "...",
+            "name": "Нарита Брайан",
+            "choice_data_list": [
+                "It'd be nice if you could compete against Biwa\nHayahide this year."
+            ]
+        },
+        {
+            "text": "...Yeah. As you already know, my sister is\nstrong.",
+            "name": "Нарита Брайан"
+        },
+        {
+            "text": "But I'm not going to lose. I plan to leave\neveryone\nin the G1 in the dust!",
+            "name": "Нарита Брайан"
+        }
+    ]
+}

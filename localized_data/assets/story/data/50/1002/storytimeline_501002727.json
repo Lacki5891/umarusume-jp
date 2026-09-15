@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Wow! How did you get so many?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "It was nothing!"
+            ]
+        },
+        {
+            "text": "Hehe. Spe's going to be so surprised.\nThank you\nso much, Trainer.",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "Since you won so many, why not keep\none for\nyourself?",
+            "name": "Сайленс Судзука",
+            "choice_data_list": [
+                "Good idea! Go ahead and choose one for\nyourself, too."
+            ]
+        },
+        {
+            "text": "Hehe. Thank you. Now we both have\nreally cute\nplushies!",
+            "name": "Сайленс Судзука"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

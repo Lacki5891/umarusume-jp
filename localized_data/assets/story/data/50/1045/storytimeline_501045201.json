@@ -1,0 +1,70 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Sumire Stakes is an open race, so\nthe racers\nare ranked slightly lower when\ncompared to\ngraded races.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I feel like Супер Крик can conquer it if\nshe gives\nit all she's got, but...",
+            "name": "Монолог"
+        },
+        {
+            "text": "<i>Pant, pant...</i> Mnh...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "What's wrong?!"
+            ]
+        },
+        {
+            "text": "Oh, it's nothing! I think I'm still just a\nlittle tired\nfrom yesterday.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's been happening from time to time\nlately. But\nit's really nothing to worry\nabout.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "More importantly, before the race\nstarts... would\nyou care to have a boxed\nlunch with me in the\ncentral plaza?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "I... made us some sweet omelets... and\n\noctopus-shaped wien—",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "You have to go rest—now!"
+            ]
+        },
+        {
+            "text": "Trainer...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Okay, sorry. I'll lie down for a bit...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "Супер Крик appears to be feeling a\nlittle better\nafter her nap.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Thank you. I think I'm good now...",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Do you want to withdraw from the race?"
+            ]
+        },
+        {
+            "text": "No, anything but that! I can run—really.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It's a shame that I didn't get to see the\nsumire\nviolets with you...",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "But I'll try to make up for it with a\nbeautiful result\nin this race.",
+            "name": "Супер Крик"
+        }
+    ]
+}

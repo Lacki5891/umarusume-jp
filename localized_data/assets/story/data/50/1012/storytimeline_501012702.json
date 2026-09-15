@@ -1,0 +1,203 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're on the way back from an outing\nwhen Hishi\nAmazon suddenly stops in\nfront of a signboard."
+        },
+        {
+            "text": "Check it out! This restaurant serves\n\nAmerican-style barbecue. Man, that\ntakes me\nback.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "text": "Oh, I mean it takes me back to my days\nwhen I\nwas livin' in America! My dad\nwould have\nbarbecues all the time.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I was still a kid back then...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "<i>Woosh! Crackle, crackle!</i>"
+        },
+        {
+            "text": "My family and I'd go out into the great\noutdoors,\nstart up a campfire, and go\nall-out on our\nbarbecues.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "My dad loves cooking. After he'd grilled\nup a\nhuge hunk of meat for me, I'd start\ngnawing into\nit like a wild beast!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I watched him cookin' all the time as a\nkid, so I\neventually learned how to do it\nmyself.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "So that's how you learned to cook!"
+            ]
+        },
+        {
+            "text": "Yeah, more or less! Still teaches me new\nrecipes\nto this day. He's a great dad,\neven though he can\nbe a little timid.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Except, there's just one thing he would\nnever\nteach me.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "And what's that?"
+            ]
+        },
+        {
+            "text": "What the most important thing about\ncooking is!\nEvery time I asked him, he\nwould answer me with\nthe same\nresponse—",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "\"That's something you need to figure out\nfor\nyourself!\"",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I wonder what it is."
+            ]
+        },
+        {
+            "text": "Right? It's like he gave me homework to\nfigure\nout, except I still don't know what\nit's about!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I think about it sometimes while cookin',\nbut I still\ndon't have a clue...",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I'll help you solve the mystery."
+            ]
+        },
+        {
+            "text": "Aw, Teach! Thanks, that'd be great!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Well, for starters, what do <i>you</i> think is\nthe key to\ncooking?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "Controlling the intensity of your heat source.",
+                "Choosing the right ingredients."
+            ]
+        },
+        {
+            "text": "Yeah, that's definitely important! You\ncan't cook\nwithout any heat, after all!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right! I'm gonna go buy a stove top\nfor the\ndorm that can <i>really</i> crank up the\nheat!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I think she's mixed up \"controlling heat\nintensity\" with plain old \"heat intensity\"..."
+            ]
+        },
+        {
+            "text": "Хиши Амадзон is raring to go, so I follow\nher lead\nto the shopping mall."
+        },
+        {
+            "text": "Interesting... They've got stoves for\nhome cooking\nand restaurant-grade\nranges. Look at all the\nvariety.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "This Japanese charcoal grill sure stands\nout like a\nsore thumb among all these\nfancy stoves, though.\nAnyway, got any\nrecommendations, Teach?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Since she was so enthusiastic about\ngetting\nsomething that can churn out the\nheat, and\nbecause I'll be supervising her\nwhile she cooks, I\nsuggest buying a\nlarge, heavy-duty burner."
+        },
+        {
+            "text": "Talk about bringing out the big guns,\nTeach... I\nmean, yeah, that one probably\npacks the most\nfirepower...",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "But it'll be too hard to make minor\nadjustments to\nthe heat. I want\nsomething that's easy to control\n<i>and</i>\nsuper powerful.",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "text": "Hm? Why do you look so surprised? Did\nI say\nsomething weird?",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I thought you were all about firepower..."
+            ]
+        },
+        {
+            "text": "If you want something that has both\npower and\nfine control, I recommend\nthis stove here.",
+            "name": "Shop Assistant"
+        },
+        {
+            "text": "You can turn up the heat in an instant,\nand it's\nfitted with a temperature control\nsystem for\nprecision! But there's only one\nleft, so act fast!",
+            "name": "Shop Assistant"
+        },
+        {
+            "text": "Incredible! That's exactly what I had in\nmind!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Everyone, outta my way! The last one's\nmine!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "For sure! Fresh ingredients are definitely\na must!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "All right! Let ol' Hishiama show you how\nto pick\nthe freshest, best ingredients in\nthe wild!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "I can't help but feel like she's wildly\nmisinterpreted what I meant..."
+            ]
+        },
+        {
+            "text": "Хиши Амадзон is raring to go, so I follow\nher lead\nuntil we end up at..."
+        },
+        {
+            "text": "Let's start at the fishmonger's in this\nshopping\ndistrict.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Whoa! Look at all the fish they have\nswimming in\nthose tanks! Those are fresh\nfor sure!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I hope she's not planning to grab a live\nfish with\nher bare hands..."
+        },
+        {
+            "text": "Well, I'll go with the ones they have on\ndisplay.\nAll the fish they've got lined up\nare in season\nright now.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Okay, now let's get some burdock from\nthe\ngrocer over there. Looks like they've\nbeen pulled\nfresh from the ground!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "This shopping trip is... surprisingly tame?"
+            ]
+        },
+        {
+            "text": "What do you mean by \"tame\"? Choosing\nthe right\ningredients is the most basic of\nbasics.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's so many grocery options in the\nurban\njungle, you've gotta be smart with\nhow you\nforage.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "My dad might seem like a haphazard\ncook, but he\nknows a thing or two about\ncuring meats too.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Anyway, let's stock up! This tiny little\nshopping\nbasket's not gonna hold all\nthese, so let's just\nbring the whole box\nup to the register!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Хиши Амадзон grabs things off the\nshelves with\ngusto, but she takes great\ncare in making sure she\nselects only the\nbest of the best."
+        },
+        {
+            "text": "Despite how brash Хиши Амадзон might\nseem at\nfirst, she is surprisingly attuned\nto small details.\nMaybe that's why she's\nsuch a good cook."
+        }
+    ]
+}

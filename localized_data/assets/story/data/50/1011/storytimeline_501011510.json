@@ -1,0 +1,250 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On a day off, I spot Грасс Вандер and\nHishi\nAmazon standing by the front gate.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Oh, hello there, Trainer. Hehe.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Do you two have plans?"
+            ]
+        },
+        {
+            "text": "Hishiama and I are about to go buy some\nthings\nfor the dorm.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Sorry you always get stuck carryin' bags.\nNobody\nelse ever steps up.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "No, this is no trouble at all.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Need an extra hand?"
+            ]
+        },
+        {
+            "text": "Oh? Are you sure?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Yeah, please! I'll take all the help I can\nget!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Very well, then. We won't turn down\nyour\ngenerosity.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "All right, how about we split up? You\nand Grass\ncan work together.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "We need to stock the kitchen and get\nsome house\nsupplies. Which do you\nwanna take care of?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "If I remember right... the list for house\nsupplies is\na bit longer.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Our prices can't be beat! We just started\na\nlimited-time sale, so don't miss out!",
+            "name": "Grocer"
+        },
+        {
+            "text": "Did you hear that? The grocer is having\na flash\nsale.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Which would you like to do, Тренер?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Gotta beat the sale rush!",
+                "Let's get the household supplies."
+            ]
+        },
+        {
+            "text": "Hehe, what a coincidence. I was thinking\nthe same\nthing.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Kay, I'll hit up the general store, then.\nThis\nscene's all you!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "There's already a crowd forming at the\nentrance...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "You sure you're up to this?"
+            ]
+        },
+        {
+            "text": "Please don't worry about me.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I might not enjoy crowded or noisy\nplaces, but\nthat itself is the battle.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "The battle?"
+            ]
+        },
+        {
+            "text": "Nothing ventured, nothing gained, as\nthey say.\nHehehe...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "No time for second thoughts.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Грасс Вандер swiftly weaves through\nthe swarm\nof gathering shoppers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Excuse me. I'm waiting in this line.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hey! You're in my way!",
+            "name": "Lady A"
+        },
+        {
+            "text": "May I ask that you mind your manners\nand wait in\nline like the rest of us?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "She skillfully manages to keep the pushy\nshopper\nfrom shoehorning her way into\nthe middle of the\nline.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Do you mind if I grab a few of these\ncarrots?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "G-go right ahead!",
+            "name": "Lady B"
+        },
+        {
+            "text": "She confirms with the people around her\nbefore\nreaching in to grab a few\ndiscounted carrots.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Phew... Here are all my spoils.",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "That was a master class in shopping..."
+            ]
+        },
+        {
+            "text": "Грасс Вандер downright conquers the\nflash sale\nwithout a single blemish on her\ndisplay of\ndecorum.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Don't be silly. You haven't seen anything\nyet.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's right, folks! You won't find 'em\ncheaper\nelsewhere!",
+            "name": "Clerk A"
+        },
+        {
+            "text": "Oh? That store over there is having a\nflash sale\ntoo...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Heheh, shall we be on our way? ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We pass several more stores holding\nlimited time\nsales and end up with a\ntroubling number of bags.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I'm sorry. I got a little carried away...",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Hahaha! It's all good! Our dormies eat\nlike there's\nno tomorrow!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Hishiama... Thank you so much.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "There are more supplies on the list than\ngroceries,\nso it'd make sense for the two\nof us to tackle it.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Kay! I'll handle the food shoppin', and\nyou can\ntake care of the other stuff!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Could I ask you to carry the bags?",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "text": "We'll be able to take back more than\nusual thanks\nto your help.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "A refill of hand soap, check. Next are\nrefills of\ndetergent and air freshener...",
+            "name": "Грасс Вандер",
+            "choice_data_list": [
+                "That's a lot of refill bags."
+            ]
+        },
+        {
+            "text": "Saving when you can is important. And\nso is the\ntreat that comes later...\nHehe. ♪",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "We check everything off the list, meet\nback up\nwith Хиши Амадзон, and give her\nthe change.",
+            "name": "Монолог"
+        },
+        {
+            "text": "One, two, three... Whoa, thrifty, aren't\nya!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Nice goin', Grass! You're so responsible,\nI can\nalways count on ya.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "No, no. My trainer deserves a lot of the\ncredit.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I gotcha! Well, as thanks for helpin',\nlemme treat\nya to somethin' with the\nchange!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Oh, you're too generous. How about\nsome snacks\nto go with tea?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "I was just thinking it'd be nice to have a\nlittle tea\nceremony together. If you\nwouldn't mind, that is.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "That's an awesome idea!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "Грасс Вандер's competitive spirit comes\nout in\nfull force, even on shopping trips.",
+            "name": "Монолог"
+        },
+        {
+            "text": "And so the three of us enjoy a relaxing\nteatime\ntogether.",
+            "name": "Монолог"
+        }
+    ]
+}

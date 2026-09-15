@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "All riiight! A race, a race! It's time for a\nrace!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "All these awesome racers! At an\nawesome\nracecourse! Ready to have a\n<i>seriously</i> awesome\nshowdown!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It's enough to get my heart thumping\nlike it's\ngonna jump outta my chest!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Get out there and run with all you got!"
+            ]
+        },
+        {
+            "text": "Absolutely! You know it! Get ready to\nsee an\namazing achievement!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Full power, at full throttle! I'm aiming for\nfirst\nplace and nothing less!",
+            "name": "Уиннинг Тикит"
+        }
+    ]
+}

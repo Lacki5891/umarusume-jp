@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Уиннинг Тикит hasn't shown up for\ntraining.",
+            "name": "Монолог"
+        },
+        {
+            "text": "It's strange, because she always fully\napplies\nherself to practice. Wondering if\nsomething\nhappened, I hurry out to look\nfor her.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Yaaay, I did it! I <i>finally</i> got it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I spot Ticket coming out of a sports\nsupply store\nnear the station.",
+            "name": "Монолог"
+        },
+        {
+            "text": "Hehe, the clerk was so kind. ♪ We\nended up\nhaving a whole conversation!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "You seem to be in a good mood!"
+            ]
+        },
+        {
+            "text": "Oh, Trainer! Well, yeah! I'm feeling\ngreat!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You'll never guess why! You know my\nfavorite\ncycling gear brand, Two-Five\nDouble?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Well, I managed to get my hands on one\nof their\nmega-premium items! ♪",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I've never been able to get one before,\nbut my\ncycling buddy told me about this\nsale!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "When I saw it in real life, it looked even\nbetter\nthan I expected! Two-Five\nDouble gear really is\nthe greatest!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "So... what about training?"
+            ]
+        },
+        {
+            "text": "Huh? Training?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Gaaah! I totally forgot about it!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I warn Уиннинг Тикит to pay more\nattention next\ntime.",
+            "name": "Монолог"
+        }
+    ]
+}

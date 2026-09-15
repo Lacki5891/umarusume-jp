@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Yaaay! ☆ Look at all these Cuties!\nThanks a lot,\nTrainer! I'm so happy! ♪",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Oh, but... I wonder if this much\ncombined\ncuteness might end up\novershadowing me...",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "Nrgh... Time to call on my Umadol\npowers! Here I\ngo! Happy face! ☆ Shy\nface! ♪ Sad face!",
+            "name": "Смарт Фалкон",
+            "choice_data_list": [
+                "Why sad face?"
+            ]
+        },
+        {
+            "text": "An Umadol can't always be smiling.\nSometimes we\nhave to be sad! ☆ The\ncontrast is part of the\ncharm!",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "There's no way I'm losing to some\nplushies! ♪\nTime to get emoting with an\nexpression relay! ☆",
+            "name": "Смарт Фалкон"
+        },
+        {
+            "text": "That couldn't have gone better!",
+            "name": "Монолог"
+        }
+    ]
+}

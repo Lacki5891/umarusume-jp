@@ -1,0 +1,162 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's New Year's Day, and I've brought\nWinning\nTicket along for our first shrine\nvisit of the year.",
+            "name": "Монолог"
+        },
+        {
+            "text": "I hope I can do my absolute best and\nwork toward\nmy goals with my trainer\nthis year!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "(I hope that Ticket will continue to be happy\nand healthy this year.)"
+            ]
+        },
+        {
+            "text": "Okay, prayer's done! I'm gonna go all\nout and\nhave an amazing year!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Oh, right! Trainer, what did you wish\nfor?",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "To win lots of races? Or to get\nstronger?!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "text": "Not wanting to lie to Ticket, I admit to\nmy real\nwish.",
+            "name": "Монолог"
+        },
+        {
+            "text": "For me... to be happy and healthy?!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Sob...</i> I'm s-so... touched...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "That's really kind... <i>Sob...</i> You made a\nwish... for\nmeeee...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm gonna go say another prayer to wish\nfor your\nhealth too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Before I can stop her, she rejoins the\nlong line for\na second round of prayers.",
+            "name": "Монолог"
+        },
+        {
+            "text": "All right! I made a wish for you to be\nhealthy too!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I'm feeling <i>so</i> pumped right now!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "You gotta give me some training to do!\nRunning a\nfull marathon, hauling a tire\nthe size of a\nhouse—you name it, I'll ace\nit!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "It would be a shame to waste her\nenthusiasm, so\nI'd better come up with a\nsuggestion...",
+            "name": "Монолог",
+            "choice_data_list": [
+                "Let's go all out on relaxing!",
+                "Let's let's go all out and pull a New Year's\nfortune!",
+                "Let's go all out and learn a new skill!"
+            ]
+        },
+        {
+            "text": "Go all out... relaxing?! But how? Aren't\nwe going\nto practice?",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "Let's rest today and fully recover our strength!"
+            ]
+        },
+        {
+            "text": "Ohhh, that makes sense! Got it! I'm\ngonna take a\nsuper good nap today!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "First I'll sprint back to my room at top\nspeed!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "WOOOO!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Before I can call her back, she dashes off\ntoward\nthe academy...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Go all out pulling a fortune? Hah! Leave\nit to me!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Great fortune, great fortune! Come\nooon, great\nfortune!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "And she winds up pulling a...",
+            "name": "Монолог"
+        },
+        {
+            "text": "Whoooaaaah! I got it! I got a \"great\nfortune\"!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "A new skill? Haha! Sounds great!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Only problem is... you know, um...\nlearning? I'm...\nkinda not very good at\nthat.",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Wait, no! I can't say that when I just\ndecided I'd\nwork hard!",
+            "name": "Уиннинг Тикит",
+            "choice_data_list": [
+                "That's the spirit!"
+            ]
+        },
+        {
+            "text": "Yeah! Okay, then first things first...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "I gotta head to the bookstore and go all\nout\nfinding a good reference book!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Ta-DAAA! If I wanna go all out studying,\nI'd\nbetter use a textbook that's a teensy\nbit on the\ndifficult side!",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "Let's see... \"On the effects of\nenvironmental\nfactors on Type I and\nType II muscle fibers: a\nbiome...\nchanical... analysis...\"",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "<i>Yawn...</i> So... sleepy...",
+            "name": "Уиннинг Тикит"
+        },
+        {
+            "text": "In any case, I feel sure that this is going\nto be an\nimportant year for her!",
+            "name": "Монолог"
+        },
+        {
+            "text": "In any case, I feel sure that this is going\nto be an\nimportant year for her!",
+            "name": "Монолог"
+        },
+        {
+            "text": "In any case, I feel sure that this is going\nto be an\nimportant year for her.",
+            "name": "Монолог"
+        }
+    ]
+}

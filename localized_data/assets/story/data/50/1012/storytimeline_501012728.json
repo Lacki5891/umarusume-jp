@@ -1,0 +1,28 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Nice work there, Teach! Thanks!",
+            "name": "Хиши Амадзон",
+            "choice_data_list": [
+                "But this isn't nearly enough for your new dorm\nresidents..."
+            ]
+        },
+        {
+            "text": "Nah, that's all right. I'll figure out a way\nto make\nit work.",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I could put it on display for everyone\ninstead. It's\nthe thought that counts,\nright?",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "I'll be sure to let all the new residents\nknow that\nyou sent 'em over with love!",
+            "name": "Хиши Амадзон"
+        },
+        {
+            "text": "That went pretty well!",
+            "name": "Монолог"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Haaaah!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Wh-what is this?! I've been bested?!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Мэйсё Дото goes full throttle, securing\na win and\nstealing the show from T.M.\nOpera O.",
+            "name": "Монолог"
+        },
+        {
+            "text": "What explosive energy... far beyond\nwhat I had\nimagined. Doto, you...",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "I was just so happy!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I was so happy after hearing you waited\nfor me,\nso I gave it my very best!",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Um, so... how was it, Opera O? Did you\nsee me\nshine?",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Haha, wh-why of course, you shined\nbright.\nSecond best to me!",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Although, I would say you've yet to\nreach your\nfull splendor.",
+            "name": "Т.М. Опера О"
+        },
+        {
+            "text": "Oh, o-okay. I'll put in more effort in my\nnext race\nthen...",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "Next will be the autumn Tenno Sho! I'll\ntalk with\nmy trainer about it.",
+            "name": "Мэйсё Дото"
+        },
+        {
+            "text": "I notice a familiar face in the stands,\nwatching the\nduo intently. I make my\nway over.",
+            "name": "Монолог",
+            "choice_data_list": [
+                "What's the matter, Air Shakur?"
+            ]
+        },
+        {
+            "text": "...Hmph, it's you.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Those two have truly reached their full\npotential.\nDon't you think so, after\nseeing today's race?",
+            "name": "Air Shakur",
+            "choice_data_list": [
+                "...I do. They've really gotten strong."
+            ]
+        },
+        {
+            "text": "Yeah. But reaching your full potential\nisn't all\nsunshine and rainbows. There's\nnowhere up after\nthat.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Doto took the gold today, but from\nwhat I saw...\nOpera O's max stats are\nslightly higher.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "If they keep competing with each other,\nyou'll\nsee. The margin Doto'll lose by\nwill be small, but\nshe won't be able to\nclose the gap.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "And that's not all...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Oh Spe, isn't it a wonderful day?",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "It sure is, Grass! That race was honestly\nsomething\nelse.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "I have to agree. All this time, the\nyounger\ngeneration had been so hard at\nwork. I suppose\nit's too early to think\nabout retiring.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "Let's pray for the best—to see them\nonce more at\nthe year-end Arima Kinen.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "In the meantime, I'll steel my body and\nmind. My\nsharpened skills will put even\nthe finest blades to\nshame.",
+            "name": "Грасс Вандер"
+        },
+        {
+            "text": "You're s-scaring me a little, Grass.",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "But I get where you're coming from!\nDoto and\nOpera O are really good, so\nwe'll have to be even\nbetter!",
+            "name": "Спешл Уик"
+        },
+        {
+            "text": "There are some crazy runners out\nthere—with\nstats so damn high, I can't\nget a read on them.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "That's why they call them the Ultimate\n\nGeneration. Even I'm unsure what they're\ncapable\nof.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Doto's in for a lot of pain. She'll be stuck\nup\nagainst the ceiling, struggling to push\npast it...",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "She's talking about stat ceilings again,\nbut does a\nlimit like that really exist?",
+            "name": "Монолог"
+        },
+        {
+            "text": "Our next race will be the autumn Tenno\nSho. We\nneed to have a working\nstrategy by then, if her\nwords prove to\nbe true.",
+            "name": "Монолог"
+        }
+    ]
+}

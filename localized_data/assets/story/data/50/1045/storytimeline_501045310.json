@@ -1,0 +1,83 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>Phew...</i> Hmm, I've still got a ways to go.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "It'll take a lot to win against Tamtam and\nOguri.\nThey're still miles ahead of me in\nterms of skill.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Don't rush yourself. Just keep at it."
+            ]
+        },
+        {
+            "text": "I will!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "After all, we've taken everything one\nstep at a\ntime up until now.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "They may seem out of reach today, but\nI'm sure\nI'll catch up to them\neventually. ♪",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "So... What should our first goal for next\nyear be?",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "If possible, I'd like to go somewhere new\n\ntogether.",
+            "name": "Супер Крик",
+            "choice_data_list": [
+                "Then how about the Osaka Hai?"
+            ]
+        },
+        {
+            "text": "The Osaka Hai! At the Hanshin\nracecourse, right?\nThat sounds so\nexciting!",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "This year was a tough one, but I hope\nnext year\nstarts on a positive note!\nHehe.",
+            "name": "Супер Крик"
+        },
+        {
+            "text": "...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "S'up, Oguri? Is Creek really buggin' ya\nthat much?",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "I'm not worried yet. But if she keeps\nimproving\nlike that, then she'll be more\nfearsome than\nanyone else.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "She approaches every race calmly,\nresolutely, and\nwithout ever folding.\nThat's the kind of\nUmamusume she is.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "The heck? You suddenly got all serious\non me.",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "Yeah, we have to stay sharp and train\nhard.\nAlso...",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I'm gonna eat till I drop in Osaka.",
+            "name": "Огури Кэп"
+        },
+        {
+            "text": "I should've known you'd be thinkin'\nabout\nsomethin' like that!",
+            "name": "Тамамо Кросс"
+        },
+        {
+            "text": "As things heat up, Супер Крик realizes\nthat she\nstill has a long road ahead of\nher.",
+            "name": "Монолог"
+        }
+    ]
+}
