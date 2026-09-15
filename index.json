@@ -4,11 +4,6 @@
   "zip_dir": "umarusume-jp-main/localized_data",
   "files": [
     {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_ singlemode_breeders_teamrank_progress_text00/tx_uTex_fl_singlemode_breeders_teamrank_progress_text00_0.png",
-      "hash": "7fb9d98b8f09d28b97a663988ee3797f65aabce789c0251fd7da4da79377e4d1",
-      "size": 556679
-    },
-    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_factorresearch_logo00/tx_uTex_fl_factorresearch_logo00_0.png",
       "hash": "c720c4bd8f074a3cbc3ac93b84ed531b07655f82981c8f3e8aecbbd97826c54a",
       "size": 432154
@@ -79,6 +74,11 @@
       "size": 279689
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamrank_progress_text00/tx_uTex_fl_singlemode_breeders_teamrank_progress_text00_0.png",
+      "hash": "7fb9d98b8f09d28b97a663988ee3797f65aabce789c0251fd7da4da79377e4d1",
+      "size": 556679
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamreview_start00/tx_uTex_fl_singlemode_breeders_teamreview_start00_0.png",
       "hash": "34912b32dc8b1d6765d8bc520adebd0cfa2df75adfd6dda533d5dfdcbe7cf5af",
       "size": 1622801
@@ -142,11 +142,6 @@
       "path": "assets/atlas/common/coon.png",
       "hash": "694889dd39783d0a0ebc61d8e83763757bd498ede91141032dcff275f85e3019",
       "size": 2680233
-    },
-    {
-      "path": "assets/atlas/home/home.2png",
-      "hash": "aa5bd38acfb9a794390466c4be93c469df679375d31c7ff6b8764053aec7e773",
-      "size": 1202181
     },
     {
       "path": "assets/atlas/home/home.png",
